@@ -37,7 +37,32 @@ export function createPostgresStore() {
           UNIQUE(property_id, client_id)
         );
         CREATE INDEX IF NOT EXISTS idx_results_property ON results(property_id);
+
+        CREATE TABLE IF NOT EXISTS challenges (
+          id          TEXT PRIMARY KEY,
+          property_id TEXT NOT NULL UNIQUE,
+          created_at  TIMESTAMPTZ NOT NULL DEFAULT now()
+        );
       `);
+    },
+
+    // Opaque share id for a property. Idempotent: one stable id per property.
+    async saveChallenge({ id, propertyId }) {
+      const { rows } = await pool.query(
+        `INSERT INTO challenges (id, property_id) VALUES ($1, $2)
+         ON CONFLICT (property_id) DO UPDATE SET property_id = EXCLUDED.property_id
+         RETURNING id`,
+        [id, propertyId]
+      );
+      return rows[0].id;
+    },
+
+    async resolveChallenge(id) {
+      const { rows } = await pool.query(
+        `SELECT property_id FROM challenges WHERE id = $1`,
+        [id]
+      );
+      return rows.length ? rows[0].property_id : null;
     },
 
     async recordGuess({ propertyId, clientId, attempt, guess, won }) {

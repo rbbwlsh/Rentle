@@ -11,7 +11,7 @@ const MAX_ATTEMPTS = 4;
 // The 4-guess game. Loads the (price-less) listing, collects guesses, shows the
 // hints the server returns, and ends in a win or fail reveal with crowd stats.
 // If `opponent` is set, the player is trying to beat a friend's shared score.
-export default function Game({ id, opponent, onHome }) {
+export default function Game({ challengeId, opponent, onHome }) {
   const [phase, setPhase] = useState('loading'); // loading|error|playing|won|lost
   const [error, setError] = useState('');
   const [listing, setListing] = useState(null);
@@ -26,7 +26,7 @@ export default function Game({ id, opponent, onHome }) {
   useEffect(() => {
     let cancelled = false;
     setPhase('loading');
-    getListing(id)
+    getListing(challengeId)
       .then((data) => {
         if (cancelled) return;
         setListing(data.listing);
@@ -40,14 +40,14 @@ export default function Game({ id, opponent, onHome }) {
     return () => {
       cancelled = true;
     };
-  }, [id]);
+  }, [challengeId]);
 
   async function finish(won, allGuesses, endData) {
     setResult(endData);
     setPhase(won ? 'won' : 'lost');
     // Persist the result + pull crowd stats (best-effort).
     try {
-      const data = await recordResult({ id, won, guesses: allGuesses });
+      const data = await recordResult({ c: challengeId, won, guesses: allGuesses });
       setOutcome(data);
     } catch {
       /* stats are non-essential */
@@ -60,7 +60,7 @@ export default function Game({ id, opponent, onHome }) {
     const nextGuesses = [...guesses, guess];
     setGuesses(nextGuesses);
     try {
-      const res = await submitGuess(id, guess, attempt);
+      const res = await submitGuess(challengeId, guess, attempt);
       if (res.status === 'win' || res.status === 'fail') {
         finish(res.status === 'win', nextGuesses, {
           actual: res.actual,

@@ -33,6 +33,7 @@ async function request(path, options) {
   return data;
 }
 
+// Returns { c } — an opaque challenge id (never the Rightmove id).
 export function createChallenge(url) {
   return request('/api/challenge', {
     method: 'POST',
@@ -41,24 +42,24 @@ export function createChallenge(url) {
   });
 }
 
-export function getListing(id) {
-  return request(`/api/listing?id=${encodeURIComponent(id)}`);
+export function getListing(c) {
+  return request(`/api/listing?c=${encodeURIComponent(c)}`);
 }
 
-export function submitGuess(id, guess, attempt) {
+export function submitGuess(c, guess, attempt) {
   return request('/api/guess', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ id, guess, attempt, clientId: getClientId() }),
+    body: JSON.stringify({ c, guess, attempt, clientId: getClientId() }),
   });
 }
 
 // Record a finished game; returns { resultId, stats, you }.
-export function recordResult({ id, won, guesses, name }) {
+export function recordResult({ c, won, guesses, name }) {
   return request('/api/result', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ id, won, guesses, name, clientId: getClientId() }),
+    body: JSON.stringify({ c, won, guesses, name, clientId: getClientId() }),
   });
 }
 

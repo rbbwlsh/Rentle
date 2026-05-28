@@ -10,6 +10,8 @@
 // search), so every failure path degrades to returning [] — the game then falls
 // back to "too high / too low" hints and still completes.
 
+import { coarseArea } from './rightmove.js';
+
 const BROWSER_HEADERS = {
   'User-Agent':
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 ' +
@@ -104,7 +106,10 @@ async function fetchSearchResults(locationIdentifier) {
   return Array.isArray(props) ? props : [];
 }
 
-// Normalize a Rightmove search-result property into a comparable card.
+// Normalize a Rightmove search-result property into a comparable card. Mirrors
+// the detail of a real ad (beds, baths, type, blurb, photos) but with the
+// address obscured to neighbourhood level — the comparable is a price anchor,
+// not something to go and look up.
 function toComparable(prop, targetLat, targetLng) {
   const lat = prop.location?.latitude;
   const lng = prop.location?.longitude;
@@ -115,20 +120,31 @@ function toComparable(prop, targetLat, targetLng) {
   const amount = prop.price?.amount;
   if (!amount) return null;
 
+  const images = (prop.propertyImages?.images || [])
+    .map((i) => i.srcUrl || i.url)
+    .filter(Boolean);
+  const mainImage = prop.propertyImages?.mainImageSrc || images[0] || null;
+
   return {
-    id: String(prop.id),
     price: Math.round(amount),
     priceLabel:
       prop.price?.displayPrices?.[0]?.displayPrice || `£${Math.round(amount)} pcm`,
     bedrooms: prop.bedrooms ?? null,
+    bathrooms: prop.bathrooms ?? null,
     propertySubType: prop.propertySubType || 'Property',
-    address: prop.displayAddress || '',
-    imageUrl: prop.propertyImages?.mainImageSrc || prop.propertyImages?.images?.[0]?.srcUrl || null,
-    url: prop.propertyUrl
-      ? `https://www.rightmove.co.uk${prop.propertyUrl}`
-      : `https://www.rightmove.co.uk/properties/${prop.id}`,
+    area: coarseArea(prop.displayAddress || ''),
+    summary: cleanSummary(prop.summary),
+    imageUrl: mainImage,
+    imageCount: prop.numberOfImages ?? (images.length || (mainImage ? 1 : 0)),
+    addedOrReduced: prop.addedOrReduced || prop.listingUpdate?.listingUpdateReason || null,
     distanceMiles: Number(haversineMiles(targetLat, targetLng, lat, lng).toFixed(2)),
   };
+}
+
+function cleanSummary(s) {
+  if (!s) return null;
+  const t = String(s).replace(/\s+/g, ' ').trim();
+  return t.length > 220 ? `${t.slice(0, 220)}…` : t;
 }
 
 // Find up to `limit` comparables near the target. Prefers properties within
@@ -167,17 +183,7 @@ export async function findComparables({
 
     const within = comparables.filter((c) => c.distanceMiles <= 0.25);
     const pool = within.length >= limit ? within : comparables;
-
-    // De-dupe distinct properties and take the requested number.
-    const seen = new Set();
-    const picked = [];
-    for (const c of pool) {
-      if (seen.has(c.id)) continue;
-      seen.add(c.id);
-      picked.push(c);
-      if (picked.length >= limit) break;
-    }
-    return picked;
+    return pool.slice(0, limit);
   } catch {
     return [];
   }

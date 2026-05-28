@@ -1,16 +1,18 @@
 // Express API + (in production) static host for the built React client.
 //
-// Endpoints:
-//   POST  /api/challenge   { url }                  -> { id }      (create + warm cache)
-//   GET   /api/listing?id=...                        -> public listing (rent hidden)
-//   POST  /api/guess       { id, guess, attempt, clientId } -> result + hint
-//   POST  /api/result      { id, clientId, ... }     -> { resultId, stats }
-//   GET   /api/result/:id                            -> a shared opponent's score
-//   PATCH /api/result/:id  { name }                  -> rename for the share card
+// Endpoints (challenges are referenced only by an opaque id `c`, never the
+// Rightmove id/URL, so the actual listing can't be looked up during play):
+//   POST  /api/challenge   { url }                   -> { c }      (create + warm cache)
+//   GET   /api/listing?c=...                          -> public listing (rent + address hidden)
+//   POST  /api/guess       { c, guess, attempt, clientId } -> result + hint
+//   POST  /api/result      { c, clientId, ... }       -> { resultId, stats }
+//   GET   /api/result/:id                             -> a shared opponent's score
+//   PATCH /api/result/:id  { name }                   -> rename for the share card
 //
-// The real rent never leaves the server until the player wins or fails: guesses
-// are scored here against the cached listing. Every guess and final result is
-// persisted (Postgres in prod, SQLite locally) to power the aggregate stats.
+// The real rent and the exact address/URL never leave the server until the
+// player wins or fails: guesses are scored here against the cached listing.
+// Every guess and final result is persisted (Postgres in prod, SQLite locally)
+// to power the aggregate stats.
 
 import express from 'express';
 import path from 'node:path';
@@ -47,23 +49,38 @@ async function recordGuessSafe(g) {
   }
 }
 
+// Resolve an opaque challenge id `c` to the underlying Rightmove property id.
+async function challengeProperty(c) {
+  if (!c) throw new ListingError('Missing challenge id.', 400);
+  const store = await getStore();
+  const propertyId = await store.resolveChallenge(String(c));
+  if (!propertyId) {
+    throw new ListingError('That challenge link is invalid or expired.', 404);
+  }
+  return propertyId;
+}
+
 // Create a challenge from a pasted Rightmove URL. Warms the cache so the first
-// play is fast, and surfaces any listing problems (sale, removed, etc.) now.
+// play is fast, surfaces listing problems (sale, removed, etc.) now, and mints
+// an opaque share id so the Rightmove listing can't be found during play.
 app.post('/api/challenge', async (req, res) => {
   try {
-    const id = parseRightmoveUrl(req.body?.url);
-    await getChallenge(id); // validate + warm
-    res.json({ ok: true, id });
+    const propertyId = parseRightmoveUrl(req.body?.url);
+    await getChallenge(propertyId); // validate + warm
+    const store = await getStore();
+    const c = await store.saveChallenge({ id: shortId(10), propertyId });
+    res.json({ ok: true, c });
   } catch (err) {
     sendError(res, err);
   }
 });
 
-// The play payload: everything about the listing except the rent.
+// The play payload: everything about the listing except the rent and anything
+// that pinpoints the address.
 app.get('/api/listing', async (req, res) => {
   try {
-    const id = parseRightmoveUrl(req.query?.id);
-    const { listing } = await getChallenge(id);
+    const propertyId = await challengeProperty(req.query?.c);
+    const { listing } = await getChallenge(propertyId);
     res.json({ ok: true, listing: publicListing(listing), winMargin: WIN_MARGIN });
   } catch (err) {
     sendError(res, err);
@@ -73,7 +90,7 @@ app.get('/api/listing', async (req, res) => {
 // Score a guess and return the next hint (or win/fail).
 app.post('/api/guess', async (req, res) => {
   try {
-    const id = parseRightmoveUrl(req.body?.id);
+    const propertyId = await challengeProperty(req.body?.c);
     const guess = Number(req.body?.guess);
     const attempt = Number(req.body?.attempt);
 
@@ -84,14 +101,14 @@ app.post('/api/guess', async (req, res) => {
       throw new ListingError('Invalid attempt number.', 400);
     }
 
-    const { listing, comparables } = await getChallenge(id);
+    const { listing, comparables } = await getChallenge(propertyId);
     const actual = listing.priceAmount;
     const diff = guess - actual;
     const direction = diff > 0 ? 'high' : 'low';
     const won = Math.abs(diff) <= WIN_MARGIN;
 
     // Persist the guess for aggregate stats (best-effort; never blocks play).
-    recordGuessSafe({ propertyId: id, clientId: req.body?.clientId, attempt, guess, won });
+    recordGuessSafe({ propertyId, clientId: req.body?.clientId, attempt, guess, won });
 
     // Win.
     if (won) {
@@ -136,7 +153,7 @@ app.post('/api/guess', async (req, res) => {
 // on this property. Creates the shareable result id.
 app.post('/api/result', async (req, res) => {
   try {
-    const id = parseRightmoveUrl(req.body?.id);
+    const propertyId = await challengeProperty(req.body?.c);
     const clientId = req.body?.clientId ? String(req.body.clientId) : null;
     const name = sanitizeName(req.body?.name);
     const won = !!req.body?.won;
@@ -147,7 +164,7 @@ app.post('/api/result', async (req, res) => {
       throw new ListingError('No guesses to record.', 400);
     }
 
-    const { listing } = await getChallenge(id);
+    const { listing } = await getChallenge(propertyId);
     const actual = listing.priceAmount;
     const bestDiff = Math.min(...guesses.map((g) => Math.abs(g - actual)));
 
@@ -161,14 +178,14 @@ app.post('/api/result', async (req, res) => {
     const store = await getStore();
     const resultId = await store.recordResult({
       id: shortId(),
-      propertyId: id,
+      propertyId,
       clientId,
       name,
       won,
       attemptWon,
       bestDiff,
     });
-    const stats = await store.getPropertyStats(id, bestDiff);
+    const stats = await store.getPropertyStats(propertyId, bestDiff);
 
     res.json({ ok: true, resultId, stats, you: { won, attemptWon, bestDiff } });
   } catch (err) {
@@ -176,13 +193,24 @@ app.post('/api/result', async (req, res) => {
   }
 });
 
-// Look up a shared result so a friend can try to beat that score.
+// Look up a shared result so a friend can try to beat that score. Returns the
+// opaque challenge id to replay — never the Rightmove id.
 app.get('/api/result/:id', async (req, res) => {
   try {
     const store = await getStore();
     const result = await store.getResult(String(req.params.id));
     if (!result) throw new ListingError('That shared result could not be found.', 404);
-    res.json({ ok: true, result });
+    const c = await store.saveChallenge({ id: shortId(10), propertyId: result.propertyId });
+    res.json({
+      ok: true,
+      result: {
+        challengeId: c,
+        name: result.name,
+        won: result.won,
+        attemptWon: result.attemptWon,
+        bestDiff: result.bestDiff,
+      },
+    });
   } catch (err) {
     sendError(res, err);
   }

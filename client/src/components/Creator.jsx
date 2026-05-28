@@ -16,8 +16,8 @@ export default function Creator() {
     setShareUrl('');
     setLoading(true);
     try {
-      const { id } = await createChallenge(url);
-      const link = `${window.location.origin}${window.location.pathname}?id=${id}`;
+      const { c } = await createChallenge(url);
+      const link = `${window.location.origin}${window.location.pathname}?c=${c}`;
       setShareUrl(link);
     } catch (err) {
       setError(err.message);

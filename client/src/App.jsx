@@ -4,12 +4,12 @@ import Game from './components/Game.jsx';
 import { getResult } from './api.js';
 
 // Tiny "router" based on query params:
-//   ?r=<resultId>  -> play a friend's shared challenge (beat their score)
-//   ?id=<propId>   -> play a property someone shared
-//   (neither)      -> the creator (home) screen
+//   ?r=<resultId>     -> play a friend's shared challenge (beat their score)
+//   ?c=<challengeId>  -> play a shared challenge (opaque id, no Rightmove id)
+//   (neither)         -> the creator (home) screen
 function readRoute() {
   const params = new URLSearchParams(window.location.search);
-  return { resultId: params.get('r'), id: params.get('id') };
+  return { resultId: params.get('r'), challengeId: params.get('c') };
 }
 
 export default function App() {
@@ -39,10 +39,10 @@ export default function App() {
 
   const goHome = () => {
     window.history.pushState({}, '', window.location.pathname);
-    setRoute({ resultId: null, id: null });
+    setRoute({ resultId: null, challengeId: null });
   };
 
-  const playingId = opponent?.propertyId || route.id;
+  const playingChallenge = opponent?.challengeId || route.challengeId;
 
   return (
     <div className="min-h-screen flex flex-col items-center px-4 py-8 sm:py-12">
@@ -76,8 +76,8 @@ export default function App() {
             </button>
           </div>
         )}
-        {playingId && !(route.resultId && (loadingOpponent || opponentError)) ? (
-          <Game id={playingId} opponent={opponent} onHome={goHome} />
+        {playingChallenge && !(route.resultId && (loadingOpponent || opponentError)) ? (
+          <Game challengeId={playingChallenge} opponent={opponent} onHome={goHome} />
         ) : (
           !route.resultId && <Creator />
         )}

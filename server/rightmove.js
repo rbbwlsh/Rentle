@@ -165,33 +165,105 @@ function normalize(pageModel, id) {
     : [];
 
   const sizings = Array.isArray(p.sizings) ? p.sizings : [];
-  const sqft = sizings.find((s) => /sq.?ft/i.test(s.unit || ''));
+  const sqftEntry = sizings.find((s) => /sq.?ft/i.test(s.unit || ''));
+  const sqmEntry = sizings.find((s) => /sq.?m|m²/i.test(s.unit || ''));
+  const sizeSqFt = sqftEntry
+    ? Math.round(sqftEntry.maximumSize || sqftEntry.minimumSize)
+    : sqmEntry
+      ? Math.round((sqmEntry.maximumSize || sqmEntry.minimumSize) * 10.7639)
+      : null;
+  const sizeSqM = sqmEntry
+    ? Math.round(sqmEntry.maximumSize || sqmEntry.minimumSize)
+    : sizeSqFt
+      ? Math.round(sizeSqFt / 10.7639)
+      : null;
+
+  const lettings = p.lettings || {};
+  const livingCosts = p.livingCosts || {};
+
+  // The full set of "ad" facts a property person would scan, pulled from the
+  // same fields Rightmove's own listing page shows.
+  const details = {
+    propertyType: p.propertySubType || p.propertyType || 'Property',
+    bedrooms: p.bedrooms ?? null,
+    bathrooms: p.bathrooms ?? null,
+    sizeSqFt,
+    sizeSqM,
+    letType: cleanStr(lettings.letType),
+    furnishType: cleanStr(lettings.furnishType),
+    letAvailableDate: cleanStr(lettings.letAvailableDate),
+    deposit: Number.isFinite(lettings.deposit) ? lettings.deposit : null,
+    minimumTermMonths: Number.isFinite(lettings.minimumTermInMonths)
+      ? lettings.minimumTermInMonths
+      : null,
+    councilTaxBand: cleanStr(livingCosts.councilTaxBand),
+  };
+
+  const displayAddress = p.address?.displayAddress || '';
 
   return {
     id: String(id),
-    displayAddress: p.address?.displayAddress || 'Address hidden',
+    // Server-only locating fields (stripped from the public payload).
+    displayAddress,
     outcode: p.address?.outcode || null,
     incode: p.address?.incode || null,
-    priceAmount, // monthly £, server-side only
-    priceLabel: p.prices?.primaryPrice || `£${priceAmount} pcm`,
-    bedrooms: p.bedrooms ?? null,
-    bathrooms: p.bathrooms ?? null,
-    propertySubType: p.propertySubType || p.propertyType || 'Property',
-    description: htmlToText(p.text?.description || ''),
-    keyFeatures: Array.isArray(p.keyFeatures) ? p.keyFeatures : [],
-    images,
-    sizeSqFt: sqft ? Math.round(sqft.minimumSize || sqft.maximumSize) : null,
     latitude: p.location?.latitude ?? null,
     longitude: p.location?.longitude ?? null,
+    priceAmount, // monthly £, server-side only
+    priceLabel: p.prices?.primaryPrice || `£${priceAmount} pcm`,
+    rightmoveUrl: `https://www.rightmove.co.uk/properties/${id}`,
+
+    // Public, address-obscured fields.
+    area: coarseArea(displayAddress, p.address?.outcode), // e.g. "South Yardley, Birmingham"
+    bedrooms: p.bedrooms ?? null,
+    bathrooms: p.bathrooms ?? null,
+    propertySubType: details.propertyType,
+    details,
+    sizeSqFt,
+    sizeSqM,
+    description: htmlToText(p.text?.description || ''),
+    keyFeatures: Array.isArray(p.keyFeatures) ? p.keyFeatures : [],
+    tags: Array.isArray(p.tags) ? p.tags.filter(Boolean) : [],
+    images,
+    imageCount: images.length,
     nearestStations: Array.isArray(p.nearestStations)
-      ? p.nearestStations.slice(0, 3).map((s) => ({
+      ? p.nearestStations.slice(0, 4).map((s) => ({
           name: s.name,
           miles: s.distance,
+          types: Array.isArray(s.types) ? s.types : [],
         }))
       : [],
     agent: p.customer?.branchDisplayName || p.customer?.companyName || null,
-    rightmoveUrl: `https://www.rightmove.co.uk/properties/${id}`,
   };
+}
+
+function cleanStr(v) {
+  if (v == null) return null;
+  const s = String(v).trim();
+  return s && s.toLowerCase() !== 'ask agent' ? s : s || null;
+}
+
+// Reduce a full Rightmove address to a neighbourhood-level label so the exact
+// property can't be googled straight away. Drops house/flat numbers, the
+// street, and the postcode — keeping the locality + town (e.g.
+// "Church Road, South Yardley, Birmingham, B25" -> "South Yardley, Birmingham").
+export function coarseArea(displayAddress, outcode) {
+  if (!displayAddress) return outcode ? `${outcode} area` : 'Location hidden';
+  const postcode = /\b[A-Z]{1,2}\d[A-Z\d]?(?:\s*\d[A-Z]{2})?\b/i;
+  const street =
+    /\b(road|rd|street|st|lane|ln|avenue|ave|close|cl|drive|dr|way|court|ct|crescent|cres|place|pl|terrace|tce|grove|gardens|gdns|walk|row|hill|mews|square|sq|parade|rise|view|gate|green|wharf|quay|boulevard|broadway|approach|vale|fields?|meadow|chase|copse|spinney)\b/i;
+  const unit = /^(flat|apartment|apt|unit|room|studio|penthouse|plot|no\.?|\d+[a-z]?)\b/i;
+
+  const parts = displayAddress
+    .split(',')
+    .map((s) => s.trim())
+    .filter(Boolean);
+
+  let kept = parts.filter((p) => !street.test(p) && !postcode.test(p) && !unit.test(p));
+  if (kept.length === 0) kept = parts.filter((p) => !postcode.test(p)).slice(-1);
+  // Keep the last two surviving parts (locality, town).
+  kept = kept.slice(-2);
+  return kept.join(', ') || (outcode ? `${outcode} area` : 'Location hidden');
 }
 
 function parsePriceString(str) {
@@ -241,8 +313,21 @@ export async function fetchListing(id) {
   return normalize(pageModel, id);
 }
 
-// Strip the answer (and other server-only fields) for the play payload.
+// Strip the answer AND every field that could reveal the exact property (the
+// Rightmove id/URL, precise coordinates, full address, postcode) for the play
+// payload. Players only ever see the obscured `area`.
 export function publicListing(listing) {
-  const { priceAmount, priceLabel, ...rest } = listing;
+  const {
+    priceAmount,
+    priceLabel,
+    rightmoveUrl,
+    id,
+    displayAddress,
+    outcode,
+    incode,
+    latitude,
+    longitude,
+    ...rest
+  } = listing;
   return rest;
 }

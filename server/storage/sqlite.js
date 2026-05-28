@@ -38,7 +38,32 @@ export function createSqliteStore() {
           UNIQUE(property_id, client_id)
         );
         CREATE INDEX IF NOT EXISTS idx_results_property ON results(property_id);
+
+        CREATE TABLE IF NOT EXISTS challenges (
+          id          TEXT PRIMARY KEY,
+          property_id TEXT NOT NULL UNIQUE,
+          created_at  TEXT NOT NULL DEFAULT (datetime('now'))
+        );
       `);
+    },
+
+    // Opaque share id for a property. Idempotent: one stable id per property,
+    // so the Rightmove id is never exposed to the client.
+    async saveChallenge({ id, propertyId }) {
+      const existing = db
+        .prepare(`SELECT id FROM challenges WHERE property_id = ?`)
+        .get(propertyId);
+      if (existing) return existing.id;
+      db.prepare(`INSERT INTO challenges (id, property_id) VALUES (?, ?)`).run(
+        id,
+        propertyId
+      );
+      return id;
+    },
+
+    async resolveChallenge(id) {
+      const row = db.prepare(`SELECT property_id FROM challenges WHERE id = ?`).get(id);
+      return row ? row.property_id : null;
     },
 
     async recordGuess({ propertyId, clientId, attempt, guess, won }) {
