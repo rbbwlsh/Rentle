@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  @apply bg-gradient-to-b from-brand-50 to-rose-100 text-slate-800 antialiased;
+  min-height: 100vh;
+  margin: 0;
+}
+
+/* Accent the range slider thumb so it matches the brand colour. */
+input[type='range'] {
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+  cursor: pointer;
+}
+input[type='range']::-webkit-slider-runnable-track {
+  height: 8px;
+  border-radius: 9999px;
+  background: theme('colors.brand.200');
+}
+input[type='range']::-moz-range-track {
+  height: 8px;
+  border-radius: 9999px;
+  background: theme('colors.brand.200');
+}
+input[type='range']::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  margin-top: -8px;
+  height: 24px;
+  width: 24px;
+  border-radius: 9999px;
+  background: theme('colors.brand.600');
+  border: 3px solid white;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+}
+input[type='range']::-moz-range-thumb {
+  height: 24px;
+  width: 24px;
+  border-radius: 9999px;
+  background: theme('colors.brand.600');
+  border: 3px solid white;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+}
