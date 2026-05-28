@@ -1,7 +1,7 @@
 {
-  "name": "rightmove-rent-roulette",
+  "name": "rentle",
   "version": "1.0.0",
-  "description": "Guess-the-rent game powered by any Rightmove listing you paste in. Create a challenge, share the link, see who guesses closest.",
+  "description": "Rentle — guess-the-rent game powered by any Rightmove listing you paste in. Create a challenge, share the link, see who guesses closest.",
   "private": true,
   "type": "module",
   "scripts": {
@@ -16,7 +16,8 @@
     "node": ">=18"
   },
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "pg": "^8.12.0"
   },
   "devDependencies": {
     "concurrently": "^8.2.2"

@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
-import { getListing, submitGuess } from '../api.js';
+import { getListing, submitGuess, recordResult } from '../api.js';
+import { formatGbp } from '../format.js';
 import ListingCard from './ListingCard.jsx';
 import GuessControl from './GuessControl.jsx';
 import HintList from './HintList.jsx';
@@ -8,8 +9,9 @@ import Reveal from './Reveal.jsx';
 const MAX_ATTEMPTS = 4;
 
 // The 4-guess game. Loads the (price-less) listing, collects guesses, shows the
-// hints the server returns, and ends in a win or fail reveal.
-export default function Game({ id, onHome }) {
+// hints the server returns, and ends in a win or fail reveal with crowd stats.
+// If `opponent` is set, the player is trying to beat a friend's shared score.
+export default function Game({ id, opponent, onHome }) {
   const [phase, setPhase] = useState('loading'); // loading|error|playing|won|lost
   const [error, setError] = useState('');
   const [listing, setListing] = useState(null);
@@ -19,6 +21,7 @@ export default function Game({ id, onHome }) {
   const [guesses, setGuesses] = useState([]);
   const [submitting, setSubmitting] = useState(false);
   const [result, setResult] = useState(null); // { actual, priceLabel, rightmoveUrl }
+  const [outcome, setOutcome] = useState(null); // { resultId, stats, you } from server
 
   useEffect(() => {
     let cancelled = false;
@@ -39,6 +42,18 @@ export default function Game({ id, onHome }) {
     };
   }, [id]);
 
+  async function finish(won, allGuesses, endData) {
+    setResult(endData);
+    setPhase(won ? 'won' : 'lost');
+    // Persist the result + pull crowd stats (best-effort).
+    try {
+      const data = await recordResult({ id, won, guesses: allGuesses });
+      setOutcome(data);
+    } catch {
+      /* stats are non-essential */
+    }
+  }
+
   async function handleGuess(guess) {
     if (submitting) return;
     setSubmitting(true);
@@ -47,19 +62,17 @@ export default function Game({ id, onHome }) {
     try {
       const res = await submitGuess(id, guess, attempt);
       if (res.status === 'win' || res.status === 'fail') {
-        setResult({
+        finish(res.status === 'win', nextGuesses, {
           actual: res.actual,
           priceLabel: res.priceLabel,
           rightmoveUrl: res.rightmoveUrl,
         });
-        setPhase(res.status === 'win' ? 'won' : 'lost');
       } else {
         setHints((h) => [...h, res.hint]);
         setAttempt((a) => a + 1);
       }
     } catch (err) {
-      // Roll back the optimistic guess so the player can retry.
-      setGuesses(guesses);
+      setGuesses(guesses); // roll back the optimistic guess
       setError(err.message);
     } finally {
       setSubmitting(false);
@@ -103,6 +116,8 @@ export default function Game({ id, onHome }) {
         priceLabel={result.priceLabel}
         bestGuess={bestGuess}
         rightmoveUrl={result.rightmoveUrl}
+        outcome={outcome}
+        opponent={opponent}
         onHome={onHome}
       />
     );
@@ -111,14 +126,14 @@ export default function Game({ id, onHome }) {
   // phase === 'playing'
   return (
     <div className="space-y-5">
+      {opponent && <OpponentBanner opponent={opponent} />}
+
       <ListingCard listing={listing} />
 
       <HintList hints={hints} />
 
       {error && (
-        <p className="rounded-lg bg-rose-50 px-3 py-2 text-sm text-rose-700">
-          {error}
-        </p>
+        <p className="rounded-lg bg-rose-50 px-3 py-2 text-sm text-rose-700">{error}</p>
       )}
 
       <GuessControl
@@ -129,8 +144,22 @@ export default function Game({ id, onHome }) {
       />
 
       <p className="text-center text-xs text-slate-400">
-        Guess the monthly rent. Get within £50 to win. Wrong guesses unlock
-        hints.
+        Guess the monthly rent. Get within £50 to win. Wrong guesses unlock hints.
+      </p>
+    </div>
+  );
+}
+
+function OpponentBanner({ opponent }) {
+  const name = opponent.name || 'A friend';
+  const summary = opponent.won
+    ? `won on guess ${opponent.attemptWon}`
+    : `got within ${formatGbp(opponent.bestDiff)} but didn't crack it`;
+  return (
+    <div className="rounded-2xl bg-brand-600 px-5 py-4 text-center text-white shadow-lg">
+      <p className="text-sm font-semibold">🏁 Beat {name}</p>
+      <p className="text-xs text-brand-100">
+        They {summary}. Can you do better?
       </p>
     </div>
   );
