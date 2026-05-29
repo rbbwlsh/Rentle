@@ -7,6 +7,8 @@
 // (The fetch must run server-side: the browser is blocked by CORS and
 // Rightmove's anti-bot, so the client can never read this directly.)
 
+import { fetchWithRetry } from './fetchRetry.js';
+
 const BROWSER_HEADERS = {
   'User-Agent':
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 ' +
@@ -283,7 +285,7 @@ export async function fetchListing(id) {
   const url = `https://www.rightmove.co.uk/properties/${id}`;
   let res;
   try {
-    res = await fetch(url, { headers: BROWSER_HEADERS, redirect: 'follow' });
+    res = await fetchWithRetry(url, { headers: BROWSER_HEADERS, redirect: 'follow' });
   } catch (err) {
     throw new ListingError(
       `Could not reach Rightmove (${err.message}). Check your connection.`,

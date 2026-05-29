@@ -23,11 +23,39 @@ import { getStore, shortId } from './storage/index.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const app = express();
+app.set('trust proxy', 1); // Render/CDN sits in front; trust X-Forwarded-For for req.ip
 app.use(express.json());
 
 const PORT = process.env.PORT || 3001;
 const WIN_MARGIN = 50; // £ pcm — a guess this close (or closer) wins.
 const MAX_ATTEMPTS = 4;
+
+// Liveness probe for the host's health checks.
+app.get('/healthz', (req, res) => res.json({ ok: true }));
+
+// Lightweight in-memory rate limiter (single instance is fine for this scale).
+function rateLimit({ windowMs, max }) {
+  const hits = new Map(); // ip -> number[] (timestamps)
+  return (req, res, next) => {
+    const now = Date.now();
+    const arr = (hits.get(req.ip) || []).filter((t) => now - t < windowMs);
+    arr.push(now);
+    hits.set(req.ip, arr);
+    if (hits.size > 5000) {
+      // occasional prune so the map can't grow unbounded
+      for (const [ip, ts] of hits) if (!ts.some((t) => now - t < windowMs)) hits.delete(ip);
+    }
+    if (arr.length > max) {
+      return res
+        .status(429)
+        .json({ ok: false, error: 'Too many requests — please slow down a moment.' });
+    }
+    next();
+  };
+}
+// Creating a challenge triggers a scrape, so it's limited more tightly.
+app.use('/api/challenge', rateLimit({ windowMs: 60_000, max: 15 }));
+app.use('/api/', rateLimit({ windowMs: 60_000, max: 90 }));
 
 function sendError(res, err) {
   if (err instanceof ListingError) {
@@ -236,11 +264,90 @@ function sanitizeName(raw) {
   return name || null;
 }
 
-// Production: serve the built client and let the SPA handle client-side routes.
+// Unmatched API routes should 404 as JSON, not fall through to the SPA.
+app.use('/api', (req, res) => res.status(404).json({ ok: false, error: 'Not found.' }));
+
+// Production: serve the built client. For shared links (?c= / ?r=) we inject
+// per-challenge Open Graph tags so previews in WhatsApp/iMessage/etc. show a
+// "guess the rent" card — without ever leaking the price.
 if (process.env.NODE_ENV === 'production') {
   const dist = path.join(__dirname, '..', 'client', 'dist');
-  app.use(express.static(dist));
-  app.get('*', (req, res) => res.sendFile(path.join(dist, 'index.html')));
+  const fs = await import('node:fs');
+  const template = fs.readFileSync(path.join(dist, 'index.html'), 'utf8');
+
+  app.use(express.static(dist, { index: false }));
+  app.get('*', async (req, res) => {
+    res.setHeader('Content-Type', 'text/html; charset=utf-8');
+    res.send(await injectMeta(template, req));
+  });
+}
+
+const esc = (s) =>
+  String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+
+// Build link-preview metadata for a request, answer-free.
+async function buildMeta(req) {
+  const origin = `${req.protocol}://${req.get('host')}`;
+  const meta = {
+    title: 'Rentle — Guess the Rent',
+    description:
+      'Paste a Rightmove listing, share the link, and see who can guess the rent.',
+    image: `${origin}/og.png`,
+    url: origin + req.originalUrl,
+  };
+  try {
+    const store = await getStore();
+    if (req.query.r) {
+      const result = await store.getResult(String(req.query.r));
+      if (result) {
+        const { listing } = await getChallenge(result.propertyId);
+        const who = result.name || 'A friend';
+        const did = result.won
+          ? `won on guess ${result.attemptWon}`
+          : 'couldn’t crack it';
+        meta.title = `Beat ${who} on Rentle`;
+        meta.description = `${who} ${did} on this ${describe(listing)}. Can you guess the rent and beat them?`;
+        if (listing.images?.[0]) meta.image = listing.images[0];
+      }
+    } else if (req.query.c) {
+      const propertyId = await store.resolveChallenge(String(req.query.c));
+      if (propertyId) {
+        const { listing } = await getChallenge(propertyId);
+        meta.title = `Guess the rent — ${listing.area}`;
+        meta.description = `How much is this ${describe(listing)}? Take a guess on Rentle.`;
+        if (listing.images?.[0]) meta.image = listing.images[0];
+      }
+    }
+  } catch {
+    /* fall back to defaults */
+  }
+  return meta;
+}
+
+function describe(listing) {
+  const beds = listing.bedrooms != null ? `${listing.bedrooms}-bed ` : '';
+  const type = (listing.propertySubType || 'property').toLowerCase();
+  return `${beds}${type} in ${listing.area}`;
+}
+
+async function injectMeta(template, req) {
+  const m = await buildMeta(req);
+  const tags = [
+    `<title>${esc(m.title)}</title>`,
+    `<meta name="description" content="${esc(m.description)}" />`,
+    `<meta property="og:type" content="website" />`,
+    `<meta property="og:site_name" content="Rentle" />`,
+    `<meta property="og:title" content="${esc(m.title)}" />`,
+    `<meta property="og:description" content="${esc(m.description)}" />`,
+    `<meta property="og:image" content="${esc(m.image)}" />`,
+    `<meta property="og:url" content="${esc(m.url)}" />`,
+    `<meta name="twitter:card" content="summary_large_image" />`,
+    `<meta name="twitter:title" content="${esc(m.title)}" />`,
+    `<meta name="twitter:description" content="${esc(m.description)}" />`,
+    `<meta name="twitter:image" content="${esc(m.image)}" />`,
+  ].join('\n    ');
+  // Replace the static block between the markers (see client/index.html).
+  return template.replace(/<!--META_START-->[\s\S]*?<!--META_END-->/, tags);
 }
 
 // Only start listening when run directly (so tests can import `app`).

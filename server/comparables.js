@@ -11,6 +11,7 @@
 // back to "too high / too low" hints and still completes.
 
 import { coarseArea } from './rightmove.js';
+import { fetchWithRetry } from './fetchRetry.js';
 
 const BROWSER_HEADERS = {
   'User-Agent':
@@ -42,7 +43,7 @@ async function resolveLocationIdentifier(outcode) {
     '/'
   )}/`;
   try {
-    const res = await fetch(url, { headers: BROWSER_HEADERS });
+    const res = await fetchWithRetry(url, { headers: BROWSER_HEADERS }, { attempts: 2 });
     if (!res.ok) return null;
     const data = await res.json();
     const match = data?.typeAheadLocations?.[0];
@@ -98,7 +99,7 @@ async function fetchSearchResults(locationIdentifier) {
     keywords: '',
   });
   const url = `https://www.rightmove.co.uk/property-to-rent/find.html?${params}`;
-  const res = await fetch(url, { headers: BROWSER_HEADERS });
+  const res = await fetchWithRetry(url, { headers: BROWSER_HEADERS }, { attempts: 2 });
   if (!res.ok) return [];
   const html = await res.text();
   const model = extractJsonModel(html);
