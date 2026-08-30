@@ -1,0 +1,84 @@
+{
+ "id": "92539230",
+ "displayAddress": "Wellington Quarter, West Point, Leeds",
+ "outcode": "LS1",
+ "incode": "4JN",
+ "latitude": 53.795932,
+ "longitude": -1.55382,
+ "priceAmount": 995,
+ "priceLabel": "£995 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92539230",
+ "area": "West Point, Leeds",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "25/09/2026",
+  "deposit": 1148,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This good sized apartment is centrally located in the ever popular West Point development, just minutes from the train station and numerous bars, restaurants and coffee shops.\n\nThe property boasts two double bedrooms, family bathroom, en-suite, modern furnishings and an open plan kitchen/living area with balcony.  The building benefits from secure video entry and a concierge service.\n\nAvailable in September. Call us on   to book your viewing!\n\n*SECURITY DEPOSIT EQUIVALENT TO 5 WEEKS RENT*\n\nLOCATION, LOCATION, LOCATION! THIS CONTEMPORARY APARMTENT IS SITUATED IN THE HEART OF THE CITY IN THE POPULAR WEST POINT DEVELOPMENT - JUST MINUTES TO THE TRAIN STATION, SHOPS, BARS AND RESTAURANTS! AVAILABLE IN AUGUST. CALL US ON   TO BOOK A VIEWING\n\n2 Bedrooms\n\n. - 2 Bathrooms",
+ "keyFeatures": [
+  "FABULOUS TWO BED APARTMENT",
+  "AVAILABLE IN SEPTEMBER",
+  "LARGE PRIVATE BALCONY",
+  "0.2 MILES FROM LEEDS TRAIN STATION",
+  "2ND FLOOR",
+  "SECURITY DEPOSIT EQUIVALENT TO 5 WEEKS RENT",
+  "EN-SUITE TO MASTER  BEDROOM",
+  "EPC: C",
+  "TAX BAND: C",
+  "OPEN-PLAN LIVING"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/167872f8a/92539230/167872f8a1fcb8a8b266b7ddd27d91b7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e27b9c59e/92539230/e27b9c59e2ef33cc98175e86834b17df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fa83ae098/92539230/fa83ae098595feb62e615c23e4fe8579.jpeg",
+  "https://media.rightmove.co.uk/property-photo/66e0d05ab/92539230/66e0d05ab3b17229c680f6c90a417cbe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9bc827409/92539230/9bc8274090e417c2e7489c7df0cec43b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/86a59681c/92539230/86a59681c8700016cc4172ae560e1010.jpeg",
+  "https://media.rightmove.co.uk/property-photo/86614901a/92539230/86614901a7d5e6c0566eb4f26ce15b5a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5510a891b/92539230/5510a891b03c41f1c74f387ec2692ae1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/21c8d4f52/92539230/21c8d4f52bc07b1df046ee481b1a34c6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5d2d3fa39/92539230/5d2d3fa39cb79fc4578b4d7ace0947fb.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 0.30515311699877484,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 1.4893999311915616,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 2.246167697293868,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Hunters, Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS1",
+ "scrapedAt": "2026-08-30T10:11:38.614Z"
+}

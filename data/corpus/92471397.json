@@ -1,0 +1,76 @@
+{
+ "id": "92471397",
+ "displayAddress": "Skinner Street, Leeds, LS1",
+ "outcode": "LS1",
+ "incode": "4ND",
+ "latitude": 53.797503,
+ "longitude": -1.558682,
+ "priceAmount": 1987,
+ "priceLabel": "£1,987 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92471397",
+ "area": "Leeds",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": 966,
+  "sizeSqM": 90,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Ask agent",
+  "deposit": 0,
+  "minimumTermMonths": null,
+  "councilTaxBand": "TBC"
+ },
+ "sizeSqFt": 966,
+ "sizeSqM": 90,
+ "description": "Step into contemporary city living with our highly sought-after stylish apartments at Triangle Yard in Leeds City Centre!\n\nOffering a selection of stunning 1, 2, and 3-bedroom apartments, these homes boast top-tier amenities including a state-of-the-art gym and a dedicated co-working space, all situated in a prime, highly sought-after location\n\n**Must have signed up by 30th Sept 2026 and moved in by 18th October 2026 to get £1,000 off your 3rd month's rent**\n\n CBRE Limited on its behalf and for the Vendors or Lessors of this property whose Agents they are, give notice that:\n\n1. These particulars are set out as a general outline only for guidance to intending Purchasers or Lessees, and do not constitute any part of an offer or contract.  \n2.Whilst CBRE Limited uses reasonable endeavours to ensure that the information in these particulars is materially correct, some of the information is derived from third parties and has not been verified by us. Any intending Purchasers, Lessees or Third Parties should not rely on this information as a statement or representation of fact, but must satisfy themselves by their own inspection, searches, enquiries, surveys or otherwise as to the accuracy and completeness.\n3. To the maximum extent permitted by law CBRE Limited accepts no liability or responsibility for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss of profits resulting from direct or indirect actions based upon the content of these particulars. No person in the employment of CBRE Limited has any authority to make any representation or warranty whatsoever in relation to this property.\n4. Unless otherwise stated, all purchase prices and rents are correct at the date of publication and, unless otherwise stated,  are quoted exclusive of VAT.  Lease details and service ground rent (where applicable) are given as a guide only and should be checked and confirmed by your solicitor prior to exchange of contracts.",
+ "keyFeatures": [],
+ "tags": [
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/68143cffb/92471397/68143cffbe5c4618e1fbaacbc87a963f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/848b5eb89/92471397/848b5eb8911fb8ab05b6a2ad15dd4e25.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fb3395d75/92471397/fb3395d75c71690694005e17a5c2db0d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/060af10e4/92471397/060af10e45a165e750fc6802ee1b208a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/20a6ec09e/92471397/20a6ec09ebc446a7ad1d0b027fb59b35.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d8f2000f0/92471397/d8f2000f0a801e9f40fe560acb912d78.jpeg",
+  "https://media.rightmove.co.uk/property-photo/21b4b05ae/92471397/21b4b05ae87ca1c2f27e890ec045643e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/329a8bead/92471397/329a8bead5c0e50cb024644d44c87333.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dc20b610e/92471397/dc20b610ee051ce26b99ae9aa0afc684.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9c0cc1603/92471397/9c0cc160338988018350ab547c69a1b8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/93ea5f07a/92471397/93ea5f07aa4244409aee622886b0242c.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 0.5318710279861764,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 1.2779246167438585,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 2.0269465204437997,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "CBRE Residential, New Developments",
+ "city": "Leeds",
+ "sourceOutcode": "LS1",
+ "scrapedAt": "2026-08-30T10:11:33.887Z"
+}

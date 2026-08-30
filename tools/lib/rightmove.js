@@ -55,13 +55,39 @@ export function parseRightmoveUrl(input) {
   );
 }
 
-// Pull the `window.PAGE_MODEL = {...}` object out of the page HTML.
+// Pull the page model out of the page HTML. Two formats exist:
+//   * legacy: `window.PAGE_MODEL = {...plain JSON...}`
+//   * current: `window.__PAGE_MODEL = {"data": "<flattened>", "encoding": ...}`
+//     where `data` is a devalue-style flat array — index 0 is the root, object
+//     values and array elements are indices into the array — that needs
+//     hydrating back into the same shape the legacy pages carried.
 export function extractPageModel(html) {
-  // The assignment is on a single (very long) line. Match the balanced object
-  // by scanning from the first `{` after the assignment.
-  const marker = html.indexOf('window.PAGE_MODEL');
-  if (marker === -1) return null;
-  const start = html.indexOf('{', marker);
+  const plain = scanObject(html, 'window.PAGE_MODEL');
+  if (plain?.propertyData) return plain;
+
+  const wrapped = scanObject(html, 'window.__PAGE_MODEL');
+  if (wrapped) {
+    try {
+      const flat =
+        typeof wrapped.data === 'string' ? JSON.parse(wrapped.data) : wrapped.data;
+      if (Array.isArray(flat) && flat.length) {
+        const model = hydrateFlat(0, flat, new Map());
+        if (model?.propertyData) return model;
+      }
+    } catch {
+      return null;
+    }
+  }
+  return null;
+}
+
+// Find `marker` and parse the balanced `{...}` object that follows it. The
+// assignment is on a single (very long) line, so the object is matched by
+// scanning braces (string- and escape-aware) from the first `{`.
+function scanObject(html, marker) {
+  const at = html.indexOf(marker);
+  if (at === -1) return null;
+  const start = html.indexOf('{', at);
   if (start === -1) return null;
 
   let depth = 0;
@@ -80,9 +106,8 @@ export function extractPageModel(html) {
     else if (ch === '}') {
       depth--;
       if (depth === 0) {
-        const json = html.slice(start, i + 1);
         try {
-          return JSON.parse(json);
+          return JSON.parse(html.slice(start, i + 1));
         } catch {
           return null;
         }
@@ -90,6 +115,43 @@ export function extractPageModel(html) {
     }
   }
   return null;
+}
+
+// Rebuild a value from a devalue-style flat array. Primitives are stored as
+// literal nodes; objects map keys to indices; arrays hold indices (a string
+// first element marks a tagged special type, e.g. ["Date", <index>]).
+// Negative indices encode literals that JSON can't: undefined, NaN, ±Infinity.
+function hydrateFlat(index, flat, cache) {
+  if (index === -1) return undefined;
+  if (index === -3) return NaN;
+  if (index === -4) return Infinity;
+  if (index === -5) return -Infinity;
+  if (index === -6) return -0;
+  if (cache.has(index)) return cache.get(index);
+
+  const node = flat[index];
+  if (node === null || typeof node !== 'object') {
+    cache.set(index, node);
+    return node;
+  }
+  if (Array.isArray(node)) {
+    if (typeof node[0] === 'string') {
+      // Tagged type. Dates matter (letAvailableDate); anything else keeps its
+      // payload values so normalize() can still read what it needs.
+      if (node[0] === 'Date') return new Date(flat[node[1]] ?? node[1]);
+      const out = node.slice(1).map((i) => hydrateFlat(i, flat, cache));
+      cache.set(index, out);
+      return out;
+    }
+    const out = [];
+    cache.set(index, out);
+    for (const i of node) out.push(hydrateFlat(i, flat, cache));
+    return out;
+  }
+  const out = {};
+  cache.set(index, out);
+  for (const [key, i] of Object.entries(node)) out[key] = hydrateFlat(i, flat, cache);
+  return out;
 }
 
 // Strip HTML tags/entities from Rightmove's description into readable text.

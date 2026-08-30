@@ -1,0 +1,78 @@
+{
+ "id": "92543247",
+ "displayAddress": "Greek Street, Leeds, LS1",
+ "outcode": "LS1",
+ "incode": "5RW",
+ "latitude": 53.798557,
+ "longitude": -1.547812,
+ "priceAmount": 950,
+ "priceLabel": "£950 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92543247",
+ "area": "Leeds",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "10/10/2026",
+  "deposit": 1096,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Deposit free option available //Fully Furnished //High ceilings //Open-plan living space//2nd floor //Character conversion //Few minute walk to Leeds station //Local shops and restaurants nearby\n\n\rPark Row Apartments is the conversion of a 19th century building formerly used as offices, located in the city centre. The apartments themselves have a modern finish but retain character. The train station is a 2-minute walk away and the development is also close to Leeds General Infirmary and The Law Courts, not to mention more bars and restaurants than you could possibly wish for. \n\nMaterial information for consideration:  \n\nDeposit: £1,063\nHolding fee: £212\n\nCouncil tax: C\nEPC: C \n\nLeasehold property   \nNo parking included  \n\nBroadband: Standard highest download speed: 23mbps. Standard highest upload speed: 1mbps.   \n\nMobile availability: EE likely to have good coverage. Three likely to have good coverage. O2 likely to have good coverage. Vodafone likely to have good coverage.    \n\nUtilities: No gas. Water supplied on a meter. Electric mains supplied on standard meters.  \n\nUtilities: No gas. Water supplied on a meter. Electric mains supplied on standard meters.\n\nFor more information, or to book a viewing please contact our rentals team via   /",
+ "keyFeatures": [
+  "Deposit free option available",
+  "Fully Furnished",
+  "High ceilings",
+  "2nd floor",
+  "Open-plan living space",
+  "Character conversion",
+  "Few minute walk to Leeds station",
+  "Local shops and restaurants nearby"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f05e738a1/92543247/f05e738a1206450450d8f3a9cb1db8b4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/def59f179/92543247/def59f1792b9188f0f644e975fecb8f9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ca209e453/92543247/ca209e453a74122699aade0fd4556209.jpeg",
+  "https://media.rightmove.co.uk/property-photo/805cf2af5/92543247/805cf2af59c3f6b28b0debd70d68b08d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9e17e7994/92543247/9e17e7994bb86c8c95f85ec27189c9ce.jpeg",
+  "https://media.rightmove.co.uk/property-photo/97d5eb306/92543247/97d5eb3066558ef3d8c480bed49156af.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 0.3171506326873161,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 1.5482607075248236,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 2.3230341443120244,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Linley & Simpson, Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS1",
+ "scrapedAt": "2026-08-30T10:11:35.438Z"
+}

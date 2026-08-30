@@ -40,6 +40,37 @@ test('extractPageModel pulls the balanced JSON object out of the page', () => {
   assert.equal(extractPageModel('<html>no model here</html>'), null);
 });
 
+// The inverse of the hydrator: flatten a value into the devalue-style array
+// the current pages embed, so the fixture can exercise the same code path.
+function flatten(value) {
+  const flat = [];
+  const add = (v) => {
+    const idx = flat.length;
+    flat.push(null);
+    if (v === null || typeof v !== 'object') flat[idx] = v;
+    else if (Array.isArray(v)) flat[idx] = v.map(add);
+    else {
+      const node = {};
+      flat[idx] = node;
+      for (const [k, x] of Object.entries(v)) node[k] = add(x);
+    }
+    return idx;
+  };
+  add(value);
+  return flat;
+}
+
+test('extractPageModel hydrates the current flattened __PAGE_MODEL format', () => {
+  const wrapped = { data: JSON.stringify(flatten(target)), encoding: 'on' };
+  const html = `<script>window.__PAGE_MODEL = ${JSON.stringify(wrapped)}</script>`;
+  const model = extractPageModel(html);
+  assert.deepEqual(model, target);
+  // And normalize reads it exactly as it reads the legacy shape.
+  const l = normalize(model, '149288129');
+  assert.equal(l.priceAmount, 1200);
+  assert.equal(l.imageCount, 3);
+});
+
 test('normalize extracts the full ad: details, sizes, images, stations', () => {
   const l = normalize(clone(), '149288129');
   assert.equal(l.id, '149288129');

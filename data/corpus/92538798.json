@@ -1,0 +1,78 @@
+{
+ "id": "92538798",
+ "displayAddress": "Park House Apartments, Park Row, Leeds",
+ "outcode": "LS1",
+ "incode": "5HB",
+ "latitude": 53.79829,
+ "longitude": -1.546873,
+ "priceAmount": 795,
+ "priceLabel": "£795 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92538798",
+ "area": "Park House Apartments, Leeds",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "09/11/2026",
+  "deposit": 915,
+  "minimumTermMonths": null,
+  "councilTaxBand": "D"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "***SPACIOUS STUDIO APARTMENT *** Ideally located for Leeds General Infirmary, Leeds Universities, the business and shopping districts, is this delightful one bedroom apartment. The property briefly comprises: Communal entrance with stairs and lift access to all floors, private entrance hall, open plan living room/kitchen/diner, double bedroom and house bathroom. Good transport links and in the heart of Leeds city centre. Available 9th November. Council tax band D, EPC rating C.\n\nCommunal Entrance \nVia front entrance using secure entry phone system. Lift and stairs to all floors.\nHallway  \nUsing a fob system to enter and a lift to all floors.\nOpen plan living area/Bedroom \nSpacious living area with windows to front.  Wall mounted electric heaters.\nKitchen \nFitted with a range of wall, base and drawer units with worktops over. Integrated oven with hob and extractor hood over. Integrated washing machine. Part tiled walls. Inset ceiling spotlights.\nBedroom 1 \nGlass partitioned area to separate this studio apartment with a double bed and bedside table.\nBathroom \nFitted with a three piece suite comprising; Bath with shower over, WC and wash hand basin.\nTenure \nLeasehold - 999 years from 16th January 2000\nGround Rent - £249 per annum\nService Charge \nService Charge  £3204 per annum",
+ "keyFeatures": [
+  "Close to Leeds train station",
+  "LS1 financial district",
+  "Spacious Studio Apartment ",
+  "Separate Kitchen and Bathroom",
+  "Lift to all floors ",
+  "6th floor",
+  "Close To All Amenities",
+  "EPC Rating: C"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/4f655b3a2/92538798/4f655b3a26e69c0dedcae4de3913b1ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8b8f468ed/92538798/8b8f468ed27e790526332a8a989649dc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/05564cc1e/92538798/05564cc1eff3c4f33156cb6a91f4c0ad.jpeg",
+  "https://media.rightmove.co.uk/property-photo/59ceb7d3f/92538798/59ceb7d3f249368336217a6676ad9167.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6a20ae95d/92538798/6a20ae95d8b152d2ec569b155de40601.jpeg",
+  "https://media.rightmove.co.uk/property-photo/84d03a327/92538798/84d03a327ae94e7739cfd210387da66a.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 0.2976349873062425,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 1.5901284159270952,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 2.365097388961156,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Adair Paxton, Leeds City Centre",
+ "city": "Leeds",
+ "sourceOutcode": "LS1",
+ "scrapedAt": "2026-08-30T10:11:39.875Z"
+}
