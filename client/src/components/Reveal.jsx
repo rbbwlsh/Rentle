@@ -1,25 +1,25 @@
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import { formatPcm, formatGbp } from '../format.js';
-import { updateResultName } from '../api.js';
-import StatsPanel from './StatsPanel.jsx';
+import { loadStats, setName as saveName } from '../engine/stats.js';
+import { encodeShare } from '../engine/share.js';
+import PersonalStats from './PersonalStats.jsx';
 
-// End-of-game screen. Reveals the rent, shows how the crowd did, compares
-// against a shared opponent (if any), and offers a shareable score link.
+// End-of-game screen. Reveals the rent and the real address, shows the
+// player's running personal stats, compares against a shared opponent (if
+// any), and offers a "beat my score" link — all client-side.
 export default function Reveal({
   won,
   actual,
   priceLabel,
+  displayAddress,
   bestGuess,
   rightmoveUrl,
-  outcome,
+  listingId,
+  you,
   opponent,
   onHome,
 }) {
   const off = bestGuess != null ? Math.abs(bestGuess - actual) : null;
-
-  // `you` for comparisons: prefer the server's computed result, else derive it.
-  const you =
-    outcome?.you || (off != null ? { won, attemptWon: null, bestDiff: off } : null);
 
   return (
     <div className="rounded-2xl bg-white p-6 text-center shadow-xl shadow-rose-200/50 sm:p-8">
@@ -32,10 +32,13 @@ export default function Reveal({
       </p>
 
       <div className="mt-6 rounded-xl bg-brand-50 px-4 py-5">
-        <p className="text-xs uppercase tracking-wide text-brand-600">Actual rent</p>
+        <p className="text-xs uppercase tracking-wide text-brand-600">Listed at</p>
         <p className="mt-1 text-3xl font-extrabold text-brand-700">
           {priceLabel || formatPcm(actual)}
         </p>
+        {displayAddress && (
+          <p className="mt-1 text-xs text-slate-500">📍 {displayAddress}</p>
+        )}
         {off != null && (
           <p className="mt-2 text-sm text-slate-500">
             Your best guess was {formatGbp(bestGuess)} —{' '}
@@ -46,15 +49,13 @@ export default function Reveal({
         )}
       </div>
 
-      {opponent && you && (
-        <OpponentResult opponent={opponent} you={you} />
-      )}
+      {opponent && you && <OpponentResult opponent={opponent} you={you} />}
 
       <div className="mt-6">
-        <StatsPanel stats={outcome?.stats} you={you} />
+        <PersonalStats you={you} />
       </div>
 
-      {outcome?.resultId && <ShareScore resultId={outcome.resultId} />}
+      {you && <ShareScore listingId={listingId} you={you} />}
 
       <div className="mt-6 flex flex-col gap-2">
         {rightmoveUrl && (
@@ -71,15 +72,15 @@ export default function Reveal({
           onClick={onHome}
           className="rounded-xl bg-brand-600 px-4 py-3 font-semibold text-white shadow-sm transition hover:bg-brand-700"
         >
-          Create your own challenge
+          Play another
         </button>
       </div>
     </div>
   );
 }
 
-// Decide who did better. Lower is better: a win beats a loss; among wins, fewer
-// attempts wins; ties broken by who was closer (smaller bestDiff).
+// Decide who did better. A win beats a loss; among wins, fewer attempts wins;
+// ties broken by who was closer (smaller bestDiff).
 function compare(a, b) {
   if (a.won !== b.won) return a.won ? -1 : 1;
   if (a.won && b.won && a.attemptWon !== b.attemptWon)
@@ -111,19 +112,37 @@ function OpponentResult({ opponent, you }) {
   );
 }
 
-function ShareScore({ resultId }) {
-  const [name, setName] = useState(localStorage.getItem('rentle_name') || '');
+function ShareScore({ listingId, you }) {
+  const [name, setNameState] = useState(() => loadStats().name || '');
   const [copied, setCopied] = useState(false);
-  const link = `${window.location.origin}${window.location.pathname}?r=${resultId}`;
 
-  // Persist the name and push it to the shared card (debounced on idle).
-  useEffect(() => {
-    localStorage.setItem('rentle_name', name);
-    const t = setTimeout(() => {
-      updateResultName(resultId, name).catch(() => {});
-    }, 600);
-    return () => clearTimeout(t);
-  }, [name, resultId]);
+  // The score travels in the link itself — no server, so the link is ready
+  // the moment the game ends and updates live as the name is typed.
+  const link = `${window.location.origin}/p/${listingId}?s=${encodeShare({
+    name,
+    ...you,
+  })}`;
+
+  function onNameChange(e) {
+    setNameState(e.target.value);
+    saveName(e.target.value);
+  }
+
+  async function share() {
+    if (navigator.share) {
+      try {
+        await navigator.share({
+          title: 'Beat me on Rentle',
+          text: 'Can you guess the rent better than me?',
+          url: link,
+        });
+        return;
+      } catch {
+        /* cancelled — fall through to copy */
+      }
+    }
+    copy();
+  }
 
   async function copy() {
     try {
@@ -148,7 +167,7 @@ function ShareScore({ resultId }) {
         type="text"
         value={name}
         maxLength={24}
-        onChange={(e) => setName(e.target.value)}
+        onChange={onNameChange}
         placeholder="Your name (optional)"
         className="mt-3 w-full rounded-lg border border-slate-200 px-3 py-2 text-sm focus:border-brand-500 focus:ring-2 focus:ring-brand-200 outline-none"
       />
@@ -164,6 +183,12 @@ function ShareScore({ resultId }) {
           className="rounded-lg bg-brand-600 px-3 py-2 text-xs font-semibold text-white hover:bg-brand-700"
         >
           {copied ? 'Copied!' : 'Copy'}
+        </button>
+        <button
+          onClick={share}
+          className="rounded-lg bg-brand-600 px-3 py-2 text-xs font-semibold text-white hover:bg-brand-700"
+        >
+          Share
         </button>
       </div>
     </div>

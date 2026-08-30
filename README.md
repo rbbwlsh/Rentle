@@ -1,124 +1,85 @@
 # 🎰 Rentle
 
-A "guess the rent" game in the spirit of
-[Dublin Rent Roulette](https://dublinrentroulette.com), but powered by **any
-Rightmove listing you paste in** — with crowd stats and shareable scores.
+The daily guess-the-rent game on real UK listings, in the spirit of
+[Dublin Rent Roulette](https://dublinrentroulette.com). One mystery rental a
+day — four guesses, within £50 pcm wins, wrong guesses unlock hints (a nearby
+comparable with its price, then too-high/too-low). Play a random round, browse
+the corpus by city, or send a friend a beat-my-score link.
 
-Paste a Rightmove *to-rent* URL, get a **shareable link**, and send it to
-friends. Each player gets **4 guesses** at the monthly rent, with escalating
-hints:
+**Fully static.** V1 has no backend at all: a pre-scraped corpus of ~400–500
+Rightmove rental listings (photos re-hosted, every ad fact kept) is baked into
+the site at build time, the game engine runs client-side, and personal
+stats/streaks live in localStorage. Deploys to Netlify as plain files.
 
-1. **Wrong guess #1** → a comparable rental **within 0.25 miles, with its price**.
-2. **Wrong guess #2** → another nearby comparable with its price.
-3. **Wrong guesses #3 & #4** → just *"too high" / "too low"*.
-4. Still wrong after 4 guesses → the real rent is revealed.
+## How it fits together
 
-**Win = guess within ±£50 pcm.** The real rent is checked **server-side** and
-never sent to the browser until you win or fail, so friends can't peek.
-
-### Crowd stats & sharing
-
-Every guess and finished game is stored on the backend. At the reveal you see
-**how you compare with everyone else who played that property**:
-
-- the **percentile** of your closest guess ("closer than 78% of players"), and
-- the **breakdown of how people did** — what share cracked it on guess 1, 2, 3,
-  4, or didn't get it — with your own result highlighted.
-
-You also get a **"beat my score" link**. When a friend opens it they play the
-same property and, at the end, are compared head-to-head against your result
-(a win beats a loss; fewer guesses wins; ties broken by who was closer).
-
-## How it works
-
-Every Rightmove property page embeds the full listing as a `window.PAGE_MODEL`
-JSON blob (price, address, beds/baths, images, description, location, …). A
-small Node/Express backend fetches the page server-side, extracts that JSON, and
-serves a price-less version to the React frontend. Comparables come from
-Rightmove's to-rent search results, filtered by real distance from the target.
-
-- **`server/`** — Express API
-  - `rightmove.js` — fetch + parse a listing from `PAGE_MODEL`
-  - `comparables.js` — find nearby rentals for hints (degrades gracefully)
-  - `cache.js` — in-memory TTL cache of listings (no scrape on every request)
-  - `storage/` — guess/result persistence (Postgres in prod, SQLite locally)
-  - `index.js` — `/api/challenge`, `/api/listing`, `/api/guess`, `/api/result`
-- **`client/`** — React + Vite + Tailwind single-page app
-
-### Data model
-
-Two tables (created automatically on startup):
-
-- **`guesses`** — every individual guess (`property_id, client_id, attempt,
-  guess, won`). The raw record of what people guessed.
-- **`results`** — one row per finished game (`property_id, client_id, name,
-  won, attempt_won, best_diff`), unique per `(property, client)` so replays
-  don't inflate the stats. Powers percentile, the breakdown, and share links.
-
-Players are anonymous — a random id in `localStorage` (`rentle_client_id`) is
-used only to de-duplicate replays.
-
-## Run it locally
-
-Requires **Node 18+** (uses the built-in `fetch`; SQLite via the built-in
-`node:sqlite`). All commands below run from this `rentle/` directory.
-
-```bash
-npm install        # installs server + client deps
-npm run dev        # Express on :3001, Vite on :5173 (open this one)
-npm test           # run the API/integration test suite (node --test)
+```
+tools/seed.js          scrape: search pages -> listing ids -> data/corpus/<id>.json
+tools/images.js        download + recompress photos -> client/public/img/<id>/*.webp
+tools/build-corpus.js  corpus -> client/public/data/ (price-free index + per-listing
+                       chunks with precomputed comparable hints + base64'd answer)
+client/                React + Vite + Tailwind SPA; engine in src/engine/
+tools/prerender.js     after vite build: per-listing /p/<id>/ share pages with
+                       Open Graph tags (answer-free), absolute URLs from
+                       tools/config/site.json
 ```
 
-With no `DATABASE_URL`, data is stored in a local SQLite file at `data/rentle.db`.
+Committed data: `data/corpus/` (the scraped listings), `data/images-manifest.json`
+(what photos were processed), `data/order.json` (the append-only daily-puzzle
+order — stable across re-scrapes so "today's" doesn't change on redeploy).
+NOT committed: the image binaries (~300MB) and `data/state/` scrape caches —
+so a full deploy must come from the machine that ran the scrape.
 
-### Production build
+## Runbook
 
 ```bash
-npm run build      # builds the client into client/dist
-npm start          # Express serves the API + built client on :3001
+npm install                # also installs client deps
+
+# 1. Scrape (one-off, ~25 min at polite rates). Resumable; re-run any time.
+npm run seed -- --check    # preflight: is Rightmove reachable from this network?
+npm run seed               # full run from tools/config/outcodes.json
+npm run images             # download + recompress photos (~30 min)
+
+# 2. Play locally
+npm run dev                # vite dev server on :5173
+npm test                   # engine/scraper/corpus unit tests (no network)
+
+# 3. Ship
+npm run build              # corpus -> vite build -> prerender into client/dist
+npm run preview            # check the real build on :4173
+netlify deploy --prod      # from this machine (it has the images)
 ```
 
-## Deploy to Render
+First deploy: `npm i -g netlify-cli && netlify login && netlify init`, then
+set the real site URL in `tools/config/site.json` and build+deploy once more so
+link previews carry absolute URLs. Custom domains: Netlify dashboard →
+Domain management.
 
-This repo ships a [`render.yaml`](../render.yaml) Blueprint that provisions a
-Node web service **and** a managed Postgres database, wiring `DATABASE_URL`
-automatically. It sits at the repo root (Render only looks for it there) and
-points `rootDir` at this directory.
+If `--check` says BLOCKED (datacenter IPs often are), run the scrape from a
+residential connection instead: clone, `npm install`, `npm run seed`,
+`npm run images`, commit `data/`, and deploy from there.
 
-1. Push this repo to GitHub.
-2. In the [Render dashboard](https://dashboard.render.com), choose
-   **New → Blueprint** and pick the repo. Render reads `render.yaml`.
-3. It builds with `npm install && npm run build` and starts with `npm start`.
-4. Open the service URL, paste a Rightmove listing, and share away.
+## The corpus
 
-The service exposes `/healthz` (wired up as Render's health check). Shared
-links (`?c=` / `?r=`) get per-challenge Open Graph tags + an image so previews
-in WhatsApp/iMessage/Slack show a "guess the rent" card — without leaking the
-price. The `/api` routes are rate-limited per IP, and outbound Rightmove
-requests retry with backoff. CI (`.github/workflows/ci.yml`) runs the build +
-tests on every push.
+`tools/config/outcodes.json` defines the coverage: London capped at ~20%, with
+Manchester, Birmingham, Bristol, Leeds and Edinburgh at equal weight. Each
+listing keeps the full ad: price, address (revealed only after the game), beds,
+baths, size, furnishing, deposit, council-tax band, description, key features,
+stations, agent, and up to 8 photos recompressed to ≤1200px webp.
 
-**Environment variables**
+Listings are a snapshot — the reveal says "listed at", and some will go off
+Rightmove over time. Refresh = re-run seed/images (existing listings are kept,
+new ones appended) and redeploy.
 
-| Var            | Purpose                                                        |
-| -------------- | ------------------------------------------------------------- |
-| `DATABASE_URL` | Postgres connection string. **Set → uses Postgres.** Unset → SQLite. |
-| `NODE_ENV`     | `production` makes Express serve the built client.            |
-| `PORT`         | Port to listen on (Render sets this automatically).          |
-| `SQLITE_PATH`  | Optional SQLite file path for local/single-server use.       |
+## Honesty section
 
-> The SSL settings for Postgres are handled automatically (managed providers
-> like Render/Neon/Supabase require SSL; `localhost` connections don't).
-
-## ⚠️ Notes
-
-- **Network / IP blocking:** Rightmove blocks automated requests from many
-  datacenter/cloud IPs (and some platforms may sandbox outbound traffic). If
-  Rightmove can't be reached you'll get a clear error. Render's free web
-  services can reach Rightmove, but if you hit blocks consider a proxy.
-- **Comparables are best-effort.** They rely on Rightmove's internal search; if
-  it can't be reached, hints 1 & 2 fall back to "too high / too low" and the
-  game still completes.
-- Scraping Rightmove is against their Terms of Service. This is a small project
-  built for fun; the backend caches results to keep request volume low. Use
-  responsibly.
+- Rightmove's Terms of Service prohibit scraping. This project scrapes it
+  anyway, deliberately and gently: ~1s+ between requests, aggressive caching,
+  a one-off corpus rather than continuous crawling, and photos capped and
+  recompressed. Expect blocking at volume; don't run seed on a schedule.
+- The rent is in the page payload (base64-obscured, not encrypted). Anyone who
+  opens devtools can cheat. Fine for a game between friends.
+- Crowd stats ("how everyone did") went away with the server. Phase 2 is a
+  small backend (likely Netlify Functions) to collect guesses again — the
+  share-link codec and stats shapes are designed to be superseded, not
+  migrated.

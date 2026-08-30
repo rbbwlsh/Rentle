@@ -1,0 +1,20 @@
+# Dependencies.
+node_modules/
+
+# Build output.
+client/dist/
+
+# Generated at build time by tools/build-corpus.js and tools/images.js — the
+# committed sources are data/corpus/ and data/images-manifest.json. Image
+# binaries are deliberately NOT committed: they weigh ~300MB and ship to
+# Netlify from the machine that ran the scrape.
+client/public/data/
+client/public/img/
+
+# Scrape working state: outcode-id probes, search-page cache, run reports.
+# Rebuildable, and the caches embed raw scraped HTML-derived data.
+data/state/
+
+*.log
+.env
+.DS_Store

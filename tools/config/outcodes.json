@@ -1,0 +1,8 @@
+{
+  "London": { "perOutcode": 20, "outcodes": ["E8", "N8", "SE15", "SW11", "W2"] },
+  "Manchester": { "perOutcode": 20, "outcodes": ["M1", "M4", "M14", "M20"] },
+  "Birmingham": { "perOutcode": 20, "outcodes": ["B1", "B5", "B15", "B16"] },
+  "Bristol": { "perOutcode": 20, "outcodes": ["BS1", "BS3", "BS6", "BS8"] },
+  "Leeds": { "perOutcode": 20, "outcodes": ["LS1", "LS2", "LS6", "LS8"] },
+  "Edinburgh": { "perOutcode": 20, "outcodes": ["EH1", "EH3", "EH6", "EH10"] }
+}

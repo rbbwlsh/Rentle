@@ -2,14 +2,14 @@
 // JSON blob, and normalizes it into a clean listing schema.
 //
 // Every page at rightmove.co.uk/properties/<id> embeds the full listing as a
-// JSON object assigned to `window.PAGE_MODEL`. A single server-side fetch plus
-// JSON.parse gives us price, address, beds/baths, images, description, etc.
-// (The fetch must run server-side: the browser is blocked by CORS and
-// Rightmove's anti-bot, so the client can never read this directly.)
+// JSON object assigned to `window.PAGE_MODEL`. A single fetch plus JSON.parse
+// gives us price, address, beds/baths, images, description, etc. (The fetch
+// cannot run in a browser: CORS and Rightmove's anti-bot block it, which is
+// why the corpus is scraped ahead of time by tools/seed.js.)
 
 import { fetchWithRetry } from './fetchRetry.js';
 
-const BROWSER_HEADERS = {
+export const BROWSER_HEADERS = {
   'User-Agent':
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 ' +
     '(KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
@@ -56,7 +56,7 @@ export function parseRightmoveUrl(input) {
 }
 
 // Pull the `window.PAGE_MODEL = {...}` object out of the page HTML.
-function extractPageModel(html) {
+export function extractPageModel(html) {
   // The assignment is on a single (very long) line. Match the balanced object
   // by scanning from the first `{` after the assignment.
   const marker = html.indexOf('window.PAGE_MODEL');
@@ -122,7 +122,7 @@ function toMonthly(amount, frequency) {
   return Math.round(amount);
 }
 
-function normalize(pageModel, id) {
+export function normalize(pageModel, id) {
   const p = pageModel?.propertyData;
   if (!p) throw new ListingError('Could not read this listing from Rightmove.', 502);
 
@@ -313,23 +313,4 @@ export async function fetchListing(id) {
     );
   }
   return normalize(pageModel, id);
-}
-
-// Strip the answer AND every field that could reveal the exact property (the
-// Rightmove id/URL, precise coordinates, full address, postcode) for the play
-// payload. Players only ever see the obscured `area`.
-export function publicListing(listing) {
-  const {
-    priceAmount,
-    priceLabel,
-    rightmoveUrl,
-    id,
-    displayAddress,
-    outcode,
-    incode,
-    latitude,
-    longitude,
-    ...rest
-  } = listing;
-  return rest;
 }

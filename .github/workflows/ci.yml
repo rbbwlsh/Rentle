@@ -1,0 +1,21 @@
+# Build + test on every push. No network, no secrets: the tests stub fetch,
+# and the corpus build runs from the committed data/ files (imageless in CI —
+# the photo binaries live only on the machine that ran the scrape).
+name: ci
+
+on:
+  push:
+    branches: ['**']
+  pull_request:
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install
+      - run: npm test
+      - run: npm run build

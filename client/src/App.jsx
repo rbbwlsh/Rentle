@@ -1,22 +1,29 @@
 import { useEffect, useState } from 'react';
-import Creator from './components/Creator.jsx';
+import Home from './components/Home.jsx';
+import Browse from './components/Browse.jsx';
 import Game from './components/Game.jsx';
-import { getResult } from './api.js';
+import { decodeShare } from './engine/share.js';
 
-// Tiny "router" based on query params:
-//   ?r=<resultId>     -> play a friend's shared challenge (beat their score)
-//   ?c=<challengeId>  -> play a shared challenge (opaque id, no Rightmove id)
-//   (neither)         -> the creator (home) screen
+// Tiny path-based router (no library):
+//   /p/<id>    -> play that listing; ?s=<token> carries a friend's score to beat
+//   /browse    -> pick a listing from the corpus
+//   /          -> home: daily puzzle + random
 function readRoute() {
-  const params = new URLSearchParams(window.location.search);
-  return { resultId: params.get('r'), challengeId: params.get('c') };
+  const { pathname, search } = window.location;
+  const p = pathname.match(/^\/p\/([\w-]+)\/?$/);
+  if (p) {
+    return {
+      name: 'game',
+      listingId: p[1],
+      opponent: decodeShare(new URLSearchParams(search).get('s')),
+    };
+  }
+  if (/^\/browse\/?$/.test(pathname)) return { name: 'browse' };
+  return { name: 'home' };
 }
 
 export default function App() {
   const [route, setRoute] = useState(readRoute());
-  const [opponent, setOpponent] = useState(null);
-  const [loadingOpponent, setLoadingOpponent] = useState(false);
-  const [opponentError, setOpponentError] = useState('');
 
   // Keep state in sync with browser back/forward navigation.
   useEffect(() => {
@@ -25,24 +32,12 @@ export default function App() {
     return () => window.removeEventListener('popstate', onPop);
   }, []);
 
-  // When playing a shared result, fetch the opponent's score + property id.
-  useEffect(() => {
-    setOpponent(null);
-    setOpponentError('');
-    if (!route.resultId) return;
-    setLoadingOpponent(true);
-    getResult(route.resultId)
-      .then((data) => setOpponent(data.result))
-      .catch((err) => setOpponentError(err.message))
-      .finally(() => setLoadingOpponent(false));
-  }, [route.resultId]);
-
-  const goHome = () => {
-    window.history.pushState({}, '', window.location.pathname);
-    setRoute({ resultId: null, challengeId: null });
+  const navigate = (path) => {
+    window.history.pushState({}, '', path);
+    setRoute(readRoute());
+    window.scrollTo(0, 0);
   };
-
-  const playingChallenge = opponent?.challengeId || route.challengeId;
+  const goHome = () => navigate('/');
 
   return (
     <div className="min-h-screen flex flex-col items-center px-4 py-8 sm:py-12">
@@ -54,37 +49,29 @@ export default function App() {
           <span aria-hidden>🎰</span> Rentle
         </button>
         <p className="mt-1 text-sm text-slate-500">
-          Guess the rent on any Rightmove listing.
+          The daily guess-the-rent game on real UK listings.
         </p>
       </header>
 
       <main className="w-full max-w-xl flex-1">
-        {route.resultId && loadingOpponent && (
-          <div className="rounded-2xl bg-white p-10 text-center text-slate-400 shadow-lg">
-            Loading challenge…
-          </div>
-        )}
-        {route.resultId && opponentError && (
-          <div className="rounded-2xl bg-white p-8 text-center shadow-lg">
-            <div className="text-3xl">🔗</div>
-            <p className="mt-3 text-sm text-slate-600">{opponentError}</p>
-            <button
-              onClick={goHome}
-              className="mt-5 rounded-xl bg-brand-600 px-4 py-2.5 font-semibold text-white hover:bg-brand-700"
-            >
-              Start your own
-            </button>
-          </div>
-        )}
-        {playingChallenge && !(route.resultId && (loadingOpponent || opponentError)) ? (
-          <Game challengeId={playingChallenge} opponent={opponent} onHome={goHome} />
+        {route.name === 'game' ? (
+          <Game
+            key={route.listingId}
+            listingId={route.listingId}
+            opponent={route.opponent}
+            onHome={goHome}
+            navigate={navigate}
+          />
+        ) : route.name === 'browse' ? (
+          <Browse navigate={navigate} />
         ) : (
-          !route.resultId && <Creator />
+          <Home navigate={navigate} />
         )}
       </main>
 
       <footer className="w-full max-w-xl mt-10 text-center text-xs text-slate-400">
-        Listings &amp; data from Rightmove. Made for fun.
+        Listings &amp; data from Rightmove, captured as a snapshot — rents shown
+        are as listed at the time. Made for fun.
       </footer>
     </div>
   );

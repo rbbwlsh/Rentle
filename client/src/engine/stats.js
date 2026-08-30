@@ -1,0 +1,123 @@
+// Personal stats in localStorage — the V1 replacement for the old server's
+// crowd stats. Stores one result per listing (first play stands; replays don't
+// overwrite) plus the daily streak. Totals are derived, never stored, so the
+// shape can't drift. A backend (Netlify Functions) can supersede this later.
+//
+// `storage` is injectable for tests; every access is guarded because
+// localStorage can throw (private windows, blocked site data).
+
+const KEY = 'rentle_stats_v1';
+
+const emptyStats = () => ({
+  name: '',
+  games: {},
+  daily: { lastDate: null, streak: 0, maxStreak: 0 },
+});
+
+function safeStorage(storage) {
+  try {
+    return storage || globalThis.localStorage;
+  } catch {
+    return null;
+  }
+}
+
+export function loadStats(storage) {
+  const s = safeStorage(storage);
+  try {
+    const parsed = JSON.parse(s.getItem(KEY));
+    if (parsed && typeof parsed.games === 'object') {
+      // Migrate the old standalone name key if present.
+      if (!parsed.name) parsed.name = s.getItem('rentle_name') || '';
+      return { ...emptyStats(), ...parsed };
+    }
+  } catch {
+    /* fall through */
+  }
+  const fresh = emptyStats();
+  try {
+    fresh.name = s.getItem('rentle_name') || '';
+  } catch {
+    /* ignore */
+  }
+  return fresh;
+}
+
+function saveStats(stats, storage) {
+  try {
+    safeStorage(storage).setItem(KEY, JSON.stringify(stats));
+  } catch {
+    /* stats are a convenience, never fatal */
+  }
+}
+
+const dayBefore = (dateStr) => {
+  const d = new Date(`${dateStr}T12:00:00Z`);
+  d.setUTCDate(d.getUTCDate() - 1);
+  return d.toISOString().slice(0, 10);
+};
+
+// Record a finished game. `isDaily` + `dateStr` drive the streak; a replayed
+// listing keeps its first result. Returns the updated stats.
+export function recordGame(
+  { id, won, attemptWon, bestDiff, guesses, isDaily = false, dateStr },
+  storage
+) {
+  const stats = loadStats(storage);
+
+  if (!stats.games[id]) {
+    stats.games[id] = {
+      won,
+      attemptWon,
+      bestDiff,
+      guesses,
+      completedAt: new Date().toISOString(),
+    };
+
+    if (isDaily && dateStr && stats.daily.lastDate !== dateStr) {
+      if (won) {
+        stats.daily.streak =
+          stats.daily.lastDate === dayBefore(dateStr) ? stats.daily.streak + 1 : 1;
+        stats.daily.maxStreak = Math.max(stats.daily.maxStreak, stats.daily.streak);
+      } else {
+        stats.daily.streak = 0;
+      }
+      stats.daily.lastDate = dateStr;
+    }
+    saveStats(stats, storage);
+  }
+  return stats;
+}
+
+export function setName(name, storage) {
+  const stats = loadStats(storage);
+  stats.name = String(name || '').trim().slice(0, 24);
+  saveStats(stats, storage);
+  try {
+    safeStorage(storage).setItem('rentle_name', stats.name);
+  } catch {
+    /* ignore */
+  }
+  return stats;
+}
+
+// Derived personal totals for the stats panel.
+export function summarize(stats) {
+  const games = Object.values(stats.games);
+  const winByAttempt = { 1: 0, 2: 0, 3: 0, 4: 0 };
+  let wins = 0;
+  for (const g of games) {
+    if (g.won) {
+      wins += 1;
+      if (winByAttempt[g.attemptWon] != null) winByAttempt[g.attemptWon] += 1;
+    }
+  }
+  return {
+    played: games.length,
+    won: wins,
+    fails: games.length - wins,
+    winByAttempt,
+    streak: stats.daily.streak,
+    maxStreak: stats.daily.maxStreak,
+  };
+}

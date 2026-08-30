@@ -1,41 +1,40 @@
-// Shows how the player compares with everyone else on this property: their
-// percentile, and the breakdown of which guess people cracked it on (or didn't).
-export default function StatsPanel({ stats, you }) {
-  if (!stats || !stats.players) {
-    return (
-      <p className="text-center text-xs text-slate-400">
-        You&apos;re the first to play this one — share it to see how others do!
-      </p>
-    );
-  }
+import { loadStats, summarize } from '../engine/stats.js';
 
-  const { players, winByAttempt, fails, percentile } = stats;
+// The player's own record, from localStorage — V1 has no backend, so this
+// replaces the old crowd-stats panel. Same visual language: attempt bars,
+// with your latest result highlighted.
+export default function PersonalStats({ you }) {
+  const s = summarize(loadStats());
+  if (!s.played) return null;
+
   const rows = [
-    { key: 1, label: 'Won on guess 1', count: winByAttempt[1] },
-    { key: 2, label: 'Won on guess 2', count: winByAttempt[2] },
-    { key: 3, label: 'Won on guess 3', count: winByAttempt[3] },
-    { key: 4, label: 'Won on guess 4', count: winByAttempt[4] },
-    { key: 'fail', label: "Didn't get it", count: fails },
+    { key: 1, label: 'Won on guess 1', count: s.winByAttempt[1] },
+    { key: 2, label: 'Won on guess 2', count: s.winByAttempt[2] },
+    { key: 3, label: 'Won on guess 3', count: s.winByAttempt[3] },
+    { key: 4, label: 'Won on guess 4', count: s.winByAttempt[4] },
+    { key: 'fail', label: "Didn't get it", count: s.fails },
   ];
-
   const youKey = you ? (you.won ? you.attemptWon : 'fail') : null;
-  const pct = (n) => (players ? Math.round((n / players) * 100) : 0);
+  const pct = (n) => (s.played ? Math.round((n / s.played) * 100) : 0);
+  const winRate = Math.round((s.won / s.played) * 100);
 
   return (
     <div className="rounded-xl bg-slate-50 p-4 text-left">
       <div className="flex items-baseline justify-between">
-        <span className="text-sm font-semibold text-slate-700">
-          How everyone did
-        </span>
+        <span className="text-sm font-semibold text-slate-700">Your record</span>
         <span className="text-xs text-slate-400">
-          {players} player{players === 1 ? '' : 's'}
+          {s.played} game{s.played === 1 ? '' : 's'} · {winRate}% won
         </span>
       </div>
 
-      <p className="mt-1 text-sm text-brand-700">
-        You guessed closer than{' '}
-        <span className="font-bold">{percentile}%</span> of players.
-      </p>
+      {(s.streak > 0 || s.maxStreak > 0) && (
+        <p className="mt-1 text-sm text-brand-700">
+          🔥 Daily streak: <span className="font-bold">{s.streak}</span>
+          {s.maxStreak > s.streak && (
+            <span className="text-xs text-slate-400"> (best {s.maxStreak})</span>
+          )}
+        </p>
+      )}
 
       <div className="mt-3 space-y-1.5">
         {rows.map((row) => {
