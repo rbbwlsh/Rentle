@@ -58,39 +58,60 @@ test('a blocked page (HTTP 200, no __NEXT_DATA__) surfaces via lastError', async
   assert.match(client.lastError, /blocked/);
 });
 
-test('outcodeId binary-searches the alphabetical id space and caches', async () => {
+const cacheShim = (cache) => ({
+  has: (k) => cache.has(k),
+  get: (k) => cache.get(k),
+  set: (k, v) => cache.set(k, v),
+});
+
+test('outcodeId binary-searches the alphabetical id space, past holes, and caches', async () => {
   // A tiny allocated universe: id N (1-based) -> OUTCODES[N-1], sorted.
-  const OUTCODES = ['AB1', 'AL1', 'B1', 'BS1', 'E8', 'LS1', 'M1', 'SW11', 'W2'];
+  // Id 5 is a HOLE — a deallocated id serving the "couldn't find" page, as
+  // seen live at OUTCODE^294 (which sits right before BS8's real id).
+  const OUTCODES = ['AB1', 'AL1', 'B1', 'BS1', null, 'BS8', 'E8', 'LS1', 'M1', 'SW11', 'W2'];
   let requests = 0;
   const fetchImpl = async (url) => {
     requests += 1;
     const oid = Number(new URL(url).searchParams.get('locationIdentifier').split('^')[1]);
     const name = OUTCODES[oid - 1];
-    // Unallocated ids get a page whose title matches nothing.
+    if (name === null) {
+      return ok('<html>We couldn’t find the place you were looking for.</html>');
+    }
+    // Beyond the allocated range: a real page whose title matches nothing.
     return ok(name ? titlePage(name) : nextDataPage({ props: { pageProps: {} } }));
   };
 
   const cache = new Map();
-  const cacheShim = {
-    has: (k) => cache.has(k),
-    get: (k) => cache.get(k),
-    set: (k, v) => cache.set(k, v),
-  };
-  const client = createSearchClient({ cache: cacheShim, fetchImpl, sleep: noop });
+  const client = createSearchClient({ cache: cacheShim(cache), fetchImpl, sleep: noop });
 
-  assert.equal(await client.outcodeId('M1'), 7);
+  assert.equal(await client.outcodeId('M1'), 9);
   const afterFirst = requests;
   assert.ok(afterFirst > 0);
 
   // Cached: no new requests for the same outcode.
-  assert.equal(await client.outcodeId('M1'), 7);
+  assert.equal(await client.outcodeId('M1'), 9);
   assert.equal(requests, afterFirst);
 
-  // A second lookup reuses the cached per-id probes it already made.
-  assert.equal(await client.outcodeId('E8'), 5);
+  // The outcode straight after the hole is still found.
+  assert.equal(await client.outcodeId('BS8'), 6);
+  assert.equal(await client.outcodeId('E8'), 7);
 
   // Unknown outcode resolves to null without throwing.
   assert.equal(await client.outcodeId('ZZ9'), null);
+});
+
+test('a blocked probe fails the lookup WITHOUT poisoning the cache', async () => {
+  const cache = new Map();
+  const client = createSearchClient({
+    cache: cacheShim(cache),
+    // Every page looks blocked: no __NEXT_DATA__, no "couldn't find" marker.
+    fetchImpl: async () => ok('<html>please verify you are human</html>'),
+    sleep: noop,
+  });
+  assert.equal(await client.outcodeId('BS8'), null);
+  assert.match(client.lastError, /could not resolve outcode BS8/);
+  // Nothing cached: a later run on a healthy network can succeed.
+  assert.equal(cache.size, 0);
 });
 
 test('isGameableProperty filters out non-home subtypes', () => {
