@@ -1,0 +1,78 @@
+{
+ "id": "92469186",
+ "displayAddress": "Jeffrey Street, Old Town, Edinburgh",
+ "outcode": "EH1",
+ "incode": "1DR",
+ "latitude": 55.95091,
+ "longitude": -3.184603,
+ "priceAmount": 1500,
+ "priceLabel": "£1,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92469186",
+ "area": "Old Town, Edinburgh",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "14/09/2026",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Delightful two bedroom flat in the heart of the Old Town. Situated on the second floor this flat enjoys commanding views over the city.  This property would ideally suit two individuals or a professional.\n\nInternally the property comprises of lovely living room with dining area, gas fire and a waiter`s hatch which passes through in to a modern kitchen, a large bright living room, a good size double bedroom, one twin bedroom and a family bathroom. \n\nThis property is located in the heart of Edinburgh`s historic Old Town, central to the city`s main business, shopping, legal and financial districts and ideally positioned to take advantage its world renowned International, Film and Fringe Festivals and Hogmanay celebrations. The property is situated in the heart of the UNESCO World Heritage Site and just a stones` throw from Edinburgh Castle, St. Giles` Cathedral, the Law Courts, the National Museum of Scotland, the National Library and Edinburgh University. The historical sites of the Royal Mile and Grassmarket, both of which benefits from an eclectic selection of restaurants, bars, bistros and shops, are within easy reach.\n\nLandlord Registration: 657730/230/31011.\n\nBen Property Management Limited is a regulated agent, registration number LARN1809028.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/6ac654384/92469186/6ac654384727665a36719851591e94e9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b176aacbc/92469186/b176aacbcfc68aab722b8e6083de9cd7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0910b74c4/92469186/0910b74c49eebec3f0cfae5d26ed961a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/910a058f2/92469186/910a058f236d857b549c20fca9e749bf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/31222e083/92469186/31222e0839b6295c2ddabba14ad5dd63.jpeg",
+  "https://media.rightmove.co.uk/property-photo/df937de2a/92469186/df937de2afc24bab9a6d58e90a3b5471.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2b24c2774/92469186/2b24c27744af72809221cbb3299a6406.jpeg",
+  "https://media.rightmove.co.uk/property-photo/06ee56df2/92469186/06ee56df2e13f8b8984606be3cdd635a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c8e8daa10/92469186/c8e8daa10f7b2900068a14efe9df749b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7f60f83b5/92469186/7f60f83b512a14831538f850816cea77.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f65238cf9/92469186/f65238cf9bab8da6753f9ef1de2d8897.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6951569c4/92469186/6951569c47958dad000801f8318ab353.jpeg",
+  "https://media.rightmove.co.uk/property-photo/061014093/92469186/0610140931b0e265a56d15f50c0a1010.jpeg",
+  "https://media.rightmove.co.uk/property-photo/91cb55ee5/92469186/91cb55ee548f07b81103297df730cd1c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/56ee0a960/92469186/56ee0a960936c6d19698199de937ed6d.jpeg"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.21662961740955106,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.3569248759826469,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 2.8378780388925144,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Ben Property, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH1",
+ "scrapedAt": "2026-08-30T11:03:42.593Z"
+}

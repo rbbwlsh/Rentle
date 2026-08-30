@@ -1,0 +1,72 @@
+{
+ "id": "92259009",
+ "displayAddress": "Belgrave Road, Bristol, BS8",
+ "outcode": "BS8",
+ "incode": "2AA",
+ "latitude": 51.461597,
+ "longitude": -2.607768,
+ "priceAmount": 1495,
+ "priceLabel": "£1,495 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92259009",
+ "area": "Bristol",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 1725,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Property Reference: 3011400.\n\n2 Bed Flat, Belgrave Road, BS8\n\nWe are proud to offer this delightful 2 bedroom, 1 bathroom flat in a great location.\n\nAvailable to move in from 27 August 2026. Property is offered unfurnished.\n\nViewing highly recommended. Contact OpenRent today for more details or to arrange a viewing! \n\nSummary\n\nRent £1,495.00 per month (£345.00 per week)\nDeposit / Bond is £1,725.00\n\nMaximum number of tenants is 2\n\nNo Students\nNo Smokers\n\nBills not included\nEPC Rating: D\n\n  If calling, please quote reference: 3011400  \n\nFees:\nYou will not be charged any admin fees.\n\n ** Contact today to book a viewing and have the landlord show you round! ** \nRequest Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.",
+ "keyFeatures": [
+  "No Agent Fees",
+  "Property Reference Number: 3011400"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/50bb0270d/92259009/50bb0270df45074df1fedb5d67819918.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3f62a3826/92259009/3f62a382660a5bb30ba36dd3c6197e88.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b90b4a92f/92259009/b90b4a92fb7644885c6b9ac40d006d22.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b02972149/92259009/b0297214957ffe95a6deddd27bd33cf7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f4cb80ba/92259009/5f4cb80bab98b731fefb20f9f464cfd1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f38e2c3c5/92259009/f38e2c3c58146ecbd3a4f801dcdfff68.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.2478370794214028,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.5869372119283334,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Montpelier Station",
+   "miles": 0.9444725541221304,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "OpenRent, London",
+ "city": "Bristol",
+ "sourceOutcode": "BS8",
+ "scrapedAt": "2026-08-30T11:03:21.760Z"
+}

@@ -1,0 +1,74 @@
+{
+ "id": "92414286",
+ "displayAddress": "Cranbrook Road Gdn, Garden Flat, Redland, Bristol, BS6",
+ "outcode": "BS6",
+ "incode": "7BU",
+ "latitude": 51.472894,
+ "longitude": -2.597297,
+ "priceAmount": 1250,
+ "priceLabel": "£1,250 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92414286",
+ "area": "Redland, Bristol",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "01/10/2026",
+  "deposit": 1250,
+  "minimumTermMonths": null,
+  "councilTaxBand": "TBC"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Introducing this charming one-bedroom garden apartment located in the highly sought-after area of Redland in Bristol. This beautifully presented property boasts an open plan kitchen and living area, creating a warm and welcoming atmosphere. The bedroom features a fireplace adding a touch of character to the property. The shower room is sleek and modern, complete with all the necessary fittings. The apartment benefits from a large garden perfect for relaxing in the sunshine. The finish of the property is contemporary and tasteful, making it the ideal home for a young professional or couple. Ref641 (Unfurnished) (Electric Heating) (Council Tax Band B) (EPC Rating TBC)",
+ "keyFeatures": [
+  "1 Bedroom",
+  "Unfurnished",
+  "Garden"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/4a6e7b04f/92414286/4a6e7b04f5d34ed0eaacb981f8ab96ef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ce22c172/92414286/8ce22c172df726eea8db7018fe18e190.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4399c6841/92414286/4399c68410dd7513c3b0c4894caa91e3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/370bdfb3e/92414286/370bdfb3e7866863887fb7d694dc0b6f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/71c3534ca/92414286/71c3534ca32f5092a8154b516ba8906d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bc153e377/92414286/bc153e377672d3fa97073ebf3d65cab0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f2a7fa4c4/92414286/f2a7fa4c40fde50789b01bf7acf78f88.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Redland Station",
+   "miles": 0.3311717292686955,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Montpelier Station",
+   "miles": 0.48440006229929283,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.8271190059478833,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Abode Property Management, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS6",
+ "scrapedAt": "2026-08-30T10:23:09.311Z"
+}

@@ -1,0 +1,74 @@
+{
+ "id": "92385318",
+ "displayAddress": "Chandos Road - Redland",
+ "outcode": "BS6",
+ "incode": "6PQ",
+ "latitude": 51.46836,
+ "longitude": -2.60488,
+ "priceAmount": 1500,
+ "priceLabel": "£1,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92385318",
+ "area": "Chandos Road - Redland",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "10/09/2026",
+  "deposit": 1730,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Ocean Lettings and Management are proud to present a superb two bedroom garden flat set within an attractive period building on Chandos Road, Redland. Offered unfurnished, the property features an entrance hall leading to a lounge/diner leading to rear garden through patio doors and separate kitchen with fridge/freezer and washing machine. One double bedroom and one single bedroom are found off the entrance hall as well. Between the kitchen and lounge is the main bathroom with white suite and a shower over bath. At the rear of the property is a large north-west facing garden. \n\nSuitable for either a single occupant or couple, Chandos Road is within comfortable walking distance to Whiteladies Road and is easily commutable to Gloucester Road and the City Centre. \n\nMaterial facts (Parts A + B) information correct as of 25th August 2026:\n– Council tax band – B\n– Energy rating – D\n– Holding deposit – £346\n– Damage deposit – £1,730\n– What floor is the property situated? - lower ground\n– Parking – Residents permit - costs apply, subject to availability through council.\n– Headlease – No.\n– Utilities – Gas, Electric & water\n– Utility restrictions – n/a\n– Heating source – Gas central heating \n– Indoor Phone coverage (source Ofcom) graded Likely, Limited or None – EE, Three, O2 -  Vodafone - all limited.\n– Broadband download speed and supply type (source Ofcom) – Standard 14 mbps, Superfast 80 mbps, Ultrafast 1000 mbps.\n– Building Material type – Brick.\n– Lift access – No.\n\nMaterial facts (Part C)\n\n– Building Safety – No known issues.\n– Restrictions and Rights – not known at this time. Please ask agent\n– Rights and Easements - not known at this time. Please ask agent\n– Flood and Erosion in last 5 years - not known at this time. Please ask agent\n– Planning Permissions - not known at this time. Please ask agent\n– Property accessibility/adaptations - not known at this time. Please ask agent\n– Coalfield or Mining – not known at this time. Please ask agent",
+ "keyFeatures": [
+  "Two bedroom apartment",
+  "Great location",
+  "Garden",
+  "Period"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/4b5c8853c/92385318/4b5c8853ce39c3e02358ca9bc9f37751.jpeg",
+  "https://media.rightmove.co.uk/property-photo/820202b2c/92385318/820202b2cd07ca82495492a6804ff4b9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/243545647/92385318/243545647f54679f2f12f6dad2843291.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7689ee60d/92385318/7689ee60d6e6abd29d960b0a5975a94d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/25c22d655/92385318/25c22d655e84094884632c0bd09a2a55.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7808b6f26/92385318/7808b6f265c4b3b23b67346d28ca8ba1.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Redland Station",
+   "miles": 0.23628505112430906,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.37380071738288395,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Montpelier Station",
+   "miles": 0.6961819276636545,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Ocean, Clifton",
+ "city": "Bristol",
+ "sourceOutcode": "BS6",
+ "scrapedAt": "2026-08-30T10:23:16.872Z"
+}

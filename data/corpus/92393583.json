@@ -1,0 +1,84 @@
+{
+ "id": "92393583",
+ "displayAddress": "Abberton House, 3 Abberton Road, Didsbury, Manchester, M20",
+ "outcode": "M20",
+ "incode": "1HQ",
+ "latitude": 53.430481,
+ "longitude": -2.238926,
+ "priceAmount": 1450,
+ "priceLabel": "£1,450 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92393583",
+ "area": "Didsbury, Manchester",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "05/10/2026",
+  "deposit": 1673,
+  "minimumTermMonths": null,
+  "councilTaxBand": "TBC"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "AVAILABLE OCTOBER. Positioned across the GROUND FLOOR, the apartments boast bright and spacious rooms, with modern fittings including fully fitted kitchens with Granite work surfaces, and designer Roca bathroom suites. Offered with PRIVATE ACCESS and situated just a short walk from West Didsbury village, and Burton Road Metrolink, other benefits include: secure allocated parking and bike shed, electric car charging and shared landscape gardens. Please EMAIL NOW to arrange a viewing.",
+ "keyFeatures": [
+  "AVAILABLE OCTOBER",
+  "Two Double Bedrooms",
+  "Immaculate Apartments",
+  "Fully Furnished",
+  "Secure Parking",
+  "Open Plan Living Space",
+  "Burton Road Metrolink",
+  "Five Week Deposit"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/9e6351e33/92393583/9e6351e33c3db984b6f19907aba04845.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f66670df0/92393583/f66670df06c8feac349409dee91fafeb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bc6dd9e25/92393583/bc6dd9e2510a3514cb78452585cea9f5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7f052d841/92393583/7f052d841e3d1bb31b1c6d61496e754e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2853da52e/92393583/2853da52e4b17e9dfb8fb12aea84afdb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f0375305a/92393583/f0375305ac49e67a1e0f21313cd986f4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6dc54f6b6/92393583/6dc54f6b6887c72370033eba0aaece9a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d1c024e53/92393583/d1c024e53dd8ba0ae22886e62b4a378c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a48016a34/92393583/a48016a348e2d8062ddcc36680ee675c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c1ef09a2d/92393583/c1ef09a2d47c461b139c1c96804890c0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3923156cc/92393583/3923156cc0f44ce712b968dc4d8e0928.jpeg",
+  "https://media.rightmove.co.uk/property-photo/18ff6a028/92393583/18ff6a0281cf583f4082d48bba342940.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 0.11594558696313918,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Withington Tram Stop",
+   "miles": 0.45193244736888966,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 0.42453808105462604,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Philip James Manchester, Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M20",
+ "scrapedAt": "2026-08-30T10:18:26.260Z"
+}

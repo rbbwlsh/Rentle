@@ -1,0 +1,71 @@
+{
+ "id": "92359986",
+ "displayAddress": "Flat 17 Park View Court, Roundhay, Leeds",
+ "outcode": "LS8",
+ "incode": "1BS",
+ "latitude": 53.842739,
+ "longitude": -1.505704,
+ "priceAmount": 1195,
+ "priceLabel": "£1,195 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92359986",
+ "area": "Roundhay, Leeds",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "02/11/2026",
+  "deposit": 1350,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Lovely fully modernised 2 bedroom apartment in a great location only a couple of minutes from the famous Flying Pizza restaurant and also close to Roundhay Park.\nThe property is central heated, double glazed and has off street parking.\nThere is a large lounge furnished with sofas.\nThe modern fitted kitchen has integrated appliances and features quartz worktop.\nThe bathroom has a shower enclosure, vanity sink unit and w.c.\nBoth bedrooms are furnished with large wardrobes and double beds.\nPictures shown are a selection from the other apartments in the block. New pictures will be uploaded soon",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1a27cd143/92359986/1a27cd143398fc7045fa15493c7f96e2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d5c135c5b/92359986/d5c135c5be7428de3e01c03ee614bbd6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/90685656b/92359986/90685656bdc18ca972cb1f947d1cc7f3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ed2511b3a/92359986/ed2511b3a7bd55d8a7db5e74fc9cf235.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4eee47d3c/92359986/4eee47d3cca51ec48ba220723baa15d2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c5744e52c/92359986/c5744e52c26b9a550c57a71a8a3cc54b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/962ea89cf/92359986/962ea89cf66f09862d717625fcd44cfa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ca476f8bd/92359986/ca476f8bd2b4a897385bf153601cccac.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Cross Gates Station",
+   "miles": 3.4621670111860574,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 3.646616342689796,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Leeds Station",
+   "miles": 3.7745141932721564,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "SJM Properties, Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS8",
+ "scrapedAt": "2026-08-30T10:25:10.938Z"
+}

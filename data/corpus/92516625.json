@@ -1,0 +1,95 @@
+{
+ "id": "92516625",
+ "displayAddress": "Port Street, Manchester",
+ "outcode": "M1",
+ "incode": "2EG",
+ "latitude": 53.48219,
+ "longitude": -2.23051,
+ "priceAmount": 1800,
+ "priceLabel": "£1,800 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92516625",
+ "area": "Manchester",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 541,
+  "sizeSqM": 50,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Ask agent",
+  "deposit": 1800,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": 541,
+ "sizeSqM": 50,
+ "description": "One Port St. This is the one.\n\nLuxury apartments to rent in Manchester's iconic Northern Quarter. A range of one, two and three bedroom apartments to suit every lifestyle, with beautiful interiors, incredible city centre views and even more beyond your front door. \n\nStart your next chapter in a home that offers you more with unrivalled amenity spaces, including a 2,000 sq ft leisure suite with a swimming pool and spa pool, a resident gymnasium, 7th floor roof terrace, urban garden, private hire space, grand lobby with 360 firepit, residents lounge, co-working space, and even a secret room reserved just for residents. \n\nLive in the centre of The Northern Quarter's most luxurious address. Step outside your door into a vibrant neighbourhood full of character, where historic buildings meet cobbled streets and quirky art. Known as Manchester's cultural heart, the area is full of local businesses, vintage shops, trendy cafe's, incredible restaurants and lively bars ready for you to explore.\n\nIt's in all the small touches and big experiences at One Port St, we've designed every single thing to make your dream home a reality. From a simple rental process with our established in-house property management team and our award-winning operations team, to flexible pet friendly policies, excellent service and exclusive benefits. Everything has been thought about to make your life easier and enhance your everyday.",
+ "keyFeatures": [
+  "16th Floor",
+  "Brand new 1 bed 1 bathroom luxury apartment",
+  "Live in the centre of the Northern Quarter",
+  "Amenity spaces that take life to the next level",
+  "Incredible city centre views",
+  "Indoor swimming pool &amp; spa pool",
+  "7th floor roof terrace, residents lounge and co-working space",
+  "Grand lobby with 360 fireplace",
+  "Resident gymnasium with fitness studios",
+  "Urban garden with communal and private hire space"
+ ],
+ "tags": [
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/ee286c158/92516625/ee286c158437df2119afd43fce9d5170.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6a95b0645/92516625/6a95b064553bb1ca5dd56142394014aa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f8c67a0ae/92516625/f8c67a0ae92bba05f656b33d13d15555.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e9296b732/92516625/e9296b732f65e8b62f66c225996b8da6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f33ba5604/92516625/f33ba560469bb23fee6b2577a8f68054.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d2595d100/92516625/d2595d10003530518839451bee0d50d0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7a6644ab8/92516625/7a6644ab8d93c41aec9f00fd57e05932.jpeg",
+  "https://media.rightmove.co.uk/property-photo/92c5b1d26/92516625/92c5b1d26ca64778d51e6edc1b223c5a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/15a2a29b4/92516625/15a2a29b4e4e94637c200f18b60e1708.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5d7597e7a/92516625/5d7597e7a7793d01d43ab87566f827b3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d89b828de/92516625/d89b828de956d6aa3e1f66198b3e08b1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/32a035475/92516625/32a035475760ff90e889f86b9d895684.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d686cbe32/92516625/d686cbe32fa13635433fecd35a723c9e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8e5817b04/92516625/8e5817b04cf617336c21c6da6bdbd4c8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f7213c868/92516625/f7213c868c5169c34fea20052f85ac05.jpeg",
+  "https://media.rightmove.co.uk/property-photo/432dbed90/92516625/432dbed906f5bf468100fd05e327b480.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5ee7cec6c/92516625/5ee7cec6c35b9f88b087a950f355fa4b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7a6644ab8/92516625/7a6644ab8d93c41aec9f00fd57e05932.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d2595d100/92516625/d2595d10003530518839451bee0d50d0.jpeg"
+ ],
+ "imageCount": 19,
+ "nearestStations": [
+  {
+   "name": "Piccadilly Gardens Tram Stop",
+   "miles": 0.29553407237025275,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Manchester Piccadilly Station",
+   "miles": 0.3609219635928277,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Market Street Tram Stop",
+   "miles": 0.36116850876616696,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Select Residential, UK",
+ "city": "Manchester",
+ "sourceOutcode": "M1",
+ "scrapedAt": "2026-08-30T10:17:08.363Z"
+}

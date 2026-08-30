@@ -1,0 +1,81 @@
+{
+ "id": "92404299",
+ "displayAddress": "Airpoint, Bristol, BS3",
+ "outcode": "BS3",
+ "incode": "3NG",
+ "latitude": 51.437336,
+ "longitude": -2.602788,
+ "priceAmount": 1250,
+ "priceLabel": "£1,250 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92404299",
+ "area": "Airpoint, Bristol",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "22/10/2026",
+  "deposit": 1442,
+  "minimumTermMonths": null,
+  "councilTaxBand": "TBC"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "CJ Hole are delighted to introduce to the rental market this one bedroom apartment, within the Airpoint Development.\n\n\rThis fantastic apartment is located in the desirable Airpoint development, Bedminster. \nThe property features a spacious lounge/diner with a modern fitted kitchen, benefitting from plenty of natural light from large floor to ceiling windows. There is one double bedroom fitted with a wardrobe and a modern white three piece suite bathroom with shower over the bath.\n\nThe apartment has use of a unique SkyPark, which includes: a rooftop running track, BBQ area, function room and pool table room, and large seating area. \n\nThis property is ideally situated in BS3 only a stone’s throw from North Street and West Street which offers a range of local amenities such as shops, bars, cafes and restaurants. This property is within close proximity of the metro-link, Bristol link road and Parsons Street train station providing excellent transport links. \n\nThere is easy access into Bristol City Centre making it a fantastic location for commuters, keen shoppers and access to further transport links including Temple Meads Train Station and the M32.\n\nEPC – C\nCouncil Tax – A\nBroadband ( Source OfCom ) – Standard, Superfast, Ultrafast \nMobile – ( Source Ofcom ) – Likely",
+ "keyFeatures": [
+  "Double Bedroom",
+  "Water Included",
+  "Unfurnished",
+  "Running Track",
+  "Roof Top Terrace"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/dbc1d6632/92404299/dbc1d663272108f08054b01e1c87655b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e0a982150/92404299/e0a9821506b2be25bfce0858b22a7314.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bac7c6378/92404299/bac7c63788b360319c9ff2f9cabf694d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2d0a419d5/92404299/2d0a419d579dd4e2210f16b3632e5bfb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7ff9d270a/92404299/7ff9d270a011a812bbcf75d0cdfb9425.jpeg",
+  "https://media.rightmove.co.uk/property-photo/10db9cd50/92404299/10db9cd50c328c3358df8fe147dfaa3c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/467792bf7/92404299/467792bf7df6d1867c13151d1225f0a4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cb895d5df/92404299/cb895d5df904f9ef7dbe01c914aeca21.jpeg",
+  "https://media.rightmove.co.uk/property-photo/847dcc534/92404299/847dcc5348421c75a406841a01a777c5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d709cb7d4/92404299/d709cb7d4b72cec6d768f5cbc4d1f241.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4c4204890/92404299/4c4204890b14b448a499319d297e0b39.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e782503f8/92404299/e782503f8347b3cd4011e9fad2770f7f.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Parson Street Station",
+   "miles": 0.3853984894559426,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bedminster Station",
+   "miles": 0.4108537665878622,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 1.2269609935306058,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "CJ Hole, Southville",
+ "city": "Bristol",
+ "sourceOutcode": "BS3",
+ "scrapedAt": "2026-08-30T10:22:47.706Z"
+}

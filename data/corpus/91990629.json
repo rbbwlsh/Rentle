@@ -1,0 +1,85 @@
+{
+ "id": "91990629",
+ "displayAddress": "North View Road, London, N8",
+ "outcode": "N8",
+ "incode": "7LL",
+ "latitude": 51.591489,
+ "longitude": -0.124457,
+ "priceAmount": 2150,
+ "priceLabel": "£2,150 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91990629",
+ "area": "London",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 2480,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "The Property Company is pleased to present this stunning ground-floor maisonette, recently refurbished. The property features two spacious bedrooms, a bright reception room, a modern separate kitchen, a beautifully finished bathroom, and a private garden—ideal for outdoor relaxation.\n\nWhile the garden offers great privacy, it backs onto the beautiful Alexandra Park and Palace, with a convenient entrance just 100 yards away, allowing easy access to the park's open spaces.\n\nNestled on a quiet street, this home is perfectly located near Muswell Hill, Crouch End, and Hornsey, giving you easy access to a range of amenities, including shops, restaurants, and well-regarded local schools. The area also benefits from excellent transport links, with National Rail services providing quick and convenient access to the city.",
+ "keyFeatures": [
+  "Stunning ground-floor maisonette",
+  "Two spacious bedrooms",
+  "Bright reception room",
+  "Separate kitchen and a beautifully finished bathroom",
+  "Private garden",
+  "Located on a quiet street near Muswell Hill, Crouch End, and Hornsey",
+  "Close to various amenities, including shops, restaurants, and local schools",
+  "Excellent transport links via National Rail, offering easy access to the city",
+  "EPC: D",
+  "Council Tax Band: C"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a068fc1e8/91990629/a068fc1e85a78da75f980bda5e7c2cf0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/951391710/91990629/9513917105ddf28271b76e4de81300b0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b1c883ae8/91990629/b1c883ae88667de65ff31ab8d8f97d99.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f53379201/91990629/f5337920174336b41a88f5db77f11127.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f500f551e/91990629/f500f551e2e9e3ffe02e46e12e79ffe0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d9c691314/91990629/d9c691314c66814978f05e8246c7e424.jpeg",
+  "https://media.rightmove.co.uk/property-photo/74a7b6a1b/91990629/74a7b6a1b2b8e2160f6c453bd9bf8be4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/85fb27386/91990629/85fb27386954689cbf0b226b8ee83521.jpeg",
+  "https://media.rightmove.co.uk/property-photo/734aefc0e/91990629/734aefc0e8d8dc1684624d514cff5d43.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ddb9a97ea/91990629/ddb9a97ea409a0cd14bfc4d691c11b1d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/59c6f27b5/91990629/59c6f27b5d02a7c853930d1d918de932.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Alexandra Palace Station",
+   "miles": 0.5113544916931883,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Hornsey Station",
+   "miles": 0.662811214598572,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Wood Green Station",
+   "miles": 0.735150586177146,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "The Property Company, Crouch End",
+ "city": "London",
+ "sourceOutcode": "N8",
+ "scrapedAt": "2026-08-30T10:13:49.521Z"
+}

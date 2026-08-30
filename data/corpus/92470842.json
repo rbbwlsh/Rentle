@@ -1,0 +1,84 @@
+{
+ "id": "92470842",
+ "displayAddress": "British Road, Bristol",
+ "outcode": "BS3",
+ "incode": "3BY",
+ "latitude": 51.437408,
+ "longitude": -2.605381,
+ "priceAmount": 1695,
+ "priceLabel": "£1,695 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92470842",
+ "area": "Bristol",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 646,
+  "sizeSqM": 60,
+  "letType": "Long term",
+  "furnishType": null,
+  "letAvailableDate": "05/10/2026",
+  "deposit": 1955,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": 646,
+ "sizeSqM": 60,
+ "description": "House + Co Property are delighted to bring to the market this well presented two bedroom terraced property located in the vibrant Bedminster area. The property comprises of a large reception, kitchen and bathroom all to the ground floor along with a courtyard style garden. To the first floor there are two spacious double bedrooms. This totals to 68m2. This property further benefits from having free on street parking and gas central heating. Offered furnished** and available from 05/10/26.\n\nCouncil Tax Band - Band A (Bristol City Council)\n\nConstruction - Traditional Construction\n\nDownload speeds - Standard upto 17 Mbps, Superfast upto 80Mbps or Ultrafast upto 1800Mbps\n\nMobile Coverage - Coverage according to Ofcom mobile checker\n\nEE - Good outdoor, variable in-home\nO2 - Good outdoor and in-home\n3 - Good outdoor, variable in-home\nVodafone - Good outdoor",
+ "keyFeatures": [
+  "Available 05/10/26",
+  "Great location",
+  "Two double bedrooms",
+  "Furnished*"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/44a4d3734/92470842/44a4d3734b8df252795161f8d69db22e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3ae33ae7b/92470842/3ae33ae7b4711e9d1b318c5fdb08f50d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/65338bda9/92470842/65338bda93027dbe8d43d3729433a808.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d2eb715f5/92470842/d2eb715f57e9b1ec89b47bffaf7a7515.jpeg",
+  "https://media.rightmove.co.uk/property-photo/421400096/92470842/4214000962c704548af61cdcf2e9275d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e4547020d/92470842/e4547020d871c739d653929e5744b9a5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bf12fcca1/92470842/bf12fcca19f82efd791aa5a3c64efa05.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1c3d1a113/92470842/1c3d1a1136d6f74ce6a90b1d9f45f298.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6c69a04e2/92470842/6c69a04e2feb4f4161ae9d0db2109b62.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6e4a03e26/92470842/6e4a03e26ddd5b4fa23f7e6819be2abb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9bf25e845/92470842/9bf25e845cb9dcf0f7a98cf9f00939cf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a0f020f07/92470842/a0f020f07a4168d17af48808a3e4bfa9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d03c30dce/92470842/d03c30dce4e5a9d5408d7ed5f814715e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ec569b122/92470842/ec569b122bb3af8702547192f1e4d09c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f5316478e/92470842/f5316478ee46248eabeb62dca0b877da.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d517f3704/92470842/d517f3704ea7d1046a6989bba6ea1e2f.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Parson Street Station",
+   "miles": 0.32621865276817436,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bedminster Station",
+   "miles": 0.5117160088217939,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 1.3101419642616772,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "House + Co Property, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS3",
+ "scrapedAt": "2026-08-30T10:22:37.480Z"
+}

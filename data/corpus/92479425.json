@@ -1,0 +1,89 @@
+{
+ "id": "92479425",
+ "displayAddress": "Montpelier Park, Edinburgh, EH10",
+ "outcode": "EH10",
+ "incode": "4NH",
+ "latitude": 55.936862,
+ "longitude": -3.211724,
+ "priceAmount": 1700,
+ "priceLabel": "£1,700 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92479425",
+ "area": "Montpelier Park, Edinburgh",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "30/09/2026",
+  "deposit": 500,
+  "minimumTermMonths": null,
+  "councilTaxBand": "E"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "DEPOSIT £500 - Two bedroom furnished flat located in Edinburgh. TO BOOK A VIEWING ONLINE, PLEASE FILL OUT THE CONTACT AGENT FORM.\n\n\rTwo bedroom furnished flat located in Edinburgh.  The accommodation comprises of a living room with bay windows, two double bedrooms, box room/study, shower room and dining kitchen with utility room leading off.  The property further benefits from gas central heating, permit parking and ample storage\n\nDeposit : £500\nEPC Rating: C\nCouncil Tax Band: E\nLandlord Registration: 51891/230/28390\nAdditional costs: council tax and water charge / utilities / broadband  / Garden Waste Bin from local authority at additional cost \nHeating Type: Gas Central Heating \nProperty Floor: First floor\nUtilities : Credit Meter\nElectricity Supplier: TBC\nGas Supplier: TBC\nBroadband Type: Full Fibre Available *as obtained from    Further information regarding broadband and phone signal can be obtained from the Ofcom broadband and mobile coverage checker - Broadband and mobile coverage checker - Ofcom  \nParking Type: Council permit parking (at additional cost from local council) \nPlanning permission: Please check this properties local authority planning website for any planning which may impact the property or local area in future.\nAll statements contained herein are believed to be correct but are not guaranteed and interested parties must satisfy themselves as to their accuracy. \nLetting Agent Registration Number: LARN1812026",
+ "keyFeatures": [
+  "Two total bedrooms",
+  "Two double bedrooms",
+  "One reception room",
+  "One bathroom",
+  "Apartment/Flat",
+  "First floor",
+  "Permit parking",
+  "Traditional",
+  "Town/City",
+  "Long let"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/00716786a/92479425/00716786a5286635e73fc796d26dfadd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5734793ad/92479425/5734793ade5685344c41907d10bfe35e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/431775072/92479425/4317750722446e76396a6a4fc28fe99b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ea7632293/92479425/ea7632293c118313dfdb0039a73a18f2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9ca507398/92479425/9ca5073986bf023108e1204d4d79fc60.jpeg",
+  "https://media.rightmove.co.uk/property-photo/35c4c3d11/92479425/35c4c3d115b04a38a3f239fb0ae80481.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c011dc4b8/92479425/c011dc4b82f4ae86136ca1e57b7fa5e3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2a0781a03/92479425/2a0781a03056de4f3fd3e91e4e62f1dd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fbb93ea00/92479425/fbb93ea0016374dd605a066cb5bb47d8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f6ec08d8b/92479425/f6ec08d8bde052b8e061b96c34b0444a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6f2c266c1/92479425/6f2c266c14d9416f7231c928d3075e22.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6de2632a4/92479425/6de2632a467b9bdeb4a7089d864fded8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5489100a2/92479425/5489100a2ffe0eb8b6a82c23dcd9d200.jpeg",
+  "https://media.rightmove.co.uk/property-photo/231917d34/92479425/231917d34562c594c66c4441bdc2f259.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f7e116ab/92479425/5f7e116ab9817d0ecac0540381e629f1.jpeg"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Haymarket Station",
+   "miles": 0.6383610455464196,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 1.3504585974206098,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 1.4223642029261598,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "DJ Alexander, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH10",
+ "scrapedAt": "2026-08-30T11:04:08.201Z"
+}

@@ -1,0 +1,90 @@
+{
+ "id": "92549631",
+ "displayAddress": "Enclave, Birmingham City, B5",
+ "outcode": "B5",
+ "incode": "6SN",
+ "latitude": 52.47117,
+ "longitude": -1.89516,
+ "priceAmount": 1413,
+ "priceLabel": "£1,413 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92549631",
+ "area": "Enclave, Birmingham City",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished or unfurnished, landlord is flexible",
+  "letAvailableDate": "Now",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "2 weeks rent free!\n\nWelcome to Enclave Birmingham City, a striking new pet-friendly community in Birmingham’s vibrant Southside district. Designed with modern living in mind, this landmark development combines contemporary architecture with first-class facilities, creating a stylish and connected lifestyle in the heart of the city.\n\nThe Apartments\n\nEach apartment has been thoughtfully crafted to blend comfort, functionality, and design flair. Smart home technology, sleek finishes, and open-plan layouts come together to create bright, modern spaces ideal for both relaxing and entertaining. Expect SMEG fittings throughout, generous storage, and a contemporary aesthetic that feels effortlessly at home in one of Birmingham’s most dynamic neighbourhoods.\n\nExclusive Amenities\n\nResidents enjoy access to a wealth of premium on-site amenities:\n\nFlexible lease terms with no deposit required\n\n24/7 on-site resident team and dedicated maintenance support\n\nCo-working spaces, podcast studios, and private meeting rooms\n\nFamily and pet-friendly facilities, including a soft play area and pet wash\n\nWith two buildings open already and the third launching in Spring 2026, even more luxury amenities are on the way — from a state-of-the-art gym, spa, cinema, and games room to beautifully landscaped rooftop gardens, a bar lounge, and music room. Every detail is curated to support a seamless, social, and sophisticated lifestyle.\n\nThe Location\n\nPerfectly positioned on Lower Essex Street, this development sits moments from Birmingham New Street Station and the Bullring, placing you within easy reach of the city’s best shopping, dining, and entertainment. Southside’s eclectic mix of cafés, theatres, and cultural hotspots means there’s always something new to discover right on your doorstep\n\n*2 weeks rent free is deducted across the annual rate, giving the reduced monthly price you see advertised!\n*Available for student let\n* Imagery is indicative\nViewing Tour disclaimer: This advertisement relates to a specific unit at the stated rent. Where multiple units are available within the same development, you may be shown other apartments during your viewing. Each unit is marketed at its own advertised rent, which will be clearly confirmed to you before any offer is submitted. We do not accept offers above the advertised rent for any property. The rent agreed will always be the advertised rent for the selected unit, in accordance with the Renters’ Rights Act.",
+ "keyFeatures": [
+  "2 weeks rent free!",
+  "Brand new development",
+  "Close to Bullring and New Street",
+  "24-hour Concierge",
+  "Pet Friendly",
+  "Monthly Residents Events",
+  "Close to Bullring and New Street",
+  "No Deposit Required"
+ ],
+ "tags": [
+  "BUILT_FOR_RENTERS",
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/9b73e4349/92549631/9b73e43491052f8949bae2f0ac067787.png",
+  "https://media.rightmove.co.uk/property-photo/41756adc9/92549631/41756adc98c128ed6863db6d760636b5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c5ad87481/92549631/c5ad87481885cd2e19b6c4f367f74ec8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bba9b0360/92549631/bba9b0360b76429d698d6a2726825d64.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4b91cf55c/92549631/4b91cf55c29873b31995a3b95a6889bd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2b524ea7a/92549631/2b524ea7a61bda67c0a9e87fdbf8891b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/74cababac/92549631/74cababac46f160064fe3a552ae2c568.png",
+  "https://media.rightmove.co.uk/property-photo/9b7f057ef/92549631/9b7f057efccf58eb1858859d039867b2.png",
+  "https://media.rightmove.co.uk/property-photo/e35f019cc/92549631/e35f019ccbe76cb9542609f84cdd182b.png",
+  "https://media.rightmove.co.uk/property-photo/90c988528/92549631/90c9885284281b3cbfff10c5e3e1c214.png",
+  "https://media.rightmove.co.uk/property-photo/c285f2beb/92549631/c285f2beb1b3091da8c0484b00438bf7.png",
+  "https://media.rightmove.co.uk/property-photo/5590bcf7b/92549631/5590bcf7be850d4fde9c8b7c625c0896.png",
+  "https://media.rightmove.co.uk/property-photo/d1195bea1/92549631/d1195bea1d70c2995602b66547668a26.png",
+  "https://media.rightmove.co.uk/property-photo/0c5c368ba/92549631/0c5c368bae8ef4726ae7048119280021.png",
+  "https://media.rightmove.co.uk/property-photo/ef4811de2/92549631/ef4811de2cba75e9ed609dc6852ce2b6.png"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 0.48108649487904187,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Moor Street Station",
+   "miles": 0.5587159411437873,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Five Ways Station",
+   "miles": 0.7626059494118287,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Home Made, London",
+ "city": "Birmingham",
+ "sourceOutcode": "B5",
+ "scrapedAt": "2026-08-30T10:19:52.119Z"
+}

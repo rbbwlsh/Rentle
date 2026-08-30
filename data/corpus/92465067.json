@@ -1,0 +1,72 @@
+{
+ "id": "92465067",
+ "displayAddress": "Hughenden Road FFF – Ref: 820",
+ "outcode": "BS8",
+ "incode": "2TT",
+ "latitude": 51.468081,
+ "longitude": -2.618009,
+ "priceAmount": 2550,
+ "priceLabel": "£2,550 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92465067",
+ "area": "Hughenden Road FFF – Ref: 820",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 2850,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "REF: 820 Student Property\r\n\r\nFantastic three double bedroom property located between the open space of the downs and all of the amenities of whiteladies road. This first floor flat occupies the upper floors of the building and retains many period features. A spacious lounge with separate kitchen/dining area. Large family sized bathroom plus additional ensuite shower room. The flat offers plenty of built in storage and is offered furnished.\r\n\r\nEPC rating D.",
+ "keyFeatures": [
+  "2 Bathrooms"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a48cea0a4/92465067/a48cea0a4a1c651ade01f019b9d1ab35.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d00cd7d8e/92465067/d00cd7d8ea550799df1293b1674db717.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cedb10fcd/92465067/cedb10fcdd0e45699bb2611f6e6efe5b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3d3a2b6ce/92465067/3d3a2b6ce2e6790437df43de3e38d099.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5b59a3be5/92465067/5b59a3be5aca5f2add86077ee3ab5157.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0e7837f43/92465067/0e7837f43187307f4bfb777d86ed4440.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f94fd560a/92465067/f94fd560a7f4ae4b6f7c2e4f98a5b3dd.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.3882351396864394,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.8033762255451788,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Montpelier Station",
+   "miles": 1.2633303106125833,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Jackson Property Management Ltd, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS8",
+ "scrapedAt": "2026-08-30T11:03:17.436Z"
+}

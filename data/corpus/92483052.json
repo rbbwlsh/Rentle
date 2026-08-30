@@ -1,0 +1,80 @@
+{
+ "id": "92483052",
+ "displayAddress": "Harold Grove, Leeds",
+ "outcode": "LS6",
+ "incode": "1PH",
+ "latitude": 53.808933,
+ "longitude": -1.571861,
+ "priceAmount": 895,
+ "priceLabel": "£895 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92483052",
+ "area": "Leeds",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 895,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "AVAILABLE NOW\r\n\r\nA LARGER THAN AVERAGE GAS CENTRALLY HEATED & UPVC DOUBLE GLAZED TWO DOUBLE BEDROOMED END BACK TO BACK PROVIDING SPACIOUS FURNISHED ACCOMMODATION SITUATED IN THIS CONVENIENT LOCATION, CLOSE TO LOCAL SHOPS, HYDE PARK CINEMA AND WITHIN EASY REACH OF THE CITY CENTRE & UNIVERSITIES.\r\n\r\nComprising a lounge, fitted kitchen, two double bedrooms and a large bathroom w/c. Please note there is a pay as you go gas & electric meter. (Should a tenant wish to revert back to a regular meter, this would be permitted) \r\n\r\nA deposit of £895 will be required which will be registered with an approved scheme within 30 days of initial payment. A holding deposit of £100 is required when making an application. If the application is approved the holding deposit will go towards the first month's rent payment.",
+ "keyFeatures": [
+  "Spacious End back to Back",
+  "Two Double Bedrooms",
+  "Close to shops, cinema &amp; universities",
+  "Furnished accommodation",
+  "Available NOW",
+  "Central heating &amp; double glazing",
+  "EPC RATING - D"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/8ad7f36d8/92483052/8ad7f36d8f126fd0abc5e4fc9a11fade.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5740893bf/92483052/5740893bfed1631d892b55b826572a1c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f3d570fc8/92483052/f3d570fc8b263c13eebfd4f43cc266e0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/358b0c239/92483052/358b0c2395c388c7f03f31c4f3a591d3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/747453911/92483052/747453911dd050cba770a47f1ab08482.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2fd1d68e7/92483052/2fd1d68e7bc81fdd8f012a80bd80ccb0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1d198e1ef/92483052/1d198e1efaf9f754895efdd192cde0c7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/719bfbf6a/92483052/719bfbf6a672662f3b970bc6abd86a0c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7ba86e310/92483052/7ba86e310e983917ea8fde1c05ba022d.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Burley Park Station",
+   "miles": 0.3302169369754683,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 1.1047081951879476,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Leeds Station",
+   "miles": 1.4470899665446761,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Castlehill, Headingley",
+ "city": "Leeds",
+ "sourceOutcode": "LS6",
+ "scrapedAt": "2026-08-30T10:24:43.472Z"
+}

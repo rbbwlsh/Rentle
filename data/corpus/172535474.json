@@ -1,0 +1,86 @@
+{
+ "id": "172535474",
+ "displayAddress": "F18 - 54 George Road, Five Ways, West Midlands, B15",
+ "outcode": "B15",
+ "incode": "1PL",
+ "latitude": 52.471477,
+ "longitude": -1.913832,
+ "priceAmount": 943,
+ "priceLabel": "£943 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/172535474",
+ "area": "Five Ways, West Midlands",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 350,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "| £217 pppw inc bills | 1 Bedroom flat | Available for 26/27 Academic Year | Tenancy Start Date: 01/09/2026 | EN-SUITE SHOWER ROOM | Close to Five Ways Station | DIGITAL ENTRY & CCTV | Ref: 17225 |\n\nPositioned within easy reach of Five Ways train station, this property benefits from excellent transport links to both Edgbaston/Selly Oak and City Centre university campuses. A short walk takes you to local shops, food, and nightlife. The property sits in a popular student area.\n\nThis modern studio apartment offers 26 sq.m. of living space. It is fully furnished with a double bed, drawer unit, wardrobe, desk, chair, two-seater sofa, and a wall-mounted flat-screen TV. The kitchenette includes a microwave oven, a two-ring ceramic hob with an extractor fan, and a full-sized fridge with a freezer compartment. One bedroom benefits from an en-suite shower room.\n\nCommunal areas include a central laundry room on the ground floor. A digital entry system and CCTV help tenants feel safe and secure. Super-fast Wi-Fi is available throughout the building.\n\nThis well-maintained property has been updated to a high standard, providing spacious and contemporary student accommodation.",
+ "keyFeatures": [
+  "Available for 26/27 Academic Year",
+  "Bills Included Option",
+  "Close to University",
+  "Near Train Station",
+  "Recently Refurbished",
+  "High Spec Finish",
+  "Fully Furnished",
+  "White Goods Included",
+  "En-Suite Available",
+  "Secure Entry System"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c8cd8fbdc/172535474/c8cd8fbdc1f46c63c5397cd2317a159a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e3867f350/172535474/e3867f350736a39c8ede53138b0eea41.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6f6efcc2f/172535474/6f6efcc2fea850da5a805e82a9d98343.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a6df0e48f/172535474/a6df0e48f4a3ec523aaed45729c0d0f4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0125d6805/172535474/0125d680500ec358da59c3d21c595cf2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/69ee8180a/172535474/69ee8180a658eaee698f1836f65bb76e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a2498b699/172535474/a2498b699a3f60be5093f16ef4369243.jpeg",
+  "https://media.rightmove.co.uk/property-photo/963da472b/172535474/963da472ba37b2ca1b637f9fd5c2b8c3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9cb0d827b/172535474/9cb0d827b4ef30c39406e718888609a6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e1de0c50e/172535474/e1de0c50ea1d07b9323038bf7c245424.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4f74e3542/172535474/4f74e35425d73bbbbbe2502d6ca363a1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ad1ecdc83/172535474/ad1ecdc83cde38849dcef52c12114abe.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Five Ways Station",
+   "miles": 0.11203020988304438,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 0.7628879456797881,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Snow Hill Station",
+   "miles": 1.008523156062852,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "PURPLE FROG ASSET MANAGEMENT LIMITED, Selly Oak",
+ "city": "Birmingham",
+ "sourceOutcode": "B15",
+ "scrapedAt": "2026-08-30T10:20:40.725Z"
+}

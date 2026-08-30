@@ -1,0 +1,83 @@
+{
+ "id": "92531382",
+ "displayAddress": "Hallewell Road - 154192, Edgbaston, West Midlands, B16",
+ "outcode": "B16",
+ "incode": "0LP",
+ "latitude": 52.48098,
+ "longitude": -1.945279,
+ "priceAmount": 600,
+ "priceLabel": "£600 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92531382",
+ "area": "Edgbaston, West Midlands",
+ "bedrooms": 1,
+ "bathrooms": 2,
+ "propertySubType": "House",
+ "details": {
+  "propertyType": "House",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 500,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "| £138 pppw inc bills | Room 4 available | House Share | Available for 26/27 Academic Year | Tenancy Start Date: 01/09/2026 | WALK to Uni Hospital | Large Private Garden | Ref:  154192 |\n\nPositioned within easy reach of the new Midland Metropolitan University Hospital, this property sits in the vibrant heart of Edgbaston. A short walk takes you to local amenities.\n\nEach of the seven bedrooms comfortably accommodates a double bed, wardrobe and desk. Two bedrooms benefit from an en-suite shower room. All bedrooms are of a similar size for fairness.\n\nA fully equipped kitchen includes sleek fittings, a breakfast bar, and ample storage. The open-plan kitchen-diner creates a sociable cooking space. A large separate lounge provides additional communal living space.\n\nThe property has been designed to create a welcoming, homely atmosphere with plenty of natural daylight.\n\nA large private rear garden provides outdoor space for warmer months. Secure bike storage is available for all tenants.\n\nWhere bills are included: Gas, electricity, water, TV licence, fibre broadband where possible (limited by a fair usage policy).\n\nHolding Deposit: £138 per person\nCouncil Tax Band: D",
+ "keyFeatures": [
+  "Available for 26/27 Academic Year",
+  "Bills Included Option",
+  "Close to University",
+  "Walking Distance to Uni",
+  "Private Garden",
+  "Bike Storage",
+  "En-Suite Available",
+  "All Double Bedrooms",
+  "Large Living Space",
+  "Modern Kitchen"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/fa2e9c0a7/92531382/fa2e9c0a749bd2dfb9913938c95d55f9.png",
+  "https://media.rightmove.co.uk/property-photo/c8dd29c29/92531382/c8dd29c294ff13c3c4f756311a687396.png",
+  "https://media.rightmove.co.uk/property-photo/842ab9c72/92531382/842ab9c72cf1f38b17951b3d05f94d65.png",
+  "https://media.rightmove.co.uk/property-photo/52c05e01c/92531382/52c05e01c05bca7e0ee1b7b670811aee.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f7dce662a/92531382/f7dce662a1216a8e01efa5469c115341.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ddf3be3ea/92531382/ddf3be3ea56c8d5def8e4dbc9067e431.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aaf3c706d/92531382/aaf3c706d9fe02dfb4c4e327077ad86c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bf0626072/92531382/bf06260729e883a3e8e03cd7f7bf62fd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5b7e0ebef/92531382/5b7e0ebef5520a80d88722193b555f2a.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Soho, Benson Road Tram Stop",
+   "miles": 1.246939161232252,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Winson Green Outer Circle Tram Stop",
+   "miles": 1.2486981779150628,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Smethwick Galton Bridge Tram Stop",
+   "miles": 1.2780738599050525,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "PURPLE FROG ASSET MANAGEMENT LIMITED, Selly Oak",
+ "city": "Birmingham",
+ "sourceOutcode": "B16",
+ "scrapedAt": "2026-08-30T10:21:22.304Z"
+}

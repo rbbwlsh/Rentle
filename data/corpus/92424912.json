@@ -1,0 +1,88 @@
+{
+ "id": "92424912",
+ "displayAddress": "Idaline Court, Hollydene, Southwark, London",
+ "outcode": "SE15",
+ "incode": "2EN",
+ "latitude": 51.47464,
+ "longitude": -0.062389,
+ "priceAmount": 2550,
+ "priceLabel": "£2,550 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92424912",
+ "area": "Southwark, London",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Town House",
+ "details": {
+  "propertyType": "Town House",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 1116,
+  "sizeSqM": 104,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Ask agent",
+  "deposit": null,
+  "minimumTermMonths": 12,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": 1116,
+ "sizeSqM": 104,
+ "description": "2-Bedroom Townhouse\r\n\r\nKey Features: \r\n\r\nBright one-bed with floor-to-ceiling windows \r\n\r\nPrivate balcony or terrace \r\n\r\nSleek kitchen with integrated appliances \r\n\r\nAccess to landscaped courtyard garden \r\n\r\nVideo entry and fob-access \r\n\r\nSecure bike storage; optional gated parking* \r\n\r\nPet-friendly apartments  \r\n\r\nFriendly on-site concierge team on hand to help   \r\n\r\nCommunity social events  \r\n\r\n \r\n\r\nLocal Highlights: \r\n\r\nClose to transport links and amenities \r\n\r\n4-minute walk to Queen's Road Peckham  \r\n\r\n8-minute train London Bridge \r\n\r\n \r\n\r\nDetailed Descriptions:  \r\n\r\nEnjoy a home where calm meets convenience. This one-bedroom apartment boasts an open-plan layout and a private balcony or terrace.  \r\n\r\nOur apartments are finished to a high specification, perfect for solos and couples. You'll be coming home to a beautifully designed, open-plan home that has all the bells and whistles such as fully integrated appliances, ample storage, large windows, private balcony or terrace, spacious bedrooms and modern bathrooms.  \r\n\r\nWhile you're just minutes from Queen's Road, Peckham and Zone 2 Overground and rail connections, you'll find an escape in our communal gardens. A short stroll from nearby galleries, cafes and restaurants, you'll find the perfect balance at Idaline Court.  \r\n\r\nYou'll be joining a close-knit community, with a friendly on-site team on hand to help - whether it's a maintenance request or advice about the best brunch spot. Get to know your neighbours with our calendar of outdoor events - designed to make the most of the garden courtyard. \r\n\r\nPlease note: All images, floorplans, and particulars included are for illustrative and indicative purposes only. Individual features and layout may vary. *Car parking available at an additional fee.",
+ "keyFeatures": [
+  "Townhouse-style apartment (multi-level layout typical of duplex homes)",
+  "New-build home with strong energy performance (EPC B)",
+  "Some townhouse/duplex units benefit from private front door access, enhancing a \"house-like\" feel",
+  "Great transportation links ",
+  "Designed for family living or sharers, with larger internal proportions",
+  "Spacious, open plan living, kitchen, and dining area",
+  "Floor to ceiling or large windows creating bright, airy interiors",
+  "Generous storage, including utility cupboards with washer dryer",
+  "Modern fitted kitchen with integrated appliances and sleek finishes",
+  "Access to landscaped gardens and premium resident amenities"
+ ],
+ "tags": [
+  "BUILT_FOR_RENTERS"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/84dccce4e/92424912/84dccce4ef957bf97c0ea9e836f737ad.jpeg",
+  "https://media.rightmove.co.uk/property-photo/68cddd2e1/92424912/68cddd2e187157514527cdeb2f87eaac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/131e37a96/92424912/131e37a9605b31c3c3e578e15b9fa3a8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/48e5d01cb/92424912/48e5d01cb082ad0e002c7f6463953f63.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5b82e66df/92424912/5b82e66df84807807b7644d98e294820.jpeg",
+  "https://media.rightmove.co.uk/property-photo/241729cc8/92424912/241729cc86efe3be599897e609eac765.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3a219eb39/92424912/3a219eb39370417f0df556d1bc96ba5d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1b616b122/92424912/1b616b122d81426a8cca8c6b8fdcbba3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee58dc53c/92424912/ee58dc53ccd9683fbb5774c0ef44d3e8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/184462b5a/92424912/184462b5aa51d1394026dfd4759a176f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/56917e9af/92424912/56917e9af5d7fffcb28c8e8f04fcadfe.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Queens Road Peckham Station",
+   "miles": 0.2321860804423049,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Peckham Rye Station",
+   "miles": 0.43698893736233263,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Nunhead Station",
+   "miles": 0.6669094067869862,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Greystar, Idaline Court",
+ "city": "London",
+ "sourceOutcode": "SE15",
+ "scrapedAt": "2026-08-30T10:14:50.525Z"
+}

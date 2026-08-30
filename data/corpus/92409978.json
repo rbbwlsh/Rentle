@@ -1,0 +1,70 @@
+{
+ "id": "92409978",
+ "displayAddress": "Crescent Road, Crouch End N8 ",
+ "outcode": "N8",
+ "incode": "8AN",
+ "latitude": 51.577473,
+ "longitude": -0.126177,
+ "priceAmount": 1798,
+ "priceLabel": "£1,798 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92409978",
+ "area": "Crescent Road",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": null,
+  "letAvailableDate": "Now",
+  "deposit": 2075,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Recently refurbished throughout this fantastic one bedroom apartment has modern fixtures and neutral decor throughout. The property comprises of a good sized lounge, separate modern fully fitted kitchen, luxury bathroom and a good sized double bedroom.Crescent Road is set in an excellent location close to the amenities and transport links of Crouch End as well as local green spaces.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/27ed39cfd/92409978/27ed39cfda18ed66e723dfddc04a8170.jpeg",
+  "https://media.rightmove.co.uk/property-photo/34a315f5c/92409978/34a315f5cd5eab998d3a0dc4c4359d03.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b738d65e1/92409978/b738d65e1633d366cddf84d876e9467c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a53362145/92409978/a53362145273801ba9dc622091afe0b4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a8673a116/92409978/a8673a1165a34c2f9550604bd94f5ab4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bf12425d6/92409978/bf12425d6d487f95a5c91bd3e9f1defd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9168cd3c7/92409978/9168cd3c7a227e0a0205859d470e868e.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Crouch Hill Station",
+   "miles": 0.5728927004023139,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Hornsey Station",
+   "miles": 0.8758386200077988,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Highgate Station",
+   "miles": 0.8838137697510802,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "Black Katz, Camden",
+ "city": "London",
+ "sourceOutcode": "N8",
+ "scrapedAt": "2026-08-30T10:14:08.847Z"
+}

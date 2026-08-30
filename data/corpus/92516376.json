@@ -1,0 +1,87 @@
+{
+ "id": "92516376",
+ "displayAddress": "Riverside Way, Leeds, LS1",
+ "outcode": "LS1",
+ "incode": "4EE",
+ "latitude": 53.793768,
+ "longitude": -1.556642,
+ "priceAmount": 995,
+ "priceLabel": "£995 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92516376",
+ "area": "Leeds",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 549,
+  "sizeSqM": 51,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "05/10/2026",
+  "deposit": 1148,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": 549,
+ "sizeSqM": 51,
+ "description": "The property comprises: entrance hall with doors to the bathroom, bedroom, kitchen and lounge with door to the corner balcony, with views of the river, canal and the city.\n\nFrom the hallway to living room/kitchen is LVT flooring, a fully fitted kitchen with integrated 70/30 fridge freezer, dishwasher, oven, microwave, hob, extractor and bins. the utility cupboard houses the washing machine, vented water cylinder and has storage. The bedroom is carpeted with fitted double wardrobes, with a fitted blind to the window which has views down the river, the bathroom is fully tiled with hand wash basin in vanity unit, wall hung WC, bath with double shower over and under floor heated mat.\n\nLocated on Riverside Way just off Whitehall Road, its just a 5 minute walk down the river to the train station providing a great location for being close to the Night life and Shops, opposite is the wonderful Wellington Place with all its offering and a bridge over the river to Granary Wharf, in our opinion simply one of the best locations.\n\nPlease note that any application to rent this property will be subject to a tenants referencing service which will include a credit and afford ability check. As a minimum requirement you must be able to demonstrate an annual income of at least £29,850, a deposit is also required but subject to your individual circumstances, terms and conditions a Reposit is available.\n\nEPC Rating: B",
+ "keyFeatures": [
+  "Superb one bedroom Apartment",
+  "Secure Underground car park for one car",
+  "Wellington Place and Granary Wharf on  your doorstep",
+  "Corner balcony with river, city and canal views",
+  "5 minute river walk to the train station.",
+  "Great location for city living",
+  "BT Fibre to the Premises"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/839e6d73b/92516376/839e6d73b11a63e62040c784033e3f12.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b47c4f450/92516376/b47c4f450915a92f33e23bd4e0019ec0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ec8a4984b/92516376/ec8a4984bb5c2cf8c502c900ed567408.jpeg",
+  "https://media.rightmove.co.uk/property-photo/085f303ce/92516376/085f303ce3030a91cfbb6a6425c6ca75.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c84e32743/92516376/c84e327434111099b3d897fec2acb46a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5b41a1dcb/92516376/5b41a1dcbdbdb3f3cbf8c4276efef236.jpeg",
+  "https://media.rightmove.co.uk/property-photo/08f88dfa6/92516376/08f88dfa60e71c5b4a9d3a81473b5c64.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d857b9776/92516376/d857b97766f8b46fd80a7b6fab5860c9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4f6b0191a/92516376/4f6b0191a71c3e77f755c8227d8ffcf0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2f1d4a564/92516376/2f1d4a56411837e5fc5e6fb52251d489.jpeg",
+  "https://media.rightmove.co.uk/property-photo/41cb66eb3/92516376/41cb66eb345bebed92b5bb049ab5f096.jpeg",
+  "https://media.rightmove.co.uk/property-photo/41ec3df96/92516376/41ec3df9685354acae8699005d98fb4e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1e187522e/92516376/1e187522ef1b8626f71b2b3a49657e8f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f2eef555e/92516376/f2eef555ebbd3e198bbb0ac24a74a34b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/62d28743e/92516376/62d28743e8adcd404a0f0c87c57fec09.jpeg",
+  "https://media.rightmove.co.uk/property-photo/08a881afa/92516376/08a881afa4964f2e23a1cf112feb84da.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 0.38988244020788937,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 1.5352475553350258,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cottingley Station",
+   "miles": 2.2029772785523494,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Shaun Mellor Property, Morley",
+ "city": "Leeds",
+ "sourceOutcode": "LS1",
+ "scrapedAt": "2026-08-30T10:23:37.677Z"
+}

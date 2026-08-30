@@ -1,0 +1,76 @@
+{
+ "id": "92532147",
+ "displayAddress": "Georgia Avenue, West Didsbury , M20 1LY",
+ "outcode": "M20",
+ "incode": "1LY",
+ "latitude": 53.42868,
+ "longitude": -2.24588,
+ "priceAmount": 1000,
+ "priceLabel": "£1,000 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92532147",
+ "area": "West Didsbury",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Part furnished",
+  "letAvailableDate": "Now",
+  "deposit": 1153,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "** Zero Deposit Guarantee Available **\nAvailable 20th October. This spacious second floor one bedroom apartment is presented to an excellent standard and located within a popular development just a short walk from West Didsbury Village. In brief the property comprises: entrance hallway with utility cupboard, open plan living room and stylish kitchen with appliances, one large double bedroom with built in wardrobe,  and large bathroom with three piece white suite and shower over bath. Private parking space. Double glazing. Part Furnished. Available 20th October. Council Tax Band:  Holding Deposit: £230.00",
+ "keyFeatures": [
+  "Spacious one bedroom apartment. Available 20th October",
+  "Second floor",
+  "Well presented",
+  "Open plan living room and kitchen.",
+  "Excellent sized double bedroom",
+  "Great Location",
+  "Available 20th October"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/e58b7455d/92532147/e58b7455d658a1319e09c1f1cac6a307.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ef5220dea/92532147/ef5220dea72fdd241ff7c735753bca58.jpeg",
+  "https://media.rightmove.co.uk/property-photo/834f4abd4/92532147/834f4abd465da7cf9085d43cbe6bc64c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d759bd538/92532147/d759bd53885f4451463f33a4ba5adb93.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b4a9e4570/92532147/b4a9e45704505b6e5d46f569cd16eff4.jpeg"
+ ],
+ "imageCount": 5,
+ "nearestStations": [
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 0.22002376487167127,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Withington Tram Stop",
+   "miles": 0.31084921453449876,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 0.4903935024067282,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Bridgfords Lettings, Didsbury",
+ "city": "Manchester",
+ "sourceOutcode": "M20",
+ "scrapedAt": "2026-08-30T10:18:31.869Z"
+}

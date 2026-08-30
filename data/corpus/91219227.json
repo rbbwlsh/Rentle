@@ -1,0 +1,78 @@
+{
+ "id": "91219227",
+ "displayAddress": "Broughton Street Lane, Edinburgh, Midlothian",
+ "outcode": "EH1",
+ "incode": "3LY",
+ "latitude": 55.957406,
+ "longitude": -3.187322,
+ "priceAmount": 2100,
+ "priceLabel": "£2,100 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91219227",
+ "area": "Edinburgh, Midlothian",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 786,
+  "sizeSqM": 73,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 2300,
+  "minimumTermMonths": null,
+  "councilTaxBand": "E"
+ },
+ "sizeSqFt": 786,
+ "sizeSqM": 73,
+ "description": "Forming part of 'The Mews' Broughton Street Lane, this modern two bedroom mews style home is split over four levels.\n\nThe accommodation comprises, on ground floor level: double bedroom with large mirrored fitted wardrobes, shower room. On the first floor is the open plan living space, with sitting and dining area, and contemporary fitted kitchen with integrated appliances. A mezzanine level overlooks the living space, which is currently set up as a study area. On the lower ground level is the master bedroom, with mirrored fitted wardrobes and French doors leading out to the private garden area. The second shower room is also on this level.\n\nThe development has been built to be synonymous with traditional mews house style but with a modern twist. The property is beautifully bright with contemporary features such as a skylight, large windows and everything is finished to a very high specification. Positioned just off Broughton Street, ''The Mews' has a number of first-rate bars and restaurants on its doorstep, like The Olive Branch, Rollo, The Educated Flea and Treacle. There is easy access to an excellent range of local shopping, restaurants and bars as well as leisure facilities at the Omni cinema complex, 5 minutes away from the development. Waverley Train Station is a 10 minute walk away and there is convenient road access to the City bypass, Edinburgh international Airport and the motorway network. ''The Mews' Broughton Street Lane is also on the right side of town for easy access to the A1, whilst the tram terminus at the end of York Place is a short walk from the development.\n\nDeposit: £2,300\nFurnished\nNo Pets\nCouncil Tax Band: E\nEPC Rating: B\nLandlord Registration: 1139313/230/18111 & 521489/230/09042\nScottish Letting Agent Registration: LARN1903047\n\nEPC Rating: B\nCouncil Tax Band: E",
+ "keyFeatures": [],
+ "tags": [
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/719420bc9/91219227/719420bc9eca6adafbf613e16f659f82.jpeg",
+  "https://media.rightmove.co.uk/property-photo/214aa6a3a/91219227/214aa6a3a18ae7c12caaab56849be6ca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0d46f2e4b/91219227/0d46f2e4b50103c23167c86adc6bffd0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/404676504/91219227/404676504691472fbbbd7595629783aa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/193f7b85e/91219227/193f7b85e0e52807ddde346951347d46.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1192aa0ef/91219227/1192aa0ef2e026890cf47902e349be11.jpeg",
+  "https://media.rightmove.co.uk/property-photo/917a8ef19/91219227/917a8ef19145a731d5f3d02bd9394e83.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1cc7f0331/91219227/1cc7f0331d120d2acff16e589bc223bd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8c0aadba5/91219227/8c0aadba50b425fe7d4327fa1d63b12b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e064cf430/91219227/e064cf4308cdb9c51fb607222a6a30f1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/31ce24dc0/91219227/31ce24dc04e9af184fbcc51e08c9c0f1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2e9721f0c/91219227/2e9721f0ca4e6b91eb35ffe724f03062.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dfccd23ee/91219227/dfccd23eef2bbc9245df59e417fb721d.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.38511570033290604,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.45763130982447,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 3.04887292652856,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Rettie, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH1",
+ "scrapedAt": "2026-08-30T11:03:59.131Z"
+}

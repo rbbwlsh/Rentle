@@ -1,0 +1,89 @@
+{
+ "id": "170807879",
+ "displayAddress": "Ridgeway Terrace, Woodhouse, Leeds, LS6",
+ "outcode": "LS6",
+ "incode": "2HU",
+ "latitude": 53.81622,
+ "longitude": -1.556112,
+ "priceAmount": 2080,
+ "priceLabel": "£2,080 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/170807879",
+ "area": "Woodhouse, Leeds",
+ "bedrooms": 6,
+ "bathrooms": 2,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 6,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "Ask agent",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Available Now. £102pppw including bills or £80pppw without bills. Six huge bedrooms. Two bathrooms. Modern fixtures & fittings. Dining kitchen. Spacious lounge. Leather sofas. TV included. Dishwasher. Washing machine. Dryer. Popular student location. Walking distance to the University. It's worth viewing!",
+ "keyFeatures": [
+  "Dishwasher",
+  "Dryer",
+  "Washing machine",
+  "TV included",
+  "Modern fixtures &amp; fittings",
+  "Bills included option",
+  "Popular student location",
+  "Two bathrooms",
+  "Student Lettings"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/22f40ea9c/170807879/22f40ea9c99b4270b5df73a230c1bd4a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d876f3d68/170807879/d876f3d6842d221a3fb94231ae3dc433.jpeg",
+  "https://media.rightmove.co.uk/property-photo/00c3a0d06/170807879/00c3a0d0679d086aa11c5569e17070bd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bd58fba6b/170807879/bd58fba6b9d832e076d47ccb0a1b10bf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2c024273a/170807879/2c024273af42daeea4ccd3990738724b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/98f466768/170807879/98f4667688bb98331bf8ad3de8e4d733.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bbb5b726b/170807879/bbb5b726bd345349462fa4706ff69c93.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e69d927e2/170807879/e69d927e2a8794083fe9bd732fdcda4e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4b3507711/170807879/4b3507711b31e3a530a3c7329d4c9316.jpeg",
+  "https://media.rightmove.co.uk/property-photo/93512102d/170807879/93512102d9d77f40a0f4fc25d7ca4a7c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9f22240e9/170807879/9f22240e93dcb10ea1e5998084829044.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9e8f12934/170807879/9e8f12934cd68f501efa720fb1f64aff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2992717c9/170807879/2992717c994e9207cc7ca460285fb85e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ae8258c86/170807879/ae8258c86afcbe6b31efdcb498473a80.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e782a7103/170807879/e782a71039e3171de887414339bf2aef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/34dda0fe7/170807879/34dda0fe747d7e67ea623ac410c2d87c.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Burley Park Station",
+   "miles": 0.9455342275672752,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 1.5601158444235004,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Leeds Station",
+   "miles": 1.5811114549248049,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Provision Properties, Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS6",
+ "scrapedAt": "2026-08-30T10:24:50.447Z"
+}

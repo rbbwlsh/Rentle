@@ -1,0 +1,78 @@
+{
+ "id": "92258724",
+ "displayAddress": "Bexley Terrace, LS8",
+ "outcode": "LS8",
+ "incode": "5NX",
+ "latitude": 53.80934,
+ "longitude": -1.51872,
+ "priceAmount": 950,
+ "priceLabel": "£950 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92258724",
+ "area": "Bexley Terrace",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This newly renovated two-bedroom property, located on Bexley Avenue in Harehills, offers modern, comfortable living finished to a high standard throughout. The property has been thoughtfully refurbished, combining contemporary style with practical living spaces, making it an ideal home for professionals, couples, or small families.\n\nUpon entering, the property offers a welcoming and well-presented interior with fresh, neutral décor and new flooring throughout, creating a bright and modern atmosphere. The living areas are well laid out, providing a comfortable space for relaxing and everyday living. The kitchen has been newly updated with modern fitted units and finishes, offering ample storage and workspace while maintaining a clean and stylish look.\n\nThe property benefits from two well-proportioned bedrooms, each offering a comfortable and private space suitable for rest or home working. Both bedrooms have been finished to a high standard as part of the renovation, continuing the modern feel throughout the home. The bathroom has also been upgraded, featuring contemporary fixtures and fittings to provide a clean and comfortable space.\n\nSituated in the popular and well-connected area of Harehills, the property is ideally located close to a wide range of local amenities, including shops, supermarkets, cafés, and essential services, all within easy reach. St James’s Hospital is located nearby, making this an excellent option for healthcare professionals or those requiring quick access to the hospital. \n\nThe property also benefits from close proximity to Leeds City Centre, with excellent transport links providing convenient access for commuting, shopping, and leisure.\n\nLocated on Bexley Avenue, this property offers a combination of modern living, a convenient location, and excellent transport connections, making it a fantastic opportunity for those seeking a newly renovated home in a well-established area.",
+ "keyFeatures": [
+  "Available 1st september 2026",
+  "Close to local amenities",
+  "Prime Location",
+  "Ideal for students/professionals/families",
+  "Modern Interior",
+  "Excellent public transport links",
+  "EPC Rating D",
+  "Council Tax Band A",
+  "On-street parking available",
+  "Nearby green outdoor parks"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/61aea35d6/92258724/61aea35d6ab0f1339271f99f35056858.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ce86c22cd/92258724/ce86c22cd2f722bbb3974f18e920ff93.jpeg",
+  "https://media.rightmove.co.uk/property-photo/558208519/92258724/558208519603b046e8dd4f57a6e15933.jpeg",
+  "https://media.rightmove.co.uk/property-photo/58a9bb95e/92258724/58a9bb95e4171ab844c00f91094a428c.jpeg"
+ ],
+ "imageCount": 4,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 1.5750826379975769,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 2.4366612744223413,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cross Gates Station",
+   "miles": 2.8239242109575473,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Switch Properties, Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS8",
+ "scrapedAt": "2026-08-30T10:25:19.760Z"
+}

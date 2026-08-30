@@ -1,0 +1,80 @@
+{
+ "id": "92446446",
+ "displayAddress": "Aubrey House, Aubrey Road, Bedminster, BS3",
+ "outcode": "BS3",
+ "incode": "3EX",
+ "latitude": 51.43843,
+ "longitude": -2.611392,
+ "priceAmount": 1500,
+ "priceLabel": "£1,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92446446",
+ "area": "Aubrey House, Bedminster",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Maisonette",
+ "details": {
+  "propertyType": "Maisonette",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "05/10/2026",
+  "deposit": 1730,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Located just 0.2 miles from North Street is this two bedroom maisonette, offered unfurnished and available from 12th October 2026.\n\n\rLocated in the desirable area of the Chessels just 0.2 miles to North Street. \n\nAs you enter the building from the street at the front of the development. Up to the first floor  and through another door is a hall leading to this unfurnished maisonette.\n\nSet on two floors is this home, to he ground floor you’ll find communal spaces including lounge with separate kitchen. The first floor is home to both bedrooms and a bathroom between them. \n\nThe modern kitchen provides wall & base units with tiled splashback and includes a freestanding electric freestanding oven. The boiler is also located in the kitchen. \n\nBoth of the bedrooms have neutral décor and are carpeted, with the bathroom providing shower over bath, toilet and sink. This room is finished with tiling to the walls and floors.  \n\nOutside space is offered via the communal garden to the left hand side of the building, alongside an allocated parking space.\n\nCouncil Tax Band : A\nHolding Deposit : £346\nSecurity Deposit : £1,730",
+ "keyFeatures": [
+  "Two Bedrooms",
+  "Offered Unfurnished",
+  "BS3 Location",
+  "Maisonette",
+  "Available from 12th October 2026",
+  "Neutral Decor",
+  "Gas Central Heating"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/54450a045/92446446/54450a04505da61d2b2fc9d1e793779e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/737124101/92446446/737124101e3c718f83b3298f1ff40ea0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3defdaebb/92446446/3defdaebb915625e016de52b882c48b0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/42d2e367b/92446446/42d2e367b55fc43ba6144fcc04fc1751.jpeg",
+  "https://media.rightmove.co.uk/property-photo/64d85e0c8/92446446/64d85e0c87c21df4a5c8cb8ca2f18bb7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/30563eff7/92446446/30563eff71803b12280ae3bcfc2d5c06.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bfe0b0f90/92446446/bfe0b0f9014cca839fcb623394572837.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8c906dbc7/92446446/8c906dbc7ecf1019ef0b9271867090e8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/29ef8d92c/92446446/29ef8d92c4c2d0b5d6bc9e9d786d3c6d.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Parson Street Station",
+   "miles": 0.38081279016798664,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bedminster Station",
+   "miles": 0.7469926081245986,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 1.4873084606897053,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "The Letting Shop, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS3",
+ "scrapedAt": "2026-08-30T10:22:44.909Z"
+}

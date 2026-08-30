@@ -1,0 +1,76 @@
+{
+ "id": "92494773",
+ "displayAddress": "Dundonald Street, New Town, Edinburgh, EH3",
+ "outcode": "EH3",
+ "incode": "6RY",
+ "latitude": 55.95932,
+ "longitude": -3.19677,
+ "priceAmount": 1450,
+ "priceLabel": "£1,450 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92494773",
+ "area": "New Town, Edinburgh",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 1700,
+  "minimumTermMonths": null,
+  "councilTaxBand": "D"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Bright and well-presented one-bedroom basement flat, ideally located in the popular New Town area within easy walking distance of Edinburgh city centre. The property offers comfortable accommodation and further benefits from a private terrace to the front.\n\nThe property comprises of:\n\n- Spacious double bedroom\n- Separate kitchen\n- Modern shower room\n- Private terrace to front\n\n-The letting agreement for this property is a Private Residential Tenancy Agreement-\n\nCouncil Tax Band: D EPC rating: D.  Landlord Registration Number: 24468/230/16110. Letting Agent Registration Number: 1904066.",
+ "keyFeatures": [
+  "Popular Area",
+  "Fireplace",
+  "Seperate Kitchen",
+  "Spacious Bedroom",
+  "Electric Heating",
+  "Terrace"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a42474f35/92494773/a42474f35024cead38f2bdf7b166f89e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/00c745da2/92494773/00c745da219a2b47ec4fd15b69cb6167.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d74a064fa/92494773/d74a064fa0f45fee0356a40d265bc3fd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f1347e4b3/92494773/f1347e4b323a9b9445b2951325808d1a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1441a2207/92494773/1441a2207a1f032c32da02293b0c1856.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b8e10fc5c/92494773/b8e10fc5ca78419a9d1cb8e9ceb5c985.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.5726923098071685,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.2729050830537563,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 2.9004724304023206,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Belvoir, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH3",
+ "scrapedAt": "2026-08-30T10:26:06.485Z"
+}

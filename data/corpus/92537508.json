@@ -1,0 +1,79 @@
+{
+ "id": "92537508",
+ "displayAddress": "Highbury Lane, Meanwood, LS6",
+ "outcode": "LS6",
+ "incode": "4HF",
+ "latitude": 53.82759,
+ "longitude": -1.570485,
+ "priceAmount": 930,
+ "priceLabel": "£930 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92537508",
+ "area": "Meanwood",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "05/11/2026",
+  "deposit": 1000,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "AVAILABLE END START NOVEMBER 26 - A BEAUTIFULLY PRESENTED, UNFURNISHED TERRACE HOUSE WHICH IS MODERN THROUGHOUT AND OFFERS SPACIOUS LIVING.  WITH TWO DOUBLE BEDROOMS AND A CONVERTED CELLAR ROOM THIS IS A FANTASTIC PROPERTY WHICH WON'T BE AROUND FOR LONG!  MODERN KITCHEN WITH WHITE GOODS, LIVING ROOM WITH FIRE - INTERNAL VIEWING IS A MUST!",
+ "keyFeatures": [
+  "AVAILABLE START NOV 26",
+  "TWO DOUBLE BEDROOMS",
+  "CONVERTED CELLAR RECEPTION ROOM",
+  "LIVING ROOM WITH FIRE",
+  "KITCHEN WITH WHITE GOODS",
+  "MODERN THROUGHOUT",
+  "BOND £1000"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/4345ef6c2/92537508/4345ef6c206a3664cfccb28dbe18ddee.jpeg",
+  "https://media.rightmove.co.uk/property-photo/20fcf89b1/92537508/20fcf89b188466a9d6958e97d4648fa6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c82b4e2e9/92537508/c82b4e2e94684e6fe5a1ef4a097dfa6f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/05ff2b093/92537508/05ff2b093f64c30e9986b3454c6fe20b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6dfb31f1d/92537508/6dfb31f1d3fd02082f5803ea0ec144de.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3c0bc8c70/92537508/3c0bc8c7057ab69e31e78b16db030402.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6efba23dd/92537508/6efba23dd4c6355d2eedf86af6516425.jpeg",
+  "https://media.rightmove.co.uk/property-photo/42a5d1535/92537508/42a5d1535e475384fa388fd912da6834.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Burley Park Station",
+   "miles": 1.123558595658212,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 1.1737973417303662,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Kirkstall Forge Station",
+   "miles": 2.1377161106727054,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Alan Cooke Sales & Lettings, Meanwood",
+ "city": "Leeds",
+ "sourceOutcode": "LS6",
+ "scrapedAt": "2026-08-30T10:24:31.794Z"
+}

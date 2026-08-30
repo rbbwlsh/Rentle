@@ -1,0 +1,72 @@
+{
+ "id": "92440938",
+ "displayAddress": "Redland, Bristol, BS6",
+ "outcode": "BS6",
+ "incode": "6BP",
+ "latitude": 51.46612,
+ "longitude": -2.601461,
+ "priceAmount": 1100,
+ "priceLabel": "£1,100 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92440938",
+ "area": "Redland, Bristol",
+ "bedrooms": 1,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Short term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "07/09/2026",
+  "deposit": 762,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Property Reference: 2893038.\n\n.A large ground floor flatlet .large size bedroom,  a seperate bath room and seperate kitchen/diner,  ,    in quiet location near to B.R.I and university. On street zone parking. ,  ,all bills included except electricity  . Available now but only for 1 year as the property is being sold by the parent company. However , there is a reduced rent and all bills included for the inconvience\n\nSummary & Exclusions:\n- Rent Amount: £1,100.00 per month (£253.85 per week)\n- Deposit / Bond: £761.53\n- 1 Bedrooms\n- 2 Bathrooms\n- Property comes furnished\n- Available to move in from 07 September 2026\n- Maximum number of tenants is 1\n- Students welcome to enquire\n- Smokers considered\n- Bills Included\n- No Parking Available\n- Property has garden access\n- EPC Rating: C\n\n  If calling, please quote reference: 2893038  \n\nFees:\nYou will not be charged any admin fees.\n\n ** Contact today to book a viewing and have the landlord show you round! ** \nRequest Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.",
+ "keyFeatures": [
+  "No Agent Fees",
+  "Students Can Enquire",
+  "Bills Included",
+  "Property Reference Number: 2893038"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/b22d72cc4/92440938/b22d72cc485647213a79695c37e3ac97.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b89767983/92440938/b8976798396d744d0c7170027669a5c8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7f1114d88/92440938/7f1114d88989db02a678f80b5591c156.jpeg",
+  "https://media.rightmove.co.uk/property-photo/18f6dd1a6/92440938/18f6dd1a6611eeaa08abf85c7a1e9651.jpeg"
+ ],
+ "imageCount": 4,
+ "nearestStations": [
+  {
+   "name": "Redland Station",
+   "miles": 0.17424388172884298,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.42689046187554464,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Montpelier Station",
+   "miles": 0.5697980609536268,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "OpenRent, London",
+ "city": "Bristol",
+ "sourceOutcode": "BS6",
+ "scrapedAt": "2026-08-30T10:23:03.555Z"
+}

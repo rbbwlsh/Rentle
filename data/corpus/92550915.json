@@ -1,0 +1,84 @@
+{
+ "id": "92550915",
+ "displayAddress": "44 Aytoun Street, Manchester, M1",
+ "outcode": "M1",
+ "incode": "3GL",
+ "latitude": 53.477414,
+ "longitude": -2.234193,
+ "priceAmount": 1500,
+ "priceLabel": "£1,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92550915",
+ "area": "Manchester",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Ask agent",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Welcome to KAMPUS\n\nLocated in the heart of Manchester City Centre, Kampus offers a unique renting experience, combining beautifully designed apartments with an unrivalled community atmosphere. Set around vibrant communal gardens and alongside the canal, you'll be moments from Manchester's best independent restaurants, cafés, bakeries and bars, all right on your doorstep.\n\nInside, thoughtfully designed apartments blend character and contemporary style, with spacious open-plan layouts, quality finishes, integrated appliances and plenty of natural light. Many homes feature unique original details, including exposed beams and ironwork, creating spaces full of personality and charm.\n\nResidents enjoy access to an exceptional collection of amenities, including a fully equipped gym and studio, cinema room, co-working spaces, private dining areas and resident lounges. Rooftop terraces, curated resident events and a dedicated on-site team create a welcoming community where everything you need is within easy reach.\n\nApartment highlights:\n\n- Spacious open-plan kitchen, living and dining area with integrated appliances\n- Contemporary interiors with high-quality finishes throughout\n- Bright, light-filled living spaces with large windows\n- Character features in selected apartments including exposed beams and original ironwork\n- Views overlooking the gardens, canal or surrounding cityscape\n- Broadband included and ready from the day you move in\n\nPerks of living here:\n\n- Professional 24-hour concierge and on-site resident team\n- Pet-friendly apartments\n- Access to gym, fitness studio and resident wellness events\n- Co-working spaces and resident lounges\n- Private dining room and cinema room\n- Rooftop terraces and beautifully landscaped communal gardens\n- Curated resident events and dedicated residents app\n- Independent food, drink and retail operators on-site\n- Flexible tenancy options available\n- Excellent city centre transport connections\n\nLiving is Easy at Kampus.\n\nBook your viewing today and discover a new way of living in Manchester City Centre.\nUnfortunately, we have reached full student capacity and can no longer accept additional applications.\nPlease note photos are for illustrative purposes only. Layouts, views and features may vary between apartments.",
+ "keyFeatures": [
+  "Co working",
+  "Broadband Included",
+  "24/7 Conceirge Team and On-site Maintenance",
+  "Pets Welcome",
+  "On-Site parking",
+  "24hr Resident Gym",
+  "Manchester's best Independent Eateries and Retail Onsite",
+  "Resident events and Residents app"
+ ],
+ "tags": [
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/2e42e9049/92550915/2e42e90497eced906fe919d270a8a5f9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bc2b396ba/92550915/bc2b396badadd75c2fd5fabccfae1d3a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ce2332419/92550915/ce23324197714adbc158e3226b19c663.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a3a14dbca/92550915/a3a14dbca044ad062d214b8afea6789b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/55978b6a7/92550915/55978b6a792c1d513448a95796d403d7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4e16cd4db/92550915/4e16cd4dbdd9310248f3268c6a64db9c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d486300c8/92550915/d486300c8187389e286ab32d2c0a21d7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/873ad8a9b/92550915/873ad8a9bc839156a3fc231a030f08fc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d0b410e86/92550915/d0b410e8679fde1eb043c2d0d989557b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/93fd8d7bc/92550915/93fd8d7bc4aefcf9d14ec3377e0c89a3.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Manchester Piccadilly Station",
+   "miles": 0.17438763192390588,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Piccadilly Gardens Tram Stop",
+   "miles": 0.20742262015442223,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Mosley Street Tram Stop",
+   "miles": 0.30537285355399935,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Property Sense (GPM PRINCIPAL BRANCH), Covering Nationwide",
+ "city": "Manchester",
+ "sourceOutcode": "M1",
+ "scrapedAt": "2026-08-30T10:16:39.502Z"
+}

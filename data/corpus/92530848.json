@@ -1,0 +1,81 @@
+{
+ "id": "92530848",
+ "displayAddress": "Arthur Place, Birmingham, West Midlands, B1",
+ "outcode": "B1",
+ "incode": "3DB",
+ "latitude": 52.483063,
+ "longitude": -1.914345,
+ "priceAmount": 1000,
+ "priceLabel": "£1,000 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92530848",
+ "area": "Birmingham, West Midlands",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 1153,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "John Shepherd are pleased to present this two bedroom, furnished apartment in the Westgate development, with allocated parking, available NOW!\n\n\rThis stylish two-bedroom apartment is situated on the first floor of the sought-after Westgate development in the vibrant Jewellery Quarter. \n\nThe property features a welcoming entrance hallway with convenient storage space, leading to spacious open-plan kitchen, living, and dining area.\n\nThere is one generously sized double bedroom and one single bedroom, and one modern bathroom, finished to a high standard.\n\nAdditional benefits include secure allocated parking.\n\nAvailable NOW.",
+ "keyFeatures": [
+  "Two Bedrooms",
+  "Furnished Throughout",
+  "Secure Building Entry",
+  "Jewellery Quarter Location",
+  "Allocated Parking Space",
+  "Available NOW",
+  "EPC Rating C",
+  "Council Tax Band C"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/e1e970c4b/92530848/e1e970c4b3c06df677b43fb24b2c56f1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/152e806b9/92530848/152e806b96bde12baa13476eacb626b9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a8a74b3c4/92530848/a8a74b3c4e5501374897140abbc4e7e4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a60662169/92530848/a60662169f358010ad08e9297ab2e16e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4c9b8dbc2/92530848/4c9b8dbc28fa6c0e4b4ef3ed99afe648.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2ba7f3aec/92530848/2ba7f3aec515af0dbd990cc3308a486b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a20768560/92530848/a20768560e956db4812f8160e0b8b06b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/38743d6e6/92530848/38743d6e68f8f147816e7c5578667bd1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b5af7ddec/92530848/b5af7ddec6877f94bd2c6cf988d77029.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Jewellery Quarter Tram Stop",
+   "miles": 0.4553115763061927,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "St. Paul's Tram Stop",
+   "miles": 0.5322890856682921,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Birmingham Snow Hill Tram Stop",
+   "miles": 0.5902230295860703,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "John Shepherd Lettings, Birmingham",
+ "city": "Birmingham",
+ "sourceOutcode": "B1",
+ "scrapedAt": "2026-08-30T10:19:34.409Z"
+}

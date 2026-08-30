@@ -1,0 +1,74 @@
+{
+ "id": "92463780",
+ "displayAddress": "Ferme Park Road, Crouch End, London",
+ "outcode": "N8",
+ "incode": "9RY",
+ "latitude": 51.576946,
+ "longitude": -0.115182,
+ "priceAmount": 1150,
+ "priceLabel": "£1,150 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92463780",
+ "area": "Crouch End, London",
+ "bedrooms": null,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": null,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": null,
+  "letAvailableDate": "01/10/2026",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "** AVAILABLE 1ST OF OCTOBER**|**RENT INCLUDES HEATING & WATER** This lovely self-contained studio apartment offers easy access to Crouch End, Stroud Green & Finsbury Park. The studio has a fitted kitchen, private shower room, open plan living and it faces the garden that lets in tons of natural light. There is also a separate utility room that has washing machines and dryer that use £1 coins to run.",
+ "keyFeatures": [
+  "Period building",
+  "Close to Crouch End",
+  "Shared garden",
+  "Open plan living",
+  "Closest station is Haringey"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/0734db8ff/92463780/0734db8ff6301799a81cfdef4d331230.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa0737ee1/92463780/aa0737ee168c0d0d4b48262a9d41d8ab.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb7e6f9a6/92463780/bb7e6f9a630e7322161f80fcf4f83ada.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3732a0879/92463780/3732a087964bc030955b2cc9959be2d4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/29816f931/92463780/29816f93158b76cc4ff5a30de67deb08.jpeg"
+ ],
+ "imageCount": 5,
+ "nearestStations": [
+  {
+   "name": "Crouch Hill Station",
+   "miles": 0.3967912863114274,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Harringay Station",
+   "miles": 0.42578058675357733,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Hornsey Station",
+   "miles": 0.6634520778384161,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Alex Marks, London",
+ "city": "London",
+ "sourceOutcode": "N8",
+ "scrapedAt": "2026-08-30T10:13:59.844Z"
+}

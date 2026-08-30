@@ -1,0 +1,77 @@
+{
+ "id": "92201886",
+ "displayAddress": "Grassmarket, Grassmarket, Edinburgh, EH1",
+ "outcode": "EH1",
+ "incode": "2JR",
+ "latitude": 55.94783,
+ "longitude": -3.19561,
+ "priceAmount": 1350,
+ "priceLabel": "£1,350 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92201886",
+ "area": "Grassmarket, Edinburgh",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 1350,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "The flat’s front door opens into the welcoming hall that offers direct access to all rooms, while also providing a very useful walk-in cupboard. The twin widowed, south facing, living room overlooks the bustling Grassmarket and is large enough to accommodate both sitting and dining areas. The separate kitchen has good storage space, work surfaces with tiled splash backs, an integrated cooker and hob and slot-in dishwasher, washing machine and fridge.\n\nThe quiet and comfortable double bedroom that has a built-in wardrobe is to the rear of the flat and a modern, partially tiled, shower room with three-piece suite completes the accommodation.\n\nThe flat has electric heating and traditional sash & case windows. There are both permit and pay & display on-street parking conveniently close.\n\nNowadays the Grassmarket is pedestrianised to recreate its original use as a market square. It and the surrounding area throng with pavement cafes, restaurants, bars and an eclectic mix of interesting shops and boutiques. A walk-up Victoria Street leads to the head of the Royal Mile and Edinburgh Castle and a choice of some of Scotland’s most appealing and iconic cultural attractions.\nThe Meadows are nearby and the nightlife of the popular Cowgate and the shops of Princes Street are both easily reached.\n\nVery efficient public bus services operate, from the Grassmarket, across the city and the City Bypass and main motorway networks are also within easy reach and Waverley Station is a short walk.\n\nRent £1350\nDeposit £1350\nAvailable September 2026 \n\nEPC rating: D\nCouncil tax band: C\nLL reg: 1515939/230/10122\nLARN1904047\n EPC rating: D.  Landlord Registration Number: 1515939/230/10122. Letting Agent Registration Number: 1904047.",
+ "keyFeatures": [
+  "Shower",
+  "Washing machine",
+  "Fridge Freezer"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/547f701a0/92201886/547f701a0a8badc9b12f5acb34e03d94.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c95176e51/92201886/c95176e51bd62db809cbddc4395429ce.jpeg",
+  "https://media.rightmove.co.uk/property-photo/effba1eb2/92201886/effba1eb2a714b59db76f8a96fef3e7f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3f3173760/92201886/3f3173760e218a800f7f1e16a5c137ea.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c530a35db/92201886/c530a35db72a3d800f2d4324f12b5f65.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2f28a05c1/92201886/2f28a05c1a03411025510961db61b9fd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/191ed154c/92201886/191ed154c69268cf4ad58b08cd0b61d5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8939b396b/92201886/8939b396b248555112efcca4ca7894f3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/66ba40ce7/92201886/66ba40ce713fcdffa4a7e21ec0780d53.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dbb2adcf1/92201886/dbb2adcf1eeeec7e98187c17dc2cb072.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.36688832668280963,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 0.8906361407241077,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 2.368715185499342,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Ballantynes, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH1",
+ "scrapedAt": "2026-08-30T11:03:48.139Z"
+}

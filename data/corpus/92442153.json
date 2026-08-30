@@ -1,0 +1,77 @@
+{
+ "id": "92442153",
+ "displayAddress": "The Mall, Bristol",
+ "outcode": "BS8",
+ "incode": "4JG",
+ "latitude": 51.456394,
+ "longitude": -2.62163,
+ "priceAmount": 1695,
+ "priceLabel": "£1,695 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92442153",
+ "area": "The Mall, Bristol",
+ "bedrooms": 2,
+ "bathrooms": null,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "25/09/2026",
+  "deposit": 1955,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This light & airy split level furnished 2 bedroom maisonette on The Mall is right at the heart of Clifton Village and the plethora of shops and restaurants on your doorstep.  Would suit 2 professional sharers wanting spacious accommodation.  Two double bedrooms, large open plan lounge/diner through to kitchen, shower room, gas central heating.\n\nProperty Description - This light & airy split level furnished 2 bedroom maisonette on The Mall is right at the heart of Clifton Village and the plethora of shops and restaurants on your doorstep.  Would suit 2 professional sharers wanting spacious accommodation.  Two double bedrooms, large open plan lounge/diner through to kitchen, shower room, gas central heating.\n\nClifton Village - Live Beautifully in Clifton Village\n\nExperience the perfect blend of elegance and energy in Clifton Village, Bristol’s most sought-after neighbourhood. With stunning Georgian architecture, independent cafés and boutiques, and breathtaking views of the Clifton Suspension Bridge, it’s a place where city life meets village charm.\n\nIdeal for renters seeking style, convenience, and community — all just minutes from the city centre\n\nDisclaimer Information - Every care has been taken to ensure particulars described on our website and within our marketing materials are accurate, however, complete accuracy cannot be guaranteed. All statements contained regarding properties are for indicative purposes only and are made without responsibility on the part of Zest Property Services and the vendors or landlords of properties. They are not to be relied upon as statements or representations of fact. Potential purchasers or lessees should satisfy themselves by inspection or otherwise as to the accuracy of such details provided by Zest Property Services.\n\nZest Property Services LTD is a member of PropertyMark, The Property Ombudsman and holds Client Money Protection through PropertyMark. All details can be found on our website; zestlovesproperty.com.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/0e719e39f/92442153/0e719e39fdb4daaa3c519c211cdcad6e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e559a4397/92442153/e559a43970051360d266206854bb28a2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb6212b94/92442153/bb6212b947cd1c89cd041060204055cf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/565ec142c/92442153/565ec142caa2fb59196f313e7294f1c3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8fb68fd7e/92442153/8fb68fd7e14b38dae0db74711ae1a449.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d0f4eb5e5/92442153/d0f4eb5e57ae1f6f762b37d52ce4a54d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7c03e7c3b/92442153/7c03e7c3b04e14fc840e7c709527944c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9bf9989f0/92442153/9bf9989f08a6c9aeaf00f839cff1b596.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d322c7ae9/92442153/d322c7ae9ec1b249c06c5e0266956429.jpeg",
+  "https://media.rightmove.co.uk/property-photo/29fb32ad1/92442153/29fb32ad1610865e0d04eb2b4fd06774.jpeg",
+  "https://media.rightmove.co.uk/property-photo/81bfd2eae/92442153/81bfd2eaee452b6668e9dfdb330b24e9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0fa6ca126/92442153/0fa6ca126b527068d666db3de9ae8a6b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9d0519731/92442153/9d051973184aa6a70dd621ee7b4d8c20.jpeg",
+  "https://media.rightmove.co.uk/property-photo/700679abb/92442153/700679abb10864512ef1849a73197be4.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.7266969512487966,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 1.2640186280204893,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bedminster Station",
+   "miles": 1.6371960136909725,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Zest, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS8",
+ "scrapedAt": "2026-08-30T11:03:24.577Z"
+}

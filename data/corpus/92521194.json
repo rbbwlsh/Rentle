@@ -1,0 +1,85 @@
+{
+ "id": "92521194",
+ "displayAddress": "Stead's Place, Pilrig, Edinburgh",
+ "outcode": "EH6",
+ "incode": "5FW",
+ "latitude": 55.968721,
+ "longitude": -3.174187,
+ "priceAmount": 1365,
+ "priceLabel": "£1,365 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92521194",
+ "area": "Pilrig, Edinburgh",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 563,
+  "sizeSqM": 52,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Ask agent",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": "D"
+ },
+ "sizeSqFt": 563,
+ "sizeSqM": 52,
+ "description": "*****LAST REMAINING APARTMENTS ***** BEAUTIFULLY PRESENTED ONE BEDROOM, ONE BATHROOM FULLY FURNISHED APARTMENT***** AVAILABLE IMMEDIATE ENTRY - DUE TO HIGH DEMAND VIEW NOW !!!!\n\nWelcome to Stead's Place Edinburgh, a brand new Build To Rent Development of 110 beautifully presented, stylish one, two and three bedroom apartments with access to private communal gardens within the much sought after vibrant Leith area. The apartments are a short walking distance to public transportation and nearby array of local shops, restaurants, pubs and coffee cafes that will provide everything to suit your needs.\n\nThe apartments are tastefully decorated and comprise of open plan fitted kitchens with integrated appliances, fully tiled bathrooms and spacious bed-rooms with fitted wardrobes offering ample storage space. The design for the living spaces offers an inviting, contemporary feel, anchored by boucle sofas featuring forest green & grey tones with coordinated armchairs. The space is enhanced with oak and glass occasional furniture perfectly complementing the overall design and creating a truly desirable living space.\n\n*Photos are for marketing purposes only but of a similar style and layout",
+ "keyFeatures": [
+  "AVAILABLE NOW!!!   ",
+  "Pet friendly living ",
+  "Wi-Fi included ",
+  "Communal Garden",
+  "Safe and Secure Development",
+  "Furnished ",
+  "Bike Storage",
+  "On Site Building Management",
+  "EPC rating B - C ",
+  "Brand New Development "
+ ],
+ "tags": [
+  "BUILT_FOR_RENTERS",
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/71f077aa3/92521194/71f077aa30e9dc36814f2882ee973e19.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c4ef8287d/92521194/c4ef8287dd109a40414e3ee059cbfc36.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ed1f642fc/92521194/ed1f642fcc317c5ebaac792f47739522.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1fe3bb4bf/92521194/1fe3bb4bfa336e665cc0baa7e9092f85.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b6098af41/92521194/b6098af41885e5994e12639b3387a9a2.png",
+  "https://media.rightmove.co.uk/property-photo/e444ac472/92521194/e444ac4725ca6ba9875788d89d906485.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7bc05fb80/92521194/7bc05fb809d75f35ae8a7186b7abd16b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/219f40da7/92521194/219f40da783b2a385b401d9e2611d725.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 1.3053205358408708,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 2.3498862306457746,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Brunstane Station",
+   "miles": 3.3748382316104952,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Cording Residential Asset Management Limited, Stead's Place",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH6",
+ "scrapedAt": "2026-08-30T10:26:34.509Z"
+}

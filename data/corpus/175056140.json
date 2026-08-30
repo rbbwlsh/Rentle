@@ -1,0 +1,85 @@
+{
+ "id": "175056140",
+ "displayAddress": "Chatfield Road, Battersea, London, SW11",
+ "outcode": "SW11",
+ "incode": "3UZ",
+ "latitude": 51.465641,
+ "longitude": -0.183367,
+ "priceAmount": 3300,
+ "priceLabel": "£3,300 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/175056140",
+ "area": "Battersea, London",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 3807,
+  "minimumTermMonths": 12,
+  "councilTaxBand": "G"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Two bed flat located close to the Thames in Battersea\n\n\rDescription\n\nA bright and spacious two bedroom flat in Mendip Court offering river views, two private balconies, and two bathrooms, presented unfurnished. Featuring a spacious open plan living room and kitchen. The property also benefits from a off street parking space.\n\n\r\n\r \r\n\nAdditional Info\n\nHolding deposit: £807.46 (1 week)\nDeposit: £4,037.31 (5 weeks)\nRent must be paid monthly in advance",
+ "keyFeatures": [
+  "Two bedrooms",
+  "Bathroom",
+  "Kitchen",
+  "Reception room",
+  "River views",
+  "EPC Rating = C"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c5cce0be4/175056140/c5cce0be4b8e280383fe3aa198f3cfad.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ca41c2349/175056140/ca41c2349f225c33d3310ca08a96acf5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/30d6249ad/175056140/30d6249ad8fc2b655734306c83102a8f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2157c647e/175056140/2157c647eca92e618344ba96f864a2bb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6b0f42c10/175056140/6b0f42c10e8216aa91d13f5e2ddbe0ca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e40fd9f90/175056140/e40fd9f90c4ff948a99a229dd80c1e82.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c668df868/175056140/c668df8681d82ffd68f9e8d435c994c7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5d729a954/175056140/5d729a954615364559c412cac67d8e9c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a92f63f89/175056140/a92f63f896445234404df3e402b5404c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/111f7dd4d/175056140/111f7dd4d69b7ee07b883ff8bfa3e669.jpeg",
+  "https://media.rightmove.co.uk/property-photo/64146ea81/175056140/64146ea8109b5616affe6e2e3a2c3b5e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5eeba76a4/175056140/5eeba76a44427973afd645ce60337cd1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/345ee3dde/175056140/345ee3dde35ea90e8c3361f6dffa513d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ab0d7a963/175056140/ab0d7a96327d7573db2055eb4927c77a.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Wandsworth Town Station",
+   "miles": 0.3915544459161166,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Clapham Junction Station",
+   "miles": 0.630157438257808,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Imperial Wharf Station",
+   "miles": 0.6466927186178176,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Savills Lettings, Waterfront",
+ "city": "London",
+ "sourceOutcode": "SW11",
+ "scrapedAt": "2026-08-30T10:15:29.096Z"
+}

@@ -1,0 +1,76 @@
+{
+ "id": "92507559",
+ "displayAddress": "Kingston Road, Bristol",
+ "outcode": "BS3",
+ "incode": "1DP",
+ "latitude": 51.444,
+ "longitude": -2.601609,
+ "priceAmount": 820,
+ "priceLabel": "£820 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92507559",
+ "area": "Bristol",
+ "bedrooms": 1,
+ "bathrooms": 2,
+ "propertySubType": "House Share",
+ "details": {
+  "propertyType": "House Share",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 740,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "***ONE ROOM AVAIALBLE IN FIVE BED HOUSE*** Bristol SU Lettings is pleased to offer one fully furnished ensuite double room in a 5-bedroom student house in vibrant Southville. The room includes a bed, desk, chair and wardrobe, with access to a shared living room, kitchen and small garden. You’ll be sharing with friendly University of Bristol engineering students. Conveniently located near Bristol Harbourside and North Street, with cafés, Aldi and Asda nearby, and around a 30-minute walk or 13-minute drive to the University of Bristol campus.\nBills: Water, internet and council tax (student exempt) are included.\nGas and electricity are excluded and average around £30 per month.",
+ "keyFeatures": [
+  "ONE ENSUITE ROOM AVAILABLE IN FIVE BED STUDENT HOUSE",
+  "2 bathrooms",
+  "Garden",
+  "Available 1st September 26",
+  "Includes water, TV licence and wi fi"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/2a4e257dc/92507559/2a4e257dcf4928a402fed8e82b5ea466.jpeg",
+  "https://media.rightmove.co.uk/property-photo/254715852/92507559/2547158528a579eb9b05c974e30e02d1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a1f6f397c/92507559/a1f6f397c5653ccdc869066e1284355d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/23f864134/92507559/23f8641341dc90e8da3882bb3d1d9fbe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c25c14d03/92507559/c25c14d0326d3c09d44e39174c3c98eb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2a83b9c47/92507559/2a83b9c476c5e245e5d122df75280305.jpeg",
+  "https://media.rightmove.co.uk/property-photo/74b3e6779/92507559/74b3e67793ad4241f04f0db1e1bd4177.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Bedminster Station",
+   "miles": 0.42015134314125047,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Parson Street Station",
+   "miles": 0.8089827376356881,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 0.938017228281383,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Bristol SU Lettings, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS3",
+ "scrapedAt": "2026-08-30T10:22:34.383Z"
+}

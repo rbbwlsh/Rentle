@@ -1,0 +1,91 @@
+{
+ "id": "90796044",
+ "displayAddress": "Ramsay Garden, Edinburgh",
+ "outcode": "EH1",
+ "incode": "2NA",
+ "latitude": 55.94935,
+ "longitude": -3.196527,
+ "priceAmount": 3100,
+ "priceLabel": "£3,100 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90796044",
+ "area": "Ramsay Garden, Edinburgh",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": 1658,
+  "sizeSqM": 154,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 3450,
+  "minimumTermMonths": null,
+  "councilTaxBand": "G"
+ },
+ "sizeSqFt": 1658,
+ "sizeSqM": 154,
+ "description": "Please note this property does not have an HMO license and would not be suitable for three or more unrelated individuals.\n\nA rare opportunity to rent a three-bedroom, A-listed home, occupying the ground, garden and lower ground levels of an original Georgian six storey building. The property is situated on a picture-perfect cobbled street, in the heart of Edinburgh’s historic Old Town, globally recognised as a UNESCO World Heritage Site. \n\nAccommodation comprises:\n\nGround Floor: Welcoming entrance hallway; Magnificent drawing room with wonderful views and open fireplace; Bedroom 3 with ensuite shower room and storeroom.\n\nLower Ground Floor: Fantastic dining kitchen with French doors that open onto the private residents’ secluded lawn and gardens, offering panoramic views over Edinburgh’s skyline to the North and the Firth of Forth; Two double bedrooms; Shower room with door on to patio.\n\nBasement Floor: Superbly converted original cellars now forming three flexible multi-purpose rooms, offering the ideal space to have a home office, snug, gym, games room etc.\n\nJust a stone’s throw away from the Castle esplanade, Ramsay Garden is nestled below Edinburgh Castle at the top of the Royal Mile. It was originally constructed by Sir Patrick Geddes, surrounding the houses of Allan Ramsay the Poet and his son. The integrity of Ramsay’s façade has survived remarkably intact, and this building has now been divided into two residential properties. \n\nThe Old Town is renowned for is excellent amenities, benefitting from an array of independent shops, cafes, bars and restaurants. With an elevated position over Princes Street Gardens, the property is also within easy walking distance of the main shopping district of Princes Street and George Street, as well at the St James Quarter. \n\nGCH, shared garden, limited residents parking and council permit parking. \n\nUnfurnished\n\nDeposit: £3,300\nCouncil Tax Band: G\nEPC: D\nLandlord Registration Numbers: 508757/230/29092 and 508875/230/02102\nScottish Letting Agent Registration: LARN1903047\n\nEPC Rating: D\nCouncil Tax Band: G",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/e2e30e2d7/90796044/e2e30e2d74d6b6c3400ce3cafb23f0ae.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c6bc2faa4/90796044/c6bc2faa4f36aca4be3990bc2edec56c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9dad8c5ae/90796044/9dad8c5ae1f17d978514ea5a7d2ffc34.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4980938ae/90796044/4980938ae14ab8216442a3af883f2830.jpeg",
+  "https://media.rightmove.co.uk/property-photo/701f98d81/90796044/701f98d81639eeb4179a514320958fcc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7ad6a17bb/90796044/7ad6a17bb03a02b62b8931ed0614fbdd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6c302830f/90796044/6c302830f20d5367d14af3b9b9ccaf62.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee5823fa8/90796044/ee5823fa84b0dc89e74e4ccf0eb9b1d2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/148939f23/90796044/148939f237d087d2f9fd5d9eeaf4bf27.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9bc877ff8/90796044/9bc877ff8b8b4c626023d9f1f0dbebde.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f74f577f1/90796044/f74f577f1957260530e3c8bef0d1ad40.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f4ead5cb/90796044/5f4ead5cb0781f3221f539e779dbbf48.jpeg",
+  "https://media.rightmove.co.uk/property-photo/533aa1c27/90796044/533aa1c279fc4462f05fa069039da0de.jpeg",
+  "https://media.rightmove.co.uk/property-photo/60c290f27/90796044/60c290f27bd00b2f49d02dfc2294860f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/baf741983/90796044/baf741983ccbb41bbfb45e5e6b4fbb0f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/63785f507/90796044/63785f507feb9ff3c8e32f8c9524b81f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5ee923178/90796044/5ee923178d6c927d0cd138a195d3f683.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cf77d6b36/90796044/cf77d6b36537a8cbb0747523ac212435.jpeg",
+  "https://media.rightmove.co.uk/property-photo/286801ba9/90796044/286801ba9b79cd3eccc1fd87c327c66d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9b545692c/90796044/9b545692cc8bd51fa75d5d13041792a9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bf9da87b2/90796044/bf9da87b2cdcb42de1a20588a5996bcc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/282b7e323/90796044/282b7e3231d6eae15640178feab17baf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4ea57f01d/90796044/4ea57f01db45c053b06063a4497dcdbb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fed8b67cd/90796044/fed8b67cd7c911753ad7258fb6ce7957.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bfd0bf3a2/90796044/bfd0bf3a2dece11a1df038ccbe28eb38.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8f2dba9b2/90796044/8f2dba9b2349327f5f2e4f9975e56172.jpeg",
+  "https://media.rightmove.co.uk/property-photo/18417160c/90796044/18417160c1f86c28facfa033dcb80c29.jpeg",
+  "https://media.rightmove.co.uk/property-photo/beaf4ebbf/90796044/beaf4ebbfa432536575c0765fd83cca2.jpeg"
+ ],
+ "imageCount": 28,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.319296712670843,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 0.882747845177653,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 2.40825626364096,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Rettie, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH1",
+ "scrapedAt": "2026-08-30T11:03:52.571Z"
+}

@@ -1,0 +1,83 @@
+{
+ "id": "92525088",
+ "displayAddress": "Burton Road, Manchester",
+ "outcode": "M20",
+ "incode": "3GB",
+ "latitude": 53.431842,
+ "longitude": -2.235404,
+ "priceAmount": 1500,
+ "priceLabel": "£1,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92525088",
+ "area": "Manchester",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": null,
+  "letAvailableDate": "Now",
+  "deposit": 1730,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A well-presented furnished two-bedroom, two-bathroom apartment located on Burton Road, Manchester, walking distance to Burton Road Metrolink with allocated off road parking and communal gardens. This modern flat offers spacious open-plan living, featuring two double bedrooms and two bathrooms, providing comfortable and versatile accommodation. Situated in an popular location of Didsbury, the property benefits from close proximity to local amenities, making it perfect for convenient Didsbury living. This apartment combines contemporary style with practical layout, offering an excellent opportunity for those seeking a quality rental home in Didsbury. Available OCTOBER contact Gascoigne Halman Heaton Moor  \n \n2 double bed \nDescription \nA well-presented furnished two-bedroom, two-bathroom apartment located on Burton Road, Manchester, walking distance to Burton Road Metrolink with allocated off road parking and communal gardens. This modern flat offers spacious open-plan living, featuring two double bedrooms and two bathrooms, providing comfortable and versatile accommodation. Situated in an popular location of Didsbury, the property benefits from close proximity to local amenities, making it perfect for convenient Didsbury living. This apartment combines contemporary style with practical layout, offering an excellent opportunity for those seeking a quality rental home in Didsbury. Available OCTOBER contact Gascoigne Halman Heaton Moor  \n \nAvailable October\n \nIdeal location \n \n2 bathroom \n \nopen plan living \n \nclose to local amenities",
+ "keyFeatures": [
+  "2 double bed ",
+  "Available October",
+  "Ideal location ",
+  "2 bathroom ",
+  "open plan living ",
+  "close to local amenities "
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c8b16fea4/92525088/c8b16fea4dfce4003c9d95835012cb55.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa300bb8e/92525088/aa300bb8e461be13d69fb50ff56fd908.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6e09e22f2/92525088/6e09e22f2f8092a622ddaaaedd19cec5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6c4d9c2b7/92525088/6c4d9c2b7ae34e8771e0f0a51c2cbc6b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/079d39b0a/92525088/079d39b0aa33348d7f449e8dbe8f6ee8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b493dbe0f/92525088/b493dbe0f3ab5f7df644b1971a03b439.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fa47bbf9a/92525088/fa47bbf9aaac9c71215adcfbbb810d34.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8e87beba9/92525088/8e87beba9408171b1d5e7136d0a1032b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d2b5b960f/92525088/d2b5b960f81f55ea10d9e007e830dc7d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/503b790cd/92525088/503b790cdda64ccc01de9d1dcfe5e552.jpeg",
+  "https://media.rightmove.co.uk/property-photo/686c15351/92525088/686c153512eaf25618c30e3a9d182f8d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/26b444932/92525088/26b4449328353df844a92f08e14c7687.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d97cc7eee/92525088/d97cc7eee4b6556d4ee7317c8ca1dfc8.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 0.28492262841730587,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 0.5048217782364168,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Withington Tram Stop",
+   "miles": 0.5734515074899433,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Gascoigne Halman, Heaton Moor - Lettings",
+ "city": "Manchester",
+ "sourceOutcode": "M20",
+ "scrapedAt": "2026-08-30T10:18:36.255Z"
+}

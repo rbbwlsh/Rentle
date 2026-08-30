@@ -1,0 +1,77 @@
+{
+ "id": "91908090",
+ "displayAddress": "Madison House",
+ "outcode": "B5",
+ "incode": "6QR",
+ "latitude": 52.47099,
+ "longitude": -1.89794,
+ "priceAmount": 900,
+ "priceLabel": "£900 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91908090",
+ "area": "Madison House",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 1095,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "** Zero Deposit Guarantee Available **\nWelcome to the market this one bedroom apartment in the Madison House development. Offered on a fully furnished basis and located on the first floor this property has a fitted kitchen with family bathroom with views over the city centre. Located just a 5 minute walk to China Town, the Bull Ring markets and New Street station are also close by,perfect access for the A38 southbound. \nCall now to book your viewing, don't miss out! \n\nHolding deposit £196.00\nCouncil tax band TBC Council Tax Band:  Holding Deposit: £219.00",
+ "keyFeatures": [
+  "Available Now",
+  "Modern development",
+  "First floor",
+  "Furnished",
+  "Close to main attractions",
+  "Zero deposit considered"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1ff39f7a3/91908090/1ff39f7a30f94e3eafcf681ad3b37db0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5a27b23f1/91908090/5a27b23f1c370ea661333a0dec24ca03.jpeg",
+  "https://media.rightmove.co.uk/property-photo/40b7383e0/91908090/40b7383e0cd47759ed2147617420cdb1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f3530f5c2/91908090/f3530f5c26ae6610371c9fcddc8fa58f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/701f65338/91908090/701f6533855c23f9a03286bb9d42e1b1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/53abf10dc/91908090/53abf10dcfe7077f9927dc2fb5d5212e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c9385b8db/91908090/c9385b8db9e4773abc12a5eecfed76cf.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 0.4680770720818119,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Moor Street Station",
+   "miles": 0.6053053567578548,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Five Ways Station",
+   "miles": 0.6445411830380553,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Accord Lets, Birmingham",
+ "city": "Birmingham",
+ "sourceOutcode": "B5",
+ "scrapedAt": "2026-08-30T10:20:03.536Z"
+}

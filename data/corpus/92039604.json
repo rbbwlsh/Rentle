@@ -1,0 +1,83 @@
+{
+ "id": "92039604",
+ "displayAddress": "Brass Lane",
+ "outcode": "B1",
+ "incode": "2HP",
+ "latitude": 52.47766,
+ "longitude": -1.91132,
+ "priceAmount": 1750,
+ "priceLabel": "£1,750 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92039604",
+ "area": "Brass Lane",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "House",
+ "details": {
+  "propertyType": "House",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 2019,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "** Zero Deposit Guarantee Available **\nBe among the first to secure a home in this exciting brand new development in the heart of Ladywood, Birmingham. \n\nOffering the very first release of properties, this initial phase will be ready for occupancy from July 2026 – an opportunity not to be missed.\n\nThese stylish, newly built homes combine modern design with energy-efficient living, featuring private driveways, fitted electric vehicle chargers, and solar panels.\n\nInternally, the property is thoughtfully laid out. The entrance hallway leads to two handy storage cupboards and a convenient downstairs W.C. The spacious lounge is bright and welcoming, benefitting from an abundance of natural light.\n\nTo the rear, the modern kitchen/diner spans the width of the home, fitted with a range of contemporary wall and base units alongside integrated appliances. A separate utility cupboard provides additional practicality, while patio doors open directly onto the landscaped rear garden, perfect for relaxing or entertaining.\n\nUpstairs, the property offers three well-proportioned bedrooms, including two doubles and a further single room, along with an additional storage cupboard. The modern family bathroom is finished to a high standard and includes a bath with overhead shower, W.C., and wash hand basin.\n\nExternally, the home benefits from a landscaped garden, designed for low maintenance and enjoyment from day one.\n\nWith strong demand expected, these exceptional new homes are unlikely to be available for long.\n\nContact Accord today to be among the first registered for off-plan viewings.\n\nPicture Living is an investment landlord dedicated to increasing the availability of quality rental properties, ensuring that more people across the UK can find a place they proudly call home. All our homes are professionally managed, offering a dedicated point of contact, a 24 hour emergency line and repair service.  We also offer a Residents App for convenient self-service on the go.\n \nCouncil Tax Band: TBC Council Tax Band:  Holding Deposit: £0.00",
+ "keyFeatures": [
+  "Brand New Development",
+  "Phase One Launch",
+  "Available Now",
+  "Driveway",
+  "Three Storey",
+  "Landscaped Garden",
+  "W.C and Plenty Of Storage"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/ac9af15a5/92039604/ac9af15a5823fac663587c432887eb48.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3494845a5/92039604/3494845a552d4da85e9da05e9287ff3d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a655774ae/92039604/a655774aec08aae25cf7e566fd84c354.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aee636e6d/92039604/aee636e6d2c0a2f39f0219440d8ec61f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ba7d6a9f1/92039604/ba7d6a9f1e785b803940c378faf6c1db.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5518a8316/92039604/5518a831682a47709e16e4fbef132a6c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4a649439b/92039604/4a649439b8bea4ba40e909194f8e2a8c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9985a1c55/92039604/9985a1c55da98e40065520e94184b901.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a10dc0df1/92039604/a10dc0df1d309aacac72df036687e6a3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4e5468bd5/92039604/4e5468bd572c5c4d57d2fd08fc71c2f4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7fba99410/92039604/7fba99410ab099abd3302f04de15e281.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d581cc267/92039604/d581cc26705bcf4693952ecf04004de9.png"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 0.522380823708491,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Five Ways Station",
+   "miles": 0.5405408478504101,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Snow Hill Station",
+   "miles": 0.6328756270019008,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Accord Lets, Birmingham",
+ "city": "Birmingham",
+ "sourceOutcode": "B1",
+ "scrapedAt": "2026-08-30T10:19:28.384Z"
+}

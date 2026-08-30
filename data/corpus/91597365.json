@@ -1,0 +1,90 @@
+{
+ "id": "91597365",
+ "displayAddress": "Flat , Horizon, Broad Weir, Bristol",
+ "outcode": "BS1",
+ "incode": "3DJ",
+ "latitude": 51.457,
+ "longitude": -2.58683,
+ "priceAmount": 1450,
+ "priceLabel": "£1,450 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91597365",
+ "area": "Broad Weir, Bristol",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 549,
+  "sizeSqM": 51,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "02/10/2026",
+  "deposit": 1673,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": 549,
+ "sizeSqM": 51,
+ "description": "- Property\nThis property is located on the top floor of the Horizon development. It features a spacious open plan kitchen/living room leading out to a large private balcony. It has one double bedroom with a built-in wardrobe as well as a family bathroom.\n\nThe property is offered unfurnished with white goods included. \n\nFurther benefits include use of the developments communal garden space.\n\n- Location\nSituated in the beating heart of Bristol's City Centre you are moments from Castle Park, Cabot Circus, the Harbourside, St Nicholas Market and more!\n\nThe central location provides access to transport links by bus and train across the city.\n\nThis is the perfect spot for someone working in the centre or relocating to the city.\n\nCouncil Tax Band: C (Bristol City Council)\nHolding Deposit: £334.61",
+ "keyFeatures": [
+  "One bedroom top floor flat",
+  "Large private balcony",
+  "Views over Castle Park and the city skyline!",
+  "Unfurnished with white goods included",
+  "Highly desirable city centre location",
+  "Access to an array of city centre amenities and transport links",
+  "Lift access and communal gardens",
+  "Council Tax Band C"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d8cd560aa/91597365/d8cd560aa2d4013f17592a5366640796.jpeg",
+  "https://media.rightmove.co.uk/property-photo/068a58fe5/91597365/068a58fe500e2a39ad1828a56521db5a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/47ccd2797/91597365/47ccd2797b31c23b5c0ee028caceb277.jpeg",
+  "https://media.rightmove.co.uk/property-photo/85b7629db/91597365/85b7629db972b770f844c15eca97ee64.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5147b9c93/91597365/5147b9c930b0b4f45edc607e68a26ccc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f7ccfffcd/91597365/f7ccfffcdb9bf99a7570886c6d2a15fc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4144330b9/91597365/4144330b9a038ba16b2dc98009b081d6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/da0fdb8ac/91597365/da0fdb8ac2969f151b3bf73baca8a62b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3b7d98296/91597365/3b7d982967ce92409bb0501c3bc80dc1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e0b00eb37/91597365/e0b00eb373308c8a09464c35fddba057.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0a2c7ecb1/91597365/0a2c7ecb182a0e3e1f92914b5f947e08.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d254658f7/91597365/d254658f7e29a483aeb8ffb4e5e7182b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e95c7bf00/91597365/e95c7bf008d0cb6e304f67b6dbec1aa8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3a40597a1/91597365/3a40597a1cc4f1fef836c9fa4df8ca52.jpeg",
+  "https://media.rightmove.co.uk/property-photo/791aff9c5/91597365/791aff9c59b918113178543342442677.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cce645afc/91597365/cce645afc8147a22fcb89dd9c581f07a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ce0767739/91597365/ce0767739177953862bc3ab22b30ca0a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee0b1f784/91597365/ee0b1f7844d261fab1f177d89eaf828d.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 0.5966646946826805,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Montpelier Station",
+   "miles": 0.7892305085827581,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.9511504110305237,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Hopewell, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS1",
+ "scrapedAt": "2026-08-30T10:21:53.291Z"
+}

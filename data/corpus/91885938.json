@@ -1,0 +1,76 @@
+{
+ "id": "91885938",
+ "displayAddress": "Highbury Road, Leeds",
+ "outcode": "LS6",
+ "incode": "4EX",
+ "latitude": 53.827117,
+ "longitude": -1.571247,
+ "priceAmount": 1425,
+ "priceLabel": "£1,425 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91885938",
+ "area": "Leeds",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "02/10/2026",
+  "deposit": 1425,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "AVAILABLE 2nd October 2026 - Perfect for Sharers\n\nA beautiful three bedroom, two bathroom house in Meanwood.\n\nWith modern appliances, furniture, carpets and decor throughout.  The property comprises an open plan living room which includes a feature brick fire surround, a breakfast bar island and a stunning new kitchen.  To the first floor the house bathroom contains bath and shower, whilst the large bedroom is accompanied by an ensuite.  The second floor contains two more double bedrooms, each with unmatched views across Meanwood.\n\nMeanwood is a fantastic, popular and fashionable suburb in north Leeds with local bars, restaurants and supermarkets within easy walking distance. \n\nOn street parking is available and local buses depart from Meanwood Road and Otley Road.  Waitrose and other local amenities are within 0.5 miles.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/80fa727e6/91885938/80fa727e61b7b81bfb396a7243d8a3be.jpeg",
+  "https://media.rightmove.co.uk/property-photo/51e507926/91885938/51e507926c414816da8bff325e70a8e9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a9f7ae6e5/91885938/a9f7ae6e575e3fb16254e5c40b7b22db.jpeg",
+  "https://media.rightmove.co.uk/property-photo/011d8827b/91885938/011d8827bb36cbbe80a013fcd8d56e13.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c9394ff79/91885938/c9394ff796c586f5c926ffc7419b6646.jpeg",
+  "https://media.rightmove.co.uk/property-photo/441ebd16f/91885938/441ebd16f1b1cf79e96a955f71f2b790.jpeg",
+  "https://media.rightmove.co.uk/property-photo/04b3ae662/91885938/04b3ae6622daf6110dd1e96e08236365.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0e4328bf6/91885938/0e4328bf69c8f68672ca41e5d1e90a7d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/731c69b54/91885938/731c69b5492d48e66cc659fd8db875d6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/44a5968e8/91885938/44a5968e8d7ff19c9608398f63bee5bb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e0f9a8e4f/91885938/e0f9a8e4f62ac90fb66dd1b78c41f7f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/112b46762/91885938/112b4676273d01be41628748fa3907d0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7edeb209b/91885938/7edeb209bf3d55b43466702338acf1ce.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Burley Park Station",
+   "miles": 1.0836971737496797,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 1.1295988751575556,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Kirkstall Forge Station",
+   "miles": 2.102893839650759,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Fletcher Properties, Covering Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS6",
+ "scrapedAt": "2026-08-30T10:24:41.953Z"
+}

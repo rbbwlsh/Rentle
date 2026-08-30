@@ -1,0 +1,77 @@
+{
+ "id": "92425851",
+ "displayAddress": "Eaton Walk, London, SE15",
+ "outcode": "SE15",
+ "incode": "2FB",
+ "latitude": 51.474603,
+ "longitude": -0.062401,
+ "priceAmount": 2000,
+ "priceLabel": "£2,000 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92425851",
+ "area": "London",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 950,
+  "sizeSqM": 88,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": null,
+  "minimumTermMonths": 12,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": 950,
+ "sizeSqM": 88,
+ "description": "Our one Bedroom apartments offer spacious homes set within a beautifully landscaped courtyard - perfect for flat-sharing or family life. \r\n\r\nYou'll enjoy high specification finishes in our thoughtfully designed homes, with generous storage, floor-to-ceiling windows and modern furnishings. With your own private outdoor space looking out over our gardens, this is your perfect urban retreat. \r\n\r\nOur location brings culture, community and easy connection to London. We're just a four-minute walk away from Queen's Road, Peckham and a bustling high street filled with shops, cafés and rooftop bars. With fast access to central London with Overground and National Rail services, you're perfectly placed. \r\n\r\nYou'll be joining a close-knit community, with a friendly on-site team on hand to help - whether it's a maintenance request or advice about the best brunch spot. Get to know your neighbours with our calendar of outdoor events - designed to make the most of the garden courtyard.\r\n\r\nPlease note: All images, floorplans, and particulars included are for illustrative and indicative purposes only. Individual features and layout may vary. *Car parking available at an additional fee.",
+ "keyFeatures": [
+  "Community social events ",
+  "Friendly on-site concierge team on hand to help  ",
+  "Pet-friendly apartments ",
+  "8-minute train London Bridge"
+ ],
+ "tags": [
+  "BUILT_FOR_RENTERS"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a3e43c305/92425851/a3e43c30565a5de9091ddc5df9dd6754.jpeg",
+  "https://media.rightmove.co.uk/property-photo/506f29944/92425851/506f299445a95564e070b933214fb7db.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e8fad3eea/92425851/e8fad3eea0153608aab7b91e86630d15.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fafea8c0a/92425851/fafea8c0acd00d1d5a4375736fa99014.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b763ea549/92425851/b763ea549708a574ce74c3e15566e6b1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/af4ef927c/92425851/af4ef927c1079eaebfc1ce6b23e5b8eb.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Queens Road Peckham Station",
+   "miles": 0.23183573071107583,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Peckham Rye Station",
+   "miles": 0.43471369840412416,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Nunhead Station",
+   "miles": 0.6652222111030246,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Greystar, Idaline Court",
+ "city": "London",
+ "sourceOutcode": "SE15",
+ "scrapedAt": "2026-08-30T10:14:47.123Z"
+}

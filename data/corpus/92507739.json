@@ -1,0 +1,83 @@
+{
+ "id": "92507739",
+ "displayAddress": "Apt 56, Live Oasis Wade Lane #842701",
+ "outcode": "LS2",
+ "incode": "8EX",
+ "latitude": 53.8017,
+ "longitude": -1.54206,
+ "priceAmount": 1899,
+ "priceLabel": "£1,899 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92507739",
+ "area": "Live Oasis Wade Lane #842701",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "08/09/2026",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Listing code 842701.\n\nPet-friendly and fully furnished, this two-bedroom apartment at Live Oasis Belgrave Street offers high-quality accommodation for students in Leeds city centre. It’s perfect for living with friends or if you are looking for extra living space.\n\nEach bedroom includes a large bed with underbed storage, bedside table, spacious wardrobe and study area with a desk and chair - ideal for working from home or studying in peace.\n\nThe modern bathroom has premium finishes, integrated storage, a rainfall shower, heated towel rail and full tiling throughout.\n\nThe open plan kitchen is fitted with high-spec appliances including an oven and hob, washer-dryer, integrated fridge/freezer, and a microwave. There is a dining table and chairs within the apartment - perfect for dining with friends. The living area offers comfort and convenience, with a two-seater sofa, coffee table, shelving and a smart TV.\n\nHighlights of Live Oasis Wade Lane benefits:\n- All bills included\n- Student apartments\n- Pet friendly accommodation\n- Fully furnished apartments\n- Access to grab n go breakfast\n- Access to nearby gym\n- Access to nearby resident lounges\n- Concierge service\n- CCTV and fob entry\n- Free resident events",
+ "keyFeatures": [
+  "Listing Code: 842701",
+  "2 Bedrooms",
+  "2 Bathrooms",
+  "Available from: September 8th",
+  "All Bills Included",
+  "City Centre Location",
+  "Concierge Service",
+  "Bike Store",
+  "Secure Fob Entry",
+  "Great transport links"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/8e0d9ad09/92507739/8e0d9ad099eb4bdb350cd8fa8f736654.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6b311b283/92507739/6b311b2834fe98430bdd8eae61b9cd74.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2324d6fb0/92507739/2324d6fb0455d54e90336bf33b9390be.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ae266066f/92507739/ae266066fd9c46976b879497a3c102b8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b0b0622ee/92507739/b0b0622ee7800e7a161aaa82af994a3d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9180a745a/92507739/9180a745a57eeefc983fb5c6cbc833b2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bfcb6856a/92507739/bfcb6856a8453cc3d207da667453ffd6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/048c1e20e/92507739/048c1e20e555cec9a8678155d98fc86c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/55ddd1331/92507739/55ddd1331622aa7203c372226308a548.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 0.5723237013409579,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 1.6369240995260683,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 2.4099322620924433,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "YPP, Sheffield",
+ "city": "Leeds",
+ "sourceOutcode": "LS2",
+ "scrapedAt": "2026-08-30T10:24:16.768Z"
+}

@@ -1,0 +1,80 @@
+{
+ "id": "92320128",
+ "displayAddress": "Haggerston Road, \nHaggerston, E8",
+ "outcode": "E8",
+ "incode": "4EN",
+ "latitude": 51.540252,
+ "longitude": -0.075984,
+ "priceAmount": 2200,
+ "priceLabel": "£2,200 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92320128",
+ "area": "Haggerston",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 552,
+  "sizeSqM": 51,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "04/11/2026",
+  "deposit": 2538,
+  "minimumTermMonths": 12,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": 552,
+ "sizeSqM": 51,
+ "description": "A superb one bedroom apartment in the heart of Haggerston boasting superb natural light and modern interior throughout.\n\nFeaturing wood floors, high ceilings and stylish furnishings. boasting a large living room, with large sash windows, a modern kitchen with integrated appliances, a spacious double bedroom and a modern bathroom. Offered on an unfurnished basis.\n\nConveniently located for Haggerston Station.\n\nOur China Desk is here for you, if Chinese is your preferred language, please get in touch via WeChat (ChestertonsLettings)",
+ "keyFeatures": [
+  "One Bedroom ",
+  "Newly Refurbished ",
+  "Wood Floors",
+  "Open-Plan Reception Room",
+  "Conveniently Located From Station",
+  "Dual Aspect Reception Room"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c071f1c6c/92320128/c071f1c6c86a0510ad9e48729c9a743f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/af1f8a945/92320128/af1f8a945852b08f1de71241a089bbd4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/72fd0c2ab/92320128/72fd0c2aba6ad30f4c16c1a5f79dcce8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9c2ba8f1a/92320128/9c2ba8f1a91b2d78b1e77fad5451c45e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/331ca9d1b/92320128/331ca9d1baac3c316e2d87b4028aa32a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3e82c3afe/92320128/3e82c3afe0e5faecaf4fb07df6419dbe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/024362e1b/92320128/024362e1b5e1fa6c19f82a7a77970082.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb1e1428f/92320128/bb1e1428f22b421b288b38b13b23a8e4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/56e6298ce/92320128/56e6298ce630c891278471b1a0768a5a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/09615590f/92320128/09615590fc162d387c4f0f28ada7a237.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Haggerston Station",
+   "miles": 0.08228431517414259,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Dalston Junction Station",
+   "miles": 0.4068925249761925,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Dalston Kingsland Station",
+   "miles": 0.5435918581903614,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  }
+ ],
+ "agent": "Chestertons, Islington",
+ "city": "London",
+ "sourceOutcode": "E8",
+ "scrapedAt": "2026-08-30T10:13:08.716Z"
+}

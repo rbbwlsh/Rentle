@@ -1,0 +1,85 @@
+{
+ "id": "171238616",
+ "displayAddress": "Switch House West, \nBattersea Power Station, SW11",
+ "outcode": "SW11",
+ "incode": "8BD",
+ "latitude": 51.481896,
+ "longitude": -0.145331,
+ "priceAmount": 13500,
+ "priceLabel": "£13,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/171238616",
+ "area": "Switch House West, Battersea Power Station",
+ "bedrooms": 3,
+ "bathrooms": 3,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "sizeSqFt": 1924,
+  "sizeSqM": 179,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "05/09/2026",
+  "deposit": 18692,
+  "minimumTermMonths": 12,
+  "councilTaxBand": "G"
+ },
+ "sizeSqFt": 1924,
+ "sizeSqM": 179,
+ "description": "A rare opportunity to let a river facing three bedroom apartment in Switch House West.\n\nBoasting just under 2000sqft of living space, the property is finished to exacting standards throughout.\n\nThe property offers open plan kitchen living room with exposed brick, integrated Miele appliances and stunning views of the River Thames.\n\nThe property boasts a luxurious primary suite, with built in wardrobes, and a stylish en-suite with free standing copper bath tub. There are two further double bedrooms and two contemporary shower rooms.\n\nBattersea Power Station offers 24 hour concierge, landscaped gardens, on site residents lounge, Spring gym and spa facilities.\n\nOur China Desk is here for you, if Chinese is your preferred language, please get in touch via WeChat (ChestertonsLettings)",
+ "keyFeatures": [
+  "Battersea Power Station",
+  "Riverside Living",
+  "Fantastic Development",
+  "Wooden Flooring",
+  "Unique and Spacious",
+  "River Views"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/272e21cf2/171238616/272e21cf2aeaa542c2b15548b5c2a80d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/de088d0ce/171238616/de088d0ceb5cbbd5eefd80012c014f54.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0135498ba/171238616/0135498ba8a8772d00835c85857cc22b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e0b38522b/171238616/e0b38522b9d87a6b1936aaf58237f108.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1968d7fbc/171238616/1968d7fbc45a6271be7999f9d9a1d0d7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1dead367b/171238616/1dead367b20d04e64603cce12bc38949.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4c2ff021b/171238616/4c2ff021b3b9c4c0b5512bd95c14a582.jpeg",
+  "https://media.rightmove.co.uk/property-photo/98803862e/171238616/98803862e269c0fa6b5eeb0bbcfec0af.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1457bd0ad/171238616/1457bd0ad0fe1d12b953c3c94de04bc8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/590b81f28/171238616/590b81f280f874571dd0fa17a9135482.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2a8b6d476/171238616/2a8b6d476d4cf9272b29a0c84c88e3b6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/efb64f549/171238616/efb64f5499cd30c5e926ce7777b4c5c0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/506e37123/171238616/506e37123d853de8b8a2edaa4aba15d2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/555f83377/171238616/555f8337764c85b71f458fe277dff8ed.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ea3c4dd6e/171238616/ea3c4dd6ea6a9ce2aa8602d85c4cda55.jpeg"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Battersea Power Underground Station",
+   "miles": 0.19293722111062564,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Battersea Park Station",
+   "miles": 0.29737993167008236,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Queenstown Road (Battersea) Station",
+   "miles": 0.49739287587549746,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Chestertons, Battersea Park",
+ "city": "London",
+ "sourceOutcode": "SW11",
+ "scrapedAt": "2026-08-30T10:15:35.459Z"
+}

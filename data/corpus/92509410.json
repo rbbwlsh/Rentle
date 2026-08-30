@@ -1,0 +1,90 @@
+{
+ "id": "92509410",
+ "displayAddress": "Clifton, Worrall Road, BS8 2UE",
+ "outcode": "BS8",
+ "incode": "2UE",
+ "latitude": 51.469022,
+ "longitude": -2.61641,
+ "priceAmount": 1950,
+ "priceLabel": "£1,950 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92509410",
+ "area": "Clifton",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": 980,
+  "sizeSqM": 91,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "08/10/2026",
+  "deposit": 2250,
+  "minimumTermMonths": null,
+  "councilTaxBand": "D"
+ },
+ "sizeSqFt": 980,
+ "sizeSqM": 91,
+ "description": "Video Tour Available | Town House | Three Double Bedrooms | Private Patio Garden | Garage | White goods included | Unfurnished | Walking distance to Whiteladies Road and Durdham Downs | Plenty of Local Amenities | Suitable for a Family, Couple or 2 Professional Sharers | Will Consider a Pet | School Catchment Area | Close to Clifton Down Train Station | Moments from Main Bus Links |\n\nThis is a fabulous modern 3 storey town house situated just off Whiteladies Road and a moments walk from Durdham Downs. This property offers plenty of space, a low maintenance patio garden plus a garage. On the ground floor has a door leading to a garage with electric roller door, separate utility with washing machine, cloakroom and access leading to the rear garden. Heading upstairs, there is a light and spacious open plan fitted kitchen/living room with a breakfast bar, one of three double bedrooms and stairs leading to the second floor where you will find the second double bedroom, a luxury bathroom with bath and separate shower and lastly the master bedroom with lovely views across Clifton and the City. This property has fantastic access to travel links, amenities, green spaces and is located in local school catchment areas so is perfect for a professional family or couple looking for extra space. Please note, this property is offered unfurnished and is not available for 3 sharers. This house would be suitable for a pet.\n\nCouncil Tax Band: D | Holding Deposit: £450 | Security Deposit: £2250\n\nEPC Rating: D",
+ "keyFeatures": [
+  "Quiet Residential Location",
+  "Spacious Property",
+  "Fully Managed",
+  "Residents Parking Permit Available (Subject To Application)",
+  "Stones throw from Durdham Downs",
+  "3 Storey Town House",
+  "Garage",
+  "Just Off Whiteladies Road",
+  "Close to Local Amenities",
+  "Low Maintenance Garden"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/dcae7fc67/92509410/dcae7fc671e5be62e24c8824ac3f3b03.jpeg",
+  "https://media.rightmove.co.uk/property-photo/527039182/92509410/527039182df1a917f31892980f003e4f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4f8acb359/92509410/4f8acb3595532fecea5b13802fd0a36f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f1d4791e3/92509410/f1d4791e3946d28f4b7a0582f4a780a0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b54b87749/92509410/b54b87749839bf76be83680599699f70.jpeg",
+  "https://media.rightmove.co.uk/property-photo/adfb5c38b/92509410/adfb5c38b48e13f2227df5c7cba375d3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fa5624c02/92509410/fa5624c02a7950e93f8fde20e74c6418.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0104c825b/92509410/0104c825b06e1dd83b8026792f7e0a73.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a51f6930c/92509410/a51f6930cda6830fc6f953af35c9e7e8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b4ea12110/92509410/b4ea121105a4b93319aec6e12d4e42d0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5c21b5d4b/92509410/5c21b5d4b4236c69ce1b2d39b567bd7e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/530b74597/92509410/530b74597bb2f0930887671c8f3e9e3a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/59e93c724/92509410/59e93c7248676ee9978afef18e3d35fd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/40a43085a/92509410/40a43085a9792b39102a1cda6d16e8f1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b53698271/92509410/b53698271b44ef45a6ab03da50f8e843.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8dff0fd02/92509410/8dff0fd028d124803e17e4f57da499f0.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.387053196154493,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.7359243844083565,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Montpelier Station",
+   "miles": 1.195027890344886,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "The Bristol Residential Letting Co, Clifton",
+ "city": "Bristol",
+ "sourceOutcode": "BS8",
+ "scrapedAt": "2026-08-30T11:03:08.732Z"
+}

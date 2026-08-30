@@ -1,0 +1,75 @@
+{
+ "id": "92552826",
+ "displayAddress": "Shudehill, Manchester, M4",
+ "outcode": "M4",
+ "incode": "4AA",
+ "latitude": 53.48546,
+ "longitude": -2.237055,
+ "priceAmount": 1400,
+ "priceLabel": "£1,400 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92552826",
+ "area": "Shudehill, Manchester",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "13/09/2026",
+  "deposit": 1615,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Property Reference: 3022132.\n\nWe are proud to offer this delightful 2 bedroom, 2 bathroom flat with balcony in a great location with secured allocated parking space. It’s close to Metro Link Station and Arndale Center which is the biggest shopping mall in Manchester.\n\nApartment not for short term letting!   \n\nAvailable to move in from 13 Sep 2026.\n\nViewing highly recommended. Contact OpenRent today for more details or to arrange a viewing!\n\nRental Details:\n \n \n\n2 Bedroom and 2 bathroom with 1 allocated parkingFully furnished at £1,400 pcmAvailable from 13 Sep 202612 months tenancy5 weeks deposit: £1,615.38EPC: CCouncil Tax: D (Manchester)\n\nSummary & Exclusions:\n- Rent Amount: £1,400.00 per month (£323.08 per week)\n- Deposit / Bond: £1,615.38\n- 2 Bedrooms\n- 2 Bathrooms\n- Property comes furnished\n- Available to move in from 13 September 2026\n- Maximum number of tenants is 2\n- Students welcome to enquire\n- No Smokers\n- Bills not included\n- Property has parking\n- No Garden Access\n- EPC Rating: C\n\n  If calling, please quote reference: 3022132  \n\nFees:\nYou will not be charged any admin fees.\n\n ** Contact today to book a viewing and have the landlord show you round! ** \nRequest Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.",
+ "keyFeatures": [
+  "No Agent Fees",
+  "Students Can Enquire",
+  "Property Reference Number: 3022132"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d5eb38a49/92552826/d5eb38a495fd15f2a5839abe086c52d5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/be197ed50/92552826/be197ed50fb7bb1e72b431ee3ef81f92.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dc873e39d/92552826/dc873e39d9a9841a81db3158141809a0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5c89e533a/92552826/5c89e533a58b51c8cf8f14fb970bce9c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d2d4ea57d/92552826/d2d4ea57de43fcfe19fb62c6bf93f031.jpeg",
+  "https://media.rightmove.co.uk/property-photo/55e21cd41/92552826/55e21cd41a8bf0b5272fa224790d1a22.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cf1f518df/92552826/cf1f518dfb901fd26a35a3688374edd5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/82996d183/92552826/82996d183ec09ca9976d7c6124a0b715.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Manchester Victoria Station",
+   "miles": 0.2501308718507987,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Market Street Tram Stop",
+   "miles": 0.2623719690333257,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Mosley Street Tram Stop",
+   "miles": 0.36084738476583045,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "OpenRent, London",
+ "city": "Manchester",
+ "sourceOutcode": "M4",
+ "scrapedAt": "2026-08-30T10:17:24.061Z"
+}

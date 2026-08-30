@@ -1,0 +1,74 @@
+{
+ "id": "175050194",
+ "displayAddress": "Merchant Square East, Hyde Park, City Of Westminster, London",
+ "outcode": "W2",
+ "incode": "1AP",
+ "latitude": 51.519074,
+ "longitude": -0.171197,
+ "priceAmount": 9967,
+ "priceLabel": "£9,967 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/175050194",
+ "area": "City Of Westminster, London",
+ "bedrooms": 4,
+ "bathrooms": null,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 4,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": null,
+  "letAvailableDate": "31/08/2026",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This fourteenth floor apartment has spacious living and entertaining space with a beautiful reception room and a large balcony, offering breath-taking views over London. It also comprises a striking modern open plan kitchen with breakfast bar, four spacious bedrooms, three luxurious bathrooms and ample storage space.\n\nThis prestigious building set off Paddington Basin features concierge, lift service, CCTV and secure underground parking.\n\nThe apartment offers easy access to superb transport links such as Paddington Train Station (Elizabeth line, Bakerloo, Hammersmith & City, Circle, District lines and Heathrow Express) Edgware Road (Circle, District and Bakerloo lines).",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/cf038dfa9/175050194/cf038dfa9e7540526f904858cbb08d2d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e690e6b40/175050194/e690e6b405c15a66d7845c6777852e76.jpeg",
+  "https://media.rightmove.co.uk/property-photo/53d868d01/175050194/53d868d017d37dbc0a4157a8a3a3602f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fde46b071/175050194/fde46b0714c63627ea83ed65f93cb3bd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3397f3b20/175050194/3397f3b2063d194b8fcaba50617f3963.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ec2ce92bf/175050194/ec2ce92bf31c6593b583fed90d1adbd1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a5df34a54/175050194/a5df34a54cec5aa07b9c9b75a4072abb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/598d20699/175050194/598d2069990167710aa59ea4579fa7bf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/04892384b/175050194/04892384bac9528ef3372e9e348cfb77.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d20239b1/175050194/6d20239b1378554fc5beeb7733fafae6.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Edgware Road (Bakerloo) Station",
+   "miles": 0.1202232236780245,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Edgware Road (Circle, District, Hammersmith & City) Station",
+   "miles": 0.15848738211430946,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Paddington Station",
+   "miles": 0.31067086170094005,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "Pure Realty, London",
+ "city": "London",
+ "sourceOutcode": "W2",
+ "scrapedAt": "2026-08-30T10:16:08.306Z"
+}

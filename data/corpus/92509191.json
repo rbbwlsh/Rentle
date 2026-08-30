@@ -1,0 +1,79 @@
+{
+ "id": "92509191",
+ "displayAddress": "Deanery Road, BRISTOL",
+ "outcode": "BS1",
+ "incode": "5QH",
+ "latitude": 51.45128,
+ "longitude": -2.60394,
+ "priceAmount": 1900,
+ "priceLabel": "£1,900 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92509191",
+ "area": "BRISTOL",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "30/10/2026",
+  "deposit": 2192,
+  "minimumTermMonths": 12,
+  "councilTaxBand": "D"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "**Zero Deposit Guarantee Available**\n\nHolding Deposit: £438.00\n\nSUMMARY\nFully Furnished City Centre Apartment, with secure parking available from the 30th October. \n\nThe property would suit two professional sharers or a couple. Great location with a selection of resturants and bars close by.\n\nDESCRIPTION\n*** TWO BEDROOM APARTMENT *** ALLOCATED PARKING \n\nWe are delighted to offer this two double bedroom Fully Furnished apartment located in Bristol City Centre. \n\nThe property has a spacious living area leading to the balcony. The kitchen has all the white goods included, you have a spacious hallway leading to the two double sized bedrooms.  The master bedroom has an ensuite shower room and the main bathroom has a bath included. \n\nThe rent is £1900pcm and the deposit is £2192.  The council tax is a band D.\n\nWhile every reasonable effort is made to ensure the accuracy of descriptions and content, we should make you aware of the following guidance or limitations.\r\n\r\n(1) MONEY LAUNDERING REGULATIONS – prospective tenants will be asked to produce identification documentation during the referencing process and we would ask for your co-operation in order that there will be no delay in agreeing a tenancy.\r\n(2) These particulars do not constitute part or all of an offer or contract.\r\n(3) The text, photographs and plans are for guidance only and are not necessarily comprehensive.\r\n(4) Measurements: These approximate room sizes are only intended as general guidance. You must verify the dimensions carefully to satisfy yourself of their accuracy.\r\n (5) You should make your own enquiries regarding the property in respect of things such as furnishings to be included/excluded and what facilities are/are not available.\r\n(6) Before you enter into any tenancy for one of the advertised properties, the condition and contents of the property will normally be set out in a tenancy agreement and inventory. Please make sure you carefully read and agree with the tenancy agreement and any inventory provided before signing these documents.",
+ "keyFeatures": [
+  "Allocated Parking Space",
+  "Fully Furnished",
+  "Bristol City Location",
+  "Two Double Bedrooms",
+  "Available 30th October",
+  "Balcony ",
+  "Zero Deposit Available"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/5aa4b8efa/92509191/5aa4b8efa5560f7ec1d114fac73ff254.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8bf50bde6/92509191/8bf50bde67519236d32c14d9f9c25fe2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eeb711066/92509191/eeb71106657bf7acee08928ae6ec09a4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/db397b146/92509191/db397b1466623fc2368e5e32176a9115.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8438d5734/92509191/8438d573425085b93e412055380cff79.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ff76584c9/92509191/ff76584c9591e12d68134b423511a83b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4cb4bfaaa/92509191/4cb4bfaaac15dbb50f9d5241567348d8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/45a888e69/92509191/45a888e69a023a12c9655a6b71513cab.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Bedminster Station",
+   "miles": 0.8844311185592906,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.9672037334029515,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 0.9834039187538628,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Allen & Harris, Clifton",
+ "city": "Bristol",
+ "sourceOutcode": "BS1",
+ "scrapedAt": "2026-08-30T10:21:51.676Z"
+}

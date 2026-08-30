@@ -1,0 +1,82 @@
+{
+ "id": "92555112",
+ "displayAddress": "Chapmans Yard, Upper Gough Street, Birmingham B1",
+ "outcode": "B1",
+ "incode": "1JL",
+ "latitude": 52.474578,
+ "longitude": -1.904413,
+ "priceAmount": 1500,
+ "priceLabel": "£1,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92555112",
+ "area": "Chapmans Yard",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "23/10/2026",
+  "deposit": 1730,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Available now! Be the first to occupy Elevate Property Group's latest creation.  Superbly located adjacent to Birmingham’s Mailbox, and within a short walk of Paradise, Grand Central and New Street Station is Chapmans Yard, this new ‘B1’ regeneration scheme of 111 residential apartments with residents lounge, two communal courtyards and roof garden.\nThis large top floor apartment is flooded with natural light from it's floor to ceiling windows, offering two double bedrooms, two bathrooms and generous open plan living, kitchen and dining area.\nOffered on a furnished basis. No parking. EPC rating B. Awaiting council tax band.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/3a7a96249/92555112/3a7a96249d4930613e938950616fef8d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ae45e3cf9/92555112/ae45e3cf9b853984e583ccf34e0154fa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d42bdefeb/92555112/d42bdefebc008ba46711152b1f775680.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5d13c2e3d/92555112/5d13c2e3dde3b89a7be6c9d476da6296.jpeg",
+  "https://media.rightmove.co.uk/property-photo/985e77b1a/92555112/985e77b1a245051b8b5f56bc04f6520b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b99f17c53/92555112/b99f17c53b19e51389d5411670115806.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ccf5010d2/92555112/ccf5010d2730fbe2ef9dfffe7205a2e6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d29436eb6/92555112/d29436eb61a8178152bfff6e6ebdfd24.jpeg",
+  "https://media.rightmove.co.uk/property-photo/07f23d8ab/92555112/07f23d8abc73faec600c16d788c7b31c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b6b171dbb/92555112/b6b171dbb7666a31fa954030d1c910a2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a8c6329ba/92555112/a8c6329ba11243f228192d67ad8ff073.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d57df791d/92555112/d57df791d13869a7bba91782af8e94d5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d74685674/92555112/d746856740dd7a6d8a6b573b56c5006b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/75cead359/92555112/75cead35999df38d5460308e87abe95e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/79fe8669a/92555112/79fe8669a34bfa76032bdcdc3fde667d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/94ecec3af/92555112/94ecec3af7a8a41fda7929906a4c4c96.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0a9a42cd7/92555112/0a9a42cd7a2a0bd85cc0a06aa51c1113.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aca37763d/92555112/aca37763de1e17bc9b08e61382370c9e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2e802a9be/92555112/2e802a9be3458c257228f0c3bae58864.jpeg"
+ ],
+ "imageCount": 19,
+ "nearestStations": [
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 0.31739692601823005,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Five Ways Station",
+   "miles": 0.48823637483077187,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Moor Street Station",
+   "miles": 0.5927024992494891,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Lets Live, Birmingham",
+ "city": "Birmingham",
+ "sourceOutcode": "B1",
+ "scrapedAt": "2026-08-30T10:19:11.279Z"
+}

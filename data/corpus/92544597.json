@@ -1,0 +1,77 @@
+{
+ "id": "92544597",
+ "displayAddress": "Carrington Road, Bristol, BS3",
+ "outcode": "BS3",
+ "incode": "2AQ",
+ "latitude": 51.4406,
+ "longitude": -2.613235,
+ "priceAmount": 1875,
+ "priceLabel": "£1,875 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92544597",
+ "area": "Bristol",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "06/09/2026",
+  "deposit": 1875,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Property Reference: 2935358.\n\n** COUNCIL TAX INCLUDED**\n\n**360 TOUR AVAILABLE ON REQUEST**\n\n**NOT AVAILABLE TO SHARERS** (Ideal for a Family or Professional Couple only)\n\nDESCRIPTION:\n\nThis light and airy Victorian house is located on a quiet and friendly street within a 2-minute walk from the vibrant North Street with its numerous independent food shops, cafes, restaurants, bars, pubs, art shops and homeware stores. The neighbourhood boasts several good schools, a yoga studio, a Sunday farmer’s market, a swimming pool, live theatre, and a local park. The city centre and harbourside area is approximately 30 minutes on foot or accessible by bus located 2 minutes from the house.\n\nLETTING DETAILS:\n\nLet Available Date:  NowLet Type: Long TermMin Tenancy: 9 MonthsFurnished Type: Unfurnished, Includes White Goods (Fridge Freezer, Washing Machine, Oven, and Hob)Property Type: TerracedBedrooms: 3Reception Rooms: 2Large KitchenRear GardenBathrooms: 1 + 1 Cloakroom ToiletFloorspace 101.36 sq meter (1091.38 sq feet)\n\nKEY FEATURES:\n\nUnfurnishedWhite Goods IncludedSpace to Work from HomeOriginal Victorian Features including FireplaceOriginal Wooden FloorsDouble Glazed ThroughoutBuilt-in Wardrobes in Every Bedroom\n\nLOCATION:\n\n2 minutes walk to Aldi’s supermarket2 minutes walk to North Street5 minutes to local park3 minutes walk to a bus stop which goes to Temple Meads Train Station & Bristol City Centre10 minutes drive to Temple Meads Train Station15 minutes drive to Bristol City Centre20 minutes drive to M3210 minutes drive to the A4174 ring road\n\nSummary & Exclusions:\n- Rent Amount: £1,875.00 per month (£432.69 per week)\n- Deposit / Bond: £1,875.00\n- 3 Bedrooms\n- 2 Bathrooms\n- Property comes unfurnished\n- Available to move in from 06 September 2026\n- Maximum number of tenants is 5\n- No Students\n- No Smokers\n- Bills not included\n- No Parking Available\n- Property has garden access\n- Property has fireplace\n- EPC Rating: D\n\n  If calling, please quote reference: 2935358  \n\nFees:\nYou will not be charged any admin fees.\n\n ** Contact today to book a viewing and have the landlord show you round! ** \nRequest Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.",
+ "keyFeatures": [
+  "No Agent Fees",
+  "Property Reference Number: 2935358"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/be1820214/92544597/be1820214857a0e65af9a2c3362e6721.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3191c4f48/92544597/3191c4f48ef03905e1409d2503f1753d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/866180e66/92544597/866180e6612428dfa98909a2c589f236.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3d344cccb/92544597/3d344cccbdcc92a4462466594a903df4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/06a16c69a/92544597/06a16c69ab7b74ee3d1fed6ffc83d064.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c7e21a4a3/92544597/c7e21a4a374ca17fb0564c82434d1abc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/389e22493/92544597/389e22493b2ab454394b7df25a0b1286.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b60d1413e/92544597/b60d1413e3122a6bb88d5cd7d5b2ff33.jpeg",
+  "https://media.rightmove.co.uk/property-photo/048335863/92544597/0483358637d8734940d72f187ab08ff1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5404bfa6e/92544597/5404bfa6e92dd9337730a2307f31a0c5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/01145e352/92544597/01145e352307361d3764363547fdbf6c.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Parson Street Station",
+   "miles": 0.5487648008065033,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bedminster Station",
+   "miles": 0.8197383331974177,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 1.492141180194383,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "OpenRent, London",
+ "city": "Bristol",
+ "sourceOutcode": "BS3",
+ "scrapedAt": "2026-08-30T10:22:22.671Z"
+}

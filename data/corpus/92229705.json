@@ -1,0 +1,93 @@
+{
+ "id": "92229705",
+ "displayAddress": "New Union Square, London",
+ "outcode": "SW11",
+ "incode": "7BR",
+ "latitude": 51.482044,
+ "longitude": -0.134845,
+ "priceAmount": 3900,
+ "priceLabel": "£3,900 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92229705",
+ "area": "London",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "07/10/2026",
+  "deposit": 4500,
+  "minimumTermMonths": null,
+  "councilTaxBand": "F"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Experience luxury riverside living in this beautifully furnished dual-aspect apartment located on one of the upper floors of the prestigious Ambassador Building, Embassy Gardens.This exceptional home enjoys breathtaking views of the River Thames and London’s skyline.\n\nThe spacious open-plan reception room is perfect for entertaining, featuring a sleek modern integrated kitchen and access to a stylish winter garden – the ideal spot to relax and enjoy the views all year round. Both bedrooms are generously proportioned, with the principal suite offering an elegant en suite bathroom. A second luxury bathroom, good storage, and a utility cupboard complete the layout. Secure parking is available by separate negotiation.\n\nWorld-Class Resident Amenities\nEmbassy Gardens offers some of the finest facilities in London, including:\n\n    24-hour concierge\n\n    Private cinema screening room, library & lounge\n\n    Business centre & yoga studio\n\n    Two fully equipped gyms\n\n    Heated indoor/outdoor swimming pool\n\n    Exclusive access to the world-famous Sky Pool, suspended between two towers\n\nLifestyle & Location\nEnjoy on-site dining and lifestyle venues such as District Coffee Shop, Darby’s Restaurant, The Alchemist, Homeboy bars, and a Waitrose convenience store. Beyond the development, you’re just minutes from the vibrant shopping and dining at Battersea Power Station.\n\nExceptional Transport Links\n\n    Nine Elms Tube station – less than a 5-minute walk\n\n    Vauxhall station – walking distance, with Underground, Overground & National Rail services\n\n    Easy access into Central London, the West End, and beyond\n\nCouncil Tax Band: G (London Borough of Wandsworth)",
+ "keyFeatures": [
+  "Stylish open-plan reception with modern integrated kitchen",
+  "Two luxury bathrooms, including en suite to principal bedroom",
+  "Furnished to a high standard with excellent storage &amp; utility cupboard",
+  "24-hour concierge, library, cinema, and business centre",
+  "Two private residents’ gyms, yoga studio &amp; heated indoor/outdoor pool",
+  "Exclusive access to the iconic Sky Pool",
+  "On-site dining &amp; retail including Waitrose, Darby’s, The Alchemist &amp; more",
+  "Less than 5 minutes’ walk to Nine Elms Tube &amp; close to Vauxhall Station",
+  "Short walk to Battersea Power Station shops, restaurants &amp; bars",
+  "Fully Furnished"
+ ],
+ "tags": [
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/3adb0e876/92229705/3adb0e8769992318e40ba153e810d2cc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/033bd52d6/92229705/033bd52d6049c5ed28ee6cead8360987.jpeg",
+  "https://media.rightmove.co.uk/property-photo/15c67f4fc/92229705/15c67f4fcd6b97b7e8973b8f0737fb92.jpeg",
+  "https://media.rightmove.co.uk/property-photo/798bc9451/92229705/798bc9451850ab1a87ca2e77faed4876.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0e0bcee36/92229705/0e0bcee36cc0d28771ae967b0e96f633.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d713feed7/92229705/d713feed7eba8aa718bcbbe38ad737ad.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0891cebac/92229705/0891cebacff29017f411596f1181a5f0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/61912c172/92229705/61912c172a90becfc1d430277d90ec80.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a8ea27e35/92229705/a8ea27e3560f798dff434e9ad5f94ead.jpeg",
+  "https://media.rightmove.co.uk/property-photo/534b90916/92229705/534b909167dc1d9fa5db361e8b6a35e1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/24fbdec0b/92229705/24fbdec0b1f192064f4040c5d1df090a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/007cf5586/92229705/007cf55860ae9ea6c9380f1b170d421a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ef31b5efb/92229705/ef31b5efbe6009af149bc9735c8bd616.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6b9fc52ef/92229705/6b9fc52ef2f9c6bf40b4a3a39c2a1672.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb9ace73f/92229705/bb9ace73faa4d73b67012e833b5f076e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3341ec01d/92229705/3341ec01d63c701e8bec261e2fe114a9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4f4e32f2e/92229705/4f4e32f2e9343497a17c9eae0931b900.jpeg"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "Nine Elms Station",
+   "miles": 0.3125790780482925,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Battersea Power Underground Station",
+   "miles": 0.34801655379742014,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Pimlico Station",
+   "miles": 0.4931953648983944,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "Chase Apartments, London",
+ "city": "London",
+ "sourceOutcode": "SW11",
+ "scrapedAt": "2026-08-30T10:15:24.914Z"
+}

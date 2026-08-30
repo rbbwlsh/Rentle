@@ -1,0 +1,79 @@
+{
+ "id": "92552526",
+ "displayAddress": "Jefferson Place, Green Quarter, Manchester, M4",
+ "outcode": "M4",
+ "incode": "4BT",
+ "latitude": 53.490799,
+ "longitude": -2.24018,
+ "priceAmount": 1400,
+ "priceLabel": "£1,400 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92552526",
+ "area": "Manchester",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/10/2026",
+  "deposit": 1616,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Martin & Co are proud to present this fantastic 15th floor apartment located within the highly sought after development, Jefferson Place, part of the city's popular Green Quarter. In addition the apartment provides a fantastic roof terrace from which to enjoy the warm summer evenings and city centre skyline.\n\nConsisting of two double bedrooms and en suite bathroom. A spacious open plan living area with modern kitchen including integrated appliances. A unique spa style master bathroom finished to an amazing standard. Floor to ceiling windows lead to your private roof terrace providing fantastic outside space for relaxing and entertaining alike with amazing views of the city centre and beyond. Secure parking is also included.\n\nJefferson Place offers superb proximity to the many vibrant attractions of the city centre as well as being perfectly located for access to Victoria Rail/Metrolink. The Arndale shopping centre is a mere five minutes' walk along with all the major bars and restaurants of the Printworks. The recently built Park Inn hotel next door provides access to modern gym, spa, and swimming pool facilities at discounted rates for residents. \n\nContact our office on   as soon as possible to avoid missing out!",
+ "keyFeatures": [
+  "SOUGHT AFTER GREEN QUARTER LOCATION",
+  "FANTASTIC ROOF TERRACE",
+  "TWO DOUBLE BEDROOMS",
+  "SECURE PARKING",
+  "FULLY FURNISHED",
+  "SURROUNDED BY LANDSCAPED GARDENS"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/016177c60/92552526/016177c600f932cfd746283d350458f6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/927d56000/92552526/927d560002b197e24c05224f5dcfed3e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/06f9455c6/92552526/06f9455c63301502fb6f9a50f58b9dbb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d134bdddc/92552526/d134bdddc1ffd4e3850fded3f443ea93.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1dfe80d57/92552526/1dfe80d570e15dd15ce03de2b192331a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c1d1fdc19/92552526/c1d1fdc19973f2150f22fbc34a3ddc49.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2ed4423e1/92552526/2ed4423e1372cdea116dd038f71a4c79.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f47826734/92552526/f47826734c65d0ac8df980760725d7d1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/72e245658/92552526/72e245658916ba48ad148148a37c9116.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Manchester Victoria Station",
+   "miles": 0.2718109104793341,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Market Street Tram Stop",
+   "miles": 0.6167432608348474,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Mosley Street Tram Stop",
+   "miles": 0.7156263263675847,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Martin & Co, Manchester Central",
+ "city": "Manchester",
+ "sourceOutcode": "M4",
+ "scrapedAt": "2026-08-30T10:17:25.627Z"
+}

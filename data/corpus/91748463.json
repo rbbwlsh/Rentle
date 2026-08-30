@@ -1,0 +1,88 @@
+{
+ "id": "91748463",
+ "displayAddress": "Church Road, Abbots Leigh, BS8",
+ "outcode": "BS8",
+ "incode": "3QP",
+ "latitude": 51.46177,
+ "longitude": -2.65935,
+ "priceAmount": 6950,
+ "priceLabel": "£6,950 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91748463",
+ "area": "Abbots Leigh",
+ "bedrooms": 6,
+ "bathrooms": 4,
+ "propertySubType": "Detached",
+ "details": {
+  "propertyType": "Detached",
+  "bedrooms": 6,
+  "bathrooms": 4,
+  "sizeSqFt": 5597,
+  "sizeSqM": 520,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "14/10/2026",
+  "deposit": 9623,
+  "minimumTermMonths": 6,
+  "councilTaxBand": "H"
+ },
+ "sizeSqFt": 5597,
+ "sizeSqM": 520,
+ "description": "** VIDEO TOUR AVAILABLE ** A SENSATIONAL SIX BEDROOM UNFURNISHED HOME WITH A GATED DRIVEWAY, HEATED SWIMMING POOL, GENEROUS PARKING AREA AND A GARAGE. THE HOUSE BENEFITS FROM OVER AN ACRE OF GARDENS AND GROUNDS SITUATED IN THE COUNTRYSIDE BUT WITHIN 10 MINUTES OF CLIFTON VILLAGE.  \nContemporary Kitchen with an Aga and integrated appliances.  \nSitting room, family room, dining room and snug.  \nMaster bedroom with ensuite shower room and dressing room.  \nFive further double bedrooms. \nThree further bath/shower rooms.  \nPlayroom and fitted study space. \nUtility, boot room and two cloakrooms.  \nEnclosed pool room with gas-fired fire pit.  \nOutdoor Kitchen/BBQ. \nHolding Deposit: GBP1603.00. \n6 Week Damage Deposit: GBP9623.00.",
+ "keyFeatures": [
+  "Sensational six bedroom unfurnished home",
+  "An acre of grounds and gardens, heated pool",
+  "Holding Deposit: GBP1603.00",
+  "Video Tour made August 2026"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/003292417/91748463/00329241747cbc6fa0108356ed318345.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6fd1f0746/91748463/6fd1f07469e16d26576173b41868959c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f9f381d8/91748463/5f9f381d80c47484baedd3fc900041ec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/187430426/91748463/18743042632f3702b0adc54ae496b42f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ef2c4ef79/91748463/ef2c4ef791da1da9cae167b374eae47f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6b626b2c1/91748463/6b626b2c1cb7a5f79e2188fede31aa8e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5742e8ffe/91748463/5742e8ffefb4b2994fdb232c90acce81.jpeg",
+  "https://media.rightmove.co.uk/property-photo/483855bb2/91748463/483855bb22f63a71031fc1d847f0044b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1b6d98b85/91748463/1b6d98b855b7e7079bacf2c4f50ce558.jpeg",
+  "https://media.rightmove.co.uk/property-photo/de96f6bbc/91748463/de96f6bbc97039562485a04fb455fcb2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f581a6f99/91748463/f581a6f99266c902325c2ddec61d4981.jpeg",
+  "https://media.rightmove.co.uk/property-photo/537981540/91748463/5379815409d2f60322b0cd4ec787d6f2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d18ee6cd8/91748463/d18ee6cd85873607c7ad7a8eeac703cd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bdb2c4bf9/91748463/bdb2c4bf95b61c1a7240f68a6a9f77a9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a8dd987ea/91748463/a8dd987ea2bb8813e84233d13ea900a1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c602e07ec/91748463/c602e07ec89a4f78bef847afd06e4384.jpeg",
+  "https://media.rightmove.co.uk/property-photo/be14cdaa5/91748463/be14cdaa50329411ab8b2231ccfd1427.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9569f4227/91748463/9569f4227dbb6c16e300266601499f12.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d51a86005/91748463/d51a86005a4de305143d3ce899ffefab.jpeg",
+  "https://media.rightmove.co.uk/property-photo/443ac2c3b/91748463/443ac2c3b24be4ff29b26cea89a87b55.jpeg"
+ ],
+ "imageCount": 20,
+ "nearestStations": [
+  {
+   "name": "Sea Mills Station",
+   "miles": 1.3188015646135878,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Shirehampton Station",
+   "miles": 1.7799868647408053,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Clifton Down Station",
+   "miles": 2.096318173954345,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Sarah Kenny Residential Lettings, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS8",
+ "scrapedAt": "2026-08-30T11:03:00.597Z"
+}

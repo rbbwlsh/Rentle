@@ -1,0 +1,69 @@
+{
+ "id": "92400576",
+ "displayAddress": "Armidale Place, Bath Buildings, Montpelier",
+ "outcode": "BS6",
+ "incode": "5DA",
+ "latitude": 51.466194,
+ "longitude": -2.589631,
+ "priceAmount": 1500,
+ "priceLabel": "£1,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92400576",
+ "area": "Bath Buildings, Montpelier",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "25/09/2026",
+  "deposit": 1730,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This stylish two bedroom apartment located within the Armidale Place development is sure to attract strong interest.  Located off Cheltenham Road in Montpelier with excellent transport links and within easy reach of the City Centre, the local amenities of Picton Street and the ever popular Gloucester Road, the property is perfectly placed. \n\nInternally the apartment consists of an entrance hall with a utility cupboard, two double bedrooms, a lounge/diner, a modern family bathroom and a modern fitted kitchen which includes integrated appliances. \n\nThe property also benefits from an allocated off street parking space in a secure underground car park. \n\nThe monthly rental for this property includes water rates for the duration of the tenancy. \n\nFurther benefits include a secure bike store, gas central heating and double glazing. Viewings are highly recommended.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f970467f5/92400576/f970467f58adf694b38e8f39b1c8b04e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/17cf0132c/92400576/17cf0132c94f2d21def0b6a16531b6ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b426945ed/92400576/b426945edeaa4e54033f34da07996814.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eb0f3eeed/92400576/eb0f3eeedbfcfd832111cf3dc10d385c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4b07cfc0c/92400576/4b07cfc0c0ac75ffff4cf8870607cb92.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a8e106fd1/92400576/a8e106fd1b88bdf5c68f8a65993a63f8.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Montpelier Station",
+   "miles": 0.15375320862224492,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.4465159713366168,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.9307644276864587,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Kendall Harper, Bishopston",
+ "city": "Bristol",
+ "sourceOutcode": "BS6",
+ "scrapedAt": "2026-08-30T10:23:14.009Z"
+}

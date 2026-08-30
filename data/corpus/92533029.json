@@ -1,0 +1,92 @@
+{
+ "id": "92533029",
+ "displayAddress": "Hartley Crescent, Leeds",
+ "outcode": "LS6",
+ "incode": "2LL",
+ "latitude": 53.816566,
+ "longitude": -1.55345,
+ "priceAmount": 1350,
+ "priceLabel": "£1,350 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92533029",
+ "area": "Leeds",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 1350,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "AVAILABLE NOW - A WONDERFUL FULLY FURNISHED TWO BEDROOMED END TERRACE WITH A STUDY, A FANTASTIC OPEN PLAN KITCHEN, DINING AREA AND LOUNGE AND LOVELY ENCLOSED GARDENS, IDEAL FOR A PROFESSIONAL COUPLE. THE PROPERTY IS LOCATED OPPOSITE OPEN PLAYING FIELDS, ON THE DOORSTEP OF THE MEANWOOD VALLEY TRAIL AND WOODHOUSE RIDGE AND VERY CONVENIENTLY PLACED FOR THE MAIN UNIVERSITIES AND LEEDS CITY CENTRE.\r\n\r\nThis beautifully and tastefully presented accommodation comprises an entrance hall, a stunning open plan fitted kitchen, dining area and a lounge with glazed doors to a timber decked patio and garden; upstairs there is a master bedroom with a small dressing room off and views over the parkland opposite, a second double bedroom and a third bedroom/study along with a bathroom w/c. Outside, the delightful corner plot garden is fully enclosed by privet hedging offering a good degree of privacy, with a raised timber deck, a large productive apple tree and a cosy seating area. There is ample on street parking.\r\n\r\nInternal viewing absolutely essential to fully appreciate this characterful and very well presented property.\r\n\r\nA deposit of 1 months rent will be required which will be registered with an approved scheme within 30 days of initial payment. A holding deposit of £100 is required when making an application. If the application is approved the holding deposit will go towards the first month's rent payment.",
+ "keyFeatures": [
+  "Stunning end terrace",
+  "Two bedrooms &amp; study",
+  "Delighful enclosed gardens",
+  "Lovely open plan dining kitchen &amp; lounge ",
+  "Timber decked terrace",
+  "Close to city &amp; universities",
+  "EPC RATING C"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/0778df0f7/92533029/0778df0f741939abc851ab510c0f4282.jpeg",
+  "https://media.rightmove.co.uk/property-photo/665eefe2e/92533029/665eefe2ee2e6fd3f61429017194db7d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3475c6a20/92533029/3475c6a2002793ae2c34cfb4ee773ed0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2dedc5e9b/92533029/2dedc5e9b12f55a3adde8c6e42ec36b9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/da5ed9cf6/92533029/da5ed9cf6ea2e43c1ac8ebd30f133e87.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8f227e90e/92533029/8f227e90effcf7c73420fdf8fd3853e7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e2ec104e5/92533029/e2ec104e537345139c475a5b3b67cb25.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7a6ce8449/92533029/7a6ce8449bbaa88927aac93ccb7af668.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9c856ba04/92533029/9c856ba04d6e314a02cc62f00a319115.jpeg",
+  "https://media.rightmove.co.uk/property-photo/51a384745/92533029/51a3847459002f132dd599bd324e7712.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3af15c844/92533029/3af15c8441333f81de4e7c467344afe0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9b64af8e9/92533029/9b64af8e9d0384bea7a7ccafbd3cd067.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3387ed34d/92533029/3387ed34d195ace0396be8fe3fb75e84.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2cee31ac2/92533029/2cee31ac21822cd590befb2c91b1d0e1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/93321cccf/92533029/93321cccf26e049764681d432ab14232.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4eb17b3ec/92533029/4eb17b3ec3c29a9cfde546c310e63f20.jpeg",
+  "https://media.rightmove.co.uk/property-photo/715d4b314/92533029/715d4b3145b68c9b9fd13ed1020b2736.jpeg",
+  "https://media.rightmove.co.uk/property-photo/209879be5/92533029/209879be524a85e3404efa59fd78f4ed.jpeg",
+  "https://media.rightmove.co.uk/property-photo/00f459901/92533029/00f4599018c9a7fe69f412396476803e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/efd959a39/92533029/efd959a39b5fb10fc1696c0829737413.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a642235e4/92533029/a642235e4853d03c615caf2a996e2d32.jpeg"
+ ],
+ "imageCount": 21,
+ "nearestStations": [
+  {
+   "name": "Burley Park Station",
+   "miles": 1.056611208923078,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Leeds Station",
+   "miles": 1.5829727983941346,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 1.6672030196307746,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Castlehill, Headingley",
+ "city": "Leeds",
+ "sourceOutcode": "LS6",
+ "scrapedAt": "2026-08-30T10:24:34.485Z"
+}

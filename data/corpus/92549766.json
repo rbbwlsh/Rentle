@@ -1,0 +1,93 @@
+{
+ "id": "92549766",
+ "displayAddress": "Angel Gardens, M4",
+ "outcode": "M4",
+ "incode": "4GE",
+ "latitude": 53.48665,
+ "longitude": -2.23598,
+ "priceAmount": 1295,
+ "priceLabel": "£1,295 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92549766",
+ "area": "Angel Gardens",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished or unfurnished, landlord is flexible",
+  "letAvailableDate": "Now",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "10% rental discount!\r\n\r\nWelcome to Angel Gardens, where city living meets elevated lifestyle in the heart of Manchester. Just moments from the Northern Quarter and Ancoats, you're steps away from the city's best cafés, restaurants, boutiques and buzzing bars – everything you need for work, play and everything in between.\r\n\r\nDesigned with modern renters in mind, Angel Gardens offers beautifully styled apartments in a vibrant, pet-friendly community with standout amenities that support your lifestyle.\r\n\r\nAmenities and Benefits:\r\n\r\n24-Hour Gym with studios and Technogym kit\r\nResidents' Lounge & Co-Working Area\r\nRooftop Football Pitch & Residents' Roof Terrace\r\nBBQ Area\r\nPrivate Dining Room\r\nOnsite Maintenance\r\nResidents' Events\r\nHigh-Speed Wifi Included\r\nSecure Cycle Storage\r\nPet Friendly on Odd-Numbered Floors\r\n\r\nWhether you're hosting friends on the rooftop, sweating it out in a group class, or co-working with a coffee in hand, life at Angel Gardens is all about balance, community and connection.\r\n\r\nCity life. Reimagined.\r\n\r\nPhotos, floorplans and CGIs are indicative only. Please enquire for a full selection of available apartments.\r\n\r\nCURRENT OFFER:\r\n\r\nThe advertised rent includes a 10% monthly discount. Your tenancy agreement will show the standard headline rent; however, only the discounted monthly rent will be payable throughout the promotional period. This offer cannot be used in conjunction with any other promotion and may be withdrawn without notice. Early reservation is recommended to secure this offer.\nViewing Tour disclaimer: This advertisement relates to a specific unit at the stated rent. Where multiple units are available within the same development, you may be shown other apartments during your viewing. Each unit is marketed at its own advertised rent, which will be clearly confirmed to you before any offer is submitted. We do not accept offers above the advertised rent for any property. The rent agreed will always be the advertised rent for the selected unit, in accordance with the Renters’ Rights Act.",
+ "keyFeatures": [
+  "Private Cinema",
+  "Residents' Co-Working Lounge",
+  "Residents' Gym",
+  "Samsung Appliances",
+  "Residents' Events",
+  "Pet Friendly",
+  "Bicycle storage",
+  "Private Cinema"
+ ],
+ "tags": [
+  "BUILT_FOR_RENTERS"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/05cc6d52a/92549766/05cc6d52a122e336b726aceef27f775a.png",
+  "https://media.rightmove.co.uk/property-photo/d8b080a51/92549766/d8b080a51bff1a8891977e53e882d097.png",
+  "https://media.rightmove.co.uk/property-photo/9b58fd9f3/92549766/9b58fd9f3d75ce6d1fa34d90a3191b64.png",
+  "https://media.rightmove.co.uk/property-photo/0f5458cfe/92549766/0f5458cfedff9b5f165e7066af9241c1.png",
+  "https://media.rightmove.co.uk/property-photo/b5ce23b49/92549766/b5ce23b498cb864a68dd6b5741a241cc.png",
+  "https://media.rightmove.co.uk/property-photo/995363f5b/92549766/995363f5b7c50097bf3f3581b03aa509.png",
+  "https://media.rightmove.co.uk/property-photo/1090f86be/92549766/1090f86be5b23cc6a5f425746ca7e7a9.png",
+  "https://media.rightmove.co.uk/property-photo/d035d583d/92549766/d035d583d3a90a8fce63a0f3585174e8.png",
+  "https://media.rightmove.co.uk/property-photo/5bedf1002/92549766/5bedf1002c532546b78393e7fe402cfd.png",
+  "https://media.rightmove.co.uk/property-photo/fdb7d72f8/92549766/fdb7d72f8418d60cabc7d3f56d0c3a7d.png",
+  "https://media.rightmove.co.uk/property-photo/fdd04b490/92549766/fdd04b4906e6ad7de23cd0d6d3184d20.png",
+  "https://media.rightmove.co.uk/property-photo/20405b98a/92549766/20405b98a01c96426d63e8bd8ef44a73.png",
+  "https://media.rightmove.co.uk/property-photo/738dd502b/92549766/738dd502bc21adf830e7c06dabba0d80.png",
+  "https://media.rightmove.co.uk/property-photo/7eaa53b44/92549766/7eaa53b44ad0d6d41caa5a4549b928a1.png",
+  "https://media.rightmove.co.uk/property-photo/098437766/92549766/0984377660321ca44904e214dea5b55b.png",
+  "https://media.rightmove.co.uk/property-photo/b12245909/92549766/b122459096c8d35778165e7c56146204.png",
+  "https://media.rightmove.co.uk/property-photo/83eac3408/92549766/83eac34087a25aced71ba87228e00efc.png",
+  "https://media.rightmove.co.uk/property-photo/f1d07c8bb/92549766/f1d07c8bba1d3509363098f80d61e06a.png",
+  "https://media.rightmove.co.uk/property-photo/2e3072c5f/92549766/2e3072c5f6b74c7dbb4689fa44555b70.png"
+ ],
+ "imageCount": 19,
+ "nearestStations": [
+  {
+   "name": "Manchester Victoria Station",
+   "miles": 0.26881060791715533,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Market Street Tram Stop",
+   "miles": 0.3551803274346302,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Mosley Street Tram Stop",
+   "miles": 0.4527921358379556,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Home Made, London",
+ "city": "Manchester",
+ "sourceOutcode": "M4",
+ "scrapedAt": "2026-08-30T10:17:34.535Z"
+}

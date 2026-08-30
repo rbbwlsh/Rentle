@@ -1,0 +1,74 @@
+{
+ "id": "92496222",
+ "displayAddress": "Crusader House, Bristol, BS1",
+ "outcode": "BS1",
+ "incode": "1EL",
+ "latitude": 51.454374,
+ "longitude": -2.595636,
+ "priceAmount": 1500,
+ "priceLabel": "£1,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92496222",
+ "area": "Crusader House, Bristol",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 1730,
+  "minimumTermMonths": null,
+  "councilTaxBand": "TBC"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "CJ Hole are pleased to offer this City Centre apartment to the rental market, electricity included. Crusader House is a converted block of apartments on St Stephens Street in central Bristol. \n\nSt Stephen Street is a short road linking the newly redesigned city centre with the popular runs of restaurant, cafes and bars on Corn Street.\nThe central location of the block allows residents a fantastic choice of shops and venues nearby to socialise by day and in the evening. \n\nFor commuters, the area is also perfectly placed with many areas of employment within walking distance. For those requiring access out of the city, Bristol Temple Meads and Bristol Bus Station are just a short walk away.\n\nOffered on an unfurnished basis.\n\n\rEPC – D\nCouncil Tax – B\nBroadband ( Source OfCom ) – Standard, Superfast, Ultrafast\nMobile – ( Source Ofcom ) – Likely",
+ "keyFeatures": [
+  "Two Bedrooms",
+  "Unfurnished",
+  "White Goods",
+  "Electricity Included in the Rent"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/b419b05d4/92496222/b419b05d45ed0eace07a1329bf60abcc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e4c0f5b46/92496222/e4c0f5b46d897986ee2c25f7e154a945.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a2818a908/92496222/a2818a9082d4eb3e46660980abd4ef16.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9d8ade0f9/92496222/9d8ade0f9afd15197d969629085b704c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/96ed20e6a/92496222/96ed20e6a8b60f8e61575d6fcc7d6a47.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0812fa68b/92496222/0812fa68bce66fa43e0a433a47972ec4.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 0.7145746951124946,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.9678316595737054,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.9759564474414381,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "CJ Hole, Southville",
+ "city": "Bristol",
+ "sourceOutcode": "BS1",
+ "scrapedAt": "2026-08-30T10:21:59.489Z"
+}

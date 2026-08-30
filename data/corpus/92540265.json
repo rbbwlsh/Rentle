@@ -1,0 +1,85 @@
+{
+ "id": "92540265",
+ "displayAddress": "Flat 18 , Daisy Bank Road, Manchester, Greater Manchester, M14",
+ "outcode": "M14",
+ "incode": "5QL",
+ "latitude": 53.458345,
+ "longitude": -2.212974,
+ "priceAmount": 1386,
+ "priceLabel": "£1,386 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92540265",
+ "area": "Manchester, Greater Manchester",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 800,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "£160 x 2, per week rent. Available 1st Sept 2026\n\nLANDLORD OF THE YEAR 2022! Nominated 2026.\nWe are proud to have won the Manchester Student Homes Landlord of the Year award for 2022!\n\nSTUNNING, 1 BEDROOM GROUND FLOOR APARTMENT!\nBright and spacious fully furnished 1-bedroom apartment. Convenient location with excellent transportation links to City Centre. Just a short walk from Oxford Road! Gas supply included with the rent.\nHALF RENT JULY if away for summer.\n\n  THE PROPERTY:\n*\tA beautiful Grade II listed building with lots of history and character!\n*\tBright and spacious 2 bedrooms (no lounge)\n*\tFully furnished double bedrooms with desk, drawers, and wardrobe.\n*\tBathroom with bath and shower.\n*\tStunning, modern, fully fitted kitchen with dishwasher and washer-dryer.\n*\tAccess to the beautiful Summerville gardens with picnic benches and a patio area.\n*\tOff-street secure gated parking!\n*\tOn-site team including maintenance, window washer, gardener, and cleaners for communal areas.\n*\tGreat security with CCTV and lockable entrance gates.\n\n  THE LOCATION:\n*\tExcellent transportation links and regular bus routes to City Centre.\n*\tJust a short walk to Oxford Road and the hospitals.\n*\tClose to local amenities such as Tesco Express.\n\n  VIEW NOW! Call our office or send an email to book a viewing today!\nRef: 65DBRF18",
+ "keyFeatures": [
+  "LANDLORD OF THE YEAR 2022! Nominated 2026!",
+  "Half Rent for July if You're Away",
+  "Rent Includes Gas &amp; Supply",
+  "Spacious Fully Furnished 1 Bedroom Apartment ",
+  "Access to Beautiful Garden",
+  "On-Site Maintenance Team",
+  "Off-Street Secure Gated Parking",
+  "Close to Oxford Road",
+  "Close to Local Amenities Such as Tesco Express",
+  "Excellent Transportation Links"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/7c0b7fa8a/92540265/7c0b7fa8a99c498ab98dad2ea399e686.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d7af69c35/92540265/d7af69c3550e681993e8b6622dc60c0b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/710b3c698/92540265/710b3c698c1f3537fe634876144d587b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/57970f0de/92540265/57970f0dee38e31c0daf6e33281e40f8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8aeb1b79a/92540265/8aeb1b79a48385cabcb664e26f87fd47.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dd80a5391/92540265/dd80a53919fa250f035a67d3ed250157.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4415b64dd/92540265/4415b64dd4f252c2aee545f116f3e582.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cc67e3f96/92540265/cc67e3f96604831e3bbaec2b5766fac1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2710cb0d2/92540265/2710cb0d2232f2ed83ab7732df3403f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cdf7dd36a/92540265/cdf7dd36a43e356a7f9c6e89daaa2080.jpeg",
+  "https://media.rightmove.co.uk/property-photo/98d5f7962/92540265/98d5f796210bfa022378770fe8ba86ae.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Ardwick Station",
+   "miles": 0.8802155152389348,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Ashburys Station",
+   "miles": 1.1851357978383221,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Levenshulme Station",
+   "miles": 1.2734010491939936,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Crossway Estates, Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M14",
+ "scrapedAt": "2026-08-30T10:17:52.813Z"
+}

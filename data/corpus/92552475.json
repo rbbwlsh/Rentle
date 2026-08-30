@@ -1,0 +1,74 @@
+{
+ "id": "92552475",
+ "displayAddress": "Northern Angel, Dyche Street, Manchester, M4",
+ "outcode": "M4",
+ "incode": "4BU",
+ "latitude": 53.487598,
+ "longitude": -2.2349,
+ "priceAmount": 1200,
+ "priceLabel": "£1,200 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92552475",
+ "area": "Northern Angel, Manchester",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "29/09/2026",
+  "deposit": 1385,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Martin & Co are pleased to offer to let this superb two bedroom property at Northern Angel in Manchester's bohemian Northern Quarter and just 5 minutes walk from the very heart of the city.\n\nIncluding two equal sized double bedrooms with one featuring an en suite shower room, a spacious living area complete with open plan kitchen and a private balcony, plus a second master bathroom.\n\nBook your viewing of this superb property today, please call our office on  .",
+ "keyFeatures": [
+  "TWO DOUBLE BEDROOMS",
+  "TWO BATHROOMS",
+  "NORTHERN QUARTER LOCATION",
+  "PRIVATE BALCONY"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/77af32043/92552475/77af32043e92760dba56158593f947dc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/40e7c6eae/92552475/40e7c6eaed72801dd6d477279861a1fe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/016f41756/92552475/016f41756212b7ee09d664501d3c1901.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b254685c3/92552475/b254685c3faa7ce9dd4aa2f936dd368c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bc6e70caf/92552475/bc6e70caf8ae73a9ce501bb9f57475a8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ad9cbdfbc/92552475/ad9cbdfbcd645349eae05c134ecca317.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Manchester Victoria Station",
+   "miles": 0.3132966573965818,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Market Street Tram Stop",
+   "miles": 0.4330709211038051,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Piccadilly Gardens Tram Stop",
+   "miles": 0.5292937772470296,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Martin & Co, Manchester Central",
+ "city": "Manchester",
+ "sourceOutcode": "M4",
+ "scrapedAt": "2026-08-30T10:17:28.554Z"
+}

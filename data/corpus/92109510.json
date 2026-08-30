@@ -1,0 +1,73 @@
+{
+ "id": "92109510",
+ "displayAddress": "Flat B, Wightman Road, Hornsey, Haringey, London",
+ "outcode": "N8",
+ "incode": "0LT",
+ "latitude": 51.588342,
+ "longitude": -0.109215,
+ "priceAmount": 1600,
+ "priceLabel": "£1,600 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92109510",
+ "area": "Haringey, London",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Ask agent",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Situated on Wightman Road minutes walk of Turnpike Lane station and Large shopping centre, Also Hornsey Station......Top Floor Flat, 1 Large Double Bedroom, Large Reception Room, Fitted Kitchen with washing machine, Bathroom/wc, Gas CH, Wood Floors CMP 001344 PRS 003543",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/bc425e1a7/92109510/bc425e1a7aea2646b7918119f078952a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0e47d625d/92109510/0e47d625df79800a9b51f2a8fd4133e2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/951b85294/92109510/951b852942eab1b44c2160fc96423e0f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/075db5447/92109510/075db54474062a4f2f8d0c912c54c070.jpeg",
+  "https://media.rightmove.co.uk/property-photo/06eda26e7/92109510/06eda26e7e01ddc8c4fefef077c2d4b3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e847c5454/92109510/e847c5454eaf3963c9d4cdd6bad45ad7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b9d1f1bfd/92109510/b9d1f1bfdd4479a6caa56114984560c5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0c834dd95/92109510/0c834dd958f8957294e65000a460f839.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1f0a365d6/92109510/1f0a365d64b07f8f58dfd6a6d5bb3cfa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/72afdc141/92109510/72afdc141234b5829e78753cc6dc4ef1.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Hornsey Station",
+   "miles": 0.17505470038787843,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Turnpike Lane Station",
+   "miles": 0.31262971755169633,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Wood Green Station",
+   "miles": 0.6150279578153376,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "Berns & Co, West Hampstead",
+ "city": "London",
+ "sourceOutcode": "N8",
+ "scrapedAt": "2026-08-30T10:13:56.743Z"
+}

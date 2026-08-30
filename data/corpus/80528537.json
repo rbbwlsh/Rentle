@@ -1,0 +1,86 @@
+{
+ "id": "80528537",
+ "displayAddress": "Thornes House, London, SW11",
+ "outcode": "SW11",
+ "incode": "7AG",
+ "latitude": 51.48097,
+ "longitude": -0.13257,
+ "priceAmount": 4247,
+ "priceLabel": "£4,247 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/80528537",
+ "area": "Thornes House, London",
+ "bedrooms": 2,
+ "bathrooms": null,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Ask agent",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "*NO AGENCY FEES* An impressive interior designed 886 Sq Ft two-bedroom, two-bathroom apartment located in Thornes House forming part of The Residence Collection in Nine Elms on London's iconic South Bank.\r\n\r\nThis luxury apartment is situated on the 5th floor of this prestigious building which features a 24-hour manned concierge along with a dedicated building manager, lift service, gym, media room, board room and secure underground parking.\r\n\r\nThe apartment comprises a spacious reception room complete with Samsung Smart TV's with Bose sound bars incorporating a built in Amazon Alexa to control the apartments lighting, TV and heating systems along with a private winter garden creating a further living area. The reception room is open plan with a fully fitted kitchen featuring integrated AEG appliances with floor to ceiling windows providing far reaching views across London. The apartment offers two double-bedrooms, two-bathrooms, one of which is an en-suite bathroom from the master bedroom as well as a private balcony accessed via the reception area and one of the bedrooms. The apartment also benefits from ample storage space. \r\n\r\nThornes House is ideally positioned between two new Northern Line underground stations (set to open in 2020), adding to the extensive transport links including tree lined footpaths, dedicated cycle lanes, Clipper river service, local buses and the Pimlico bridge providing direct access into the neighbouring Royal Boroughs of Kensington and Chelsea.",
+ "keyFeatures": [
+  "A selection 2 bedroom Luxury apartments",
+  "Secured building ",
+  "Lift access to all floors ",
+  "A1 location",
+  "24-Hour Concierge Service | On-Site Building Manager | CCTV",
+  "Short or long let",
+  "Minimum stay of 6 months ",
+  "On-site Gym | Cinema Media Room | Board Room",
+  "Underground Secure Parking | Bike Storage"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/79ad8f0ee/80528537/79ad8f0ee0469b78d5e6b1971d6baa15.jpeg",
+  "https://media.rightmove.co.uk/property-photo/094ae60d9/80528537/094ae60d9b9b66708a7a76a045c71020.jpg",
+  "https://media.rightmove.co.uk/property-photo/13d63ef17/80528537/13d63ef17a00e04aeeec39011166ee1a.jpg",
+  "https://media.rightmove.co.uk/property-photo/2d6d54baf/80528537/2d6d54baf8300cf355e92e31fa5b9685.jpg",
+  "https://media.rightmove.co.uk/property-photo/d1b115659/80528537/d1b11565942ac8518628e4deeda024ca.jpg",
+  "https://media.rightmove.co.uk/property-photo/6ee10db62/80528537/6ee10db627edcc679650acd385280232.jpg",
+  "https://media.rightmove.co.uk/property-photo/55a9612dc/80528537/55a9612dccb07d9f0b81ba90f852d0fe.jpg",
+  "https://media.rightmove.co.uk/property-photo/4e6e2c06e/80528537/4e6e2c06e4321c3fbbab56140339e397.jpg",
+  "https://media.rightmove.co.uk/property-photo/27323f277/80528537/27323f2776131ac29de9f80bad94ba75.jpg",
+  "https://media.rightmove.co.uk/property-photo/a699c1498/80528537/a699c149894d714f3811b30c14eaf84b.jpg",
+  "https://media.rightmove.co.uk/property-photo/628f6cd92/80528537/628f6cd92c89f041d4226de3451080b5.jpg",
+  "https://media.rightmove.co.uk/property-photo/188338f77/80528537/188338f775a4f5e49590fe68e41373f0.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Nine Elms Station",
+   "miles": 0.19173143759081498,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Battersea Power Underground Station",
+   "miles": 0.4202565171635032,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Vauxhall Station",
+   "miles": 0.5162971246324749,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "Pure Realty, London",
+ "city": "London",
+ "sourceOutcode": "SW11",
+ "scrapedAt": "2026-08-30T10:15:33.933Z"
+}

@@ -1,0 +1,75 @@
+{
+ "id": "92552640",
+ "displayAddress": "Great Junction St, Edinburgh, EH6",
+ "outcode": "EH6",
+ "incode": "5JB",
+ "latitude": 55.972607,
+ "longitude": -3.17548,
+ "priceAmount": 1300,
+ "priceLabel": "£1,300 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92552640",
+ "area": "Edinburgh",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "04/09/2026",
+  "deposit": 1300,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Property Reference: 3021352.\n\nSuitable for working professionals or small family.\n\nThis is a spacious two bedroom first floor flat with a separate living room, kitchen and a bathroom.  It has been well maintained and is offered unfurnished.  There is gas central heating throughout the flat. \n\nThe property is located within easy reach of city centre either by bus or tram. It is served locally by shops, bars, restaurants and cafes.\n\nOcean Terminal shopping centre and a local Tesco Express for any shopping requirements are also just a short journey away and there are excellent bus and tram links around the city from nearby Leith Walk which is just minutes away.\n\nSummary \n- Rent Amount: £1,300 per month \n- Deposit: £1,300\n- 2 Bedrooms\n- Living Room\n- Kitchen\n- Bathroom\n- Property comes unfurnished\n- Available to move in from 4th September 2026\n- Maximum number of tenants is 2\n- No Smokers\n- Bills not included\n- EPC Rating D\n- On street / Permit parking\n\nSummary & Exclusions:\n- Rent Amount: £1,300.00 per month (£300.00 per week)\n- Deposit / Bond: £1,300.00\n- 2 Bedrooms\n- 1 Bathrooms\n- Property comes unfurnished\n- Available to move in from 04 September 2026\n- Maximum number of tenants is 2\n- No Students\n- No Smokers\n- Bills not included\n- No Parking Available\n- No Garden Access\n- EPC Rating: D\n\n  If calling, please quote reference: 3021352  \n\nFees:\nYou will not be charged any admin fees.\n\n ** Contact today to book a viewing and have the landlord show you round! ** \nRequest Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.\nOpenRent is on the Scottish Letting Agent Register, registration number LARN1809026\nThe landlord is on the Scottish Landlord Register, registration number 981278/230/15011",
+ "keyFeatures": [
+  "No Agent Fees",
+  "Property Reference Number: 3021352"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/745d5e115/92552640/745d5e11597650d81d3ec185a591b7c6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c9a881455/92552640/c9a8814551fef9ec9aa8fc7b70e9d5b9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/54399d935/92552640/54399d9354eb7e0d6c88219da44c60f6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/552207b74/92552640/552207b7423e180fba4c8b826e9aaee7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/798bf3ff6/92552640/798bf3ff6fd815bab41594764ded8ac6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8945400d8/92552640/8945400d8a0f5a0ab92cbc3555fe0722.jpeg",
+  "https://media.rightmove.co.uk/property-photo/388f8dfb2/92552640/388f8dfb2495604c77fb2b99e604497d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3598efb02/92552640/3598efb02e86396acdd023b6aaf5a0e8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5bad2635f/92552640/5bad2635f4b188e75c787e080bf098f3.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 1.5294756264480724,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 2.5089272507919445,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Brunstane Station",
+   "miles": 3.567586012247201,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "OpenRent, London",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH6",
+ "scrapedAt": "2026-08-30T10:26:31.822Z"
+}

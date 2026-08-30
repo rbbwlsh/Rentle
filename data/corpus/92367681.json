@@ -1,0 +1,90 @@
+{
+ "id": "92367681",
+ "displayAddress": "Marsden Road, East Dulwich, London, SE22",
+ "outcode": "SE15",
+ "incode": "4EE",
+ "latitude": 51.46379,
+ "longitude": -0.074619,
+ "priceAmount": 4500,
+ "priceLabel": "£4,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92367681",
+ "area": "East Dulwich, London",
+ "bedrooms": 4,
+ "bathrooms": 2,
+ "propertySubType": "House",
+ "details": {
+  "propertyType": "House",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "sizeSqFt": 1537,
+  "sizeSqM": 143,
+  "letType": "Long term",
+  "furnishType": "Part furnished",
+  "letAvailableDate": "18/10/2026",
+  "deposit": 6230,
+  "minimumTermMonths": null,
+  "councilTaxBand": "E"
+ },
+ "sizeSqFt": 1537,
+ "sizeSqM": 143,
+ "description": "Charming, characterful and spacious four double bedroom Victorian house on this desirable residential road ideally located between Peckham Rye and East Dulwich. Available mid-October.\n\nMarsden Road is enviably-located for the beautiful parks and green spaces nearby and a choice of excellent primary and secondary school options. There are a host of independent shops, bars, restaurants and coffee shops of Bellenden Road, Lordship Lane and North Cross Road. There are strong transport links into The City and West End from Peckham Rye station (0.6 miles) and East Dulwich station (0.4 miles) as well as bus/cycle routes through the neighbouring Dulwich Village, Herne Hill and Camberwell.\n\nBoasting over 1,530 Sq Ft of internal space; the mid-terrace house is in good condition throughout. There is a 24-ft bay-fronted double reception, a 22-ft kitchen-diner that leads out onto the 31-ft private garden. Upstairs are four comfortable double bedrooms - including the 16x13 ft principal room - and two bathrooms. \n\nSuitable for up to FOUR sharers.\n\nEPC: E | Council tax band: E | Available: mid-October | Part-furnished | HD: £1,038.46 | SD: £6,230.77",
+ "keyFeatures": [
+  "Four double bedrooms",
+  "Two bathrooms",
+  "Over 1,530 Sq Ft of internal space",
+  "31-ft private garden",
+  "Good condition throughout",
+  "Desirable, residential road",
+  "Available part-furnished",
+  "HMO for upto FOUR sharers"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/b9fc0b9f9/92367681/b9fc0b9f90979400628f4add197e6720.jpeg",
+  "https://media.rightmove.co.uk/property-photo/de86a8b59/92367681/de86a8b5962bbef3d540fd0b43fbbc62.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e41024614/92367681/e410246144fb8073c5edd10d04fcfad9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/add9fdcb0/92367681/add9fdcb0f99e6a28da9168b3b4001b2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/568df2ed7/92367681/568df2ed73dc76a76e07fd6d062e095f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bde61726f/92367681/bde61726f44a3f70d5529383870b7999.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fdb043934/92367681/fdb043934efd8053b4636f77e1dbecd2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b0e84d373/92367681/b0e84d3731fb5915366a3b55ac044406.jpeg",
+  "https://media.rightmove.co.uk/property-photo/94d5634b8/92367681/94d5634b8e98b98e3251168d6b785453.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7de9ffdd7/92367681/7de9ffdd74ef3bedf9effb8ec8f38bc8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f76e602e1/92367681/f76e602e1d17e1886454e122281b9239.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b3a6716f1/92367681/b3a6716f16666797f6a12a2817f463e0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/50202eacd/92367681/50202eacd58767e6cf14792f81b12053.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2c61c35f5/92367681/2c61c35f58a6618da33b928a72bf14ca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/17b19a2fd/92367681/17b19a2fdb353d62e66f1e37a354523d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/32fc0d75c/92367681/32fc0d75cde7943e7cd185f29bbce6eb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e55f4ed51/92367681/e55f4ed51f1fb6d318cd0949b25dbca5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cf788d8ca/92367681/cf788d8cabe625041ef1e66622c3fc5a.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "East Dulwich Station",
+   "miles": 0.29348464306517663,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Peckham Rye Station",
+   "miles": 0.4844465048451649,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Denmark Hill Station",
+   "miles": 0.7140661269189161,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Pedder, East Dulwich",
+ "city": "London",
+ "sourceOutcode": "SE15",
+ "scrapedAt": "2026-08-30T10:14:57.550Z"
+}

@@ -1,0 +1,93 @@
+{
+ "id": "92168673",
+ "displayAddress": "Carmen Beckford Street, Bristol, Somerset, BS1",
+ "outcode": "BS1",
+ "incode": "3FD",
+ "latitude": 51.464195,
+ "longitude": -2.589202,
+ "priceAmount": 2100,
+ "priceLabel": "£2,100 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92168673",
+ "area": "Bristol, Somerset",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/10/2026",
+  "deposit": 2423,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "*** HUGE BALCONY *** TWO JULIETTE BALCONIES *** ECO ROOF *** Light and spacious two double bedroom, two-bathroom penthouse in Stokes Croft, offered fully furnished and available from the 1st of October 2026.\n\n\rThe apartment is in a fantastic location in the heart of Stokes Croft and offers great access to both central Bristol and Gloucester Road. It’s surrounded by amenities as well as being a short walk from Montpelier Park.\n\nKEY FEATURES:\n- Large Balcony\n- Eco roof \n- Modern finish \n- Two double bedrooms\n- Two bathrooms including one ensuite\n- Juliette balcony in the living space and bedroom\n- White goods included\n- Storage space\n- Sought after central location\n- Short walk to the city centre \n- Surrounded by amenities\n- Five minutes walk from Gloucester Road\n- Great public transport links\n\nThe accommodation comprises: an open plan kitchen/living/dining room on the corner of the building, a master bedroom with an ensuite shower room, a second double bedroom with a Juliette balcony, a master bathroom with a bath over the shower. And a huge balcony giving you 180 degrees views of the city.\n\nThe property also benefits from: a fridge/freezer, a washing machine, gas central heating and double glazing.\n\nTHINGS TO NOTE:\n- Applicants must earn at least two and a half times the rent in order to qualify to let this property\n- Smoking is not permitted in this property",
+ "keyFeatures": [
+  "Large Balcony",
+  "Eco roof",
+  "Modern finish",
+  "Two double bedrooms",
+  "Two bathrooms including one ensuite",
+  "Juliette balcony in the living space and bedroom",
+  "White goods included",
+  "Storage space",
+  "Sought after central location",
+  "Short walk to the city centre"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/55364dfeb/92168673/55364dfeb1bf615704b771791d2fbf59.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a3e466947/92168673/a3e4669475c0fda4b52598a25c7db6cb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/74bc3d0f2/92168673/74bc3d0f2fa804775420564765a62588.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ea89167dc/92168673/ea89167dcf075e24ccc63c2373a75268.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4a1cb9d43/92168673/4a1cb9d43ad94773874da821f0f55030.jpeg",
+  "https://media.rightmove.co.uk/property-photo/54e2260f2/92168673/54e2260f2c664f4c61642864ecae4c04.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3e6650a9a/92168673/3e6650a9a629ab09d250da98b1ea6fb4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/16bd0fcbb/92168673/16bd0fcbb2c431e2c757b749e3867d54.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3cf52b927/92168673/3cf52b9276255ef21b9713aa9b73c5bf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/12d52a50f/92168673/12d52a50fd2e05d5a59aa4dd8f8f7042.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6f52e92c2/92168673/6f52e92c20da7a94d3cfbde7953af9d6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/59b7948b6/92168673/59b7948b6a6755a751c1a950d80ed70b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1bb76e064/92168673/1bb76e064e36ad2dbeabcf09455904d9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0c5fa8649/92168673/0c5fa864947ad7f4c929f0f4f662519c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/83f9ec9e5/92168673/83f9ec9e5bd43b124bb0bb221ca4a0c3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a0f8dcebb/92168673/a0f8dcebb5dd53f32212a325e8143793.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8b8c363eb/92168673/8b8c363eb7b843ccc9f9f8b16e80ed21.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0e16107b1/92168673/0e16107b1c2583afac87e2c1dfb57623.jpeg",
+  "https://media.rightmove.co.uk/property-photo/85981bd6b/92168673/85981bd6b1dfbbf0eb9c1ef68301b3a9.jpeg"
+ ],
+ "imageCount": 19,
+ "nearestStations": [
+  {
+   "name": "Montpelier Station",
+   "miles": 0.2879384266347799,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.5239757641522048,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.9426653206620621,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Balloon Letting Company, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS1",
+ "scrapedAt": "2026-08-30T10:21:50.400Z"
+}

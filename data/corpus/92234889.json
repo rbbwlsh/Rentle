@@ -1,0 +1,86 @@
+{
+ "id": "92234889",
+ "displayAddress": "Brighton Street, Edinburgh, EH1",
+ "outcode": "EH1",
+ "incode": "1HD",
+ "latitude": 55.94638,
+ "longitude": -3.189295,
+ "priceAmount": 2175,
+ "priceLabel": "£2,175 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92234889",
+ "area": "Edinburgh",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 9999,
+  "sizeSqM": 929,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "16/09/2026",
+  "deposit": 3263,
+  "minimumTermMonths": null,
+  "councilTaxBand": "D"
+ },
+ "sizeSqFt": 9999,
+ "sizeSqM": 929,
+ "description": "DEPSOIT £3263 - Two bedroom fully furished flat near Bristo Square, Edinbugh. TO BOOK A VIEWING, PLEASE FILL OUT THE CONTACT AGENT FORM.\n\n\rThis stunning property is offered fully furnished and comprises a bright lounge/dining area, fully fitted modern kitchen, 2 double bedrooms and family bathroom. The property also benefits from gas central heating.\n\nSituated to the south of the city centre, Newington is a prime area for many types of residents. With the University of Edinburgh within close proximity, the area is ideal for students. The area plays host to a number of local amenities as well as the City Centre and Old Town being within walking distance.\n\nDeposit : £3263\nEPC Rating: C\nCouncil Tax Band: D\nLandlord Registration: XXXXXXXX \nAdditional costs: council tax and water charge / utilities / broadband (if applicable) / Garden Waste Bin from local authority at additional cost (if applicable)  \nHeating Type: Gas Central Heating\nProperty Floor: Upper\nUtilities: Credit Meter. \nElectricity / Gas Supplier: TBC\nBroadband Type: Full Fibre Available *as obtained from    Further information regarding broadband and phone signal can be obtained from the Ofcom broadband and mobile coverage checker - Broadband and mobile coverage checker - Ofcom  \nParking Type: Council permit parking (at additional cost from local council)  \nPlanning permission: Please check this properties local authority planning website for any planning which may impact the property or local area in future.\nAll statements contained herein are believed to be correct but are not guaranteed and interested parties must satisfy themselves as to their accuracy. \nLetting Agent Registration Number: LARN1812026",
+ "keyFeatures": [
+  "2 total bedrooms",
+  "2 double bedrooms",
+  "1 reception room",
+  "1 bathroom",
+  "0 to 9999 square feet",
+  "apartment/flat",
+  "garden",
+  "town/city",
+  "furnished",
+  "long let"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1e732253f/92234889/1e732253f893ac97593ec0440e8bf426.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3936c5d4c/92234889/3936c5d4c84efb82bbe7161315029ee4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6dda98b47/92234889/6dda98b479bc46f29cc54ccffb242f10.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9024a6254/92234889/9024a6254fce91c737ad5bc38f63fac8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d9f782b9f/92234889/d9f782b9f0ab6ff008d54faec4598714.jpeg",
+  "https://media.rightmove.co.uk/property-photo/628ce2e51/92234889/628ce2e51fbe3482fbc425bde17f05b8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fb0ec4016/92234889/fb0ec401656ca4a84cb81dca63ad6516.jpeg",
+  "https://media.rightmove.co.uk/property-photo/24b409240/92234889/24b40924025a27491a018147b76c23b2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/65177bf68/92234889/65177bf6823abb6e67a56afa6d888114.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e344a4b2b/92234889/e344a4b2b234b8227cc63a703fbf2b27.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4755ef9c2/92234889/4755ef9c2c7f2ea31396626fe6bf0aab.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b4e7727ea/92234889/b4e7727ea6a59657c9f24d4dbc60f1e6.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.39081335425241226,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.121542382998786,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 2.5095607089897416,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "DJ Alexander, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH1",
+ "scrapedAt": "2026-08-30T11:03:46.824Z"
+}

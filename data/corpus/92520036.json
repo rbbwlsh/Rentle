@@ -1,0 +1,99 @@
+{
+ "id": "92520036",
+ "displayAddress": "The Meander, Fyfe Lane, Bonnington, Edinburgh, City Of Edinburgh",
+ "outcode": "EH6",
+ "incode": "5GF",
+ "latitude": 55.971232,
+ "longitude": -3.182237,
+ "priceAmount": 1510,
+ "priceLabel": "£1,510 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92520036",
+ "area": "Edinburgh, City Of Edinburgh",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 515,
+  "sizeSqM": 48,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 0,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": 515,
+ "sizeSqM": 48,
+ "description": "AWARD WINNING homes in Leith, come discover why we were recently named BEST IN SCOTLAND.\n\nOur 1-bedroom apartments feature an open-plan layout that seamlessly integrates the kitchen, living, and dining areas. The fully integrated kitchen includes a hob, oven, dishwasher, and fridge freezer. Bedrooms are equipped with storage space and a modern bathroom with a shower over the bath and mirrored storage cabinets. Additionally, the main bedrooms benefit from a ensuite with overhead shower and each apartment offers convenient storage space with an installed washer-dryer machine. \n\nWhen you rent a PLATFORM_ home, you'll enjoy for free: \n- Yoga, and spin studio\n- A screening room\n- Two co-working spaces\n- A private dining area ideal for socialising with friends\n- On-site guest rooms for extended stays\n- Easy access to the roof terraces through the Sun Lounge \n \nAll of our homes are fitted with: \n- Expertly designed, integrated kitchens \n- Broadband included in your rent\n \nPLATFORM_ is located in the heart of Leith with transport links nearby via tram and train across the City. Plus, being part of this thriving community you are only a short distance from everything you need, including: \n\n- 10-minutes to the City Centre\n- 5-minutes to Leith Shore\n- Water of Leith Walkway in 2 mins \n- Convenience store and coffee shop coming soon on-site \n\nEPC Rating: B-C \n\nLandlord Reg:  522507/230/26042 \n\nTenancy: Private Residential Tenancy \n\nwhat3words: ///skinny.pram.purely\n\nPLATFORM_ Edinburgh is developed by Heimstaden & PLATFORM_, with Heimstaden serving as the letting and managing agent. All enquiries will be managed collaboratively by members of the Heimstaden and PLATFORM_ teams. For more information on the privacy policies of PLATFORM_ and Heimstaden, please visit the PLATFORM_ website.\n\nLetting Agent Reg N. 26/06/036",
+ "keyFeatures": [
+  "Exclusive access to a residents-only gym, yoga, and spin studio.",
+  "A private dining area ideal for socialising with friends.",
+  "Proximity to the tram network (15 minutes to the city centre).",
+  "24/7 site team presence for your convenience. ",
+  "Amenities for the whole family, including a kids' playroom and co-working areas.",
+  "On-site maintenance and security.",
+  "Bike storage.",
+  "Pet-friendly policies.",
+  "Upcoming retail units.",
+  "Year-round resident social events."
+ ],
+ "tags": [
+  "BUILT_FOR_RENTERS",
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/0070f1661/92520036/0070f16610f2a72543c2fb4d15940e25.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7660d6bf3/92520036/7660d6bf39e3253a9595474bbe361146.png",
+  "https://media.rightmove.co.uk/property-photo/9766cf4be/92520036/9766cf4be9a9a1a1d70bddb4a61467fc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/da66bf7ab/92520036/da66bf7abf2deb760e116aab35995ed9.png",
+  "https://media.rightmove.co.uk/property-photo/0639c0f7a/92520036/0639c0f7a060f75a7409bf635a425a7e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/78a13c09c/92520036/78a13c09ceb3252447d621af5e72cd88.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3654e970f/92520036/3654e970f15c7ad9d188a473615d99ec.png",
+  "https://media.rightmove.co.uk/property-photo/011aa0146/92520036/011aa0146e2c4afd403f5c01619c1958.png",
+  "https://media.rightmove.co.uk/property-photo/60bee93a3/92520036/60bee93a3261515b440d5b363529ff73.png",
+  "https://media.rightmove.co.uk/property-photo/336788540/92520036/336788540c8df423e81dabdc7c55df7f.png",
+  "https://media.rightmove.co.uk/property-photo/73c6b74c1/92520036/73c6b74c1753d066a27d6704652fe6ec.png",
+  "https://media.rightmove.co.uk/property-photo/f72234234/92520036/f722342341bacbe24b9409197bf9514e.png",
+  "https://media.rightmove.co.uk/property-photo/e563aa063/92520036/e563aa063eae2e18d0d31982c2279cbf.png",
+  "https://media.rightmove.co.uk/property-photo/7bc64466d/92520036/7bc64466d99c2641e50131523af7c64b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/27ed1b0e3/92520036/27ed1b0e398bfb2c4bb40722dc86b436.png",
+  "https://media.rightmove.co.uk/property-photo/be694a7dd/92520036/be694a7dd6982855cd58535451c1a024.png",
+  "https://media.rightmove.co.uk/property-photo/778ec5cec/92520036/778ec5cecf5e3f8483b1059474206577.png",
+  "https://media.rightmove.co.uk/property-photo/3e085abc3/92520036/3e085abc3628a2534e534a975ddbb788.png",
+  "https://media.rightmove.co.uk/property-photo/23d64e694/92520036/23d64e69448cad627d66b26fd21c83c6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/74bc38950/92520036/74bc389503c38859c784c3de3595d720.png",
+  "https://media.rightmove.co.uk/property-photo/d780da33e/92520036/d780da33e7186619535eb5e9d25f11ce.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9535cefd3/92520036/9535cefd3e8a1ef5835adca093f3fadf.jpeg"
+ ],
+ "imageCount": 22,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 1.3616440744968636,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 2.268374872747568,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Brunstane Station",
+   "miles": 3.7317002609407277,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "PLATFORM, PLATFORM_ in Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH6",
+ "scrapedAt": "2026-08-30T10:26:41.827Z"
+}

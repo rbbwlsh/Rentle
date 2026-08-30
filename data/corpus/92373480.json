@@ -1,0 +1,74 @@
+{
+ "id": "92373480",
+ "displayAddress": "Hampton Park, Redland, BS6",
+ "outcode": "BS6",
+ "incode": "6LH",
+ "latitude": 51.46493,
+ "longitude": -2.60757,
+ "priceAmount": 1495,
+ "priceLabel": "£1,495 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92373480",
+ "area": "Hampton Park, Redland",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 570,
+  "sizeSqM": 53,
+  "letType": "Long term",
+  "furnishType": "Part furnished",
+  "letAvailableDate": "07/10/2026",
+  "deposit": 1725,
+  "minimumTermMonths": 0,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": 570,
+ "sizeSqM": 53,
+ "description": "**VIDEO TOUR AVAILABLE** \nEXCELLENT LOCATION \nTwo double bedroom part furnished flat close to Whiteladies Road.  \nKitchen with oven/hob, fridge and plumbing for a washing machine.  \nLiving room with feature fireplace.  \nTwo double bedrooms.  \nShower room.  \nGCH.  \nWooden flooring throughout.  \nHolding deposit GBP345.00 \nFive week security deposit GBP1725.00",
+ "keyFeatures": [
+  "Two double bedroom apartment.",
+  "Close to Whiteladies Road.",
+  "Holding deposit GBP345.00"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/97923174d/92373480/97923174d567ebbc38adc962c65125de.jpeg",
+  "https://media.rightmove.co.uk/property-photo/61c9f1ffa/92373480/61c9f1ffa417ab927e2825b9a00861ca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/68d37ea3e/92373480/68d37ea3ebc4990bc2bc27ea5079ac77.jpeg",
+  "https://media.rightmove.co.uk/property-photo/60f0590b4/92373480/60f0590b4cd1758988fe95c6ebc2efaf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a9df43d6e/92373480/a9df43d6e71326be42ed3da3aa2f8717.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e6f75ab53/92373480/e6f75ab534655ba05b3a96a795bd17b6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8fab21f0f/92373480/8fab21f0f87494a181e1265b62e87abe.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.1513074203141182,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.42211454602742937,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Montpelier Station",
+   "miles": 0.8461058997260474,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Sarah Kenny Residential Lettings, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS6",
+ "scrapedAt": "2026-08-30T10:23:18.114Z"
+}

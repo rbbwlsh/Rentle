@@ -1,0 +1,77 @@
+{
+ "id": "92545938",
+ "displayAddress": "West Timber Yard, Birmingham, B5",
+ "outcode": "B5",
+ "incode": "6AT",
+ "latitude": 52.473145,
+ "longitude": -1.895088,
+ "priceAmount": 1250,
+ "priceLabel": "£1,250 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92545938",
+ "area": "West Timber Yard, Birmingham",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "07/09/2026",
+  "deposit": 1442,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Property Reference: 3021368.\n\nThis located in the heart of Birmingham at B5 . This stylish one-bedroom, one-bathroom flat offers modern living with an open-plan layout, a fully equipped kitchen, and a spacious living area. The bedroom is cozy with ample storage space, and the bathroom features contemporary fixtures. Enjoy the vibrant city life with convenient access to local amenities, shopping, and dining options. Perfect for professionals or couples seeking comfort and convenience in a prime location.  Excellent transport links with easy access to Birmingham New Street Station and major bus routes.\n\n Residents only gym, club lounge & screening roomGated and fob access for optimal security Brand new furnitures included, not shown in the photo (Please enquire for photos)Opulent double height foyer & conciergeSecure parking (available through management at extra cost)Available starting SeptemberFast Broadband internet included\n Distances to Main Attractions:Bullring & Grand Central Shopping Centre:\n\nDistance: 0.5 milesTravel Time: Approximately 10 minutes on footBirmingham New Street Station:\n\nDistance: 0.6 milesTravel Time: Approximately 12 minutes on footThe Mailbox:\n\nDistance: 0.8 milesTravel Time: Approximately 15 minutes on foot\n\nSummary & Exclusions:\n- Rent Amount: £1,250.00 per month (£288.46 per week)\n- Deposit / Bond: £1,442.30\n- 1 Bedrooms\n- 1 Bathrooms\n- Property comes furnished\n- Available to move in from 07 September 2026\n- Maximum number of tenants is 2\n- Students welcome to enquire\n- No Smokers\n- Bills not included\n- No Parking Available\n- Property has garden access\n- EPC Rating: B\n\n  If calling, please quote reference: 3021368  \n\nFees:\nYou will not be charged any admin fees.\n\n ** Contact today to book a viewing and have the landlord show you round! ** \nRequest Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.",
+ "keyFeatures": [
+  "No Agent Fees",
+  "Students Can Enquire",
+  "Property Reference Number: 3021368"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/3c01d7ed7/92545938/3c01d7ed7999ec0360e7c36ce13dacaa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9428190cd/92545938/9428190cdfb36b387a72ab10b1b87301.jpeg",
+  "https://media.rightmove.co.uk/property-photo/498e8e7ac/92545938/498e8e7acef4f44f157493c27fe7df16.jpeg",
+  "https://media.rightmove.co.uk/property-photo/89eae937a/92545938/89eae937a1b2634e77a8722efd29f308.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c5b06550c/92545938/c5b06550c1c9022b296fde0943f9e059.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ed50bfaeb/92545938/ed50bfaeb1689c2570578a9add3fc95f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/713df5acb/92545938/713df5acb85329700cfa648184c70321.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5565f21f2/92545938/5565f21f25561a7b82b53f64d53895e6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f278ddafb/92545938/f278ddafb84f98770239fa95a96c3484.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d538c557a/92545938/d538c557a5c527ff490b9a79af85352b.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 0.35657659174106326,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Moor Street Station",
+   "miles": 0.42508550016639635,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bordesley Station",
+   "miles": 0.7366839725086901,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "OpenRent, London",
+ "city": "Birmingham",
+ "sourceOutcode": "B5",
+ "scrapedAt": "2026-08-30T10:19:53.705Z"
+}

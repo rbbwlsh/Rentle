@@ -1,0 +1,91 @@
+{
+ "id": "92331222",
+ "displayAddress": "Q Apartments, 20 Newhall Hill, B1 3JA",
+ "outcode": "B1",
+ "incode": "3JA",
+ "latitude": 52.483451,
+ "longitude": -1.911071,
+ "priceAmount": 1250,
+ "priceLabel": "£1,250 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92331222",
+ "area": "Q Apartments",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 770,
+  "sizeSqM": 72,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "08/09/2026",
+  "deposit": 1442,
+  "minimumTermMonths": null,
+  "councilTaxBand": "E"
+ },
+ "sizeSqFt": 770,
+ "sizeSqM": 72,
+ "description": "FleetMilne are delighted to present this beautifully presented two-bedroom, two-bathroom apartment in the popular Q Apartments development, located in the heart of Birmingham's historic Jewellery Quarter. Complete with an allocated parking space and private balcony, this stylish apartment offers an excellent opportunity for owner-occupiers and investors seeking a spacious home in one of the city's most desirable locations.\n\nThe apartment features a bright and spacious open-plan living and dining area, creating a versatile space for relaxing or entertaining. The contemporary integrated kitchen is fitted with modern appliances and generous storage, while the dedicated dining area provides the perfect setting for everyday meals or hosting guests.\n\nBoth bedrooms are well proportioned, with the principal bedroom benefiting from a stylish en-suite shower room and direct access to a private balcony, creating a peaceful outdoor retreat. The second double bedroom is served by a modern family bathroom complete with a shower over the bath, making the layout ideal for professionals, couples or sharers.\n\nQ Apartments enjoys an enviable position just 0.3 miles from the picturesque St Paul's Square, the heart of the Jewellery Quarter. Renowned for its independent cafés, award-winning restaurants, boutique bars and rich heritage, the area offers a unique village atmosphere while remaining within easy reach of Birmingham City Centre. Colmore Row is approximately 0.9 miles away, making the property particularly attractive to city professionals.\n\nExcellent transport links further enhance the appeal, with Jewellery Quarter Station and the Midland Metro both within walking distance, providing convenient access across Birmingham and beyond.\n\nLiving Area - Open-plan living area with an L shaped sofa, an allocated dining area with dining table and chairs and an integrated kitchen.\n\nKitchen - Fully equipped integrated kitchen with plenty of storage.\n\nBedroom 1 - Bedroom with double bed and access to an en-suite shower room.\n\nEn-Suite - En-suite shower room with a walk-in shower.\n\nBedroom 2 - Spacious second bedroom with double bed.\n\nBathroom 2 - Family bathroom with a shower over the bath.\n\nContact the FleetMilne office using the links above to arrange your viewing. Tenancies at this property will be fully managed by FleetMilne.\n \nFleetMilne is a member of Client Money Protect, which is a client money protection scheme, and also a member of The Property Ombudsman which is a redress scheme. You can find out more details on the agent’s website or by contacting the agent directly.",
+ "keyFeatures": [
+  "Two double bedrooms",
+  "Two bathrooms: one family bathroom, one en-suite",
+  "Allocated parking space",
+  "Fully furnished",
+  "Private balcony",
+  "Cloak closet in spacious hallway",
+  "Jewellery Quarter location",
+  "0.3 miles to St Pauls Square",
+  "0.9 miles to Colmore Row",
+  "Managed by FleetMilne"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f52edb43f/92331222/f52edb43f05ae9eefebdf998bf106daf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e3e896929/92331222/e3e896929f77afe3311a4f0125a36866.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0cd3fc774/92331222/0cd3fc77469d1071289e45b8e407537b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1188572ec/92331222/1188572ec06956d63203f32dc54f3a11.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ed76f509f/92331222/ed76f509f18bf39bce5452873f7a66d0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d6e841ba0/92331222/d6e841ba02c5fa4389e275d36e955eac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/afde0ef2a/92331222/afde0ef2a2547132d4f13b3ca7956327.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ef0e90747/92331222/ef0e907471fb86fe0c1bc6120fa01a30.jpeg",
+  "https://media.rightmove.co.uk/property-photo/27a330bd4/92331222/27a330bd47c1e3526faa66c609cab285.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f8d6b28cf/92331222/f8d6b28cff707b8147e515b469b1f8dd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0924e8227/92331222/0924e8227afc940081f1fd479cab4382.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c1c3751d7/92331222/c1c3751d79ac3857b8e7ddb6881c1415.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6393a72d3/92331222/6393a72d352a608a21ddbc19c378b74c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/73f7b7a2a/92331222/73f7b7a2a9652f504433b6f6314af062.jpeg",
+  "https://media.rightmove.co.uk/property-photo/233f9f871/92331222/233f9f871d0682d695624754d47c4373.jpeg",
+  "https://media.rightmove.co.uk/property-photo/620906f9e/92331222/620906f9eb0aa6c4ef4271d83f32f1f5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/34579f343/92331222/34579f343c3aa50014afbb8d1d4d9643.jpeg"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "St. Paul's Tram Stop",
+   "miles": 0.40846341327484065,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Birmingham Snow Hill Tram Stop",
+   "miles": 0.44946329558596054,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Jewellery Quarter Tram Stop",
+   "miles": 0.4354172918710182,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "FleetMilne, Birmingham",
+ "city": "Birmingham",
+ "sourceOutcode": "B1",
+ "scrapedAt": "2026-08-30T10:19:35.917Z"
+}

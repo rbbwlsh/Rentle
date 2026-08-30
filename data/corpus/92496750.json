@@ -1,0 +1,78 @@
+{
+ "id": "92496750",
+ "displayAddress": "Peckham High Street, Peckham, London, SE15",
+ "outcode": "SE15",
+ "incode": "5EB",
+ "latitude": 51.473183,
+ "longitude": -0.070787,
+ "priceAmount": 1950,
+ "priceLabel": "£1,950 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92496750",
+ "area": "Peckham, London",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Part furnished",
+  "letAvailableDate": "22/09/2026",
+  "deposit": 2250,
+  "minimumTermMonths": 12,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Two double bedroom 1st floor flat located in the heart of Peckham. Great location for amenities and transport",
+ "keyFeatures": [
+  "Two double bedrooms",
+  "Available 22nd September",
+  "Modern kitchen",
+  "Modern bathroom",
+  "Wooden floors",
+  "Close to transport"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/dc4b6f38c/92496750/dc4b6f38c5deb1822ec5df7227f0b428.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fd94441fb/92496750/fd94441fb94e82fb4ed8a3cdb5537ad5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6edcd83b9/92496750/6edcd83b9f379483905d1d5fb801dd3d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/01e2723aa/92496750/01e2723aaec046a0e4b0e398d03b7091.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee083c897/92496750/ee083c8970ddfb705915a2352ec3f5fc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/94c30b103/92496750/94c30b103c85249d506b4da5f77f995c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fb3be6c1a/92496750/fb3be6c1aae20428ddb5707bd05a21ba.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Peckham Rye Station",
+   "miles": 0.24318087274725275,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Queens Road Peckham Station",
+   "miles": 0.5820084519777883,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Denmark Hill Station",
+   "miles": 0.876091439263706,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Kinleigh Folkard & Hayward - Lettings, Peckham Rye",
+ "city": "London",
+ "sourceOutcode": "SE15",
+ "scrapedAt": "2026-08-30T10:14:35.276Z"
+}

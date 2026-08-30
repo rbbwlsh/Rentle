@@ -1,0 +1,79 @@
+{
+ "id": "92476920",
+ "displayAddress": "York Place, New Town, Edinburgh, EH1",
+ "outcode": "EH1",
+ "incode": "3EB",
+ "latitude": 55.95578,
+ "longitude": -3.19186,
+ "priceAmount": 1350,
+ "priceLabel": "£1,350 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92476920",
+ "area": "New Town, Edinburgh",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "14/10/2026",
+  "deposit": 1550,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "**Available14th of October** Uniquely presented, fully-furnished 1 bedroom property in Edinburgh's New Town.\n\nThis property comprises of a double bedroom with built in wardrobes, open-plan living/dining room with kitchen off; a shower room with walk in shower cubical and utility cupboard comprising of washing machine and dryer, with further benefits of ample storage throughout. \n\nThe property is situated on York Place, just a stone throw away from St James Centre, St Andrews Square and Queen Street, as well as direct access to transport and bus links.\n\nDeposit £1,550. Council Tax Band B.  EPC Band F. No smoking in or around the property. \n\nIf things go wrong when you are renting a property, you need to know you will be looked after. At Clan Gordon, our landlords are fully vetted and commit to providing quality, safe and well-maintained accommodation for their tenants. Because we believe you deserve to feel happy and safe in your home. Interested in this property? Complete the form and submit your enquiry today. Letting Agent Registration Number: 1806018. EPC rating: F.  Landlord Registration Number: 507415/230/12092. Letting Agent Registration Number: 1806018.",
+ "keyFeatures": [
+  "Shower",
+  "Washing machine",
+  "Tumble dryer",
+  "Dishwasher",
+  "Fridge Freezer"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/bf5a0b387/92476920/bf5a0b3873b581bb888a45036e872cb7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/be6c143da/92476920/be6c143dadb534585ecc4f2ccfa822d7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7909157aa/92476920/7909157aa3c2bebbe39c4a5ed9a5e13f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/97c82d031/92476920/97c82d0312691a298165379963694542.jpeg",
+  "https://media.rightmove.co.uk/property-photo/113200745/92476920/11320074575116a65162fd4134a9a030.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bae82557a/92476920/bae82557aec39890bff269de52b9e983.jpeg",
+  "https://media.rightmove.co.uk/property-photo/986e4a078/92476920/986e4a078649da26a02a80a5350ad563.jpeg",
+  "https://media.rightmove.co.uk/property-photo/adb954dba/92476920/adb954dba6acc566ee6ccff6703d141d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/959746359/92476920/95974635971f857781775952e952e51f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f34e6880e/92476920/f34e6880e5e6f2244f7c24fd2f9f0727.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.2719748305263119,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.2487934975442703,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 2.84455626034253,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Clan Gordon, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH1",
+ "scrapedAt": "2026-08-30T11:03:41.348Z"
+}

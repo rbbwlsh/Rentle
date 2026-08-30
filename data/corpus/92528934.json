@@ -1,0 +1,72 @@
+{
+ "id": "92528934",
+ "displayAddress": "Merchant Square East, London, W2",
+ "outcode": "W2",
+ "incode": "1AN",
+ "latitude": 51.519074,
+ "longitude": -0.171197,
+ "priceAmount": 4983,
+ "priceLabel": "£4,983 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92528934",
+ "area": "London",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished or unfurnished, landlord is flexible",
+  "letAvailableDate": "Now",
+  "deposit": 6900,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Frestons are delighted to market this three bedroom apartment to rent on Merchant Square, W2.\n\nThe property additionally benefits from: CCTV, digital TV, lift and concierge.\n\nAvailable now, early viewings highly recommended.\n\nHolding Deposit: £1,150",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/4c0c70dc6/92528934/4c0c70dc664d09e72d2dac40c570a0b2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5ae73ae86/92528934/5ae73ae866fefe8d0a1d1000810bab3b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/685e5e025/92528934/685e5e025c16fdbe230cdc94d8b95bfb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e18ccd41e/92528934/e18ccd41e6e620943a86d8c0c111e7b8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f1fc643b7/92528934/f1fc643b75d4f263da765833dd40f045.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1fe7d0bb1/92528934/1fe7d0bb12d2dff55faca1533ce23fc9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6f3a4cd68/92528934/6f3a4cd68e0cfedae37441b231f3e866.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3d1f436d1/92528934/3d1f436d1a605b0cae11fa25e1b8e489.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Edgware Road (Bakerloo) Station",
+   "miles": 0.1202232236780245,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Edgware Road (Circle, District, Hammersmith & City) Station",
+   "miles": 0.15848738211430946,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Paddington Station",
+   "miles": 0.31067086170094005,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "Frestons, Covering London and the Home Counties",
+ "city": "London",
+ "sourceOutcode": "W2",
+ "scrapedAt": "2026-08-30T10:16:17.053Z"
+}

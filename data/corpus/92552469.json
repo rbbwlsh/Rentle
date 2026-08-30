@@ -1,0 +1,71 @@
+{
+ "id": "92552469",
+ "displayAddress": "Masson Place, Hornbeam Way, Green Quarter, M4 ",
+ "outcode": "M4",
+ "incode": "4AJ",
+ "latitude": 53.490299,
+ "longitude": -2.23919,
+ "priceAmount": 1400,
+ "priceLabel": "£1,400 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92552469",
+ "area": "Green Quarter",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 1616,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Martin & Co are proud to offer to let this well presented 5th floor two double bedroom apartment at Masson Place, part of Manchester's extremely popular Green Quarter. Ideally located in the heart of the city centre, only a short walk to Victoria Station and The Arndale Centre.\n\nThe apartment comprises of a spacious open plan living area and modern kitchen, an en-suite master bedroom with second double bedroom and chic bathroom. The apartment includes a good sized balcony and is offered fully furnished and with secure parking.\n\nThe Green Quarter provides excellent access to the city centre with Exchange Square and The Printworks just a few minutes' walk away.\n\nTo arrange your viewing, please call us today on   and avoid missing out!",
+ "keyFeatures": [
+  "HIGHLY SOUGHT AFTER GREEN QAURTER LOCATION",
+  "TWO DOUBLE BEDROOMS",
+  "TWO BATHROOMS",
+  "SECURE PARKING",
+  "5TH FLOOR",
+  "POPULAR WITH YOUNG PROFESSIONALS"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/00c7eb045/92552469/00c7eb045af8c8850724eaf4a003ffd7.jpeg"
+ ],
+ "imageCount": 1,
+ "nearestStations": [
+  {
+   "name": "Manchester Victoria Station",
+   "miles": 0.25834901000663163,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Market Street Tram Stop",
+   "miles": 0.5809686462311071,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Mosley Street Tram Stop",
+   "miles": 0.6807309151225268,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Martin & Co, Manchester Central",
+ "city": "Manchester",
+ "sourceOutcode": "M4",
+ "scrapedAt": "2026-08-30T10:17:29.898Z"
+}

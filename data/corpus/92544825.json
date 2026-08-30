@@ -1,0 +1,74 @@
+{
+ "id": "92544825",
+ "displayAddress": "Oakwood Lane, Leeds, LS8",
+ "outcode": "LS8",
+ "incode": "3LG",
+ "latitude": 53.814243,
+ "longitude": -1.490829,
+ "priceAmount": 1400,
+ "priceLabel": "£1,400 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92544825",
+ "area": "Leeds",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Semi-Detached",
+ "details": {
+  "propertyType": "Semi-Detached",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 1615,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "**Due to the high level of interest in this property, please submit all enquiries via this website** Ritz Properties are delighted to present to the rental market this three bedroom semi detached home, situated in the popular LS8 area.\n\nThe property offers generous living accommodation throughout the ground floor, comprising a spacious separate living room through dining room and a fully fitted kitchen. \n\nTo the first floor are two well proportioned double bedrooms and a spacious single bedroom. The accommodation is completed by a modern three piece family bathroom.\n\nExternally, the property benefits from ample off street parking and well maintained gardens to both the front and rear.\n\nIdeally positioned, the property is within easy reach of the wide range of cafés, shops and local amenities available on York Road. Leeds City Centre is approximately 1.5 miles away, while the nearby A64 provides excellent transport links for commuters.\n\nRent £1400 PCM / Deposit £1615 / Available Now / EPC - TBC / Council Tax Band - B / Unfurnished.\n\nRitz Properties hereby give notice that these particulars have been produced in good faith and are set out as general outline only, for the guidance of intending purchasers or lessees and do constitute, nor constitute part of an offer or contract. All descriptions, dimensions, references to condition and necessary permission for use in occupation and other details are given without responsibility and any intending purchasers or tenants should not rely solely on them as statement of fact, but must satisfy themselves by inspection or independently verified. Please note we have not tested the services or any of the equipment / appliances in this property. Therefore we strongly advise prospective buyers to commission their own survey before finalising their offer to purchase. Neither Ritz Properties nor any of its employees or agents has any authority to make or give any representation or warranty whatever in relation to this property.",
+ "keyFeatures": [
+  "3 bedroom semi-detached",
+  "Popular area of Oakwood"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/9b8e24143/92544825/9b8e2414325494c094cadda6f856708d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fdc2016dd/92544825/fdc2016dd2c91fc8d59a5b8cfa869da6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cb7412e89/92544825/cb7412e89ac4904b6961c5c838ac5cb8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5de4d0156/92544825/5de4d0156cf96f4bc988a8a035303678.jpeg",
+  "https://media.rightmove.co.uk/property-photo/78bb0b140/92544825/78bb0b140c3eb7934a98e68960f1bf29.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2dd5c151b/92544825/2dd5c151b7b8c783735f9f95a7b5db50.jpeg",
+  "https://media.rightmove.co.uk/property-photo/53af70e87/92544825/53af70e87ba7da4bd6f5323b1bd6a201.jpeg",
+  "https://media.rightmove.co.uk/property-photo/53f82dc54/92544825/53f82dc5411e0e5f2b9ce0175b13ed44.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Cross Gates Station",
+   "miles": 1.784348796347719,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Leeds Station",
+   "miles": 2.6976571602043413,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 3.574895341564181,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Ritz Properties, Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS8",
+ "scrapedAt": "2026-08-30T10:24:57.927Z"
+}

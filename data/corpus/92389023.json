@@ -1,0 +1,93 @@
+{
+ "id": "92389023",
+ "displayAddress": "Falcon Court, Edinburgh, EH10",
+ "outcode": "EH10",
+ "incode": "4AG",
+ "latitude": 55.92865,
+ "longitude": -3.207166,
+ "priceAmount": 1850,
+ "priceLabel": "£1,850 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92389023",
+ "area": "Edinburgh",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 2050,
+  "minimumTermMonths": 12,
+  "councilTaxBand": "TBC"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Particularly appealing three bed property with private parking set in the heart of Morningside just a short stroll from all the many amenities for which Morningside is renowned. Set on the fourth floor of a well-maintained block which benefits from a lift this tastefully presented accommodation offers bright and well-proportioned rooms including a modern fitted kitchen with appliances including dishwasher, front facing balcony off the lounge which offers fantastic views across to The Pentlands, wet-room walk in shower-room with electric shower and hallway with large storage cupboards.  There is an electric charging point within the grounds of Falcon Court for use of residents and there is secure bicycle storage. This has to be applied for and is availability dependent. The property is unfurnished and does NOT have an HMO license.\n\nLong considered one of Edinburgh's most desirable areas, leafy Morningside two miles to the south of the city centre has much to offer with good transportations links. It's most popular amongst families, city dwellers, and students due to the superb amenities on offer and the convenience of access to Edinburgh's business sector and the central universities. This property is in a wonderful, quiet location, yet a stone's throw from first-class amenities; Marks and Spencer's Food-Hall, Waitrose, and Boots Pharmacy, are all a short walk, as is the famous Canny Mans pub, The Hermitage, and Merlin's Bar and Restaurant.\n\nEPC - E\n\nCouncil Tax - E\n\nLL Reg - 29905/230/02021\n\nLARN: 1809020\n\nPlease note pictures are for illustrative purposes only and the property may appear different at the viewing.",
+ "keyFeatures": [
+  "Balcony",
+  "Unfurnished",
+  "Washing machine",
+  "Dishwasher",
+  "Private parking",
+  "Electric car charging point",
+  "No HMO license",
+  "Walk-In Shower-room",
+  "Open views",
+  "3 bedrooms"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/6f2c6b983/92389023/6f2c6b983f707e01dc38a6ae5d1dd7c3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ea00c5ce1/92389023/ea00c5ce18da629e1285d78f0b61f052.jpeg",
+  "https://media.rightmove.co.uk/property-photo/224c05fd7/92389023/224c05fd724259bbf2b5f023a2fc7ad6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6ec15eb04/92389023/6ec15eb0466d1088395d6cd9071e7c2a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bca64b07f/92389023/bca64b07fabbbef08db08d1d7dafcbb6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b72f06e27/92389023/b72f06e27ec40e40fdd74ba41a12d763.jpeg",
+  "https://media.rightmove.co.uk/property-photo/43e193618/92389023/43e1936185d69ca11a30004b579e3678.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bd2a878d0/92389023/bd2a878d06c7722c8db420139036ed2d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/42a44f1f0/92389023/42a44f1f048dc97584c65f4aba9c055b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/669272607/92389023/66927260722fe4e6fbd852063dc584e2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/77b85edc9/92389023/77b85edc9774ecf6e3a54fc13c92bc0e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c26493ea3/92389023/c26493ea3f7605707aa46e5968d8d23a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b1e066957/92389023/b1e066957c105d9d15c6c99d8f90726b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2e7d6968a/92389023/2e7d6968ad84dfdba6d1fbabdfd78483.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d47bb0638/92389023/d47bb0638b9e0f1c6911ebcfdfe1ce3f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f67eff127/92389023/f67eff127fc63edd1d7d5ee0ec8b46f5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/713859d6f/92389023/713859d6ff21fbd9a1cdbbd9057a751f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/547693795/92389023/5476937958680a11efa3e902a1a52d41.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c923845d9/92389023/c923845d930b02be098ae49fb8fc108b.jpeg"
+ ],
+ "imageCount": 19,
+ "nearestStations": [
+  {
+   "name": "Haymarket Station",
+   "miles": 1.2320987102842467,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 1.4167458476916246,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 1.7518791809342937,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Arden Property Management, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH10",
+ "scrapedAt": "2026-08-30T11:04:16.365Z"
+}

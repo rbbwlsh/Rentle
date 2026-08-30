@@ -1,0 +1,74 @@
+{
+ "id": "92418693",
+ "displayAddress": "Horizon - City Centre",
+ "outcode": "BS1",
+ "incode": "3DJ",
+ "latitude": 51.45694,
+ "longitude": -2.58688,
+ "priceAmount": 1500,
+ "priceLabel": "£1,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92418693",
+ "area": "Horizon - City Centre",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "23/09/2026",
+  "deposit": 1730,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This one-bedroom, one-bathroom furnished apartment is available to let within the sought-after Horizon development in central Bristol, offering modern city living in a convenient location. The property benefits from a balcony with views towards the communal gardens, which residents can also enjoy.\n\nSituated in Bristol's BS1 area, the property is ideally placed for access to the Harbourside, Cabot Circus and the city centre, all of which offer a wide range of shops, cafés, bars and restaurants. Brandon Hill Park and Castle Park are both within easy reach, providing attractive green spaces for walking and leisure.\n\nThe development benefits from excellent transport links. Bristol Temple Meads station is approximately a 15-minute walk, or a short bus journey away, providing regular services to London Paddington in around 1 hour 40 minutes, as well as connections to Cardiff, Bath, Exeter and destinations across the South West and Midlands. Numerous bus routes also serve the area, offering convenient access to Clifton, Redland, Southville and other parts of the city.\n\nMaterial facts (Parts A + B) information correct as of 26th of August, 2026:\n– Council tax band – C\n– Energy rating – B\n– Holding deposit – £346\n– Damage deposit – £1730\n– What floor is the property situated? - First\n– No parking available\n– Headlease – yes, ask agent\n– Utilities – Gas / Electric / Water on a meter. Mains fed \n– Utility restrictions – Water is billed directly through the management company, and cost will be passed on to the tenant\n– Heating source – Gas central heating \n– Indoor Phone coverage (source Ofcom) graded Good, Variable, Poor – All good (EE , Three , O2 , Vodafone)\n– Broadband download speed and supply type (source Ofcom) – Standard 16 mbps and Ultrafast 1000 mbps\n– Building Material type – Brick\n– Lift access – yes\n\nMaterial facts (Part C)\n\n– Building Safety – No known issues\n– Restrictions and Rights – not known at this time. Please ask agent\n– Rights and Easements - not known at this time. Please ask agent\n– Flood and Erosion in last 5 years - not known at this time. Please ask agent\n– Planning Permissions - not known at this time. Please ask agent\n– Property accessibility/adaptations - not known at this time. Please ask agent\n– Coalfield or Mining – not  known at this time. Please ask agent",
+ "keyFeatures": [
+  "Balcony",
+  "Furnished",
+  "Central location"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/81d40d769/92418693/81d40d7696637ff21e42007bfbda538c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/763f4787d/92418693/763f4787dd62aab7fbf26f2b3b756c01.jpeg",
+  "https://media.rightmove.co.uk/property-photo/699dab1e5/92418693/699dab1e5a92a259969bf629c027e3d4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c26aac646/92418693/c26aac64670a517a7971d2159482cf6e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f373cc35/92418693/5f373cc35c406233a90d23e68a244dcf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/46e7ec3cd/92418693/46e7ec3cdec960807d19716ab79878ce.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d30c2be2a/92418693/d30c2be2a01a31f7e75f79247d10e0d6.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 0.593693225066438,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Montpelier Station",
+   "miles": 0.7931322110186984,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.953331042421952,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Ocean, Clifton",
+ "city": "Bristol",
+ "sourceOutcode": "BS1",
+ "scrapedAt": "2026-08-30T10:22:08.336Z"
+}

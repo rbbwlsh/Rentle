@@ -1,0 +1,76 @@
+{
+ "id": "92368500",
+ "displayAddress": "Peckham High Street, Peckham, London, SE15",
+ "outcode": "SE15",
+ "incode": "5EB",
+ "latitude": 51.473183,
+ "longitude": -0.070787,
+ "priceAmount": 1900,
+ "priceLabel": "£1,900 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92368500",
+ "area": "Peckham, London",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "04/09/2026",
+  "deposit": 2192,
+  "minimumTermMonths": 12,
+  "councilTaxBand": "TBC"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Newly refurnished one bedroom property available to let from early September. The property is in close proximity to Peckham Rye train station and the high street.",
+ "keyFeatures": [
+  "One double bedroom",
+  "Unfurnished",
+  "Modern Kitchen",
+  "Modern bathroom",
+  "Wooden floors",
+  "Newly refurbished throughout",
+  "Available early September"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/58a279937/92368500/58a279937ba4d58d22dbebbd8ced3d8c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9fc297ec3/92368500/9fc297ec38bc460ed6128068529ef26a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/029a4c746/92368500/029a4c7467c0bdb01a264a7a60b25994.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7952b56b4/92368500/7952b56b46e38c41b054259eddccbbd8.jpeg"
+ ],
+ "imageCount": 4,
+ "nearestStations": [
+  {
+   "name": "Peckham Rye Station",
+   "miles": 0.24318087274725275,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Queens Road Peckham Station",
+   "miles": 0.5820084519777883,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Denmark Hill Station",
+   "miles": 0.876091439263706,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Kinleigh Folkard & Hayward - Lettings, Peckham Rye",
+ "city": "London",
+ "sourceOutcode": "SE15",
+ "scrapedAt": "2026-08-30T10:14:56.189Z"
+}

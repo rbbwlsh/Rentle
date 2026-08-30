@@ -1,0 +1,86 @@
+{
+ "id": "92521509",
+ "displayAddress": "Mcewan Walk, Edinburgh, EH3",
+ "outcode": "EH3",
+ "incode": "8FU",
+ "latitude": 55.942906,
+ "longitude": -3.215223,
+ "priceAmount": 1695,
+ "priceLabel": "£1,695 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92521509",
+ "area": "Edinburgh",
+ "bedrooms": null,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": null,
+  "bathrooms": 1,
+  "sizeSqFt": 400,
+  "sizeSqM": 37,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Ask agent",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": 400,
+ "sizeSqM": 37,
+ "description": "476 interior designed apartments with state-of-the-art amenities including a residents' gym & studio, media room & games room, two private dining spaces, a designated co-working space and shared lounges. Residents also have access to a range of spectacular rooftop terraces with views of the city including the iconic Edinburgh Castle.\r\n\r\nGet ahead of the crowd-reserve your apartment today!\r\n\r\nYOUR APARTMENT\r\n\r\nFurnished studio apartment with open-plan living, kitchen and dining space.\r\n\r\nDouble bed with Ottoman storage and feature headboard.\r\n\r\nShower Room with deluxe rainfall shower.\r\n\r\nCosy living area with 2-seater sofa and dining space for two.\r\n\r\nFitted kitchen with integrated Samsung appliances.\r\n\r\nFloor-to-ceiling windows.\r\n\r\nYOUR KITCHEN\r\n\r\nOpen-plan, sleek and modern with quartz worktops and integrated Samsung appliances including touch control induction hob, combi oven, fridge with icebox freezer, dishwasher and washer dryer. Room to dine with marble-effect dining table and two chairs.\r\n\r\nYOUR LIVING AREA\r\n\r\nLight and spacious with floor to ceiling windows. Luxurious two-seater sofa, media storage unit with 50\" Samsung 4K Smart TV and coffee table with mirrored top.\r\n\r\nYOUR BEDROOM\r\n\r\nStylish bedroom including fitted wardrobes with full-height internal mirror, double bed with Ottoman storage, feature headboard and 1,000 individual pocket-sprung mattress made from natural materials.\r\n\r\nYOUR BATHROOM\r\n\r\nShower Room with contemporary porcelain tiling throughout. Deluxe sized rainfall shower with separate handheld shower, WC and heated towel rail, plus bespoke vanity cabinet with LED lighting.\r\n\r\n\r\nPlease note that utilities (including electricity, water, and heating), council tax, TV licence, parking (if required), and any optional extras or upgraded services are not included within your monthly rent.\r\n\r\nCouncil Tax Band: C\r\n\r\nLandlord Registration: 1516512/230/13122\r\n\r\nLARN: 2309003",
+ "keyFeatures": [
+  "Deposit Alternative Available ",
+  "Parking Available",
+  "Pet Friendly",
+  "24/7 Gym Access",
+  "Co-Working Spaces &amp; Private Meeting Rooms",
+  "24hr Concierge Team ",
+  "WIFI Included"
+ ],
+ "tags": [
+  "BUILT_FOR_RENTERS"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/8e8e2bd3d/92521509/8e8e2bd3dafb716b76471319ea5cc647.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cdf5dcadc/92521509/cdf5dcadc7a9c8f775a14780dd31921a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/105f56d4c/92521509/105f56d4cd9e4971f3c4bb377d5572ea.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e52905466/92521509/e52905466f27581d9cbc29383ae2d0e0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c0e101a37/92521509/c0e101a37b1546a669f8d64446ea499c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a8db8cd6f/92521509/a8db8cd6f2fede7d6fd6e28674c7ba51.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f4f2044d7/92521509/f4f2044d710ddeb24f4bfc637fe49ce4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5da3e46de/92521509/5da3e46de40b3b712ed4f5641a8ee63d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3d47f4206/92521509/3d47f42061c6ae5c8313aa6a0e63aa29.jpeg",
+  "https://media.rightmove.co.uk/property-photo/23216eea2/92521509/23216eea2534013c6e939697845c5384.jpeg",
+  "https://media.rightmove.co.uk/property-photo/760c52ed7/92521509/760c52ed7e012b0f298a789b231fd31d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/252ac6c6b/92521509/252ac6c6bcbb94e4e9777888722f3763.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a1fb63165/92521509/a1fb6316514bfec4992969fc4140430b.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Haymarket Station",
+   "miles": 0.2036982284815177,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 1.1707834548744984,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 1.5733086742169498,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Moda, The McEwan",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH3",
+ "scrapedAt": "2026-08-30T10:26:00.439Z"
+}

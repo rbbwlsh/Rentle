@@ -1,0 +1,80 @@
+{
+ "id": "92522256",
+ "displayAddress": "Granby Row, Manchester, Greater Manchester, M1",
+ "outcode": "M1",
+ "incode": "7AR",
+ "latitude": 53.47564,
+ "longitude": -2.234245,
+ "priceAmount": 1200,
+ "priceLabel": "£1,200 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92522256",
+ "area": "Manchester, Greater Manchester",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "19/10/2026",
+  "deposit": 1384,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "** AVAILABLE 19/10/2026 **\n\nReeds Rains are delighted to market this excellent one double bedroom furnished apartment in this centrally located development near Oxford Road and Piccadilly train station. \n\nDesigned by architects G. H. Goldsmith, Granby House was built at the turn of the century using red brick with Portland stone and is doused in Art Nouveau motifs. Standing proud in the heart of Granby Village, this historical building captures the very essence of architectural innovation. Sensitively converted in 1985 to apartments, residents relish it`s character demeanour which has been carefully preserved throughout.\n\nThe development benefits from a secure communal entrance and lift service to all floors. Well-presented throughout and occupying a corner plot, the apartment features excellent storage within the hallway, spacious double bedroom, a modern bathroom and a large open-plan lounge/diner and kitchen with modern appliances.\n\nEPC Grade - D.\nCouncil Tax Band - B.\n\n\rIMPORTANT NOTE TO POTENTIAL PURCHASERS & TENANTS: We endeavour to make our particulars accurate and reliable, however, they do not constitute or form part of an offer or any contract and none is to be relied upon as statements of representation or fact. The services, systems and appliances listed in this specification have not been tested by us and no guarantee as to their operating ability or efficiency is given. All photographs and measurements have been taken as a guide only and are not precise. Floor plans where included are not to scale and accuracy is not guaranteed. If you require clarification or further information on any points, please contact us, especially if you are traveling some distance to view. POTENTIAL PURCHASERS: Fixtures and fittings other than those mentioned are to be agreed with the seller. POTENTIAL TENANTS: All properties are available for a minimum length of time, with the exception of short term accommodation. Please contact the branch for details. A security deposit of at least one month’s rent is required. Rent is to be paid one month in advance. It is the tenant’s responsibility to insure any personal possessions. Payment of all utilities including water rates or metered supply and Council Tax is the responsibility of the tenant in most cases. \n\nCOW250190/2",
+ "keyFeatures": [
+  "Available 19/10/2026",
+  "Deposit - £1384.61",
+  "EPC Grade - D",
+  "Council Tax Band - B",
+  "One Double Bedroom",
+  "Furnished",
+  "Corner Plot",
+  "Converted Building",
+  "Close To Piccadilly Train Station"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/2274fe856/92522256/2274fe856006daedb4962d2c2fd4f18a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3d8f0c557/92522256/3d8f0c55732fdee8cdfd58b18d3c24f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a9ea2ed34/92522256/a9ea2ed347250c637e673fcbfa9f6fc2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d2bf37de4/92522256/d2bf37de42e61e8bb45a3eb5fcac0ab6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d4a25d35f/92522256/d4a25d35f32a71943de150bc4b6ce460.jpeg",
+  "https://media.rightmove.co.uk/property-photo/438cfbf29/92522256/438cfbf29b164f652a1ac5b64251dee4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dc6273e71/92522256/dc6273e71461addd265d145d8ea8b557.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Manchester Oxford Road Station",
+   "miles": 0.3506591380988617,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Manchester Piccadilly Station",
+   "miles": 0.1970889709112268,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Piccadilly Gardens Tram Stop",
+   "miles": 0.31919350204496677,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Reeds Rains, Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M1",
+ "scrapedAt": "2026-08-30T10:16:59.275Z"
+}

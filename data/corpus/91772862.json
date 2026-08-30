@@ -1,0 +1,81 @@
+{
+ "id": "91772862",
+ "displayAddress": "Pembroke Road, Clifton, Bristol, Somerset, BS8",
+ "outcode": "BS8",
+ "incode": "3DR",
+ "latitude": 51.460633,
+ "longitude": -2.616369,
+ "priceAmount": 2095,
+ "priceLabel": "£2,095 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91772862",
+ "area": "Bristol, Somerset",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": 860,
+  "sizeSqM": 80,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "15/09/2026",
+  "deposit": 2417,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": 860,
+ "sizeSqM": 80,
+ "description": "Stunning 3-Bedroom Penthouse Apartment with Breathtaking Views\n\n\rDescription\n\nPresenting an exquisite 3-bedroom penthouse apartment, offering the perfect balance of luxury, style, and comfort. Located in one of the most desirable areas, this property boasts exceptional space, light, and design, making it a truly remarkable home.\n\nThe apartment features a spacious and well-thought-out floor plan, providing an abundance of natural light throughout. The open-plan living and dining area flows seamlessly, creating a welcoming space ideal for both entertaining and relaxation. With modern fixtures and stylish furnishings throughout, every detail has been carefully considered to ensure the highest standard of living.\n\nEnjoy two private balconies, each offering stunning, panoramic views of the surrounding cityscape—perfect for unwinding or entertaining guests. Whether you're enjoying a morning coffee or watching the sunset, these outdoor spaces provide a peaceful escape from the city hustle.\n\nThe property is offered fully furnished, with contemporary furniture and finishes that complement the sleek, modern interior design. Every room has been designed to offer comfort, sophistication, and ample space, making it an ideal choice for those seeking luxury living.\n\nThis penthouse apartment offers a unique opportunity to live in a prestigious property that combines both style and practicality. For those seeking an elevated standard of living, this is a property that promises both comfort and elegance.\n\nPlease note that this property does not have an HMO license, so the maximum number of sharers is two.\n\nLocation\n\nThe area offers excellent educational options, with a variety of schools nearby. Independent schools include Clifton High School (0.3 miles), Clifton College Prep (0.4 miles), and Bristol Grammar School (0.7 miles). In addition, there are outstanding state schools within close proximity, such as Christ Church Primary (0.2 miles) and St John's Primary (0.5 miles), both rated 'Outstanding' by Ofsted. For secondary education, Cotham School (1 mile) is a highly-rated academy, with a 'Good' Ofsted rating.\n\nSquare Footage: 860 sq ft\n\r\n\r \r\n\nAdditional Info\n\nHolding Deposit : £483.46 ( 1  week )\nDeposit Payable : £2,417.30 ( 5 weeks )\nRent must be paid monthly in advance",
+ "keyFeatures": [
+  "Penthouse Apartment",
+  "Two Bedrooms",
+  "Balcony",
+  "Furnished",
+  "Modern Finish",
+  "Allocated Parking",
+  "EPC Rating = E"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/7fca5f312/91772862/7fca5f3123cc87ae1015928b6a2922a0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2647581e2/91772862/2647581e2549b52482555f86f4c26a58.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9e1038f4e/91772862/9e1038f4ef7b7f9d46f4854ca97068c5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b061e2819/91772862/b061e281975346763596808bd261fab3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/13529a1cc/91772862/13529a1ccbc8c8b0c6a73c8d6d9ef179.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f716fcb6c/91772862/f716fcb6ca1e7e1c0b0fb73aadf4504f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/66ee09f1b/91772862/66ee09f1bbb39e1d713486c5c339d3b2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0458a4e06/91772862/0458a4e0635633811001d8c80dc26f8d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6c589cb30/91772862/6c589cb3062e06d78160e690714d9acd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0fd809eaf/91772862/0fd809eafd271fdf5c03953b439c03c7.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.3560020202581098,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.9037968912397013,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Montpelier Station",
+   "miles": 1.3064082540953457,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Savills Lettings, Clifton",
+ "city": "Bristol",
+ "sourceOutcode": "BS8",
+ "scrapedAt": "2026-08-30T11:03:16.077Z"
+}

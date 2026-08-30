@@ -1,0 +1,88 @@
+{
+ "id": "92333730",
+ "displayAddress": "Craiglea Drive, Edinburgh, EH10",
+ "outcode": "EH10",
+ "incode": "5PF",
+ "latitude": 55.921803,
+ "longitude": -3.214736,
+ "priceAmount": 2300,
+ "priceLabel": "£2,300 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92333730",
+ "area": "Edinburgh",
+ "bedrooms": 4,
+ "bathrooms": 2,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": null,
+  "letAvailableDate": "21/09/2026",
+  "deposit": 3450,
+  "minimumTermMonths": null,
+  "councilTaxBand": "TBC"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "DEPOSIT £3450 - Four bedroom unfurnished terraced house located in Edinburgh. TO BOOK A VIEWING ONLINE, PLEASE FILL OUT THE CONTACT AGENT FORM.\n\n\rThis lovely, Victorian, four bedroom unfurnished family house is within an excellent school catchment area and within a short walk from local amenities on the Morningside high street. The property comprises a ground floor with bay windowed living room, a dining room, a kitchen with access to the back garden and a double bedroom with a WC. The stairs then lead up to the first floor with three further double bedrooms and a large bathroom with shower over bath. This property further benefits from Gas Central heating and a spacious garden. \n\nDeposit : £3450\nEPC Rating: D \nCouncil Tax Band: G\nLandlord Registration: 214274/230/09000 & 214273/230/09000\nAdditional costs: council tax and water charge / utilities / broadband (if applicable) / Garden Waste Bin from local authority at additional cost (if applicable)  \nHeating Type: Gas Central Heating\nProperty Floor: House\nUtilities: Credit Meter. \nElectricity / Gas Supplier:  \nBroadband Type: Full Fibre Available *as obtained from    Further information regarding broadband and phone signal can be obtained from the Ofcom broadband and mobile coverage checker - Broadband and mobile coverage checker - Ofcom  \nParking Type: Council permit parking (at additional cost from local council) \nPlanning permission: Please check this properties local authority planning website for any planning which may impact the property or local area in future.\nAll statements contained herein are believed to be correct but are not guaranteed and interested parties must satisfy themselves as to their accuracy. \nLetting Agent Registration Number: LARN1812026",
+ "keyFeatures": [
+  "Four total Bedrooms",
+  "Four double Bedrooms",
+  "One reception Room",
+  "Two bathroom",
+  "House",
+  "Terraced",
+  "Garden, Patio",
+  "Permit Parking",
+  "Town/City",
+  "Long Let"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/dbf7c734a/92333730/dbf7c734a683d140f61510acd9d3c2b6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/718014508/92333730/718014508d6a18cf79d29db511c94ced.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b31182638/92333730/b311826383523197c674970eb6ec804d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5951a83fe/92333730/5951a83fe4db553a1d6c1f565e96af95.jpeg",
+  "https://media.rightmove.co.uk/property-photo/03231d0e5/92333730/03231d0e5ed52981a75b80c967125760.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b385af20f/92333730/b385af20f5d2dc6dc216d18ceddacef6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d06a4ca78/92333730/d06a4ca7823a8bd765fd037ef95a8a08.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6f88b669a/92333730/6f88b669a3d19830157df8edbc659306.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5fff46875/92333730/5fff46875b1eb0118fabf1df284cd95b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3bc414651/92333730/3bc414651645b7228d107f1a7279b0f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bcc01880b/92333730/bcc01880b8a27c33d972cf05100bd349.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0fb8ca89f/92333730/0fb8ca89fe142d738969968bb1b9e00b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a44c8b7a9/92333730/a44c8b7a9386cf2e2ac11a08d158c83f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ed9b8d8a0/92333730/ed9b8d8a00baf5f7a2450dd0cc171a2d.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Slateford Station",
+   "miles": 1.1639678161656477,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.6354036790816182,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Kingsknowe Station",
+   "miles": 1.9689423026385346,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "DJ Alexander, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH10",
+ "scrapedAt": "2026-08-30T11:04:19.138Z"
+}

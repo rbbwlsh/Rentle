@@ -1,0 +1,85 @@
+{
+ "id": "172535498",
+ "displayAddress": "F17 - 54 George Road, Five Ways, West Midlands, B15",
+ "outcode": "B15",
+ "incode": "1PL",
+ "latitude": 52.471477,
+ "longitude": -1.913832,
+ "priceAmount": 895,
+ "priceLabel": "£895 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/172535498",
+ "area": "Five Ways, West Midlands",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 350,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "| £206.00 pppw inc bills | 1 Bedroom flat | Available for 26/27 Academic Year | Tenancy Start Date: 01/09/2026 | Next to Five Ways Station | EN-SUITE SHOWER ROOM | Central Laundry Room | CCTV & Digital Entry | Ref: 449532 |\n\nPositioned conveniently next to Five Ways train station, the property allows easy access to both Edgbaston/Selly Oak and City Centre university campuses. A short walk takes you to Birmingham's shopping, food, and nightlife. The recently developed Park Regis Hotel is close by.\n\nThis classic studio apartment is 19 square meters and fully furnished. It features a double bed with under-bed storage, a drawer unit, wardrobe, desk, chair, and a two-seater sofa. A flat-screen TV is mounted on the wall.\n\nThe kitchenette includes a microwave oven, a two-ring ceramic hob with extractor, and a full-sized fridge with a freezer compartment. One bedroom benefits from an en-suite shower room. There is a central laundry room on the ground floor.\n\nThis well-maintained property has been developed to a very high standard. Light and airy rooms create a pleasant living environment with views over Birmingham. A digital entry system and CCTV help tenants feel safe and secure.\n\nWhere bills are included: Gas, electricity, water, TV licence, fibre broadband where possible (limited by a fair usage policy).\n\nHolding Deposit: £206 per person (one week's rent)\nCouncil Tax Band: Student Only Property",
+ "keyFeatures": [
+  "Walking Distance to Uni",
+  "Near Train Station",
+  "Bills Included Option",
+  "Fully Furnished",
+  "White Goods Included",
+  "En-Suite Available",
+  "Secure Entry System",
+  "CCTV",
+  "Washing Machine",
+  "Dryer"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/5cdb3c7cb/172535498/5cdb3c7cb8c638b739a6c0bea4f2deae.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3c6b5471c/172535498/3c6b5471cd2f389fee934d0c7162341d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/013f1e49d/172535498/013f1e49d0038f1fc32dc589841ef44e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/32689c198/172535498/32689c198ceaaf6e2101d2c3b63994e8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/69ee8180a/172535498/69ee8180a658eaee698f1836f65bb76e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a2498b699/172535498/a2498b699a3f60be5093f16ef4369243.jpeg",
+  "https://media.rightmove.co.uk/property-photo/963da472b/172535498/963da472ba37b2ca1b637f9fd5c2b8c3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9cb0d827b/172535498/9cb0d827b4ef30c39406e718888609a6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e1de0c50e/172535498/e1de0c50ea1d07b9323038bf7c245424.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4f74e3542/172535498/4f74e35425d73bbbbbe2502d6ca363a1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ad1ecdc83/172535498/ad1ecdc83cde38849dcef52c12114abe.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Five Ways Station",
+   "miles": 0.11203020988304438,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 0.7628879456797881,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Snow Hill Station",
+   "miles": 1.008523156062852,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "PURPLE FROG ASSET MANAGEMENT LIMITED, Selly Oak",
+ "city": "Birmingham",
+ "sourceOutcode": "B15",
+ "scrapedAt": "2026-08-30T10:20:36.554Z"
+}

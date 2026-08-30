@@ -1,0 +1,80 @@
+{
+ "id": "88755978",
+ "displayAddress": "Kensington Avenue, Manchester, M14",
+ "outcode": "M14",
+ "incode": "5PG",
+ "latitude": 53.456276,
+ "longitude": -2.212375,
+ "priceAmount": 520,
+ "priceLabel": "£520 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/88755978",
+ "area": "Manchester",
+ "bedrooms": 5,
+ "bathrooms": 2,
+ "propertySubType": "House",
+ "details": {
+  "propertyType": "House",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 2600,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Lovely large 5 BED house 2 bathrooms with large dining lounge, close to all amenities, University, public transport, city centre, MRI Hospital. Property has 4 large double bedrooms with large kitchen and a separate large living room. It comes with washer and dryer, fully furnished with double beds in each room with IKEA furnishings.\n\nKensington Avenue\n\nVictoria Park\n\nManchester\n\nThis property is managed via the Hybr platform. By submitting an enquiry, you acknowledge and consent to your information being shared with Hybr for the purpose of processing and responding to your enquiry.\n\n If you have any questions get in touch with our team by pressing the call button on Rightmove and when asked for a property reference code, put in 12832059",
+ "keyFeatures": [
+  "£120 per person per week",
+  "Furnished",
+  "Large Dining Lounge",
+  "Close to Amenities",
+  "Close to University",
+  "Washer and Dryer",
+  "IKEA Furnishings",
+  "Available Now"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/7b13d4f95/88755978/7b13d4f953a8f3bc5717bc299445c3e2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6eefba36f/88755978/6eefba36f5bb6db8038aad682ea68ac2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/137f3f3df/88755978/137f3f3df253cec93879eb0d3b798074.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b3f8805dd/88755978/b3f8805dd191d44e665f5142c0456598.jpeg",
+  "https://media.rightmove.co.uk/property-photo/45a1bc923/88755978/45a1bc9238d3345d301f3c89984034fa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cdab8b13a/88755978/cdab8b13a84f70c6aad0112f9564edf9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/86071986f/88755978/86071986f0338f1cb50bf85ade75f763.jpeg",
+  "https://media.rightmove.co.uk/property-photo/64f0027bc/88755978/64f0027bc2d21dffe1ce0516cb0b2b6c.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Ardwick Station",
+   "miles": 1.0237795653166053,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Levenshulme Station",
+   "miles": 1.1513571290055113,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Ashburys Station",
+   "miles": 1.2861108727293624,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "HYBR, Covering Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M14",
+ "scrapedAt": "2026-08-30T10:18:01.120Z"
+}

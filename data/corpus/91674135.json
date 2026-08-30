@@ -1,0 +1,76 @@
+{
+ "id": "91674135",
+ "displayAddress": "Room 1, 8 Burchett Grove, Leeds, LS6 2JA",
+ "outcode": "LS6",
+ "incode": "2JA",
+ "latitude": 53.81721,
+ "longitude": -1.55463,
+ "priceAmount": 495,
+ "priceLabel": "£495 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91674135",
+ "area": "Leeds",
+ "bedrooms": 1,
+ "bathrooms": 2,
+ "propertySubType": "House Share",
+ "details": {
+  "propertyType": "House Share",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 250,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "** £495pcm (inc Gas, Elec, Water, TV Licence & Wi-Fi ** Available Now ** Double Room in 6 bedroom, 2 bathroom shared house ** Individual full time student only ** \n\n++++   \n\nNB -  These Studios are only available to Full Time Students, so Tenants will be exempt from Council Tax (you may need to fill out an exemption form on the Leeds City Council website).",
+ "keyFeatures": [
+  "£495pcm (inc Gas, Elec, Water, TV Licence &amp; Wi-Fi)",
+  "Available Now",
+  "Room Share"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f93bdb142/91674135/f93bdb14284da4d1a75a3995d618fef9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3f903bd58/91674135/3f903bd582c53c9e62396da6824968ec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c5e2f74c0/91674135/c5e2f74c0001adfc44cce7114ab17bda.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f64422bf6/91674135/f64422bf62c1709666d9b04adccd064e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cf49e2750/91674135/cf49e2750b8dc479ad0d9ae9616ada0c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/44062be47/91674135/44062be475cca5462d19d478ec44b121.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ebaf224d3/91674135/ebaf224d39733bf49afb0863776ca3ff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/85fec4b94/91674135/85fec4b94f7cf1c8e83ef6910b836b35.jpeg",
+  "https://media.rightmove.co.uk/property-photo/99de446b5/91674135/99de446b512f46d69dfa2101a7000e79.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Burley Park Station",
+   "miles": 1.0254876487723688,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 1.6169123187024785,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Leeds Station",
+   "miles": 1.6353184790301771,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "MHS Lettings & Sales, Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS6",
+ "scrapedAt": "2026-08-30T10:24:53.695Z"
+}

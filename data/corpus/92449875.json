@@ -1,0 +1,82 @@
+{
+ "id": "92449875",
+ "displayAddress": "Stackpool Road, Bristol, BS3",
+ "outcode": "BS3",
+ "incode": "1NX",
+ "latitude": 51.442511,
+ "longitude": -2.606629,
+ "priceAmount": 950,
+ "priceLabel": "£950 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92449875",
+ "area": "Bristol",
+ "bedrooms": null,
+ "bathrooms": 1,
+ "propertySubType": "House",
+ "details": {
+  "propertyType": "House",
+  "bedrooms": null,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Part furnished",
+  "letAvailableDate": "Now",
+  "deposit": 1096,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Spacious Double Room with Ensuite & Private Kitchenette in Popular BS3\nDouble Room | Ensuite | Private Kitchenette | Bills Included* | Shared Kitchen | Landlord flexible on furnishings | Available NOW\n\nLooking for a room that offers a little more independence? This spacious double room on Stackpool Road comes complete with its own private kitchenette and ensuite shower room, making it an excellent choice for professionals seeking comfortable and convenient living.\n\nAvailable from NOW, this well-presented room combines privacy with the benefits of shared accommodation in a fantastic BS3 location.\n\nStep inside and you'll find:\n\nA generously sized double bedroom with plenty of room to relax and unwind\nYour own private ensuite shower room\nA private kitchenette within the room, perfect for preparing light meals and enjoying added independence\nAccess to a communal kitchen within the property for additional cooking facilities\nNeutral décor throughout, ready for you to make the space your own\nLandlord flexible on furnishings \nA sought-after BS3 location close to local shops, cafés, pubs, restaurants and transport links\n\nSituated on Stackpool Road, you'll be perfectly positioned to enjoy everything South Bristol has to offer, with easy access to the City Centre and nearby amenities.\n\nAll bills are included within the rent, with the exception of electricity, which is payable by the tenant.\n\nEPC Rating: E\nDeposit: £1,096.15\n\nA fantastic opportunity to secure a spacious room with its own ensuite and kitchenette in one of Bristol's most popular locations.\n\n*Electricity payable by the tenant. All other bills included.\n\nDisclaimer : Photos have been AI edited for marketing purposes",
+ "keyFeatures": [
+  "Available NOW",
+  "Double Room to Rent",
+  "Ensuite &amp; Private Kitchenette",
+  "Electric paid by the tenants (all other bills included)",
+  "Great BS3 Location",
+  "EPC - E",
+  "Deposit - £1009.61"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1a64bc265/92449875/1a64bc265cbe25abb771ad4a80a416bc.png",
+  "https://media.rightmove.co.uk/property-photo/d7b81a3fd/92449875/d7b81a3fd7c80a80afd2529cdb4a739b.png",
+  "https://media.rightmove.co.uk/property-photo/3b4f2f70a/92449875/3b4f2f70a71543659c442d928d1d322a.png",
+  "https://media.rightmove.co.uk/property-photo/94ce4c980/92449875/94ce4c98002280e6c2855c337266651b.png",
+  "https://media.rightmove.co.uk/property-photo/cd02c5a41/92449875/cd02c5a419cb34ace4f8f67905c7bb0e.png",
+  "https://media.rightmove.co.uk/property-photo/e60410210/92449875/e60410210fcf8d9b919f22f9f517776d.png",
+  "https://media.rightmove.co.uk/property-photo/dd5420ff4/92449875/dd5420ff4341177b0a748c31f3518c01.png",
+  "https://media.rightmove.co.uk/property-photo/b1f026153/92449875/b1f02615338fe302b4f5e900ac473b59.jpeg",
+  "https://media.rightmove.co.uk/property-photo/948029f85/92449875/948029f85c41dbf01d054dc0941590aa.png",
+  "https://media.rightmove.co.uk/property-photo/64735c4a9/92449875/64735c4a91a438c2652bb7ad5cbfd0a3.png",
+  "https://media.rightmove.co.uk/property-photo/6fb8aac4f/92449875/6fb8aac4fa2f25b22b8ca243d0d922f8.png"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Bedminster Station",
+   "miles": 0.5607623090893039,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Parson Street Station",
+   "miles": 0.6515630394062207,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 1.1777695215242987,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Bristol Property Centre, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS3",
+ "scrapedAt": "2026-08-30T10:22:42.103Z"
+}

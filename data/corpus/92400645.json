@@ -1,0 +1,79 @@
+{
+ "id": "92400645",
+ "displayAddress": "Sylvester Path, London, E8",
+ "outcode": "E8",
+ "incode": "1EN",
+ "latitude": 51.546334,
+ "longitude": -0.05566,
+ "priceAmount": 2750,
+ "priceLabel": "£2,750 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92400645",
+ "area": "Sylvester Path, London",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Not Specified",
+ "details": {
+  "propertyType": "Not Specified",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 903,
+  "sizeSqM": 84,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "09/10/2026",
+  "deposit": 3173,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": 903,
+ "sizeSqM": 84,
+ "description": "A beautifully presented 2 double bedroom maisonette set in a period conversion close to Hackney Central and within easy reach of London Fields and Broadway Market.\n\nPLEASE NOTE: The property is currently offered unfurnished. The furniture shown in the photos do not come with the property.\n\nComprising a bright and spacious living and entertaining space, bespoke fitted kitchen and dining room, 2 double bedrooms, both with built in storage, family bathroom. The property has the added advantage of a small private courtyard/terrace that is accessed from one of the bedrooms.\n\nArea:\n\nThe property is located on the corner of a quiet walkway and a no through road set back behind Mare Street. It is ideally located for all the shops, restaurants, bars and amenities the area has to offer including nearby London Fields and Broadway Market.\n\nHackney Central Station is within 0.1 miles with Hackney Downs and London Fields Stations both under 0.5 miles. A number of well connected bus routes runs from nearby Mare Street, Graham Road and Morning Lane.\n\nEPC Rating: C",
+ "keyFeatures": [
+  "Available from 9th October",
+  "Basement flat",
+  "Unfurnished",
+  "2 bedrooms",
+  "1 bathroom",
+  "Small private courtyard",
+  "Moments from Hackney Central Station"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f1c13d2a6/92400645/f1c13d2a6d00d9550413b44fecbe67b5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5d41ad515/92400645/5d41ad515199d774b6d4f3d4cd7456bd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0095609c8/92400645/0095609c8cd542bd84fd864e064bc1e5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4b0c99c2c/92400645/4b0c99c2c9d0adca94fa0f81b1699c3f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3ba4969f7/92400645/3ba4969f77565e88cbdfd7e516cebae9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3d0ac5d80/92400645/3d0ac5d80ffc55aab360843f3c3ea336.jpeg",
+  "https://media.rightmove.co.uk/property-photo/09e9a95b7/92400645/09e9a95b7054e951c6076509f064195b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/79e3d5559/92400645/79e3d55595be5a1eba97a78947cfe06a.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Hackney Central Station",
+   "miles": 0.04538407833091577,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Hackney Downs Station",
+   "miles": 0.23795688054907244,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "London Fields Station",
+   "miles": 0.4062192094182918,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Easthaus, London",
+ "city": "London",
+ "sourceOutcode": "E8",
+ "scrapedAt": "2026-08-30T10:13:20.252Z"
+}

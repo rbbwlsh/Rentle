@@ -1,0 +1,76 @@
+{
+ "id": "91729962",
+ "displayAddress": "Southside",
+ "outcode": "B5",
+ "incode": "4TL",
+ "latitude": 52.47369,
+ "longitude": -1.89749,
+ "priceAmount": 825,
+ "priceLabel": "£825 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91729962",
+ "area": "Southside",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "29/09/2026",
+  "deposit": 1030,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "** Zero Deposit Guarantee Available **\nA bright and spacious 1 bedroom apartment in the popular Southside development next door to the Hippodrome  theatre. \nThis apartment is professionally furnished throughout with a fully fitted kitchen and bathroom. \nWith secure access and basement parking the apartment is located in the very heart of the City Centre with its  many attractions. \n\nCouncil Tax Band C\nHolding deposit £206 Council Tax Band:  Holding Deposit: £206.00",
+ "keyFeatures": [
+  "Available September",
+  "One bedroom apartment",
+  "Secure Allocated Parking",
+  "Designer Kitchen and Bathroom",
+  "Concierge Service",
+  "Close to New Street Station",
+  "Viewing advised"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a29b94af6/91729962/a29b94af6c0633de7cbca6f936927dec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4256b38b4/91729962/4256b38b42759ef00cb7aad9b6b4aa2a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3e9f91f32/91729962/3e9f91f3298a2637b06a2c88c0deb0dc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2110cb9a5/91729962/2110cb9a54bb8cff94e5e681ae13d015.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fca9ec45b/91729962/fca9ec45b34bd77a860b879485cd134d.jpeg"
+ ],
+ "imageCount": 5,
+ "nearestStations": [
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 0.28612309899972677,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Moor Street Station",
+   "miles": 0.42882854000920656,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Snow Hill Station",
+   "miles": 0.6439641251711744,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Accord Lets, Birmingham",
+ "city": "Birmingham",
+ "sourceOutcode": "B5",
+ "scrapedAt": "2026-08-30T10:20:06.211Z"
+}

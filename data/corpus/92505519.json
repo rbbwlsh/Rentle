@@ -1,0 +1,79 @@
+{
+ "id": "92505519",
+ "displayAddress": "Springfield House Lofts, Dalston London E8",
+ "outcode": "E8",
+ "incode": "2LY",
+ "latitude": 51.54688,
+ "longitude": -0.07251,
+ "priceAmount": 2925,
+ "priceLabel": "£2,925 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92505519",
+ "area": "Springfield House Lofts",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 731,
+  "sizeSqM": 68,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": 731,
+ "sizeSqM": 68,
+ "description": "A secure gated development, in the heart of vibrant Dalston with excellent amenities on the doorstep. Springfield House Lofts is a beautifully restored warehouse conversion with studio, 1, 2 & 3 bedroom apartments with modern interiors. There is also an onsite management team.\n\nA beautiful large two bedroom live work apartment in this converted Warehouse | Recently refurbished | Located in the heart of Dalston | Parking available via separate negotiation | Rent from the UK's largest residential landlords Grainger PLC",
+ "keyFeatures": [
+  "Flexible long term tenancies",
+  "Professional landlord service",
+  "Warehouse Conversion",
+  "Exposed Brickwork",
+  "Onsite resident services manager"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f39b2e572/92505519/f39b2e5723ff5460c08342451180fa83.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b3dfd7a49/92505519/b3dfd7a49fc81a0cc6d05efbf5683071.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2d3709db5/92505519/2d3709db55acb8814f3da90566e0465e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/973edd149/92505519/973edd149b5306c498c325f56815e244.jpeg",
+  "https://media.rightmove.co.uk/property-photo/39ebce278/92505519/39ebce27853905b5192d12722e86f61d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7de5fdd7d/92505519/7de5fdd7d1732c3d4866a3df6ab91b6c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/09aeb5142/92505519/09aeb5142cf743f6467eadc65a52dfc2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/02c0b3957/92505519/02c0b3957f87cbfc4342232d46258ce5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/57faf9f93/92505519/57faf9f933e3e21ae377f9725085bee7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1fbf56073/92505519/1fbf5607313f6b145fbbebc2e6e411f2.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Dalston Junction Station",
+   "miles": 0.13047610480713664,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Dalston Kingsland Station",
+   "miles": 0.18612227825405778,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Hackney Downs Station",
+   "miles": 0.540146832317759,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Grainger, South",
+ "city": "London",
+ "sourceOutcode": "E8",
+ "scrapedAt": "2026-08-30T10:13:00.477Z"
+}

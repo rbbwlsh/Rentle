@@ -1,0 +1,89 @@
+{
+ "id": "92537538",
+ "displayAddress": "Leinster Gardens, London, W2",
+ "outcode": "W2",
+ "incode": "6DR",
+ "latitude": 51.514195,
+ "longitude": -0.183583,
+ "priceAmount": 4499,
+ "priceLabel": "£4,499 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92537538",
+ "area": "London",
+ "bedrooms": 4,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 4,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "14/09/2026",
+  "deposit": 4800,
+  "minimumTermMonths": null,
+  "councilTaxBand": "D"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "LOVELY SPACIOUS 4 double bedroom flat\n\nIn a secure and quiet residential block on 7th floor.\n\nFour Double bedrooms. No Living Room.\n\nAll rooms have large south facing double glazed windows which allow plenty of light.\n\nThe whole property is newly decorated in neutral colours.\n\nGood sized Kitchen with fitted appliances, tall frost free fridge freezer, washing machine and gas cooker. Fully tiled Bathroom with thermostatic shower mixer.\n\nLovely well maintained communal gardens.\n\nA very comfortable flat close to all shops and amenities of Queensway and Bayswater.\n\nHyde Park is nearby.\n\nThere are several major Supermarkets located close-by, Waitrose, Marks and Spencer, Tesco Express and Sainsbury.\n\nThere are also a wide variety of restaurants serving all kinds of food (like Chinese, Lebanese, Indian, Italian or Japanese).\n\nBayswater is also the home of Whitely Shopping Centre - a cosy little mall that houses brands like Zara, H&M and the Odeon Cinema. There is also a gym, a spa and a library nearby.\n\nImperial College students can walk across the park, and LSE students can get one train straight into LSE within minutes (via Queensway on the Central Line). UCL is 20 mins by bus or tube.\n\nTubes: Near Paddington, Queensway and Bayswater and Royal Oak tube stations.\n\nBuses: Many direct buses to various Universities - 23 to the Strand (stops in front to Kings College London and LSE) and the 27 to UCL, 70 to Imperial.\n\nBus 23 to Liverpool Street, 94 to Piccadilly circus/ Leicester Square, 27 to Camden and 390 to Notting Hill Gate.\n\nStrictly Non smoking flat.\n\nPOSTGRADUATES AND PROFESSIONALS WELCOME\n\nThis property is managed via the Hybr platform. By submitting an enquiry, you acknowledge and consent to your information being shared with Hybr for the purpose of processing and responding to your enquiry.\n\n If you have any questions get in touch with our team by pressing the call button on Rightmove and when asked for a property reference code, put in 67245335",
+ "keyFeatures": [
+  "Furnished",
+  "Secure And Quiet Residential Block",
+  "Double Glazed Windows",
+  "Newly Decorated",
+  "Communal Gardens",
+  "Close To Hyde Park",
+  "Excellent Transport Links",
+  "Available from 14 September 2026"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d80f79994/92537538/d80f79994aa8fb5d98fb7f0ac70602bc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a591c2e5c/92537538/a591c2e5c29986b09d34b4c3675e0cf9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b63b0c6ba/92537538/b63b0c6ba8e09f92b9690640f7010551.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4316686aa/92537538/4316686aaa1691ce00e68e0bba802d4e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/77b5fb7c0/92537538/77b5fb7c0b8b1399a805f399a0ebdb7b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f0def2275/92537538/f0def2275a07d0a7968882f93e4d5b8f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aaca17e07/92537538/aaca17e070155727f7429f3b232e38bf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9a1ae3524/92537538/9a1ae35248118966de2a277bec75b99c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9c095bb6d/92537538/9c095bb6d2858cf2796df8c71d2d8777.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9c095bb6d/92537538/9c095bb6d2858cf2796df8c71d2d8777.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dc7454d70/92537538/dc7454d7087e7f75973d7450a17cdcb6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b319c35c7/92537538/b319c35c736c8bf5422aeb3fb7dd41a8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3f3ca6b61/92537538/3f3ca6b61c47557bea886529b175d0ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/226713d44/92537538/226713d441c0177fb6fca33495bf26e8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0e2c0ff2b/92537538/0e2c0ff2b5c5ccac5f75bfac47738a21.jpeg",
+  "https://media.rightmove.co.uk/property-photo/299121b08/92537538/299121b082c1d1458bbd5d85597ab3a3.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Bayswater Station",
+   "miles": 0.23872300165481228,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Queensway Station",
+   "miles": 0.3102448924714289,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Paddington Station",
+   "miles": 0.3545409327748334,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "HYBR, West London",
+ "city": "London",
+ "sourceOutcode": "W2",
+ "scrapedAt": "2026-08-30T10:16:02.039Z"
+}

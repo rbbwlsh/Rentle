@@ -1,0 +1,99 @@
+{
+ "id": "92472420",
+ "displayAddress": "City Centre, Taylors Bank, BS1 2ER",
+ "outcode": "BS1",
+ "incode": "2ER",
+ "latitude": 51.455712,
+ "longitude": -2.594137,
+ "priceAmount": 1200,
+ "priceLabel": "£1,200 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92472420",
+ "area": "City Centre, Taylors Bank",
+ "bedrooms": null,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": null,
+  "bathrooms": 1,
+  "sizeSqFt": 388,
+  "sizeSqM": 36,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "08/10/2026",
+  "deposit": 1384,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": 388,
+ "sizeSqM": 36,
+ "description": "Studio Apartment | Excellent Transport Links | Furnished | City Centre Location | Single Occupant Only |\n\nLarge furnished studio apartment in a Georgian building on Broad Street. Offering a good size open plan living room & kitchen area along with a separate shower room. This property is in a fantastic central location with plenty of local amenities and fantastic transport links. This property also benefits from secure bike storage. Please note that this property is available for a solo occupant only and that there is no parking available.\n\nCouncil Tax Band: B | Holding Deposit: £276.92 | Security Deposit: £1384\n\nEPC Rating: E",
+ "keyFeatures": [
+  "Secure Bike Storage",
+  "Beautiful Period Building",
+  "Very Central Location",
+  "Moments From City Centre/Cabot Circus",
+  "Available for a single person only",
+  "Spacious Apartment",
+  "Local Amenities On Your Doorstep",
+  "Ground Floor Apartment",
+  "VIDEO TOUR AVAILABLE",
+  "Walking distance to shops, cafes, restaurants &amp; bars"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d42f2b800/92472420/d42f2b800e1a4647c27ee2fe017d25bc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f7042d6af/92472420/f7042d6afa23205445be3de0bd920659.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4aced8049/92472420/4aced80494390c1f9961e4de7ba11909.jpeg",
+  "https://media.rightmove.co.uk/property-photo/90bd296f3/92472420/90bd296f362b80dd569efa71c1107d6b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5b69d0736/92472420/5b69d0736e8d6fa55ee3b8a3b36a1870.jpeg",
+  "https://media.rightmove.co.uk/property-photo/07b46904a/92472420/07b46904aa88cbb7df3e9669a9a27401.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f0df69d99/92472420/f0df69d997d0d9e668a7b239a9a9f00b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fa8aefbff/92472420/fa8aefbff1d5fbef823b9be1a37d6b75.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee753d05c/92472420/ee753d05c9780edbfea196085e4877d9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b2fe8c52b/92472420/b2fe8c52bdd83b10846fec9779f271b6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/30b1400dd/92472420/30b1400dd83f6c6f4239816c8e20e699.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b8a14f0ae/92472420/b8a14f0aec69106b4ed5b20a360da052.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cefa62c68/92472420/cefa62c684049880d3c5745d2a09e9fc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/06eada6ae/92472420/06eada6ae18a1a1b55e3c2130c90e6ef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/16585b5d1/92472420/16585b5d1af79c50e22bae05c7956ca3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a691258cc/92472420/a691258cc3d1d996a8ecc40bec56b1fb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9d1033dea/92472420/9d1033dead35a6edb557be33f67c7366.jpeg",
+  "https://media.rightmove.co.uk/property-photo/69ff7eb00/92472420/69ff7eb00f7038a2ea279bba92f309b3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ac145287d/92472420/ac145287dfbe3352be391623a9ce4cd0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5fd8af079/92472420/5fd8af07988627556a2b37ba54df733a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/427500f12/92472420/427500f12a5165367ceeb1c0c8aecd18.jpeg",
+  "https://media.rightmove.co.uk/property-photo/905779349/92472420/9057793492ce8892a7bc40e0c28724f3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f1760b067/92472420/f1760b067dae618651c1694a0fa7ae89.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6b045b9c2/92472420/6b045b9c21ea053e6bbcfaaa8dd6ffe1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a359ef99d/92472420/a359ef99dd7bc4828d37138f63df4b26.jpeg"
+ ],
+ "imageCount": 25,
+ "nearestStations": [
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 0.7156496889961478,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.899055330563067,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Montpelier Station",
+   "miles": 0.9042127612517455,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "The Bristol Residential Letting Co, Clifton",
+ "city": "Bristol",
+ "sourceOutcode": "BS1",
+ "scrapedAt": "2026-08-30T10:22:03.711Z"
+}

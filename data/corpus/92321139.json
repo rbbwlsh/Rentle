@@ -1,0 +1,87 @@
+{
+ "id": "92321139",
+ "displayAddress": "1497L Belhaven Place, Edinburgh, EH10 5JN",
+ "outcode": "EH10",
+ "incode": "5JN",
+ "latitude": 55.92474,
+ "longitude": -3.21182,
+ "priceAmount": 1150,
+ "priceLabel": "£1,150 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92321139",
+ "area": "Edinburgh",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "15/09/2026",
+  "deposit": 1150,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "REF: 1497L: BELHAVEN PLACE\r\n\r\n \r\n\r\nDesirable, 1 bedroom, ground floor flat located on Belhaven Place, in the Morningside area of the City. The property is a two minute walk to Morningside Road, which boasts a number of local amenities such as shops, cafes and bars. The property is within walking distance to Blackford Hill and the Braid Hills and has good transport links into and around the City. Napier University is also easily accessible.\r\n\r\n \r\n\r\nThe property is due to have fresh décor in the hallway, lounge and bedroom and new carpets in the hallway. It is available FURNISHED and comprises:\r\n\r\n~Bright and desirable lounge with laminate flooring and neutral décor\r\n\r\n~Modern kitchen with integrated appliances and excellent storage space\r\n\r\n~Spacious double bedroom (off-lounge) with laminate flooring and two generous storage cupboards\r\n\r\n~Stylish bathroom suite including shower over bath and tiled splashback\r\n\r\n~Entrance hallway with carpeted flooring\r\n\r\n~Communal garden access\r\n\r\n~Private parking space\r\n\r\n~Factoring service\r\n\r\n~High performance glazing\r\n\r\n~Gas heating\r\n\r\n~Secure entry\r\n\r\n~Sorry, no pets\r\n\r\n~Total floor area = 46m²\r\n\r\n~Council tax: band C\r\n\r\n~EPC rating: C\r\n\r\n~Landlord registration: 103036/230/11380\r\n\r\n~LARN1806025\r\n\r\n \r\n\r\nAvailable: 15th September 2026\r\n\r\n \r\n\r\nRent: £1,150pcm\r\n\r\nDeposit: £1,150\r\n\r\n \r\n\r\nPlease note the photographs shown within this advertisement may have been taken whilst a tenancy was active in the property and as a result you should not rely only on these as an accurate representation of furnishings and items included in the agreement. A full list of which items are included in the property is available upon request from our office, based on a previous tenancy. A viewing is therefore required in order to ensure you have an accurate understanding and knowledge of the condition and contents of the property.\r\n\r\n \r\n\r\nProperty Reference:\r\n\r\n1497L EDI BP",
+ "keyFeatures": [
+  "Communal Garden",
+  "Private Parking Space",
+  "Factoring Service",
+  "High Performance Glazing",
+  "Gas Heating",
+  "Secure Entry",
+  "White Goods"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/294bd3020/92321139/294bd30201a5155eeb274f2575ca0744.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ef276010f/92321139/ef276010fa3e4b5a5ceed5bbcc9b3ce6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4911109ed/92321139/4911109edc269f25600bc144bc3bc074.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bff9e3295/92321139/bff9e3295965dc70f3fa6792a5afa012.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7e0dcfbc9/92321139/7e0dcfbc97e6939c13005218d1b9b45e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/be247420c/92321139/be247420c2c5cc55fec6628d2ff32c6f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0ae746571/92321139/0ae746571b1bff82260e78fab1c0e737.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8b709a8c6/92321139/8b709a8c68900bf0f3191b4c4c9a7085.jpeg",
+  "https://media.rightmove.co.uk/property-photo/69c264f49/92321139/69c264f498a6c7639f8628d0f5feeb51.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e2919467f/92321139/e2919467f11df59cd9ecc75b103bbb34.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bea7078cd/92321139/bea7078cdaf2124b63b426794ffa60ae.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cd1e3f8cf/92321139/cd1e3f8cfc50b9eb9a3ffb2429a893a2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/189c855e4/92321139/189c855e48eefc89f618d52b5d8ee2b4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0ca015cc9/92321139/0ca015cc9840e5bbc8b232bf7e76179e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/92e129273/92321139/92e129273b1563473f13069cec7d778d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/42d07012c/92321139/42d07012cef4005a8bebe8d23221f744.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Slateford Station",
+   "miles": 1.2356028146689693,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.4477077630186892,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 2.072115828258625,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "SouthSide Property Management, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH10",
+ "scrapedAt": "2026-08-30T11:04:20.646Z"
+}

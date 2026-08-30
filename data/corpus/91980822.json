@@ -1,0 +1,91 @@
+{
+ "id": "91980822",
+ "displayAddress": "Wilmslow Road (445a), Withington, Manchester",
+ "outcode": "M20",
+ "incode": "4AN",
+ "latitude": 53.434474,
+ "longitude": -2.227727,
+ "priceAmount": 1800,
+ "priceLabel": "£1,800 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91980822",
+ "area": "Withington, Manchester",
+ "bedrooms": 4,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 2076,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "*** AVAILABLE SEPTEMBER *** INTERNET INCLUDED *** NO DEPOSIT OPTION AVAILABLE *** BILLS PACKAGE AVAILABLE *** Located in the heart of Withington Village on Wilmslow Road this four double bedroom apartment is perfectly positioned for bus routes, bars and shops. The property benefits from an open plan living area, separate games/spare room, modern fitted kitchen, four large double bedrooms, two shower rooms and two separate W/Cs. Each bedroom is fully furnished with a double bed, wardrobe, desk and chest of drawers. Viewings highly recommended! No Deposit Option Available. Nearby street parking only. Available to students and professionals. Contact our Didsbury office to arrange a viewing \n\nEPC Rating - D // Council Tax Band B\n\n*** AVAILABLE 1st SEPTEMBER 2026 *** INTERNET INCLUDED *** NO DEPOSIT OPTION AVAILABLE *** BILLS PACKAGE AVAILABLE *** Located in the heart of Withington Village on Wilmslow Road this four double bedroom apartment is perfectly positioned for bus routes, bars and shops. Move in date is flexible. Please call our Didsbury office to organise a viewing.\n\nEPC - D / Council Tax B.",
+ "keyFeatures": [
+  "Available September 2026",
+  "Four Double Bedrooms",
+  "Two Bathrooms",
+  "Suitable For Students &amp; Professionals",
+  "No Deposit Option Available",
+  "Internet Included",
+  "Flexible Move In Date",
+  "Council Tax Band B",
+  "EPC Rating D"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d93655d7f/91980822/d93655d7f57fca0381d474de1ad6bd16.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3027e457c/91980822/3027e457c6ffaf1f25d48255d62d28c0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/679d93b45/91980822/679d93b45f3dd156ca27cb04e4b4a83a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/74cd2110e/91980822/74cd2110ef99f6b9fbbcd0144ab77881.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7b2e947fa/91980822/7b2e947fa4868d1b405efc1af60d7141.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fe6299d54/91980822/fe6299d546e71e17869e8bafdda9eb77.jpeg",
+  "https://media.rightmove.co.uk/property-photo/49b32735e/91980822/49b32735ebe3c62af33519ec9e3a3125.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6cc26af3d/91980822/6cc26af3df6dcfe5e2ea47e1e3edcda0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/262eecc26/91980822/262eecc263c08e8fe36987a75634e32f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0bfdcb348/91980822/0bfdcb3483c3c9db089b55905e5ace98.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ea6f9d204/91980822/ea6f9d204ed65d647823491e2f78ae9c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c4ca66d68/91980822/c4ca66d685e3b380d42f9cf05deb4b67.jpeg",
+  "https://media.rightmove.co.uk/property-photo/426579e62/91980822/426579e6287539d594774e7cb0c4f4a9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b811894e2/91980822/b811894e2a816d7bb829e4e8e0053341.jpeg",
+  "https://media.rightmove.co.uk/property-photo/daf2c0d00/91980822/daf2c0d0070d49892af225988df95c35.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b1c272b8e/91980822/b1c272b8eb7f8babe51418554f2e3688.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f0790e23b/91980822/f0790e23b600da91a40ec5d6beb8c14b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0b09b2a86/91980822/0b09b2a86a73e037c64b56c4c84eddc0.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 0.6475643057454613,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 0.7702927019445266,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Mauldeth Road Station",
+   "miles": 0.7796196132995767,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Jordan Fishwick, Didsbury",
+ "city": "Manchester",
+ "sourceOutcode": "M20",
+ "scrapedAt": "2026-08-30T10:18:52.164Z"
+}

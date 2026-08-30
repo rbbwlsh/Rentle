@@ -1,0 +1,81 @@
+{
+ "id": "92297220",
+ "displayAddress": "Dickenson Road, Manchester",
+ "outcode": "M14",
+ "incode": "5HZ",
+ "latitude": 53.453796,
+ "longitude": -2.21292,
+ "priceAmount": 1096,
+ "priceLabel": "£1,096 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92297220",
+ "area": "Manchester",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 800,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "£253 - Rent per week for whole flat.  AVAILABLE 1ST SEPTEMBER 2026\n\nTHE FLAT:\nStunning loft-style apartment with high ceilings and plenty of natural light.\n\nNewly renovated kitchen (2022) featuring modern appliances and ample storage space.\n\nSpacious, separate living room with beautiful skylight windows, creating a bright and relaxed atmosphere.\n\n1 large double bedroom, fully furnished. \n\nModern bathroom with both bath and shower.\n\nEnjoy beautiful views of Birchfields Park from your windows.\n\nSecure gated parking and bike storage for your convenience.\n\nTHE LOCATION:\nJust a 15-minute walk to Fallowfield Campus.\n\nClose to Wilmslow and Oxford Road with pubs, bars, restaurants, and shops nearby!\n\nExcellent bus routes providing quick access to the University and City Centre.\n\nDirectly opposite the stunning Birchfields Park.\n\n VIEW NOW! Call our office or email us to book a viewing today.\n\nRef: 145DRF5",
+ "keyFeatures": [
+  "Modern Top Floor Flat Fully Furnished with Double Bedroom",
+  "Bright and Spacious Kitchen and Living Room with Sky Light Windows.",
+  "Off-Street Secure Gated Parking and Bike Storage",
+  "Convenient Location for Universities, Central Fallowfield and the City Centre",
+  "Excellent Transportation Links"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/9ca06013b/92297220/9ca06013be2940a041915479d09d9d39.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fbe072540/92297220/fbe07254065b2219ab63e1621e8d9128.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1c15e641a/92297220/1c15e641a1c405e05553bf52ff607113.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8c7000a61/92297220/8c7000a61706de2ead1f7349824c7240.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ab13278c/92297220/8ab13278c707da2f85d029e855bacfc9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e7dd727b8/92297220/e7dd727b80cabb0e6bccd7af098ff3b1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4c667465f/92297220/4c667465f465a7471ee410ad13351f75.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f8f756fb0/92297220/f8f756fb093f2c292f238c7144ed4e64.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d4be48ac8/92297220/d4be48ac8283dba3d8fd11f99948fb55.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e7e4fe136/92297220/e7e4fe136d52a67e2f19c84a32155345.jpeg",
+  "https://media.rightmove.co.uk/property-photo/21576bb93/92297220/21576bb9375e84ef1c5a18e9af3940b8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8cd560fed/92297220/8cd560fed565af7c0f9fe208361efa73.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Levenshulme Station",
+   "miles": 1.053727919485714,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Ardwick Station",
+   "miles": 1.194878606341452,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Mauldeth Road Station",
+   "miles": 1.3883435309117709,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Crossway Estates, Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M14",
+ "scrapedAt": "2026-08-30T10:17:55.590Z"
+}

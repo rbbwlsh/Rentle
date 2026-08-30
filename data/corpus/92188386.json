@@ -1,0 +1,81 @@
+{
+ "id": "92188386",
+ "displayAddress": "Cliff Road Gardens, Hyde Park, Leeds, West Yorkshire, LS6",
+ "outcode": "LS6",
+ "incode": "2EY",
+ "latitude": 53.819189,
+ "longitude": -1.56117,
+ "priceAmount": 1794,
+ "priceLabel": "£1,794 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92188386",
+ "area": "Leeds, West Yorkshire",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Short term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "21/09/2026",
+  "deposit": 900,
+  "minimumTermMonths": 12,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "***£138PW INC BILLS*** ALL INCLUSIVE BILLS! UNCAPPED GAS AND ELECTRIC, SUPERFAST 350MBPS BROADBAND, TV LICENSE, WATER, CONTENTS INSURANCE, GARDENING AND MORE!  Got the keys to your castle? Well this is your chance! This recently refurbished three bedroom apartment has two bathrooms and this character property overlooks beautiful woodland scenery, tucked away just behind Hyde Park Corner!\n\n\rWe are proud to present this STUNNING three bedroom recently refurbished apartment. \n\nThe flat, which is located a stones throw behind Hyde Park Corner, is not one to be missed.\n\nBoasting a large living space with separate lounge and a modern Scandi styled interior as well as a luxury high gloss kitchen with fitted appliances and dining area. There are three spacious double bedrooms with fitted walk in wardrobes, feature walls and contemporary furniture and furnishings. There's lots of storage space, wide hallways and a bright modern feel throughout. The flat also boasts two fully tiled bathrooms, one a walk in shower and the other a bath with over the bath shower; both are smart and stylish.\n\nThe character building overlooks beautiful woodland scenery and has a large communal garden to the rear of the property and off street parking available to the front. \n\nThe property is located just a short walk from the city campuses and the open spaces of Hyde Park, and has plenty of amenities on the doorstop.\n\nPlease note that this property is situated on a quiet residential street with neighbours in close proximity; it is therefore suitable for groups looking for a quieter location.\n\nOur Bills Packages as Standard; \n\nThis property comes with an all inclusive bills and service package; we`ll set up everything up for you and you won`t have to worry about a thing. Our gas and electric is UNCAPPED, our broadband is superfast 350mbps* and our friendly team is on hand to help with any queries you have.  Our bills included packages are designed to provide you with the best products whilst taking the hassle out of arranging and managing bills including all admin, readings and installations taken care of on your behalf.\n\n*Please note our standard packages are available on almost all of our properties. Some individual properties may vary slightly. Any variations will be detailed during the application process.",
+ "keyFeatures": [
+  "***£138PW INC BILLS***",
+  "- Superfast Broadband &amp; Green Energy",
+  "- Recently Refurbished",
+  "- Close To Uni",
+  "- Double Bedrooms",
+  "- Live In A \"Castle\" !!",
+  "- Stylish Interior",
+  "- Off Road Parking",
+  "- Close To Shops",
+  "- Close To Public Transport"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c13bf8833/92188386/c13bf88337a1cc82337a45e8ad549652.jpeg",
+  "https://media.rightmove.co.uk/property-photo/17fc718d8/92188386/17fc718d8c8ba3614396c9eba23cad0e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bef730f7d/92188386/bef730f7d44a5f190ac3fbdbabaec201.jpeg",
+  "https://media.rightmove.co.uk/property-photo/719189083/92188386/719189083b8cece7a423feb0c5bebc91.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0a2733701/92188386/0a27337014aa3f8adbd9af71da991cab.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dc80fdef4/92188386/dc80fdef445e55b99048363fdb77d61c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d40c54fc/92188386/6d40c54fc5d2df883194f9a383bfb1a3.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Burley Park Station",
+   "miles": 0.8528079579771425,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 1.3509543147490435,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Leeds Station",
+   "miles": 1.83546643380906,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Linley & Simpson Students, Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS6",
+ "scrapedAt": "2026-08-30T10:24:35.958Z"
+}

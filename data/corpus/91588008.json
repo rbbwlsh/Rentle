@@ -1,0 +1,88 @@
+{
+ "id": "91588008",
+ "displayAddress": "Blue Moon Way, Manchester",
+ "outcode": "M14",
+ "incode": "7GR",
+ "latitude": 53.451221,
+ "longitude": -2.232949,
+ "priceAmount": 2200,
+ "priceLabel": "£2,200 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91588008",
+ "area": "Manchester",
+ "bedrooms": 4,
+ "bathrooms": 3,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "sizeSqFt": 1206,
+  "sizeSqM": 112,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 2200,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": 1206,
+ "sizeSqM": 112,
+ "description": "**Zero Deposit option available**\n\nAvailable in August\n\nLocation: Close to the universities, shops, and public transport\nRooms: 4 spacious bedrooms\nDeposit: Zero deposit option available\nBathrooms: 3 bathrooms\n\nProperty Features:\n\nFully furnished with a bed, desk, wardrobe, and chair\n\nHigh-speed Wi-Fi, ideal for studying and streaming\n\nSpacious shared kitchen with modern appliances\n\nWelcoming environment for international students\n\nQuiet and student-friendly area\n\nIdeal for professionals and students.\n\nMove-in from August – perfect for the new academic year.",
+ "keyFeatures": [
+  "4 spacious bedrooms",
+  "3 modern bathrooms",
+  "Terraced house design",
+  "Built in 2016",
+  "Fully furnished rooms",
+  "High-speed Wi-Fi included",
+  "Zero deposit option",
+  "Close to universities",
+  "Easy transport access",
+  "Viewing recommended"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/20b44972c/91588008/20b44972c66f7703518fd736e54dcddd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c139d90d8/91588008/c139d90d8201bbf23996af3fc8d18cf3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8e1584aea/91588008/8e1584aea12f4a14d75047eef27c1dec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/864a1c123/91588008/864a1c1230e0eb981b081a5e1484f969.jpeg",
+  "https://media.rightmove.co.uk/property-photo/20b44972c/91588008/20b44972c66f7703518fd736e54dcddd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/44cc7d01d/91588008/44cc7d01d476f47f9fae47a1ebef35f0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2e0b94a55/91588008/2e0b94a5598b362f9ede90aa5374c8a0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c4dfd0d6d/91588008/c4dfd0d6d948fd6a749803e36e4586cc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b9c07a789/91588008/b9c07a7890439e808835a628f3a0f9ea.jpeg",
+  "https://media.rightmove.co.uk/property-photo/50eff2596/91588008/50eff25965e1163405e97b19b058d38a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ef3dcb09/91588008/8ef3dcb098d6d6d03d359d29679163f3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f82a774f/91588008/5f82a774fe2aa0b4cbb6c12e59287c6e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/11e0ca498/91588008/11e0ca4982afae7537e18e6ebbf4606a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c7813325f/91588008/c7813325f96dc355c48fe5ec70162904.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Withington Tram Stop",
+   "miles": 1.445832358839937,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 1.55977146786415,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "St Werburgh's Road Station",
+   "miles": 1.5990682214157506,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Open House Estate Agents, Nationwide",
+ "city": "Manchester",
+ "sourceOutcode": "M14",
+ "scrapedAt": "2026-08-30T10:18:05.552Z"
+}

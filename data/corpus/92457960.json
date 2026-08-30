@@ -1,0 +1,86 @@
+{
+ "id": "92457960",
+ "displayAddress": "Abberton Road, Didsbury, Manchester, M20",
+ "outcode": "M20",
+ "incode": "1HQ",
+ "latitude": 53.43031,
+ "longitude": -2.23987,
+ "priceAmount": 685,
+ "priceLabel": "£685 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92457960",
+ "area": "Didsbury, Manchester",
+ "bedrooms": 1,
+ "bathrooms": null,
+ "propertySubType": "House Share",
+ "details": {
+  "propertyType": "House Share",
+  "bedrooms": 1,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 790,
+  "minimumTermMonths": null,
+  "councilTaxBand": "G"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "All Bills Included! A room available in Modern 10-Bedroom Detached House – Exceptional Quality & Space\n\nThis spacious detached house offers modern living to an exceptional standard, ideal for those who value comfort, quality and plenty of space. The property is conveniently located just a 3-minute walk from the village and local shops, with a bus stop only 1 minute away providing easy access to the City Centre. New Burton Metrolink station is also just 2 minutes away, offering excellent city-wide transport links. \n\nThe rent includes gas, electricity, water, internet and council tax; however, the TV licence is not included. The property also benefits from large, low-maintenance front and rear gardens with a gated entrance and spacious patio area, perfect for BBQs and outdoor entertaining. Off-road and on-road parking are also available. \n\nViewings are highly recommended, and the room is available now!\n EPC rating: B.",
+ "keyFeatures": [
+  "All Bills included: Gas, water, electricity &amp; Internet",
+  "Large furnished double bedroom",
+  "Solar panels fitted",
+  "3 bath/shower rooms",
+  "2 fully-equipped kitchens with storage &amp; dishwashers",
+  "Separate utility room with washing machine &amp; dryer",
+  "All rooms broadband-ready (Ethernet ports &amp; Freeview aerial sockets)",
+  "Dual-boiler gas central heating for a warm, energy-efficient home"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/6a9280049/92457960/6a928004923c2196ff466b45390c7a1c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2fe41af02/92457960/2fe41af0208a4d54973d42461304f107.jpeg",
+  "https://media.rightmove.co.uk/property-photo/48dea54db/92457960/48dea54db63a3ee273002721ac351a58.jpeg",
+  "https://media.rightmove.co.uk/property-photo/62d362030/92457960/62d3620307c8b4a1d677d30056217f89.jpeg",
+  "https://media.rightmove.co.uk/property-photo/15ff0b370/92457960/15ff0b370ccf19116ce8213bcfc04742.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9b56d5a0e/92457960/9b56d5a0eb15e608b875e3c69b901852.jpeg",
+  "https://media.rightmove.co.uk/property-photo/82d46b45a/92457960/82d46b45a220c4e5ca1ca0188c46b32f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6f0150b73/92457960/6f0150b7341e474aa8747186762ccc65.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0db1b8a9c/92457960/0db1b8a9c8137c67cd06d2250df1e47f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9dccb77c6/92457960/9dccb77c6ce24fad21d5ba5db99c732d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e98271a25/92457960/e98271a259d08439b782633a8ca6d42b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ed76b8bbe/92457960/ed76b8bbeeb0a30af6c9e780b5042b7a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2de644e13/92457960/2de644e1308b6fdead2b6a3c5fe2beb3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/562e3b2ae/92457960/562e3b2ae1453b40068e53af840cfe00.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 0.0865099978850077,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Withington Tram Stop",
+   "miles": 0.4200229738318975,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 0.4253523999009295,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Belvoir, Manchester Chorlton",
+ "city": "Manchester",
+ "sourceOutcode": "M20",
+ "scrapedAt": "2026-08-30T10:18:50.949Z"
+}

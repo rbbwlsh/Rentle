@@ -1,0 +1,78 @@
+{
+ "id": "92452062",
+ "displayAddress": "Alma Vale Road, Bristol, BS8",
+ "outcode": "BS8",
+ "incode": "2HL",
+ "latitude": 51.46248,
+ "longitude": -2.614189,
+ "priceAmount": 2500,
+ "priceLabel": "£2,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92452062",
+ "area": "Bristol",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": 743,
+  "sizeSqM": 69,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "14/09/2026",
+  "deposit": 576,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": 743,
+ "sizeSqM": 69,
+ "description": "A well-presented three-bedroom apartment set within a smart period-style brick building on Alma Vale Road, in the heart of Clifton. This spacious flat offers a bright, comfortable living space along with a good-sized kitchen/diner, three bedrooms, and a family bathroom.\n\nLocated moments from Whiteladies Road and the vibrant Clifton Village, the property benefits from excellent transport links, a wealth of shops, cafes, restaurants, and green spaces nearby.\n\nEPC Rating: C",
+ "keyFeatures": [
+  "3 Bedrooms",
+  "Spacious Reception Room",
+  "Kitchen/Diner",
+  "Family Bathroom",
+  "Sought-after Clifton location",
+  "£576 Holding Deposit",
+  "Available 14th September 2026"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/b050c7f58/92452062/b050c7f58fdade51441c6aa7eea1d132.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c9106053e/92452062/c9106053e42f2f2fba6e3ffa0e2bcd64.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c10043459/92452062/c1004345912c3d1b9c2bfec24ba33f07.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3088345c9/92452062/3088345c9c5ced78913ddbd2db69737b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/113b21f73/92452062/113b21f731f6e65a25ac30b8b572d8e3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ba17a0566/92452062/ba17a0566ac599a61e1ad8446f7429b5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e54a9eb86/92452062/e54a9eb8691ef6825da54200b3e7ab04.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.19804590886894677,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.7542116595276231,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Montpelier Station",
+   "miles": 1.1708867970678343,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Robin King Estate Agents, Congresbury",
+ "city": "Bristol",
+ "sourceOutcode": "BS8",
+ "scrapedAt": "2026-08-30T11:03:20.531Z"
+}

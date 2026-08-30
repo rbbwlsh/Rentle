@@ -1,0 +1,94 @@
+{
+ "id": "92530983",
+ "displayAddress": "Velvet Court, Granby Row, Piccadilly Village, Manchester, M1",
+ "outcode": "M1",
+ "incode": "7AB",
+ "latitude": 53.475592,
+ "longitude": -2.235752,
+ "priceAmount": 1100,
+ "priceLabel": "£1,100 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92530983",
+ "area": "Piccadilly Village, Manchester",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "04/09/2026",
+  "deposit": 1269,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "DEPOSIT FREE OPTION AVAILABLE | AVAILABLE NOW | FULLY FURNISHED | RESIDENTS GYM & POOL |\n\nVelvet Court located in the heart of Manchester City Centre, situated close to both Oxford Road, Piccadilly Station and the Manchester Universities. This first floor apartment comprises; an entrance hallway, open-plan living room with access to the Juliette balcony, fully fitted kitchen, one double bedroom and bathroom. The property has the added benefit of access to the stunning Granby Village Residents Gym and Swimming pool facilities. EPC Rating C.\n\nRight to Rent in the UK checks will be completed before a tenancy can be granted. All tenants over the age of 18 must provide original relevant identification documents at the point of submitting an application to rent.",
+ "keyFeatures": [
+  "Deposit Free Option Available",
+  "Available Now",
+  "Fully Furnished",
+  "Juliette Balcony",
+  "Open Plan Living Area",
+  "One Double Bedroom",
+  "Spacious Bathroom Suite",
+  "First Floor",
+  "Access To the Communal Gym &amp; Swimming Pool",
+  "Close to Piccadilly Station"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/735b93bcf/92530983/735b93bcf2534646065381567ddab4d7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f5644694/92530983/5f564469497339206d46ff265c982572.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1835b4cdd/92530983/1835b4cddf43bc10571534cfff48f0e0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/21b8db3fc/92530983/21b8db3fcc7f9d381b91312d815b20b4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2151650c7/92530983/2151650c7761543bc13d57c9e03c9098.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e12d8c7d3/92530983/e12d8c7d31458eaa02f124f7956fb070.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f292e14ad/92530983/f292e14ad3df0f47b627c2b3fada4f34.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5fca043b9/92530983/5fca043b92b6d76450866668d113055d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/80c4f4f2a/92530983/80c4f4f2a52f8502f28345684a4d9f9d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/67b559990/92530983/67b5599901d1f71e400a844e28561815.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee53852ba/92530983/ee53852ba677246c17b81f6c62afaee2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d6ad2580e/92530983/d6ad2580ea9bc001a20236fb4026185b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f24418b0/92530983/5f24418b06b6fae75e84b5e928fa3f76.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0c131c584/92530983/0c131c5841cda6ce397dde29166f03f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5415340e5/92530983/5415340e5309eb446a18b84be9f39217.jpeg",
+  "https://media.rightmove.co.uk/property-photo/126d5f0ec/92530983/126d5f0ecbbffdb443b2ac92d5d9af2a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cec2036d3/92530983/cec2036d3ff00005e59e7a3ffd38b510.jpeg",
+  "https://media.rightmove.co.uk/property-photo/35c4c9840/92530983/35c4c98407ed3d64f0a422c1a2e0a183.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ceb369128/92530983/ceb369128182c1a1b7abfeee06dd9a3e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d51622890/92530983/d516228902e0e09a46998a60e7210931.jpeg"
+ ],
+ "imageCount": 20,
+ "nearestStations": [
+  {
+   "name": "Manchester Oxford Road Station",
+   "miles": 0.2917245930147026,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Manchester Piccadilly Station",
+   "miles": 0.25489344738132064,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Piccadilly Gardens Tram Stop",
+   "miles": 0.30867119947175814,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Thornley Groves, Manchester Southern Gateway",
+ "city": "Manchester",
+ "sourceOutcode": "M1",
+ "scrapedAt": "2026-08-30T10:16:53.276Z"
+}

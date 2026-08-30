@@ -1,0 +1,81 @@
+{
+ "id": "91319274",
+ "displayAddress": "Blanchard Way, London, E8",
+ "outcode": "E8",
+ "incode": "3AE",
+ "latitude": 51.543386,
+ "longitude": -0.063484,
+ "priceAmount": 3000,
+ "priceLabel": "£3,000 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91319274",
+ "area": "London",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Maisonette",
+ "details": {
+  "propertyType": "Maisonette",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 845,
+  "sizeSqM": 79,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 3461,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": 845,
+ "sizeSqM": 79,
+ "description": "A bright and spacious two bedroom maisonette set over three floors on a highly sought-after residential road moments from London Fields.\n\nBenefiting from its own private entrance and a secluded garden, the property offers well-balanced accommodation including a generous reception room, fitted kitchen with dining space, two double bedrooms, a family bathroom and an additional cloakroom. The ground floor also features an entrance hall with excellent built-in storage.\n\nIdeally located close to Broadway Market, Wilton Way and London Fields Lido, with a fantastic selection of independent cafés, restaurants, bars and shops nearby. London Fields Overground Station is a short walk away, providing swift access to Liverpool Street, while Hackney Central, Hackney Downs, Dalston and numerous bus routes offer excellent transport connections across London.",
+ "keyFeatures": [
+  "Two double bedroom maisonette",
+  "Arranged over three floors",
+  "Separate kitchen and living room",
+  "Private front patio",
+  "Close to London Fields &amp; Victoria Park",
+  "Excellent transport links and local amenities"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/45a3cd4b4/91319274/45a3cd4b41d03b9e34ce75e3bcd36be5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bfcb50115/91319274/bfcb5011526a2a57b4421fe044239d7e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e040b67da/91319274/e040b67dae5d8f356c4eee96d4f4e9ae.jpeg",
+  "https://media.rightmove.co.uk/property-photo/46b054d87/91319274/46b054d87781313033ad3ebd0a26443d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3b58052ee/91319274/3b58052ee0ec64d008cba253a11b5e8b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c7b763654/91319274/c7b7636548af1e1c08725c2b65e289c9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/02c906250/91319274/02c9062501295938fc76fb94551d7511.jpeg",
+  "https://media.rightmove.co.uk/property-photo/41f0ab1d2/91319274/41f0ab1d290afeed79d8f62337a709c2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/42f70a1de/91319274/42f70a1def502aaee9e32235d7fd455d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c5a2f3191/91319274/c5a2f3191a8027dda74880539f45e08b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b4cac49ca/91319274/b4cac49caf0a9187199e06f910932b73.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "London Fields Station",
+   "miles": 0.31198555297280967,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Hackney Downs Station",
+   "miles": 0.3682767926758638,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Hackney Central Station",
+   "miles": 0.409600199905839,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  }
+ ],
+ "agent": "Keatons, Hackney",
+ "city": "London",
+ "sourceOutcode": "E8",
+ "scrapedAt": "2026-08-30T10:13:10.472Z"
+}

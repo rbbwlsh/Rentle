@@ -1,0 +1,93 @@
+{
+ "id": "92513007",
+ "displayAddress": "The Mercian, Broad Street Birmingham B15",
+ "outcode": "B15",
+ "incode": "1FF",
+ "latitude": 52.4755,
+ "longitude": -1.91324,
+ "priceAmount": 1195,
+ "priceLabel": "£1,195 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92513007",
+ "area": "The Mercian",
+ "bedrooms": null,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": null,
+  "bathrooms": 1,
+  "sizeSqFt": 346,
+  "sizeSqM": 32,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "10/09/2026",
+  "deposit": 1,
+  "minimumTermMonths": 0,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": 346,
+ "sizeSqM": 32,
+ "description": "Moda, The Mercian is a striking 42-storey residential tower in Birmingham, home to 481 thoughtfully designed rental apartments. Residents enjoy an impressive range of premium amenities, including a 24-hour gym, rooftop running track, private cinema, and co-working spaces—all paired with sweeping panoramic views across the city.\n\nEach studio includes a sleek open-plan kitchen with quartz worktops and integrated Samsung appliances. The dining space features a marble-topped table and two chairs, while the living area offers floor-to-ceiling windows, a plush sofa, 50” Samsung 4K TV, and mirrored coffee tables. Bedrooms include ottoman beds with storage, fitted wardrobes, and premium mattresses. Bathrooms offer a spa-like finish with rainfall showers, porcelain tiling, and LED-lit vanity cabinets.                                                                                                                                                                                        *Photographs & floorplans illustrate one apartments layout & finish. Sizes, prices, layouts, and finishes vary. To check broadband and mobile phone coverage please visit Ofcom here ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/ofcom-checker",
+ "keyFeatures": [
+  "24hr Gym/ Studio space with bookable PT",
+  "200m Rooftop Running Track",
+  "Cinema",
+  "Pet Friendly",
+  "Deposit Alternatives Available",
+  "Free 250mbps Wi-Fi ",
+  "Private Dining Room &amp; Co-working Spaces",
+  "Resident Events",
+  "24hr Concierge and on-site maintenance and repairs",
+  "MyModa Residents App"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/eac5b14a3/92513007/eac5b14a31e28abc3e3b45c2cb3c285b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9ee47ee03/92513007/9ee47ee0310fc8a4389bcf77375c909a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a57682416/92513007/a576824166f8284f06c0d60d4d0fd6d9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6148484bf/92513007/6148484bf8e30e0f1ae73b8ab8e338bb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b649011db/92513007/b649011dba2816a0f05270f8b7e1c5f6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0fcadc518/92513007/0fcadc5188982e032ab066ed8cab668a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bf1dd41ff/92513007/bf1dd41ffdad6c2738223878c639c946.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4a66ce8f0/92513007/4a66ce8f00371cca3694c9e296f1272b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e044c1f38/92513007/e044c1f380a681e6841b712af88f7433.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cc14ab8c8/92513007/cc14ab8c840099b3b7608a6c1ea63e47.jpeg",
+  "https://media.rightmove.co.uk/property-photo/09d48a318/92513007/09d48a31837dab6ad562c6190b0e8e83.jpeg",
+  "https://media.rightmove.co.uk/property-photo/20f4b7873/92513007/20f4b7873209615c3f66bc280e57aa20.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1b65394d4/92513007/1b65394d4bbf11dfb3583e6c119b3f1e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f6acad967/92513007/f6acad967c4faeb6ad2dcc25bb8baaa8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cf8890524/92513007/cf889052429eb3e1a6e7c337f7ebd04b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e3180d058/92513007/e3180d058925cc5645b4f4ea710040e8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bf4bf1392/92513007/bf4bf1392b620e1eaf7308ca4f5e6c0a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2637a31d1/92513007/2637a31d19bcb2c34a608c654c204e01.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dda50a61d/92513007/dda50a61ddd064af8fc05dbf3c66194f.jpeg"
+ ],
+ "imageCount": 19,
+ "nearestStations": [
+  {
+   "name": "Five Ways Station",
+   "miles": 0.38595072756458976,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 0.6228464335293393,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Snow Hill Station",
+   "miles": 0.7889707676005384,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Hamptons, Build to Rent",
+ "city": "Birmingham",
+ "sourceOutcode": "B15",
+ "scrapedAt": "2026-08-30T10:20:52.918Z"
+}

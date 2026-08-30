@@ -1,0 +1,73 @@
+{
+ "id": "92387232",
+ "displayAddress": "Didsbury Village, Manchester, M20",
+ "outcode": "M20",
+ "incode": "6TN",
+ "latitude": 53.41795,
+ "longitude": -2.232906,
+ "priceAmount": 895,
+ "priceLabel": "£895 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92387232",
+ "area": "Didsbury Village, Manchester",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 895,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Property Reference: 3017226.\n\nWe are proud to offer this delightful 1 bedroom, 1 bathroom flat in a great location.\n\nAvailable to move in from 27 August 2026. Property is offered unfurnished.\n\nViewing highly recommended. Contact OpenRent today for more details or to arrange a viewing! \n\nSummary\n\nRent £895.00 per month (£206.54 per week)\nDeposit / Bond is £895.00\n\nMaximum number of tenants is 2\n\nSummary & Exclusions:\n- Rent Amount: £895.00 per month (£206.54 per week)\n- Deposit / Bond: £895.00\n- 1 Bedrooms\n- 1 Bathrooms\n- Property comes unfurnished\n- Available to move in from 27 August 2026\n- Maximum number of tenants is 2\n- Students welcome to enquire\n- No Smokers\n- Bills not included\n- No Parking Available\n- No Garden Access\n- EPC Rating: D\n\n  If calling, please quote reference: 3017226  \n\nFees:\nYou will not be charged any admin fees.\n\n ** Contact today to book a viewing and have the landlord show you round! ** \nRequest Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.",
+ "keyFeatures": [
+  "No Agent Fees",
+  "Students Can Enquire",
+  "Property Reference Number: 3017226"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c9746856c/92387232/c9746856c720188bf96efa09940843bc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2de957b89/92387232/2de957b89c87cf7a6f53876859a347e4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7801c3769/92387232/7801c37694e7871a7bc2275ad486aaa2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6776ddc31/92387232/6776ddc313665239a41a7689d6724b64.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f459924dc/92387232/f459924dcc7ff59f977bc9c7e2c019e1.jpeg"
+ ],
+ "imageCount": 5,
+ "nearestStations": [
+  {
+   "name": "Didsbury Village Station",
+   "miles": 0.19720991672898083,
+   "types": [
+    "TRAM",
+    "LIGHT_RAILWAY"
+   ]
+  },
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 0.4772766840415825,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "East Didsbury Tram Stop",
+   "miles": 0.7543604112499601,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "OpenRent, London",
+ "city": "Manchester",
+ "sourceOutcode": "M20",
+ "scrapedAt": "2026-08-30T10:18:53.749Z"
+}

@@ -1,0 +1,94 @@
+{
+ "id": "92520441",
+ "displayAddress": "The Meander, Fyfe Lane, Bonnington, Edinburgh, City Of Edinburgh",
+ "outcode": "EH6",
+ "incode": "5GE",
+ "latitude": 55.971232,
+ "longitude": -3.182237,
+ "priceAmount": 1275,
+ "priceLabel": "£1,275 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92520441",
+ "area": "Edinburgh, City Of Edinburgh",
+ "bedrooms": null,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": null,
+  "bathrooms": 1,
+  "sizeSqFt": 428,
+  "sizeSqM": 40,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "21/09/2026",
+  "deposit": 0,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": 428,
+ "sizeSqM": 40,
+ "description": "AWARD WINNING homes in Leith, come discover why we were recently named BEST IN SCOTLAND.\n\nOur studio apartments feature a thoughtfully designed open-plan layout, combining the kitchen, living, dining and sleeping areas into one comfortable space. The fully integrated kitchen includes a hob, oven, dishwasher and fridge freezer, while the sleeping area benefits from built-in storage. Each apartment also features a modern bathroom with a shower over the bath and mirrored storage cabinets, along with convenient additional storage and an installed washer-dryer machine.\n\nWhen you rent a PLATFORM_ home, you'll enjoy for free: \n- Yoga, and spin studio\n- A screening room\n- Two co-working spaces\n- A private dining area ideal for socialising with friends\n- On-site guest rooms for extended stays\n- Easy access to the roof terraces through the Sun Lounge \n \nAll of our homes are fitted with: \n- Expertly designed, integrated kitchens \n- Broadband included in your rent\n \nPLATFORM_ is located in the heart of Leith with transport links nearby via tram and train across the City. Plus, being part of this thriving community you are only a short distance from everything you need, including: \n\n- 10-minutes to the City Centre\n- 5-minutes to Leith Shore\n- Water of Leith Walkway in 2 mins \n- Convenience store and coffee shop coming soon on-site \n\nEPC Rating: B-C \n\nLandlord Reg:  522507/230/26042 \n\nTenancy: Private Residential Tenancy \n\nwhat3words: ///skinny.pram.purely\n\nPLATFORM_ Edinburgh is developed by Heimstaden & PLATFORM_, with Heimstaden serving as the letting and managing agent. All enquiries will be managed collaboratively by members of the Heimstaden and PLATFORM_ teams. For more information on the privacy policies of PLATFORM_ and Heimstaden, please visit the PLATFORM_ website.\n\nLetting Agent Reg N. 26/06/036",
+ "keyFeatures": [
+  "Exclusive access to a residents-only gym, yoga, and spin studio.",
+  "A private dining area ideal for socialising with friends.",
+  "Proximity to the tram network (15 minutes to the city centre).",
+  "24/7 site team presence for your convenience. ",
+  "Amenities for the whole family, including a kids' playroom and co-working areas.",
+  "On-site maintenance and security.",
+  "Bike storage.",
+  "Pet-friendly policies.",
+  "Upcoming retail units.",
+  "Year-round resident social events."
+ ],
+ "tags": [
+  "BUILT_FOR_RENTERS",
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c1a90062b/92520441/c1a90062b8c7005accbe40bbb7b765d0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b8a30e3a5/92520441/b8a30e3a5d42f73af0e755a3210d9419.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7efe9bcdd/92520441/7efe9bcdd6254886a895dad16d2da347.jpeg",
+  "https://media.rightmove.co.uk/property-photo/be694a7dd/92520441/be694a7dd6982855cd58535451c1a024.png",
+  "https://media.rightmove.co.uk/property-photo/3e085abc3/92520441/3e085abc3628a2534e534a975ddbb788.png",
+  "https://media.rightmove.co.uk/property-photo/f72234234/92520441/f722342341bacbe24b9409197bf9514e.png",
+  "https://media.rightmove.co.uk/property-photo/e1ba2f274/92520441/e1ba2f274d2687a46ace0c55eae0efc3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2736d539c/92520441/2736d539c8d54cc6f03c4b13134396f9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9ea271134/92520441/9ea271134ee75634610f50f34a3821fa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/da66bf7ab/92520441/da66bf7abf2deb760e116aab35995ed9.png",
+  "https://media.rightmove.co.uk/property-photo/13960b354/92520441/13960b3544b218a35b803a26bd34da55.jpeg",
+  "https://media.rightmove.co.uk/property-photo/778ec5cec/92520441/778ec5cecf5e3f8483b1059474206577.png",
+  "https://media.rightmove.co.uk/property-photo/cc6a5658c/92520441/cc6a5658cef5bf47f102355759b8471f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/336788540/92520441/336788540c8df423e81dabdc7c55df7f.png",
+  "https://media.rightmove.co.uk/property-photo/d780da33e/92520441/d780da33e7186619535eb5e9d25f11ce.jpeg",
+  "https://media.rightmove.co.uk/property-photo/28ea851cf/92520441/28ea851cf28b4778bb54fb63fe2bca0b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0fdf0aebb/92520441/0fdf0aebbadd2e0dc714159d57917cec.jpeg"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 1.3616440744968636,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 2.268374872747568,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Brunstane Station",
+   "miles": 3.7317002609407277,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "PLATFORM, PLATFORM_ in Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH6",
+ "scrapedAt": "2026-08-30T10:26:40.205Z"
+}

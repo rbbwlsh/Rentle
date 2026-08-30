@@ -1,0 +1,105 @@
+{
+ "id": "92146335",
+ "displayAddress": "Blantyre Terrace, Bruntsfield, Edinburgh, EH10",
+ "outcode": "EH10",
+ "incode": "5AD",
+ "latitude": 55.9343,
+ "longitude": -3.213,
+ "priceAmount": 1750,
+ "priceLabel": "£1,750 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92146335",
+ "area": "Bruntsfield, Edinburgh",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "21/09/2026",
+  "deposit": 2625,
+  "minimumTermMonths": null,
+  "councilTaxBand": "E"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Pickard Property are proud to bring this exceptionally spacious, modern, 1-bedroom, property to the rental market. AVAILABLE SEPTEMBER 21ST, FURNISHED.\n\nThis beautifully proportioned elevated ground-floor apartment enjoys a prime position on highly desirable Blantyre Terrace, in the heart of Bruntsfield.\n\nThe accommodation is centred around an exceptionally spacious bay-windowed sitting and dining room (with working shutters), providing an impressive and versatile space for relaxing, entertaining and working from home. The property also comprises a generous double bedroom, a separate fitted kitchen, bathroom and welcoming entrance hall.\n\nBruntsfield is one of Edinburgh’s most sought-after residential neighbourhoods, particularly popular with professionals, couples and families. An excellent selection of independent cafés, restaurants, bars and boutique shops can be found nearby, alongside convenient everyday amenities including supermarkets, bakeries, delicatessens and health and fitness facilities. The neighbouring areas of Morningside and Marchmont provide an even wider range of shopping and leisure options.\n\nThe apartment is within easy walking distance of Bruntsfield Links and the Meadows, offering extensive green space for walking, running and outdoor recreation. Edinburgh city centre, the financial district and the universities are also readily accessible, with frequent bus services operating throughout the surrounding area.\n\nFamilies are exceptionally well catered for, with a number of highly regarded local schools nearby, including Bruntsfield Primary School and Boroughmuir High School, subject to the relevant catchment criteria. Several of Edinburgh’s leading independent schools are also within convenient reach, including George Watson’s College, Merchiston Castle School and George Heriot’s School.\n\nCombining generous accommodation with an outstanding location, this attractive apartment offers an excellent opportunity to enjoy everything the vibrant Bruntsfield area has to offer. Early viewing is highly recommended EPC rating: C.  Landlord Registration Number: 1792497/230/3112. Letting Agent Registration Number: LARN2506004.",
+ "keyFeatures": [
+  "Spacious Apartment",
+  "Working Shutters",
+  "Highly Desirable Area",
+  "Close Proximity to The Meadows",
+  "EPC C",
+  "Shower",
+  "Washing machine",
+  "Fridge Freezer"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/8714126ae/92146335/8714126ae3a8dd4400bcc10b093e6acd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c0a53cc01/92146335/c0a53cc01436cdbbbd5ad085c32e5576.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f6402e6cd/92146335/f6402e6cd4aa2851ad4b935e86f2e72a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/09dd4c109/92146335/09dd4c1099b66e53e60a320450738cec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b120fc09a/92146335/b120fc09af4ce05f5b47aaf4b6abae17.jpeg",
+  "https://media.rightmove.co.uk/property-photo/293c74225/92146335/293c74225977c5c3cb4dfad050a2a8df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7fb69f150/92146335/7fb69f150935d182a0dfa0bd92c9da43.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1514f0664/92146335/1514f06648d46792191349d302f34f47.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a23e0a3fc/92146335/a23e0a3fcbe559fb0acc25de1c941e84.jpeg",
+  "https://media.rightmove.co.uk/property-photo/094a3c655/92146335/094a3c655bce721c6a9bcefe5c7f52f9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e0ed9c162/92146335/e0ed9c16292a827ce2b0fb8d992c8937.jpeg",
+  "https://media.rightmove.co.uk/property-photo/08282d1d2/92146335/08282d1d2d2feb1c4987431bb50d881f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5dc99057a/92146335/5dc99057afa7c92bacd292e6bf2e8efd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bed2e889a/92146335/bed2e889a166e234aec70265d483302d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1cb9b049f/92146335/1cb9b049fdda85a39752b22b84f057b4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3189c9e06/92146335/3189c9e0644be8724630ade52506764f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/927c4e329/92146335/927c4e3294d3923d2c83d1ba9e27fc9c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/77fb71155/92146335/77fb711551f77ebb2a52107ed901a592.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5c8ad7eba/92146335/5c8ad7ebab645a5c4b95532528cef691.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d60901e26/92146335/d60901e26d969285158ca013c6fad71a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ef9446ef6/92146335/ef9446ef68ed98c9ca191ab407afecf2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e017537be/92146335/e017537bede2db1842d1f9f2eac5e6f3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/382c97db8/92146335/382c97db8b5267b7d2b17384e1dfcfd8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8a86b5f4e/92146335/8a86b5f4e61bfa5a6dc66617d3fe91ee.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2164ec1d4/92146335/2164ec1d40796487d5610858d301d3cf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b17b6c0e1/92146335/b17b6c0e13d4b0be96dbbeed131a157d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/811de4a3e/92146335/811de4a3ee438bfcbbbfc21276cd3039.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9c20b5e16/92146335/9c20b5e16af79f7ebc149243bd4ccfe3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/73163c422/92146335/73163c4222fce0eaa19f572250a8e874.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6eff47c4e/92146335/6eff47c4e5beb4edad1dd407839d1bdc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb7ecbecb/92146335/bb7ecbecb4643c582817f3f5e8f28a22.jpeg",
+  "https://media.rightmove.co.uk/property-photo/681859401/92146335/681859401fe468623b11446835ca39dc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/379fcc8bd/92146335/379fcc8bdc62eafcad94670362be3534.jpeg"
+ ],
+ "imageCount": 33,
+ "nearestStations": [
+  {
+   "name": "Haymarket Station",
+   "miles": 0.7907481572304215,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 1.29735742517341,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 1.5211480797679355,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Pickard Property, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH10",
+ "scrapedAt": "2026-08-30T11:04:34.925Z"
+}

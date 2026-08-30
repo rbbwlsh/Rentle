@@ -1,0 +1,89 @@
+{
+ "id": "92498718",
+ "displayAddress": "Samlesbury Close, Didsbury",
+ "outcode": "M20",
+ "incode": "2FJ",
+ "latitude": 53.41715,
+ "longitude": -2.243577,
+ "priceAmount": 2100,
+ "priceLabel": "£2,100 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92498718",
+ "area": "Didsbury",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Detached",
+ "details": {
+  "propertyType": "Detached",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "12/10/2026",
+  "deposit": 2423,
+  "minimumTermMonths": 12,
+  "councilTaxBand": "E"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "**Samlesbury Close, Didsbury**\n\nA SPACIOUS and STYLISH DETACHED property ideally situated only a short walk from DIDSBURY VILLAGE and also the famous BURTON ROAD area of WEST DIDSBURY. TWO RECEPTION ROOMS, REFITTED MODERN KITCHEN, THREE GENEROUS BEDROOMS with the master boasting a refitted EN-SUITE. Family bathroom, conservatory, PRIVATE GARDEN, ample parking, and garage. \nInternally the property comprises of entrance hall with downstairs wc, large stylish living room with feature fireplace and bay window, separate dining room with sliding doors to the rear conservatory and access to a refitted contemporary shaker style kitchen. \nTo the first floor there are three generous bedrooms with the master boasting a modern refitted en-suite shower room with attractive tiling. A spacious refitted family bathroom completes the first floor accommodation. \nExternally to the front there is one parking space to the side of the property, garage with an additional parking space and a delightful landscaped garden enjoying a good degree of privacy. \nThe property is located in one of Didsbury's most sought after locations close to the stunning Marie Louise gardens whilst being only a short walk to Didsbury Village and the bustling Burton Road area of West Didsbury. The property is sure to impress and early viewing is highly recommended. Available December on a Unfurnished basis. EPC Rating C. Council Tax Band E. Please call  .",
+ "keyFeatures": [
+  "A superb and spacious detached property offering good internal space with a modern stylish interior",
+  "Conserventory ",
+  "Three Double Bedrooms",
+  "EPC Rating C",
+  "Available October ",
+  "Short walk to local amenities, excellent transport links and reputable schools."
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f45d2072c/92498718/f45d2072cb3d8cef3d2433104823750e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/69e4ad57c/92498718/69e4ad57cb4a64af4e0cfb6ed5c8d114.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8dd566e12/92498718/8dd566e120ecdcf31c4edb252dc8ef49.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f33d20cfe/92498718/f33d20cfe14db284c226e073b9eb2adb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9ed03e2da/92498718/9ed03e2da7c58d12599f9200990d27bc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/485e2e08b/92498718/485e2e08ba7587bd0bdaa38f5d9dd9a1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/83e804525/92498718/83e80452573e667accbdbdffe5995f13.jpeg",
+  "https://media.rightmove.co.uk/property-photo/37d6cb928/92498718/37d6cb92861e62fa71bc3f43a9e264b2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b8e0e446f/92498718/b8e0e446ff96c10e35e0574d649f16ca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e97a6aad1/92498718/e97a6aad1a7e71b936611a57be3a58f1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4097fe5f4/92498718/4097fe5f42f4b43c77b36f1254b5af51.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e654e334f/92498718/e654e334f01439c93d99b614207290d4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f6c0713e7/92498718/f6c0713e7a7fb2f93b34de7b6a7ef7d6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/338a1592c/92498718/338a1592c142aa77617d3a9d3f2b55a9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/052b93b61/92498718/052b93b61a25a80b08add49159a58cf1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a69b2fde9/92498718/a69b2fde981fda0d8e895eff03608b53.jpeg",
+  "https://media.rightmove.co.uk/property-photo/56cb2d082/92498718/56cb2d082b09d67fbe9907401bba84cf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/13d99b547/92498718/13d99b547b0bddbe50bc3ae1da7cad0b.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 0.5959132222380488,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Didsbury Village Station",
+   "miles": 0.6177591377786188,
+   "types": [
+    "TRAM",
+    "LIGHT_RAILWAY"
+   ]
+  },
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 0.8383569975392484,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Gascoigne Halman, Didsbury",
+ "city": "Manchester",
+ "sourceOutcode": "M20",
+ "scrapedAt": "2026-08-30T10:18:42.066Z"
+}

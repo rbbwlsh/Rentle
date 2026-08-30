@@ -1,0 +1,90 @@
+{
+ "id": "92415183",
+ "displayAddress": "Chester Crescent, London",
+ "outcode": "E8",
+ "incode": "2PH",
+ "latitude": 51.548423,
+ "longitude": -0.070424,
+ "priceAmount": 3000,
+ "priceLabel": "£3,000 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92415183",
+ "area": "London",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "End of Terrace",
+ "details": {
+  "propertyType": "End of Terrace",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Part furnished",
+  "letAvailableDate": "02/09/2026",
+  "deposit": 3461,
+  "minimumTermMonths": null,
+  "councilTaxBand": "D"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A characterful two-bedroom home in the heart of vibrant Dalston, with a wonderfully open ground floor and a generous rear garden that gives you a welcome pocket of outdoor space in the city.\n \n\nChester Crescent puts you within easy reach of Dalston’s eclectic mix of independent restaurants, pubs and markets, as well as Hackney Downs and the wider neighbourhood’s excellent transport links. Ridley Road Market and the shops and cafés around Kingsland High Street are also close by.\n\nIf you lived here…\n \n\nThe ground floor has been opened to create one long kitchen and reception space, giving you plenty of flexibility for dining, relaxing and entertaining. The kitchen sits neatly along one side, while French doors at the rear open directly onto the garden, creating an easy connection between indoors and out.\n \n\nUpstairs are two bedrooms, with the larger extending across the rear of the house and the second sitting to the front. There’s also a separate shower room, while built-in storage helps make practical use of the available space.\n \n\nIt’s a straightforward, well-thought-out layout with the social spaces downstairs and bedrooms tucked away above. The 12-metre rear garden is a particular highlight, adding a substantial outdoor extension to the living space.\n\nWhat else?\nDalston is particularly renowned for eating out. Three Sheets on Kingsland Road is an award-winning neighbourhood cocktail bar, while Mangal 2 is a longstanding local name serving a contemporary take on Turkish cooking. \nRidley Road Market has been part of Dalston since the late 1880s and remains one of the neighbourhood’s defining spots, with more than 100 stalls spanning fresh produce, international food and household goods. Its Sunday Collective also brings together independent makers, food businesses and rotating traders. \nFor a slightly slower weekend, Broadway Market and London Fields are within easy reach. The market runs at weekends with street food, fresh produce, independent shops and cafés, while nearby favourites include The Cat & Mutton and The Spurstowe Arms.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/3f65fde21/92415183/3f65fde21b47ddbcf07d541e6ee1b21a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a5b100bd2/92415183/a5b100bd28220741eed65f7a219d0acb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4478888c1/92415183/4478888c1b192865ca9fe0a7fd571587.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cd115cfbd/92415183/cd115cfbd45bacff87305b431b6854ec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0026d2cc2/92415183/0026d2cc208e2f5e19a70235c6e6cb95.jpeg",
+  "https://media.rightmove.co.uk/property-photo/382ae3bdd/92415183/382ae3bdd73736dbb1b0ca7fbcc3020f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6ef016d68/92415183/6ef016d68091f0bc4f25339dd4e78a36.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3446dce8c/92415183/3446dce8cfcc8b6f60554b9527339db0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2650416c8/92415183/2650416c8efc31f1e84ee94d2552eff5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e9b6fc479/92415183/e9b6fc479d2b8bc48201cee69a098213.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d867e086/92415183/6d867e0869f899dd65e69dc3877efc6e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fad5b3dd5/92415183/fad5b3dd587319806259ec7d73ef3a2e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e1a3693c4/92415183/e1a3693c434274d87caba688269c5ea4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4874b9898/92415183/4874b9898f3d5068d69761abcc68a483.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d05dac8ff/92415183/d05dac8ffe86b42bea22b19127d92d69.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f44295097/92415183/f44295097273616e3f15fc1eea48f9ee.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b0c7764c2/92415183/b0c7764c25a0fee8a4144f4574b49ab6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4af1812b6/92415183/4af1812b60b2d7c62c6d6b12e7e18096.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d5820a7f/92415183/6d5820a7f8e914a6619eac16d319d6e1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9f77cc0f4/92415183/9f77cc0f4c86b3fe5ec2dbc29b7e00dc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e835237fb/92415183/e835237fb9ddbc6b0057f6f9a7bb7dcb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/079f9d936/92415183/079f9d936090f0797301882b879e114c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d74b3a15f/92415183/d74b3a15fbc1b0aeb0e9f3a805a8167d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/10f972211/92415183/10f9722112da886929d43a165f8339f8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/711a2ce4e/92415183/711a2ce4e9163ce9a8bbe1f36d6e7c49.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c8307ea31/92415183/c8307ea314bbee5e9629bc94ed15fee5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/791c5a3e4/92415183/791c5a3e4eaf2dc33b24fbec0bcb275e.jpeg"
+ ],
+ "imageCount": 27,
+ "nearestStations": [
+  {
+   "name": "Dalston Kingsland Station",
+   "miles": 0.25639659009295984,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Dalston Junction Station",
+   "miles": 0.26303940772536033,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Hackney Downs Station",
+   "miles": 0.44128883943178787,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "The Stow Brothers, Hackney",
+ "city": "London",
+ "sourceOutcode": "E8",
+ "scrapedAt": "2026-08-30T10:13:15.030Z"
+}

@@ -1,0 +1,81 @@
+{
+ "id": "92454606",
+ "displayAddress": "Sion Road, Bedminster, Bristol, BS3",
+ "outcode": "BS3",
+ "incode": "3BD",
+ "latitude": 51.439745,
+ "longitude": -2.604618,
+ "priceAmount": 1800,
+ "priceLabel": "£1,800 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92454606",
+ "area": "Bedminster, Bristol",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 2076,
+  "minimumTermMonths": null,
+  "councilTaxBand": "TBC"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Charming two-bedroom terraced house in a sought-after location with residents parking. This furnished property boasts a beautiful garden and patio, perfect for entertaining. Characterised by its period features, this home offers a cosy and inviting living space. Don't miss the opportunity to make this lovely property your new home. Call now to arrange a viewing.\n\nEPC – E\nCouncil Tax – B\nBroadband (Source: Ofcom) – Standard, Superfast, Ultrafast, Gigabit – Likely",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/87c7a6d18/92454606/87c7a6d187684afe4237ffa3ff0b538b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8e004b2aa/92454606/8e004b2aab527d61e7144912f0825bb3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f748f367a/92454606/f748f367aa23235da1309fb788e0993c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e37f12e66/92454606/e37f12e663d4587bf71fb06ba018362d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ecf618c57/92454606/ecf618c57143191c00af7ffc598d427a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d14ae3a90/92454606/d14ae3a90a92ae58f6de00f7f76f0f5a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e4aba9b28/92454606/e4aba9b285a2f9298fa037d1d69cb407.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6a62e26e5/92454606/6a62e26e55c09302acd9a18f0e3ac0d0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bf81c58d4/92454606/bf81c58d4a65c50066d09c77dcabc696.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f5fb4e32e/92454606/f5fb4e32eaa691570e4cd5f98e567ff9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f64310cb6/92454606/f64310cb6ec7cd73e4b8d898fe21a87f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1cf46f948/92454606/1cf46f94869851e4caa8a1668a8e3b41.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a294dd1ab/92454606/a294dd1ab6e9a1c53bfd301124e7356d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3b2b9b67c/92454606/3b2b9b67c1e6146c1682f39084f28ff2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/034ebffd9/92454606/034ebffd949d8510ecb6e422d17ef53e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/57264645f/92454606/57264645fd29b5a62e5f1f6603db70f1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/061158d88/92454606/061158d88523ae23c75357362064c8ee.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c071c57a6/92454606/c071c57a60d6910e6fcdbab5952ce37f.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "Bedminster Station",
+   "miles": 0.4466657305445856,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Parson Street Station",
+   "miles": 0.48749189716319,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 1.1896604151664836,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "CJ Hole, Southville",
+ "city": "Bristol",
+ "sourceOutcode": "BS3",
+ "scrapedAt": "2026-08-30T10:22:40.530Z"
+}

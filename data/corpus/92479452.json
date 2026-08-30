@@ -1,0 +1,79 @@
+{
+ "id": "92479452",
+ "displayAddress": "Brudenell Road, Leeds, West Yorkshire, LS6",
+ "outcode": "LS6",
+ "incode": "1HA",
+ "latitude": 53.812692,
+ "longitude": -1.566807,
+ "priceAmount": 2271,
+ "priceLabel": "£2,271 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92479452",
+ "area": "Leeds, West Yorkshire",
+ "bedrooms": 4,
+ "bathrooms": 2,
+ "propertySubType": "End of Terrace",
+ "details": {
+  "propertyType": "End of Terrace",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "05/10/2026",
+  "deposit": 1000,
+  "minimumTermMonths": 12,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "**£131pppw inc bills** End of terrace 4-bedroom house in a prime location. This furnished property boasts charm and character, with spacious rooms and convenient street parking. Ideal for students or sharing professionals alike. Don't miss out on this affordable and comfortable home!\n\n\rLinley and Simpson are proud to present this charming end of terrace house boasting 4 bedrooms, perfect for students alike! This furnished property boasts character and charm, with spacious rooms and a clean, well-maintained interior. Enjoy the convenience of street parking and being close to local amenities. This property ticks all the boxes so don't miss out on this affordable gem - schedule a viewing today and make this house your new home sweet home!",
+ "keyFeatures": [
+  "5 Bedrooms",
+  "2 Bathrooms",
+  "Students",
+  "House",
+  "End of Terrace",
+  "Furnished",
+  "Street Parking"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a5c24366c/92479452/a5c24366c7998abbe5a1c2f75a328b46.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8f9e82515/92479452/8f9e8251541258f2d0d5f88ee6293ff4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/53575c579/92479452/53575c579997fa4c44cf05c27ead6c71.jpeg",
+  "https://media.rightmove.co.uk/property-photo/70678fc6a/92479452/70678fc6ab65629da74c0b86e3bbb573.jpeg",
+  "https://media.rightmove.co.uk/property-photo/957c3fbda/92479452/957c3fbdad5270cdd5dbe524c263e48f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/74f0e389e/92479452/74f0e389e883dd34080d55aefdf3a41b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d5d7bd41d/92479452/d5d7bd41ddd9365836ca96b8f5bc7938.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fe92859bd/92479452/fe92859bd66f4527e5d3de88a9bd2f44.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Burley Park Station",
+   "miles": 0.46371548944300545,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 1.1757910667194622,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Leeds Station",
+   "miles": 1.5240866539497442,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Linley & Simpson Students, Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS6",
+ "scrapedAt": "2026-08-30T10:24:44.893Z"
+}

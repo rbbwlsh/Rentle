@@ -1,0 +1,81 @@
+{
+ "id": "90968106",
+ "displayAddress": "Laindon Road, Manchester, M14",
+ "outcode": "M14",
+ "incode": "5DP",
+ "latitude": 53.455807,
+ "longitude": -2.210406,
+ "priceAmount": 525,
+ "priceLabel": "£525 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90968106",
+ "area": "Manchester",
+ "bedrooms": 1,
+ "bathrooms": null,
+ "propertySubType": "House",
+ "details": {
+  "propertyType": "House",
+  "bedrooms": 1,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "04/09/2026",
+  "deposit": 700,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "House Share\n1 Double Bedroom\nThis House Share Property offers a total of 5 spacious bedrooms, and 2 bathrooms brilliantly situated in the heart of Victoria Park. The property consists of five spacious bedrooms with classical fitting throughout. The location guarantees ease of access to the majority of the bus routes and easy commuting.\n\nThe high volume of eateries, takeaways, restaurants, bars, and pubs in the immediate surroundings and vicinity flaunts a wide range of hotspots and local favourites.\n\nAdditional Information\nBus stop nearby the property\nBuses every 3 to 5 minutes.\n41, 42, 43, 44, 50, 130, 141, 142, X41, X57\n15 Minutes to Manchester University by Bus\n\nPlaces nearby:\n' Sainsbury's supermarket\n' Gyms and Parks\n' Restaurants and Takeaways\n' Pubs & Cafe\n\nThe state of the property with respect to furnishings and fixtures may vary from the description in the advertisement. The responsibility to confirm the details in the description rests with the individuals viewing the property.\n\nDeposit: £700\nHolding Deposit: £140\n\nThis property is managed via the Hybr platform. By submitting an enquiry, you acknowledge and consent to your information being shared with Hybr for the purpose of processing and responding to your enquiry.\n\n If you have any questions get in touch with our team by pressing the call button on Rightmove and when asked for a property reference code, put in 62708933",
+ "keyFeatures": [
+  "Bills Included: Internet, Water, Electricity",
+  "Furnished",
+  "Victoria Park Location",
+  "Great Transport Links",
+  "Near Manchester University",
+  "Available from 4 September 2026"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/031252f5e/90968106/031252f5e5515d9b922f70fdc00bc9b4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ec28695e5/90968106/ec28695e5d63ac1458c16b3edbf6bc8c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5ffd29134/90968106/5ffd29134926f101e22e7309c21a0b91.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7edc00a8f/90968106/7edc00a8f79e4a34fe8621789d6ec4e7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9611e5ed7/90968106/9611e5ed79d164bfe6a2c8f0c097ded6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/48508eb05/90968106/48508eb05caba55138f40feec31caf4a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7eef54c44/90968106/7eef54c44cda7b23877d5e0a28a34398.jpeg",
+  "https://media.rightmove.co.uk/property-photo/314a77b1a/90968106/314a77b1ae20f0b63af3b14f5e33f6bf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c15125018/90968106/c15125018293d7cab2fafaced4f94e87.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5d291e7b1/90968106/5d291e7b180e35ac91705ed00dada622.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ca078e82/90968106/8ca078e828e94b63bf588c90cd3c63f3.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Levenshulme Station",
+   "miles": 1.0717961591460936,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Ardwick Station",
+   "miles": 1.061716750055065,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Ashburys Station",
+   "miles": 1.2707693964922682,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "HYBR, Covering Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M14",
+ "scrapedAt": "2026-08-30T10:18:08.196Z"
+}

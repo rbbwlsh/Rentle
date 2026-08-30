@@ -1,0 +1,89 @@
+{
+ "id": "91304838",
+ "displayAddress": "Electricity House, Colston Avenue, BS1",
+ "outcode": "BS1",
+ "incode": "4TB",
+ "latitude": 51.45582,
+ "longitude": -2.59579,
+ "priceAmount": 2400,
+ "priceLabel": "£2,400 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91304838",
+ "area": "Electricity House",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 2769,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "** Zero Deposit Guarantee Available **\nLocated in the iconic and popular Electricity House development, right in the heart of Bristol City Centre, this luxurious apartment would make a perfect home for professional tenants.\n\nResidents benefit from a concierge service and this apartment is located on the second floor of the building. The walkway is open and gives views of the centre of the building, which is covered from the rain but open to the air.\n\nThe accommodation includes entrance hall with large utility cupboard housing a washer/dryer, open plan living/dining room, plus a kitchen area complete with fully integrated appliances (fridge/freezer, dishwasher, oven, microwave and extractor hood), a double bedroom with an ensuite shower room, a second double bedroom plus a bathroom with a heated towel rail and a shower over bath.\n\nThe apartment has an allocated parking space in the secure undercroft garage. The apartment has a video entry phone and there is a TV point including connections for sky or freeview (subject to contract) plus a new hyper internet system. There is underfloor heating with a separate control for each room.\n\nAvailable NOW and offered on a furnished basis, please call now to arrange your viewing! Council Tax Band:  Holding Deposit: £553.00",
+ "keyFeatures": [
+  "Available Now",
+  "Excellently Presented Apartment",
+  "Prime Location",
+  "Allocated Underground Parking",
+  "Furnished",
+  "Open Plan Living",
+  "Two Double Bedrooms"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/472fa9092/91304838/472fa90926589836ef438213e3b0b08b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a0311f581/91304838/a0311f581a28cdf4f1f2958eb7a4eb84.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c0c0d6f6e/91304838/c0c0d6f6e4b4fba60453454438352558.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6a227c882/91304838/6a227c8820d49eb74e506d071645845e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fb7486a91/91304838/fb7486a9115e92ab6083fe6942dd18db.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1ef955121/91304838/1ef955121098b35d1aaf2ef9f7ccc1c8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0ad0c57a2/91304838/0ad0c57a2635260abd0bad8cc0748498.jpeg",
+  "https://media.rightmove.co.uk/property-photo/71805ae79/91304838/71805ae794ed6ef5d26b64dc9aaeb85f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2645679b8/91304838/2645679b87fcc8a374f2e17467d9101b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/83e9c3c7e/91304838/83e9c3c7e845664cc876938156aa9dd5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6a47f144a/91304838/6a47f144a36801990ecfcaa2ceb9a1cd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/820750e2b/91304838/820750e2b3fa6c3672cf8fda8cef0c1f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/78bbedfe3/91304838/78bbedfe30c62a814f5f4ceee490d978.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dc2dc9b7c/91304838/dc2dc9b7c903801cc62b1739905e7793.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7186e48db/91304838/7186e48db4a63b97b4a27aae5d9e71b4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/25c89325a/91304838/25c89325aeed6964128aced4dd6f5335.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f7c3c24e3/91304838/f7c3c24e3fa0a69ef7dc4ccd32e2ee4b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f55ff84cb/91304838/f55ff84cb64819fa8ed58a00dd954ff0.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 0.7761527002477635,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.8763221918976835,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.8928477342092507,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Chappell & Matthews Lettings, Bristol Harbourside",
+ "city": "Bristol",
+ "sourceOutcode": "BS1",
+ "scrapedAt": "2026-08-30T10:22:00.769Z"
+}

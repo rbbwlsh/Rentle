@@ -1,0 +1,83 @@
+{
+ "id": "92484078",
+ "displayAddress": "26-30 Orchard Street, West Didsbury, Greater Manchester, M20",
+ "outcode": "M20",
+ "incode": "2LP",
+ "latitude": 53.42727,
+ "longitude": -2.243069,
+ "priceAmount": 1250,
+ "priceLabel": "£1,250 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92484078",
+ "area": "West Didsbury, Greater Manchester",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "12/10/2026",
+  "deposit": 1442,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "AVAILABLE OCTOBER. ONE BEDROOM first floor furnished apartment with GATED SECURE PARKING, CENTRALLY located within fashionable WEST DIDSBURY village. The accommodation reveals an entrance hallway, living room/dining room, stylish kitchen, large bedroom, served by a modern bathroom.  Externally the property comes with one allocated parking space within a gated car park. Please contact Philip James to arrange your viewing appointment today.",
+ "keyFeatures": [
+  "AVAILABLE OCTOBER",
+  "One Bedroom",
+  "First Floor Apartment",
+  "Off Street Parking",
+  "Modern",
+  "Furnished",
+  "Fashionable West Didsbury",
+  "Five Week Deposit"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f17322d6a/92484078/f17322d6a7a8c96bdb7a59290a26e66e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f64d7ad45/92484078/f64d7ad454ebe610b487442122610664.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8e001b31c/92484078/8e001b31c48b3214fb19e5c8a6e7b112.jpeg",
+  "https://media.rightmove.co.uk/property-photo/96916ce58/92484078/96916ce585e4190fea80e39f2722bc97.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f86fef948/92484078/f86fef9481a27bee6a39ddc33030cdb4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5d56fd0b2/92484078/5d56fd0b2c63c5b50edcf7916c47f348.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3d8a961e9/92484078/3d8a961e979decbb25d3e85f539481a8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/860c947ad/92484078/860c947ade93fd5f2d751bb4b1247eb6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b1838eb51/92484078/b1838eb51b1fc6bd372f09910ae0ddb2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dfcccf30f/92484078/dfcccf30fb7e53c4cac62b191d22ba5e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7b0cce1ae/92484078/7b0cce1aeb846134b1c401b8789f4670.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 0.1644706752745547,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 0.339418357442939,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Withington Tram Stop",
+   "miles": 0.4538135650543352,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Philip James Manchester, Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M20",
+ "scrapedAt": "2026-08-30T10:18:45.150Z"
+}

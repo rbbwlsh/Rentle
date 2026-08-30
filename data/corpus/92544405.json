@@ -1,0 +1,81 @@
+{
+ "id": "92544405",
+ "displayAddress": "Falcon Heights, Falcon Road, London SW11",
+ "outcode": "SW11",
+ "incode": "2PF",
+ "latitude": 51.466793,
+ "longitude": -0.169864,
+ "priceAmount": 2500,
+ "priceLabel": "£2,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92544405",
+ "area": "Falcon Heights",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 560,
+  "sizeSqM": 52,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "09/10/2026",
+  "deposit": 2884,
+  "minimumTermMonths": null,
+  "councilTaxBand": "E"
+ },
+ "sizeSqFt": 560,
+ "sizeSqM": 52,
+ "description": "A superb two-bedroom, two-bathroom ground floor apartment with a substantial private terrace, ideally positioned moments from Clapham Junction Station and Battersea's vibrant array of shops, restaurants and amenities.\nSituated within the contemporary Falcon Heights development in SW11, this well-presented apartment offers approximately 560 sq ft (52 sq m) of internal accommodation and benefits from an impressive open-plan kitchen, living and dining area measuring over 22 ft in length. Floor-to-ceiling doors provide direct access to a generous private decked terrace, creating an excellent entertaining space and seamless indoor-outdoor living.\nThe modern fitted kitchen features integrated appliances, ample storage and stylish cabinetry, while the bright reception room enjoys excellent natural light throughout.\nThe principal bedroom is a well-proportioned double room with fitted storage and benefits from a contemporary en-suite shower room. A second bedroom provides flexibility as a guest room, nursery or home office and is served by a modern family bathroom.\n\nFalcon Heights is ideally located on Falcon Road, providing immediate access to Clapham Junction Station, one of London's best-connected transport hubs, with direct services to Victoria, Waterloo and Gatwick Airport. Battersea Park, Wandsworth Common, Northcote Road and the River Thames are all within easy reach.\n\nThis property would suit professional tenants seeking modern living accommodation with excellent transport connections in the heart of Battersea.\n\nAvailable to rent from 9th October 2026, Furnished",
+ "keyFeatures": [
+  "Two-bedroom, two-bathroom apartment",
+  "Exceptional private terrace",
+  "Bright open-plan living space",
+  "Modern integrated kitchen",
+  "Master bedroom with en-suite",
+  "Highly sought-after Battersea location",
+  "Moments from Clapham Junction Station",
+  "Ideal property for professional tenants"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/24b1fb814/92544405/24b1fb814532e82ecea7dbd4161f6861.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ca57f30c3/92544405/ca57f30c39fc22b69ba1fc697f43db35.jpeg",
+  "https://media.rightmove.co.uk/property-photo/af408bcfd/92544405/af408bcfd3286ba406cb433e9caa7748.jpeg",
+  "https://media.rightmove.co.uk/property-photo/326cc539e/92544405/326cc539e37d7d22c0b153aac2e79d75.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0c3a47633/92544405/0c3a47633a5e0aabf6752865f28f6306.jpeg",
+  "https://media.rightmove.co.uk/property-photo/80eb15078/92544405/80eb15078aafc9dd4f8f426dd4a9901a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8f6f9695b/92544405/8f6f9695b2bcf507ebc74219e5c30d7b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/89e0666bd/92544405/89e0666bdbd9ba1ab1fae2bb28804f71.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Clapham Junction Station",
+   "miles": 0.22692282684711002,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Imperial Wharf Station",
+   "miles": 0.8006915081364209,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Wandsworth Town Station",
+   "miles": 0.8867755312394656,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Grays Residential, Battersea",
+ "city": "London",
+ "sourceOutcode": "SW11",
+ "scrapedAt": "2026-08-30T10:15:20.672Z"
+}

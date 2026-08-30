@@ -1,0 +1,78 @@
+{
+ "id": "92190402",
+ "displayAddress": "Victoria St, Edinburgh, EH1",
+ "outcode": "EH1",
+ "incode": "2HE",
+ "latitude": 55.948483,
+ "longitude": -3.192824,
+ "priceAmount": 2395,
+ "priceLabel": "£2,395 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92190402",
+ "area": "Edinburgh",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 2595,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Property Reference: 2196919.\n\nStunning, spacious and stylishly presented two bedroom, one bathroom property with exceptionally large living room located on Victoria Street in the heart of Edinburgh's Old Town.\n\nLocated on one of Edinburgh's most iconic streets, the accommodation comprises two spacious bedrooms with king size velvet beds, luxury mattresses and ample mirrored storage with sliding doors. Both bedrooms are located at the back of the building. The bathroom has a walk in shower, separate bath and floor to ceiling porcelain tiles. The highlight of the property is the exceptionally large living room with luxury furniture including vegan leather sofas, granite topped coffee and side tables with large side lamps, working electric marble fireplace with large wall mounted television, dining area and privacy blinds added since the photos were taken. Separate well presented kitchen with gas hob, electric oven, washing machine, dishwasher, fridge freezer, all crockery, cutlery, cooking utensils and pot and pans are included. The property has two large storage cupboards one with recently fitted gas boiler and luxury German laminate flooring throughout. The decoration is in excellent condition throughout and the property has been professionally deep cleaned. The property will make an excellent home for both sensible students and professionals. Viewing is highly recommended. Superfast Virgin broadband is set-up and included within the rent.\n\nSummary & Exclusions:\n- Rent Amount: £2,395.00 per month (£552.69 per week)\n- Deposit / Bond: £2,595.00\n- 2 Bedrooms\n- 1 Bathrooms\n- Property comes furnished\n- Available to move in from 28 August 2026\n- Maximum number of tenants is 2\n- Students welcome to enquire\n- No Smokers\n- Bills not included\n- No Parking Available\n- No Garden Access\n- Property has fireplace\n- EPC Rating: C\n\n  If calling, please quote reference: 2196919  \n\nFees:\nYou will not be charged any admin fees.\n\n ** Contact today to book a viewing and have the landlord show you round! ** \nRequest Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.\nOpenRent is on the Scottish Letting Agent Register, registration number LARN1809026\nThe landlord is on the Scottish Landlord Register, registration number 1570808/230/07042",
+ "keyFeatures": [
+  "No Agent Fees",
+  "Students Can Enquire",
+  "Property Reference Number: 2196919"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/36fe4b78f/92190402/36fe4b78f864c64843e25cd5a7836d32.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e9ea6c6e3/92190402/e9ea6c6e308d62af7260ffca22f2e65b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b56349db2/92190402/b56349db2a86dbe863388ff02a477268.jpeg",
+  "https://media.rightmove.co.uk/property-photo/362d338e2/92190402/362d338e29f0f2f12a6525bb1113fa4e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ffdeb0129/92190402/ffdeb012925e0c046898c9a35eb51ed8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ba5fffe63/92190402/ba5fffe6327b990c12479b90ce2cc353.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee2184085/92190402/ee218408505edd12b2da6c221814bff1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a6b4904c5/92190402/a6b4904c504b81c2cde2c7b31d6c5c21.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb9c916fc/92190402/bb9c916fc73786043e912eea714ebbb6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/98a1e04a7/92190402/98a1e04a7bf76a9f9fe7f069e04c6de8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8c150d447/92190402/8c150d4477a3bb736e40633d6fbe3b2b.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.27112685722370156,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.0057482439601484,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 2.4818124789445637,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "OpenRent, London",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH1",
+ "scrapedAt": "2026-08-30T11:03:40.083Z"
+}

@@ -1,0 +1,77 @@
+{
+ "id": "92344998",
+ "displayAddress": "Dalston Lane, Dalston, London, E8",
+ "outcode": "E8",
+ "incode": "1NG",
+ "latitude": 51.54806,
+ "longitude": -0.0677,
+ "priceAmount": 1750,
+ "priceLabel": "£1,750 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92344998",
+ "area": "Dalston, London",
+ "bedrooms": null,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": null,
+  "bathrooms": 1,
+  "sizeSqFt": 337,
+  "sizeSqM": 31,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Ask agent",
+  "deposit": 2020,
+  "minimumTermMonths": null,
+  "councilTaxBand": "TBC"
+ },
+ "sizeSqFt": 337,
+ "sizeSqM": 31,
+ "description": "LONG LET. This stylish, generous studio apartment has been well presented throughout to offer bright and modern interiors with high-quality fittings.\r\nThe property is situated moments from the green open spaces of Hackney Downs while Hackney Downs Station is also within close proximity for links around the city.\r\nPlease use the reference CHPK3878562 when contacting Foxtons.",
+ "keyFeatures": [
+  "Fabulous studio flat arranged on the first floor",
+  "Spacious open-plan living space with neutral décor",
+  "Features sleek kitchen space with integrated appliances",
+  "Offers fitted and modern bathroom",
+  "Provides a superb private balcony",
+  "Ideally positioned for a wide range of amenities"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/08da1e8a4/92344998/08da1e8a491639a3e79cd21e27b0b5ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1aa8adaca/92344998/1aa8adaca12b59a47dc29c75f7370923.jpeg",
+  "https://media.rightmove.co.uk/property-photo/64770cf4a/92344998/64770cf4a9e595f37f568aa28c4a0277.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c421d821f/92344998/c421d821fc227cc8298311855bb4c7c1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3aef29bb3/92344998/3aef29bb304ddcf11882bcc4ffa4c28b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/397212886/92344998/39721288625cccfa44b7cbdc6b56fbc0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/874af6185/92344998/874af61856d6a286b5ba7052f01526b3.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Hackney Downs Station",
+   "miles": 0.32419646182878203,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Dalston Junction Station",
+   "miles": 0.35325861688332155,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Dalston Kingsland Station",
+   "miles": 0.372935955943633,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  }
+ ],
+ "agent": "Foxtons, Hackney",
+ "city": "London",
+ "sourceOutcode": "E8",
+ "scrapedAt": "2026-08-30T10:13:24.540Z"
+}

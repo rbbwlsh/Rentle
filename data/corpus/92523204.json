@@ -1,0 +1,82 @@
+{
+ "id": "92523204",
+ "displayAddress": "St Thomas Row, Leeds, LS2",
+ "outcode": "LS2",
+ "incode": "7PP",
+ "latitude": 53.80204,
+ "longitude": -1.53718,
+ "priceAmount": 1150,
+ "priceLabel": "£1,150 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92523204",
+ "area": "Leeds",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "11/09/2026",
+  "deposit": 1326,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Having been recently fully refurbished within recent years, this spacious first floor, two double bedroom apartment is ideal for a couple or two professional sharers and only five minutes walk from the 'hustle & bustle' of Leeds City centre. \n\nThe property has an entrance hallway leading to a lovely open plan living, dining kitchen area with beautiful feature wall acting as a separation between the lounge & kitchen area. There is integrated appliances in the kitchen along with French doors in the living area leading to a Juliet balcony which are ideal for the up and coming summer months. \n\nThere are two spacious double bedrooms with modern bedroom furniture and an attractive bathroom with three piece white suite and electric shower. The property is complemented with very stylish furnishings and is offered fully furnished. \n\nAvailable 11th September. Council Tax Band C. Bond - Equivalent to 5 weeks rent.  EPC rating: C.",
+ "keyFeatures": [
+  "Lovely Two Bed Apartment",
+  "Modern Kitchen",
+  "Juliet Balcony",
+  "Recently Painted",
+  "Contemporary Furniture",
+  "Available 11th September"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/7c9e615ea/92523204/7c9e615eaac3cd0c5188a498fb506024.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1e0e2591f/92523204/1e0e2591f940b7203391046b35d84093.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9c5083ae7/92523204/9c5083ae73ce47ee70fe963102839b72.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2d00e4f19/92523204/2d00e4f1901f7b0efecf67402c22b587.jpeg",
+  "https://media.rightmove.co.uk/property-photo/96b39e5f7/92523204/96b39e5f7593f61f28421c24da91531c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/937646621/92523204/93764662142171a20b68e6eb8ee5dd87.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0c597f8fb/92523204/0c597f8fbb140c62b82c67aefba4271c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3acd87819/92523204/3acd87819582eb382bbedf4a75bd12ce.jpeg",
+  "https://media.rightmove.co.uk/property-photo/16d77ec91/92523204/16d77ec916b61e177edb1285b1cf464f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/25c8fd96e/92523204/25c8fd96e1869bef2ecacd6feb903946.jpeg",
+  "https://media.rightmove.co.uk/property-photo/206888028/92523204/206888028af0e429975ac06f9b544692.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3022020ab/92523204/3022020aba49ca20e50c74bd424a31af.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 0.6900168035680351,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 1.8098930812679712,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 2.5781331166281185,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Northwood, Chapel Allerton",
+ "city": "Leeds",
+ "sourceOutcode": "LS2",
+ "scrapedAt": "2026-08-30T10:24:12.490Z"
+}

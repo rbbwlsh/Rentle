@@ -1,0 +1,94 @@
+{
+ "id": "92430105",
+ "displayAddress": "York Grove, Peckham, London",
+ "outcode": "SE15",
+ "incode": "2NZ",
+ "latitude": 51.474281,
+ "longitude": -0.054695,
+ "priceAmount": 3500,
+ "priceLabel": "£3,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92430105",
+ "area": "Peckham, London",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "04/09/2026",
+  "deposit": 4038,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This unique three-bedroom, top-floor, south-facing, split-level apartment, situated in sought-after Peckham, is within a gated development, available immediately.part furnished.\nConverted from a Victorian school, this gated development enjoys a vibrant community feel and is only a 3-minute walk down a tree-lined cul-de-sac to Queens Road Overground Station.\nThe current owners have significantly improved the layout of this home, increasing ceiling heights, floor area, and redesigning and extending the original two mezzanine bedroom layout into three unique spaces. The apartment also comes with two allocated parking spaces.\nOn entering the spacious entrance hall, you immediately appreciate the double-height ceilings, exposed brickwork, industrial steelwork, and original restored wooden floors. Three doors lead away to the lounge, to a flexible space, where the third bedroom resides, and to a bathroom, complete with bath and integrated shower. A staircase also leads up to two additional bedrooms.\nMoving into the lounge, one is greeted by an abundance of natural light from the two oversized hardwood double-glazed sash windows, which also provide a view out over the rear gardens of York Grove, creating an almost park-like experience.\nMoving through the bright, double-height dining area takes you into the kitchen, which, due to increased ceiling height, has a bright feel.\nLeading off the hall is a room/suite, which can provide flexible accommodation; it has double-height ceilings, two large double-glazed hardwood sash windows, and a separate staircase leading up to a mezzanine with ample storage space.\nThe upper floor accommodates two bedrooms offering very different experiences. The first is a two-tier arrangement with twin staircases leading to either side of a bed platform. The other provides another unique space, with exceptionally high ceilings, a large bay window, looking down across the dining area and out to the gardens beyond, as well as a large roof window.",
+ "keyFeatures": [
+  "Three bedroom 1000+sqft duplex apartment",
+  "South facing",
+  "Stunning gated development",
+  "Short walk to Queen's Road Train Station",
+  "Open Plan living",
+  "Top floor apartment with extra high ceilings",
+  "Hardwood double-glazed sash windows",
+  "Original restored wood floors",
+  "Excellent transport links",
+  "Available immediately on a part furnished basis"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a592a6c33/92430105/a592a6c33788dd12c9381d08ecd95bc1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1d4365eed/92430105/1d4365eed6c57770020f9aa0d51ed121.jpeg",
+  "https://media.rightmove.co.uk/property-photo/38a3015f7/92430105/38a3015f70ff56e49922f88afa591d03.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f417953e8/92430105/f417953e82e29d95b8ee4d70491a99dc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/09d571589/92430105/09d571589480e15d1c907d6fbf2827e4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/85b7f96ba/92430105/85b7f96ba999678d8d54c27cf19affaa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f15c9511d/92430105/f15c9511d13acb997ae5b8d7499b61d7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/70e6deff4/92430105/70e6deff4c32dcacc075b35f0dbf0ce0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/67ad643aa/92430105/67ad643aa8afe562f7833615f723c020.jpeg",
+  "https://media.rightmove.co.uk/property-photo/85ba72132/92430105/85ba72132f521e8d15a31b3f30ea6680.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0a6a5e708/92430105/0a6a5e708fdc35be83b879f69f343793.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2f1777390/92430105/2f1777390abffff8c35e88daebb0e14c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2d75f88b1/92430105/2d75f88b1cca70cc6c5fef52fc7b51e2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c8515e04e/92430105/c8515e04ef818b44b0619d2c0c40602d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2a4e0af08/92430105/2a4e0af08a60eca429424694520b5da1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e2b448aff/92430105/e2b448aff99c100db72cc8078057a424.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8417abff0/92430105/8417abff0244c006cf0ccba8878f8d4a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/96cc9a1c1/92430105/96cc9a1c1b97b6f3bb7cc3793902f9c7.png"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "Queens Road Peckham Station",
+   "miles": 0.12497166031883822,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Nunhead Station",
+   "miles": 0.5056948119483915,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "New Cross Gate Station",
+   "miles": 0.6237674027502688,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_OVERGROUND"
+   ]
+  }
+ ],
+ "agent": "Aston Gray, Maidenhead",
+ "city": "London",
+ "sourceOutcode": "SE15",
+ "scrapedAt": "2026-08-30T10:14:44.442Z"
+}

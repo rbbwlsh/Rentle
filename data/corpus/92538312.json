@@ -1,0 +1,76 @@
+{
+ "id": "92538312",
+ "displayAddress": "Monument Road, Edgbaston",
+ "outcode": "B16",
+ "incode": "8XF",
+ "latitude": 52.47566,
+ "longitude": -1.92929,
+ "priceAmount": 750,
+ "priceLabel": "£750 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92538312",
+ "area": "Edgbaston",
+ "bedrooms": null,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": null,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 865,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "** Zero Deposit Guarantee Available **\nAVAILABLE NOW! \n\nThe property offers generous living accommodation throughout, featuring a bright and airy open-plan living space that provides both comfort and practicality. \nThe modern fitted kitchen comes complete with integrated appliances, while the well-presented bathroom benefits from contemporary fixtures and fittings.\n\nConveniently located with excellent transport links, the apartment provides easy access to Birmingham city centre, public transport services, and major road networks. \nA range of local shops, restaurants, and everyday amenities are also within close reach.\n\nOffering a superb combination of comfort, convenience, and location, this attractive apartment is an excellent choice for professionals seeking high-quality accommodation. Council Tax Band: A Holding Deposit: £150.00",
+ "keyFeatures": [
+  "SELF CONTAINED STUDIO FLAT",
+  "AVAILABLE NOW!",
+  "PARKING",
+  "TRANSPORT LINKS TO CITY CENTRE",
+  "FULLY FURNISHED"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c515a0d14/92538312/c515a0d1417c2123f994a7490dc8c82a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9b9eb0655/92538312/9b9eb0655165aa7675e9e5d734f98c1b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/426f37f8f/92538312/426f37f8f935513d810369bf227d7325.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0bcda17f9/92538312/0bcda17f9c1e3fd5d9a40e871fd8795c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f4e529c32/92538312/f4e529c32a9accd78817d09036ae30bb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b3044114e/92538312/b3044114e0a8f2e799d690228b8e4595.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ef102c2af/92538312/ef102c2af1c93be51935747e64a0a68d.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Five Ways Station",
+   "miles": 0.7906280661475107,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Jewellery Quarter Tram Stop",
+   "miles": 1.1797210685904502,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 1.2891948997985354,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Connells Lettings, Bearwood",
+ "city": "Birmingham",
+ "sourceOutcode": "B16",
+ "scrapedAt": "2026-08-30T10:21:13.611Z"
+}

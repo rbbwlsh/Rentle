@@ -1,0 +1,82 @@
+{
+ "id": "92134155",
+ "displayAddress": "Morningside Gardens, Edinburgh, EH10",
+ "outcode": "EH10",
+ "incode": "5LE",
+ "latitude": 55.922665,
+ "longitude": -3.222425,
+ "priceAmount": 1195,
+ "priceLabel": "£1,195 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92134155",
+ "area": "Edinburgh",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 1800,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "DEPOSIT £1,800 - One bedroom ground floor furnished flat in the Morningside area of Edinburgh. TO BOOK A VIEWING PLEASE FILL OUT THE CONTACT AGENT FORM\n\n\rThe recently renovated ground floor property comprises an open-plan lounge/kitchen, one double bedroom with fitted wardrobes, and a shower room. Further benefits include double glazing, gas central heating, and free on street parking.  \n\nSituated in the highly sought-after Morningside area, Morningside Gardens enjoys a peaceful residential setting while being just moments from an excellent selection of independent cafés, restaurants, shops and supermarkets. The area is renowned for its village atmosphere, superb local schooling, and easy access to The Meadows, Blackford Hill, as well as regular transport links through the city centre and beyond.\n\nDeposit : £ 1800 \nEPC Rating: C \nCouncil Tax Band: C \nLandlord Registration: 567321/230/07081 \nAdditional costs: council tax and water charge / utilities / broadband (if applicable) / Garden Waste Bin from local authority at additional cost (if applicable)   \nHeating Type: Gas Central Heating\nProperty Floor: Ground\nUtilities: Credit Meter  \nBroadband Type: Full Fibre Available \n*as obtained from   Further information regarding broadband and phone signal can be obtained from the Ofcom broadband and mobile coverage checker\nParking Type: Free on street parking\nPlanning permission: Please check this property's local authority planning website for any planning which may impact the property or local area in future. \n\nAll statements contained herein are believed to be correct but are not guaranteed and interested parties must satisfy themselves as to their accuracy.  \n\nLetting Agent Registration Number: LARN1812026",
+ "keyFeatures": [
+  "1 total bedroom",
+  "1 double bedroom",
+  "1 reception room",
+  "1 bathroom",
+  "Apartment/Flat",
+  "Ground Floor",
+  "Street parking",
+  "Town/City",
+  "Furnished",
+  "Long let"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d0001ffb1/92134155/d0001ffb122d7209845027f8976b0303.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cefbb5ce0/92134155/cefbb5ce081effd394395b760b58f974.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8d203d884/92134155/8d203d8841d87f645a8bd586a7d4f7f8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/28d43490c/92134155/28d43490cb799244f7fd0312c5f16ca0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ec81a7123/92134155/ec81a7123b120b4a45a8a49d47ad44fe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c69af055f/92134155/c69af055f4bf6e06ba555a300c0589f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/26e89d2ae/92134155/26e89d2aea90280b847b2753295d9705.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e19670edb/92134155/e19670edb988330ee2d79f865e62ec9d.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Slateford Station",
+   "miles": 0.8610679496821924,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.5793410057326955,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Kingsknowe Station",
+   "miles": 1.680460541991387,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "DJ Alexander, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH10",
+ "scrapedAt": "2026-08-30T11:04:31.946Z"
+}

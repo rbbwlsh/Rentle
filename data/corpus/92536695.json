@@ -1,0 +1,77 @@
+{
+ "id": "92536695",
+ "displayAddress": "Palatine Road, Manchester, M20",
+ "outcode": "M20",
+ "incode": "3LJ",
+ "latitude": 53.427326,
+ "longitude": -2.234155,
+ "priceAmount": 650,
+ "priceLabel": "£650 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92536695",
+ "area": "Manchester",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat Share",
+ "details": {
+  "propertyType": "Flat Share",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "13/09/2026",
+  "deposit": 650,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Property Reference: 3020765.\n\nWe are proud to offer this delightful room in a duplex two bed flat-  2 bedroom, 1 bathroom ( shower and toilet) 1 Toilet shared flat in a great location Didsbury.\n\nThe duplex flat has two large bedrooms and one bedroom is available for rent. \n\nFew minutes walk to West Didsbury tram station, bus stop and fashionable burton road.\n\nIdeally suited for a mature student to share with a Ph.D student.\n\nPhotos taken previously is added.\n\nAvailable to move in from 13 September 2026, this property benefits from available parking. Property is offered furnished.\n\nViewing highly recommended. Contact OpenRent today for more details or to arrange a viewing!\n\nEPC is available and will be provided.\n\nSummary & Exclusions:\n- Rent Amount: £650.00 per month (£150.00 per week)\n- Deposit / Bond: £650.00\n- 2 Bedroom Property (1 room currently available for rent)\n- 1 Bathrooms\n- Property comes furnished\n- Available to move in from 13 September 2026\n- Maximum number of tenants is 1\n- Students welcome to enquire\n- No Smokers\n- Bills not included\n- Property has parking\n- No Garden Access\n- EPC Rating: EPC Not Required (Shared Accommodation)\n\n  If calling, please quote reference: 3020765  \n\nFees:\nYou will not be charged any admin fees.\n\n ** Contact today to book a viewing and have the landlord show you round! ** \nRequest Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.",
+ "keyFeatures": [
+  "No Agent Fees",
+  "Room Only (Shared Flat)",
+  "Students Can Enquire",
+  "Property Reference Number: 3020765"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/595f15410/92536695/595f15410eff71d90cd25c8afe25109f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3a648fed3/92536695/3a648fed378229d8431033430b4078ff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/407fecf8d/92536695/407fecf8dcb6cdb37d0a6034bd440f22.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b4362ecc2/92536695/b4362ecc2bbeddf6b25b4cab89914a95.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dd1724bea/92536695/dd1724bea07c18d0aa657bed30568874.jpeg",
+  "https://media.rightmove.co.uk/property-photo/47e8f44e9/92536695/47e8f44e92e1bf139f34ad9152cecc5f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/47e8f44e9/92536695/47e8f44e92e1bf139f34ad9152cecc5f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bbdb87af2/92536695/bbdb87af2473507386603ed4142faee1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a3684be27/92536695/a3684be270c8df39e148b50d11d71b7c.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 0.2094833061886113,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 0.2947137795456676,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Withington Tram Stop",
+   "miles": 0.7249016697991821,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "OpenRent, London",
+ "city": "Manchester",
+ "sourceOutcode": "M20",
+ "scrapedAt": "2026-08-30T10:18:27.491Z"
+}

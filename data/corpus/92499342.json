@@ -1,0 +1,83 @@
+{
+ "id": "92499342",
+ "displayAddress": "Pembroke Road",
+ "outcode": "BS8",
+ "incode": "3BE",
+ "latitude": 51.45931,
+ "longitude": -2.61541,
+ "priceAmount": 700,
+ "priceLabel": "£700 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92499342",
+ "area": "Pembroke Road",
+ "bedrooms": 1,
+ "bathrooms": 2,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 800,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "| GBP161.50pppw | 1 Room in STUDENT HOUSE SHARE | Clifton, BS8 | Available: 01/08/2026 |\n\nThis well-presented double bedroom is available within a spacious and characterful professional house share on the sought-after Pembroke Road, Clifton. Fully furnished and offering comfortable accommodation in one of Bristol's most desirable locations, this room is ideal for professionals seeking convenience and a welcoming home.\n\nThe bedroom is furnished with a double bed, wardrobe, chest of drawers, bedside cabinet, and built-in desk with chair, providing a practical space for both working and relaxing. A large rear-facing window overlooking greenery allows plenty of natural light, while attractive period features add character to the room.\n\nThe property benefits from a large communal kitchen and dining area, fully equipped with a gas hob, oven, extractor fan, fridge freezer, washing machine, tumble dryer, and ample worktop space, creating an ideal environment for cooking and socialising.\n\nResidents also have access to a comfortable communal lounge, featuring high ceilings, original cornicing, a feature fireplace, and large windows, providing a bright and relaxing shared living space.\n\nThe house offers multiple bathroom facilities, including both a bath with overhead shower and a separate shower room, making it well suited to shared living.\n\nLocated on the prestigious Pembroke Road, the property is within easy walking distance of Whiteladies Road, Clifton Village, The Triangle, and the University of Bristol. Excellent transport links, independent caf s, shops, restaurants, and The Downs are all close by, making this an exceptional location for professionals or postgraduate students.\n\nA fantastic opportunity to secure a spacious room in one of Bristol's most desirable locations - contact us today to arrange your viewing. Bills not included.",
+ "keyFeatures": [
+  "Fully Furnished Double Bedroom",
+  "Student House Share",
+  "Spacious Communal Kitchen &amp; Lounge",
+  "Multiple Bathroom Facilities",
+  "Character Period Property",
+  "Prime Clifton Location",
+  "Walking Distance to University &amp; Whiteladies Road",
+  "Close to Shops, Cafés &amp; Transport Links"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/463592e15/92499342/463592e1558ec5489a1bb9cd37b46e5d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e07827825/92499342/e0782782537ed72c5aa64c08cf2be06c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b062962b3/92499342/b062962b3686c4ea4e529fa04f8289aa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/823a75e5b/92499342/823a75e5b98ea46f4cd27e6572231695.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4ba8c91dc/92499342/4ba8c91dc961e2254a416f1ce54d937a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b53f7e419/92499342/b53f7e419c8b6f876e1c96bd5601b61a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/026cc3112/92499342/026cc311280d9f7ad402cb493e8878c8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b70a13e57/92499342/b70a13e57e51358d2ff619dc693b9184.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ac4ec170/92499342/8ac4ec170e8ce567d8261bfc878ab819.jpeg",
+  "https://media.rightmove.co.uk/property-photo/af60a566d/92499342/af60a566df62d2a26402240684ff02c9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c116d7144/92499342/c116d714405509d79a92deca4ddc5dd4.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.40894719268910706,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.9290526090809442,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Montpelier Station",
+   "miles": 1.3098361378129946,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Guild Property, Covering Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS8",
+ "scrapedAt": "2026-08-30T11:03:13.174Z"
+}

@@ -1,0 +1,95 @@
+{
+ "id": "92538285",
+ "displayAddress": "W3 Building, 51 Whitworth St, M1 5EA",
+ "outcode": "M1",
+ "incode": "5EA",
+ "latitude": 53.474437,
+ "longitude": -2.242121,
+ "priceAmount": 1200,
+ "priceLabel": "£1,200 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92538285",
+ "area": "51 Whitworth St",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 506,
+  "sizeSqM": 47,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "05/10/2026",
+  "deposit": 1380,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": 506,
+ "sizeSqM": 47,
+ "description": "** AVAILABLE 5th OCTOBER - VIDEO TOUR ATTACHED - PHYSICAL VIEWING REQUIRED- Spacious one bedroom apartment, on the 1st floor of the popular W3 Building. 24hr Concierge, Close to Universities and in the heart of Manchester\n\n***NO CORPORATE LETTING or SHORT-TERM LETTINGS ALLOWED*** \n\n**THE PROPERTY WILL ONLY BE LET FOLLOWING A PHYSICAL VIEWING BEING CARRIED OUT BY THE APPLICANT OR THEIR REPRESENTATIVE**\n\n**NO PETS ALLOWED**\n\n**Utility Bills are NOT INCLUDED in any rental payment\n\nThis fully furnished apartment on the 1st Floor comprises of a spacious double bedroom, open plan living room & fully fitted kitchen with appliances, a luxury bathroom.\n\nThe development also benefits from a 24 hour concierge and outdoor communal gardens. \n\nIf you need to travel/commute, Oxford Road train station, Bus & tram stops are just a stones throw away and with plenty of shops, bars and restaurants this is a perfect location for city living at its best!!\n\nCouncil Tax Band - C\n\n**Secure Parking may be available at an extra monthly charge - £100.00pm**",
+ "keyFeatures": [
+  "**DEPOSIT FREE OPTION AVAILABLE**",
+  "LARGE DOUBLE BEDROOM WITH STORAGE",
+  "1 FULLY TILED BATHROOM",
+  "FULLY FURNISHED",
+  "FITTED KITCHED WITH WASHER/DRYER &amp; DISHWASHER",
+  "SUITABLE FOR STUDENTS &amp; PROFESSIONALS",
+  "CONCIERGE",
+  "CLOSE TO OXFORD RD STATION",
+  "IDEAL CITY CENTRE LOCATION",
+  "OPTIONAL SECURE PARKING - £100.00PM"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/491e49275/92538285/491e492750766feefc8be5d07e9979ba.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ceee41651/92538285/ceee416515bc3608e2638f8616e848f1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c0017124c/92538285/c0017124c16be3c072ac2c4d4101b759.jpeg",
+  "https://media.rightmove.co.uk/property-photo/01af016c3/92538285/01af016c3946ba11b6f9d4ca7535285d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1c3b28a09/92538285/1c3b28a0967583d5ed35443acc5a86c4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a7559743d/92538285/a7559743d4a442c0857a91322af480f4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5bcaa2112/92538285/5bcaa2112d3a4a6bb29bc0a46af966cb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3f0d98401/92538285/3f0d984010ddf5575520fa5c7500a4aa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1bf44915b/92538285/1bf44915bdb4698b765aeb749b345d17.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1bdb3ff33/92538285/1bdb3ff3303f042d22e739517fbea9b2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6e7688f24/92538285/6e7688f242b892aedcb1a0c590a2bdd7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a8459005f/92538285/a8459005f0a70f3dd7ca27522d1458ee.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9f9da1b64/92538285/9f9da1b6445715bda54bb7a14d2c63e3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e15a0f559/92538285/e15a0f559fee49f2cec766ca64b84154.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b4a84c1b9/92538285/b4a84c1b9c50ce285f017c40cbdfba18.jpeg",
+  "https://media.rightmove.co.uk/property-photo/efbfe45f3/92538285/efbfe45f33bc4306fca84d60f7921bdc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c1fc1899b/92538285/c1fc1899b6c87d8f063a1280aec27644.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2cac1e1c3/92538285/2cac1e1c3e7ad2644d1e2ab8b3a5a38b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4f275a74b/92538285/4f275a74b4c71d7a0f145962a0f5fc05.jpeg",
+  "https://media.rightmove.co.uk/property-photo/84654919c/92538285/84654919c97c9f2577eefed41eabbba0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/24cf30630/92538285/24cf306301d8add9278195433f66a3aa.jpeg"
+ ],
+ "imageCount": 21,
+ "nearestStations": [
+  {
+   "name": "Manchester Oxford Road Station",
+   "miles": 0.03805614184519241,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "St Peters Square Tram Stop",
+   "miles": 0.23536936246802434,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Deansgate Station",
+   "miles": 0.3591212341650851,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Manlets, Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M1",
+ "scrapedAt": "2026-08-30T10:16:50.120Z"
+}

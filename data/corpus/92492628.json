@@ -1,0 +1,88 @@
+{
+ "id": "92492628",
+ "displayAddress": "Hanover Court, Stean Street, Haggerston, E8",
+ "outcode": "E8",
+ "incode": "4ED",
+ "latitude": 51.536875,
+ "longitude": -0.075401,
+ "priceAmount": 4000,
+ "priceLabel": "£4,000 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92492628",
+ "area": "Haggerston",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": 1050,
+  "sizeSqM": 98,
+  "letType": "Long term",
+  "furnishType": null,
+  "letAvailableDate": "Now",
+  "deposit": null,
+  "minimumTermMonths": 12,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": 1050,
+ "sizeSqM": 98,
+ "description": "New Space Lettings are pleased to offer this 3-bedroom apartment in the heart of all the great things Hackney has to offer.\n\nThe property itself is a great size, with over 1,000 sq ft of space, and is well laid out. You can configure the property to your liking. You could have 3 massive bedrooms (1 en-suite) with 2 studies, or you could have a huge living room with 2 large bedrooms and 2 kids' rooms. The showstopper of the property is the massive private terrace. The previous tenants used it as a gym, but it could comfortably fit sun loungers for 10!\n\nThe kitchen is large and fully equipped with a dishwasher, washer-dryer and full-size fridge freezer. Both bathrooms are modern, and there is loads of storage.\n\nStean Street, located just off Regent's Canal, is a dream location for most. Haggerston has everything you need for comfortable living: a Tesco, plenty of places for an after-work beer, gyms, cafés and restaurants. There's a reason why Haggerston is getting more and more sought-after every year.\n\nYou could throw a paper aeroplane from your window to Regent's Canal - that's how close you are. It's a nice 10-minute walk to London Fields and Broadway Market on the weekends, another 10 minutes and you're in beautiful Victoria Park. In the other direction, you can find yourself all the way in King's Cross.\n\nReady to move in right away, freshly painted and currently mostly unfurnished. For the right offer, the owners may be able to provide beds.\n\nDon't miss out!",
+ "keyFeatures": [
+  "Massive Private Terrace",
+  "1000sqft+",
+  "Ready To Move Now",
+  "Freshly Painted",
+  "3 Bed w 2 studios or 4 Bed w Living Room",
+  "2 Bathrooms",
+  "Loads of Storage",
+  "Wooden Flooring",
+  "Haggerston Station - 2 Min Walk",
+  "Regenats Canal - 30sec Walk"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/3b5fd8307/92492628/3b5fd830723b192537d79cfc507ac928.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d06a44c68/92492628/d06a44c686442003bab5ac56cac4dd58.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b86b2d76e/92492628/b86b2d76e0de54557d021ced885dec36.jpeg",
+  "https://media.rightmove.co.uk/property-photo/89c5985e4/92492628/89c5985e4669cb6ab9c54dc222386bd7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0a828b226/92492628/0a828b2266ff902e2238e61614615cb2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3a081ee12/92492628/3a081ee123d64cd7519331ca011f6507.jpeg",
+  "https://media.rightmove.co.uk/property-photo/94ceb57d1/92492628/94ceb57d11170bacd48ddd4b5e813f6f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/975843035/92492628/9758430351ba884ef5617c2481f2fa77.jpeg",
+  "https://media.rightmove.co.uk/property-photo/08d10c5a1/92492628/08d10c5a11dd3c2826d1b0d92e31ab3e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e0c887c79/92492628/e0c887c79b973bd2b3cd997b6349b47e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/623b2156d/92492628/623b2156d317b936ba3d00a75d719b4a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7ec3d913a/92492628/7ec3d913acea2bf6b5d49a70fd43d970.jpeg",
+  "https://media.rightmove.co.uk/property-photo/89a32d6d0/92492628/89a32d6d0a0819a481d139dbe7021089.jpeg",
+  "https://media.rightmove.co.uk/property-photo/982ce50a4/92492628/982ce50a4d74d78c4f4976bddd202e49.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Haggerston Station",
+   "miles": 0.18449416862646872,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Hoxton Station",
+   "miles": 0.3755638908829288,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Dalston Junction Station",
+   "miles": 0.6392916377883672,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  }
+ ],
+ "agent": "New Space, London",
+ "city": "London",
+ "sourceOutcode": "E8",
+ "scrapedAt": "2026-08-30T10:12:56.240Z"
+}

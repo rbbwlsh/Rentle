@@ -1,0 +1,82 @@
+{
+ "id": "90089745",
+ "displayAddress": "Old School Lane, Clifton, Bristol, Somerset, BS8",
+ "outcode": "BS8",
+ "incode": "4TY",
+ "latitude": 51.450109,
+ "longitude": -2.612862,
+ "priceAmount": 3250,
+ "priceLabel": "£3,250 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90089745",
+ "area": "Bristol, Somerset",
+ "bedrooms": 3,
+ "bathrooms": 3,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "sizeSqFt": 1622,
+  "sizeSqM": 151,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 4500,
+  "minimumTermMonths": null,
+  "councilTaxBand": "F"
+ },
+ "sizeSqFt": 1622,
+ "sizeSqM": 151,
+ "description": "A quiet backwater and private development on the slopes of Clifton.\n\n\rDescription\n\nA sleek, split level townhouse with a clean cuboid design, smart brick and rendered elevations and incorporating powder coated aluminium double glazed windows. Set in one of Bristol‘s most sought after spots, the property offers elevated views over the waterfront including iconic sights such as the SS Great Britain and Saint Mary Redcliffe.\n\nNatural light floods the internal space through plenty of big windows creating a warm and inviting vibe throughout. The layout is flexible and well thought out with standout features like a roof terrace and balcony that serve up seriously impressive views. Plus, you’ve got your own dedicated parking space, always a bonus in Clifton. \n\nInside, the split level design includes three bedrooms and three bathrooms, one of which is en suite along with handy storage and a utility cupboard spread across three floors. The main reception room is open plan with a living and dining area that opens right onto the front balcony, ideal for morning coffee or evening drinks. The kitchen is practical with plenty of cupboards, polished granite work surfaces and some built-in appliances.\n\nWithin the top floor, the sitting room is flooded with light and offers stunning views through huge windows. Step out onto the timber deck roof terrace, the perfect spot for alfresco dining or watching dinghy sailing on the waterfront all of which has the SS Great Britain as a stunning backdrop.\n\nAt the front there’s a neat block paved parking spot and some hardstanding.\n\nLocation\n\nOld School Lane feels like a peaceful hideaway right in the heart of Clifton, a bit of a contradiction but that’s the charm. You’re less than 160 metres from the lively waterfront and less than 1 mile uphill takes you to Clifton village where there’s a buzzing mix of bars, restaurants and retail outlets.\n\nThe waterfront offers pretty walkways and water taxis to the city centre surrounded by more restaurants and bars. For lovers of the outdoors, Bristol’s famous green spaces are close by Durham Downs has 400 acres of parkland and the Ashton Court estate across the Suspension Bridge has mountain bike trails and bridle path. Golf, sailing and windsurfing all within reach too. \n\nFor commuters the A4 links directly to the city centre and motorway networks (M5 and M4) while Bristol Temple Meads train station and the airport keep you connected to the wider country.\n\nSquare Footage: 1,622 sq ft\n\r\n\r \r\n\nAdditional Info\n\nHolding Deposit : £750 ( 1  week )\nDeposit Payable : £3,750 ( 5 weeks )\nRent must be paid monthly in advance",
+ "keyFeatures": [
+  "Reception hall",
+  "Living/dining room with balcony",
+  "Sitting room with roof terrace",
+  "Three bedrooms, two bathrooms and an en suite shower room",
+  "Allocated off street car parking space",
+  "EPC Rating = C"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/0a4e26e1b/90089745/0a4e26e1b7c0c923292016c3fb561e2f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/193e01dac/90089745/193e01dacc32de8dbabcd3eb305145fa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/402447f61/90089745/402447f615e25b4adc7963aeafcfaa27.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b19280162/90089745/b192801625b620cd742ea4253a4b7092.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5d2580a43/90089745/5d2580a434e6ae99360e1fb38b50b572.jpeg",
+  "https://media.rightmove.co.uk/property-photo/daef2067e/90089745/daef2067e53fb438de3de60422830a10.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1bb6f4bb5/90089745/1bb6f4bb5b2f831ebd7a97b00c5d400e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9ec3e3ef1/90089745/9ec3e3ef14035a1e3c8fd69948b8a293.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c95114c46/90089745/c95114c46bb531092c6b89b76d90a03a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2e545ed2c/90089745/2e545ed2c2b3f29b1e48b2874f20e599.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fc7e6bf0b/90089745/fc7e6bf0b2d829849db9f3d059b36e28.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c7f81c9af/90089745/c7f81c9af40cf4785bd07d32ed26a368.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Clifton Down Station",
+   "miles": 1.0017126238876868,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bedminster Station",
+   "miles": 1.0642309727064767,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Parson Street Station",
+   "miles": 1.1841207389404305,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Savills Lettings, Clifton",
+ "city": "Bristol",
+ "sourceOutcode": "BS8",
+ "scrapedAt": "2026-08-30T11:03:02.139Z"
+}

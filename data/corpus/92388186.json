@@ -1,0 +1,71 @@
+{
+ "id": "92388186",
+ "displayAddress": "Fearnville Road, Leeds, West Yorkshire, LS8",
+ "outcode": "LS8",
+ "incode": "3DZ",
+ "latitude": 53.817553,
+ "longitude": -1.485462,
+ "priceAmount": 1050,
+ "priceLabel": "£1,050 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92388186",
+ "area": "Leeds, West Yorkshire",
+ "bedrooms": 3,
+ "bathrooms": null,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 0,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "PLEASE CLICK CONTACT/EMAIL AGENT* Absolutely immaculate, fully refurbished 2nd floor apartment with 3 DOUBLE bedrooms. New boiler and central heating system, re-aired, new carpets, internal doors, kitchen and bathroom with bath and shower. Fantastic home for single professionals, couples or families. On street parking. No pets allowed under the superior lease. Available now!\n\n\rIMPORTANT NOTE TO POTENTIAL PURCHASERS & TENANTS:\n We endeavour to make our particulars accurate and reliable, however, they do not constitute or form part of an offer or any contract and none is to be relied upon as statements of representation or fact. The services, systems and appliances listed in this specification have not been tested by us and no guarantee as to their operating ability or efficiency is given. All photographs and measurements have been taken as a guide only and are not precise. Floor plans where included are not to scale and accuracy is not guaranteed. If you require clarification or further information on any points, please contact us, especially if you are traveling some distance to view. POTENTIAL PURCHASERS: Fixtures and fittings other than those mentioned are to be agreed with the seller. POTENTIAL TENANTS: All properties are available for a minimum length of time, with the exception of short term accommodation. Please contact the branch for details. A security deposit of at least one month’s rent is required. Rent is to be paid one month in advance. It is the tenant’s responsibility to insure any personal possessions. Payment of all utilities including water rates or metered supply and Council Tax is the responsibility of the tenant in most cases. \n\nLEE260196/2",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/839f1e727/92388186/839f1e727497383706d7ed18f624d2f5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c8e700353/92388186/c8e70035326f0373f6de4c6ead4408de.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4f937236e/92388186/4f937236ebb4f9703e377b86ed25418f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0d6fa7bd0/92388186/0d6fa7bd0cc23879634da294607d7bf1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/238108246/92388186/2381082465c69a7fe87c42e6aaba9a4e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ffa4cf950/92388186/ffa4cf950d61e1526dc87916cbe6b4c5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0156683a5/92388186/0156683a58a130a730b07751c3797b38.jpeg",
+  "https://media.rightmove.co.uk/property-photo/11db14d37/92388186/11db14d37725d0cc4042b6bd8defd162.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Cross Gates Station",
+   "miles": 1.6867573488074616,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Leeds Station",
+   "miles": 3.005391738193132,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 3.810581510479038,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "YOUR MOVE James Barrett, Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS8",
+ "scrapedAt": "2026-08-30T10:25:09.660Z"
+}

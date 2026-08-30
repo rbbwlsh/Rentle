@@ -1,0 +1,78 @@
+{
+ "id": "92449053",
+ "displayAddress": "31 West Street, Bristol, BS3",
+ "outcode": "BS3",
+ "incode": "3NS",
+ "latitude": 51.439028,
+ "longitude": -2.602166,
+ "priceAmount": 850,
+ "priceLabel": "£850 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92449053",
+ "area": "Bristol",
+ "bedrooms": null,
+ "bathrooms": 1,
+ "propertySubType": "Not Specified",
+ "details": {
+  "propertyType": "Not Specified",
+  "bedrooms": null,
+  "bathrooms": 1,
+  "sizeSqFt": 1335,
+  "sizeSqM": 124,
+  "letType": "Long term",
+  "furnishType": "Part furnished",
+  "letAvailableDate": "Ask agent",
+  "deposit": 980,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": 1335,
+ "sizeSqM": 124,
+ "description": "Spacious Double Room with Private Shower Room, WC & Kitchen Section – BS3\n\nDouble Room | Private Shower Room & WC | Garden Access | Bills Included | Available NOW*\n\nLooking for a spacious room that offers a little more privacy and independence? This well-presented double room at West Street, Bedminster, Bristol, BS3 3NS comes complete with its own kitchen, private shower room with WC, making it an excellent choice for working professionals seeking comfortable and convenient living.\n\nAvailable NOW, this room combines the convenience of shared accommodation with the comfort of having your own private facilities.\n\nStep inside and you'll find:\n\nA bright and spacious double bedroom with plenty of room to relax and unwind\nPrivate shower room & WC\nPrivate kitchen section, perfect for preparing light meals and enjoying added independence\nAccess to a shared outdoor garden/patio area\nNeutral décor throughout, ready for you to make the space your own\nFantastic BS3 location close to local shops, cafés, pubs, restaurants and excellent transport links\n\nSituated on West Street, you'll be perfectly positioned to enjoy everything Bedminster has to offer, with North Street, Wapping Wharf and Bristol City Centre all within easy reach.\n\nAll bills are included within the rent, with the exception of electricity, which is payable by the tenant.\n\nEPC Rating: D\nSecurity Deposit: £980.77\n\nA fantastic opportunity to secure a spacious room with private facilities in one of Bristol's most desirable locations.\n\nElectricity payable by the tenant. All other bills included.\n\nDisclaimer: Photos have been AI edited for marketing purposes.",
+ "keyFeatures": [
+  "Available NOW",
+  "Double Room to Rent",
+  "Ensuite &amp; Private Kitchen Section",
+  "Electric paid by the tenants (all other bills included)",
+  "Great Location BS3",
+  "EPC - D",
+  "Security Deposit: £980.77"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/7b0694b41/92449053/7b0694b417d9cc5d92b6dc6e571be5a3.png",
+  "https://media.rightmove.co.uk/property-photo/bcaf417ab/92449053/bcaf417ab3ac2251faf6d16160b606ad.png",
+  "https://media.rightmove.co.uk/property-photo/8f65621ec/92449053/8f65621ec3651113007c62f4198021e5.png",
+  "https://media.rightmove.co.uk/property-photo/e0fccb61b/92449053/e0fccb61b0fdffe6f47395ba857a22d1.png",
+  "https://media.rightmove.co.uk/property-photo/291d8d47e/92449053/291d8d47e68314adabe57da1d2c478d7.png",
+  "https://media.rightmove.co.uk/property-photo/9cef24e74/92449053/9cef24e74c212b3e1b9da4feb9a5f124.png",
+  "https://media.rightmove.co.uk/property-photo/95fbd84f9/92449053/95fbd84f9528d0cb0f7b142a98c217e0.png"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Bedminster Station",
+   "miles": 0.34693123707030593,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Parson Street Station",
+   "miles": 0.4939527793809926,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 1.1316997105764668,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Bristol Property Centre, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS3",
+ "scrapedAt": "2026-08-30T10:22:43.645Z"
+}

@@ -1,0 +1,83 @@
+{
+ "id": "91839357",
+ "displayAddress": "F20 - 54 George Road, Five Ways, West Midlands, B15",
+ "outcode": "B15",
+ "incode": "1PL",
+ "latitude": 52.471477,
+ "longitude": -1.913832,
+ "priceAmount": 674,
+ "priceLabel": "£674 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91839357",
+ "area": "Five Ways, West Midlands",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 450,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "| £155.00 pppw inc bills | Room F in Flat Share | Available for 26/27 Academic Year | Tenancy Start Date: 01/09/2026 | Next to Five Ways Station | ALL EN-SUITE | Open-Plan Living Space | Digital Entry & CCTV | Super-Fast Wi-Fi | Ref: 886843 |\n\nPositioned next to Five Ways train station, this room offers easy access to both Edgbaston/Selly Oak and City Centre university campuses. The surrounding area provides a range of local amenities, including a supermarket within five minutes walk.\n\nYour spacious en-suite room measures around 14 Sq.m and includes a double bed with under-bed storage, a drawer unit, wardrobe, desk, and chair. An en-suite shower room is provided.\n\nThis room is part of a cluster flat featuring six en-suite rooms sharing a large, open-plan kitchen, dining, and living space. The kitchen is fully equipped with two fridge-freezers, a dishwasher, washer-dryer, oven, ceramic hob, microwave, kettle, and toaster. A large flat-screen TV is provided in the communal living area.\n\nSuper-fast Wi-Fi is available throughout the building. A secure entry system controls access to the building.\n\nWhere bills are included: Gas, electricity, water, TV licence, fibre broadband where possible (limited by a fair usage policy).\n\nHolding Deposit: £155.00 per person (one week's rent)\nCouncil Tax Band: F",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/0d6d6263c/91839357/0d6d6263c989a6d88894ee8dbb02891d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e9e3be68f/91839357/e9e3be68f2c7e57974e6ebd8d091abad.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3cdf18c45/91839357/3cdf18c45e5b0f08970f48b559dc5e00.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e5c9901c8/91839357/e5c9901c8c779970cecb0f90dd2e0ddc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d0fba1a22/91839357/d0fba1a2289e75fa8ca71512f70170b8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b2dd8b3bf/91839357/b2dd8b3bf6578f9dc93b1d144c516fe1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0e5d6741e/91839357/0e5d6741ecc6d554c39af6595175f182.jpeg",
+  "https://media.rightmove.co.uk/property-photo/69712964d/91839357/69712964d86a7e0ef04f95753f5b6161.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8cdca1d91/91839357/8cdca1d9127c07a794ed6465441272b1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cded88ef9/91839357/cded88ef93ae155ed23effa329c3e3a0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/17034d451/91839357/17034d451d2f55b1d0ee452d4b3d66bb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5b687a9e9/91839357/5b687a9e9f733e41df15aa7370832add.jpeg",
+  "https://media.rightmove.co.uk/property-photo/69ee8180a/91839357/69ee8180a658eaee698f1836f65bb76e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a2498b699/91839357/a2498b699a3f60be5093f16ef4369243.jpeg",
+  "https://media.rightmove.co.uk/property-photo/963da472b/91839357/963da472ba37b2ca1b637f9fd5c2b8c3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6dd6ba0e8/91839357/6dd6ba0e857132c2a1d2ac9eb8d277a2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e1de0c50e/91839357/e1de0c50ea1d07b9323038bf7c245424.jpeg",
+  "https://media.rightmove.co.uk/property-photo/414f22383/91839357/414f223837fe20b2e3d15ecd65caa6ed.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ad1ecdc83/91839357/ad1ecdc83cde38849dcef52c12114abe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9cb0d827b/91839357/9cb0d827b4ef30c39406e718888609a6.jpeg"
+ ],
+ "imageCount": 20,
+ "nearestStations": [
+  {
+   "name": "Five Ways Station",
+   "miles": 0.11203020988304438,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 0.7628879456797881,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Snow Hill Station",
+   "miles": 1.008523156062852,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "PURPLE FROG ASSET MANAGEMENT LIMITED, Selly Oak",
+ "city": "Birmingham",
+ "sourceOutcode": "B15",
+ "scrapedAt": "2026-08-30T10:20:39.437Z"
+}

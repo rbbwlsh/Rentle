@@ -1,0 +1,84 @@
+{
+ "id": "91625694",
+ "displayAddress": "Broadway, Broad Street, Birmingham, B15",
+ "outcode": "B15",
+ "incode": "1BJ",
+ "latitude": 52.474096,
+ "longitude": -1.918331,
+ "priceAmount": 875,
+ "priceLabel": "£875 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91625694",
+ "area": "Birmingham",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 452,
+  "sizeSqM": 42,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "08/10/2026",
+  "deposit": 1009,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": 452,
+ "sizeSqM": 42,
+ "description": "The Broadway Residences is a luxury residential scheme comprising of 214 exclusive and stylish apartments. The development also benefits from a host of amenities including a residents gym and concierge to ensure residents comfort and enhance their lifestyle. Built to an incredibly high specification, with residents comfort and convenience in mind, Broadway Residences offers a living experience like no other. \n\nSituated just minutes from Brindley Place, The Mailbox, The Cube and Colmore Business District, residents can experience a blend of style and convenience, whilst living in the epitome of luxury.",
+ "keyFeatures": [
+  "Modern Development",
+  "Concierge",
+  "Residents Gym",
+  "Prime Location",
+  "Electric Heating",
+  "7th Floor"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d602ba1eb/91625694/d602ba1ebfa0653eacef1dd77eff9465.jpeg",
+  "https://media.rightmove.co.uk/property-photo/117f107ed/91625694/117f107eda8cfa3d1a9d8039c7c5f1e1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4f56e54a6/91625694/4f56e54a67e8a8b763a3e623e0c441d8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9691b7c02/91625694/9691b7c027f79b7200d00e0954c09645.jpeg",
+  "https://media.rightmove.co.uk/property-photo/86dc3e3ce/91625694/86dc3e3cef4715fd47af979b7b4d2293.jpeg",
+  "https://media.rightmove.co.uk/property-photo/74c6d6b6a/91625694/74c6d6b6aac13672beefe1a97645acc5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/30930f934/91625694/30930f934340fa9aff68637187291939.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f021c6729/91625694/f021c67292aaaeb9f635c4ec40ec6507.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a0ab69d32/91625694/a0ab69d32aebebce28c847b16f0f7366.jpeg",
+  "https://media.rightmove.co.uk/property-photo/17f715942/91625694/17f7159422e88c6b357804fdfeb8c5c9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c492df5c6/91625694/c492df5c615a2d9650b0eddf593f4cd2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fb31e2853/91625694/fb31e2853c4c0685f83a6307a4fab8e0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f17256693/91625694/f17256693b398edcdeef758d0660ceb6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5df88b967/91625694/5df88b9679708331175882b6183091de.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Five Ways Station",
+   "miles": 0.36361508382530827,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 0.8561687471315,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Snow Hill Station",
+   "miles": 1.0173942006294217,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Martin & Co, Birmingham City",
+ "city": "Birmingham",
+ "sourceOutcode": "B15",
+ "scrapedAt": "2026-08-30T10:20:33.416Z"
+}

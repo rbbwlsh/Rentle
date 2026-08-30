@@ -1,0 +1,90 @@
+{
+ "id": "90394023",
+ "displayAddress": "Penthouse, Boiler House, Circus Road South, London, SW11",
+ "outcode": "SW11",
+ "incode": "8AT",
+ "latitude": 51.480892,
+ "longitude": -0.14524,
+ "priceAmount": 25000,
+ "priceLabel": "£25,000 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90394023",
+ "area": "Boiler House, London",
+ "bedrooms": 3,
+ "bathrooms": 3,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 34615,
+  "minimumTermMonths": null,
+  "councilTaxBand": "G"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Stunning Duplex Apartment in the Iconic Battersea Power Station ? 3 Bedrooms, 4 Bathrooms, 2 Parking Spaces\n\nStep into luxury living at The Boiler House, Battersea Power Station ? one of London?s most prestigious addresses. This exceptional three double bedroom, four bathroom duplex spans the 11th and 12th floors (with lift access) and offers spectacular design, world-class amenities, and unbeatable connectivity.\n\nThe lower level features a beautifully designed open-plan kitchen with a breakfast bar, generous dining area, and a stylish lounge ? perfect for both entertaining and everyday living. From here, step out onto your private terrace and enjoy views over the stunning roof gardens.\n\nA feature staircase leads to the upper level, where a second reception room with mezzanine overlooks the gardens, creating a bright and airy social space. Three double bedrooms are thoughtfully positioned off this room, each with floor-to-ceiling windows flooding the interiors with natural light.\n\nThe principal suite boasts a dressing area and a luxurious en suite bathroom, while the two further bedrooms offer fitted wardrobes and elegant en suite shower rooms with high-spec fixtures.\n\nResidents enjoy:\n\n    Two secure underground parking spaces\n\n    24/7 concierge service\n\n    Exclusive access to roof gardens, residential lounges, kitchen/bar, workspaces, Spring gym and spa\n\n    Private lift access\n\nLocation & Lifestyle\nSituated on the south bank of the River Thames, Battersea Power Station is an exciting destination in itself ? home to luxury shops, top restaurants, and green open spaces. Transport links are exceptional, with Battersea Power Station and Nine Elms Underground stations on your doorstep, plus Vauxhall nearby for Overground, Underground, and National Rail connections. A riverboat pier offers services to the City and Greenwich, while a complimentary residents? shuttle runs to Sloane Square and Vauxhall.\n\nDeposit - 6 weeks\nTerm - 12 months\nCouncil Tax - G",
+ "keyFeatures": [
+  "Iconic Battersea Power Station location - The Boiler House",
+  "Stunning 3 double bedroom, 4 bathroom duplex apartment",
+  "Two secure underground parking spaces",
+  "Private terrace with views over the roof gardens",
+  "Open-plan kitchen with breakfast bar &amp; generous dining area",
+  "Second reception room with mezzanine level",
+  "Principal suite with dressing area &amp; luxury en suite",
+  "Two further bedrooms with fitted wardrobes &amp; en suite shower rooms",
+  "24/7 concierge, roof gardens, residential lounges, workspaces",
+  "Exclusive access to Spring gym, spa, pool &amp; leisure facilities"
+ ],
+ "tags": [
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/0ccd4ae3a/90394023/0ccd4ae3ae10d9a8007c7a0f8b7c2bd3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d553645dc/90394023/d553645dca375452c4f36099891db805.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fe74078a7/90394023/fe74078a70934ae781c1f89e2a1c372d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5800613ab/90394023/5800613ab0e06dde9620b96938b968e4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bf22780d2/90394023/bf22780d2bf2c09971b30d28fbd81ec3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c1458d259/90394023/c1458d2595237d37ee82bc10997437cf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/93733fead/90394023/93733fead041c9decaa1df26b7605002.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3bf8203db/90394023/3bf8203dbc36d338e67a950fc116caef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e4dae0bc3/90394023/e4dae0bc3563cf6177cdbbf67856ae30.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d0f9fecc6/90394023/d0f9fecc60350d387b8af72656c91bc0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8dac3f6f6/90394023/8dac3f6f6a1fad19db49b52cce3276d5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3fe873109/90394023/3fe8731096d8a324bbffb34b431e7b6a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e08d17881/90394023/e08d178816efedac3c9171328b7d4cce.jpeg",
+  "https://media.rightmove.co.uk/property-photo/03f06db9d/90394023/03f06db9d9913fb2c91de452f62f2bb3.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Battersea Power Underground Station",
+   "miles": 0.14869132688010298,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Nine Elms Station",
+   "miles": 0.7269404394978084,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Pimlico Station",
+   "miles": 0.7532789370886934,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "Chase Apartments, London",
+ "city": "London",
+ "sourceOutcode": "SW11",
+ "scrapedAt": "2026-08-30T10:15:26.171Z"
+}

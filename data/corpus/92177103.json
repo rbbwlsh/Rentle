@@ -1,0 +1,81 @@
+{
+ "id": "92177103",
+ "displayAddress": "Springvalley Terrace, Morningside, Edinburgh, EH10",
+ "outcode": "EH10",
+ "incode": "4PY",
+ "latitude": 55.92962,
+ "longitude": -3.21122,
+ "priceAmount": 1100,
+ "priceLabel": "£1,100 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92177103",
+ "area": "Morningside, Edinburgh",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 517,
+  "sizeSqM": 48,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 1200,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": 517,
+ "sizeSqM": 48,
+ "description": "Available Now  - Attractive first floor flat situated in the ever popular Morningside. The accommodation which benefits from gas c/h as well as double glazing is available on a furnished basis. It comprises bay windowed lounge/diningroom, kitchen, utility room, double bedroom and bathroom including shower. There is a communal rear garden and residents zone parking. Excellent local shopping, wide selection of bus routes as well as easy access to the city centre and bypass. Council Tax band C.  EPC rating: C.  Landlord Registration Number: 8790/230/03490. Letting Agent Registration Number: 1907018.",
+ "keyFeatures": [
+  "Gas c/h",
+  "Super Morningside location",
+  "Double glazing",
+  "Washing machine",
+  "Fridge Freezer"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/2e0c006c1/92177103/2e0c006c1a757737116ae43652ed8a03.jpeg",
+  "https://media.rightmove.co.uk/property-photo/145858794/92177103/1458587940e46be03e26dd885e113c95.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dc28a8a61/92177103/dc28a8a61250fbb676a1340b19a72d36.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c86f945aa/92177103/c86f945aaab0fcc5f29f50e186da6a2f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9c33dd85e/92177103/9c33dd85eeeac3f89106ffe474756d9b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/76f66eea6/92177103/76f66eea6af495b9af5aeddad981c2b6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/25e899a65/92177103/25e899a652767bd1d0bdc8643419c38e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/55a06930a/92177103/55a06930a8f45b2fa94ff0ed00799564.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7dbd9521b/92177103/7dbd9521bcf26eca67c6573ec6aa7a79.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c196a4f9d/92177103/c196a4f9d385b70b1c245e68526e2ddb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9771327a7/92177103/9771327a73926997e0f3b626d48c1ab4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6289ec0c5/92177103/6289ec0c5d7b6c2fc1e51c3d85174cfa.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Haymarket Station",
+   "miles": 1.1216731784500247,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 1.2694330006529801,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 1.7588041237225556,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Dove Davies & Partners, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH10",
+ "scrapedAt": "2026-08-30T11:04:25.863Z"
+}

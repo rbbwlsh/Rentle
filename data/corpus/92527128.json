@@ -1,0 +1,78 @@
+{
+ "id": "92527128",
+ "displayAddress": "Queensway, Bayswater",
+ "outcode": "W2",
+ "incode": "4SJ",
+ "latitude": 51.51321,
+ "longitude": -0.187906,
+ "priceAmount": 2145,
+ "priceLabel": "£2,145 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92527128",
+ "area": "Queensway, Bayswater",
+ "bedrooms": null,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": null,
+  "bathrooms": 1,
+  "sizeSqFt": 388,
+  "sizeSqM": 36,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "26/10/2026",
+  "deposit": 2475,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": 388,
+ "sizeSqM": 36,
+ "description": "An impressive studio apartment located on the first floor of this modern building. This bright and airy apartment is set in the heart of Bayswater and is conveniently located next to the local shops and boutiques of Westbourne Grove and Notting Hill. \n\nFeaturing a contemporary kitchen & bathroom, wood flooring throughout with under floor heating, keyless entry system & superfast Wifi, this apartment is a must see! \n\nThe apartment has been finished to a high specification and benefits from a mezzanine sleeping level, modern technology and luxury finishes. \n\nAvailable from 26th October 2026 and offered unfurnished for long-term lets. \n\nNotice\nAll photographs are provided for guidance only.",
+ "keyFeatures": [
+  "High Ceilings",
+  "Secure Bike Storage",
+  "Under-floor Heating",
+  "Bright Studio Room",
+  "Excellent Transport Links"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/91276e4f9/92527128/91276e4f965d3bddd20ee09962d6caa5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9529443c0/92527128/9529443c0674cfaa8ef84793a5881440.jpeg",
+  "https://media.rightmove.co.uk/property-photo/67be2b229/92527128/67be2b229797a8e538a24846a3c1db9e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/99ac490f8/92527128/99ac490f8c2afdc6aebeef962fe462ff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/51878b126/92527128/51878b12684e764d84cd91375eca394a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6ed21007f/92527128/6ed21007f04cd6fe767b151b1c211b18.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b3bd50d3e/92527128/b3bd50d3e7f2dc81108c2523ba8bd0e4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/87c259c84/92527128/87c259c84228e9e1e00156cbf2ec8215.jpeg",
+  "https://media.rightmove.co.uk/property-photo/35fb3739f/92527128/35fb3739f1e7abe935d22f961ede3a2e.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Bayswater Station",
+   "miles": 0.06970527208405321,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Queensway Station",
+   "miles": 0.20295910192365096,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Royal Oak Station",
+   "miles": 0.39792472114754723,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "GMS, London",
+ "city": "London",
+ "sourceOutcode": "W2",
+ "scrapedAt": "2026-08-30T10:16:24.609Z"
+}

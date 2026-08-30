@@ -1,0 +1,68 @@
+{
+ "id": "92319474",
+ "displayAddress": "Ashton View, Leeds, West Yorkshire, LS8",
+ "outcode": "LS8",
+ "incode": "5BS",
+ "latitude": 53.809564,
+ "longitude": -1.515131,
+ "priceAmount": 550,
+ "priceLabel": "£550 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92319474",
+ "area": "Leeds, West Yorkshire",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 500,
+  "minimumTermMonths": 6,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "One bed flat, comprising of lounge/kitchen, bedroom and bathroom.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/44b21a01c/92319474/44b21a01cd8af0115601c65f6f275daa.png",
+  "https://media.rightmove.co.uk/property-photo/bd2dc090f/92319474/bd2dc090ffa1006180d7fb49cdaee52e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9d2d3e750/92319474/9d2d3e7508b7d479334b0662b35e38f1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/53d3981ff/92319474/53d3981fff8fb9c920ddd4ef94e15cd9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e9c51c381/92319474/e9c51c381219b89be1009ae99d12c1c2.jpeg"
+ ],
+ "imageCount": 5,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 1.6963407080061896,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 2.582150291627753,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cross Gates Station",
+   "miles": 2.6796298908140326,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Logic Lettings Ltd, Pontefract",
+ "city": "Leeds",
+ "sourceOutcode": "LS8",
+ "scrapedAt": "2026-08-30T10:25:15.322Z"
+}

@@ -1,0 +1,81 @@
+{
+ "id": "92374122",
+ "displayAddress": "Enclave: Birmingham City, 149 Hurst St Birmingham B5",
+ "outcode": "B5",
+ "incode": "6EW",
+ "latitude": 52.46929,
+ "longitude": -1.8975,
+ "priceAmount": 2005,
+ "priceLabel": "£2,005 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92374122",
+ "area": "Enclave: Birmingham City",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 785,
+  "sizeSqM": 73,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 2313,
+  "minimumTermMonths": 0,
+  "councilTaxBand": "E"
+ },
+ "sizeSqFt": 785,
+ "sizeSqM": 73,
+ "description": "Enclave: Birmingham City offers an exclusive collection of 1-, 2-, and 3-bedroom residences, blending contemporary design with premium finishes and smart layouts to create refined homes in the heart of Birmingham.\nFrom day one, residents can enjoy curated amenities including a hotel-style lobby, landscaped garden, podcast studios, and 24/7 on-site team—plus exclusive early resident offers. As future phases open, even more will follow: a state-of-the-art gym, spa, yoga studio, music room, screening room, private dining, co-working lounges, and more. Together, they deliver an unrivalled lifestyle that redefines city living.\nIdeal for sharers, young families, or anyone seeking more space, our two-bedroom homes are as versatile as they are elegant. Featuring two bathrooms, open-plan layouts, and winter gardens, these apartments are perfect for entertaining, working from home, or simply relaxing in comfort. High-spec finishes, SMEG appliances, and ultra-fast Wi-Fi come as standard, while flexible design options ensure your home feels as individual as you are. *These photos & floorplans show the layout & finish of an apartment in the development. The sizes, prices, layouts & finishes of each flat vary. To check broadband and mobile phone coverage please visit Ofcom here ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/ofcom-checker",
+ "keyFeatures": [
+  "High spec, tech-enabled apartments",
+  "Exclusive resident amenities – More coming Summer 26",
+  "No deposit needed!",
+  "Pet friendly",
+  "Prime location- under 5 minutes from Birmingham New Street Station",
+  "24-hour resident team",
+  "Close to local hotspots",
+  "Resident events",
+  "Winter Garden/ Balcony"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/ca80c523e/92374122/ca80c523e2a637d54bae6b82980da481.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b14d234bd/92374122/b14d234bd95c17a4c6edf4ea5bab4a02.jpeg",
+  "https://media.rightmove.co.uk/property-photo/20e95682f/92374122/20e95682fd4534d81a22ebfe97a58bdb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ebd9ab8cb/92374122/ebd9ab8cbeb795597b32047d223f6458.jpeg",
+  "https://media.rightmove.co.uk/property-photo/608abd797/92374122/608abd797fe6fa1a473c9ee05d5d81dc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f9ddaa0e3/92374122/f9ddaa0e3afd43af7962a3ea7f704cd2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a36c770e2/92374122/a36c770e21d0826d2e801a43636ae419.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3a1823684/92374122/3a18236842914f14474b483f0d773214.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 0.5869027095985161,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Five Ways Station",
+   "miles": 0.6603141487767342,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Moor Street Station",
+   "miles": 0.7096046022739079,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Hamptons, Build to Rent",
+ "city": "Birmingham",
+ "sourceOutcode": "B5",
+ "scrapedAt": "2026-08-30T10:19:48.019Z"
+}

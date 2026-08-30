@@ -1,0 +1,79 @@
+{
+ "id": "92540952",
+ "displayAddress": "Viaduct Gardens London SW11",
+ "outcode": "SW11",
+ "incode": "7EH",
+ "latitude": 51.4819,
+ "longitude": -0.13041,
+ "priceAmount": 4200,
+ "priceLabel": "£4,200 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92540952",
+ "area": "SW11 area",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 1,
+  "sizeSqM": 0,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "19/10/2026",
+  "deposit": 4846,
+  "minimumTermMonths": 0,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": 1,
+ "sizeSqM": 0,
+ "description": "A stunning two-bedroom apartment with a private terrace, set within this prestigious development in Nine Elms. Residents benefit from an exceptional range of on-site facilities. \n\nUpon entering, the property opens into a spacious open-plan living area, featuring a contemporary, high-specification kitchen and reception room. The space is finished with elegant wood flooring and floor-to-ceiling windows, creating a bright and modern atmosphere.\n\nThe apartment features a generous principal bedroom with an en-suite bathroom and built-in storage, a further double bedroom with fitted wardrobes, and a stylish family bathroom. The property is ideally suited to modern London living, combining luxury, comfort and convenience in a highly sought-after location. To check broadband and mobile phone coverage please visit Ofcom here ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/ofcom-checker",
+ "keyFeatures": [
+  "Two Double bedroom",
+  "Two bathroom",
+  "Open plan kitchen/ lounge",
+  "Private Terrace",
+  "24hr Concierge",
+  "Furnished"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/48d982948/92540952/48d98294892db08ee760a4a4ebc04c27.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d4b4c4d27/92540952/d4b4c4d27f8cb38e934e7221567afeb7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/534c6b376/92540952/534c6b376531bc3ebb25d4501a7c2a92.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2b7e8dfe3/92540952/2b7e8dfe34fe6ba3c0ba50af026fafcc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2de77d988/92540952/2de77d9881845145c57c18e3ef4bb0ed.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3a9bc23f3/92540952/3a9bc23f307701f7d3a116e699182826.jpeg",
+  "https://media.rightmove.co.uk/property-photo/166a19dc8/92540952/166a19dc888ece447dc9fa83ed8d6f3d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9678beff3/92540952/9678beff34a6fdcbe9cc3f6899f3e9af.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Nine Elms Station",
+   "miles": 0.162051381486964,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Vauxhall Station",
+   "miles": 0.403074463998522,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Pimlico Station",
+   "miles": 0.5229732150140093,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "Hamptons, Clapham",
+ "city": "London",
+ "sourceOutcode": "SW11",
+ "scrapedAt": "2026-08-30T10:15:23.549Z"
+}

@@ -1,0 +1,90 @@
+{
+ "id": "92355666",
+ "displayAddress": "Platform Edinburgh, The Meander, EH6",
+ "outcode": "EH6",
+ "incode": "5GE",
+ "latitude": 55.971232,
+ "longitude": -3.182238,
+ "priceAmount": 1683,
+ "priceLabel": "£1,683 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92355666",
+ "area": "Platform Edinburgh, The Meander",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 103,
+  "sizeSqM": 10,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Ask agent",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": "E"
+ },
+ "sizeSqFt": 103,
+ "sizeSqM": 10,
+ "description": "Welcome to PLATFORM_ Edinburgh\n\nDiscover premium, family-friendly apartments designed for comfort, connection and modern living. Just outside Leith with quick transport links into the city centre, it’s the ideal base for those who want calm neighbourhood living with Edinburgh’s culture, shops and green spaces close by.\n\nThe spacious homes come with contemporary kitchens, generous storage and stylish interiors, while shared amenities such as a residents’ lounge, co-working spaces, a playroom and a gym make life easier and more enjoyable. With on-site support, pet-friendly living and a welcoming community with events for all ages, Platform Edinburgh gives you a home where families can thrive and feel truly settled.\n\nApartment highlights:\n\n- A spacious open-plan kitchen/living area with modern appliances; full height fridge/freezer, oven, electric hob, washer/dryer and dishwasher\n\n- Large family bathroom with shower/bath and mirrored storage\n\n- Fully furnished modern furniture: double beds, mattresses, wardrobes, bedside units, dining table and chairs, a large sofa, arm chair, media unit and coffee table\n\nPerks of living here:\n\n- Professional management and friendly 24/7 on-site team\n\n- Pet-friendly apartments\n\n- On-site maintenance, here to help when you need them\n\n- Access to on-site Resident lounge, co-working space, playroom and gym\n\n- Flexible tenancies to suit your needs\n\n- Resident events with your community\n\n- Immediate transport links\n\n- Family friendly community, with kids’ friendly space and events\n\n- On-site guest rooms for friends and family\n\n- Secure bike storage\n\n- Broadband included in your rent\n\nBe fully at home, at Platform_ Edinburgh.\n\nBook your viewing to see your future home for yourself. Please note photos are for illustrative purposes only, layouts and features may differ.",
+ "keyFeatures": [
+  "Pet Friendly",
+  "24/7 On-site + Maintenance Teams",
+  "Residents Lounge + Gym",
+  "Co-working Space + Private Dining Space",
+  "Flexible Tenancy Options",
+  "15 Minute Tram to Edinburgh City Centre",
+  "Resident Social Events",
+  "WiFi Included",
+  "Family Friendly Kids' Playroom"
+ ],
+ "tags": [
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/fc0ae7c80/92355666/fc0ae7c8004d16f24d771b6bc94ce825.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ff797583b/92355666/ff797583be99abc23eac7f79865811a3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9908620aa/92355666/9908620aa1c1e406271fdc066bfeb453.jpeg",
+  "https://media.rightmove.co.uk/property-photo/09470b4ae/92355666/09470b4ae50000e64a207864551d18a7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fb6d338f0/92355666/fb6d338f09a801fb27d4e859e3b12d0f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c8164838d/92355666/c8164838d769ed2150a2916f5d9d6061.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8eed70460/92355666/8eed7046085242d06584cf0d84222eeb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7d3fa753f/92355666/7d3fa753f13c2893963907e45f679d80.jpeg",
+  "https://media.rightmove.co.uk/property-photo/09b6db320/92355666/09b6db320a454ded3d358ecea79f6d26.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5b5ead9a5/92355666/5b5ead9a54a62ceace981c67c804a476.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c249ae531/92355666/c249ae531bf9c801b296a179302a1c8b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7bab8fc37/92355666/7bab8fc37914c97808d61b3f07b9d671.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a9d140cc7/92355666/a9d140cc71be86e6ae063b0ceaafc06b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/88f42c010/92355666/88f42c010fbc27314b088b3ce9186ee6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a3a7f0bce/92355666/a3a7f0bce4583b8f9da2fb5c9b0d1ac3.jpeg"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 1.3616356844075197,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 2.2683510352235547,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Brunstane Station",
+   "miles": 3.7317330764091614,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Property Sense (GPM PRINCIPAL BRANCH), Covering Nationwide",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH6",
+ "scrapedAt": "2026-08-30T10:26:30.254Z"
+}

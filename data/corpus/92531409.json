@@ -1,0 +1,86 @@
+{
+ "id": "92531409",
+ "displayAddress": "Reservoir Retreat - 3 bed, Edgbaston, West Midlands, B16",
+ "outcode": "B16",
+ "incode": "9EH",
+ "latitude": 52.475956,
+ "longitude": -1.930533,
+ "priceAmount": 1695,
+ "priceLabel": "£1,695 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92531409",
+ "area": "Edgbaston, West Midlands",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "House",
+ "details": {
+  "propertyType": "House",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 650,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "| £130 pppw exc bills | £163 pppw inc bills | 3 Bedroom Property | Available for 26/27 Academic Year | Tenancy Start Date: 01/09/2026 | Refurbished Victorian | Large Private Garden | Walk to BCU | Secure Bike Storage | Ref: 648675 |\n\nTucked away on a quiet residential street, this Victorian house was refurbished in 2021. The property is within walking distance to Birmingham City Hospital and BCU, with excellent transport links for other universities. Local conveniences are easily accessible.\n\nEach of the four large bedrooms comfortably accommodates a double bed, wardrobe, chest of drawers, desk, and chair. A 32-inch Smart TV is provided in each bedroom. The ground floor bathroom includes a bath, shower, sink, and toilet. A separate shower room on the first floor features a large double shower, toilet, and vanity unit.\n\nThe fully fitted kitchen includes a cooker, hob, fridge freezer, dishwasher, microwave, and kettle. A separate laundry area houses the washing machine. The living and dining room is furnished with a corner sofa, dining table, and a 50-inch Smart TV.\n\nA large private rear garden provides outdoor space, complete with benches and a drying line. Secure bike storage is available in a shed. The property benefits from a security alarm and an intercom system.\n\nWhere bills are included: Gas, electricity, water, TV licence, fibre broadband where possible (limited by a fair usage policy).\n\nHolding Deposit: £130 per person (one week's rent)\nCouncil Tax Band: C",
+ "keyFeatures": [
+  "Available for 26/27 Academic Year",
+  "Bills Included Option",
+  "Close to University",
+  "Near Bus Routes",
+  "Recently Refurbished",
+  "Private Garden",
+  "Parking Available",
+  "Bike Storage",
+  "All Double Bedrooms",
+  "Modern Kitchen"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/b958f89dd/92531409/b958f89dde178161e10341a570ce07d2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a9b607bc4/92531409/a9b607bc4b24a32d191aa29edbdcc11d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b42ef0b18/92531409/b42ef0b184f1efb626a80ed788321cc5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/132e0d83d/92531409/132e0d83dfd1f1529d4add10d8c38c3f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/39900bd42/92531409/39900bd427a6dc67995dd5391d9affee.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2b6e98948/92531409/2b6e989484b807bd9a7bf23a06af50da.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c1b6db211/92531409/c1b6db2112caee83eb37d5b4315af4ff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/23eefc00e/92531409/23eefc00e965d8b6fe37f0182c82bd71.jpeg",
+  "https://media.rightmove.co.uk/property-photo/25a2f69c2/92531409/25a2f69c2d3cadb286a4e3f161f6f9a4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8049d0c87/92531409/8049d0c87d446464797b16b2e14c2440.jpeg",
+  "https://media.rightmove.co.uk/property-photo/539ab6123/92531409/539ab6123464df660d45b22d78560b45.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9d566b22a/92531409/9d566b22af561b3f9702f61582a8338e.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Five Ways Station",
+   "miles": 0.8463469009317368,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Jewellery Quarter Tram Stop",
+   "miles": 1.1944367920843175,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 1.3393387671237347,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "PURPLE FROG ASSET MANAGEMENT LIMITED, Selly Oak",
+ "city": "Birmingham",
+ "sourceOutcode": "B16",
+ "scrapedAt": "2026-08-30T10:21:20.755Z"
+}

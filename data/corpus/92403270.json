@@ -1,0 +1,77 @@
+{
+ "id": "92403270",
+ "displayAddress": "West Street, Bedminster, Bristol, BS3",
+ "outcode": "BS3",
+ "incode": "3NA",
+ "latitude": 51.43807,
+ "longitude": -2.60319,
+ "priceAmount": 1250,
+ "priceLabel": "£1,250 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92403270",
+ "area": "Bedminster, Bristol",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "28/09/2026",
+  "deposit": 1442,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "The apartment offers a welcoming entrance hallway leading through to a generous double bedroom positioned at the front of the property, providing a comfortable and private sleeping space.\n\nTo the rear is the open-plan lounge/diner and kitchen, creating a bright and sociable living space. The position overlooking West Street gives the room a lovely outlook and makes this a great space for relaxing or entertaining.\n\nThe property also benefits from a modern family bathroom with a bath and shower over.\n\nOne of the appealing features of the development is the open external corridor design, giving the building a spacious, airy feel and making the apartment feel very much part of the larger Airpoint complex.\n\nThe position is hard to beat, with West Street right on your doorstep and a fantastic selection of everyday amenities close by. With Tesco Express conveniently located beneath the development, grabbing those essentials couldn't be easier.\n\nBedminster is well known for its independent cafés, restaurants, takeaways, bars and local shops, with North Street, East Street and the surrounding Southville area all within easy reach. Whether you're after your morning coffee, somewhere for dinner or simply a wander around the local shops, there is plenty to explore.\n\nFor commuters, the location is particularly convenient. Bedminster and Parson Street railway stations are both nearby, while regular bus services operate from the surrounding streets, providing easy access across Bristol. Bristol city centre is also within easy reach, making this an excellent base for those working in the city. EPC rating: C.",
+ "keyFeatures": [
+  "Open-plan lounge/diner and kitchen",
+  "Modern family bathroom",
+  "Popular 21 West development",
+  "Open external corridor design",
+  "Excellent selection of shops, cafés, bars and restaurants nearby",
+  "Excellent transport links"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a10e8bbc4/92403270/a10e8bbc433c86d10467218827a7f903.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a1861c4b5/92403270/a1861c4b5830f8d65d8ff6366480ec8f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7b62e7d10/92403270/7b62e7d1084a8b82021056ae2e50ceeb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/527c45faf/92403270/527c45faf7f86a4d1ced9bcdc8b42c08.jpeg",
+  "https://media.rightmove.co.uk/property-photo/05e5a998d/92403270/05e5a998dbffd490f0ebdd22004e4868.jpeg",
+  "https://media.rightmove.co.uk/property-photo/28b01b3bd/92403270/28b01b3bdfab77b6f55facc448fdfd90.jpeg",
+  "https://media.rightmove.co.uk/property-photo/423d8b9f7/92403270/423d8b9f77c24e04154730600763a75f.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Bedminster Station",
+   "miles": 0.4071092840209947,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Parson Street Station",
+   "miles": 0.41431357971896693,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 1.207516572495379,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Northwood, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS3",
+ "scrapedAt": "2026-08-30T10:22:49.006Z"
+}

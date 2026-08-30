@@ -1,0 +1,84 @@
+{
+ "id": "89427309",
+ "displayAddress": "Cypress Point Leylands Road City Centre",
+ "outcode": "LS2",
+ "incode": "7LB",
+ "latitude": 53.80356,
+ "longitude": -1.53427,
+ "priceAmount": 1100,
+ "priceLabel": "£1,100 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89427309",
+ "area": "Cypress Point Leylands Road City Centre",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 1096,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "** Zero Deposit Guarantee Available **\nThe truly is a superb apartment with a light and bright open plan living space. The balcony is located off the living room and has city facing views.\n\nThe kitchen is fitted with full size Fridge/Freezer, intergrated Washer/Dryer, oven, gas hob and extractor fan. \n\nBoth bedrooms are an equal size double, so the property is ideal for anyone looking to share.  \n\nCypress Point has great access to surrounding motorway links and suburbs to the North of Leeds. \n\nLocated in Leeds northern quarter of the City Centre this apartment is perfect for anyone needing to be a short walk from the City Centre, Bus Station and West Yorkshire Playhouse. \n\nDon't miss out -Please call us on   to arrange a viewing. Council Tax Band:  Holding Deposit: £0.00",
+ "keyFeatures": [
+  "Two double bedrooms, both equal size",
+  "Master bedroom with en suite and further family bathroom",
+  "Open plan modern living room/kitchen",
+  "Beautifully furnished throughout",
+  "Good balcony and great city views",
+  "Perfect for sharers",
+  "Short walk to City Centre, bus station &amp; Kirkgate Market",
+  "Easy access to surrounding motorway and North Leeds"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/01ec677e7/89427309/01ec677e72fd05f89341f7ab1283bec0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eb5cb0999/89427309/eb5cb099953d4cbb8ae96ae54976f6d1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b6527e5ba/89427309/b6527e5baba091f1e50ef3365b0b5c0e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/305bcc6e7/89427309/305bcc6e75806f3b56bd9037c756bf37.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1aabc0492/89427309/1aabc049292b37395c5fe79aad806e43.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7a463b651/89427309/7a463b651d0c0d5247af528163de1426.jpeg",
+  "https://media.rightmove.co.uk/property-photo/704e6ac3f/89427309/704e6ac3f1772929b9f1c41c7b79d848.jpeg",
+  "https://media.rightmove.co.uk/property-photo/611da4e6d/89427309/611da4e6d1f24a69cfc6770f65b63bcb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/094e222e7/89427309/094e222e7159f970733f0f61949b77fb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/104d1d9fc/89427309/104d1d9fcb21a7dd813a02b25ee6a389.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d8c983fd7/89427309/d8c983fd7ddaa8f3df270e49f63a39d8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ab42af797/89427309/ab42af797253177e7e7ce2966aa80bcd.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 0.8459261853797098,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 1.885524898053283,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 2.6448897606987702,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Bridgfords Lettings, Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS2",
+ "scrapedAt": "2026-08-30T10:23:53.417Z"
+}

@@ -1,0 +1,98 @@
+{
+ "id": "92552589",
+ "displayAddress": "Mercian, Broad Street, Birmingham",
+ "outcode": "B15",
+ "incode": "1FH",
+ "latitude": 52.475532,
+ "longitude": -1.91311,
+ "priceAmount": 1340,
+ "priceLabel": "£1,340 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92552589",
+ "area": "Mercian, Birmingham",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 452,
+  "sizeSqM": 42,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": 452,
+ "sizeSqM": 42,
+ "description": "Not a student property. \r\n\r\nYOUR KITCHEN\r\n\r\nOpen plan, sleek and modern with quartz worktops and integrated Samsung appliances including touch control ceramic induction hob, combi oven, 3 quarter fridge with a freezer box, dishwasher plus washer/ dryer.\r\n\r\nYOUR LIVING AREA\r\n\r\nLight and spacious with floor to ceiling windows and blinds.\r\n\r\nYOUR BEDROOMS\r\n\r\nStylish bedrooms including bespoke fitted wardrobes with full height mirror, hanging rail and storage.\r\n\r\nYOUR BATHROOMS\r\n\r\nEn-suite bathroom with contemporary porcelain tiling throughout. Deluxe sized rainfall shower with separate handheld shower, WC and heated towel rail, plus bespoke vanity cabinet with LED lighting.\r\n\r\nThese images showcase the design and finish you can expect in your apartment. Images are for illustrative purposes only, and individual layouts, finishes and furnishings may vary\r\n\r\nCouncil Tax Band C.\r\n\r\nPlease note that utilities (including electricity, water, and heating, depending on your apartment), council tax, TV licence, parking (if required), and any optional extras or upgraded services are not included within your monthly rent.\r\n\r\nSpeak to our team to discuss the homes and offers currently available.",
+ "keyFeatures": [
+  "Deposit Alternative Available ",
+  "Screening room - perfect for movies or gaming",
+  "200m rooftop running track",
+  "Residents gym",
+  "Flexible work space",
+  "Bicycle storage included",
+  "Resident events &amp; clubs",
+  "24hr concierge, onsite maintenance team and CCTV",
+  "Space to entertain with private dining room and studio",
+  "Onsite Parking"
+ ],
+ "tags": [
+  "BUILT_FOR_RENTERS"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/290201b9f/92552589/290201b9fe97f51f178a1b92f2f49a21.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4f85d152a/92552589/4f85d152ab1c0aa7b027eb42688abef4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/faf89aa05/92552589/faf89aa05f017053fe6b5e8507787e8f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a977a46f6/92552589/a977a46f64fe31a5d5c668cae3783216.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ae8b2a3f3/92552589/ae8b2a3f31c2ecb2043bf47365ff5789.jpeg",
+  "https://media.rightmove.co.uk/property-photo/58c23ec31/92552589/58c23ec315452e84726770ae6692f777.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1b1c1d4bf/92552589/1b1c1d4bf365f1001febdf5d567e3902.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fed012484/92552589/fed0124849a13a19e3852590711c3ccc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a3ef27a55/92552589/a3ef27a55a02695585f840d15db0544a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d3cf33cf8/92552589/d3cf33cf874db801effd530001212b01.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8e3fc7bb5/92552589/8e3fc7bb5409f2504ee993400aa3074b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5151cc28b/92552589/5151cc28b71c507a0542bcdb8d43ba39.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cdeaf0b77/92552589/cdeaf0b77ec7c2173ef626416a0c8fb2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/82969ee2c/92552589/82969ee2c78a75896fd0b7e9eac5115e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/322c7893c/92552589/322c7893c718495078c5a12a0b92d07a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/46309e3f1/92552589/46309e3f1b42d0406e385ea112aceca5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/378285006/92552589/378285006d0d54b16a8263961dacf3b4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8f8ef9de3/92552589/8f8ef9de3a6eb9a960265a40ffcf99a8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/307f86644/92552589/307f8664436d38bffc9c043742ff233f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5c21d12c2/92552589/5c21d12c2d0f635cd0a24555cf929104.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0c780d595/92552589/0c780d595deaffa9ad7d9ad763ace934.jpeg",
+  "https://media.rightmove.co.uk/property-photo/835a4dcdc/92552589/835a4dcdcc96e6bca6677992a2c9ae84.jpeg"
+ ],
+ "imageCount": 22,
+ "nearestStations": [
+  {
+   "name": "Five Ways Station",
+   "miles": 0.38811874477992536,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 0.6169799392261034,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Snow Hill Station",
+   "miles": 0.7833704393722472,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Moda, The Mercian",
+ "city": "Birmingham",
+ "sourceOutcode": "B15",
+ "scrapedAt": "2026-08-30T10:20:26.301Z"
+}

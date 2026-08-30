@@ -1,0 +1,71 @@
+{
+ "id": "92501037",
+ "displayAddress": "Queens Parade, City Centre, BS1",
+ "outcode": "BS1",
+ "incode": "5XJ",
+ "latitude": 51.451823,
+ "longitude": -2.60498,
+ "priceAmount": 925,
+ "priceLabel": "£925 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92501037",
+ "area": "City Centre",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "06/10/2026",
+  "deposit": 1067,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Spacious studio apartment on Queens Parade in the City Centre, offered unfurnished with white goods included.\n\n\rThe apartment is in an ideal location just off Brandon Hill and is within two minutes of Park Street and the City Centre. It is well situated for access to amenities as well as regular public transport links throughout the city.\n\nThe accommodation briefly comprises: a large living space, a bedroom area off the living area which offers enough space for a double bed, a separate kitchen with gas hobs, oven, washing machine and fridge freezer included and lastly, a separate bathroom with a shower over the bath.\n\nThe property also benefits from gas central heating, a combination boiler and intercom answering.\n\nWHAT YOU WILL LIKE:\n\n- Large studio apartment\n- Separate kitchen\n- Separate bathroom\n- Sought after central location\n- Just off Brandon Hill\n- Intercom answering\n- Close to amenities\n- Two minutes from Park Street\n- Public transport links\n- Located in a quiet close.\n\nHOME TRUTHS: \n\n- Applicants must earn at least two and a half times the rent as a household in order to qualify to rent this property.",
+ "keyFeatures": [
+  "Studio Apartment",
+  "Central Location"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/3ffaa4092/92501037/3ffaa409293f3b22200d330866e3d83a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/133566bb3/92501037/133566bb3be5b260596777061de6c153.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c62efdd52/92501037/c62efdd52e2bcef12c247373be860079.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7efc4c7f3/92501037/7efc4c7f35efdf1f18cbad2c7c7dd45e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/12724c306/92501037/12724c306777f227157730316bfd9e08.jpeg"
+ ],
+ "imageCount": 5,
+ "nearestStations": [
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.9178926546553654,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bedminster Station",
+   "miles": 0.9389836254557984,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 1.0340985939920828,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "The Letting Game, Henleaze",
+ "city": "Bristol",
+ "sourceOutcode": "BS1",
+ "scrapedAt": "2026-08-30T10:21:58.113Z"
+}

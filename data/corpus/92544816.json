@@ -1,0 +1,71 @@
+{
+ "id": "92544816",
+ "displayAddress": "Karnac Road, Leeds, LS8",
+ "outcode": "LS8",
+ "incode": "5BL",
+ "latitude": 53.816215,
+ "longitude": -1.51593,
+ "priceAmount": 725,
+ "priceLabel": "£725 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92544816",
+ "area": "Leeds",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 825,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "**Due to the high level of interest in this property, please submit all enquiries via this website** Ritz Properties are delighted to offer to the market this well presented recently refurbished one bedroom modern apartment.\n\nThe flat briefly comprises a modern fully fitted open plan kitchen / living room, a large double bedroom and a fully fitted three piece shower room suite. The property is ideally located close to great schools, easy access into the city centre via the Ring Road access to the A61 and is within walking distance of St James's Hospital.\n\nRent £725 PCM / Deposit £825 / Available Now / EPC - D / Council Tax Band - A / Furnished.\n\nRitz Properties hereby give notice that these particulars have been produced in good faith and are set out as general outline only, for the guidance of intending purchasers or lessees and do constitute, nor constitute part of an offer or contract. All descriptions, dimensions, references to condition and necessary permission for use in occupation and other details are given without responsibility and any intending purchasers or tenants should not rely solely on them as statement of fact, but must satisfy themselves by inspection or via independent verification. Neither Ritz Properties nor any of its employees or agents has any authority to make or give any representation or warranty whatever in relation to this property. We are members of a redress scheme: Property Ombudsman (D6127). We are members of the Client Money Protection (CMP003614). Our fee details can be seen below:",
+ "keyFeatures": [
+  "Spacious one bedroom flat",
+  "Close to St James's Hospital"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/e68267adb/92544816/e68267adb3c742db71044d11ae203ce7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9f526a7d5/92544816/9f526a7d5179d979e35a725e960ef108.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b3746e7f8/92544816/b3746e7f808b81a6bfdf56f5433d0167.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bc666928d/92544816/bc666928d349bd8336465087d5cc708e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ea726d369/92544816/ea726d3698a9b6341a6f6734d12d7033.jpeg"
+ ],
+ "imageCount": 5,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 1.9989036708927193,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 2.560636661318918,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cross Gates Station",
+   "miles": 2.80296553013792,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Ritz Properties, Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS8",
+ "scrapedAt": "2026-08-30T10:24:59.532Z"
+}

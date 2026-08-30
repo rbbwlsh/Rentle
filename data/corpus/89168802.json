@@ -1,0 +1,84 @@
+{
+ "id": "89168802",
+ "displayAddress": "Sion House, BS8",
+ "outcode": "BS8",
+ "incode": "4AX",
+ "latitude": 51.45541,
+ "longitude": -2.62284,
+ "priceAmount": 2195,
+ "priceLabel": "£2,195 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89168802",
+ "area": "Sion House",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Maisonette",
+ "details": {
+  "propertyType": "Maisonette",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 969,
+  "sizeSqM": 90,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 2648,
+  "minimumTermMonths": null,
+  "councilTaxBand": "E"
+ },
+ "sizeSqFt": 969,
+ "sizeSqM": 90,
+ "description": "This top floor maisonette is offered furnished with all appliances included. The property is finished to a premium standard throughout. The top floor has a large open plan kitchen/living area with bi-fold doors to a Juliet balcony. The hall floor features two bathrooms (one en-suite), generous amounts of storage cupboards and two equal size double bedrooms, perfect for two sharers!\n\n** OPTIONAL OFF STREET PARKING\n\nFIBRE OPTIC INTERNET INCLUDED\n\nDon't miss this property and book a viewing today.\n\n- Location\nClifton Village is one of Bristol's most highly sought after and historic locations.\n\nYou are a short walk from Clifton Downs, Whiteladies Road and the famous Brunel Bridge.\n\nTransport links can take you to the City Centre as well as the UOB campus.\n\nCouncil Tax Band: E (Bristol City Council)\nHolding Deposit: £529.61",
+ "keyFeatures": [
+  "Top floor flat split over two tiers",
+  "Fibre Optic Internet Included",
+  "Two equal size double bedrooms",
+  "Fully furnished to a high standard",
+  "Recently renovated throughout",
+  "White Goods Included",
+  "Located in the heart of Clifton Village!",
+  "Council tax band E"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/0492b6529/89168802/0492b6529dbc78617401dbabffdc6d69.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b2f7379d6/89168802/b2f7379d683932cda3d5d3d9ace075f0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2df9aa204/89168802/2df9aa204b33e036c6a8b524876a867d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cc12156c2/89168802/cc12156c2c5e738b17fd788e5d9e132d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/13c4a25d6/89168802/13c4a25d6652360a6d5ffdcc5c075aec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/306602ee8/89168802/306602ee883d3baf9fc2e237d4ca0b32.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1095f5b14/89168802/1095f5b14fca303a6866b708b5146061.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fd1a99e14/89168802/fd1a99e14d3bb45e7c1b3d0cbcd1ed76.jpeg",
+  "https://media.rightmove.co.uk/property-photo/55b6badce/89168802/55b6badce3a655803346908bae4d05d4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7e0c6526e/89168802/7e0c6526e0dc36e3f7ca54bcaeecaa61.jpeg",
+  "https://media.rightmove.co.uk/property-photo/118174aac/89168802/118174aac998ab5665cdfa325c422514.jpeg",
+  "https://media.rightmove.co.uk/property-photo/64700b06c/89168802/64700b06cf2db931b37fb7b029590a72.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.8124690782815923,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 1.3481031653586601,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bedminster Station",
+   "miles": 1.630048861724704,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Hopewell, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS8",
+ "scrapedAt": "2026-08-30T11:03:06.763Z"
+}

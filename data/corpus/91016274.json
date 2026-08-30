@@ -1,0 +1,81 @@
+{
+ "id": "91016274",
+ "displayAddress": "Valleyfield Street, Tollcross, Edinburgh, EH3",
+ "outcode": "EH3",
+ "incode": "9LR",
+ "latitude": 55.94176,
+ "longitude": -3.20238,
+ "priceAmount": 1850,
+ "priceLabel": "£1,850 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91016274",
+ "area": "Tollcross, Edinburgh",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 1950,
+  "minimumTermMonths": null,
+  "councilTaxBand": "D"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Valleyfield Street enjoys an excellent central location in Edinburgh's highly desirable Tollcross area, bordering the popular neighbourhoods of Bruntsfield and the city centre. The area benefits from immediate access to an outstanding range of amenities and attractions. Just a short distance away, residents can enjoy The Meadows and Bruntsfield Links, two of Edinburgh's most popular green spaces. The surrounding area boasts an excellent selection of independent cafés, restaurants, bars, supermarkets, and boutique shops, particularly along Bruntsfield Place, Home Street, and Lothian Road. The property is ideal for a professional couple.\n\nBeautifully presented throughout, the top floor flat offers a bright and spacious living room, tastefully furnished to create a comfortable and inviting living space, complete with a dedicated work-from-home area. The contemporary kitchen is fully fitted with integrated appliances, generous worktop space, and ample storage, making it both practical and stylish. The property also features two well-proportioned double bedrooms, each thoughtfully furnished, together with a modern bathroom fitted with a shower over the bath, completing this attractive and well-appointed home.\n\nThe property benefits from gas central heating, secure entry, and excellent natural light throughout, creating a warm and welcoming home.\n\nEPC - D\nCouncil Tax - D\n\nPlease note the photographs shown within this advertisement may have been taken whilst a tenancy was active in the property and as a result you should not rely only on these as an accurate representation of furnishings and items included in the agreement. EPC rating: D.  Landlord Registration Number: 1301763/230/01102. Letting Agent Registration Number: LARN1812016.",
+ "keyFeatures": [
+  "Double glazing",
+  "Shower",
+  "Washing machine",
+  "Dishwasher",
+  "Fridge Freezer"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/adf949c8f/91016274/adf949c8fc85a82b5db2e8ff79edcc59.jpeg",
+  "https://media.rightmove.co.uk/property-photo/220975ecb/91016274/220975ecb1690e2c062ccdfdaccca941.jpeg",
+  "https://media.rightmove.co.uk/property-photo/038429bf2/91016274/038429bf286dc958bb18e33edc9a070b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3176e6dbf/91016274/3176e6dbf56bc9addd08754b41058d79.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c90f68e8e/91016274/c90f68e8e9d98ab3532f4c1dd31d4111.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f38ffb7a/91016274/5f38ffb7ac364840ddc3851b985d9896.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eade81b37/91016274/eade81b379fea4947f1a831cbb1fa41d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d2a05255a/91016274/d2a05255a682636a760936f937609e24.jpeg",
+  "https://media.rightmove.co.uk/property-photo/34a88198c/91016274/34a88198c80cb0bdd85b55cf72fb6ba3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/03ea8e85b/91016274/03ea8e85b35b76c578b2b6d0fdfad9b0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1faf1f2ff/91016274/1faf1f2ff903f33d85cbd5a3a4750dbf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8d38bd632/91016274/8d38bd632402ce76437848683e7796ad.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Haymarket Station",
+   "miles": 0.660059692428906,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.8613555837800589,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 1.9093100421208284,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "The Property Letting Centre, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH3",
+ "scrapedAt": "2026-08-30T10:25:54.427Z"
+}

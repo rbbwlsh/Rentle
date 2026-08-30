@@ -1,0 +1,95 @@
+{
+ "id": "92543733",
+ "displayAddress": "Sherlock Street, \nBirmingham, B5",
+ "outcode": "B5",
+ "incode": "6EJ",
+ "latitude": 52.472371,
+ "longitude": -1.892945,
+ "priceAmount": 1250,
+ "priceLabel": "£1,250 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92543733",
+ "area": "Birmingham",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": null,
+  "minimumTermMonths": 12,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Welcome to Sherlock Quarter, Birmingham's exciting new rental neighbourhood, offering a collection of beautifully designed one, two and three-bedroom apartments in the heart of the city's thriving Southside. Blending contemporary architecture with exceptional resident amenities, Sherlock Quarter redefines modern renting with thoughtfully designed homes and vibrant community spaces.\n\nEach apartment has been carefully crafted to maximise light, space and comfort, featuring open-plan living areas, stylish kitchens with integrated appliances, elegant bathrooms, generous storage and high-quality finishes throughout. Designed for modern lifestyles, these homes provide the perfect balance of style and practicality.\n\nResidents enjoy an outstanding range of exclusive amenities, creating an extension of your home and enhancing everyday living.\n\nGuide Prices (Subject to Availability)\n\n1 Bedroom Apartments – from £1,294 pcm\n\nIdeally located on Sherlock Street between Digbeth and Highgate, Sherlock Quarter places you within walking distance of Birmingham New Street Station, the Bullring Shopping Centre, Grand Central and the city's renowned restaurants, cafés, bars and cultural destinations. Digbeth's creative quarter, the city's business district and excellent transport connections are all within easy reach.\n\nDesigned around community and wellbeing, Sherlock Quarter offers landscaped public spaces, regular resident events and a welcoming neighbourhood where work, relaxation and social life come together.\n\nWhether you're searching for your first home, more space to work remotely or a premium city-centre lifestyle, Sherlock Quarter offers an exceptional rental experience in one of Birmingham's most exciting new destinations.\n\nImages shown may be of a show apartment and are for illustrative purposes only. Apartment layouts, specifications, furnishings and views may vary. Prices and availability are subject to change without notice.\n\nOur China Desk is here for you, if Chinese is your preferred language, please get in touch via WeChat (ChestertonsLettings)",
+ "keyFeatures": [
+  "29th Floor Sky Lounge with panoramic city views",
+  "Fully equipped residents' gym",
+  "Co-working spaces and resident lounges",
+  "Games room and social spaces",
+  "Landscaped communal gardens and plazas",
+  "24-hour concierge and on-site management",
+  "Secure parcel lockers",
+  "Secure cycle storage",
+  "Pet-friendly apartments",
+  "High-speed Wi-Fi included from day one"
+ ],
+ "tags": [
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/e3d0587d1/92543733/e3d0587d1a6e58bc8d2aacbf5d12ffe3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/39fd72b6a/92543733/39fd72b6a3335eb0d34871be2c86e902.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9e6decca9/92543733/9e6decca95df299d011e8689e9d686d7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eea811129/92543733/eea81112918d04fbedf0eb050d68b0af.jpeg",
+  "https://media.rightmove.co.uk/property-photo/16e8741c5/92543733/16e8741c5c0753bdf841d72c1b252870.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d8bd4ff6/92543733/6d8bd4ff6de060779842f750ce2c5ed0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7fc714349/92543733/7fc714349aa66a4bba4b10648d3c39d9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/025f189a0/92543733/025f189a04c7cd1e5976be112bc9f422.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c73deff03/92543733/c73deff03785daa5c52ad60a49b882d7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e52aee195/92543733/e52aee1956ea015c90d983bf1366d240.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9613553d1/92543733/9613553d1caac3a8500f5ff9f1b8f755.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b1eb006d2/92543733/b1eb006d29ea7b9ed0b6579c583a8df1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/46ce2adf5/92543733/46ce2adf5fa827a2ec0192991d70394d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/779cdbefd/92543733/779cdbefdd19c4bc16d7b67a37e1be5c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/11224fb78/92543733/11224fb78186a2e40930d22dd21ac17a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/72b7fec37/92543733/72b7fec3770c99e9c41794a6b096819d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/171ff5800/92543733/171ff580042d6acb134a846dbdf19c3c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0afa765f7/92543733/0afa765f73f15b662068f0649b5fe815.jpeg",
+  "https://media.rightmove.co.uk/property-photo/68fed98f6/92543733/68fed98f6ef39e24cda1a234bb5e28f6.jpeg"
+ ],
+ "imageCount": 19,
+ "nearestStations": [
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 0.4490767341115501,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Moor Street Station",
+   "miles": 0.46441922153163556,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bordesley Station",
+   "miles": 0.6418243856515566,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Chestertons Key Clients, London",
+ "city": "Birmingham",
+ "sourceOutcode": "B5",
+ "scrapedAt": "2026-08-30T10:19:57.898Z"
+}

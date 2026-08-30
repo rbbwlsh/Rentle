@@ -1,0 +1,73 @@
+{
+ "id": "92555175",
+ "displayAddress": "Sigdon Road, London, E8 1AP",
+ "outcode": "E8",
+ "incode": "1AP",
+ "latitude": 51.549538,
+ "longitude": -0.063021,
+ "priceAmount": 2750,
+ "priceLabel": "£2,750 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92555175",
+ "area": "London",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 657,
+  "sizeSqM": 61,
+  "letType": "Long term",
+  "furnishType": "Furnished or unfurnished, landlord is flexible",
+  "letAvailableDate": "02/10/2026",
+  "deposit": 3173,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": 657,
+ "sizeSqM": 61,
+ "description": "**All enquiries or viewing requests should be submitted online via this advert – thank you.**\n\nLocated on Sigdon Road, this bright and well-maintained two double-bedroom flat offers comfortable living in one of Hackney’s most sought-after spots.\n\nThe property features a spacious living room, a separate kitchen, a modern bathroom, and a private balcony overlooking the peaceful communal garden. Natural light flows throughout, creating a warm and inviting atmosphere.\n\nJust a four-minute walk to Hackney Downs Overground Station, you’ll enjoy fast connections to Liverpool Street, Hackney Central, and across the East and West London Overground lines. You’re also perfectly positioned between Hackney Downs and London Fields – ideal for weekend strolls or summer picnics.\n\nThe neighbourhood is brimming with local favourites, including Wilton Way, Whisper Stow, Binch, Casa Fofo, and Good Earth Coffee – all just a short walk from your front door.\n\nThis is a consistently popular property that always lets quickly – don’t miss out.\n\n **All enquiries or viewing requests should be submitted online via this advert – thank you.**",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f31859072/92555175/f318590721d4b73df9c4aaa00f101d24.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6b2a26655/92555175/6b2a26655ecc9071db7abc0444361ebf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f2296061/92555175/5f22960615266aa24ebec9406f204185.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c54f92765/92555175/c54f9276558820f31b10a8e5d3a6e857.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3049f1e11/92555175/3049f1e11090dd1f14cdfc0ae80698e9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/146e0d514/92555175/146e0d5143b455fbbc8888d10e689332.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0d1ac7ccc/92555175/0d1ac7ccc4cb9940d946a3e9d763c6b9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c4a209642/92555175/c4a20964252f74777ad52b2bd81477ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cd1abbc3e/92555175/cd1abbc3e8aafd753be9c32a4333ddd8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/09e79c309/92555175/09e79c309912e1f97646a2363c2a7f3f.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Hackney Downs Station",
+   "miles": 0.14907706684404312,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Hackney Central Station",
+   "miles": 0.35390982309619673,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Dalston Junction Station",
+   "miles": 0.5789538668362779,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  }
+ ],
+ "agent": "HAUZOO, London",
+ "city": "London",
+ "sourceOutcode": "E8",
+ "scrapedAt": "2026-08-30T10:12:57.586Z"
+}

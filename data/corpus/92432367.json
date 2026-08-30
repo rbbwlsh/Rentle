@@ -1,0 +1,82 @@
+{
+ "id": "92432367",
+ "displayAddress": "Furley Road, Peckham, London, SE15",
+ "outcode": "SE15",
+ "incode": "1UG",
+ "latitude": 51.477421,
+ "longitude": -0.064963,
+ "priceAmount": 1800,
+ "priceLabel": "£1,800 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92432367",
+ "area": "Peckham, London",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Not Specified",
+ "details": {
+  "propertyType": "Not Specified",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Part furnished",
+  "letAvailableDate": "17/10/2026",
+  "deposit": 0,
+  "minimumTermMonths": null,
+  "councilTaxBand": "D"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "An amazing one bedroom ground floor modern apartment in Peckham set within a gated development within easy reach of transport links.\n\n\rThis flat is very spacious and perfect for a professional couple or single person. Just a short walk to Peckham Rye station with easy access to London Bridge.\n\nAdditional Information\n\nHolding Deposit: £415.38 (1 week)*\nTenancy Deposit: £2,076.92 (5 weeks)*\nCouncil Tax Band: D\n\n*The deposit amounts are approximate and will vary depending on the final rent agreed.\n\nIf Chinese is your preferred language. Please get in touch via WeChat ID: KFH1977",
+ "keyFeatures": [
+  "One double bedroom",
+  "Ground floor flat",
+  "Open plan kitchen",
+  "Close to Peckham Rye station",
+  "Good storage space",
+  "Good transport links nearby",
+  "Available mid October"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/dde062af0/92432367/dde062af096c8e02a50f7c5aded808ea.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3c8d90a6a/92432367/3c8d90a6afb493bc9ae70f1f1ec6c543.jpeg",
+  "https://media.rightmove.co.uk/property-photo/97f575e48/92432367/97f575e48edc707871ac49986631964d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a1e5460de/92432367/a1e5460de0d7b3ae8744755a07f6c2f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d531add05/92432367/d531add053d15694406e03cfc8517a12.jpeg",
+  "https://media.rightmove.co.uk/property-photo/81fe6729d/92432367/81fe6729deb6e26f53640ff7324976bb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/924111ca5/92432367/924111ca5c2c386c9f941cfbb9589098.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d5be5d2e7/92432367/d5be5d2e7f9158a9b05ba7065fd159b0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/076debc54/92432367/076debc5494ba5433adae1f620df4af9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/65c08982e/92432367/65c08982e09696b8c2532185ee2f23f6.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Queens Road Peckham Station",
+   "miles": 0.4262402728801307,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Peckham Rye Station",
+   "miles": 0.5516371405855038,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "South Bermondsey Station",
+   "miles": 0.8483346427473196,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Kinleigh Folkard & Hayward - Lettings, East Dulwich",
+ "city": "London",
+ "sourceOutcode": "SE15",
+ "scrapedAt": "2026-08-30T10:14:41.119Z"
+}

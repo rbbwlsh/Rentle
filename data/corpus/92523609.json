@@ -1,0 +1,80 @@
+{
+ "id": "92523609",
+ "displayAddress": "Warriston Road, Canonmills, Edinburgh, EH3",
+ "outcode": "EH3",
+ "incode": "5LG",
+ "latitude": 55.96327,
+ "longitude": -3.19902,
+ "priceAmount": 1100,
+ "priceLabel": "£1,100 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92523609",
+ "area": "Canonmills, Edinburgh",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "04/10/2026",
+  "deposit": 1200,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Stylish one double bedroom ground floor property in Canonmills area of Edinburgh. \n\nThe ground floor property comprises entrance hallway, sitting room with wooden floors and decorative fireplace, modern fitted kitchen, master bedroom and bathroom with shower. \n\nThe property also benefits from an external storage cupboard.\n\nExternally the property has a private front garden and access to a well maintained rear garden.\n\n- Gas central heating\n- Stylish interior\n- Council tax band A\n- Excellent location\n\nLL registration 312169/230/25281\nAgent 318030/230/08471\nEPC D EPC rating: D.  Landlord Registration Number: 312169/230/25281. Letting Agent Registration Number: 1809021.",
+ "keyFeatures": [
+  "Shower",
+  "Burglar alarm"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/28c49e237/92523609/28c49e237722452d3d1afb25af928669.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7f92fa552/92523609/7f92fa55266d700731738f6752f71cb0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c16211414/92523609/c16211414a247faad92d768c80e73f11.jpeg",
+  "https://media.rightmove.co.uk/property-photo/65bc40e6d/92523609/65bc40e6d4157f94df0621a3a8f94fd6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d5a6a225/92523609/6d5a6a2257e3137db34e46b2d6e4c5f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3b5afccc7/92523609/3b5afccc7f47ebf5ef419b84d8fad31f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/531d5d921/92523609/531d5d921e6a240824be5030fe69f84b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2155ffb17/92523609/2155ffb17eb8c030413bd3c213c10007.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5c1148ea4/92523609/5c1148ea42e5b556d8500f05e88581b1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ebbc3914d/92523609/ebbc3914d5574ba2c4721a7292ea9677.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3ecf5aa14/92523609/3ecf5aa14de18683ed3f29e673a394bf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/60ef40c2b/92523609/60ef40c2bfa3363f418f92d2137d03b2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/790b95376/92523609/790b9537634fbe6f3a4f973c40ba94ed.jpeg",
+  "https://media.rightmove.co.uk/property-photo/081434bc6/92523609/081434bc65b532da525983acf71f6248.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.8565007486046342,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.444246040168768,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 3.0685102321211755,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "CORNERSTONE LETTING, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH3",
+ "scrapedAt": "2026-08-30T10:25:51.405Z"
+}

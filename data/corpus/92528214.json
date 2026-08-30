@@ -1,0 +1,96 @@
+{
+ "id": "92528214",
+ "displayAddress": "Old Lansdowne Road, West Didsbury",
+ "outcode": "M20",
+ "incode": "2PB",
+ "latitude": 53.425373,
+ "longitude": -2.239085,
+ "priceAmount": 1400,
+ "priceLabel": "£1,400 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92528214",
+ "area": "West Didsbury",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 67,
+  "sizeSqM": 6,
+  "letType": "Long term",
+  "furnishType": "Part furnished",
+  "letAvailableDate": "03/10/2026",
+  "deposit": 1615,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": 67,
+ "sizeSqM": 6,
+ "description": "Spacious raised ground floor flat situated on a popular residential street within walking distance of West Didsbury village. Tenants will have the benefit of two generous double bedrooms, a stylish kitchen, a large bathroom and access to a private rear garden.",
+ "keyFeatures": [
+  "Two Double Bedroom Apartment.",
+  "Well Presented Throughout.",
+  "Double Glazed Windows.",
+  "Large Bathroom, Separate Shower Cubicle.",
+  "Access To Rear Garden.",
+  "Stylish Kitchen, Dishwasher Included.",
+  "Well Maintained Block.",
+  "Off Road Parking Available."
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/147bc8519/92528214/147bc8519cc6c8d6c7ee0a796d5d0552.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8162fa613/92528214/8162fa6133f1df9c410cd87638906573.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dd7e4df11/92528214/dd7e4df116c29ea0b038f6f7b7a98bcb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3a9900893/92528214/3a99008930bac9d1d94ecf4788a10f83.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8237f659d/92528214/8237f659d7c208123a1874c4a0be1ad8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/226b1ca5b/92528214/226b1ca5b305d6fbdc2768a2eac6dfe4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d039a9b3c/92528214/d039a9b3cdd7c01862e89c4d4ad874b9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4a377145f/92528214/4a377145ff412097f087ebbe0b7d6598.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b1ae2910b/92528214/b1ae2910b5ee0eb5d42d5eeba7b38647.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7e0beb83b/92528214/7e0beb83b1e10088aba42000500a98ab.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ff4d3bccf/92528214/ff4d3bccf4293f9b2559bdafc928e471.jpeg",
+  "https://media.rightmove.co.uk/property-photo/76ef3fc71/92528214/76ef3fc71e9569aef0c9730c4c9e17f3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e267d53b7/92528214/e267d53b73b3e846bc7f6b0e012f4750.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9c7efa8c5/92528214/9c7efa8c535b26a2342ae94329e795d2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/39b2a1bd2/92528214/39b2a1bd23c85bb236ee4df4097c21f2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b18cd05be/92528214/b18cd05be3cf9ff0f5ae6c21776d3666.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4e4703a48/92528214/4e4703a48fce0fb2e2ab8aec2e163c14.jpeg",
+  "https://media.rightmove.co.uk/property-photo/62978db37/92528214/62978db37a0a0653026f0cba39c2fdf9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0038bbe11/92528214/0038bbe114a5659b7354a5fb2ecdd5ce.jpeg",
+  "https://media.rightmove.co.uk/property-photo/21103f2d2/92528214/21103f2d2691387991453210ceedfebb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7f520eda4/92528214/7f520eda4ac7b0aa09016eb902af47f8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ea0c78f58/92528214/ea0c78f58a345e021e9d96a230b47a6d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8e25b60d3/92528214/8e25b60d3373603f82498fd6d1ab5e68.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4d20b058f/92528214/4d20b058fb1a6e043688c500f1d58713.jpeg"
+ ],
+ "imageCount": 24,
+ "nearestStations": [
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 0.13104723908190236,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 0.26807141908131826,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Withington Tram Stop",
+   "miles": 0.6576555153628938,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Stanton Properties, Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M20",
+ "scrapedAt": "2026-08-30T10:18:33.329Z"
+}

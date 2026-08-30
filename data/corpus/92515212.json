@@ -1,0 +1,62 @@
+{
+ "id": "92515212",
+ "displayAddress": "Welsh Back, Bristol",
+ "outcode": "BS1",
+ "incode": "4SS",
+ "latitude": 51.453468,
+ "longitude": -2.592479,
+ "priceAmount": 1250,
+ "priceLabel": "£1,250 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92515212",
+ "area": "Welsh Back, Bristol",
+ "bedrooms": null,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": null,
+  "bathrooms": 1,
+  "sizeSqFt": 549,
+  "sizeSqM": 51,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "04/09/2026",
+  "deposit": 1442,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": 549,
+ "sizeSqM": 51,
+ "description": "No description available.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [],
+ "imageCount": 0,
+ "nearestStations": [
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 0.5656477303670541,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bedminster Station",
+   "miles": 0.9345475519820894,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Montpelier Station",
+   "miles": 1.0415046615800772,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Wildheart Residential Management Limited, Epsom",
+ "city": "Bristol",
+ "sourceOutcode": "BS1",
+ "scrapedAt": "2026-08-30T10:21:47.443Z"
+}

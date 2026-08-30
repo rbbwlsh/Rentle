@@ -1,0 +1,82 @@
+{
+ "id": "91604364",
+ "displayAddress": "Langham Court, Mersey Road, Didsbury, Manchester, M20 2px",
+ "outcode": "M20",
+ "incode": "2PX",
+ "latitude": 53.420899,
+ "longitude": -2.246613,
+ "priceAmount": 1450,
+ "priceLabel": "£1,450 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91604364",
+ "area": "Didsbury, Manchester",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "12/09/2026",
+  "deposit": 1673,
+  "minimumTermMonths": 0,
+  "councilTaxBand": "TBC"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Immaculately presented spacious two bed 2nd floor apartment situated in the very popular Langham Court Development which is within strolling distance of Alberts, The Woodstock and West Didsbury Village.  Accommodation comprises of spacious open plan lounge/kitchen to include German design kitchen and Natuzzi Sofa & chair.  The lounge also benefits from having french doors onto a lovely sunny balcony.  Two double bedrooms the main having a walk-in wardrobe.   Jack & Jill bathroom with bath & shower.   This property benefits from having superb storage, balcony off the bedroom and lounge, 2nd guest w.c & off road parking.  VIEWING IS HIGHLY RECOMMENDED!!",
+ "keyFeatures": [
+  "2 Bed Apartment",
+  "Fully Furnished ",
+  "2nd Floor",
+  "Off Road Parking",
+  "Superb Location",
+  "Large Balcony",
+  "EPC Rating C",
+  "Council Tax Band C"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/6eb3960de/91604364/6eb3960de6695ec5cae0aa72e91a514a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a21e24edf/91604364/a21e24edfc0394d6f6013ac896883eac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/13e4b4d12/91604364/13e4b4d1255cf14f51d66ca707ee32e8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dc58267f7/91604364/dc58267f74b029320d67204e8251519d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4ff49e05d/91604364/4ff49e05d1cc78a45ef99f0e61249c75.jpeg",
+  "https://media.rightmove.co.uk/property-photo/88384a6b0/91604364/88384a6b03610ca8dc4ec8d14b7fc505.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b0ee39896/91604364/b0ee398968d0b03ee46a6f61a7543f12.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7fa1fbc34/91604364/7fa1fbc34a1c5ed2da8fa49976a6974c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/10e52624e/91604364/10e52624e0c94f005a69f251b44c9a52.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 0.4985177369726274,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 0.6216461422976567,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Didsbury Village Station",
+   "miles": 0.7980673713366032,
+   "types": [
+    "TRAM",
+    "LIGHT_RAILWAY"
+   ]
+  }
+ ],
+ "agent": "Wren Properties Ltd, Didsbury",
+ "city": "Manchester",
+ "sourceOutcode": "M20",
+ "scrapedAt": "2026-08-30T10:18:43.508Z"
+}

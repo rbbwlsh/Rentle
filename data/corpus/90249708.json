@@ -1,0 +1,87 @@
+{
+ "id": "90249708",
+ "displayAddress": "W3, 51 Whitworth Street West, Southern Gateway, Manchester, M1",
+ "outcode": "M1",
+ "incode": "5ED",
+ "latitude": 53.474418,
+ "longitude": -2.243068,
+ "priceAmount": 1550,
+ "priceLabel": "£1,550 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90249708",
+ "area": "Southern Gateway, Manchester",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 1788,
+  "minimumTermMonths": 6,
+  "councilTaxBand": "E"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "DEPOSIT FREE OPTION AVAILABLE | AVAILABLE NOW | FULLY FURNISHED | BILLS PACKAGE AVAILABLE FOR STUDENTS AT ADDITIONAL COST \n\nThe W3 Building is located on the corner of Whitworth Street West and Oxford Road which is close to the Manchester universities and opposite Oxford Road station. This eighth floor apartment comprises: an entrance hallway, open plan living room, integrated kitchen with breakfast bar, two double bedrooms, an en-suite to the master and three piece bathroom suite. The development also benefits from a 24hr concierge service and private communal gardens. EPC Rating C.\n\nRight to Rent in the UK checks will be completed before a tenancy can be granted. All tenants over the age of 18 must provide original relevant identification documents at the point of submitting an application to rent.",
+ "keyFeatures": [
+  "Deposit Free Option Available",
+  "Available Now",
+  "Bills Package Available for Students at Additional Cost",
+  "Fully Furnished",
+  "Open Plan Living Area",
+  "Modern Kitchen",
+  "Two Double Bedrooms",
+  "Two Bathrooms",
+  "Eighth Floor",
+  "24hr Concierge"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/9752dfbb9/90249708/9752dfbb946c5be2a72ca6f770684bed.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7b9a7e71b/90249708/7b9a7e71b888b5bed8a62acb258a0ee8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0d85ddfc0/90249708/0d85ddfc06710167419476c73be6e810.jpeg",
+  "https://media.rightmove.co.uk/property-photo/19ead66fb/90249708/19ead66fb8d7ec4b69ef360d0c506659.jpeg",
+  "https://media.rightmove.co.uk/property-photo/71a07642e/90249708/71a07642e9fbfd58f13a723ffee36ee4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8d6d16f18/90249708/8d6d16f183fbe35059882ad3d309f8e0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d1582d3a9/90249708/d1582d3a9885abc3e3d24e945a051ca5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d6ed2051a/90249708/d6ed2051ad33e5b044d968f4407ca2c5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/52af8e1a7/90249708/52af8e1a7594d57bcbacfa02f282eda3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/590143dc9/90249708/590143dc904223783db160bbc4393582.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ceb369128/90249708/ceb369128182c1a1b7abfeee06dd9a3e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a400f297d/90249708/a400f297d6c03749d5590cd3bdd2f7e7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c6e8b6552/90249708/c6e8b655229cccedce9e4069ca47b0f4.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Manchester Oxford Road Station",
+   "miles": 0.05058154972566184,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "St Peters Square Tram Stop",
+   "miles": 0.2275472668228857,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Deansgate Station",
+   "miles": 0.32002934253208676,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Thornley Groves, Manchester Southern Gateway",
+ "city": "Manchester",
+ "sourceOutcode": "M1",
+ "scrapedAt": "2026-08-30T10:16:57.747Z"
+}

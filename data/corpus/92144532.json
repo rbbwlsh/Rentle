@@ -1,0 +1,74 @@
+{
+ "id": "92144532",
+ "displayAddress": "Robinwood Court, Roundhay, Leeds, LS8",
+ "outcode": "LS8",
+ "incode": "1DZ",
+ "latitude": 53.840694,
+ "longitude": -1.5101,
+ "priceAmount": 950,
+ "priceLabel": "£950 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92144532",
+ "area": "Roundhay, Leeds",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "19/09/2026",
+  "deposit": 1096,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Modern 2 bed apartment | sought after location | Finished to a high standard | Unfurnished | Garage | Available September\n\n\rLinley & Simpson are pleased to bring to the market this absolutely stunning recently refurbished 2 bedroom apartment, finished to a HIGH STANDARD including a beautiful kitchen. \n\nSituated within this ever so popular development in Roundhay. With Roundhay Park, Tennis Courts and other local amenities right on the door step this will no doubt be popular. With a spacious living/dining area with plenty of light. There is a great size master bedroom with a beautiful bathroom with shower over the bath and stylish kitchen. \n\nThe property also benefits from a single garage for storage. Unfurnished with white goods.\n\nDeposit £1096/ NO DEPOSIT OPTION AVAILABLE\nCouncil Tax Band B\nEPC D\n\nHeadlease doesn't accept pets.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/3273aa21d/92144532/3273aa21d710c7a6b829ebeeb0dd9610.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c4a54f643/92144532/c4a54f6432e277e6c4480ff297da200e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/db3071a57/92144532/db3071a570eb097a7bf7eb403bd09dba.jpeg",
+  "https://media.rightmove.co.uk/property-photo/543b01ca5/92144532/543b01ca54985e01eae2536e0b6060d0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/547cc41e7/92144532/547cc41e7702807d138befd71cc03ad2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d5b9464b/92144532/6d5b9464bab8c1061f1892d881e27346.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cb8391e6b/92144532/cb8391e6be782fcd27f8d4dabf425ffb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/82731a625/92144532/82731a625148c80b34e1b29fb6e78aa0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/755e8c824/92144532/755e8c824fd3814fac1670038c3dba07.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2e7866489/92144532/2e7866489d7de5bc7c97c641cc91a3dd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a781ca398/92144532/a781ca398c5302950092eba37d45fca3.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Burley Park Station",
+   "miles": 3.418042024066395,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cross Gates Station",
+   "miles": 3.4812319821956885,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Leeds Station",
+   "miles": 3.568633106931308,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Linley & Simpson, Roundhay",
+ "city": "Leeds",
+ "sourceOutcode": "LS8",
+ "scrapedAt": "2026-08-30T10:25:24.016Z"
+}

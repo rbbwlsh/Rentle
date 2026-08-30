@@ -1,0 +1,85 @@
+{
+ "id": "169652516",
+ "displayAddress": "Apt 9, 21 Hyde Terrace #734013",
+ "outcode": "LS2",
+ "incode": "9LD",
+ "latitude": 53.8032,
+ "longitude": -1.55824,
+ "priceAmount": 1200,
+ "priceLabel": "£1,200 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/169652516",
+ "area": "21 Hyde Terrace #734013",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Listing code 734013.\n\n21 Hyde Terrace, perfect for students to share with friends.\n\nStep into your three-bed accommodation where you’ll find expansive windows with your own cosy double bed, study nook and spacious storage.\n\nThe kitchen is fitted with everyday appliances, including a fridge-freezer, oven, hob and washer-dryer. Socialise and relax in your new lounge area, furnished with a snug sofa and central coffee table. Finished with a shared bathroom - make 21 Hyde Terrace your next accommodation for Leeds city living.",
+ "keyFeatures": [
+  "Listing Code: 734013",
+  "3 Bedroom",
+  "1 Bathroom",
+  "Available from: September 1st",
+  "Secure code entry",
+  "Popular student location",
+  "Great transport links",
+  "Limited parking available",
+  "Short walk to city centre",
+  "Close to universities"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/cf338ebed/169652516/cf338ebedaf2cd985fe0e40d68f577d0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/26a940f7f/169652516/26a940f7f33aa44e91206bd5632730f0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8182efffa/169652516/8182efffa34a127ffe20ae7c6ac6b554.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7261bb138/169652516/7261bb138a84e67690a631b04ef99a83.jpeg",
+  "https://media.rightmove.co.uk/property-photo/76595e5d4/169652516/76595e5d4b4ec9062312c97e951e0686.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6e400b420/169652516/6e400b420e60dbe2af7eba50de2c24f5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1669b55e8/169652516/1669b55e8a4ab4e55c3075c7e528c04a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/79af35681/169652516/79af356818d0fa0134f3c82909adc822.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a7130695c/169652516/a7130695cf4bbdc741ac95f832878a3a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ecf09f1f6/169652516/ecf09f1f6fd5bb1ac5bc6b92a5cc1ca4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/718923221/169652516/7189232211e9ad3c2feda06ed60bd40c.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 0.7828751945977459,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 1.0139356527864145,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 1.788984813902226,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "YPP, Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS2",
+ "scrapedAt": "2026-08-30T10:24:18.249Z"
+}

@@ -1,0 +1,83 @@
+{
+ "id": "92523195",
+ "displayAddress": "Allerton Grange Croft, Leeds, LS8",
+ "outcode": "LS8",
+ "incode": "1RN",
+ "latitude": 53.83706,
+ "longitude": -1.52752,
+ "priceAmount": 1100,
+ "priceLabel": "£1,100 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92523195",
+ "area": "Allerton Grange Croft, Leeds",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "08/09/2026",
+  "deposit": 1269,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A lovely two double bedroom mid-terrace property situated on this popular street with great access to nearby Chapel Allerton, Roundhay, & Oakwood. Neutrally decorated throughout - the property has great curb appeal and has an entrance porch, large lounge diner with contemporary electric flame effect fire, fully fitted kitchen at the rear with appliances including a fridge freezer, slimline dishwasher & washing machine & door leading to the rear garden. \n\nUpstairs - there is a generous main bedroom, well proportioned second double bedroom and a beautiful house bathroom which has been recently installed with contemporary tiling, Rain shower over the bath & matt black towel heater. \n\nExternally - the rear garden is tiered & private with fence borders. There is a parking space to the front of the property and there is the additional benefit of a single garage. \n\nAvailable Immediately. Unfurnished with kitchen appliances. Bond - Equivalent to 5 weeks rent.",
+ "keyFeatures": [
+  "Mid Terrace Property",
+  "Two Double Bedrooms",
+  "Spacious Lounge",
+  "Kitchen With Appliances",
+  "Modern Bathroom",
+  "Tiered Rear Garden",
+  "One Parking Space In Front",
+  "Separate Single Garage"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/79e514f28/92523195/79e514f2814ccbb7d267453c104db081.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a010c7850/92523195/a010c78507d0c803ed20006512bab05c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aee0bd9e8/92523195/aee0bd9e89e36e65efbb6b20cc0456a3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1af7712dc/92523195/1af7712dc411dbd7d11396d505483b4c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9bfb276b1/92523195/9bfb276b1114d7008a1d43a7baa05baa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0b8ad0bdc/92523195/0b8ad0bdc328fc1a86051fbbb8f32f68.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d4ec635d4/92523195/d4ec635d4138bcef4b120ad47c1e3d5e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/589ba33d5/92523195/589ba33d5716bb91405ffe3bd7eba173.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d03e9604c/92523195/d03e9604cfcc11272cac3d77fa0980b8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9c6744e90/92523195/9c6744e90780b40c65277fb64e2d24db.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a39b4d280/92523195/a39b4d28072828f5704d592807e822ac.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Burley Park Station",
+   "miles": 2.7000011313066494,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 3.028220801578231,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Leeds Station",
+   "miles": 3.085590685225972,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Northwood, Chapel Allerton",
+ "city": "Leeds",
+ "sourceOutcode": "LS8",
+ "scrapedAt": "2026-08-30T10:25:02.519Z"
+}

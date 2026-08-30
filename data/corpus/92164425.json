@@ -1,0 +1,79 @@
+{
+ "id": "92164425",
+ "displayAddress": "Bexley Terrace, Harehills, Leeds",
+ "outcode": "LS8",
+ "incode": "5NX",
+ "latitude": 53.80934,
+ "longitude": -1.51872,
+ "priceAmount": 900,
+ "priceLabel": "£900 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92164425",
+ "area": "Harehills, Leeds",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 1038,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Haus Sales & Lettings are pleased to bring to market this well-presented two bedroom mid-terraced property situated on Bexley Terrace in Harehills — a popular and convenient residential location offering easy access to everything Leeds has to offer.\n\n The property provides comfortable and practical accommodation throughout. To the ground floor you'll find a welcoming lounge and a kitchen, with one bedroom upstairs along with a family bathroom with the second bedroom being hosted on the top floor. The property also benefits from outdoor space to the front in the form of a paved area, ideal for those looking for a little extra room outside.\n\n Located just 1.5 miles from Leeds city centre with excellent bus links close by, the property is well placed for commuters and those looking to be within easy reach of the city. St James's University Hospital is also nearby, making this a great option for NHS and healthcare workers. Local shops, takeaways, supermarkets, and everyday amenities are all within easy walking distance.\n\n A solid, no-fuss home in a well-connected part of Leeds — viewing is recommended to appreciate what's on offer.\n\n  Key Features:\n\n Two bedroomsGround floor lounge and kitchenFamily bathroomOutdoor spaceGas central heating and uPVC double glazingExcellent bus links — Leeds city centre approx. 1.5 milesClose to St James's University HospitalLocal shops and amenities nearbyAvailable: NOWCouncil Tax Band: A | EPC Rating: D",
+ "keyFeatures": [
+  "EPC-D",
+  "2 Double Bedrooms",
+  "Full Double Glazing",
+  "Front Garden",
+  "Council Band A",
+  "Gas Central Heating Combi Boiler"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a3ba7cee7/92164425/a3ba7cee7f1b62b4b4e1c6523c0c0144.jpeg",
+  "https://media.rightmove.co.uk/property-photo/38de819e1/92164425/38de819e15550f5077c23bb625142f8b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cae62f629/92164425/cae62f629d80be393dfd4d4ad3e7b374.jpeg",
+  "https://media.rightmove.co.uk/property-photo/21ea9968c/92164425/21ea9968c21b427d513bfd481dd5ac86.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1d8c3f6bd/92164425/1d8c3f6bdd582025e05dc4067dfc5ace.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fc94f306a/92164425/fc94f306a4c0de6416aff6795b1539f3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5956b69d5/92164425/5956b69d58e223104c535b6d30482cfc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c7449fe72/92164425/c7449fe721bcc0477f3baa5aaeac7940.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5e1436c6a/92164425/5e1436c6a5bd594bae355e48c8029ee5.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 1.5750826379975769,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 2.4366612744223413,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cross Gates Station",
+   "miles": 2.8239242109575473,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Haus Sales & Lettings, Covering Yorkshire",
+ "city": "Leeds",
+ "sourceOutcode": "LS8",
+ "scrapedAt": "2026-08-30T10:25:06.719Z"
+}

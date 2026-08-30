@@ -1,0 +1,72 @@
+{
+ "id": "163753001",
+ "displayAddress": "Merchant Square East, London, W2",
+ "outcode": "W2",
+ "incode": "1AN",
+ "latitude": 51.519075,
+ "longitude": -0.171197,
+ "priceAmount": 4983,
+ "priceLabel": "£4,983 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/163753001",
+ "area": "London",
+ "bedrooms": 3,
+ "bathrooms": null,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 3,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Ask agent",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This stunning interior designed luxury apartment has three spacious and light bedrooms situated on the second floor of this prestigious building which features a concierge service, lift service and secure underground parking.\r\n\r\nThis modern apartment comprises a beautiful reception room, a newly fitted open plan kitchen, three bedrooms, two bathrooms, and ample storage space.\r\n\r\nThe apartment offers easy access to great transport links such as Paddington Train Station (Elizabeth Line, Bakerloo, Hammersmith & City, Circle, District lines and Heathrow) Edgware Road (Circle, District, and Bakerloo lines).",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f3af1f10e/163753001/f3af1f10e7967adbe162b1c008d7decb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/914c46da8/163753001/914c46da8c6e39587aeeaa78ae5ff66b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6b026a429/163753001/6b026a4296b1e3285982aac41cf95d0e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c373051ea/163753001/c373051eadab4eda22e145bc0dc72787.jpeg",
+  "https://media.rightmove.co.uk/property-photo/31375b998/163753001/31375b998a29a4e071950c0f0bf0c397.jpeg",
+  "https://media.rightmove.co.uk/property-photo/77395633c/163753001/77395633c389efcc15bc98dbc46a3957.jpeg",
+  "https://media.rightmove.co.uk/property-photo/68543eaa7/163753001/68543eaa7b85df928c870485626bcb7e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/234437e31/163753001/234437e31331ad7a849f698e73f9e617.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Edgware Road (Bakerloo) Station",
+   "miles": 0.12017885046003855,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Edgware Road (Circle, District, Hammersmith & City) Station",
+   "miles": 0.15846247434597124,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Paddington Station",
+   "miles": 0.31068616389384757,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "Pure Realty, London",
+ "city": "London",
+ "sourceOutcode": "W2",
+ "scrapedAt": "2026-08-30T10:16:12.415Z"
+}

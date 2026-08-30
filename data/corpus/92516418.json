@@ -1,0 +1,93 @@
+{
+ "id": "92516418",
+ "displayAddress": "Azure House, Brook Road, N8",
+ "outcode": "N8",
+ "incode": "0ES",
+ "latitude": 51.592437,
+ "longitude": -0.112156,
+ "priceAmount": 2500,
+ "priceLabel": "£2,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92516418",
+ "area": "Azure House",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "22/10/2026",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Regent are proud to present this newly built two-bedroom apartment in Azure House, part of the Clarendon development, N8.\n\nWould you prefer to communicate on WeChat? Add us at RegentLettings.\n\nThe property comprises two double bedrooms, an open concept living area with a large, fully fitted kitchen and two spacious bathrooms. The apartment is finished with a high-specification interior finish with underfloor heating to bathrooms and integrated appliances.\n\nThe residents will additionally benefit from concierge service, residents' only meeting room, lobby, and communal landscaped gardens.\n\nThe development is located within walking distance of two underground and two national rail stations. The Piccadilly line and National Rail provide direct access to many of London's famous landmarks and universities within 20 minutes of travel from Wood Green, Turnpike Lane, Hornsey, or Alexandra Place stations. \n\nCommuters can be at the employment hubs of Kings Cross in 15 minutes, the City of London in 20 minutes, and Canary Wharf in 40 minutes. London's international airports are accessible within an hour and traveling from King's Cross St. Pancreas, Paris is just over two hours.\n \nRegent Property comply with the Tenant Fees Act 2019 and are members of The Property Ombudsman scheme. Our Client Money Protection is provided by the UKALA Total Loss CMP scheme. For more information please visit our website or call our office on the number above.",
+ "keyFeatures": [
+  "2Beds/2Baths",
+  "Concierge service ",
+  "Sauna &amp; Wellness",
+  "Residents' Lounge",
+  "Landscaped Gardens",
+  "Brand-new Apartment "
+ ],
+ "tags": [
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f9ba3e07a/92516418/f9ba3e07a76e19b83ba39638c4cecbd8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7e23328d1/92516418/7e23328d11c01950dfa85f95b16d730d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eb80a6b8d/92516418/eb80a6b8dc5ce458a933731d92a8982b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f76522111/92516418/f76522111c6bd5efe5b592c028779eef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/33091e542/92516418/33091e5424858df4391754c29944e554.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c31c8e10f/92516418/c31c8e10fd7fc1876fce64179ec55544.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c63055c86/92516418/c63055c8614303458d368ba7d276934f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/03b17d7c1/92516418/03b17d7c10d721ef29ffec97b7b8ead5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9b30d0603/92516418/9b30d0603739255557a9940b434fd6d9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/75f88720d/92516418/75f88720d9b8e62e577e5f884e255f12.jpeg",
+  "https://media.rightmove.co.uk/property-photo/45efc9f3f/92516418/45efc9f3f4d2e79cfa9b8435f31aafc5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/797c5d288/92516418/797c5d288594bbadb6e2e6a04fadd4da.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a327c0d94/92516418/a327c0d94f976007ac2b375ef4ced819.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2149d7e4c/92516418/2149d7e4c3f25342f3eab35ab72464af.jpeg",
+  "https://media.rightmove.co.uk/property-photo/98b70277d/92516418/98b70277dda66f0ac918b74e1fc019be.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9185474ff/92516418/9185474ff28b920ea43174658fe6b686.jpeg",
+  "https://media.rightmove.co.uk/property-photo/085c6c1d8/92516418/085c6c1d86033781bd2399cfe1485c17.jpeg",
+  "https://media.rightmove.co.uk/property-photo/04284e0b4/92516418/04284e0b466f5421cc127dfe7ff66f46.jpeg",
+  "https://media.rightmove.co.uk/property-photo/945185a97/92516418/945185a97f9b4fc8e76108946e645c86.jpeg",
+  "https://media.rightmove.co.uk/property-photo/04ba3fb54/92516418/04ba3fb543295941a6a5452ce2f6c149.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1f58480bf/92516418/1f58480bf509ab99afc9805bd2ff37ed.jpeg"
+ ],
+ "imageCount": 21,
+ "nearestStations": [
+  {
+   "name": "Wood Green Station",
+   "miles": 0.34260843912319494,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Hornsey Station",
+   "miles": 0.427235387667507,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Alexandra Palace Station",
+   "miles": 0.5184649136727421,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Regent Letting and Property Management, West London and Home Counties",
+ "city": "London",
+ "sourceOutcode": "N8",
+ "scrapedAt": "2026-08-30T10:13:46.572Z"
+}

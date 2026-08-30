@@ -1,0 +1,83 @@
+{
+ "id": "92370978",
+ "displayAddress": "1 bedroom Terraced Flat in Redland",
+ "outcode": "BS6",
+ "incode": "6ET",
+ "latitude": 51.46613,
+ "longitude": -2.602169,
+ "priceAmount": 1395,
+ "priceLabel": "£1,395 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92370978",
+ "area": "1 bedroom Terraced Flat in Redland",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "04/09/2026",
+  "deposit": 1395,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "DESCRIPTION \nThe newly refurbished property is let furnished comprising of 1 double bedrooms, with bathroom off the bedroom,  1 reception room overlooking the front courtyard , kitchen with electric cooker, fridge/freezer, and dishwasher. The entrance hallway cupboard houses the washing machine and tumble dryer and the flat is heated by gas central heating.\n\nLOCATION  \nSituated in the sought-after BS6 area, this property is just moments from the lively Chandos Road, Whiteladies Road and Cotham Hill know for there lovely bars, Cafes and restaurants.\n\nCOUNCIL TAX \nBristol City Council Tax Band B\n\nPARKING\nThis property does not include dedicated parking. However, it is located within the Bristol City Council permit area, so residents can apply directly to the council for an on-street parking permit if needed.\n\nSERVICES:\nMains Electricity. Mains Gas. Mains Water. Mains Sewage\nMobile signal/coverage - Likely/Limited - As per Ofcom\nBroadband - Broadband\n\nRESTRICTIONS: \nNo Smokers . This includes Vaping.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/9f8bcb66f/92370978/9f8bcb66ff2c2bca09add41bd8bf9791.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dbe5a580a/92370978/dbe5a580ae6798dadbc83c120037a5a7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8b4070463/92370978/8b4070463d53c7bfcc26af9fdd3253ad.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8acac8e97/92370978/8acac8e97d56404df63a4f3c705d18fa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d49cd7e59/92370978/d49cd7e591e0efb2c26886f8bfc08e90.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b21468f70/92370978/b21468f701fc4ba65bc508905d2ebbfe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6ddf54a19/92370978/6ddf54a194c4d5cd0da2719908963350.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3c1a1a03b/92370978/3c1a1a03bb1c85e3a23a732d943ddfa8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/69b976304/92370978/69b976304c9690077678bc7c75e6c61f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9823d2e80/92370978/9823d2e80e1a2282a503cfe5687728ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3c1a1a03b/92370978/3c1a1a03bb1c85e3a23a732d943ddfa8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d5dd564ca/92370978/d5dd564cab6435cc8aee2c1baba82559.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5ea193c78/92370978/5ea193c78a1cae0f4bd8cdb49f24d553.jpeg",
+  "https://media.rightmove.co.uk/property-photo/74b646916/92370978/74b6469169a83a204d47302fc4dea9a1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/48bb2c060/92370978/48bb2c060814f9347a49f1fb5a407471.jpeg",
+  "https://media.rightmove.co.uk/property-photo/586e8597c/92370978/586e8597c05720935d7ecea5c253a367.jpeg",
+  "https://media.rightmove.co.uk/property-photo/90858a4ad/92370978/90858a4ad06ebaf55cf34a79799bfc5f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2c90178c4/92370978/2c90178c4c0923f7cbc133636bd4eccc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5c9436e64/92370978/5c9436e643c8a5c953da873d82045947.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5dc9d8064/92370978/5dc9d8064df2dbcd7187c86b82ef85bc.jpeg"
+ ],
+ "imageCount": 20,
+ "nearestStations": [
+  {
+   "name": "Redland Station",
+   "miles": 0.19106534504759073,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.3975825437331899,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Montpelier Station",
+   "miles": 0.5991141079743159,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Flatline Letting and Property Management, Clifton",
+ "city": "Bristol",
+ "sourceOutcode": "BS6",
+ "scrapedAt": "2026-08-30T10:23:20.993Z"
+}

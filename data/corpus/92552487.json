@@ -1,0 +1,77 @@
+{
+ "id": "92552487",
+ "displayAddress": "The Hacienda, Whitworth Street, M1",
+ "outcode": "M1",
+ "incode": "5DE",
+ "latitude": 53.4743,
+ "longitude": -2.24753,
+ "priceAmount": 1200,
+ "priceLabel": "£1,200 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92552487",
+ "area": "The Hacienda",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/10/2026",
+  "deposit": 1385,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Martin and Co proudly present this luxurious one double bedroom apartment in the prestigious Hacienda development. Steeped in history and situated mere minutes from everything Manchester has to offer, The Hacienda offers superb proximity to the many vibrant attractions of the city centre as well as being perfectly located for access to both Deansgate and Oxford Road. \n\nComprised of an excellent sized double bedroom, a modern suite finished to the same uncompromising standard and comfortable open-plan living / kitchen space, this apartment truly offers a luxury escape from the hustle of the city centre. In addition to being wonderfully located and exceptionally finished, this particular apartment benefits being fully furnished throughout and boasts a well positioned balcony with a canal view to match!\n\nContact our office on   as soon as possible to arrange your viewing.\n\n*Please note that all pictures are provided for marketing purposes and may not reflect the identical finish of the particular apartment on offer*",
+ "keyFeatures": [
+  "PRESTIGIOUS DEVELOPMENT",
+  "ICONIC BUILDING",
+  "ONE DOUBLE BEDROOM",
+  "PERFECTLY LOCATED FOR ACCESS TO OXFORD ROAD",
+  "JUST MINUTES TO DEANSGATE STATION",
+  "FULLY FURNISHED",
+  "PRIVATE BALCONY",
+  "CANAL SIDE"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/5cf13535c/92552487/5cf13535ca26128b692a6db1aa9078ce.jpeg",
+  "https://media.rightmove.co.uk/property-photo/853eed715/92552487/853eed7155652d7f5bfc672bc4db2dba.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2d6cf950a/92552487/2d6cf950a4a4fa291e14048572c640f6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f00cdda4d/92552487/f00cdda4dd5658eabc55fc162c50838b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d04906e2/92552487/6d04906e2f9da4663d36769c5b199530.jpeg"
+ ],
+ "imageCount": 5,
+ "nearestStations": [
+  {
+   "name": "Deansgate Station",
+   "miles": 0.13575424595807914,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Manchester Oxford Road Station",
+   "miles": 0.22095826358234058,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Manchester Deansgate-Castlefield Tram Stop",
+   "miles": 0.2405991596788602,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Martin & Co, Manchester Central",
+ "city": "Manchester",
+ "sourceOutcode": "M1",
+ "scrapedAt": "2026-08-30T10:16:42.515Z"
+}

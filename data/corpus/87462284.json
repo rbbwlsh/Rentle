@@ -1,0 +1,75 @@
+{
+ "id": "87462284",
+ "displayAddress": "Lorne Road, Manchester, Greater Manchester, M14",
+ "outcode": "M14",
+ "incode": "6AW",
+ "latitude": 53.43816,
+ "longitude": -2.22305,
+ "priceAmount": 825,
+ "priceLabel": "£825 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/87462284",
+ "area": "Manchester, Greater Manchester",
+ "bedrooms": 1,
+ "bathrooms": null,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "31/10/2026",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This property is available for both students & professionals. \r\n\r\nThis property comprises of a spacious living room, kitchen, bathroom w.c and good size double bedroom. Benefits from gas central heating, and off-road parking is available.\r\n\r\nThe property is located off Wilmslow road with easy access to public transport linking universities, hospitals and the city centre. Fallowfield and Withington centres are a short walk away with a wide selection of local amenities available. A UK-based homeowner guarantor is required.",
+ "keyFeatures": [
+  "Guarantor Required",
+  "Fully Furnished",
+  "Spacious Bedroom",
+  "Gas Central Heating"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/5a257bbee/87462284/5a257bbeefbf5d2a7883b8d60cf17aec.JPG",
+  "https://media.rightmove.co.uk/property-photo/9897aa5c4/87462284/9897aa5c487fd6318e775c1d5d4bcb9d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/01fc343dc/87462284/01fc343dc8c5697a437961771259cff5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3b3049b1b/87462284/3b3049b1b1a207b232e3939be854cbf8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7489bb284/87462284/7489bb28461914dacb5e4c7a6ca29775.jpeg",
+  "https://media.rightmove.co.uk/property-photo/de89406ef/87462284/de89406efb952cbf8631f1feb70c370c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aca017238/87462284/aca017238290920eff991978ed32d5db.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Mauldeth Road Station",
+   "miles": 0.6562104651253483,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 0.9567630528840964,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 1.0866994192298405,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Richmond Property Management & Letting Ltd, Didsbury",
+ "city": "Manchester",
+ "sourceOutcode": "M14",
+ "scrapedAt": "2026-08-30T10:18:15.436Z"
+}

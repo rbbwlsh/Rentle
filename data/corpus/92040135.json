@@ -1,0 +1,78 @@
+{
+ "id": "92040135",
+ "displayAddress": "Brandon Villas, Bristol, BS8",
+ "outcode": "BS8",
+ "incode": "1EU",
+ "latitude": 51.45369,
+ "longitude": -2.61016,
+ "priceAmount": 2100,
+ "priceLabel": "£2,100 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92040135",
+ "area": "Brandon Villas, Bristol",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "30/09/2026",
+  "deposit": 0,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Property Reference: 2988068.\n\nThe flat comprises of:\n- entrance hall, \n- one bedroom, with king size bed\n- modern, recently  bathroom \n- Spacious kitchen/living room, perfect for chatting and relaxing while you cook. \n\nThe sofa in the living room can turn into a small double sofa bed for extra guests.\n\nLocation\nNestled just down the road from the iconic Clifton triangle, our flat boasts a prime location:\n\n- University of Bristol- 5 min walk from the university and the triangle, where you can do your shopping.\n\nClifton Suspension Bridge and Clifton Village: Just a short walk up the hill, the iconic bridge offers breathtaking views of the Avon Gorge. \n\n- Harbourside: A vibrant area filled with restaurants, bars, and the famous SS Great Britain. Perfect for an evening stroll or a leisurely day out.\n\n- Brandon Hill and Cabot Tower: just across the road form the flat, find the stone steps leading to one of Bristol's oldest parks. This lovely park is a hidden haven in the centre of the city. On a sunny day it’s perfect for picnics and BBQ’s. You can climb the tower for panoramic views of the city.\n\n- Bristol City Centre: about a 15-20min walk from the flat, providing a variety of shopping, dining, and entertainment options.\n\n- Public Transport: Excellent bus links can be found 5 min up the road on the Clifton triangle. Clifton Down train station is about a 20 minute walk away.\n\nPlease not that there are differing rates between the summer period and the university term. From August to April, the monthly rent is £2,200, while from May to July, it’s £1,800.\n\n Bills are included in the price\n\nSummary & Exclusions:\n- Rent Amount: £2,100.00 per month (£484.62 per week)\n- Deposit / Bond: £0.00\n- 1 Bedrooms\n- 1 Bathrooms\n- Property comes furnished\n- Available to move in from 30 September 2026\n- Maximum number of tenants is 2\n- Students welcome to enquire\n- No Smokers\n- Bills Included\n- No Parking Available\n- No Garden Access\n- EPC Rating: C\n\n  If calling, please quote reference: 2988068  \n\nFees:\nYou will not be charged any admin fees.\n\n ** Contact today to book a viewing and have the landlord show you round! ** \nRequest Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.",
+ "keyFeatures": [
+  "No Agent Fees",
+  "Students Can Enquire",
+  "Bills Included",
+  "Property Reference Number: 2988068"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/34bffe14c/92040135/34bffe14c37b83d41337d12bc859310a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/36abbe0a8/92040135/36abbe0a80a265ce92493bb561239598.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b52b2b1d4/92040135/b52b2b1d44918d684c03d3e8595332f5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5ead9702e/92040135/5ead9702e865ea31f8662804416ef28f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e85b8fcbf/92040135/e85b8fcbf26ea90bb9be22b93f433919.jpeg",
+  "https://media.rightmove.co.uk/property-photo/256fc8a8c/92040135/256fc8a8c1c951451677671b34240171.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e120614cb/92040135/e120614cb0ea3f2c4a9c3d5b70e2fe1b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ea757fb85/92040135/ea757fb850fd59cbb5ab409572ec0612.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6b4b425e4/92040135/6b4b425e4c5ea62124688a146783f9ef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3f6aafa84/92040135/3f6aafa841e2ff6e519784c8a36b00f9.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.7518515643335658,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 1.1112096953852113,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bedminster Station",
+   "miles": 1.1688783908069795,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "OpenRent, London",
+ "city": "Bristol",
+ "sourceOutcode": "BS8",
+ "scrapedAt": "2026-08-30T11:03:29.195Z"
+}

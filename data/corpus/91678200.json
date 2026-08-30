@@ -1,0 +1,80 @@
+{
+ "id": "91678200",
+ "displayAddress": "0700L Broughton Street, Edinburgh, EH1 3JU",
+ "outcode": "EH1",
+ "incode": "3JU",
+ "latitude": 55.957218,
+ "longitude": -3.18813,
+ "priceAmount": 865,
+ "priceLabel": "£865 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91678200",
+ "area": "Edinburgh",
+ "bedrooms": 8,
+ "bathrooms": 3,
+ "propertySubType": "Flat Share",
+ "details": {
+  "propertyType": "Flat Share",
+  "bedrooms": 8,
+  "bathrooms": 3,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "04/09/2026",
+  "deposit": 865,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "REF: 0700L: BROUGHTON STREET\r\n\r\n \r\n\r\nFLAT SHARE: DOUBLE ROOM for let within a perfectly located, 8 bedroom, HMO city centre flat at the top of Broughton Street, just minutes away from Princes Street, Waverley Station, St James Quarter and the Omni Centre on foot.  The local area hosts a wide variety of amenities including a The Playhouse Theatre, Cinema and an abundance of restaurants and bars.  The Picardy Place tram stop is seconds away, providing excellent transport to Newhaven, Leith, the City Centre and the West.\r\n\r\n \r\n\r\nThis large, bright flat is part of a traditional building and has excellent storage throughout.  It is available FURNISHED and features:\r\n\r\n~Double bedroom with carpeted flooring and desk/study space (x1 available)\r\n\r\n~7x other bedrooms all currently tenanted with mixture of males/females\r\n\r\n~Large open plan living/kitchen\r\n\r\n~Lounge is very bright and sunny with a wall mounted flat screen TV, carpeted flooring and big bay window which overlooks Picardy Place\r\n\r\n~Kitchen including fridge/freezer, oven, washing machine, dishwasher, electric hob and breakfast bar\r\n\r\n~2x modern shower rooms with walk in shower cubicles\r\n\r\n~2x communal bathrooms both with three-piece suites\r\n\r\n~Zone permit parking (Application and payment to Edinburgh City Council) - max 2 per household (limited availability)\r\n\r\n~Complementary WiFi\r\n\r\n~Gas/electric*/council tax included\r\n\r\n*providing reasonable usage\r\n\r\n~Gas heating\r\n\r\n~Secure entry\r\n\r\n~Total floor area = 190m²\r\n\r\n~EPC rating: C\r\n\r\n~Landlord registration: 314650/230/09221\r\n\r\n~LARN1806025\r\n\r\n \r\n\r\nAvailable: 4th September 2026 (room 4)\r\n\r\n*Sorry - no couples\r\n\r\n \r\n\r\nRent: £865pcm (room 4)\r\n\r\nDeposit: £865\r\n\r\n \r\n\r\nPlease note the photographs shown within this advertisement may have been taken whilst a tenancy was active in the property and as a result you should not rely only on these as an accurate representation of furnishings and items included in the agreement. A full list of which items are included in the property is available upon request from our office, based on a previous tenancy. A viewing is therefore required in order to ensure you have an accurate understanding and knowledge of the condition and contents of the property\r\n\r\n \r\n\r\nProperty reference:\r\n\r\n0700L EDI BS",
+ "keyFeatures": [
+  "Zone Parking",
+  "White Goods",
+  "Gas Heating",
+  "Secure Entry",
+  "Bills Included"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d0d277fed/91678200/d0d277fedcc2257d87ebc81abcf4b9a9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/32e9129de/91678200/32e9129deefc716c7400921c2ab472a0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ab3a78721/91678200/ab3a787214ec9058c55ec3d038c5b9cb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f5110b16f/91678200/f5110b16f52b7f3ce4436147f7337252.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e66a11405/91678200/e66a11405c680aefb28aef17183e3700.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cb9aa0d6c/91678200/cb9aa0d6c8cfac60808b20ee530639bb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0df01537e/91678200/0df01537ef11365bce082e96bb45e2a5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ebccd058a/91678200/ebccd058a2ba166ef27bca32dc4e64d2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7ac97a431/91678200/7ac97a431598dd21b88309cbac8d99a2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/76fe890fa/91678200/76fe890fa121fc72dd7b58753ff77381.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ca04c3b61/91678200/ca04c3b6133441af54cdd21748b661b8.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.36563069386625197,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.4244770667272906,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 3.0173730566006713,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "SouthSide Property Management, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH1",
+ "scrapedAt": "2026-08-30T11:04:00.416Z"
+}

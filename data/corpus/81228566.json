@@ -1,0 +1,83 @@
+{
+ "id": "81228566",
+ "displayAddress": "Merchant Square, London, W2",
+ "outcode": "W2",
+ "incode": "1AZ",
+ "latitude": 51.51912,
+ "longitude": -0.171781,
+ "priceAmount": 7150,
+ "priceLabel": "£7,150 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/81228566",
+ "area": "London",
+ "bedrooms": 3,
+ "bathrooms": null,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 3,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Short term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Ask agent",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "*NO AGENCY FEES* A stunning three-bedroom interior designed apartment located on the 9th floor within this prestigious development set within the heart of Paddington Basin. \r\nThis unique apartment comprises a spacious living and entertaining open plan kitchen and reception area with the Canal views, three double bedrooms (the master bedroom with an en-suite bathroom), a guest cloakroom, guest bathroom and ample storage space. \r\nThe apartment is located in one of W2's most admired address which features concierge service, lift service, and secure underground parking. \r\nThe apartment offers easy access to superb transport links such as Paddington Train Station (Bakerloo, Hammersmith & City, Circle, District lines and Heathrow) Edgware Road (Circle, District and Bakerloo lines).\r\nResidential Land is the owner and managing agent of this property. Rent directly from us and pay no agency fees - just a one-off checkout charge. All our tenants benefit from a dedicated building manager who is on hand to assist with any property related issues. We also employ a dedicated team of maintenance experts and provide a 24-hour emergency helpline",
+ "keyFeatures": [
+  "A selection 3 bedroom Luxury apartments",
+  "Secured building ",
+  "Lift access to all floors ",
+  "A1 location",
+  "Underground parking "
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/4ac716c6e/81228566/4ac716c6e9573530a4ae0665b2dae365.jpg",
+  "https://media.rightmove.co.uk/property-photo/345219558/81228566/345219558d1c9895d86d8c3a220d6c26.jpg",
+  "https://media.rightmove.co.uk/property-photo/dae951c50/81228566/dae951c50840cae423d8ca70d39e5cc6.jpg",
+  "https://media.rightmove.co.uk/property-photo/d18552f6e/81228566/d18552f6ede411b539358eeeea41113e.jpg",
+  "https://media.rightmove.co.uk/property-photo/527c65999/81228566/527c65999d8d2f0b826b90572bc75fa5.jpg",
+  "https://media.rightmove.co.uk/property-photo/8b5ce1396/81228566/8b5ce1396426fc01c0a9eabaa3c19036.jpg",
+  "https://media.rightmove.co.uk/property-photo/f9db56b96/81228566/f9db56b9686f0daaf041c45512e3ccb8.jpg",
+  "https://media.rightmove.co.uk/property-photo/e6f07349f/81228566/e6f07349f3accf9d55402afda4220cd2.jpg",
+  "https://media.rightmove.co.uk/property-photo/7a19f1fdb/81228566/7a19f1fdb45c0f05b97d6b306eafe6cc.jpg",
+  "https://media.rightmove.co.uk/property-photo/2f22da066/81228566/2f22da0660464195fc3889abf188180c.jpg",
+  "https://media.rightmove.co.uk/property-photo/ef8aefb05/81228566/ef8aefb05d50a668cb4d7c40cffd8eea.jpg",
+  "https://media.rightmove.co.uk/property-photo/675c38a94/81228566/675c38a94686991787f5ec877989711c.jpg",
+  "https://media.rightmove.co.uk/property-photo/936850647/81228566/9368506474e7ea0141b41542909afc63.jpg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Edgware Road (Bakerloo) Station",
+   "miles": 0.1387535009137952,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Edgware Road (Circle, District, Hammersmith & City) Station",
+   "miles": 0.18124218775404774,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Paddington Station",
+   "miles": 0.28693617372916186,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "Pure Realty, London",
+ "city": "London",
+ "sourceOutcode": "W2",
+ "scrapedAt": "2026-08-30T10:16:09.707Z"
+}

@@ -1,0 +1,82 @@
+{
+ "id": "92491302",
+ "displayAddress": "Ability Plaza, Dalston London E8",
+ "outcode": "E8",
+ "incode": "4DT",
+ "latitude": 51.53902,
+ "longitude": -0.07601,
+ "priceAmount": 2600,
+ "priceLabel": "£2,600 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92491302",
+ "area": "Ability Plaza",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 728,
+  "sizeSqM": 68,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": 728,
+ "sizeSqM": 68,
+ "description": "Ability Plaza offers open plan, modern live/work apartments with loft style features and great natural light. Ideally located on the Kingsland Road, with fantastic transport links and the plentiful amenities of Dalston, Hoxton, Haggerston and Shoreditch.\n\nLarge live work apartment with a mezzanine | Located on the Kingsland Road next to Haggerston Station | Walking distance to Shoreditch and Dalston Junction | Split level | Parking available for a separate charge | Photos of a similar apartment",
+ "keyFeatures": [
+  "Flexible long term tenancies",
+  "Professional landlord service",
+  "Large live work apartment",
+  "Located next to Haggerston Station",
+  "Open plan living",
+  "Parking available for a separate charge",
+  "**Photos of a similar flat**"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/40537fb8c/92491302/40537fb8c3eebb4c146dea480d1ea105.jpeg",
+  "https://media.rightmove.co.uk/property-photo/33d106308/92491302/33d106308c1908c75891b13cbeda3392.jpeg",
+  "https://media.rightmove.co.uk/property-photo/506b6aa95/92491302/506b6aa956cbd84f3def3df1352049a4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/659f8c3c8/92491302/659f8c3c8349694f01dd1aaf3645e8c1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/366dd7b9f/92491302/366dd7b9fc444914ef46beeed5a5883c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7b88af735/92491302/7b88af7354d84daf2d8f853e9dce4bb9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/899dd5d1b/92491302/899dd5d1b7f83b59b165d84a062e1973.jpeg",
+  "https://media.rightmove.co.uk/property-photo/89c5b1a40/92491302/89c5b1a4044df363b967db9cf939b70e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/228a5b40c/92491302/228a5b40ca7aed91507f60214049d6a7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9a51936c9/92491302/9a51936c90e15b4f15bbe6926cb9f25b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c289781fb/92491302/c289781fbf773cc658cf248500890942.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Haggerston Station",
+   "miles": 0.05309020088679214,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Dalston Junction Station",
+   "miles": 0.4919566016050821,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Hoxton Station",
+   "miles": 0.5176455250876446,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  }
+ ],
+ "agent": "Grainger, South",
+ "city": "London",
+ "sourceOutcode": "E8",
+ "scrapedAt": "2026-08-30T10:13:04.027Z"
+}

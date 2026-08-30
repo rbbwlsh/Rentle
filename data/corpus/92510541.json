@@ -1,0 +1,78 @@
+{
+ "id": "92510541",
+ "displayAddress": "0602L Candlemaker Row, Edinburgh, EH1 2QE",
+ "outcode": "EH1",
+ "incode": "2QE",
+ "latitude": 55.947158,
+ "longitude": -3.191832,
+ "priceAmount": 995,
+ "priceLabel": "£995 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92510541",
+ "area": "Edinburgh",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "30/09/2026",
+  "deposit": 995,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "REF: 0602L: CANDLEMAKER ROW\r\n\r\n \r\n\r\nFantastic, 1 bedroom flat located on Candlemaker Row, one of Edinburgh's most historic streets, overlooking Greyfriars Bobby Kirk and perfectly located for access to the Grassmarket. The area provides an abundance of restaurants, cafes, bars and eateries and Princes Street, George Stree and The Meadows are only moments away on foot. Both Edinburgh University and the National Museum of Scotland are within a two minute walk.\r\n\r\n \r\n\r\nThe 2nd floor property is tastefully decorated in neutral tones throughout and would be ideal for students or professionals.  It is available FURNISHED and features:\r\n\r\n~Open-plan lounge/kitchen with neutral décor and leather sofas\r\n\r\n~Kitchen features selection of modern appliances and plentiful storage\r\n\r\n~Double bedroom with carpeted flooring and neutral décor\r\n\r\n~Contemporary shower room with three-piece suite\r\n\r\n~Entrance hallway providing access to all rooms\r\n\r\n~Original sash and case windows\r\n\r\n~Electric heating\r\n\r\n~Secure entry\r\n\r\n~Sorry, no pets\r\n\r\n~Total floor area = 33m²\r\n\r\n~Council tax: band C\r\n\r\n~EPC rating: D\r\n\r\n \r\n\r\nAvailable: 30th September 2026\r\n\r\n \r\n\r\nRent: £995pcm\r\n\r\nDeposit: £995\r\n\r\n \r\n\r\nPlease note the photographs shown within this advertisement may have been taken whilst a tenancy was active in the property and as a result you should not rely only on these as an accurate representation of furnishings and items included in the agreement. A full list of which items are included in the property is available upon request from our office, based on a previous tenancy. A viewing is therefore required in order to ensure you have an accurate understanding and knowledge of the condition and contents of the property.\r\n\r\n \r\n\r\nProperty Reference:\r\n\r\n0602L EDI CR",
+ "keyFeatures": [
+  "Electric Heating",
+  "Secure Entry",
+  "White Goods",
+  "Sash &amp; Case Windows"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a250ebe4d/92510541/a250ebe4d08cc0ecb0eb0badffa8deb6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5031d9dd1/92510541/5031d9dd19820300b7e4f46fdead01fd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fb330661d/92510541/fb330661db50b67a6b8e7f62ce6320ea.jpeg",
+  "https://media.rightmove.co.uk/property-photo/98335e24a/92510541/98335e24af2bf57f27cf668200561dfa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e0bf6402b/92510541/e0bf6402bd23c3678aee1e0d63705261.jpeg",
+  "https://media.rightmove.co.uk/property-photo/65e1144ed/92510541/65e1144edd8a7a45cbd01129005854f8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cc891246c/92510541/cc891246ca02d8a054ff2906ad2b1de9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5337490e5/92510541/5337490e59b0e07fbe996f8f1a76f994.jpeg",
+  "https://media.rightmove.co.uk/property-photo/23024f5ef/92510541/23024f5ef1928d2a5c48bba622b0b39f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8d28b1a50/92510541/8d28b1a50eb3183edc444a8b59210fd2.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.34539544383332865,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.0283477920837165,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 2.458304097068124,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "SouthSide Property Management, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH1",
+ "scrapedAt": "2026-08-30T11:03:37.176Z"
+}

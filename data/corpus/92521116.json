@@ -1,0 +1,79 @@
+{
+ "id": "92521116",
+ "displayAddress": "St. Johns Lane, Bedminster",
+ "outcode": "BS3",
+ "incode": "5AE",
+ "latitude": 51.43862,
+ "longitude": -2.58233,
+ "priceAmount": 1500,
+ "priceLabel": "£1,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92521116",
+ "area": "Bedminster",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "09/10/2026",
+  "deposit": 1730,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "DO NOT PHONE - EMAIL ENQUIRIES PLEASE - An exceptional 2 bed garden flat that was created to the highest specification in 2022 and has had just one occupier since. Set in a popular location within easy level reach of the city centre and with Victoria Park very nearby, this extraordinary property has an abundance of special features that include a charming open plan living space, enhanced by a velux window in the living area as well as have french doors leading onto the delightful rear garden, the well equipped kitchen comes with oven, hob and fridge freezer with space for a dining table as well. Boasting 2 double bedrooms, the one to the rear also enjoys a velux window feature as well as french doors leading to the garden, great for your morning coffee! A super-stylish bathroom comes with subdued lighting and quality finishes that compliment it's size. There is also a utility area with washing machine and work area. Outside, the flat has use of the front and rear gardens, with the rear being especially attractive, but very easy to maintain. Available from early October, and suited to professional couples or singles, those of you with an eye for quality and style, this should go straight to the top of your viewing list",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/31a818b84/92521116/31a818b8484cae4cd79208d780898746.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ad2a4699c/92521116/ad2a4699cbe184bc8143e3a9bcc2d58d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ce4d393e4/92521116/ce4d393e4d3637206efc9a1552a366b3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/72dac41bb/92521116/72dac41bb7ba9fc7264138f4934e84b0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5cdfef91f/92521116/5cdfef91fd66478f7385788f48a4c42e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4c07384a3/92521116/4c07384a3a1ca30a16756bd89882249d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d272733c2/92521116/d272733c28fcc8bddd3b529663bf65ef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6e933d8ba/92521116/6e933d8bacacb1c7f99bb57b795d6c7f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/090bf4f25/92521116/090bf4f250db4b87c6ff148abef1239d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0f0c8b2dc/92521116/0f0c8b2dc1f4507cf341af773a51b81e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7d43d6149/92521116/7d43d61491738889a05cbda862aeacbd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a5b9c3c99/92521116/a5b9c3c9932de920261b3f5703aff96d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/368417af6/92521116/368417af69790d568bcdb0b60eed6552.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b08a78932/92521116/b08a78932894b3d85799fe3e54af84e8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b663fdb9a/92521116/b663fdb9a79f2ad278ca438eafc8178a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8d1bba51d/92521116/8d1bba51d7c55775f361a552ce18fddd.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Bedminster Station",
+   "miles": 0.5255844350697596,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 0.722177404523278,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Parson Street Station",
+   "miles": 1.2013646867191634,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Millennium Lettings & Management, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS3",
+ "scrapedAt": "2026-08-30T10:22:31.645Z"
+}

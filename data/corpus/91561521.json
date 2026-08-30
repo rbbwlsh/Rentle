@@ -1,0 +1,88 @@
+{
+ "id": "91561521",
+ "displayAddress": "Sydney Road, Turnpike Lane, N8",
+ "outcode": "N8",
+ "incode": "0ET",
+ "latitude": 51.588638,
+ "longitude": -0.108998,
+ "priceAmount": 1800,
+ "priceLabel": "£1,800 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91561521",
+ "area": "Turnpike Lane",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 2076,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Situated on the first floor in this Victorian house is the very well presented two double bedroom flat. The property features an open plan lounge with a modern fitted kitchen, two modern fitted shower rooms, fitted wardrobes, laminate flooring, double glazing and electric heating. \n\nIdeally located on Sydney Road, the property is within easy reach of a wide range of local amenities and just a short walk from the vibrant Wood Green shopping district, offering an excellent selection of bars, restaurants, cafés, and both major and independent retailers at The Mall Wood Green. Excellent transport links include numerous bus routes and Turnpike Lane Underground Station (Piccadilly Line, Zone 3), providing convenient access into Central London.\n\nThe property is also well positioned for the green open spaces of Alexandra Park and is within easy reach of the popular neighbouring areas of Harringay, Crouch End, and Muswell Hill, all renowned for their independent shops, cafés, and restaurants.\n\nEarly viewing is highly recommended.",
+ "keyFeatures": [
+  "Two Double Bedroom First Floor Flat",
+  "Open Plan Lounge With Kitchen",
+  "Modern Fitted Kitchen",
+  "Two Shower Rooms",
+  "Double Glazing",
+  "Electric Heating",
+  "Laminate Flooring",
+  "Built In Wardrobes",
+  "Close To Local Amenities",
+  "Short Walk To Turnpike Lane Underground Station"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/219fc2bd2/91561521/219fc2bd20ca55cdd2c10a38023a4a5c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6ba30b85a/91561521/6ba30b85a42d322dea6d6d4ba54ac3f9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1fc5eac00/91561521/1fc5eac002a53748e682a83a7e49b231.jpeg",
+  "https://media.rightmove.co.uk/property-photo/53cd187a6/91561521/53cd187a64843b07f4a2ae1d3b629213.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b57620ada/91561521/b57620ada4fe4fd5bd549ac37607c8c7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f3044a2b9/91561521/f3044a2b991cd2f8805cc467e30cb89a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a6001623d/91561521/a6001623d6ee158f6f02535c3b5cb272.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bdfd2f269/91561521/bdfd2f269352ebd39a68bab57d198b2d.png",
+  "https://media.rightmove.co.uk/property-photo/ce0c81ed3/91561521/ce0c81ed3504c382717f03170af3de2d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/debd06cc9/91561521/debd06cc9144389de8bf65493703055a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/34d6b53a7/91561521/34d6b53a785e0123280b6429f22a596e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/db549384a/91561521/db549384ab834ee0b11190bde25dcdcb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1e22782f1/91561521/1e22782f1346d2879859db9fa952fbca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/acdeb19d6/91561521/acdeb19d60be951df0f25708f5069760.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Turnpike Lane Station",
+   "miles": 0.29546773491860107,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Hornsey Station",
+   "miles": 0.1972200706877483,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Wood Green Station",
+   "miles": 0.595257631213134,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "Coultons, London",
+ "city": "London",
+ "sourceOutcode": "N8",
+ "scrapedAt": "2026-08-30T10:13:50.964Z"
+}

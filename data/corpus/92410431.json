@@ -1,0 +1,69 @@
+{
+ "id": "92410431",
+ "displayAddress": "Tottenham Lane, Crouch End N8 ",
+ "outcode": "N8",
+ "incode": "9BZ",
+ "latitude": 51.581866,
+ "longitude": -0.119746,
+ "priceAmount": 2600,
+ "priceLabel": "£2,600 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92410431",
+ "area": "Tottenham Lane",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": null,
+  "letAvailableDate": "Now",
+  "deposit": 3000,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "We are pleased to bring to the market this 600 square foot one bedroom with a private balcony. The property benefits from a bespoke kitchen and bathroom, wood flooring throughout, internal mechanical ventilation system and under floor heating.Homestead Heights is a brand new development with 18 luxury apartments all finished to a very high standard in the centre of Crouch End, which are in close to proximity Rokelsley Primary School, Hornsey School for girls, Weston Park School, 0.5 miles from Hornsey Station and all local emanites within easy reach.Limited Parking spaces available at an additional cost.External cycle store included.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f5928d3f7/92410431/f5928d3f7686da891a4ea7c5233a8a40.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7faba0224/92410431/7faba022467c8258967b239e5b272f8f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/601334104/92410431/601334104f9c38ef59ef459266402caf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1fa3e8a97/92410431/1fa3e8a9788782253eb139ff05e2b2d6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c24622a6e/92410431/c24622a6eaabbd084755f621be4d51db.jpeg",
+  "https://media.rightmove.co.uk/property-photo/177a6c0ac/92410431/177a6c0ac2e81f0a5260a6ed532b9fe1.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Hornsey Station",
+   "miles": 0.4662562073876122,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Harringay Station",
+   "miles": 0.7075022251111445,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Crouch Hill Station",
+   "miles": 0.7352607685123663,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  }
+ ],
+ "agent": "Black Katz, Camden",
+ "city": "London",
+ "sourceOutcode": "N8",
+ "scrapedAt": "2026-08-30T10:14:07.431Z"
+}

@@ -1,0 +1,78 @@
+{
+ "id": "92484069",
+ "displayAddress": "1 The Portland, Whiteoak, Fallowfield, Manchester, M14",
+ "outcode": "M14",
+ "incode": "6WT",
+ "latitude": 53.438494,
+ "longitude": -2.220006,
+ "priceAmount": 1100,
+ "priceLabel": "£1,100 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92484069",
+ "area": "Fallowfield, Manchester",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "12/10/2026",
+  "deposit": 1269,
+  "minimumTermMonths": null,
+  "councilTaxBand": "TBC"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Available OCTOBER -   A furnished, modern top floor apartment with electric central heating, alarm and double glazing. Comprising, hall, lounge, fitted dining kitchen, one double and one single bedroom, spacious lounge, bathroom with shower. Added benefits of a private parking space and communal gardens.",
+ "keyFeatures": [
+  "Available October",
+  "Two Bedrooms",
+  "One Double and One Single",
+  "Furnished",
+  "Parking Included",
+  "Five Week Deposit"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/9cea78d44/92484069/9cea78d447f227f05d33fdff4dfe8477.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5ef0f7dd5/92484069/5ef0f7dd548eaff85ca84d47decde4d6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1ea6fe0e7/92484069/1ea6fe0e7022bdf9a9e9ee99f6836515.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b6af74395/92484069/b6af74395e73584500ca44d59281384e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1c6dce9dc/92484069/1c6dce9dc888dd7b32f604f9fe05c282.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a5866b894/92484069/a5866b8947e6b1475daeac9267b43802.jpeg",
+  "https://media.rightmove.co.uk/property-photo/babb7f92f/92484069/babb7f92fd6e615e6cc657fb2f07f51f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b44c335fc/92484069/b44c335fcb6b91514dfc14ee8186e532.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Mauldeth Road Station",
+   "miles": 0.5598989397128522,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 1.0690972787752757,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Levenshulme Station",
+   "miles": 1.1950078787105816,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Philip James Manchester, Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M14",
+ "scrapedAt": "2026-08-30T10:18:16.813Z"
+}

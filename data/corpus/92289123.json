@@ -1,0 +1,78 @@
+{
+ "id": "92289123",
+ "displayAddress": "Heald Grove, Manchester, M14",
+ "outcode": "M14",
+ "incode": "4PE",
+ "latitude": 53.45661,
+ "longitude": -2.228426,
+ "priceAmount": 1993,
+ "priceLabel": "£1,993 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92289123",
+ "area": "Manchester",
+ "bedrooms": 4,
+ "bathrooms": 2,
+ "propertySubType": "House",
+ "details": {
+  "propertyType": "House",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "06/09/2026",
+  "deposit": 400,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A well-presented semi-detached student home that offers modern accommodation and a high level of furnishing throughout.\n\nThe 4-bed property is fully furnished which gives it a simple and modern look.\n\nThe kitchen is fully fitted with a washing machine, cooking range, fridge-freezer, and plenty of cupboards for storage.\n\nThe location is situated is near Platts Fields Park and the main street with ease of access to buses and bus routes.\n\nThe property has parks nearby as well as various and diverse fast foods and restaurants nearby to experience different cuisines and cultures.\n\nThe state of the property with respect to furnishings and fixtures may vary from the description in the advertisement. The responsibility to confirm the details in the description rests with the individuals viewing the property.\n\nDeposit: £400\nHolding Deposit: £118\n\nThis property is managed via the Hybr platform. By submitting an enquiry, you acknowledge and consent to your information being shared with Hybr for the purpose of processing and responding to your enquiry.\n\n If you have any questions get in touch with our team by pressing the call button on Rightmove and when asked for a property reference code, put in 34216285",
+ "keyFeatures": [
+  "Furnished",
+  "Semi-Detached Student Home",
+  "Near Platts Fields Park",
+  "Good Transport Links",
+  "Modern Fitted Kitchen",
+  "Available from 6 September 2026"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c7053f72c/92289123/c7053f72ce2093eb2e1d326a79543e71.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9fd8dce6c/92289123/9fd8dce6c95a00975057f0af8f5d04ce.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3dceb77c1/92289123/3dceb77c1582eeffb108ebb41339a867.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d442d6707/92289123/d442d670728f2ce6ca0b9173d70dac83.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a10e1404b/92289123/a10e1404b0f83330ab0c4a76aedd010d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b13090fac/92289123/b13090facd09eeef19ab3de21bef5c71.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b135e5c46/92289123/b135e5c469e22f1cda314dbdd283ce90.jpeg",
+  "https://media.rightmove.co.uk/property-photo/26fdc7036/92289123/26fdc7036fdcee4648b66b2ec86b1867.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Ardwick Station",
+   "miles": 1.182812813440922,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Manchester Oxford Road Station",
+   "miles": 1.3239438324242079,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Manchester Piccadilly Station",
+   "miles": 1.4105538529142523,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "HYBR, Covering Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M14",
+ "scrapedAt": "2026-08-30T10:18:09.793Z"
+}

@@ -1,0 +1,74 @@
+{
+ "id": "173329814",
+ "displayAddress": "House Share-Laindon Road, Manchester",
+ "outcode": "M14",
+ "incode": "5DP",
+ "latitude": 53.4556,
+ "longitude": -2.21044,
+ "priceAmount": 525,
+ "priceLabel": "£525 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/173329814",
+ "area": "Manchester",
+ "bedrooms": 1,
+ "bathrooms": null,
+ "propertySubType": "House Share",
+ "details": {
+  "propertyType": "House Share",
+  "bedrooms": 1,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 700,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "BILLS INCLUDED!!!\nHouse Share\n1 Double Bedroom\nONLY £525pcm\nAvailable for UPCOMING YEAR\n\nThis House Share Property offers a total of 5 spacious bedrooms, and 2 bathrooms brilliantly situated in the heart of Victoria Park. The property consists of five spacious bedrooms with classical fitting throughout. The location guarantees ease of access to the majority of the bus routes and easy commuting.\n\nThe high volume of eateries, takeaways, restaurants, bars, and pubs in the immediate surroundings and vicinity flaunts a wide range of hotspots and local favourites.\n\nAdditional Information\n\nBus stop nearby the property\n\nBuses every 3 to 5 minutes.\n\n41, 42, 43, 44, 50, 130, 141, 142, X41, X57\n\n15 Minutes to Manchester University by Bus\n\nPlaces nearby:\n\n* Sainsbury's supermarket\n\n* Gyms and Parks\n\n* Restaurants and Takeaways\n\n* Pubs & Cafe\n\nThe state of the property with respect to furnishings and fixtures may vary from the description in the advertisement. The responsibility to confirm the details in the description rests with the individuals viewing the property. Please confirm the details mentioned in the advertisement with the agent carrying out the viewing on the day of the viewing.\n\nHolding Deposit: £140",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d6a0fe353/173329814/d6a0fe35332d5c1db656db8a6b84b510.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4632fe219/173329814/4632fe219320e4e5ae0e65acd98b4e94.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee569da39/173329814/ee569da39629664976e0f00d800164cc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/284166df0/173329814/284166df0b3561d9bfdd3a9e446fc676.jpeg",
+  "https://media.rightmove.co.uk/property-photo/31026bf8e/173329814/31026bf8e5c3e3832ba4daf15b533087.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4da5e1afa/173329814/4da5e1afaba024035b12d6a1c73726cc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/65ee368dd/173329814/65ee368dd932ae41a90fd927c8559251.jpeg",
+  "https://media.rightmove.co.uk/property-photo/375040305/173329814/375040305367fd08139fb57c5ea8b118.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5b933143d/173329814/5b933143d16827bd7951f44f06a6852b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/82079dc1a/173329814/82079dc1a6dfce8f0b93a266705c5898.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4eac97495/173329814/4eac974959f9e88b9f76c06bf10012ee.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Levenshulme Station",
+   "miles": 1.0622713262327856,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Ardwick Station",
+   "miles": 1.075809793573872,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Ashburys Station",
+   "miles": 1.2838937307959895,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Buraq Estates, Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M14",
+ "scrapedAt": "2026-08-30T10:18:13.968Z"
+}

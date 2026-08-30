@@ -1,0 +1,83 @@
+{
+ "id": "92451261",
+ "displayAddress": "Lynton Road, Crouch End, London",
+ "outcode": "N8",
+ "incode": "8SL",
+ "latitude": 51.58209,
+ "longitude": -0.12649,
+ "priceAmount": 3000,
+ "priceLabel": "£3,000 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92451261",
+ "area": "Crouch End, London",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": null,
+  "letAvailableDate": "Ask agent",
+  "deposit": 3462,
+  "minimumTermMonths": null,
+  "councilTaxBand": "D"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "1  **NO HMO**\n\nFantastic opportunity to rent this brand new three double bedroom apartment in a new development located in the heart of Crouch End. \n\nThe apartment is finished to an immaculate standard, including top of the range kitchen appliances and two luxury bathrooms.  Spread over two floors the property comprises a spacious open plan kitchen lounge with a beautiful outlook, three double bedrooms with great storage space, wooden floors and a wonderful amount of natural light.  \n\nMinutes to Crouch End Broadway with a wealth of amenities on your doorstep as well as transport links to Finsbury Park Station and Highgate Tube Station on the Northern Line and Hornsey Rail Station and Crouch Hill Station.\n\nHaringey Local Authority\nCouncil Tax Band D",
+ "keyFeatures": [
+  "Spacious Three Double Bedroom Apartment",
+  "Brand New Development",
+  "Open Plan Kitchen/Reception",
+  "Top Of The Range Kitchen Appliances",
+  "Split Level",
+  "Wood Floors",
+  "Two Bathrooms",
+  "Stunning Views",
+  "Minutes To Crouch End Broadway"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a8162f06b/92451261/a8162f06bad90ed8b32634b09e93abc1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e7107f2cd/92451261/e7107f2cdbaa0f133dee04fee70109a3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c9a9ba7c7/92451261/c9a9ba7c7b5e7cbc80989abf801405de.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2a195fb53/92451261/2a195fb53ee713269aefde7594b04b55.jpeg",
+  "https://media.rightmove.co.uk/property-photo/545e953c3/92451261/545e953c364a7757f5ac8540c35a2a8c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b398868dc/92451261/b398868dcaf146ab6916bb14e0742592.jpeg",
+  "https://media.rightmove.co.uk/property-photo/834a5b03e/92451261/834a5b03ea06e5adceec29ef8219263c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5a2a1ed23/92451261/5a2a1ed23e2cdf81a5501cca9adcb4c5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b86828a3f/92451261/b86828a3fdd04e70f406b60cda394853.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ed0896a2/92451261/8ed0896a20321bbe4b3cc0e374444060.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Hornsey Station",
+   "miles": 0.7055111657925339,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Crouch Hill Station",
+   "miles": 0.8432372847608272,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Highgate Station",
+   "miles": 0.9246824811626779,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "David Astburys Ltd, Crouch End",
+ "city": "London",
+ "sourceOutcode": "N8",
+ "scrapedAt": "2026-08-30T10:14:04.396Z"
+}

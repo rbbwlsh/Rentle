@@ -1,0 +1,73 @@
+{
+ "id": "92419038",
+ "displayAddress": "Albert Park - Montpelier",
+ "outcode": "BS6",
+ "incode": "5NE",
+ "latitude": 51.46595,
+ "longitude": -2.58311,
+ "priceAmount": 1100,
+ "priceLabel": "£1,100 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92419038",
+ "area": "Albert Park - Montpelier",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "28/10/2026",
+  "deposit": 1269,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Offered unfurnshed, it is well suited to a single professional or professional couple seeking convenient access to nearby amenities and the city centre.\n\nThe property comprises a combined kitchen/lounge with white goods included. There is one bedroom positioned to the front of the property and a bathroom fitted with a bath and overhead shower. A feature is the private rear garden, offering an outdoor area suitable for relaxing or hosting, with the added benefit of a back entrance for easy access.\n\n**Disclaimer: The property currently contains furniture which will all be removed before new tenants move in. Please be aware of this when viewing the property.**\n\nMontpelier is known for its wide range of independent cafes, bars and shops, with Stokes Croft and Cheltenham Road both within easy walking distance, providing further amenities and supermarkets. The area also offers access to green spaces such as St Andrew’s Park and Cotham Gardens, both reachable on foot or via a short bus journey.\n\nTransport links are strong, with Montpelier railway station nearby, offering direct services to Bristol Temple Meads in around 10–15 minutes, connecting to regional and national rail routes. Regular bus services run along Cheltenham Road and Gloucester Road towards the city centre, Clifton and other parts of Bristol. \n\nMaterial facts (Parts A + B) information correct as of 26/08/2026\n– Council tax band –  A\n– Energy rating – C\n– Holding deposit – £253.00\n– Damage deposit – £1269.00\n– What floor is the property situated? - Lower Ground Floor \n– Parking – on street, garage \n– Headlease – n/a\n– Utilities – Gas / Electric / Water on a meter. Mains fed.\n– Utility restrictions – n/a\n– Heating source – Gas Central Heating\n– Indoor Phone coverage (source Ofcom) graded Likely, Limited or None –  EE - 82%, Three - 78%, O2 -71%, Vodafone - 83%\n– Broadband download speed and supply type (source Ofcom) – Standard 16 mbps and Ultrafast 1800 mbps\n– Building Material type – Brick\n– Lift access – n/a \n\nMaterial facts (Part C)\n\n– Building Safety – not known at this time. \n– Restrictions and Rights – not known at this time. Please ask agent\n– Rights and Easements - not known at this time. Please ask agent\n– Flood and Erosion in last 5 years - not known at this time. Please ask agent\n– Planning Permissions - not known at this time. Please ask agent\n– Property accessibility/adaptations - not known at this time. Please ask agent\n– Coalfield or Mining – not  known at this time. Please ask agent",
+ "keyFeatures": [
+  "Private rear garden",
+  "Close to City Centre and Gloucester Road",
+  "Basement flat",
+  "White goods included"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/11684b935/92419038/11684b935795ad4a69232c66fee617c2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c135dad72/92419038/c135dad72749fbca119cbe72b9ef0f1e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1a9bd5bbb/92419038/1a9bd5bbb84440545f33a6f7e57360e8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3536bfe5b/92419038/3536bfe5b03c8e51cc0d73c44ee98e8d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e565a56d5/92419038/e565a56d50ba7b6cf85328e1db960b39.jpeg"
+ ],
+ "imageCount": 5,
+ "nearestStations": [
+  {
+   "name": "Montpelier Station",
+   "miles": 0.295099526706714,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.7223297263333595,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Stapleton Road Station",
+   "miles": 0.7404150089529433,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Ocean, Bishopston",
+ "city": "Bristol",
+ "sourceOutcode": "BS6",
+ "scrapedAt": "2026-08-30T10:23:08.036Z"
+}

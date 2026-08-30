@@ -1,0 +1,83 @@
+{
+ "id": "92083632",
+ "displayAddress": "Arden Grove, Birmingham, B16",
+ "outcode": "B16",
+ "incode": "8HG",
+ "latitude": 52.474377,
+ "longitude": -1.92282,
+ "priceAmount": 1025,
+ "priceLabel": "£1,025 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92083632",
+ "area": "Birmingham",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished or unfurnished, landlord is flexible",
+  "letAvailableDate": "05/09/2026",
+  "deposit": 1183,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Property Reference: 2999093.\n\nEnjoy the best of Birmingham city living from this recently modernised apartment, ideally positioned in a quiet cul-de-sac just moments from the city centre.\n\n The property offers stylish and comfortable accommodation, providing the perfect balance between vibrant city life and peaceful residential surroundings. Set within easy reach of Birmingham's most popular destinations, residents can enjoy convenient access to Brindley Place, Broadway Plaza, Broad Street, the Bullring, the Jewellery Quarter and Digbeth's thriving creative quarter.\n\n Five Ways Train Station is within walking distance, providing excellent transport connections across Birmingham and beyond. Birmingham University, the Queen Elizabeth Hospital, the NEC, Resorts World and Birmingham Airport are all easily accessible by road, rail and tram.\n\n For those who enjoy cycling or sustainable travel, e-bike and e-scooter docking stations are conveniently located nearby, making it easy to explore the city without relying on a car.\n\n The apartment would suit professionals, postgraduate students or anyone seeking high-quality accommodation in a well-connected location close to Birmingham's key employment, education and leisure destinations.\n\n The property is offered unfurnished, allowing tenants to create a home that reflects their own style. Bespoke furnished and part-furnished packages may also be available by separate arrangement.\n\n The apartment is offered unfurnished as standard. However, bespoke furnishing packages can be discussed to suit individual requirements, with options available for part or fully furnished arrangements. Whether you're bringing your own furniture or looking for a move-in-ready home, we aim to provide a flexible solution wherever possible.\n\nSummary & Exclusions:\n- Rent Amount: £1,025.00 per month (£236.54 per week)\n- Deposit / Bond: £1,182.69\n- 1 Bedrooms\n- 1 Bathrooms\n- Property comes furnished or unfurnished (tenant can decide)\n- Available to move in from 05 September 2026\n- Maximum number of tenants is 2\n- Students welcome to enquire\n- No Smokers\n- Bills not included\n- Property has parking\n- No Garden Access\n- EPC Rating: C\n\n  If calling, please quote reference: 2999093  \n\nFees:\nYou will not be charged any admin fees.\n\n ** Contact today to book a viewing and have the landlord show you round! ** \nRequest Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.",
+ "keyFeatures": [
+  "No Agent Fees",
+  "Students Can Enquire",
+  "Property Reference Number: 2999093"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/07922e218/92083632/07922e21875c0de9ebabaa33c3b3ca4a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/789992137/92083632/7899921379805ff239ddb90313c62f22.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a5a7cff87/92083632/a5a7cff87aa84acf7aa12cf134240a50.jpeg",
+  "https://media.rightmove.co.uk/property-photo/92125be30/92083632/92125be304cde70d49fd94b6349648d6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5ad2d8600/92083632/5ad2d86005c9ed0df373485e5c93768a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a4f3cef37/92083632/a4f3cef37abf62613a6a7e8a76a99d8b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/210dc8501/92083632/210dc85010263eb38dafe27cf9c93fc4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3a5c53cfd/92083632/3a5c53cfd8688f645b23f15124e4ab82.jpeg",
+  "https://media.rightmove.co.uk/property-photo/427ca9dfa/92083632/427ca9dfae60942b8266c0a906c2b725.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e53b00db4/92083632/e53b00db46f51a7dd7c04729523db1cf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4b75506f0/92083632/4b75506f0a83841600428cf21cdc8105.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5c8257960/92083632/5c825796079605dd4a5e9595500bc456.jpeg",
+  "https://media.rightmove.co.uk/property-photo/45d0d5ab8/92083632/45d0d5ab83288217b5f3790f6e7c3680.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cabf4314a/92083632/cabf4314a275be048c239f13f1f4eae7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/be5189672/92083632/be518967261ca08b3214a5184c854021.jpeg",
+  "https://media.rightmove.co.uk/property-photo/203c0d5e9/92083632/203c0d5e992aec279d60f7e37b422f94.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Five Ways Station",
+   "miles": 0.5133491838176697,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 1.034344712944463,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Jewellery Quarter Tram Stop",
+   "miles": 1.1289387827787403,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "OpenRent, London",
+ "city": "Birmingham",
+ "sourceOutcode": "B16",
+ "scrapedAt": "2026-08-30T10:21:00.696Z"
+}

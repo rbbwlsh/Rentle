@@ -1,0 +1,75 @@
+{
+ "id": "145963709",
+ "displayAddress": "Wilton Grove, Leeds, West Yorkshire, LS6",
+ "outcode": "LS6",
+ "incode": "4ES",
+ "latitude": 53.826351,
+ "longitude": -1.571961,
+ "priceAmount": 1100,
+ "priceLabel": "£1,100 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/145963709",
+ "area": "Leeds, West Yorkshire",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "01/11/2026",
+  "deposit": 900,
+  "minimumTermMonths": 0,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "We're pleased to offer this great 3 bed 1 bath property situated on Wilton Grove in Meanwood, Leeds. \nSituated just a short walk from Meanwood Road which includes a wide range of amenities such as Waitrose & ALDI supermarkets, cafes and restaurants. There is also easy access to a range of transport links to the City centre and surrounding suburbs.\n\nThe property itself is situated on a cul-de-sac, therefore there is no passing traffic. There is a bright living room with original floor boards throughout. There is also a separate living and dining room to the rear, plus a spacious garden. \n\nUpstairs there are 3 double bedrooms and one bathroom.  Property is unfurnished.\n\nRENT - £1,100.00 PCM\n\nDEPOSIT - £900\n\nApplicants must have UK guarantors or a current Landlord reference.\n\nAvailable Immediately (pending checks).",
+ "keyFeatures": [
+  "Close to amenities",
+  "Excellent transport links",
+  "On-road parking available ",
+  "Garden"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/68b9ab625/145963709/68b9ab6258a8779db44621960fdbdcb7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/306e7776a/145963709/306e7776ac20dc5f7a1e22bd56bb2e93.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d36397c15/145963709/d36397c151299286dd19f6ec693b988d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cfbad8b12/145963709/cfbad8b12b300c98bfb0dd18f908c6fb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/01e186ac9/145963709/01e186ac90489007ca3368a12713c463.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cc192f951/145963709/cc192f951eb843b7c5707e553d6cc5a7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1bd2fbeda/145963709/1bd2fbeda9356224f85f6f7eed0acf5f.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Burley Park Station",
+   "miles": 1.0250720082809415,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 1.0760689074643415,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Kirkstall Forge Station",
+   "miles": 2.0685597613244013,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Landlord Direct Lets, Covering Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS6",
+ "scrapedAt": "2026-08-30T10:24:29.005Z"
+}

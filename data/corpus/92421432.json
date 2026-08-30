@@ -1,0 +1,71 @@
+{
+ "id": "92421432",
+ "displayAddress": "Blenheim Road, Bristol, BS6",
+ "outcode": "BS6",
+ "incode": "7JW",
+ "latitude": 51.475006,
+ "longitude": -2.612135,
+ "priceAmount": 950,
+ "priceLabel": "£950 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92421432",
+ "area": "Bristol",
+ "bedrooms": null,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": null,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 1096,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Property Reference: 2996761.\n\n📍 Redland / BS6 Location\n🚉 5-Min Walk to Redland or Clifton Down Station\n🌳 5-Min Walk to the Downs\n🏡 Enclosed Communal Garden\n🚌 1-Min Walk to Bus Stop\n\n£200 Off The First Month Rent!\n\nA mezzanine studio flat is available on the ground floor, offered unfurnished, comprising an entrance hall, open-plan lounge/kitchen with appliances, a shower room, and access to a communal garden with patio and lawn. Suited to a single person or a couple.\n\nLocation is a standout feature. The flat sits in the heart of Redland, with a 5-minute walk to Redland or Clifton Down train station and a 5-minute walk to the Downs. Clifton itself is around a 15-minute walk, and the surrounding streets offer plenty of shops, restaurants and bars within walking distance. A bus stop is just a minute away, and the street itself is quiet. On-street permit parking is available.\n\n  KEY FEATURES:\n\n- Mezzanine studio flat, ground floor\n- Open-plan lounge/kitchen with appliances\n- Enclosed communal garden with patio & lawn\n- Shower room\n- Quiet street\n- 5-min walk to Redland/Clifton Down Station\n- 5-min walk to the Downs\n- 1-min walk to bus stop\n- On-street permit parking\n\n💰 COSTS & DEPOSITS:\n\n- Holding Deposit: 1 week's rent.\n- Deposit: 1 month's rent, payable in advance.\n- First month's rent, payable in advance\n\nSummary & Exclusions:\n- Rent Amount: £950.00 per month (£219.23 per week)\n- Deposit / Bond: £1,096.15\n- 1 Bedrooms\n- 1 Bathrooms\n- Property comes unfurnished\n- Available to move in from 26 August 2026\n- Maximum number of tenants is 2\n- Students welcome to enquire\n- No Smokers\n- Bills not included\n- No Parking Available\n- Property has garden access\n- EPC Rating: C\n\n  If calling, please quote reference: 2996761  \n\nFees:\nYou will not be charged any admin fees.\n\n ** Contact today to book a viewing and have the landlord show you round! ** \nRequest Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.",
+ "keyFeatures": [
+  "No Agent Fees",
+  "Students Can Enquire",
+  "Property Reference Number: 2996761"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a5448c59c/92421432/a5448c59ced693ef2d5d27cb9f68eb59.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6faea8952/92421432/6faea8952be4e3164f7b26f7942f455a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/81ac3cdba/92421432/81ac3cdba28361bb2df1e66077e52d5f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4e850133c/92421432/4e850133cc5e016a00266aacd650146d.jpeg"
+ ],
+ "imageCount": 4,
+ "nearestStations": [
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.724601032489201,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.7194659754568486,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Montpelier Station",
+   "miles": 1.109404119087557,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "OpenRent, London",
+ "city": "Bristol",
+ "sourceOutcode": "BS6",
+ "scrapedAt": "2026-08-30T10:23:06.561Z"
+}

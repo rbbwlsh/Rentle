@@ -1,0 +1,79 @@
+{
+ "id": "92473167",
+ "displayAddress": "The Crescent, Harbourside, BS1",
+ "outcode": "BS1",
+ "incode": "5JQ",
+ "latitude": 51.449402,
+ "longitude": -2.604573,
+ "priceAmount": 1400,
+ "priceLabel": "£1,400 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92473167",
+ "area": "Harbourside",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Penthouse",
+ "details": {
+  "propertyType": "Penthouse",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "06/11/2026",
+  "deposit": 1615,
+  "minimumTermMonths": null,
+  "councilTaxBand": "D"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A fantastic opportunity to live on Bristol’s beautiful Harbourside, this stunning penthouse apartment has a private roof-terrace.\n\n\rWhat’s it like?\n\nIn a highly sought-after location on The Harbourside, the modernized open-plan apartment has a kitchen fitted with a fridge freezer, oven and hob, and dishwasher. There is a lounge/ diner with fantastic views, a large double bedroom, and a separate bathroom with a shower over the bath. Off the hallway you will also find two storage cupboard, one houses a new boiler & the other with a washer dryer. The property also comes with a sizeable roof terrace with views of the City Centre rooftops & the river. The property comes unfurnished and has undercroft parking on a first come, first served basis. \nAmy's local highlights\n\n- Beautiful walks around the Harbourside \n- A look around the S.S Great Britain Ship or a quick coffee in its coffee shop\n- A short walk into Cabot Circus shopping centre \n\nNeed to know:\nTo be able to rent this property applicants must earn a minimum of 2.5 times the rent.\n\no Structure Materials – Brick/Stone\no Electricity supply – Mains\no Water supply – Mains\no Sewerage – Mains\no Heating type – GCH\no Broadband– (Source Ofcom) Standard, Superfast and Ultrafast\no Mobile signal – ( Source Ofcom) Likely\no Building Safety – No\no Restrictions – No\no Rights and Easements – No\no Flood risk – No\no Planning Permissions – No\no Accessible – lift access\no Coalfield / Mining area –No\n\nRoom measurements stated in this listing are for guidance and may not be accurate.\n\nIn accordance with the Tenant Fees Act 2019, we may charge the following fees should the circumstances arise:\n\n• Our re-let fees upon early termination of a tenancy (50% of the rent, deposit protection & inventory cost)\n• Tenancy variation cost - £50\n• Interest 3% above the Bank of England base rate on any rent 14 days late, or more\n• Bills for the tenancy (council tax, utilities, TV licence, communication services)\n\nWe may withhold your holding deposit should the tenancy not proceed for the following reasons:\n• You withdraw from the tenancy\n• Failure of a Right-to-Rent check\n• You provide false or mis-leading information\n• You fail to sign your tenancy agreement within 15 calendar days",
+ "keyFeatures": [
+  "Roof Terrace",
+  "One Double Bedroom",
+  "Unfurnished",
+  "Communal Parking"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f23d1441f/92473167/f23d1441f3fd167f3f72273ce715406b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6efe060a5/92473167/6efe060a5af650e10375157ddb84d067.jpeg",
+  "https://media.rightmove.co.uk/property-photo/755021cf4/92473167/755021cf409550473794bba3ab742bdc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0ccd69bc7/92473167/0ccd69bc7d724ffd193b2c5625ba996c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/271557790/92473167/271557790f57f8121ee8d04bf9d0a695.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6e22f3290/92473167/6e22f3290c1fc4a4321d0e20cb06d694.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cd148ba1e/92473167/cd148ba1e1e5dbbc028c69b61417b4ae.jpeg",
+  "https://media.rightmove.co.uk/property-photo/06432a225/92473167/06432a2251599b499cdfb8a98074ebd8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b228b35cb/92473167/b228b35cb78b4c34be33e6f7d682ba71.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f32594730/92473167/f3259473056f6839a08c124b7ef55e05.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2b77496b8/92473167/2b77496b8dcb77587b87bcf83336a324.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Bedminster Station",
+   "miles": 0.7874491309064431,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 0.9989052921167825,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Clifton Down Station",
+   "miles": 1.0838262804317926,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "The Letting Game, Henleaze",
+ "city": "Bristol",
+ "sourceOutcode": "BS1",
+ "scrapedAt": "2026-08-30T10:22:02.302Z"
+}

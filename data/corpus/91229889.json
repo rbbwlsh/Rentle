@@ -1,0 +1,75 @@
+{
+ "id": "91229889",
+ "displayAddress": "Ashwin Street, London, E8",
+ "outcode": "E8",
+ "incode": "3DL",
+ "latitude": 51.5466,
+ "longitude": -0.074717,
+ "priceAmount": 2495,
+ "priceLabel": "£2,495 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91229889",
+ "area": "London",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 539,
+  "sizeSqM": 50,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 2878,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": 539,
+ "sizeSqM": 50,
+ "description": "Finished to an exceptional standard throughout, this beautifully refurbished one-bedroom apartment offers stylish, contemporary living in the heart of vibrant Dalston.\n\nThe property has been meticulously renovated to a high specification, featuring a bright and spacious open-plan kitchen and living area with a sleek, modern finish, creating the perfect space for both relaxing and entertaining. The contemporary shower room is fully tiled and fitted with high-quality fixtures and fittings, offering a luxurious feel.\n\nThe generously sized double bedroom benefits from direct access to a private terrace, offering an ideal outdoor retreat.\n\nAshwin Street is perfectly positioned in the heart of Dalston, one of East London's most sought-after neighbourhoods. Residents will enjoy an outstanding selection of independent cafés, popular restaurants, bars, and boutique shops, with the vibrant Kingsland High Street and nearby Stoke Newington and Shoreditch all within easy reach.\n\nThe property is just a short walk from Dalston Junction and Dalston Kingsland Overground stations, providing fast and convenient connections across London. Numerous bus routes also serve the area, making commuting into the City, Canary Wharf, and the West End straightforward.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a5233e96c/91229889/a5233e96c92b9aa75a1e6d00be7aabb4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c4ec50681/91229889/c4ec50681dc16b9f941377be13af3de6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bf2d29856/91229889/bf2d29856d904c8573351c47828b9113.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5c589d0b2/91229889/5c589d0b2c7557c2320c39e7eb58ef19.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ecb8ff591/91229889/ecb8ff59164bc5611073e5dfcd420006.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e831901f3/91229889/e831901f3415b601e64233e64a8375b8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/381e9eb04/91229889/381e9eb0495b9957d0e55e60002e4efd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/74f373177/91229889/74f373177f246444a2537e94b735dec1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/71b70931c/91229889/71b70931c0796593cf7e0b49fe9366db.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c28e0d9b1/91229889/c28e0d9b1642909b74df9603c2ef2339.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d1997b9a2/91229889/d1997b9a26a3ec219fe4e803b9c174c5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/90d1f30ba/91229889/90d1f30baf3cebbf0e1dd917e150942a.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Dalston Junction Station",
+   "miles": 0.04111955454005141,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Dalston Kingsland Station",
+   "miles": 0.12593138210019647,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Haggerston Station",
+   "miles": 0.51488660732993,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  }
+ ],
+ "agent": "Hunters, Stoke Newington",
+ "city": "London",
+ "sourceOutcode": "E8",
+ "scrapedAt": "2026-08-30T10:13:21.775Z"
+}

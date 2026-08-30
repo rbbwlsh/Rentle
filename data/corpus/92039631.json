@@ -1,0 +1,82 @@
+{
+ "id": "92039631",
+ "displayAddress": "Brass Lane",
+ "outcode": "B1",
+ "incode": "2HP",
+ "latitude": 52.47766,
+ "longitude": -1.91132,
+ "priceAmount": 1750,
+ "priceLabel": "£1,750 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92039631",
+ "area": "Brass Lane",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "House",
+ "details": {
+  "propertyType": "House",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 2019,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "** Zero Deposit Guarantee Available **\nLocated within the highly sought-after Port Loop development, this beautifully presented brand new three-bedroom, three-storey family home offers stylish and modern living in one of Birmingham's most desirable residential locations.\n\nThe property boasts a spacious lounge, perfect for relaxing and entertaining, along with a stunning open-plan kitchen/dining area featuring contemporary fittings and ample space for family living. A separate utility room and convenient downstairs W.C. add to the practicality of the home, while an abundance of storage throughout ensures everyday living is effortless.\n\nAcross the upper floors, the property offers three well-proportioned bedrooms, providing flexible accommodation for families, professionals, or those working from home.\n\nExternally, the home benefits from a beautifully landscaped rear garden, ideal for outdoor entertaining and enjoying the warmer months.\n\nTo the front, there is a private driveway with the added benefit of an electric vehicle charging point.\n\nSituated in the vibrant Port Loop community, residents enjoy excellent access to Birmingham City Centre, local amenities, transport links, canalside walks, and green spaces.\n\nKey Features:\n*Brand new three-bedroom home\n*Sought-after Port Loop location\n*Three-storey accommodation\n*Spacious lounge\n*Open-plan kitchen/diner\n*Separate utility room\n*Downstairs W.C.\n*Excellent storage throughout\n*Stunning rear garden\n*Private driveway\n*Electric vehicle charging point\n*Easy access to Birmingham City Centre\n\nContact us today to arrange your viewing and avoid disappointment.\n\nPicture Living is an investment landlord dedicated to increasing the availability of quality rental properties, ensuring that more people across the UK can find a place they proudly call home. All our homes are professionally managed, offering a dedicated point of contact, a 24 hour emergency line and repair service.  We also offer a Residents App for convenient self-service on the go. Council Tax Band:  Holding Deposit: £0.00",
+ "keyFeatures": [
+  "Three Bedroom House",
+  "Three Storey",
+  "Spacious Open Plan Living",
+  "Utility",
+  "Downstairs W.C",
+  "Driveway",
+  "Available Now"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/23d7738ba/92039631/23d7738bace299ae969b92461d0a1abf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2af881324/92039631/2af881324ab9053cfab3fb12e31146b3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5ad540e7f/92039631/5ad540e7f4c8135c6a88bb88edb121f3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ff901ac75/92039631/ff901ac7500ca1bdc11f11ab30c9525c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e41cc333a/92039631/e41cc333a4a15bf25c8d5e4b00efd2f1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e41cc333a/92039631/e41cc333a4a15bf25c8d5e4b00efd2f1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee9a2353b/92039631/ee9a2353bbe6306292a02d30d33fa3a3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d48ab2bda/92039631/d48ab2bda213c1bfdbff9eb1e6f03ab3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c0b5de991/92039631/c0b5de991f30fdffae8d9c51caf13c6e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7fba99410/92039631/7fba99410ab099abd3302f04de15e281.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d581cc267/92039631/d581cc26705bcf4693952ecf04004de9.png"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 0.522380823708491,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Five Ways Station",
+   "miles": 0.5405408478504101,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Snow Hill Station",
+   "miles": 0.6328756270019008,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Accord Lets, Birmingham",
+ "city": "Birmingham",
+ "sourceOutcode": "B1",
+ "scrapedAt": "2026-08-30T10:19:29.850Z"
+}

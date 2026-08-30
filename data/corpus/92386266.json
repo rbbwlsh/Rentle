@@ -1,0 +1,81 @@
+{
+ "id": "92386266",
+ "displayAddress": "Gillespie Crescent, Edinburgh, Midlothian",
+ "outcode": "EH10",
+ "incode": "4HU",
+ "latitude": 55.940259,
+ "longitude": -3.205981,
+ "priceAmount": 2100,
+ "priceLabel": "£2,100 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92386266",
+ "area": "Edinburgh, Midlothian",
+ "bedrooms": 2,
+ "bathrooms": null,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": null,
+  "letAvailableDate": "09/09/2026",
+  "deposit": 2300,
+  "minimumTermMonths": null,
+  "councilTaxBand": "E"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Presented to the market furnished, this bright and spacious two-bedroom property is located in the heart of Bruntsfield, one of Edinburgh's most sought-after areas. \n \nThis tenement flat seamlessly blends traditional period features and modern living to give the property a timeless feel.\n \nWhen entering you are greeted with a large, welcoming entrance hallway leading to all rooms. To the front, you'll find the reception room, comprising traditional hardwood floors, high decorative ceilings and bay windows. There are two double bedrooms with ample storage space and a separate room adjacent to the reception room which can be used as a box room or study. To the rear of the property is the kitchen, complete with white goods, and the modern bathroom with three piece suite. \n \nThe property also access to the communal garden, on street permit parking and a separate laundry cupboard. Residents can also benefit from the double glazed windows and gas central heating providing a warm and cosy feel, even in the colder winter months. \n \nBruntsfield is a popular area lying one mile south of the city centre. It boasts a fantastic selection of restaurants, cafes, bars and bistros, as well as various independent and speciality shops. There is a Sainsbury’s Local and Tesco Express close by, and a Waitrose supermarket in Morningside, walkable in 10 minutes.\n \nAlthough the city centre can be reached on foot in 25 minutes, there are many frequent bus services connecting the two, and the property is also well placed for access to the city bypass to the south of the city.\n \nBruntsfield Links and the Meadows are a stroll away, proving lovely open green space, and there are many recreational activities available in the area, including a theatre, cinema, gym, walks and cycle paths.\n\nDeposit: £2,300\nCouncil Tax Band: E\nLandlord Registration: 407226/230/19331 and 416168/230/10111\nEPC Rating: C\nLARN1903047\n\nEPC Rating: C\nCouncil Tax Band: E",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/da947268f/92386266/da947268fa539d041ea52bfe3e137068.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2a21df1a3/92386266/2a21df1a3c6df56f090713b665ae8a61.jpeg",
+  "https://media.rightmove.co.uk/property-photo/da0abeb08/92386266/da0abeb08af2f62e9b1ac608fae442e1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5b1412e12/92386266/5b1412e12841f9f07c36e39b178c8e47.jpeg",
+  "https://media.rightmove.co.uk/property-photo/22696c51e/92386266/22696c51ebf4aec885268bbf07a4566d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/caf4da2f2/92386266/caf4da2f27a4512cbeb270081ded5536.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2b4ec6bf1/92386266/2b4ec6bf15428087988480ab553e49be.jpeg",
+  "https://media.rightmove.co.uk/property-photo/66106b9ee/92386266/66106b9ee29f8e4befe7a27473d73c37.jpeg",
+  "https://media.rightmove.co.uk/property-photo/17c38fe79/92386266/17c38fe793e744621570a560b0c40742.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4efc22025/92386266/4efc22025f22d54f3396424f1baec209.jpeg",
+  "https://media.rightmove.co.uk/property-photo/606d51b4d/92386266/606d51b4d09d38c63d0f1c9c3e30b941.jpeg",
+  "https://media.rightmove.co.uk/property-photo/27d9d5ee6/92386266/27d9d5ee650fbbbc346695a746ebe200.jpeg",
+  "https://media.rightmove.co.uk/property-photo/33588be4d/92386266/33588be4d60660773f46820971333914.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7e257d168/92386266/7e257d168568748a94278c7dafb1464c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/76894e139/92386266/76894e139c35654beea228e0ae292f94.jpeg",
+  "https://media.rightmove.co.uk/property-photo/12e0457a4/92386266/12e0457a45484354ade2161b15ebc294.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7f01935ec/92386266/7f01935ec3ff1fe2e089605c6add3e81.jpeg",
+  "https://media.rightmove.co.uk/property-photo/826f4671b/92386266/826f4671bf3f2452dcb74746ea1afad3.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "Haymarket Station",
+   "miles": 0.5889204745868012,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 1.0277006202959285,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 1.7354234394952153,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Rettie, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH10",
+ "scrapedAt": "2026-08-30T11:04:06.775Z"
+}

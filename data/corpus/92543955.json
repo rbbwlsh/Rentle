@@ -1,0 +1,85 @@
+{
+ "id": "92543955",
+ "displayAddress": "Albion House, 75  Pope Street",
+ "outcode": "B1",
+ "incode": "3BG",
+ "latitude": 52.48575,
+ "longitude": -1.91705,
+ "priceAmount": 900,
+ "priceLabel": "£900 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92543955",
+ "area": "Albion House",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "08/09/2026",
+  "deposit": 1039,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Avery Residential are proud to offer this furnished apartment. A stunning double bedroom apartment at Albion House within St George's Urban Village benefiting from a private residents' gym and 24-hour concierge.\n\nSt George's Urban Village in Birmingham's iconic Jewellery Quarter is one of the city centre's newest and most exciting communities, home to some of Birmingham's most renowned bars and restaurants and just 8 minutes from Jewellery Quarter station! Jewellery Quarter \n\nCall us to arrange your viewing! \n\nEPC B",
+ "keyFeatures": [
+  "Concierge",
+  "Private Residents Gym",
+  "Newly Redecorated",
+  "White Goods Including Dishwasher",
+  "Jewellery Quarter "
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/284e990fc/92543955/284e990fc64509b7b36921f9efdf5655.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a397d6eaf/92543955/a397d6eaf0ec6b2c4e92f0c4ac9265a8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b9234197c/92543955/b9234197c1b8d457a76ae57c146fa971.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e077f8c24/92543955/e077f8c240c7ad1cbddd34b4cf2c1fb6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/16e0a9c1e/92543955/16e0a9c1e5b93bd746893a240e794c40.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a665c89cc/92543955/a665c89cc67b4fffcbda75840620b682.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cf733d1d1/92543955/cf733d1d1a0db18757e7d726abdfdfac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e224e49f9/92543955/e224e49f9a6c5b63ade23279619b4e58.jpeg",
+  "https://media.rightmove.co.uk/property-photo/38785fd9e/92543955/38785fd9ea350ef428caeef78b567367.jpeg",
+  "https://media.rightmove.co.uk/property-photo/340b5f160/92543955/340b5f1606c937b8fd597d1eafa68294.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fde565060/92543955/fde56506017bd0a93310ed2283436660.jpeg",
+  "https://media.rightmove.co.uk/property-photo/11d7e04be/92543955/11d7e04be320a4d772b80d5c01486da1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d2d4e24f0/92543955/d2d4e24f0227dc330382335b66645edd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fe8d8e35a/92543955/fe8d8e35a9491427ba4aaaac39927c84.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ba63ab054/92543955/ba63ab0540ff9d1039863142f3222713.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5a147adce/92543955/5a147adce656a283d42f2fd2c8bcf7ff.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Jewellery Quarter Tram Stop",
+   "miles": 0.3123240529107528,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "St. Paul's Tram Stop",
+   "miles": 0.5609911196382038,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Birmingham Snow Hill Tram Stop",
+   "miles": 0.7017382938994734,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Avery Residential, London",
+ "city": "Birmingham",
+ "sourceOutcode": "B1",
+ "scrapedAt": "2026-08-30T10:19:18.297Z"
+}

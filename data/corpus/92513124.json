@@ -1,0 +1,80 @@
+{
+ "id": "92513124",
+ "displayAddress": "Roosevelt Apartments, 1 Lexington Gardens, City Centre, Birmingham, B15",
+ "outcode": "B15",
+ "incode": "2DU",
+ "latitude": 52.468242,
+ "longitude": -1.902363,
+ "priceAmount": 995,
+ "priceLabel": "£995 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92513124",
+ "area": "City Centre, Birmingham",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/11/2026",
+  "deposit": 1148,
+  "minimumTermMonths": 6,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "LV PROPERTY are delighted to present an exquisite one-bedroom apartment within the prestigious Lexington Gardens development.\nLocated in a prime residential area, this stunning apartment offers modern living in a highly sought-after community. Here are the key features of this remarkable property:\nThis apartment boasts a spacious and well-designed bedroom, providing a comfortable and private retreat. It offers ample space for a cozy bed, storage units, and personal belongings. Large windows flood the room with natural light, creating an inviting and relaxing atmosphere.\n\nThe contemporary bathroom is elegantly designed and fitted with high-quality fixtures and fittings. It features a luxurious shower/bathtub combination, a sleek vanity unit, and modern sanitary ware. It's the perfect place to unwind and rejuvenate after a long day.\n\nThe apartment features a fully equipped, modern kitchen that is a dream for any culinary enthusiast. It includes top-of-the-line appliances, ample cabinet space, and stylish countertops. Whether you're cooking a quick meal or hosting a dinner party, this kitchen has everything you need.\nThe open-plan living area offers a generous space for relaxation and entertainment. The tastefully decorated living room provides a comfortable setting to unwind, entertain guests, or simply enjoy a quiet evening at home. Large windows showcase panoramic views of the surrounding neighborhood, creating a bright and airy atmosphere.\nResidents of Lexington Gardens have access to an array of amenities, including a beautifully landscaped communal garden, a state-of-the-art fitness center, and secure underground parking. The development is also equipped with 24-hour security, ensuring peace of mind for all residents.\n\nSituated in a highly desirable neighbourhood, Lexington Gardens offers excellent connectivity to local amenities and transport links. The development is within walking distance of shops, cafes, restaurants, and public transportation options.",
+ "keyFeatures": [
+  "SECURE BLOCK ENTRY SYSTEMS",
+  "15 MINUTE WALK FROM NEW STREET AND GRAND CENTRAL",
+  "MODERN COMMUNAL AREAS",
+  "FINISHED TO AN EXCEPTIONAL STANDARD",
+  "FULLY FURNISHED",
+  "NEW DEVELOPEMENT",
+  "VERY CLOSE BY LOCAL SHOPS, SCHOOLS AND AMENTIES",
+  "CLOSE TO THE BULLRING"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/ba00054c2/92513124/ba00054c266d4f926773e79594ef0859.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6186df557/92513124/6186df557e071e1297253e7473faf589.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7c08f3638/92513124/7c08f3638c68b6161f1ceccb4202f7fa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4d9abc0c0/92513124/4d9abc0c009b3f62d922aea61996af90.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6f022f132/92513124/6f022f1326f93264bf40255b166dc2d4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/06980f06f/92513124/06980f06f6bc84f5b5a91da5ddec72f0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1e39854a7/92513124/1e39854a7536e4a0f48c9ae095ee822c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/94bbedb06/92513124/94bbedb0666a269fbaa8720d5b69bf4e.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Five Ways Station",
+   "miles": 0.46810184025025586,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 0.6718222101522526,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Moor Street Station",
+   "miles": 0.8581191168090917,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "LV PROPERTY, Birmingham",
+ "city": "Birmingham",
+ "sourceOutcode": "B15",
+ "scrapedAt": "2026-08-30T10:20:51.353Z"
+}

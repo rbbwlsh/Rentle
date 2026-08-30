@@ -1,0 +1,85 @@
+{
+ "id": "92538660",
+ "displayAddress": "Kinsale Road, Peckham, London, SE15",
+ "outcode": "SE15",
+ "incode": "4HL",
+ "latitude": 51.463459,
+ "longitude": -0.065813,
+ "priceAmount": 4500,
+ "priceLabel": "£4,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92538660",
+ "area": "Peckham, London",
+ "bedrooms": 4,
+ "bathrooms": 2,
+ "propertySubType": "House",
+ "details": {
+  "propertyType": "House",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 5192,
+  "minimumTermMonths": 12,
+  "councilTaxBand": "TBC"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Four double bedroom house arranged over three floors. This terraced house offers modern interiors, separate living room and a large rear kitchen leading to the garden\n\n\rAsking rent:£4,500 / Weekly:£1038.46\nHolding deposit: £1038.46\nTenancy deposit: £5,192.31\nCouncil Tax Band: C\n*The deposit amounts are approximate and will vary depending on the final rent agreed.\n\nIf Chinese is your preferred language. Please get in touch via WeChat ID: KFH1977",
+ "keyFeatures": [
+  "'Pay less with a zero deposit'\n\nFour double bedrooms",
+  "Modern house",
+  "Two bathrooms",
+  "Large eat in kitchen/diner",
+  "Available now!"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d23380703/92538660/d233807033a92d659f3fadc3b2457d2b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e9ee289aa/92538660/e9ee289aad4c409691473d3d3e761845.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bec5dd7a3/92538660/bec5dd7a3010d0f53ee9348202729a26.jpeg",
+  "https://media.rightmove.co.uk/property-photo/67f9d1e94/92538660/67f9d1e94c27bbd70c454085c82e2b48.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ef580b66/92538660/8ef580b662e85e03f98af0f5fae4084f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b06ca4c44/92538660/b06ca4c44d5dd00dde78ad5a2d648c30.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dd258a655/92538660/dd258a655821a202a7cbe7b60766b243.jpeg",
+  "https://media.rightmove.co.uk/property-photo/183da5706/92538660/183da570618f3cd38d46cfbdf1881077.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c26f4bd9e/92538660/c26f4bd9e32d08482bfae08d377a482e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/243f3d61d/92538660/243f3d61d8e9962efc686c4a3716d800.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c35900400/92538660/c359004009a8874a677844fa6cc230b5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/83769f201/92538660/83769f201a71ad35246880a80f105353.jpeg",
+  "https://media.rightmove.co.uk/property-photo/82b8083a9/92538660/82b8083a93f9b5dc8e21318f05f28758.jpeg",
+  "https://media.rightmove.co.uk/property-photo/963bb46bb/92538660/963bb46bb4b9f3f37b5d5a3fde7923ff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3747549eb/92538660/3747549eb165455e4cac776097111367.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9f5bf5ad4/92538660/9f5bf5ad4acd5ead4ecf43953d76c79d.gif"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Peckham Rye Station",
+   "miles": 0.46272867044681115,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "East Dulwich Station",
+   "miles": 0.6441586074623613,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Nunhead Station",
+   "miles": 0.6131439669826637,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Kinleigh Folkard & Hayward - Lettings, Peckham Rye",
+ "city": "London",
+ "sourceOutcode": "SE15",
+ "scrapedAt": "2026-08-30T10:14:30.692Z"
+}

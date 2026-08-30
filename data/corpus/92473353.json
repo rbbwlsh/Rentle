@@ -1,0 +1,95 @@
+{
+ "id": "92473353",
+ "displayAddress": "Cortland Broad St, Birmingham, B15",
+ "outcode": "B15",
+ "incode": "1AW",
+ "latitude": 52.47454,
+ "longitude": -1.91669,
+ "priceAmount": 1735,
+ "priceLabel": "£1,735 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92473353",
+ "area": "Birmingham",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 835,
+  "sizeSqM": 78,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": 835,
+ "sizeSqM": 78,
+ "description": "Elevated rental living in the heart of Birmingham.\r\nWelcome to Cortland Broad St. - contemporary apartments designed around the way you want to live, with exceptional resident spaces, a dedicated on-site team and Birmingham city centre right outside your door.\r\nInside, you'll find spacious, light-filled apartments finished to a high standard. Contemporary kitchens feature energy-efficient appliances and quality work surfaces, while stylish bathrooms, modern flooring and carefully considered fixtures and fittings create a home that feels comfortable from the moment you move in.\r\nAnd your home extends far beyond your apartment.\r\nStart your morning in the 24/7 Fitness Centre, work remotely from the flexible co-working spaces, relax in the private courtyard or head up to the Sky Lounge and Roof Terrace to unwind above the city.\r\nDesigned for more than just living:\r\n\r\n*\tSky Lounge & Roof Terrace\r\n*\t24/7 Fitness Centre & Flexible Studio\r\n*\tPrivate Courtyard Garden\r\n*\tBusiness Lounge & Flexible Co-Working Space\r\n*\tResident Lounge\r\n*\tBookable Private Suites\r\n*\tDedicated Dog Park\r\n*\tWiFi Included\r\n*\tOn-Site Team & Maintenance Support\r\n\r\nWhen you want to explore, you're perfectly placed. Brindleyplace is just minutes away, with Birmingham's restaurants, bars, entertainment and cultural destinations all within easy reach, plus nearby Metro links connecting you across the city.\r\nThere's a real sense of community too, with regular resident events and a friendly on-site team available around the clock.\r\nBringing a four-legged housemate? They're welcome too. Cortland Broad St. is proudly pet-friendly, complete with its own dedicated dog park.\r\nFind your space in the city. Enquire today and book your viewing at Cortland Broad St.\r\nPlease note: All images, floorplans and particulars are provided for illustrative and indicative purposes only. Individual apartment features, furnishings and layouts may vary.",
+ "keyFeatures": [
+  "Fitness centre",
+  "Business lounge and coworking spaces ",
+  "Communal Sky Lounge and Terrace with city views",
+  "Peaceful courtyards and gardens ",
+  "150mb high-speed WiFi - included in your rent",
+  "Low deposit options ",
+  "On-site maintenance",
+  "Pet-friendly community ",
+  "Located just minutes from Brindley Place and the city's best bars, &amp; restaurants",
+  " 24/7 team for support "
+ ],
+ "tags": [
+  "BUILT_FOR_RENTERS",
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/31a531e98/92473353/31a531e98ed0c4b58f0ad6680dbf3a33.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1603673a0/92473353/1603673a0485c098f36ff567093d6c2b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0b46af924/92473353/0b46af924c566d281d226c52697c06d9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dc6e87347/92473353/dc6e873475e3ea6abcd1a045547bed6a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1f3daeed4/92473353/1f3daeed4d1129b9b0239cd09f545369.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3ac4e8172/92473353/3ac4e81726a9f1408b531bd6de941934.jpeg",
+  "https://media.rightmove.co.uk/property-photo/11104988e/92473353/11104988edeae3fbc732d9d128217034.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9ffa87099/92473353/9ffa87099d95a6a58f375c45c6c232e7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fcf3c329e/92473353/fcf3c329e44a064805ccc2acb52bf4dd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/24f640086/92473353/24f64008687bc7c52f3d2fa757eb224c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e1aec3eb0/92473353/e1aec3eb0a25b9fb39f34da07348dd94.jpeg",
+  "https://media.rightmove.co.uk/property-photo/034f9d598/92473353/034f9d5987019b81b68ec2c22024fa6f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/57fc36206/92473353/57fc362064ee739f0d1940d1e758794f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/68de9584a/92473353/68de9584a1a421298ee7a2aeba482314.png",
+  "https://media.rightmove.co.uk/property-photo/409ee7069/92473353/409ee706980279f36699a75ca4e48381.png",
+  "https://media.rightmove.co.uk/property-photo/c9c6ea718/92473353/c9c6ea718a408c0f3a579c3461825df4.png",
+  "https://media.rightmove.co.uk/property-photo/f2427eb08/92473353/f2427eb08958db05a099629a096a2e64.png",
+  "https://media.rightmove.co.uk/property-photo/4c5ca6c87/92473353/4c5ca6c87ad5d70dd94e231af489f5ba.png"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "Five Ways Station",
+   "miles": 0.3536611926284449,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 0.7809576602529041,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Snow Hill Station",
+   "miles": 0.9437280077582355,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Greystar, Broad St",
+ "city": "Birmingham",
+ "sourceOutcode": "B15",
+ "scrapedAt": "2026-08-30T10:20:24.799Z"
+}

@@ -1,0 +1,94 @@
+{
+ "id": "92451300",
+ "displayAddress": "Union Walk, Edinburgh, EH3",
+ "outcode": "EH3",
+ "incode": "9FQ",
+ "latitude": 55.94193,
+ "longitude": -3.21052,
+ "priceAmount": 2450,
+ "priceLabel": "£2,450 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92451300",
+ "area": "Edinburgh",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 797,
+  "sizeSqM": 74,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Ask agent",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": 797,
+ "sizeSqM": 74,
+ "description": "Designed with modern lifestyles in mind, our two-bedroom apartments at New Fountainbridge strike the perfect balance of style, flexibility and comfort. Fully furnished and finished to a high specification, every home includes a king-sized main bedroom, a versatile second bedroom for guests, family or home working, and an open-plan living area complete with a Bosch integrated kitchen (washer dryer, oven/hob, microwave and fridge freezer). \r\n\r\nGenerous layouts maximise space and natural light, while thoughtful details like ample storage help keep life organised. Residents also enjoy landscaped gardens, peaceful canal-side courtyards and a professional concierge service, alongside secure parcel storage, cycle facilities and resident perks through the app. Secure parking is also available at an additional cost. \r\n\r\nThe Union Canal setting brings calm to your daily routine, while Haymarket Station, Fountain Park, Bruntsfield cafés, and Grassmarket nightlife are all within walking distance. With the best of Edinburgh on your doorstep, these homes make it easy to enjoy both workday convenience and weekend culture. \r\n\r\nLARN Number: 2505002 \r\n\r\nTenancy: Private Residential Tenancy \r\n\r\nDeposit: A 5 week security deposit is required. A deposit alternative option is also available.",
+ "keyFeatures": [
+  "Contemporary two-bedroom homes with open-plan layouts",
+  "King-sized main bedroom ",
+  "Versatile second bedroom for guests, home office or family",
+  "Bosch integrated kitchen with washer dryer, oven/hob, microwave &amp; fridge freezer",
+  "Fully furnished with high-spec finishes",
+  "Generous storage throughout",
+  "Some duplexes feature balconies, others Juliettes or terraces",
+  "Landscaped gardens, courtyards, concierge service &amp; parcel store",
+  "Cycle storage &amp; secure parking*",
+  "Resident events programme &amp; app perks"
+ ],
+ "tags": [
+  "BUILT_FOR_RENTERS",
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a2fd80f42/92451300/a2fd80f42ef06943a65051149bdb3f16.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2a75b0387/92451300/2a75b03871be96225fb0b9d78eaee2cd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4269f013d/92451300/4269f013dc17f24ad7612f918f5b25e8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9c665eb38/92451300/9c665eb38a63bbe8c76080c406481fee.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b3d4b9f1a/92451300/b3d4b9f1aa16a60396744f198f845f97.jpeg",
+  "https://media.rightmove.co.uk/property-photo/71111eb5f/92451300/71111eb5f74867ecd12ff7e9b48b5ad3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fc49213a3/92451300/fc49213a32021adf5254b11117d66b31.jpeg",
+  "https://media.rightmove.co.uk/property-photo/06d76d905/92451300/06d76d905c0f0c5b87ee48a09ea4f5b8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5d96dd391/92451300/5d96dd391fe10bbfa7c7398ce4201103.jpeg",
+  "https://media.rightmove.co.uk/property-photo/26f89a99d/92451300/26f89a99d006bd806a026134487ee027.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9c9bd28f5/92451300/9c9bd28f5266db15c5d574b82be21e1c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8546495ee/92451300/8546495ee5e841f9c2ab42162af95029.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0c96930f4/92451300/0c96930f4473bc8100f2dcf06c4c0910.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0f02840c7/92451300/0f02840c7fba107e3de26700b409fe2b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a02e7e870/92451300/a02e7e87039c0e1464e3788268429f5e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0d23f1a53/92451300/0d23f1a53e7ce0cd1964c06344644a90.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d595622f/92451300/6d595622f269ffa11eabf5c32fdf42d8.jpeg"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "Haymarket Station",
+   "miles": 0.37873669257728837,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 1.0646989039436492,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 1.6617577291544212,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Greystar, New Fountainbridge",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH3",
+ "scrapedAt": "2026-08-30T10:26:12.654Z"
+}

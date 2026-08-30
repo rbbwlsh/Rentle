@@ -1,0 +1,82 @@
+{
+ "id": "92426979",
+ "displayAddress": "Cheltenham Road, Montpellier, BS6",
+ "outcode": "BS6",
+ "incode": "5QZ",
+ "latitude": 51.468607,
+ "longitude": -2.592275,
+ "priceAmount": 1600,
+ "priceLabel": "£1,600 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92426979",
+ "area": "Montpellier",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 721,
+  "sizeSqM": 67,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "01/10/2026",
+  "deposit": 1846,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": 721,
+ "sizeSqM": 67,
+ "description": "Two Bedroom Flat | Great Location | Unfurnished | Council Tax Band 'A' | EPC rating E | Available 1st October 2026\n\nLarge Maisonette flat located in the popular area of Montpellier/ Gloucester Road area of Bristol, minutes away from the station. The property boasts a large living space with a separate kitchen. The kitchen is equipped with fridge, oven/hob and washing machine. The property also boasts a separate bathroom which is divided into two rooms. The toilet room which has toilet and sink basin and then a separate shower room with shower and sink basin. You will also benefit from two great sized bedrooms.\n\nThe property is gas central heating and double glazed throughout. Council Tax Band ‘A’ and the EPC Rating is ‘E’. Available 1st October 2026\n\nPlease note: The water bill will be charged at £50per month. \n\nThe location of the apartment is ideal for those who frequently commute into the City Centre, which is just a short stroll away, and is also within 5 minutes walk of Montpelier and Redland train stations. The property also has so much to offer on the doorstep as well, with great cafes and restaurants like Emmeline on Cheltenham Road and the Kensington Arms just 5 minutes away, but also with several well regarded cafes, restaurants and bars in nearby Gloucester Road, Montpelier (Picton Street) and Cotham (Chandos Road).",
+ "keyFeatures": [
+  "Water Bill will be charged at £50pcm",
+  "Available 1st October 2026",
+  "Council Band 'A'",
+  "Great Location",
+  "Shower Room",
+  "Close to all the Amenities of Gloucester Road",
+  "Two Great Sized Bedrooms"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/5fdfa253f/92426979/5fdfa253f69afda03090a32c7a78d967.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3d4c4406f/92426979/3d4c4406f98d4ad177d79f2328753164.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5d533d443/92426979/5d533d443b709875c216622152066412.jpeg",
+  "https://media.rightmove.co.uk/property-photo/616294cb6/92426979/616294cb6523bc2c3eede8434b5e1fa4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0d87ddf4d/92426979/0d87ddf4d0ccbb871a044aba2122c27b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9ff804d19/92426979/9ff804d19f62e6f0a4f720906221c455.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c73dd9ce2/92426979/c73dd9ce28146f326f270a5d89179687.jpeg",
+  "https://media.rightmove.co.uk/property-photo/990bf1acb/92426979/990bf1acbb02896a716ca6ce855390f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7659dfc21/92426979/7659dfc211442527678b364f32eb7853.jpeg",
+  "https://media.rightmove.co.uk/property-photo/671885bef/92426979/671885bef3f3900bb37c199c832973ee.jpeg",
+  "https://media.rightmove.co.uk/property-photo/46e7c1507/92426979/46e7c150776aad8df4b86467ddea0f95.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Montpelier Station",
+   "miles": 0.15284007120821302,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.30892041300813977,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.8568057779694229,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Bristol Property Centre, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS6",
+ "scrapedAt": "2026-08-30T10:23:05.070Z"
+}

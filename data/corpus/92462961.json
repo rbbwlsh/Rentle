@@ -1,0 +1,83 @@
+{
+ "id": "92462961",
+ "displayAddress": "Coronation Road, Southville, Bristol",
+ "outcode": "BS3",
+ "incode": "1RF",
+ "latitude": 51.444469,
+ "longitude": -2.616586,
+ "priceAmount": 1400,
+ "priceLabel": "£1,400 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92462961",
+ "area": "Southville, Bristol",
+ "bedrooms": 1,
+ "bathrooms": null,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 1615,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Available now!\n\nA lovely one bedroom garden flat, only walking distance from Bristol city centre and North Street, offering easy access to local amenities.\nThis property is ideal for a professional couple looking for a stylish home in a lively, well-connected area.\n\nThe accommodation comprises a private entrance leading into an open plan kitchen/living-room, the newly fitted kitchen includes a built-in fridge/freezer. The property also benefits from a separate toilet/utility room.\nThe spacious double bedroom gives access to a modern bathroom.\nThe living room opens up onto a low maintenance rear garden.\n\nEnergy Rating - C\nCouncil Tax Band - A",
+ "keyFeatures": [
+  "Available Now",
+  "Spacious one bedroom flat",
+  "Private Garden",
+  "White goods included",
+  "New redecorated",
+  "Utility Room / Separate toilet",
+  "Council Tax Band - A",
+  "EPC - C",
+  "Holding deposit £323",
+  "Security deposit £1615"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1e3f7e318/92462961/1e3f7e31854a5112bb4a8d3f2265582b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a17638c68/92462961/a17638c687adc9c3d0c182865ad22822.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d08c09f6f/92462961/d08c09f6f47dd099bcca27c2f6213a35.jpeg",
+  "https://media.rightmove.co.uk/property-photo/534f58228/92462961/534f58228255c6a699a5030167052943.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6dccac013/92462961/6dccac0136e7f1c80c6b25eea7be395c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/918721dd9/92462961/918721dd903b2d17d1e00dd0896f4475.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f8d4f9d13/92462961/f8d4f9d13dfc89abafaefa622bb6e19e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c768054e4/92462961/c768054e4f8985c7d87b24cd13e8b137.jpeg",
+  "https://media.rightmove.co.uk/property-photo/113056eb6/92462961/113056eb6fa7df4d3c961a61795849e5.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Bedminster Station",
+   "miles": 1.0118003761047254,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Parson Street Station",
+   "miles": 0.851227146601446,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 1.5504210748677245,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Greenwoods Property Centre, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS3",
+ "scrapedAt": "2026-08-30T10:22:39.009Z"
+}

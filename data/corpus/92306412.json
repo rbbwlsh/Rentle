@@ -1,0 +1,76 @@
+{
+ "id": "92306412",
+ "displayAddress": "20d Wilbraham Court 2, Wilbraham Road, Fallowfield, Manchester, M14",
+ "outcode": "M14",
+ "incode": "6DZ",
+ "latitude": 53.442992,
+ "longitude": -2.219725,
+ "priceAmount": 1050,
+ "priceLabel": "£1,050 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92306412",
+ "area": "Fallowfield, Manchester",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "23/09/2026",
+  "deposit": 1211,
+  "minimumTermMonths": null,
+  "councilTaxBand": "TBC"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "AVAILABLE SEPTEMBER. Large two bedroom apartment set on the first floor of this newly built development.  The property comprises of;  fitted kitchen, fitted bathroom, ceiling lighting, double glazed windows, entry phone system, electric heating. Both bedrooms are large doubles and there is a spare office room too. \n\n***Sample photos of similar property used.***",
+ "keyFeatures": [
+  "AVAILABLE SEPTEMBER",
+  "TWO BEDROOMS",
+  "ONE BATHROOM",
+  "FULLY FURNISHED",
+  "FIVE WEEKS DEPOSIT"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/ee3ce36d2/92306412/ee3ce36d24a6664c316e7baae99191a7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/beb4c712d/92306412/beb4c712d8ab6e155848b0ca2ebca594.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f783c7536/92306412/f783c75362a89c67d82dddf5f7ed34cf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6c4819d2f/92306412/6c4819d2fdd8daced2d02f15bde63be3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5d1427a5f/92306412/5d1427a5f02837eb59d113a9180ec685.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9461142d0/92306412/9461142d0b36db7a3feedc391315a9f8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e3f82198e/92306412/e3f82198e759f02240ec5d605969fdbd.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Mauldeth Road Station",
+   "miles": 0.773792801530875,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 1.289259432096555,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Withington Tram Stop",
+   "miles": 1.4102750147588925,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Philip James Manchester, Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M14",
+ "scrapedAt": "2026-08-30T10:17:50.089Z"
+}

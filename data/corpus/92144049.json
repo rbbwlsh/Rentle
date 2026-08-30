@@ -1,0 +1,73 @@
+{
+ "id": "92144049",
+ "displayAddress": "Gayfield Square, Edinburgh, Midlothian",
+ "outcode": "EH1",
+ "incode": "3PA",
+ "latitude": 55.959112,
+ "longitude": -3.184847,
+ "priceAmount": 3200,
+ "priceLabel": "£3,200 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92144049",
+ "area": "Edinburgh, Midlothian",
+ "bedrooms": 4,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 4,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "11/09/2026",
+  "deposit": 4000,
+  "minimumTermMonths": null,
+  "councilTaxBand": "F"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Spacious 4-Bedroom HMO Flat – Gayfield Square, Edinburgh\n\nSituated on the elegant and sought-after Gayfield Square, this spacious four-bedroom basement flat offers ideal accommodation for students or professionals, with a full HMO license in place. Located just a short walk from the heart of Edinburgh's city centre and the vibrant bars, cafes, and shops of Broughton Street, this property combines city living with a peaceful residential setting.\n\nProperty Features:\n\n4 generously sized double bedrooms.\n\nLarge living room perfect for socialising or relaxing\n\nFully equipped modern kitchen\n\nContemporary bathroom with shower over bath, plus an additional shower room for convenience\n\nPrivate main door access\n\nGas central heating\n\nExcellent transport links nearby, including bus and tram services\n\nWalking distance to Waverley Station, Princes Street, and Calton Hill\n\nIdeal for students or young professionals, this well-presented flat offers both comfort and convenience in one of Edinburgh’s most desirable central locations.\n\nDeposit: £4000\nFurnished\nCouncil Tax Band: F\nEPC Rating: C\nLandlord Registration: 1187929/230/15022\nLARN1903047\n\nCouncil Tax Band: F",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/8851d21c4/92144049/8851d21c4ae4a1a686691f0d2b722b3b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/62061ad9f/92144049/62061ad9f9562c47e56dfaf4b5fda6a5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c2733ede6/92144049/c2733ede6f974f9c9fa7a0e4aa3d186d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b1e7f9333/92144049/b1e7f93334585102f4ab74f441f890f3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ff34bec83/92144049/ff34bec8398973c5326e8221fb1e0a3a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/764211368/92144049/764211368a8994efbd461fe0cfc92735.jpeg",
+  "https://media.rightmove.co.uk/property-photo/040f4d338/92144049/040f4d33851d1e9b5f60802c062e9f36.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e953d2e5a/92144049/e953d2e5a28268b965eeedbd5406a5c0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f4d8d7192/92144049/f4d8d7192481af039c1c04fa8497ccde.jpeg",
+  "https://media.rightmove.co.uk/property-photo/40cbc46c9/92144049/40cbc46c97c9b69533517c763d2edd1c.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.5273675296969744,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.604496848215268,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 3.200143175130221,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Rettie, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH1",
+ "scrapedAt": "2026-08-30T11:03:51.219Z"
+}

@@ -1,0 +1,78 @@
+{
+ "id": "92543778",
+ "displayAddress": "Hallmark Tower, 6 Cheetham Hill Road, Manchester, M4",
+ "outcode": "M4",
+ "incode": "4FZ",
+ "latitude": 53.49065,
+ "longitude": -2.245932,
+ "priceAmount": 1200,
+ "priceLabel": "£1,200 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92543778",
+ "area": "Hallmark Tower, Manchester",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/10/2026",
+  "deposit": 1384,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Available Early-October | Fully Furnished | One Double Bedroom | Concierge and Communal Roof Terrace\n\n\rDescription\n\nSavills are Delighted to Present this Stunning Fully Furnished One Double Bedroom Apartment in the Hallmark Development.\n\nThis fantastic apartment has a pleasant entrance hallway leading to a open-plan living/kitchen area. The living room itself is a well-designed, practical space whilst the kitchen comes fully fitted with integrated appliances. The bedroom is well-appointed and spacious with built-in wardrobes offering ample space for storage. The bathroom enjoys a modern three-piece suite.\n\nThe Hallmark development offers two communal terraces with the 12th floor roof terrace benefitting from far reaching views of the city. Hallmark also offers bike storage and concierge services. Located in close proximity to Manchester Victoria Station and with the bars and restaurants the Northern Quarter has to offer only a short distance away, this development appeals to all.\n\nThis property has cladding, as far as we know the current position with the property is: It’s been tested and there are no works required.*\n* You should make enquires about the external wall system of the property, if it has cladding and if it is safe or if there are interim measure in place.\n\n\r\n\r \r\n\nAdditional Info\n\nHolding Deposit : £3265.38 ( 1  week )\nDeposit Payable : £1,326.92 ( 5 weeks )\nRent must be paid monthly in advance",
+ "keyFeatures": [
+  "Fully Furnished Apartment",
+  "One Double Bedroom",
+  "Roof Terrace",
+  "Concierge",
+  "Bike Storage",
+  "EPC Rating = B"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/254f255c1/92543778/254f255c1147c6658446cac71f6c5e80.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2e2323a5b/92543778/2e2323a5b87e7ff796305116984fec20.jpeg",
+  "https://media.rightmove.co.uk/property-photo/77bdad219/92543778/77bdad219095446658dda15198167626.jpeg",
+  "https://media.rightmove.co.uk/property-photo/45dca09b9/92543778/45dca09b92bb4280c802c0002fe5e75a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6680b551c/92543778/6680b551c4b59e87a26a1094950f7dbd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6a2ce1008/92543778/6a2ce10087cf8ae305beb3415e146049.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6f571adbe/92543778/6f571adbeea2d68b66fb18f5a1e606a7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d755c2aa/92543778/6d755c2aa75e8c7b095f59b73b58641e.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Manchester Victoria Station",
+   "miles": 0.28388695212028214,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Market Street Tram Stop",
+   "miles": 0.6650658575532296,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Mosley Street Tram Stop",
+   "miles": 0.7524204194816698,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Savills Lettings, Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M4",
+ "scrapedAt": "2026-08-30T10:17:41.184Z"
+}

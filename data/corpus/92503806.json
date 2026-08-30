@@ -1,0 +1,93 @@
+{
+ "id": "92503806",
+ "displayAddress": "Glasshouse Square, Bristol Bristol BS1",
+ "outcode": "BS1",
+ "incode": "6QN",
+ "latitude": 51.45108,
+ "longitude": -2.59041,
+ "priceAmount": 1670,
+ "priceLabel": "£1,670 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92503806",
+ "area": "Glasshouse Square",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 553,
+  "sizeSqM": 51,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": 553,
+ "sizeSqM": 51,
+ "description": "Discover elevated city living in Bristol’s newest build-to-rent community — 374 contemporary apartments across three striking blocks, soaring up to the 18th floor.\n\nGlasshouse Square is a pet-friendly, safe, and secure building in the heart of Bristol, with a dedicated on-site resident services team. Contemporary apartments feature bright, open-plan living, kitchen, and dining spaces, stunning city views, and access to exceptional facilities included for effortless, modern city living.\n\nReserve now and move in by October 2026 to receive 1 months free rent!\n\nExperience elevated city living in Bristol’s newest build-to-rent community — a stunning collection of 374 contemporary apartments spread across three blocks, reaching up to the 18th floor.\n\nThis pet-friendly* development offers thoughtfully designed apartments, most with private balconies or terraces boasting incredible views across Bristol.\n\nEnjoy seamless connectivity with ultrafast Wi-Fi included, and make the most of an exceptional range of residents’ amenities:\n\n· Two panoramic roof terraces on the 7th and 10th floors\n\n· Stylish residents’ lounge\n\n· 24/7 gym and dedicated yoga studio\n\n· Games room and bookable private dining space\n\n· Beautiful podium terrace gardens for relaxation and socialising\n\nWith an on-site resident services team available to assist your renting needs, this is modern renting redefined — designed for comfort, community, and convenience.\n\nReserve your apartment today and be among the first to call this landmark Bristol address home.\n\nPlease note: images shown are stock images and may not reflect the exact apartment layout or view.\n\n*Subject to contract, pet license and T&C’s \n\n**Incentive T&C’s apply, subject to contract.",
+ "keyFeatures": [
+  "No admin fees",
+  "Flexible long term tenancies",
+  "Complimentary super fast WiFi",
+  "Dedicated onsite residents services team",
+  "Residents lounges / co working spaces",
+  "Roof terrace",
+  "24 hour fitness area / gym",
+  "Parcel collection service",
+  "Professional landlord service"
+ ],
+ "tags": [
+  "BUILT_FOR_RENTERS"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/e9a24cf9e/92503806/e9a24cf9e1d8e1ed3fc881c85c3a1369.jpeg",
+  "https://media.rightmove.co.uk/property-photo/109f14f37/92503806/109f14f3719a29a0a507bc6f3164ce6c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/939311a42/92503806/939311a422c7c486deb5ff5d23f55586.jpeg",
+  "https://media.rightmove.co.uk/property-photo/56ccf98e6/92503806/56ccf98e6d09443575f3a14d6c4d44bc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/104cd28a0/92503806/104cd28a05230793daf58b784a776bb0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a883f0b2d/92503806/a883f0b2d4c1c9265dcbb465404e90e4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8e6ee018f/92503806/8e6ee018fe6e89871a478a2b10847689.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ead5896b0/92503806/ead5896b0850ac328fa082f751a0be85.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bebfa3d7e/92503806/bebfa3d7e4370893d41e7974e2848a39.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8a1ee0ca7/92503806/8a1ee0ca7171904cb24bc7163cea6c32.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a72952de4/92503806/a72952de4e58aee1771497bd25b3e28e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4d9531b4f/92503806/4d9531b4fa83196ab1293b9474e2609e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/72f7a8abc/92503806/72f7a8abca9f3d57d553065e5ef76dac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e228c75f9/92503806/e228c75f9b95997d1a9abec898b78e5c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/640a07d2e/92503806/640a07d2e906288bf9072c53070f38ef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/075a04592/92503806/075a04592dbd5f446d50690ab2741c33.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f674bc6d4/92503806/f674bc6d4e0c40d785564842b8f4e37d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/27f2474a7/92503806/27f2474a7cc45a1e5306b7349b4bdd12.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 0.41137104653320594,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bedminster Station",
+   "miles": 0.7842722983652682,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Montpelier Station",
+   "miles": 1.1962888122626685,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Grainger, Glasshouse Square",
+ "city": "Bristol",
+ "sourceOutcode": "BS1",
+ "scrapedAt": "2026-08-30T10:21:55.045Z"
+}

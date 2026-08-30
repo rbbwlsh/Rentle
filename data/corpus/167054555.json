@@ -1,0 +1,82 @@
+{
+ "id": "167054555",
+ "displayAddress": "Vista Heights, 227 Ilderton Road, Southwark, London, SE15 1PS",
+ "outcode": "SE15",
+ "incode": "1PS",
+ "latitude": 51.483082,
+ "longitude": -0.053351,
+ "priceAmount": 2450,
+ "priceLabel": "£2,450 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/167054555",
+ "area": "Southwark, London",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 850,
+  "sizeSqM": 79,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "30/09/2026",
+  "deposit": 2826,
+  "minimumTermMonths": null,
+  "councilTaxBand": "D"
+ },
+ "sizeSqFt": 850,
+ "sizeSqM": 79,
+ "description": "***Available 30th September***\n\nZuker Property is delighted to present this stunning two-bedroom, two-bathroom apartment situated on the 19th floor of a modern development. \n\nThe property boasts a spacious open-plan living and dining area, seamlessly connected to a fully equipped contemporary kitchen with integrated appliances, perfect for both everyday living and entertaining. Large floor-to-ceiling windows flood the space with natural light, while the private balcony offers far-reaching views of the surrounding cityscape, creating an ideal spot for morning coffee or evening relaxation. Both bedrooms are generously sized, with the master bedroom benefiting from an en-suite bathroom for added convenience.\n\nThe development benefits from a 24-hour concierge service at the lobby, secure entry to the main building, as well as exclusive access to the residents' lounge and terrace.\n\nTransport Links\nSouth Bermondsey Station is just a 10-minute walk, with a swift 5-minute direct journey to London Bridge-providing seamless access to Jubilee and Northern lines as well as National Rail services.\nMultiple bus routes also serve the area, providing convenient connections to South and Central London.\n\nLocal Amenities\nSituated in a vibrant neighborhood, this location benefits from the ongoing regeneration of Bermondsey, known for its lively mix of shops, cafés, restaurants, and leisure options-all within easy reach.\n\nEPC rating: B\nCouncil Tax band: D\nDeposit: Equivalent to 5 weeks' rent\n\nOur dedicated China Desk is here to assist you. If you prefer to communicate in Chinese, feel free to contact us via WeChat (ID: ZUKER_05)",
+ "keyFeatures": [
+  "***Available 30th September***",
+  "19th Floor",
+  "Private balcony",
+  "Full height windows",
+  "24 Hour Concierge",
+  "Resident's lounge &amp; Terrace",
+  "Close to South Bermondsey Station",
+  "EPC: B",
+  "Council Tax: D"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/0a7dd0b5b/167054555/0a7dd0b5b542bbe640adbe5c8082241a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5419940b6/167054555/5419940b667be4f37da63263a77151b6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6850c1622/167054555/6850c1622ee0815c9d4d798456be7c34.jpeg",
+  "https://media.rightmove.co.uk/property-photo/31e96111f/167054555/31e96111ff2e2b8a189bdf292d1f5f9c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6b448f9f9/167054555/6b448f9f95f8afc0b35ea53f63077c39.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c60a00b89/167054555/c60a00b89eb746184d1b636f136e4966.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c509796fc/167054555/c509796fc6e31148cc9da3bc636fc592.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4a5dd0be4/167054555/4a5dd0be4bfb573e52109d0669babf19.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "South Bermondsey Station",
+   "miles": 0.3273693308883244,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Surrey Quays Station",
+   "miles": 0.7476256890852737,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Queens Road Peckham Station",
+   "miles": 0.6830314057025328,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_OVERGROUND"
+   ]
+  }
+ ],
+ "agent": "Zuker Property Ltd, Birmingham",
+ "city": "London",
+ "sourceOutcode": "SE15",
+ "scrapedAt": "2026-08-30T10:14:38.380Z"
+}

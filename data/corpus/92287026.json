@@ -1,0 +1,75 @@
+{
+ "id": "92287026",
+ "displayAddress": "Cube",
+ "outcode": "B1",
+ "incode": "1PP",
+ "latitude": 52.47487,
+ "longitude": -1.90706,
+ "priceAmount": 825,
+ "priceLabel": "£825 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92287026",
+ "area": "Cube",
+ "bedrooms": null,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": null,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "30/09/2026",
+  "deposit": 951,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "** Zero Deposit Guarantee Available **\nA superb studio apartment on the 19th floor in Birmingham's popular development in the Cube.  Furnished to a very high standard with modern bathroom and fitted kitchen , this is a must for the city  professional and comes highly recommended. Viewing is essential to avoid disappointment. Great city location and only a short walk to New Street station and all of the city attractions. \n\nHolding deposit £196\nCouncil tax band B Council Tax Band:  Holding Deposit: £190.00",
+ "keyFeatures": [
+  "Available September",
+  "Furnished",
+  "Studio apartment",
+  "Concierge",
+  "Located at the Mailbox",
+  "Viewing advised to appreciate"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1e69281e7/92287026/1e69281e75c7eacba9176ac6bf29ae8a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/321e02fe4/92287026/321e02fe4005fa14d7570c40991797df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3fecaa83c/92287026/3fecaa83c997b2f77b2b60c19979cd59.jpeg",
+  "https://media.rightmove.co.uk/property-photo/476829b41/92287026/476829b41da792151010c1cb4d61a6cb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/229640238/92287026/22964023829d7c84b372de556fe74b2a.jpeg"
+ ],
+ "imageCount": 5,
+ "nearestStations": [
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 0.39549216198858644,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Five Ways Station",
+   "miles": 0.42692251872558584,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Snow Hill Station",
+   "miles": 0.6523220935768139,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Accord Lets, Birmingham",
+ "city": "Birmingham",
+ "sourceOutcode": "B1",
+ "scrapedAt": "2026-08-30T10:19:32.951Z"
+}

@@ -1,0 +1,82 @@
+{
+ "id": "90395493",
+ "displayAddress": "Welton Mount, Hyde Park, Leeds, LS6",
+ "outcode": "LS6",
+ "incode": "1ET",
+ "latitude": 53.813364,
+ "longitude": -1.569588,
+ "priceAmount": 1646,
+ "priceLabel": "£1,646 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90395493",
+ "area": "Hyde Park, Leeds",
+ "bedrooms": 4,
+ "bathrooms": 2,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "Ask agent",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Available Now. £121pppw including bills or £95pppw without bills. 4 bedroom house located in a popular student area Hyde Park. 4 good size bedrooms. Spacious lounge. Large dining kitchen. 2 bathrooms. This property is worth viewing!",
+ "keyFeatures": [
+  "4 good size bedrooms",
+  "Bill included",
+  "Spacious lounge",
+  "Large dining kitchen",
+  "Excellent location",
+  "Walking distance to the University",
+  "Student Lettings"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/5d2ced134/90395493/5d2ced134ab58f5854e005453b4b5aff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/135aa9ece/90395493/135aa9eced5b04b1b30b9c915f964ce8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b7c2fead8/90395493/b7c2fead81b6f2e0f20b1b2a27d915ec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1ac0bc746/90395493/1ac0bc74683c68ef9c0de89d4ea9a89a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5ebef57a7/90395493/5ebef57a746b073e899d41eea5ab3309.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d792494d5/90395493/d792494d5cec9fc1616556a7868af598.jpeg",
+  "https://media.rightmove.co.uk/property-photo/90efd7a4f/90395493/90efd7a4f434a6d8a66e13909bb16e5d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e6c2781dd/90395493/e6c2781ddbcfcf823979751c452f65d1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3a5ad5d82/90395493/3a5ad5d82bec9f0f7982326febc1dd67.png",
+  "https://media.rightmove.co.uk/property-photo/68584fae1/90395493/68584fae1cc168ccf8d3309e14d97914.png",
+  "https://media.rightmove.co.uk/property-photo/a30edd551/90395493/a30edd551faeb834e90b3ec34bc58489.png"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Burley Park Station",
+   "miles": 0.36019535781403583,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 1.0531711598849192,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Leeds Station",
+   "miles": 1.6253410558914636,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Provision Properties, Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS6",
+ "scrapedAt": "2026-08-30T10:24:52.092Z"
+}

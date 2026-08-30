@@ -1,0 +1,74 @@
+{
+ "id": "92551584",
+ "displayAddress": "Broomwood Road, London, SW11",
+ "outcode": "SW11",
+ "incode": "6JX",
+ "latitude": 51.45583,
+ "longitude": -0.155881,
+ "priceAmount": 6250,
+ "priceLabel": "£6,250 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92551584",
+ "area": "London",
+ "bedrooms": 5,
+ "bathrooms": 3,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "22/10/2026",
+  "deposit": 0,
+  "minimumTermMonths": null,
+  "councilTaxBand": "G"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A substantial five bedroom terraced house, ideally positioned “Between the Commons” on the popular Broomwood Road. Offering generous proportions across the house, the property combines period character with a practical layout suited to family living or professional sharers.\n\n\rThe ground floor is centred around a spacious double reception room with wooden floors and feature fireplaces, creating two distinct areas for relaxing and dining. The separate fully fitted kitchen provides ample space for a dining table and connects conveniently with the private south-facing garden.\n\nUpstairs, there are five good-sized double bedrooms and three modern bathrooms, providing excellent flexibility for a family or a maximum of four professional sharers. A cellar adds useful additional storage, while the neutral decoration throughout creates a calm and adaptable backdrop.\n\nBroomwood Road is well placed between Clapham Common and Wandsworth Common, with their open green spaces both within easy reach. Northcote Road is also close by, offering a varied selection of cafés, restaurants, bars and independent shops, while a choice of private and state schools can be accessed nearby. Clapham South Underground station is the nearest transport link, providing access to the Northern Line and convenient connections into Central London and the City.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/9398dfcb1/92551584/9398dfcb1b03afc97a7c138ee486fa1e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f690d3503/92551584/f690d3503d1311166cd4506c120f398b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f3fea8ac3/92551584/f3fea8ac383914e90fb2c2c05ebc4622.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d8caaf16f/92551584/d8caaf16fcb90646b26c04332324d869.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c89316d4b/92551584/c89316d4b14678397c0a5dfe893d00ea.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ab6fb6c79/92551584/ab6fb6c7962d3c750d26ebeed6f09c90.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3fd251084/92551584/3fd2510845bc9e5b4a669d83a85a7d3b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0c11642fa/92551584/0c11642fa83fb0e2f067c9484a16f524.jpeg",
+  "https://media.rightmove.co.uk/property-photo/19301dfb8/92551584/19301dfb8f8c3c1f4e247cc7fd2c37fa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/326c0e596/92551584/326c0e596cf1bb9fc2b117227b800bdd.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Clapham South Station",
+   "miles": 0.40646220309702985,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Wandsworth Common Station",
+   "miles": 0.7419494783168396,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Clapham Junction Station",
+   "miles": 0.783405917405362,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_OVERGROUND"
+   ]
+  }
+ ],
+ "agent": "Wilfords London, Clapham",
+ "city": "London",
+ "sourceOutcode": "SW11",
+ "scrapedAt": "2026-08-30T10:15:16.220Z"
+}

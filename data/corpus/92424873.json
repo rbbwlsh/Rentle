@@ -1,0 +1,91 @@
+{
+ "id": "92424873",
+ "displayAddress": "Eaton Walk, London, SE15",
+ "outcode": "SE15",
+ "incode": "2FB",
+ "latitude": 51.474603,
+ "longitude": -0.062401,
+ "priceAmount": 2800,
+ "priceLabel": "£2,800 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92424873",
+ "area": "London",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 901,
+  "sizeSqM": 84,
+  "letType": "Long term",
+  "furnishType": "Furnished or unfurnished, landlord is flexible",
+  "letAvailableDate": "01/09/2026",
+  "deposit": null,
+  "minimumTermMonths": 12,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": 901,
+ "sizeSqM": 84,
+ "description": "Key Features: \r\n\r\nSpacious and stylish two-bedroom apartments \r\n\r\nBespoke furnishings and premium appliances \r\n\r\nFloor-to-ceiling windows for abundant natural light \r\n\r\nUltra-fast broadband available for all providers throughout all spaces \r\n\r\nFriendly support team \r\n\r\nLandscaped communal gardens / courtyard (oasis-style setting)\r\n\r\nPet-friendly environment\r\n \r\nSecure video entry & fob access\r\n\r\n\r\n\r\n\r\nLocal Highlights: \r\n\r\nLocated on Queens Road Peckham\r\n\r\nExcellent transport links, including Queens Road Peckham Station and Peckham Rye Station nearby \r\n\r\nClose proximity to shops, dining, bars, and entertainment venues \r\n\r\n\r\n\r\n \r\n\r\nDetailed Descriptions:  \r\n\r\nDiscover the epitome of modern city living with our one-bedroom apartments at Idaline Court, Peckham Place. Designed to be a perfect sanctuary for one or two, these apartments feature bespoke furnishings, stunning floor-to-ceiling windows, and premium fitted appliances. \r\n\r\nEnjoy bright, open-plan spaces with a sleek, stylish design that combines comfort and sophistication. Our ultra-fast broadband is set up and ready to use from the moment you arrive. The pet-friendly policy ensures your furry friends are welcome, and additional amenities include a secure parcel room, library, games room and on-site bike storage. \r\n\r\n \r\n\r\nLocated in the heart of Queens Road Peckham offers easy connections to local and major Cities and towns.. With access to a resident-only gym, stone throw away from all the city's main attractions, and regular resident events, this is city living at its finest. \r\n\r\n \r\n\r\nPlease note: Some services and items may be subject to additional fees. All images, floorplans, and particulars included are for illustrative and indicative purposes only. Individual features and layout may vary.",
+ "keyFeatures": [
+  "Top floor (penthouse-style) flat in a modern developmen",
+  "Built as part of a new-build residential scheme (Peckham Place)",
+  "Energy-efficient (EPC rating B) [propbar.co.uk]",
+  "Contemporary bathroom(s) with full-size bath or walk in shower and heated towel rail",
+  "Close Proximity Shops, Restaurants and Markets  ",
+  "Great Views of London Skyline",
+  "Modern fitted kitchen with integrated appliances and sleek finishes",
+  "Generous storage, including utility cupboards with washer dryer",
+  "Large windows providing strong natural light",
+  "Elevated \"penthouse\" position likely offers enhanced city views across London skyline"
+ ],
+ "tags": [
+  "BUILT_FOR_RENTERS"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a6e142108/92424873/a6e142108b078a745f5e8b7b954c860c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/525ef9eea/92424873/525ef9eeab8952ee9b4afce687f0575f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/caf9d9c5a/92424873/caf9d9c5aadadac8da2b41b0962f77a5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d0f1b3a5e/92424873/d0f1b3a5e36bd488922fd9b9a4f90fa9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d24e1c7e0/92424873/d24e1c7e0260920dc3f2288ed7e08579.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e6bb4a392/92424873/e6bb4a39201a3923ba470325d7b61c68.jpeg",
+  "https://media.rightmove.co.uk/property-photo/461f8260b/92424873/461f8260bfff0d04fb4cafec5535b0e8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e8cd35e36/92424873/e8cd35e36d5078983e8f7b11c1c6656e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/454566d71/92424873/454566d71a26f0cebb7fe7a8529eb8ed.jpeg",
+  "https://media.rightmove.co.uk/property-photo/31159de40/92424873/31159de4021fb7424fdb3cd864c1e141.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d7190aa40/92424873/d7190aa40aa5ddcc4cc0944b12e9736d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/785490e2b/92424873/785490e2bdb578dc190164cebc7740d9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/be8851f82/92424873/be8851f82bb4fde7d5e81e5d38d57237.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a7414fd6e/92424873/a7414fd6e0c5ee35496e209181401327.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Queens Road Peckham Station",
+   "miles": 0.23183573071107583,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Peckham Rye Station",
+   "miles": 0.43471369840412416,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Nunhead Station",
+   "miles": 0.6652222111030246,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Greystar, Idaline Court",
+ "city": "London",
+ "sourceOutcode": "SE15",
+ "scrapedAt": "2026-08-30T10:14:52.019Z"
+}

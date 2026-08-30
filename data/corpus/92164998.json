@@ -1,0 +1,79 @@
+{
+ "id": "92164998",
+ "displayAddress": "Morningside Road, Edinburgh, EH10",
+ "outcode": "EH10",
+ "incode": "4AX",
+ "latitude": 55.92937,
+ "longitude": -3.20945,
+ "priceAmount": 1800,
+ "priceLabel": "£1,800 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92164998",
+ "area": "Edinburgh",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Part furnished",
+  "letAvailableDate": "02/09/2026",
+  "deposit": 1900,
+  "minimumTermMonths": null,
+  "councilTaxBand": "D"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Interested in this property? Please submit your enquiry via the property website portals. Unfortunately, we’re unable to accept bookings by phone or offer virtual viewings.\n\nCentrally located in the heart of Morningside, a spacious two bedroom with box room, part furnished property located on the second floor of a traditional tenement. \n\nThis bright & spacious property property comprises, large lounge with large bay window to the front overlooking Morningside Road with views overlooking the Pentlands, feature fireplace and access to a box room also accessible from the hall, a sizeable main bedroom with ample storage space. To the rear is a well equipped kitchen with integrated appliances with an abundance of storage space as well as additional storage cupboards, a small dining area and a separate utility space to the rear of the kitchen, a second double bedroom overlooking a shared garden with wardrobes and newly fitted modern bathroom with shower over bath. \n\nThe property further benefits from GCH, double glazing, secure entry phone system and zone parking.\n\nThe flat is located in the heart of Morningside, with an excellent selection of cafés, restaurants, shops and supermarkets virtually on the doorstep.\n\nWaitrose, Marks & Spencer and Sainsbury’s are all within easy walking distance, together with numerous independent cafés, bakeries and local shops EPC rating: C.  Landlord Registration Number: 1792558/230/15112. Letting Agent Registration Number: 1807008.",
+ "keyFeatures": [
+  "Shower",
+  "Fridge Freezer"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a4f34100e/92164998/a4f34100ec51d856a231b6a3590be324.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5fc8fd480/92164998/5fc8fd4803207d28002554e296a10b4a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b02cff09e/92164998/b02cff09e5ccf1b01e3053db1338e3f5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fe1e73991/92164998/fe1e739918fc7bac5e5a2250a4b70bac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1455a24b7/92164998/1455a24b7377c86dd17e68cf0b5e1f0e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4d6a69682/92164998/4d6a6968254e506adad2d1cfd0355c77.jpeg",
+  "https://media.rightmove.co.uk/property-photo/88b970ef5/92164998/88b970ef5e23919583fe91cca25a34a8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4c5d87f06/92164998/4c5d87f0609d488b93d38faa43f9f816.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4b2453a93/92164998/4b2453a93f8e6010cee72794cc310eff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a67fe204f/92164998/a67fe204f203b77a61cd92321754bd1a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dce6a1a21/92164998/dce6a1a21f23d67634b5c8c1e90bf746.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2b5b27f71/92164998/2b5b27f711912213f957ebd3bac58361.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1c66bda70/92164998/1c66bda701fc323341008b4080057ba0.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Haymarket Station",
+   "miles": 1.1565939410177377,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 1.3347161918500134,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 1.7429255947802418,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Northwood, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH10",
+ "scrapedAt": "2026-08-30T11:04:28.852Z"
+}

@@ -1,0 +1,75 @@
+{
+ "id": "92514999",
+ "displayAddress": "Hartley House, Hartley Hill",
+ "outcode": "LS2",
+ "incode": "8JB",
+ "latitude": 53.801738,
+ "longitude": -1.539613,
+ "priceAmount": 1100,
+ "priceLabel": "£1,100 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92514999",
+ "area": "Hartley House",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 410,
+  "sizeSqM": 38,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 1269,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": 410,
+ "sizeSqM": 38,
+ "description": "HH75\nJust listed – city living with style! \n\nWelcome to this modern and stylish apartment located on North Street in the vibrant Northern/Arena Quarter of the city in a popular areas of Leeds City Centre.\n\nCheck this out – You don’t want to miss it!\n-Purpose-Built Apartments, attached to a Grade II Listed Iconic Building – blending heritage with modern design. -Right in the heart of the city – perfect for busy professionals and affluent students looking to enjoy all the best ----Leeds has to offer! Due to spacious nature of the apartments this is ideal for singles and couples.\n\nWhat’s inside?\n-Fully Furnished – Just bring your suitcase and move in!\n-Airy, spacious, light-filled apartments with high ceilings and great city views\n-Contemporary Kitchens – Cook up a storm with:\n-Fridge/Freezer | Dishwasher | Hob & Oven | Extractor | Washer/Dryer | Microwave – all integrated appliances included!\n-Modern Bathrooms with bidets – sleek, stylish, and a touch of luxury\n\nExtras you’ll love:\n-Lift access to all floors\n-Secure coded entry\n-CCTV throughout\n-Concierge on-site\n-Loads more photos & videos available – just ask!\n-Pet-friendly (well-behaved companions welcome!)\n\nViewings?\nWe work around you – evening and weekend slots available!\nReady to see it? Book now and step into your new home! We also have virtual 360 tour available on request.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/085589874/92514999/0855898747d84dd4fc71be5cfd199b4f.png",
+  "https://media.rightmove.co.uk/property-photo/d8154739c/92514999/d8154739c1e8ac56b4fef57010b7f700.png",
+  "https://media.rightmove.co.uk/property-photo/45639f740/92514999/45639f7404338f7a15ac3d34eb1b5a5d.png",
+  "https://media.rightmove.co.uk/property-photo/2e92fa511/92514999/2e92fa511d42e61f793495e0ecda783e.png",
+  "https://media.rightmove.co.uk/property-photo/29f94c41c/92514999/29f94c41c27dd8fbd480418fe9656005.png",
+  "https://media.rightmove.co.uk/property-photo/40686d726/92514999/40686d726e11b42012f5ffb911ddfd9d.png",
+  "https://media.rightmove.co.uk/property-photo/3fab9b837/92514999/3fab9b837cdf8e53c8b35d035e6144a8.png",
+  "https://media.rightmove.co.uk/property-photo/ce5bb63bf/92514999/ce5bb63bf351a7a34ec24d89a1887b0e.png",
+  "https://media.rightmove.co.uk/property-photo/9b3dac744/92514999/9b3dac74486cab0eab8eac5a664f334d.png",
+  "https://media.rightmove.co.uk/property-photo/075703634/92514999/075703634856acf0f90f265c376d46fe.png",
+  "https://media.rightmove.co.uk/property-photo/4a7042047/92514999/4a70420473256e4d13e547348b60b125.png",
+  "https://media.rightmove.co.uk/property-photo/c462d69ea/92514999/c462d69eadd8964eb5cac5f32c19c8ed.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 0.6180788311965953,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 1.7266337976137647,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 2.4977735054821166,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "VGL Properties Limited, Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS2",
+ "scrapedAt": "2026-08-30T10:24:13.916Z"
+}

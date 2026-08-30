@@ -1,0 +1,76 @@
+{
+ "id": "92521023",
+ "displayAddress": "Thornton Road, Fallowfield",
+ "outcode": "M14",
+ "incode": "7NT",
+ "latitude": 53.44955,
+ "longitude": -2.235442,
+ "priceAmount": 1200,
+ "priceLabel": "£1,200 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92521023",
+ "area": "Fallowfield",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Semi-Detached",
+ "details": {
+  "propertyType": "Semi-Detached",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 657,
+  "sizeSqM": 61,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 1384,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": 657,
+ "sizeSqM": 61,
+ "description": "2 Bedroom House Available Now! \n\n•\t2 Bedrooms\n•\t1 Bathroom \n•\tPerfect for Working Professionals or a Family \n•\tWork & Letting References Required for Each Tenant \n•\tGuarantor Required for Each Tenant \n\nPlease email if you`d like to arrange a viewing! \n\nEPC: D\nCouncil Tax Band: A\nHeating: Gas Central Heating\nElectric: MAINS\nWater: MAINS\nSewerage: MAINS\nMax Broadband Speed (Upload/Download) : U900 /D1000\nMobile: Likely for all networks\nParking: On Road\nRent per month: £1200 \nDeposit total: £1384\nFlooded in last years: NO \n\nNotice\nAll photographs are provided for guidance only.\n\nRedress scheme provided by: The Property Ombudsman (T00515)\nClient Money Protection provided by: Propertymark  (C0013078)",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/228c84df8/92521023/228c84df85aaba09a8c4b075771b6452.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3e8371e29/92521023/3e8371e2984f9e224f51b292a5f68dff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8280392c1/92521023/8280392c1d28b6a1ed521bd7f13efb1b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8f2f593c1/92521023/8f2f593c1da589ccc1d72963f7d6b915.jpeg",
+  "https://media.rightmove.co.uk/property-photo/072df4f35/92521023/072df4f3558ba40ae282a0d2abb719c0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8e8cee6f3/92521023/8e8cee6f39e0e2154e4e42482a96b7fe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a13099b45/92521023/a13099b4501809584e22a9bf620a265a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/689d4db6b/92521023/689d4db6bfd7205538af259f36435fa0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e1ae7b7ef/92521023/e1ae7b7ef904eaed0175c53fddd2e9f4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/830061cf9/92521023/830061cf9674e19b53b9e6a101f1b95e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d11f81f7/92521023/6d11f81f72e9129286c0e9f4282f3e29.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c4b8c2658/92521023/c4b8c265816aaefb3b53a8d362ae87f3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/43ba8fadb/92521023/43ba8fadb348e898b19abc1dfe3c3597.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Withington Tram Stop",
+   "miles": 1.2961991821756162,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 1.427803895205104,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "St Werburgh's Road Station",
+   "miles": 1.4505355718503246,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Flax & Co, Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M14",
+ "scrapedAt": "2026-08-30T10:18:02.598Z"
+}

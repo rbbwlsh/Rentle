@@ -1,0 +1,82 @@
+{
+ "id": "92390415",
+ "displayAddress": "Millar Place, Edinburgh, Midlothian, EH10",
+ "outcode": "EH10",
+ "incode": "5HJ",
+ "latitude": 55.926796,
+ "longitude": -3.21178,
+ "priceAmount": 1350,
+ "priceLabel": "£1,350 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92390415",
+ "area": "Edinburgh, Midlothian",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "16/10/2026",
+  "deposit": 1950,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Superbly Presented One Bedroom Ground Floor Flat in Morningside\n\nThis beautifully refurbished ground floor property is ideally located in the heart of Morningside, one of Edinburgh’s most sought-after neighbourhoods. With an excellent range of local shops, cafés, and amenities on the doorstep, and frequent bus services providing swift access to the City Centre in around ten minutes, the property offers both convenience and charm.\n\nThe accommodation comprises:\n\nA bright and spacious open-plan living, dining, and modern fitted kitchen area\n\nGenerous double bedroom\n\nStylish bathroom with shower cubicle\n\nAdditional box room, ideal for occasional guests, a study, or home office\n\nFurther benefits include gas central heating and access to a well-maintained shared garden.\n\nDeposit : £1950\nEPC Rating: C\nCouncil Tax Band: B\nLandlord Registration: 1226394/230/23042\nAdditional costs: council tax and water charge / utilities / broadband (if applicable)\nHeating Type: Gas Central Heating \nProperty Floor: Ground\nUtilities : Credit Meter\nElectricity Supplier: / Gas Supplier: TBC\nBroadband Type: Ultrafast Available\nParking Type: Zoned permit parking (at additional cost from local council)\nScottish Letting Agent Registration Number: LARN181202",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/291953929/92390415/291953929fe1bb762dc8c5ae0a0bc8c5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/011ae5e29/92390415/011ae5e29d8e21e6dedc4d83341f6407.jpeg",
+  "https://media.rightmove.co.uk/property-photo/23e6df8d4/92390415/23e6df8d4d261b2fe1e9abe6207cd21c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4a941895c/92390415/4a941895c7395b354176e8fc659a617b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d0b7b28d1/92390415/d0b7b28d1c09645e49641a6894a85e33.jpeg",
+  "https://media.rightmove.co.uk/property-photo/76ad919c9/92390415/76ad919c9a2256e2bee795089e32af6a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b7999ee04/92390415/b7999ee047958cf0322167a222664379.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ae50ed322/92390415/ae50ed32288d4c8c654a0cbc7743dcca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dbb416a86/92390415/dbb416a86cbfb76842e2bdd3fe47da3a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ddb701ac4/92390415/ddb701ac435a798e2325d13b2a9d08e6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dcec24fea/92390415/dcec24feaa0fe425bfc6358e3253387a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d1a676138/92390415/d1a6761388a45acfd9bd5339074764d0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7b1138c08/92390415/7b1138c0873c2f5a5941e6f56f4f048f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/821cf6714/92390415/821cf6714f52e85f25daf24e465062f8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/461ed4859/92390415/461ed4859b32b5221c32d3a631237a77.jpeg",
+  "https://media.rightmove.co.uk/property-photo/837a32863/92390415/837a328634fdc118af122454aad49b6e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a41dcac61/92390415/a41dcac6150716ccf0817ca512ca866a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aecb0bc17/92390415/aecb0bc1707442b257cd266aae4dc8f2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4bd62e62d/92390415/4bd62e62d6ed8090d1623805ff31a13c.jpeg"
+ ],
+ "imageCount": 19,
+ "nearestStations": [
+  {
+   "name": "Slateford Station",
+   "miles": 1.2304771360783953,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.3079942544976033,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 1.942696132358298,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "DJ Alexander, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH10",
+ "scrapedAt": "2026-08-30T11:04:14.525Z"
+}

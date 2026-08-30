@@ -1,0 +1,82 @@
+{
+ "id": "92484039",
+ "displayAddress": "Alpine Court, Withington, Palatine Road, Manchester, M20",
+ "outcode": "M20",
+ "incode": "3JA",
+ "latitude": 53.432648,
+ "longitude": -2.229975,
+ "priceAmount": 1450,
+ "priceLabel": "£1,450 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92484039",
+ "area": "Withington, Manchester",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 759,
+  "sizeSqM": 71,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "09/10/2026",
+  "deposit": 1673,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": 759,
+ "sizeSqM": 71,
+ "description": "Available OCTOBER. IMPRESSIVELY PROPORTIONED and BEAUTIFULLY PRESENTED apartment occupying a RAISED GROUND floor position within an attractive PERIOD CONVERSION, located within a stones throw of FASHIONABLE WEST DIDSBURY village. 759 sq ft. The accommodation is FULLY FURNISHED and reveals an entrance hallway with storage, a stunning open plan living & dining area with bay window, stylish kitchen with wooden tops, two well proportioned double bedrooms served by a modern bathroom. Externally there is allocated parking.",
+ "keyFeatures": [
+  "Available OCTOBER",
+  "Two Bedroom Apartment",
+  "Fully Furnished",
+  "Large Bedrooms",
+  "Modern Kitchen",
+  "Off Road Parking",
+  "Great Location",
+  "Five Week Deposit"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/77b5f26eb/92484039/77b5f26eb0352089c5d0a9dd90d08c34.jpeg",
+  "https://media.rightmove.co.uk/property-photo/67c18283c/92484039/67c18283cf5db070fe21eb2d43cb55d8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ba5dbeeb8/92484039/ba5dbeeb8c39fb03b58a2f58b630fcf5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ae8265d8/92484039/8ae8265d8bcf46d90eac81834b4bfe6b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7133bf030/92484039/7133bf030bc7f95bae6f8935b547aeec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9b9c7195c/92484039/9b9c7195c062fe38e75c6244a72a0cff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a532b0396/92484039/a532b0396852a63548c915fdebc8551c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8956ccf37/92484039/8956ccf37e76d80aef60ae7c5d1890df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3547a28f8/92484039/3547a28f8432d26bffac7bdfaf0bc49a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c5d836bf3/92484039/c5d836bf39c92f660ac9ecfa846b7743.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 0.5018818859800983,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 0.6160676106053519,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Withington Tram Stop",
+   "miles": 0.7945656348748098,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Philip James Manchester, Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M20",
+ "scrapedAt": "2026-08-30T10:18:46.774Z"
+}

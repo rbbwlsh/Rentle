@@ -1,0 +1,92 @@
+{
+ "id": "92386185",
+ "displayAddress": "Mercer West Madison East, LS2 7FA",
+ "outcode": "LS2",
+ "incode": "7ER",
+ "latitude": 53.79663,
+ "longitude": -1.53268,
+ "priceAmount": 1355,
+ "priceLabel": "£1,355 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92386185",
+ "area": "Mercer West Madison East",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "07/09/2026",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Modern two-bedroom apartment designed for professionals in the heart of Leeds. At Mercer West & Madison East, enjoy spacious layouts, premium resident amenities and a professionally managed community, all within easy reach of the city centre.\n\nWhether you're relocating, commuting or simply looking for a place to call home, Mercer West & Madison East offers modern open-plan living with a contemporary fitted kitchen, integrated appliances, stylish bathroom, high-quality finishes and superfast Wi-Fi included in your rent. \n\nResidents also enjoy exclusive access to a fully equipped gym, co-working spaces,  residents' lounge, courtyard, secure parcel collection, cycle storage and a year-round programme of resident events. \n\nPerfectly positioned close to Leeds Train Station, major employers, hospitals, universities, restaurants and shopping, with a coffee shop just moments from your doorstep, everything you need for modern city living is within easy reach. \n\nPlease note: Images shown are for illustrative purposes and may not reflect the exact apartment available. Furnishings and layouts may vary.\n\nAdditional costs apply.\nTo check broadband and mobile phone coverage, please visit the Ofcom checker: ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/Ofcom-checker\n\nBook your viewing today and discover your next home. \r\n\t\t\r\n\t\tTo check broadband and mobile phone coverage please visit Ofcom here ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/ofcom-checker",
+ "keyFeatures": [
+  "Furnished &amp; Unfurnished Apartments",
+  "City Centre Location ",
+  "Onsite Resident gym",
+  "250 Mbps superfast broadband included",
+  "Onsite management &amp; maintenance team ",
+  "Full Calendar of Exclusive Resident Events ",
+  "Outstanding onsite Amenities ",
+  "Pet-Friendly (T&amp;Cs apply)"
+ ],
+ "tags": [
+  "BUILT_FOR_RENTERS",
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/38b02bf34/92386185/38b02bf3433eb0be235410844bb4d744.jpeg",
+  "https://media.rightmove.co.uk/property-photo/81ef3c70c/92386185/81ef3c70c9a906def750fd67c56c7046.jpeg",
+  "https://media.rightmove.co.uk/property-photo/07ef62685/92386185/07ef62685f4baef85c7cd4c3c3f1c20a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/05f6957ab/92386185/05f6957ab4bef38da58ff45ca0ded8a4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8a7823399/92386185/8a78233993f902e69d40eb499851e44e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/913eaa675/92386185/913eaa67508a2dbd56accde5b1bac688.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6290fd1dc/92386185/6290fd1dc306103647b823a7d0e126b7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3e0eb7684/92386185/3e0eb768406b6fd0df9826e5995dac93.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fbce73eec/92386185/fbce73eec3f9fb0101916e52b38265bb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c8717d0f1/92386185/c8717d0f1b172577ae52e5dfa1071f3c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8d6de4cae/92386185/8d6de4cae2f67d23951a575a1e1d2af1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bfdf1f9eb/92386185/bfdf1f9ebeedba96d36202e4e57b3dfd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d36611563/92386185/d366115632ab0c01aae4b41b998b5ef2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ba1ac6b21/92386185/ba1ac6b215b7aa88ebbd2c9ec7d4d517.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a629fbfc7/92386185/a629fbfc7c4629a3859642c80c04866a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/64ff69478/92386185/64ff694788eb798256c32e82db6b2ce2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/12176a25b/92386185/12176a25b1b738d046800824acedfa94.jpeg"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 0.6193397322925812,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 2.1404965445024597,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 2.916360762171356,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Hestia, Mercer West & Madison East",
+ "city": "Leeds",
+ "sourceOutcode": "LS2",
+ "scrapedAt": "2026-08-30T10:23:52.129Z"
+}

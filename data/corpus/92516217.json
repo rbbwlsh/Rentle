@@ -1,0 +1,82 @@
+{
+ "id": "92516217",
+ "displayAddress": "Stratford Avenue, West Didsbury, M20",
+ "outcode": "M20",
+ "incode": "2LH",
+ "latitude": 53.42482,
+ "longitude": -2.2439,
+ "priceAmount": 2300,
+ "priceLabel": "£2,300 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92516217",
+ "area": "West Didsbury",
+ "bedrooms": 4,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 4,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 2653,
+  "minimumTermMonths": 0,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Situated on the highly sought-after Stratford Avenue, just off the vibrant Burton Road in the heart of West Didsbury, this spacious four-bedroom property offers an ideal home for families looking to enjoy both comfort and convenience.\n\nThe property features four well-proportioned bedrooms, a bright and welcoming living room, a modern kitchen with ample storage open to the dining room, one family bathroom, and the added convenience of a separate downstairs WC. The generous layout provides plenty of space for family living, working from home, or entertaining guests.\n\nLocated within easy reach of excellent local schools, parks, caf-s, restaurants, and independent shops, the property also benefits from superb transport links, including the Metrolink and major road networks, making commuting into Manchester city centre simple.\n\nThis fantastic home combines generous living space with a prime West Didsbury location, making it perfect for families seeking a friendly neighbourhood with everything on their doorstep.",
+ "keyFeatures": [
+  "AVAILABLE NOW",
+  "Unfurnished",
+  "Heart of West Didsbury",
+  "Open Plan Kitchen Diner",
+  "Modern Bathroom With a Seperate WC",
+  "Generous Four Double Bedrooms",
+  "Close to Highly Regarded Schools and Local Parks",
+  "Excellent Transport Links"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/160e64676/92516217/160e646761705ce4ab95e49e4e3aa5b2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/96de73408/92516217/96de734084bc289685ae21be3049545c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a88b1c0cb/92516217/a88b1c0cb50fc2da9ff13812a3732bfc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3ba202982/92516217/3ba20298292cad07a40a793194cc9e89.jpeg",
+  "https://media.rightmove.co.uk/property-photo/81451c5e7/92516217/81451c5e7b2a9218f0de91d956fe4aff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/53b82c5de/92516217/53b82c5de7477288a5bacf30d866d09d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/897be748c/92516217/897be748cd92a78e07ffb1d4b93009d0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/85871f8af/92516217/85871f8af7a6ec90ab8142d1a44879bc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ed7a061fa/92516217/ed7a061faa1c57b286da44679a99b1c5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d6b34efee/92516217/d6b34efeead893269062164e50345770.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 0.317812051013899,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 0.32827438337694276,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Withington Tram Stop",
+   "miles": 0.5881870651050254,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Montrose Properties Ltd, West Didsbury",
+ "city": "Manchester",
+ "sourceOutcode": "M20",
+ "scrapedAt": "2026-08-30T10:18:40.597Z"
+}

@@ -1,0 +1,88 @@
+{
+ "id": "90543510",
+ "displayAddress": "K2, Albion Street, Leeds",
+ "outcode": "LS2",
+ "incode": "8ES",
+ "latitude": 53.800598,
+ "longitude": -1.5454,
+ "priceAmount": 1300,
+ "priceLabel": "£1,300 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90543510",
+ "area": "Leeds",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 1500,
+  "minimumTermMonths": null,
+  "councilTaxBand": "E"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Want to be in the heart of the city centre? You couldn't get more central than the popular K2 development! \n\nThis furnished property in the highly desired K2 development is well presented and comprises of entrance hall with storage cupboard, two double bedrooms - one with en suite, separate house bathroom, open plan living/kitchen area and balcony offering stunning views of the city.\n\nAvailable in July. Call us on   to book your viewing!\n\n*SECURITY DEPOSIT EQUIVALENT TO 5 WEEKS RENT*\n\nTWO BEDROOM FURNISHED PROPERTY TO RENT ON THE 6TH FLOOR IN K2, WITH TWO BEDROOMS AND TWO BATHROOMS.  DON'T MISS OUT ON THIS FANTASITC APARTMENT IN RIGHT IN THE HEART OF THE CITY!  CALL NOW   TO BOOK YOUR VIEWING",
+ "keyFeatures": [
+  "TWO BED / TWO BATH APARTMENT",
+  "LS1 LOCATION - K2 DEVELOPMENT",
+  "DEPOSIT EQUIVALENT TO 5 WEEKS RENT",
+  "6TH FLOOR",
+  "FURNISHED",
+  "PRIVATE BALCONY",
+  "EPC: D",
+  "COUNCIL TAX BAND: E",
+  "AVAILABLE IN JULY",
+  "0.4 MILES FROM LEEDS UNIVERSITY"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d7056b3a1/90543510/d7056b3a1f0cd924e5dc4b9b0a955471.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f63e14898/90543510/f63e148983b4ce1f2bbdf669e9f5f8bc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d2b0b8d3c/90543510/d2b0b8d3ce980b9513ba559a73a6c13d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/96bdfe050/90543510/96bdfe0503d4a50473e25e346d296750.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6aedf07d3/90543510/6aedf07d36f08734d5bcb4cbc53119b3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4ee09189f/90543510/4ee09189f02197564db32fad1731e154.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bfc682d53/90543510/bfc682d53ecc006cd250514af0a8da96.jpeg",
+  "https://media.rightmove.co.uk/property-photo/464ff12cc/90543510/464ff12ccac7dedebd36aff348c5a5cd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dc85a4b2b/90543510/dc85a4b2b41e5a8c424c6263608ba30a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6c1d3689f/90543510/6c1d3689fcaa791ac2cb65a691a5276f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9d26f69c0/90543510/9d26f69c00531ea450785718ff1732d3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5d990c569/90543510/5d990c56998d63aad5d7c4a8a28a1e3a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/69383bae4/90543510/69383bae438f0e95871b4cf7f0a0c064.jpeg",
+  "https://media.rightmove.co.uk/property-photo/27a7b7229/90543510/27a7b7229bd0448dbf4181192254ede2.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 0.4625609472448854,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 1.5521725489582094,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 2.328342701878559,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Hunters, Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS2",
+ "scrapedAt": "2026-08-30T10:24:15.405Z"
+}

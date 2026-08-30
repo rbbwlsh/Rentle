@@ -1,0 +1,82 @@
+{
+ "id": "92076696",
+ "displayAddress": "Forbes Road, Marchmont, Edinburgh",
+ "outcode": "EH10",
+ "incode": "4EE",
+ "latitude": 55.936193,
+ "longitude": -3.207312,
+ "priceAmount": 2500,
+ "priceLabel": "£2,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92076696",
+ "area": "Marchmont, Edinburgh",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "07/09/2026",
+  "deposit": 2500,
+  "minimumTermMonths": 6,
+  "councilTaxBand": "D"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A generously proportioned 3 bedroom (Non HMO), furnished flat in the heart of Bruntsfield.\n\nThe bright and airy property is situated on the ground floor and the accommodation comprises: entrance hallway, living room, kitchen with integrated appliances and leading out to a patio and communal garden. Three double bedrooms and a lovely shower room.\n\nThe property further benefits from gas central heating, good storage, communal garden and residents permit parking.\n\nForbes Road sits within the established Bruntsfield neighbourhood, surrounded by an excellent range of local amenities and everyday conveniences. The area is renowned for its village-like atmosphere, independent cafés, shops and restaurants, while Bruntsfield Links and The Meadows are close by, providing some of the city’s most popular green spaces. Excellent transport links provide easy access to Edinburgh city centre and beyond.\n\nLARN1904067",
+ "keyFeatures": [
+  "Fridge Freezer",
+  "Secure Entry Phone",
+  "Shower",
+  "Washing Machine"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/6d0713cd4/92076696/6d0713cd466cad249555963ce6c1feb7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/29ef73401/92076696/29ef73401170847afcce90bf7bb64f28.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a3781215d/92076696/a3781215dd12488b7f1036572eee61e1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6ccaddeb0/92076696/6ccaddeb04a9ae767bd2319be063fc15.jpeg",
+  "https://media.rightmove.co.uk/property-photo/14ce26b27/92076696/14ce26b27eee5aabf96a3e15ffda1a26.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dc0bbd102/92076696/dc0bbd1023acc853352ba4da53f47672.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1b951bd46/92076696/1b951bd460cd09a4a21370d24b08b2b1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2863da176/92076696/2863da176c4c4da751224008989d1986.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b1e87b735/92076696/b1e87b735d087b63a20fe646ced5e7d2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dfb2c54bf/92076696/dfb2c54bff712a97a5f099b1d216359a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/42df2c8c0/92076696/42df2c8c0a7f81d774f5269565914932.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ad4bfb4e7/92076696/ad4bfb4e757839c17220058b52b218c3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/15bb2e7c8/92076696/15bb2e7c853b8d30a75f09ba05519505.jpeg",
+  "https://media.rightmove.co.uk/property-photo/67c21bcb8/92076696/67c21bcb846d2607747a4ad04b4baeb4.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Haymarket Station",
+   "miles": 0.7606446316685821,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 1.2887564125422823,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 1.552856657317965,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Murray & Currie, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH10",
+ "scrapedAt": "2026-08-30T11:04:36.362Z"
+}

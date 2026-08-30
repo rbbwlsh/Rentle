@@ -1,0 +1,72 @@
+{
+ "id": "92494386",
+ "displayAddress": "Advocates Close, Edinburgh, EH1",
+ "outcode": "EH1",
+ "incode": "1PS",
+ "latitude": 55.94995,
+ "longitude": -3.191181,
+ "priceAmount": 2200,
+ "priceLabel": "£2,200 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92494386",
+ "area": "Edinburgh",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "03/09/2026",
+  "deposit": 2400,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Property Reference: 3010754.\n\nThis beautiful and spacious duplex apartment has stunning views to Princess Street and the Scott Monument. The accommodation comprises of two generously sized double bedrooms, limestone tiled bathroom with mains shower over bath, fully fitted modern kitchen with all mod cons and large well-presented living room. The apartment is well located for all city centre amenities and is presented to a very high standard. It is fully furnished as per the photos and viewing is highly recommended. Deposit is £2,400 and will be held in a government approved deposit scheme.\n\nSummary & Exclusions:\n- Rent Amount: £2,200.00 per month (£507.69 per week)\n- Deposit / Bond: £2,400.00\n- 2 Bedrooms\n- 1 Bathrooms\n- Property comes furnished\n- Available to move in from 03 September 2026\n- Maximum number of tenants is 2\n- Students welcome to enquire\n- No Smokers\n- Bills not included\n- No Parking Available\n- No Garden Access\n- EPC Rating: D\n\n  If calling, please quote reference: 3010754  \n\nFees:\nYou will not be charged any admin fees.\n\n ** Contact today to book a viewing and have the landlord show you round! ** \nRequest Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.\nOpenRent is on the Scottish Letting Agent Register, registration number LARN1809026\nThe landlord is on the Scottish Landlord Register, registration number 1211188/230/25032",
+ "keyFeatures": [
+  "No Agent Fees",
+  "Students Can Enquire",
+  "Property Reference Number: 3010754"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/2e1764174/92494386/2e17641742a0e3a9c648357549a4ba84.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5fe4668d6/92494386/5fe4668d66260b3bcf77e9aa67d40c11.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8565be33e/92494386/8565be33e2177057cacc33de1edf877f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7ec194f79/92494386/7ec194f792c47a3ad4bbc315acde216a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e6d455aea/92494386/e6d455aeaa8e857bb5e483167cf61365.jpeg"
+ ],
+ "imageCount": 5,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.15267781242868164,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.0931938438582423,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 2.5946122209975817,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "OpenRent, London",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH1",
+ "scrapedAt": "2026-08-30T11:03:38.626Z"
+}

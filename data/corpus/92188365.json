@@ -1,0 +1,85 @@
+{
+ "id": "92188365",
+ "displayAddress": "Myreside Court, Edinburgh, EH10",
+ "outcode": "EH10",
+ "incode": "5LX",
+ "latitude": 55.925661,
+ "longitude": -3.225339,
+ "priceAmount": 1400,
+ "priceLabel": "£1,400 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92188365",
+ "area": "Edinburgh",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "22/09/2026",
+  "deposit": 500,
+  "minimumTermMonths": null,
+  "councilTaxBand": "E"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "DEPOSIT £500 - A two bedroom furnished flat in Edinburgh. TO BOOK A VIEWING ONLINE PLEASE FILL IN THE CONTACT AGENT FORM. \n\n\rA two bedroom furnished flat in Edinburgh comprising of lounge area with dining table, fitted kitchen, two bedrooms (one double, one single) and bathrrom with bath over shower. The property further benefits from gas central heating and street parking.\n\nDeposit : £500\nEPC Rating: C\nCouncil Tax Band: E\nLandlord Registration:  47643/230/26440\nAdditional costs: council tax and water charge / utilities / broadband (if applicable) / Garden Waste Bin from local authority at additional cost (if applicable) \nHeating Type: Gas Central Heating \nProperty Floor: Upper Floor\nUtilities : Credit Meter. \nElectricity Supplier: TBC\n Gas Supplier: TBC\nBroadband Type: Copper Available / Fibre to Cabinet Available *as obtained from    Further information regarding broadband and phone signal can be obtained from the Ofcom broadband and mobile coverage checker - Broadband and mobile coverage checker - Ofcom \nParking Type: Free on street parking (THIS CAN BE MORE THAN ONE) \nPlanning permission: Please check this properties local authority planning website for any planning which may impact the property or local area in future\nAll statements contained herein are believed to be correct but are not guaranteed and interested parties must satisfy themselves as to their accuracy.\nLetting Agent Registration Number: LARN1812026",
+ "keyFeatures": [
+  "Two Total Bedrooms",
+  "One Double Bedroom",
+  "One Single Bedroom",
+  "One Reception Room",
+  "One Bathroom",
+  "Apartment/Flat",
+  "Street Parking",
+  "Town/City",
+  "Furnished",
+  "Long Let"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/82d9e8097/92188365/82d9e809732b643f11171b7f2efb67db.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3fde14000/92188365/3fde14000d7081645b6c1c4edae6bec9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e75f0f0ab/92188365/e75f0f0ab5b089e058a76ba0636c4a6c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c59c14326/92188365/c59c14326c46da3c99a11d20423b6b4d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f41f64a1/92188365/5f41f64a10a65b533f3bc14a7d8eadd0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/96e890971/92188365/96e89097187e499d7259337d818e9f2d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1ca3d01e6/92188365/1ca3d01e675863b7b7f2374ba1ec91c0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/efb6111e2/92188365/efb6111e249696d1638160a92716b049.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ecc6f58f5/92188365/ecc6f58f55a2df5530505c42c733798b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/58383cce7/92188365/58383cce7621eca6b9be762e4b24d636.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3fae55982/92188365/3fae5598217fd4dcd87bf8d76b96a636.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Slateford Station",
+   "miles": 0.7066295353198482,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.3916849705499124,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Kingsknowe Station",
+   "miles": 1.6167323691289364,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "DJ Alexander, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH10",
+ "scrapedAt": "2026-08-30T11:04:23.869Z"
+}

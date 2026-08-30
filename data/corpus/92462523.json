@@ -1,0 +1,78 @@
+{
+ "id": "92462523",
+ "displayAddress": "Anderson Avenue, Leeds",
+ "outcode": "LS8",
+ "incode": "5EG",
+ "latitude": 53.80841,
+ "longitude": -1.525372,
+ "priceAmount": 650,
+ "priceLabel": "£650 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92462523",
+ "area": "Leeds",
+ "bedrooms": null,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": null,
+  "bathrooms": 1,
+  "sizeSqFt": 248,
+  "sizeSqM": 23,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 750,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": 248,
+ "sizeSqM": 23,
+ "description": "Stoneacre offers a well-presented one-bedroom studio flat, offered fully furnished and including white goods. The property provides a practical and comfortable living space. Conveniently located close to local shops, amenities and transport links.\n\nAvailable immediately – early viewing is highly recommended.",
+ "keyFeatures": [
+  "STUDIO FLAT",
+  "1 BATHROOM",
+  "FURNISHED",
+  "WHITE GOODS",
+  "COUNCIL TAX - A",
+  "EPC - D",
+  "AVAILABLE NOW!"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/16be2b1d3/92462523/16be2b1d378cfb2f571dabd5b9a8e8a3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4e0a395f9/92462523/4e0a395f964f1f297650914204965a7c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3a1aa445b/92462523/3a1aa445ba4db4abad843b96ec5521c1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e9be42709/92462523/e9be42709f40e79923e7e18f7917208d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d551e1195/92462523/d551e1195cb47975251d33adfe1137d6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a344e7591/92462523/a344e75910a3896a3cd06ac4323873d8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/765abfcab/92462523/765abfcab9b7060bfb544ea5c41d3a0a.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 1.33747370839544,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 2.17158446649579,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 2.890648115926562,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Stoneacre Properties, Chapel Allerton",
+ "city": "Leeds",
+ "sourceOutcode": "LS8",
+ "scrapedAt": "2026-08-30T10:25:03.959Z"
+}

@@ -1,0 +1,79 @@
+{
+ "id": "92543334",
+ "displayAddress": "Falkland Road, Finsbury Park",
+ "outcode": "N8",
+ "incode": "0NU",
+ "latitude": 51.58565,
+ "longitude": -0.10638,
+ "priceAmount": 850,
+ "priceLabel": "£850 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92543334",
+ "area": "Finsbury Park",
+ "bedrooms": null,
+ "bathrooms": null,
+ "propertySubType": "House Share",
+ "details": {
+  "propertyType": "House Share",
+  "bedrooms": null,
+  "bathrooms": null,
+  "sizeSqFt": 119,
+  "sizeSqM": 11,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "07/10/2026",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": 119,
+ "sizeSqM": 11,
+ "description": "ALL INCLUSIVE OF BILLS!  \n\nStylish double bedroom within a friendly Victorian house share, close to Finsbury Park and Turnpike Lane stations and multiple shops, restaurants and bars on Harringay Green Lanes. \n\nThe room is fully furnished, there is shared use of fully fitted kitchen/diners, two bathrooms, gas central heating, a washing machine is provided and a large communal garden is accessible.  \n\nMaximum of 1 Occupant permitted. \n\nContact Ariston Property to arrange a viewing.",
+ "keyFeatures": [
+  "All Bills Included",
+  "Room in a House Share",
+  "Communal Kitchen",
+  "Communal Shower",
+  "Communal WC",
+  "Communal Garden",
+  "Communal Washing Machine",
+  "Council Tax Included",
+  "Electricity Included",
+  "WIFI Included"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a9a26aff8/92543334/a9a26aff830cf29231e8450d5347896d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/def80e03d/92543334/def80e03d72d45974a517cf3cc011d7d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/18f997967/92543334/18f997967592bd87e7903a1945144b0e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ba3738b7b/92543334/ba3738b7b3750d5e2b845023b8dd8ce4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0cec6c20e/92543334/0cec6c20efd073890300def680299b79.jpeg"
+ ],
+ "imageCount": 5,
+ "nearestStations": [
+  {
+   "name": "Hornsey Station",
+   "miles": 0.22679359942141522,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Turnpike Lane Station",
+   "miles": 0.36183841230634717,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Harringay Station",
+   "miles": 0.5999384449365763,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Ariston Property, London",
+ "city": "London",
+ "sourceOutcode": "N8",
+ "scrapedAt": "2026-08-30T10:13:42.021Z"
+}

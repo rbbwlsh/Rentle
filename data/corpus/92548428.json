@@ -1,0 +1,82 @@
+{
+ "id": "92548428",
+ "displayAddress": "Hallmark Tower, 6 Cheetham Hill Road, Manchester, Lancashire, M4",
+ "outcode": "M4",
+ "incode": "4FZ",
+ "latitude": 53.490407,
+ "longitude": -2.241378,
+ "priceAmount": 1450,
+ "priceLabel": "£1,450 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92548428",
+ "area": "Manchester, Lancashire",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "14/10/2026",
+  "deposit": 1610,
+  "minimumTermMonths": 0,
+  "councilTaxBand": "D"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This stunning brand new apartment is part of the Hallmark Tower Development. The apartment consists of a fully furnished 2 bedroom, open plan kitchen/lounge, private balcony and a secure private parking area.\nThe development includes a concierge service as well as luxurious and comfortable communal lounge spaces as well as an communal open roof terrace. The development it just a few minutes walk from Manchester Victoria train station and 1 mile from Manchester Piccadilly.\n\nIf you are looking for a comfortable, fresh next home to live, this apartment will be suitable for you.\n\nThese particulars, whilst believed to be accurate are set out as a general outline only for guidance and do not constitute any part of an offer or contract. Intending tenants or purchasers should not rely on them as statements of representation of fact, but must satisfy themselves by inspection or otherwise as to their accuracy. All measurements quoted are approximate and any images shown are copyright.",
+ "keyFeatures": [
+  "kitchen",
+  "Lounge Dining Room",
+  "2 Bedrooms",
+  "Open Living Area",
+  "Main bathroom",
+  "Ensuite",
+  "Balcony",
+  "x1 Car Space",
+  "Concierge",
+  "Furnished"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/6e1024e17/92548428/6e1024e17afb336d6e5be3b85f50179c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b68be54d3/92548428/b68be54d3f3b637162015fab58d9b23b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4301ee918/92548428/4301ee91847d9a386cee5b47ad487821.jpeg",
+  "https://media.rightmove.co.uk/property-photo/67890c96d/92548428/67890c96d635f3adc9514060730e571c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/50bef5ee5/92548428/50bef5ee5a77642c35e462ee910374dc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/961b612b5/92548428/961b612b502d04dcf527262c610f39fa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/69e9ed177/92548428/69e9ed177a3445a64c17a3c80b15c74e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b6ae63fd9/92548428/b6ae63fd9cf2260bc1deb54d3b7f764c.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Manchester Victoria Station",
+   "miles": 0.23230363366027565,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Market Street Tram Stop",
+   "miles": 0.5949469297643135,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Mosley Street Tram Stop",
+   "miles": 0.6921602341328025,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "The Estate Agent Manchester, Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M4",
+ "scrapedAt": "2026-08-30T10:17:39.930Z"
+}

@@ -1,0 +1,85 @@
+{
+ "id": "92532768",
+ "displayAddress": "Central Road, \nLeeds, LS1",
+ "outcode": "LS1",
+ "incode": "6BX",
+ "latitude": 53.796508,
+ "longitude": -1.541488,
+ "priceAmount": 667,
+ "priceLabel": "£667 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92532768",
+ "area": "Leeds",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": null,
+  "minimumTermMonths": 12,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "** AVAILABLE TO STUDENTS ONLY**\n\n**SUMMER SALE: £1000 CASHABCK. T&C'S APPLY.**\n\nChestertons are delighted to present The Store House, a modern purpose-built student accommodation development located in the heart of Leeds city centre. Ideally positioned within walking distance of both the University of Leeds and Leeds Beckett University, the scheme offers contemporary student living in one of the UK’s most vibrant university cities.\n\nEn-suite cosy rooms at The Store House provide your own private space, whilst still being part of a flat - sharing with 4 to 8 other students. The shared kitchen and living area make it easy to cook, hang out, and have fun.\n\nThese apartments come in a variety of layouts and sizes. You can choose from mixed or single-gender flats, and some have a terrace.\n\nResidents benefit from an impressive range of on-site facilities including dedicated study areas, a fully equipped gym, cinema room, games lounge, private dining space, landscaped courtyard, rooftop terrace and secure cycle storage.\n\nEach apartment is fully furnished to a high standard and includes high-speed Wi-Fi, with all utility bills included for added convenience. A dedicated on-site management team provides round-the-clock support, creating a safe and welcoming community throughout the academic year.\n\nIdeally located close to Leeds’ universities, transport links, shops, restaurants and cultural attractions, The Store House offers students an exceptional living experience in the centre of the city.\n\nLocation:\n\nSituated in a prime central Leeds location, The Store House provides convenient access to university campuses, retail destinations, cafés, restaurants, entertainment venues and excellent transport connections, making it an ideal base for student life.\n\nOur China Desk is here for you, if Chinese is your preferred language, please get in touch via WeChat (ChestertonsLettings)",
+ "keyFeatures": [
+  "** AVAILABLE TO STUDENTS ONLY** ",
+  "Development Features:",
+  "Prime Leeds city centre location",
+  "Walking distance to major universities",
+  "Fully furnished accommodation",
+  "Gym",
+  "Cinema room",
+  "Study spaces",
+  "Games lounge",
+  "Rooftop terrace"
+ ],
+ "tags": [
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/0b9695449/92532768/0b9695449b4d59bad6560935816958f4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/787c5876d/92532768/787c5876dc11ee69d91413a35329a134.jpeg",
+  "https://media.rightmove.co.uk/property-photo/98d24f2ee/92532768/98d24f2ee7634db0f5fe2b08e2ac7f6a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1da3aa70e/92532768/1da3aa70ec7e31b60c4df8b3c26d289e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f15f7f443/92532768/f15f7f443b6dfcf3800a3ea7187fd616.jpeg",
+  "https://media.rightmove.co.uk/property-photo/80251676a/92532768/80251676ad5a4ea5bc06780203bfd928.jpeg",
+  "https://media.rightmove.co.uk/property-photo/545acb9d1/92532768/545acb9d137bfa2d8d55b2e50ecaa135.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b16a3b432/92532768/b16a3b43240163022cbf179bfa7290c0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0b5755136/92532768/0b5755136b13ecf25cbd54985f0ac656.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 0.2893651585218367,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 1.8409758046825693,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 2.616509391064067,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Chestertons Key Clients, London",
+ "city": "Leeds",
+ "sourceOutcode": "LS1",
+ "scrapedAt": "2026-08-30T10:23:30.246Z"
+}

@@ -1,0 +1,88 @@
+{
+ "id": "91260774",
+ "displayAddress": "Longford Place, Victoria Park, Manchester",
+ "outcode": "M14",
+ "incode": "5QF",
+ "latitude": 53.458404,
+ "longitude": -2.207897,
+ "priceAmount": 1734,
+ "priceLabel": "£1,734 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91260774",
+ "area": "Victoria Park, Manchester",
+ "bedrooms": 4,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 4,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 2000,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "*** AVAILABLE SEPTEMBER *** £100.00 PPPW *** BILLS PACKAGE AVAILABLE *** STUDENT PROPERTY *** An extremely spacious four double bedroom terraced house situated in Victoria Park, just off Daisy Bank Road. The accommodation available is ideal for students and comprises; entrance hall, spacious lounge, second sitting room, dining area leading into the kitchen, four large double bedrooms and a modern bathroom. Fully Furnished. To arrange a viewing please contact our Didsbury office. \n\nView our Virtual Tour here -  \n\nEPC Rating E / Council Tax Band C\n\n*** AVAILABLE SEPTEMBER *** £100.00 PPPW *** BILLS PACKAGE AVAILABLE *** STUDENT PROPERTY *** An extremely spacious four double bedroom terraced house situated in Victoria Park, just off Daisy Bank Road. The accommodation available is ideal for students. EPC E / Council Tax C.",
+ "keyFeatures": [
+  "Available September",
+  "£100.00 PPPW",
+  "Four Double Bedrooms",
+  "Students Only",
+  "Fully Furnished",
+  "Close to Universities",
+  "Great Location",
+  "Bills Package Available",
+  "Council Tax Band C",
+  "EPC Rating E"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/b7566b6ff/91260774/b7566b6ff6c9452517d04e86676e33eb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/da4a548e7/91260774/da4a548e7ece32d4b52d94b8bbba5c81.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f74b19032/91260774/f74b1903270de73a509434b9b8cb9ee3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/84026d28b/91260774/84026d28ba0587dc741d0d965a93c77c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6daef92ef/91260774/6daef92ef5ade99525f1d9cb9f39fe9c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e07e27e54/91260774/e07e27e54d1f374a754b0f8e45f602bc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d969663d7/91260774/d969663d785095d786658ca80977e8e4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9c92deeed/91260774/9c92deeed0fc03e9de28944e14858641.jpeg",
+  "https://media.rightmove.co.uk/property-photo/608ce9932/91260774/608ce993222eb947850d62ff59391b58.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ac91c7c0d/91260774/ac91c7c0ddd7c5ffd21f8f90eac20fd1.png",
+  "https://media.rightmove.co.uk/property-photo/841dee094/91260774/841dee09486e13d3880ed654c170bfdf.png",
+  "https://media.rightmove.co.uk/property-photo/4d199fc19/91260774/4d199fc19b972602972aa930e94f13d7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a22469974/91260774/a224699745d38b322f9222327850b3b9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c61e3f642/91260774/c61e3f642500cc52e0c0bcd1f5c7a94d.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Ardwick Station",
+   "miles": 0.9023450620473136,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Ashburys Station",
+   "miles": 1.0634101613854368,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Levenshulme Station",
+   "miles": 1.1508668259018762,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Jordan Fishwick, Didsbury",
+ "city": "Manchester",
+ "sourceOutcode": "M14",
+ "scrapedAt": "2026-08-30T10:17:51.359Z"
+}

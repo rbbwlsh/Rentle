@@ -1,0 +1,78 @@
+{
+ "id": "92155557",
+ "displayAddress": "Cheltenham Road, Bristol",
+ "outcode": "BS6",
+ "incode": "5RR",
+ "latitude": 51.464947,
+ "longitude": -2.590414,
+ "priceAmount": 1350,
+ "priceLabel": "£1,350 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92155557",
+ "area": "Bristol",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "13/10/2026",
+  "deposit": 1557,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This beautifully presented 1-bedroom basement flat is available on the ever-popular Cheltenham Road. \n\nThis one-bedroom basement flat offers bright, modern living in a great location.\n\nThe property features an open-plan kitchen and living area with contemporary units and white goods included. The double bedroom is a good size with plenty of natural light, and the bathroom is finished in a clean, modern style. The flat also offers an additional bright and convenient office or storage space. \n\nDon't miss your chance to view this stunning flat in one of Bristol's most sought-after areas.\n\n- Location \n\nLocated on vibrant Cheltenham Road, the flat is surrounded by a mix of independent shops, cafés, bars, and restaurants, with easy access to the city centre, Gloucester Road, and Stokes Croft. Excellent public transport links and nearby green spaces make it a popular area for professionals and creatives alike.\n\n- Hopewell\n\nDid you know we release our properties on social media before they hit the open market? Follow us on Facebook or Instagram to beat the crowd.\n\nCouncil Tax Band: B (Bristol City Council)\nHolding Deposit: £311.53",
+ "keyFeatures": [
+  "Modern One Bedroom Apartment",
+  "White Goods Included",
+  "Amenities on your doorstep",
+  "Excellent transport links",
+  "Located just off Cheltenham Road"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c2cad5302/92155557/c2cad5302f834aab4e68ef8937141027.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3ae169ba7/92155557/3ae169ba70e45babce86d51ca2a316ed.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f5b733a1c/92155557/f5b733a1c9c94af1e3e16314946ce156.jpeg",
+  "https://media.rightmove.co.uk/property-photo/64b3cdcda/92155557/64b3cdcda19c7501c8b06a464efad939.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e3b39eba0/92155557/e3b39eba06c32ba38df5a7dbfa179687.jpeg",
+  "https://media.rightmove.co.uk/property-photo/131ea88bb/92155557/131ea88bbeb196f32f45c9feef4e6dd3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1311516e4/92155557/1311516e41dee5ad81cdc9296a5a4b23.jpeg",
+  "https://media.rightmove.co.uk/property-photo/abc3e6fa0/92155557/abc3e6fa026b95a1f70cf5af60b2efef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6a421a4d6/92155557/6a421a4d65d3803dabe5209cec18ca3d.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Montpelier Station",
+   "miles": 0.2459107343116904,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.45209365821029157,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.8904138693806871,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Hopewell, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS6",
+ "scrapedAt": "2026-08-30T10:23:00.619Z"
+}

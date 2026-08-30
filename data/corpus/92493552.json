@@ -1,0 +1,80 @@
+{
+ "id": "92493552",
+ "displayAddress": "Gransden Avenue, Hackney, London",
+ "outcode": "E8",
+ "incode": "3QA",
+ "latitude": 51.540864,
+ "longitude": -0.056628,
+ "priceAmount": 3600,
+ "priceLabel": "£3,600 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92493552",
+ "area": "Hackney, London",
+ "bedrooms": 2,
+ "bathrooms": null,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": null,
+  "letAvailableDate": "31/08/2026",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "The Gransden – Rental Apartments in Hackney\n\nOur 2 Bedroom Apartments\nOur 2-bedroom apartments at The Gransden offer flexible, high-spec living ideal for professional sharers, couples needing extra space, or small families looking to enjoy Hackney living. With generous layouts and thoughtfully designed interiors, these apartments balance practicality with modern style.\nEach apartment features a spacious open-plan kitchen, dining, and living area that creates the perfect setting for both relaxing and entertaining. Large windows allow plenty of natural light to fill the space, while private balconies provide an ideal extension of the home for outdoor dining or quiet evenings. The contemporary kitchens are fully fitted with integrated appliances, sleek cabinetry, and ample worktop space.\nThe principal bedroom offers a spacious double room with built-in storage and easy access to a stylish modern bathroom, while the second bedroom provides excellent flexibility as a guest room, workspace, or additional bedroom. Finished with wooden flooring, double glazing, and bright contemporary interiors, these apartments are available furnished or unfurnished to suit your lifestyle.\n\nWhat’s included:\n•\t2 minute walk to London Fields Overground Station\n•\tPrivate Spacious Balconies \n•\tFully Furnished or Unfurnished Options \n•\tModern Open-Plan Living Spaces \n•\tPet Friendly Living \n•\tExcellent Transport Links in Zone 2 London \n•\tResident App with Exclusive Perks\n•\tProfessionally Managed\n•\tExclusive Resident Events\n•\tOn-Site Team & Maintenance Support\n\nThe Location\nLocated in the heart of Hackney, The Gransden offers modern rental living in one of East London’s most vibrant and creative neighbourhoods. Just moments from London Fields Rail and a short walk from Broadway Market, residents enjoy fast and convenient access to Liverpool Street and Central London, making commuting simple while keeping the best of local living right on your doorstep.\nHackney is known for its unique blend of green spaces, independent cafés, restaurants, markets, and cultural hotspots. London Fields Park provides the perfect place for outdoor exercise, weekend relaxation, and summer swimming at the nearby lido, while Broadway Market offers some of East London’s best food, coffee, and boutique shopping. From local galleries and music venues to riverside walks along Regent’s Canal, The Gransden places you at the centre of a lively and well-connected Zone 2 lifestyle.\n\nResident Perks\nThe Gransden offers a collection of professionally managed 1, 2 and 3-bedroom rental apartments in the heart of Hackney, perfectly positioned for vibrant East London living. Designed for modern lifestyles, these high-spec apartments combine style, flexibility, and everyday convenience. Available furnished or unfurnished, each home features bright open-plan living spaces, fully equipped kitchens, contemporary bathrooms, and private balconies that extend your living space outdoors. Wooden flooring throughout, double glazing, and spacious, well-proportioned layouts create homes that are both comfortable and practical.\nWhether you’re a professional seeking a well-connected base, a couple, a family needing extra space, or sharers looking for modern East London living, The Gransden offers flexible rental options to suit a wide range of lifestyles. \n\nGet in touch to check availability and book a viewing today!\n\nA range of apartment types, layouts, sizes and aspects are available across different floors and levels within the development. Rents vary depending on specification, size and position within the building and are subject to availability. Apartments are let on a first-come, first-served basis and are subject to referencing, right to rent checks and eligibility criteria.\n\nPhotography and Floor Plans are for illustrative purposes only and may represent a selection of apartment types within the development. Furnishings, layouts and views may vary.",
+ "keyFeatures": [
+  "2 minute walk to London Fields Overground Station\n",
+  "Private Spacious Balconies ",
+  "Fully Furnished or Unfurnished Options ",
+  "Modern Open-Plan Living Spaces ",
+  "Pet Friendly Living ",
+  "Excellent Transport Links in Zone 2 London ",
+  "Resident App with Exclusive Perks",
+  "Professionally Managed",
+  "Exclusive Resident Events",
+  "On-Site Team &amp; Maintenance Support"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/0c0700715/92493552/0c07007156ce8cf8d0d62797c64e3f48.jpeg",
+  "https://media.rightmove.co.uk/property-photo/24ebb788f/92493552/24ebb788f1f867d82aa0ecf32a2613ec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/360f9462d/92493552/360f9462dcc49e72c42649e4334096a0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5da5f978a/92493552/5da5f978adeb968800581a2d2a2e01a7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb651ebd9/92493552/bb651ebd911e2418e76aea10e4f1867c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/be48e0b5e/92493552/be48e0b5ec2885964b0584205f6696ae.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "London Fields Station",
+   "miles": 0.052686821210050264,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Hackney Central Station",
+   "miles": 0.42331802146193004,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Hackney Downs Station",
+   "miles": 0.5366279497105338,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "City Living, Nationwide",
+ "city": "London",
+ "sourceOutcode": "E8",
+ "scrapedAt": "2026-08-30T10:13:02.582Z"
+}

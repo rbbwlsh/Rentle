@@ -1,0 +1,70 @@
+{
+ "id": "92523774",
+ "displayAddress": "Thomas Lane Apartments, Redcliff, Bristol, BS1",
+ "outcode": "BS1",
+ "incode": "6JT",
+ "latitude": 51.452056,
+ "longitude": -2.590384,
+ "priceAmount": 1150,
+ "priceLabel": "£1,150 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92523774",
+ "area": "Redcliff, Bristol",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 1326,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This well-presented one bedroom apartment offers a comfortable and practical living space, ideal for those seeking a modern home in a convenient setting. The property benefits from a bright and welcoming interior, with wooden-effect flooring throughout and large windows allowing plenty of natural light into the accommodation.\n\n\rThe apartment features a spacious open-plan living area, with ample room for both relaxing and working from home, alongside a contemporary fitted kitchen with generous worktop space, plenty of storage and a range of integrated appliances, including a dishwasher, fridge, washing machine and oven/cooker. The double bedroom is well proportioned and benefits from large windows, creating a light and pleasant space. A private balcony provides valuable additional outdoor space, perfect for enjoying some fresh air or relaxing during warmer months.\n\nThis apartment would make an ideal home for a professional individual or couple looking for a well-located and comfortable property with the added benefit of private outdoor space and modern kitchen appliances. Offered unfurnished and available from the 1st September 2026.\n\nProperty Essentials:\no Structure Materials – Standard\no Electricity supply – Mains\no Water supply – Mains\no Sewerage – Mains\no Heating type – [To confirm]\no Broadband – (Source Ofcom) [To confirm]\no Mobile signal – (Source Ofcom) [To confirm]\no Building Safety – [To confirm]\no Restrictions – [To confirm]\no Rights and Easements – [To confirm]\no Flood risk – [To confirm]\no Planning Permissions – [To confirm]\no Accessible – [To confirm]\no Coalfield / Mining area – [To confirm]\n\nRoom measurements stated in this listing are for guidance and may not be accurate.\n\nHome truths:\n• The property is currently furnished and personal belongings are visible in the marketing photographs.\n• The apartment benefits from a private balcony.\n• The kitchen is equipped with a dishwasher, fridge, washing machine and oven/cooker.\n• Applicants should note that the property is presented as a furnished home.\n\nIn accordance with the Tenant Fees Act 2019, we may charge the following fees should the circumstances arise:\n\n• Our re-let fees upon early termination of a tenancy\n• Tenancy variation cost - £50\n• Interest 3% above the Bank of England base rate on any rent 14 days late, or more\n• Bills for the tenancy (council tax, utilities, TV licence, communication services)\n\nWe may withhold your holding deposit should the tenancy not proceed for the following reasons:\n\n• You withdraw from the tenancy\n• Failure of a Right-to-Rent check\n• You provide false or misleading information\n• You fail to sign your tenancy agreement within 15 calendar days",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/13b4d588b/92523774/13b4d588b496833646657faf38ccd391.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ed1294558/92523774/ed1294558ce1efab3e099148ef610f72.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c821d636d/92523774/c821d636d478aa9a0c7f459a16b7e807.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1182a7623/92523774/1182a76233702c5aafc177f7c7dcdd19.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a9c50af7f/92523774/a9c50af7f5862f1162ea9d843da24077.jpeg",
+  "https://media.rightmove.co.uk/property-photo/644d29f04/92523774/644d29f0447329de10b6d4ecc00ff489.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f395a5bcc/92523774/f395a5bcccbf4fefee9a5b935decb9bb.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 0.43801370510543736,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bedminster Station",
+   "miles": 0.8505436668050878,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Montpelier Station",
+   "miles": 1.1288583599641777,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "The Letting Game, Henleaze",
+ "city": "Bristol",
+ "sourceOutcode": "BS1",
+ "scrapedAt": "2026-08-30T10:21:44.832Z"
+}

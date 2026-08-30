@@ -1,0 +1,78 @@
+{
+ "id": "92529279",
+ "displayAddress": "Cumberland Street, Edinburgh, EH3",
+ "outcode": "EH3",
+ "incode": "6RE",
+ "latitude": 55.958164,
+ "longitude": -3.202413,
+ "priceAmount": 1790,
+ "priceLabel": "£1,790 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92529279",
+ "area": "Edinburgh",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "13/09/2026",
+  "deposit": 1790,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Property Reference: 3009233.\n\nDelightful bright South facing raised ground floor flat just 5minutes from desirable Stockbridge in the sought after residential area within the Historic New Town.\n\nIn brief comprising 1 large bright bed/living room, 1 shower room, 1 dining- kitchen.i\nWould ideally suit professional couple or single person, or mature student. Students require UK guarantor.\n\nGas fired combi boiler central heating. \n\nProperty comprises : \n\n* large bright South facing bedroom/living room with sofa and 2 armchairs, double bed and wardrobe. \n\n* generous bright dining kitchen with large circular dining table and additional IKEA sofabed. \n\n* bathroom with full width walk-in shower with double head thermostatic shower.\n\n Property is offered furnished.\n\nViewing highly recommended. \n\nContact OpenRent today for more details or to arrange a viewing in September.\n\nSummary & Exclusions:\n- Rent Amount: £1,790.00 per month (£413.08 per week)\n- Deposit / Bond: £1,790.00\n- 1 Bedrooms\n- 1 Bathrooms\n- Property comes furnished\n- Available to move in from 13 September 2026\n- Maximum number of tenants is 2\n- No Students\n- No Smokers\n- Bills not included\n- No Parking Available\n- No Garden Access\n- EPC Rating: C\n\n  If calling, please quote reference: 3009233  \n\nFees:\nYou will not be charged any admin fees.\n\n ** Contact today to book a viewing and have the landlord show you round! ** \nRequest Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.\nOpenRent is on the Scottish Letting Agent Register, registration number LARN1809026\nThe landlord is on the Scottish Landlord Register, registration number 1470355/230/06092",
+ "keyFeatures": [
+  "No Agent Fees",
+  "Property Reference Number: 3009233"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/53e0a220e/92529279/53e0a220ee252c9f3b63ef5e7f3226a9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e5e538aff/92529279/e5e538aff793a70a9c786f8901a0e97c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6b01f5e41/92529279/6b01f5e415d3d1171a47dd63d8a43a5a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/559205d7f/92529279/559205d7ff74729216caa1c57fe273cc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3ed8cae20/92529279/3ed8cae20f01328ba96ac9b4e568e56f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c2b60c7f1/92529279/c2b60c7f165dc4e4ace58b8afc4e9364.jpeg",
+  "https://media.rightmove.co.uk/property-photo/18a2dee19/92529279/18a2dee19f4727bbe58b5bdd8e56a975.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eb99c6d89/92529279/eb99c6d89b6dcab8372de36861ca9594.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1b6cc60cc/92529279/1b6cc60cc6e377590b76d5c29c4d3923.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d2bf2feaf/92529279/d2bf2feafbe6dfaf95aa0713e7a51e28.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0bb2781dc/92529279/0bb2781dc63ed791b4e5d1ee18be6daa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f54df0219/92529279/f54df0219a6a45dde61142cc78701e44.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.6478982402626329,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.0756082630061106,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 2.703789200448088,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "OpenRent, London",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH3",
+ "scrapedAt": "2026-08-30T10:25:50.010Z"
+}

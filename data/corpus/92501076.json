@@ -1,0 +1,72 @@
+{
+ "id": "92501076",
+ "displayAddress": "Manor Avenue, Leeds",
+ "outcode": "LS6",
+ "incode": "1BY",
+ "latitude": 53.816521,
+ "longitude": -1.57222,
+ "priceAmount": 1386,
+ "priceLabel": "£1,386 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92501076",
+ "area": "Leeds",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "House",
+ "details": {
+  "propertyType": "House",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": null,
+  "letAvailableDate": "01/09/2026",
+  "deposit": 1000,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Rent & availability\nRent: £160 pppwBeds: 2 bedsMove in from: 1 Sep, 2026Move in by: 1 Sep, 2026Notice period: at least 2 months' notice, unless agreed in writing between all partiesDeposit: £500 ppBills included:There are no bills includedRental type: Whole property, this listing is to rent the whole 2 bed property.\nDescription\n- AVAILABLE 1ST SEPTEMBER 2026 -\r\n\r\n360° VIRTUAL TOUR AVAILABLE ON THIS PROPERTY.\r\n\r\nRooftop Living are proud to present this stunning 2 Bedroom 2 Bathroom recently refurbished, super high spec deluxe property located close proximity to the University and major transport routes.\r\n\r\nThis impressive property has had no expense spared after undergoing a recent full refurbishment.\r\n\r\nOpen plan kitchen, fully kitted out with all the necessary appliances.\r\n\r\nA modern lounge which comes with a wall mounted TV.\r\n\r\n2 stylishly fully furnished bedrooms both with a wall mounted T.V\r\n\r\n2 modern tiled bathrooms.\r\n\r\nThe property is fully glazed throughout.\r\n\r\nGet in touch today to arrange a viewing!\r\n\r\nNo Pets Allowed.\r\n\r\nPrice is per person not for the full property.\n\nFacilities\nCentral HeatingTumble DryerTV (communal)Vacuum CleanerWashing MachineWiFiCookerFreezerFridgeMicrowaveDesk & ChairDouble BedEn SuiteLockable BedroomTV in roomParkingRecycling",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/714833b0e/92501076/714833b0e07be2cf835e45d045ea86f8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5914f796a/92501076/5914f796a33698f48dc7bdd416870987.jpeg",
+  "https://media.rightmove.co.uk/property-photo/54d1731f2/92501076/54d1731f281cb30e78a426eaf792d45e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/488bd0ebd/92501076/488bd0ebd4a196c4b08a061985c69531.jpeg",
+  "https://media.rightmove.co.uk/property-photo/08349c312/92501076/08349c312711baafad389207e2377c9c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3f4df7296/92501076/3f4df72968c6b0d2e4d231fa62fa1a06.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9303555ea/92501076/9303555ea8194768cc7f237612fbb551.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f6060120f/92501076/f6060120fd0e9e0d2032afaa29e89030.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3201e9038/92501076/3201e903888439dca156053efeafe447.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Burley Park Station",
+   "miles": 0.39499711857186626,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 0.9016320140710578,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Leeds Station",
+   "miles": 1.86668726391025,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Rooftop Living, Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS6",
+ "scrapedAt": "2026-08-30T10:24:40.448Z"
+}

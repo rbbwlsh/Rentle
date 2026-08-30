@@ -1,0 +1,80 @@
+{
+ "id": "92548047",
+ "displayAddress": "Denver Building, London",
+ "outcode": "SW11",
+ "incode": "7BY",
+ "latitude": 51.480356,
+ "longitude": -0.134032,
+ "priceAmount": 3100,
+ "priceLabel": "£3,100 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92548047",
+ "area": "Denver Building, London",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Ask agent",
+  "deposit": 3576,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A stylish 1-bedroom apartment in Lexington Gardens, Nine Elms, offering a private balcony, modern amenities, excellent resident facilities, and convenient transport links to Central London.\n\nDenver Building is a luxury residential development located in Nine Elms, South West London, situated within the New Diplomatic Quarter, directly opposite the US Embassy.\n\nSecurity Deposit: £3,576\nCouncil Tax Band: E",
+ "keyFeatures": [
+  "One Bedroom",
+  "Fully Furnished",
+  "24 Hour Concierge",
+  "Residents Gym",
+  "Communal Gardens",
+  "Amazing Transport Links"
+ ],
+ "tags": [
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/deb8f722b/92548047/deb8f722bca19ba11d3cfdcd3cfa4044.jpeg",
+  "https://media.rightmove.co.uk/property-photo/96ca86822/92548047/96ca8682238ff1cc02d40ce89c3b4b4b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/80451371f/92548047/80451371fd6c3b53c1e1c23c0e0dc75a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d2abfb22/92548047/6d2abfb2264be668e0030aabb460ddf9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b1e754c2a/92548047/b1e754c2a3da130f22ed5c4355d656d2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/59d183788/92548047/59d18378890a83c20bce53098538a711.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f94445da2/92548047/f94445da23ba08b253c52a62b1b246c1.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Nine Elms Station",
+   "miles": 0.24187097554151804,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Battersea Power Underground Station",
+   "miles": 0.3521711570694268,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Vauxhall Station",
+   "miles": 0.5923172523954684,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "Life Residential, Nine Elms Riverside Office",
+ "city": "London",
+ "sourceOutcode": "SW11",
+ "scrapedAt": "2026-08-30T10:15:17.779Z"
+}

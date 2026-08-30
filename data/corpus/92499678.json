@@ -1,0 +1,76 @@
+{
+ "id": "92499678",
+ "displayAddress": "Perth Street, Edinburgh, Midlothian",
+ "outcode": "EH3",
+ "incode": "5DW",
+ "latitude": 55.960568,
+ "longitude": -3.20294,
+ "priceAmount": 1550,
+ "priceLabel": "£1,550 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92499678",
+ "area": "Edinburgh, Midlothian",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 484,
+  "sizeSqM": 45,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "08/10/2026",
+  "deposit": 1750,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": 484,
+ "sizeSqM": 45,
+ "description": "A superb one-bedroom ground floor property, forming part of a traditional tenement building in the New Town.\n\nThe property is immaculately presented and has been stylishly decorated and furnished throughout.\n\nAccommodation Comprises:\n\nEntrance hallway; Living room with dining area in bay window, gas fire and lovely original cornice; Kitchen; Double bedroom with large cupboard and doors leading directly out to the communal rear garden; Bathroom with shower above bath, sink and WC.\n\nPerth Street is perfectly positioned between the hustle and bustle of the city centre and vibrant Stockbridge and Canonmills. The immediate vicinity boasts a great selection of amenities, including a large Margiotta convenience store, bars, restaurants, doctors’ surgery and pharmacy amongst others.\n\nThe beautiful Royal Botanic Garden is a short walk away, leading directly through to the open green space of Inverleith Park. The Water of Leith walkway also offers wonderful peaceful walking, jogging and cycling opportunities covering a large area of Edinburgh.\n\nRegular bus services connect the property to the city centre and wider Edinburgh, and Waverley train station can be reached on foot in under 20 minutes.\n\nDeposit: £1,750\nFurnished\nCouncil Tax Band: C\nEPC Rating: D\nLandlord Registration: 1441281/230/03072\nLARN1903047\n\nEPC Rating: D\nCouncil Tax Band: C",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c47126950/92499678/c471269500967cb52490061e8dc9940b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c4ebc6480/92499678/c4ebc648061c7fbf7c89908ebc1f2f7f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/69c9adba1/92499678/69c9adba13369501e8f7eb7b1f1451d1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8b48755ea/92499678/8b48755ea8c4a3fce0fc527b9794c56d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b6e3d1a35/92499678/b6e3d1a35e20a9ec67d2709a2942df31.jpeg",
+  "https://media.rightmove.co.uk/property-photo/27e90c047/92499678/27e90c0477915d68f6105bb5c8492a51.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b2fed13a1/92499678/b2fed13a1655d7e4f484a24b5385381f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/21833a1f9/92499678/21833a1f9021b2684842a0db86342c4b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/806e08afa/92499678/806e08afabba66b55e05d3bd5cf32c93.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6ab500b9b/92499678/6ab500b9b3ae482154007eea60373ff6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a074c0e28/92499678/a074c0e2862d4b27fedf2c5c58722cdd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9a7128145/92499678/9a7128145d4f4197ff3f02231869a3f4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9b0d7ea23/92499678/9b0d7ea23697ef24d1b46a1646bd3251.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.7805810427388986,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.2061655308838122,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 2.8284061125554345,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Rettie, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH3",
+ "scrapedAt": "2026-08-30T10:26:04.936Z"
+}

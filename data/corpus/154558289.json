@@ -1,0 +1,88 @@
+{
+ "id": "154558289",
+ "displayAddress": "Hotwell Road, Bristol, BS8",
+ "outcode": "BS8",
+ "incode": "4SF",
+ "latitude": 51.45048,
+ "longitude": -2.61936,
+ "priceAmount": 1600,
+ "priceLabel": "£1,600 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/154558289",
+ "area": "Bristol",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Ground Flat",
+ "details": {
+  "propertyType": "Ground Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 732,
+  "sizeSqM": 68,
+  "letType": null,
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 1600,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": 732,
+ "sizeSqM": 68,
+ "description": "Sheedy & Co are delighted to offer to the rental market The Old Chip Shop this former chip shop situated in the heart of Hotwells.\n\nRefurbished to a high standard, situated on the ground floor this 2 double bedroom apartment has modern fixture and fittings throughout. \n\nThe property will be unfurnished, has an enclosed rear garden with rear access, with it's walking distance to the Bristol's Harbourside bars and restaurants and the hive of shops on offer within the Bristol City Centre & Cliffton this property will prove very popular with Couples new to Bristol, Professional Shares or Students alike.\n\nThe property offers well-proportioned accommodation to include an open plan lounge diner. The modern fitted kitchen comes with a dishwasher, washing machine and a built in cooker and hob, ample cupboard space, two double bedrooms and a modern fitted shower room. the property is neutrally decorated throughout with a Grey wood affect flooring giving it a very modern contemporary feel.\n\nThe garden is laid to stone chip with raised sleepers for planting. \n\nEmail us or call to booked a viewing, \n\nRenal Amount : £1,600.00 pcm \nDeposit Amount : £1,600.00 \n\nEnergy performance rating : B\nCouncil Tax : Band C",
+ "keyFeatures": [
+  "Two Double Bedrooms",
+  "Garden to Rear",
+  "Double Glazing ",
+  "Gas Central Heating",
+  "City Centre Location ",
+  "Open to Sharers &amp; Students",
+  "Bills are Not Included within this agreement",
+  "Walking Distance to Local Shops, Bars &amp; Eateries",
+  "Harbourside Location "
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/0f67d92fd/154558289/0f67d92fdd66fab10c9428eb5961707d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1a5614630/154558289/1a56146306240dbb59f4e05389273adf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ff656d7ea/154558289/ff656d7eaa51bd8cc38bc114dcfe8d8b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b026c2275/154558289/b026c22752265a043b5af9d439fac5f6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/30ea12957/154558289/30ea12957f64da506c26fd177572aadd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/17f9bc62e/154558289/17f9bc62eaae06ecff3a928fdabe68c3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/631942954/154558289/63194295447188a6bde5a85d9f9ce838.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c875e8803/154558289/c875e88030a3016e648cd9eef970d29f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0c11e67cb/154558289/0c11e67cbf7ef0dd3e8b4abd3c306278.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8f52d991e/154558289/8f52d991e9a0400409a813b717a3cdf5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/41719b062/154558289/41719b0626e44b3eed9a11b36bfab950.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8b0181a78/154558289/8b0181a78ebb453974da85071e11743d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/691454968/154558289/69145496859753869d4e3e5b2524ea36.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f8c6d456e/154558289/f8c6d456e353885059201c0aed6b655c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2ec2e51bf/154558289/2ec2e51bf997ef10761e93646f5698f1.jpeg"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Clifton Down Station",
+   "miles": 1.0374565289981563,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Parson Street Station",
+   "miles": 1.281396962792894,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bedminster Station",
+   "miles": 1.3032919660764704,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Sheedy & Co, Covering Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS8",
+ "scrapedAt": "2026-08-30T11:03:23.094Z"
+}

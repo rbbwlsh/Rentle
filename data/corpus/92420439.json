@@ -1,0 +1,89 @@
+{
+ "id": "92420439",
+ "displayAddress": "Foundry Yard at Alexandra Gate, Brook Road, London, N8",
+ "outcode": "N8",
+ "incode": "0FY",
+ "latitude": 51.592977,
+ "longitude": -0.112813,
+ "priceAmount": 2350,
+ "priceLabel": "£2,350 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92420439",
+ "area": "London",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 561,
+  "sizeSqM": 52,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": 561,
+ "sizeSqM": 52,
+ "description": "Welcome to Foundry Yard by Berkeley Living, a community of brand-new apartments to rent set within Alexandra Gate, Wood Green, offering stylish homes, enviable amenities, and seamless support from our on-site team. \n\nWith prices starting from £2350 per month, our one-bedroom apartments offer a range of layouts and sizes, with all benefitting from open-plan kitchens with integrated appliances, built-in wardrobes in all bedrooms, and keyless entry. Generous living areas make these apartments flexible for sharers, couples, families or those looking for some extra space for a work-from-home office.\n\nAt Foundry Yard, life is designed around you, giving you more than just an apartment - you get spa-style amenities with home comforts. Brand new apartments with practical layouts and thoughtful design are complemented by amazing amenities that encourage you to live beyond your four walls. Take a swim in the on-site pool, unwind in the sauna or steam room, take in the views from our roof terraces, get focused in the co-working spaces, or meet your neighbours and enjoy life in the community.   \n\nLife Made Simple\nMove through your day with support from the Berkeley Living team whenever you need it, making everyday life seamless. It's renting that fits your pace - effortless, practical, and it will feel like home from day one. \n\nLocation\nNestled within the thriving Alexandra Gate community, Foundry Yard offers the perfect balance of city convenience and access to wonderful green spaces. The location offers plenty to enjoy locally - from Alexandra Palace and its 196-acre park to a wide range of shops, cafés, and restaurants nearby. It's a neighbourhood where everything you need is within reach, while still keeping you connected to the rest of London. \n\nResidents benefit from four nearby stations - Hornsey, Turnpike Lane, Alexandra Palace and Wood Green - you can reach key London destinations such as King's Cross St Pancras, Covent Garden and the City in 30 minutes or less, making commuting, working, or exploring London simple and convenient. \n\nFind where you belong and experience Foundry Yard for yourself - arrange a viewing today and discover how effortless renting can be. \n\nDisclaimers \n- Eligibility criteria apply - please speak to our Leasing Team for more information.  \n- Images and floor plans are of Foundry Yard but may not represent a specific apartment. Furniture colour, layout and size may differ, but specification will remain the same. Speak to our Leasing Team to discuss the variety of layouts we have available. \n- Deposit Alternative is subject to eligibility. \n- Availability and pricing are correct at the time of publishing and valid for new move-ins within 60 days. \n- Local amenities mentioned are correct at the time of publishing and are subject to delay or change. \n- Council Tax band may not be made available by the local authority until post-occupation. \n\nWhilst every effort is made to ensure the accuracy of this listing, details including price, availability, floor plans, images and specifications are provided for guidance only and may be amended. Berkeley Living reserves the right to correct errors or omissions and to update or withdraw information without notice.",
+ "keyFeatures": [
+  "Brand new, stylish apartments to rent - available now",
+  "Fitness studios, gym, swimming pool, steam room &amp; sauna",
+  "Resident co-working spaces",
+  "Professional on-site management by Berkeley Living",
+  "Deposit alternative option available",
+  "Furnished and unfurnished apartments available",
+  "Free Wi-Fi included",
+  "Balconies or patios to all apartments",
+  "Optional parking (additional cost)",
+  "EPC Rating B"
+ ],
+ "tags": [
+  "BUILT_FOR_RENTERS",
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/05e21811f/92420439/05e21811f007a334532d16e44145c1e9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/de038e176/92420439/de038e176331462803b6659549a32bc9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e4e342697/92420439/e4e34269712f4aa934a6d05eace4496e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/da213891e/92420439/da213891e4ef90bd5e8628b3303035d8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f19cd902d/92420439/f19cd902d7796ede256fe300f854b778.jpeg",
+  "https://media.rightmove.co.uk/property-photo/13717c1c8/92420439/13717c1c81a625d5a7cc26053eb14465.jpeg",
+  "https://media.rightmove.co.uk/property-photo/67c962740/92420439/67c962740fc38194f1aaa919fc12dada.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c2413f949/92420439/c2413f9497953918bdccd0546f5b0fff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/87379935a/92420439/87379935a59fd89f3c79bdc84c36c9f6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/75bdf1223/92420439/75bdf12232f3bf3c4fbef5ab4678131b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3d4aeca80/92420439/3d4aeca80c5a5e1c775ab03496396fb0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0b6d569da/92420439/0b6d569dae974995b76607e667cc656e.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Wood Green Station",
+   "miles": 0.3161259684975315,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Hornsey Station",
+   "miles": 0.46695706459478276,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Alexandra Palace Station",
+   "miles": 0.4716386199968712,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Berkeley Living, Foundry Yard",
+ "city": "London",
+ "sourceOutcode": "N8",
+ "scrapedAt": "2026-08-30T10:14:06.150Z"
+}

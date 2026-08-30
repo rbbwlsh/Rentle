@@ -1,0 +1,80 @@
+{
+ "id": "91536984",
+ "displayAddress": "North Bridge, Edinburgh, EH1",
+ "outcode": "EH1",
+ "incode": "1QN",
+ "latitude": 55.9504,
+ "longitude": -3.187914,
+ "priceAmount": 2800,
+ "priceLabel": "£2,800 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91536984",
+ "area": "North Bridge, Edinburgh",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 2000,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Situated within the prestigious Royal Mile Mansions development, this exceptional fully furnished corporate apartment offers an outstanding opportunity to enjoy luxury city living in one of Edinburgh's most sought-after locations.\n\nPositioned on North Bridge, in the heart of the historic Old Town, the property is ideally suited to corporate professionals, executive relocations and business travellers seeking a high-quality home within walking distance of Edinburgh's financial district, Waverley Station, St James Quarter and the city's renowned restaurants, cafés and cultural attractions. The development benefits from secure entry, lift access and a concierge service, providing convenience and peace of mind.\n\nThe apartment offers bright, spacious accommodation with an impressive open-plan living and dining area, enhanced by high ceilings and large windows that flood the space with natural light. A fully equipped modern kitchen provides everything required for comfortable day-to-day living, while two generous double bedrooms and two contemporary bathrooms make the property ideal for colleagues sharing or professionals requiring additional guest or home office space.\n\nFinished to a high standard throughout and presented in move-in condition, this superb property combines period character with modern comfort in one of Edinburgh's most iconic addresses.\n\nWhether you're relocating for work or seeking premium city centre accommodation, this outstanding apartment offers the perfect balance of style, comfort and convenience.\n\nKey Features\nPrestigious Royal Mile Mansions development\nFully furnished corporate let\nTwo spacious double bedrooms\nTwo modern bathrooms\nBright open-plan living and dining space\nLift access and concierge service\nSecure entry system\nPrime city centre location moments from Edinburgh Waverley Station, the Royal Mile and St James Quarter EPC: D. Landlord registration number: 1803836/230/25052",
+ "keyFeatures": [
+  "  Central location ",
+  "  Popular Area ",
+  "0.6 Miles from St James Quarter",
+  "2 Bathrooms"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a9ad61595/91536984/a9ad61595d206414376257c88f3321b3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f78c4a86e/91536984/f78c4a86e6087cff93bbe9334170dbe0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/003f5a88a/91536984/003f5a88a349442ea26ca9ddd6335a5b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6fdd5fe32/91536984/6fdd5fe32a86ac075ebf1586b36c889d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bae01402f/91536984/bae01402fda9a0f0fed23ed68146524f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/474dd1539/91536984/474dd1539e78dc5c5efabaec9d8a45ab.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dd9c7ef2d/91536984/dd9c7ef2d3b01e7c0b5e8dca4080789f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/18a31bbee/91536984/18a31bbee25ebcfd8bc7258abeed37e1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a66d510d9/91536984/a66d510d982daea56f4d631ef348d991.jpeg",
+  "https://media.rightmove.co.uk/property-photo/71e6291a8/91536984/71e6291a8989739ab7f0c1939fe38eb1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/14071365e/91536984/14071365e5873caad2559b1aff4bd9eb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1d6aa0076/91536984/1d6aa00763ae148728b071a569fad10e.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.1343253202797212,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.223639488196897,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 2.713824331385464,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "RentLocally.co.uk Ltd, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH1",
+ "scrapedAt": "2026-08-30T11:03:49.641Z"
+}

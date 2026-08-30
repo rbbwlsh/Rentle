@@ -1,0 +1,74 @@
+{
+ "id": "92376939",
+ "displayAddress": "St Marks Rise, London, E8",
+ "outcode": "E8",
+ "incode": "2NL",
+ "latitude": 51.55059,
+ "longitude": -0.071149,
+ "priceAmount": 1650,
+ "priceLabel": "£1,650 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92376939",
+ "area": "London",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": null,
+  "letAvailableDate": "04/09/2026",
+  "deposit": 1903,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This well-presented 1-bedroom flat in Hackney offers comfortable and practical living accommodation in a convenient East London location.\n\nThe property features a well-sized bedroom, a comfortable living area, and an open plan kitchen, providing everything needed for day-to-day living. The flat offers a practical layout and would suit a professional, couple, or single occupant looking for a well-located home.\n\nSituated in E8, the property benefits from excellent access to local amenities, shops, restaurants, and transport links. The area is well connected to central London, making it a convenient choice for commuters.\n\nWith its 1-bedroom layout and sought-after location, this property offers a good balance of comfort, convenience, and accessibility, making it an ideal home for those looking to live in East London.\n\nBook your viewing with Homefinders now!!",
+ "keyFeatures": [
+  "One double bedroom",
+  "Open Plan Kitchen/living area",
+  "Moments from Dalston Kingsland Station",
+  "Surrounded by Amenities",
+  "Available from Now!!"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/cb330eda8/92376939/cb330eda8b7e2da6b2e8cabe6f793e4f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/df5ee8b68/92376939/df5ee8b6842b4ef2102b3db33f00c87c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c0c8d4569/92376939/c0c8d45699e0b5a1a8f7fdb127f2a6a9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2f465208b/92376939/2f465208b985460f321fb41313a372f5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b7a7f93fa/92376939/b7a7f93fa24188a44bac03efb3cca157.jpeg"
+ ],
+ "imageCount": 5,
+ "nearestStations": [
+  {
+   "name": "Dalston Kingsland Station",
+   "miles": 0.2822803788839411,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Dalston Junction Station",
+   "miles": 0.3567279518000532,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Hackney Downs Station",
+   "miles": 0.4982819264782861,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Homefinders, London",
+ "city": "London",
+ "sourceOutcode": "E8",
+ "scrapedAt": "2026-08-30T10:13:07.324Z"
+}

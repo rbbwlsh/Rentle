@@ -1,0 +1,83 @@
+{
+ "id": "91566552",
+ "displayAddress": "Christopher Road, Woodhouse, Leeds",
+ "outcode": "LS6",
+ "incode": "2JX",
+ "latitude": 53.815203,
+ "longitude": -1.553512,
+ "priceAmount": 1100,
+ "priceLabel": "£1,100 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91566552",
+ "area": "Woodhouse, Leeds",
+ "bedrooms": 4,
+ "bathrooms": 2,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 1269,
+  "minimumTermMonths": 6,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "?? To Let: 4-Bedroom Terraced House – 11 Christopher Road, Leeds, LS6 2JX\n£1,250 pcm | Available Now | Unfurnished\n\nThis spacious 4-bedroom mid-terrace house is located on Christopher Road in the popular LS6 area, within easy reach of Leeds city centre and the University of Leeds .\n\nOffering generous living space, this property is ideal for a family and comprises of:\n\nProperty Features:\n\nFour double bedrooms \n\nTwo contemporary bathrooms \n\nLarge modern kitchen-diner \n\nUnrestricted on-street parking \n\nFully double glazed\n\nGas central heating\n\nLocation Benefits:\n\nShort walk from the University of Leeds \n\nClose to local shops, supermarkets, and amenities \n\nExcellent transport links into Leeds city centre",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/bd9b6dfd2/91566552/bd9b6dfd2d07957de825a142dc3c655e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a0943629a/91566552/a0943629a4d3687adfdda432f65b203b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fa66f4d54/91566552/fa66f4d54d50925f7389b9504748d147.jpeg",
+  "https://media.rightmove.co.uk/property-photo/344b82bec/91566552/344b82bec3d5b2eeb42e51e339c2ac53.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d8d81806e/91566552/d8d81806ef1e5ce13f5154632df680f6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bf5b323bc/91566552/bf5b323bc698fa9eae9e8347d4a8e5eb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a551cd70b/91566552/a551cd70bcd793c6570676b8c98f1ed5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5fc67fc21/91566552/5fc67fc21b3d41f836dd63a4b9da0ae6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f05bf0f9a/91566552/f05bf0f9aea3ff6390c7b51d59c7313f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/70d1b5d28/91566552/70d1b5d280b3e0484384a34c1a973678.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f8e7ef7c3/91566552/f8e7ef7c37e2a3bfeb7b733cd277639f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ddb616632/91566552/ddb616632d9b982379321a4003ae66b9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c1651564f/91566552/c1651564f0f3b1d66cd93b0c8b6a617a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d66fac3fa/91566552/d66fac3faefc9fa2677c03a7cccbb42f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f17faace7/91566552/f17faace78b08f45126b44283c6f016c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cd26adcd1/91566552/cd26adcd1a1c9592b53f4bab1ed99c02.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fad7098b8/91566552/fad7098b824894660ac1918d34cf78b5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7d3f96efb/91566552/7d3f96efb746a7db6ceb274912535ae2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bcce536f1/91566552/bcce536f1f3ba0f3d2d339c51b159a51.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dd86200ff/91566552/dd86200ff5640fcf0c76453f2bd3ccbc.jpeg"
+ ],
+ "imageCount": 20,
+ "nearestStations": [
+  {
+   "name": "Burley Park Station",
+   "miles": 1.0297667046257395,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Leeds Station",
+   "miles": 1.4904799331560568,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 1.672847138917267,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Smart Moves, Bradford",
+ "city": "Leeds",
+ "sourceOutcode": "LS6",
+ "scrapedAt": "2026-08-30T10:24:27.544Z"
+}

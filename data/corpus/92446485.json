@@ -1,0 +1,78 @@
+{
+ "id": "92446485",
+ "displayAddress": "St Peters Place, Edinburgh, EH3",
+ "outcode": "EH3",
+ "incode": "9PJ",
+ "latitude": 55.940169,
+ "longitude": -3.213181,
+ "priceAmount": 1325,
+ "priceLabel": "£1,325 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92446485",
+ "area": "Edinburgh",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "24/09/2026",
+  "deposit": 1988,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "DEPOSIT £1988 - One bedroom furnished property in Edinburgh. TO BOOK A VIEWING ONLINE, PLEASE FILL IN THE CONTACT AGENT FORM.\n\n\rTastefully decorated this contemporary main door property comprises bright and airy open planned living area with floor to ceiling windows offering stunning views of the canal, a fully equipped, high spec kitchen, double bedroom with built in wardrobe and modern luxurious shower room. The property further benefits from gas central heating, double glazing and storage. \n\nSet in the desirable Viewforth area close to excellent local amenities and within walking distance of the City Centre. Fountain Park Leisure Centre is also just moments away which includes restaurants, cinema, gym and bowling complex. There are excellent bus links providing quick and easy access to the City Centre and surrounding areas. \n\nDeposit : £1988\nEPC Rating:   \nCouncil Tax Band: C\nLandlord Registration: 283597/230/19411 & 622569/230/14111\nAdditional costs: council tax and water charge / utilities / broadband (if applicable) / Garden Waste Bin from local authority at additional cost (if applicable)   \nHeating Type: Gas Central Heating\nProperty Floor: Main Door \nUtilities: Credit Meter.  \nElectricity: TBC\nGas Supplier: TBC \nBroadband Type:  Fibre to Cabinet Available  *as obtained from    Further information regarding broadband and phone signal can be obtained from the Ofcom broadband and mobile coverage checker - Broadband and mobile coverage checker - Ofcom   \nParking Type: Council permit parking (at additional cost from local council) \n \nPlanning permission: Please check this properties local authority planning website for any planning which may impact the property or local area in future. \n\nAll statements contained herein are believed to be correct but are not guaranteed and interested parties must satisfy themselves as to their accuracy.  \n\nLetting Agent Registration Number: LARN1812026",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/b5d614870/92446485/b5d614870805a1d8a9e0ef7ff6c14b91.jpeg",
+  "https://media.rightmove.co.uk/property-photo/07c9b3353/92446485/07c9b3353a3ea8da4e66fdbc4730f580.jpeg",
+  "https://media.rightmove.co.uk/property-photo/70b91ca10/92446485/70b91ca1042811e787a0ae13cf693bfa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/532f645dd/92446485/532f645dda551932364b8d75f203493d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/711c8ac92/92446485/711c8ac92ca4f1dc54e8ace71458dc6c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/db4a729d7/92446485/db4a729d771308f5e7e240fdbf6c9bb6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c46cc4982/92446485/c46cc4982e8a149b2773cbf062f6b777.jpeg",
+  "https://media.rightmove.co.uk/property-photo/362391b95/92446485/362391b9554d208d43e62bf74de271ab.jpeg",
+  "https://media.rightmove.co.uk/property-photo/548250087/92446485/548250087008678edbfbce8bd1018ffc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b3da11c03/92446485/b3da11c032b4c9a521197cf1288b8304.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5dd96de8d/92446485/5dd96de8d20ade980722cad62673fc3b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/37b57547b/92446485/37b57547b13eb38c772cf4653e70226a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6f1ceb92d/92446485/6f1ceb92d2522a14795de526785733c9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3723ab9c6/92446485/3723ab9c6714ee863309abf0cba98007.jpeg",
+  "https://media.rightmove.co.uk/property-photo/74b7c120f/92446485/74b7c120f37cb8930c7516339d6de9f2.jpeg"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Haymarket Station",
+   "miles": 0.4072115335658797,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 1.222874783248393,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 1.5046841013871106,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "DJ Alexander, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH3",
+ "scrapedAt": "2026-08-30T10:26:14.187Z"
+}

@@ -1,0 +1,80 @@
+{
+ "id": "92460102",
+ "displayAddress": "Old Kent Road, Peckham, London, SE15",
+ "outcode": "SE15",
+ "incode": "1AJ",
+ "latitude": 51.47936,
+ "longitude": -0.05692,
+ "priceAmount": 1900,
+ "priceLabel": "£1,900 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92460102",
+ "area": "Peckham, London",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "27/09/2026",
+  "deposit": 2192,
+  "minimumTermMonths": 12,
+  "councilTaxBand": "TBC"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Top floor one bedroom modern apartment in Peckham. This property boasts an open plan/living room kitchen, wooden flooring and good decor throughout. Offered furnished and available end of September.",
+ "keyFeatures": [
+  "Top floor",
+  "One bedroom",
+  "Furnished",
+  "Private roof terrace",
+  "Great location",
+  "Moments from amenities and transport"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/6846bedb4/92460102/6846bedb495557a64b9da62a1debf669.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7eeb60a5c/92460102/7eeb60a5c960d4b1eb48b29df0c0c0f9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/75924c848/92460102/75924c848627ad73f5c71c91c0a4b79c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/67de00242/92460102/67de00242e456bc3e48e31ac28f4e210.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8d4307488/92460102/8d4307488a3a0e23cf3bed9584dd2316.jpeg",
+  "https://media.rightmove.co.uk/property-photo/708a2acac/92460102/708a2acac5231b6c0f74de7a42a7f4c8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/75714e168/92460102/75714e1682bc987ccc056edb1094e5cf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/94e21d4fb/92460102/94e21d4fbc86c5dba628c35c89a35df2.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Queens Road Peckham Station",
+   "miles": 0.4041871807717101,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "South Bermondsey Station",
+   "miles": 0.5915366734935914,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "New Cross Gate Station",
+   "miles": 0.7626664993251007,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_OVERGROUND"
+   ]
+  }
+ ],
+ "agent": "Kinleigh Folkard & Hayward - Lettings, Peckham Rye",
+ "city": "London",
+ "sourceOutcode": "SE15",
+ "scrapedAt": "2026-08-30T10:14:29.192Z"
+}

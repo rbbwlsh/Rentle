@@ -1,0 +1,78 @@
+{
+ "id": "92529471",
+ "displayAddress": "Bayswater Mansions, Westbourne Grove, London, W2",
+ "outcode": "W2",
+ "incode": "5RA",
+ "latitude": 51.515592,
+ "longitude": -0.189384,
+ "priceAmount": 2700,
+ "priceLabel": "£2,700 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92529471",
+ "area": "Bayswater Mansions, London",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 506,
+  "sizeSqM": 47,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 3115,
+  "minimumTermMonths": null,
+  "councilTaxBand": "D"
+ },
+ "sizeSqFt": 506,
+ "sizeSqM": 47,
+ "description": "Nestled on a quiet street off Westbourne Grove, this charming one bedroom third floor flat is a breath of fresh air to community of Bayswater. \nLocated in the heart of Queensway, the property is a short distance to the green open spaces of Hyde Park & trendy Notting Hill. \n\n\rPositioned in the heart of one of London’s most sought-after neighborhoods, this bright and beautifully appointed apartment at 8 Bayswater Mansions offers the quintessential West London lifestyle. Housed within a handsome classic period building directly on the prestigious Westbourne Grove, this stylish rental property perfectly balances contemporary interiors with unbeatable local amenities right on your doorstep.\n\nUpon entering the apartment, you are greeted by a flow of natural light, neutral decor, and warm wood-effect flooring that extends throughout the principal living spaces. The spacious, inviting reception room features large windows that flood the room with daylight. The clever layout offers ample room for generous lounge seating as well as a dedicated dining setup, making it an ideal environment for both relaxing weekend afternoons and entertaining guests.\n\nAdjacent to the living area, the well-appointed contemporary kitchen is designed for both form and function. It features sleek white cabinetry, contrasting dark countertops, and modern integrated appliances. A highly practical breakfast bar cut-out connects the kitchen seamlessly to the living space, ensuring a sociable, semi-open-plan feel that is perfect for casual morning coffees or keeping the conversation flowing while cooking.\n\nThe serene, well-proportioned double bedroom offers a peaceful retreat from the bustling city outside, providing plenty of space for freestanding storage and a large double bed. A true standout feature of the home is the striking modern bathroom. Styled with a vibrant, floor-to-ceiling teal mosaic tiling that creates a stylish, spa-like atmosphere. The suite is completed by high-quality white fixtures, a heated chrome towel rail, and a full-size bath with a overhead shower.\n\nLiving at 8 Bayswater Mansions places you at the vibrant intersection of Bayswater and Notting Hill. Westbourne Grove is internationally renowned for its eclectic mix of high-end fashion boutiques, independent artisanal bakeries, and a thriving café culture. Step outside your front door to enjoy world-class eateries and the extensive retail offerings along nearby Queensway.\n\nWhen you need an escape from the urban energy, the vast, leafy expanses of Hyde Park and Kensington Gardens are just a short stroll away, providing a spectacular setting for morning runs or relaxed walks. Commuting is also effortless with exceptional transport connections. Bayswater and Queensway Underground stations are both within a few minutes' walk, while nearby Paddington Station offers rapid access to the Elizabeth Line, National Rail, and the Heathrow Express.",
+ "keyFeatures": [
+  "Lift Access",
+  "Heart of Bayswater and Notting Hill",
+  "Excellent location",
+  "Open plan, kitchen-living room"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/503f595fc/92529471/503f595fc8e4ca1150c1738a86b2787d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6cf003148/92529471/6cf003148b33adaf56cbd893d67b92eb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6bf8c0caa/92529471/6bf8c0caa6961fec79ba12c6bf906833.jpeg",
+  "https://media.rightmove.co.uk/property-photo/45e35c8dd/92529471/45e35c8ddb33b91bcb79e27e1df29a34.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e55946619/92529471/e55946619dbbac194e91c34415a36192.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d905e129c/92529471/d905e129cb87e81933aed02acd4df796.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d37966bda/92529471/d37966bda155ede3aec7933ddb29f122.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1204791d7/92529471/1204791d7771265706b9d278d214589d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/135658612/92529471/135658612f5f1098c4e30604fe555315.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5daed1491/92529471/5daed1491a136987d09302233cd49a83.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Royal Oak Station",
+   "miles": 0.2377087368139314,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Bayswater Station",
+   "miles": 0.2402291840203747,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Queensway Station",
+   "miles": 0.37741236064769346,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "London Executive, London",
+ "city": "London",
+ "sourceOutcode": "W2",
+ "scrapedAt": "2026-08-30T10:16:15.768Z"
+}

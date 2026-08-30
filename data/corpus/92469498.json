@@ -1,0 +1,81 @@
+{
+ "id": "92469498",
+ "displayAddress": "Springvalley Terrace, Morningside, Edinburgh, EH10",
+ "outcode": "EH10",
+ "incode": "4QB",
+ "latitude": 55.92899,
+ "longitude": -3.21152,
+ "priceAmount": 1200,
+ "priceLabel": "£1,200 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92469498",
+ "area": "Morningside, Edinburgh",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 1200,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Home Sweet Home is excited to present this 1-bedroom, 1 box room 1st floor flat located in the desired area of Morningside, Edinburgh. \n\nThe property comprises a bright open plan living room/kitchen with dining area. A spacious double bedroom with storage, a box room which can be utilised as a study and bathroom with mains shower. The utility room just off the lounge includes a washing machine and combi-boiler.\n\nThe kitchen is equipped with an integrated electric oven and hob, extractor hood and a fridge with freezer compartment. A microwave and toaster also come with the property. \n\nTenants will benefit from having gas central heating throughout the property, double-glazed windows, a secure entry system and access to a communal garden to the rear of the property. \n\nSpring valley Terrace is in the popular area of Morningside close to the vibrant areas of Fountainbridge, Marchmont and Bruntsfield. There is a lot to offer tenants close by. Bruntsfield and the surrounding areas have great independent restaurants, shops and pubs. Fountainpark is just a few minutes drive away where you can find a cinema, restaurants and bowling alley. Also within walking distance are the Kings Theatre, Cameo Cinema and other old town attractions.\n\nIf you like the open air, the property is just a few minutes drive to the meadows, one of the city's best-loved public parks\n\nMorningside is well connected to the rest of the city with excellent bus routes passing close by and located just a short drive from Haymarket Station. \n\nSorry, this property isn’t suitable for smoking or pets.\n\nCouncil tax – C, Deposit - £1200\n\nHome Sweet Home Letting is a registered letting agency - LARN1902003, accredited by LAS and a member of the CLA.\n EPC rating: C.  Landlord Registration Number: 261767/230/09441.",
+ "keyFeatures": [
+  "Shower over bath",
+  "Double glazing",
+  "Washing machine",
+  "Fridge Freezer"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/73f1c83a1/92469498/73f1c83a1cfe6693ac045b96452e5ebc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cdbb845c2/92469498/cdbb845c2e6e8ed1aeae75c4a7ff5978.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2934167b1/92469498/2934167b14aa5efee61d2024a2ef2c3c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/52c937b42/92469498/52c937b42b731453b6e6f77868f51966.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f8ea90f62/92469498/f8ea90f626d0db2a3255a2164fa1ab3a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f9bb66dab/92469498/f9bb66dabf7a8c89d761c017e6c4f54d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f56d59eae/92469498/f56d59eaeb880b8a09c59c14bd03ad3a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bc53a1c1a/92469498/bc53a1c1a546ae5c02cac276f878ae4d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7689000b8/92469498/7689000b8c1c48d092a75006fc90ca0b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/880278ef3/92469498/880278ef3ea2a2e7f2da6e31244ce4d3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/99434798f/92469498/99434798fdaf62084aa07749b65650f4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/649401729/92469498/649401729f4823f852a179ca716e2957.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c725fdd75/92469498/c725fdd75eebcb380d0d4d203dde7bf7.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Haymarket Station",
+   "miles": 1.1614255180709243,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 1.2514448625788943,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 1.8027632749233002,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "HOME SWEET HOME LETTING AGENCY, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH10",
+ "scrapedAt": "2026-08-30T11:04:11.369Z"
+}

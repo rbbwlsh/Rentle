@@ -1,0 +1,80 @@
+{
+ "id": "92285586",
+ "displayAddress": "Chelwood Drive, Leeds, West Yorkshire, UK, LS8",
+ "outcode": "LS8",
+ "incode": "2AT",
+ "latitude": 53.845718,
+ "longitude": -1.519511,
+ "priceAmount": 1150,
+ "priceLabel": "£1,150 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92285586",
+ "area": "West Yorkshire, UK",
+ "bedrooms": 2,
+ "bathrooms": null,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Part furnished",
+  "letAvailableDate": "19/09/2026",
+  "deposit": 1326,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "TWO BEDROOM FIRST & SECOND FLOOR DUPLEX APARTMENT with PRIVATE BALCONY. Situated close to STREET LANE and walking distance of Roundhay Park. Available mid September\n\n\rRecently refurbished TWO BEDROOM FIRST & SECOND FLOOR DUPLEX APARTMENT with PRIVATE BALCONY. Situated close to STREET LANE and walking distance of Roundhay Park. \n\nAvailable PART FURNISHED.     \n The flat has its own private entrance, with lots of private storage space in the lobby. Space at the bottom of the stairs for bikes, Stairs to first floor. Private Entrance Hall. Lounge Diner with lots of windows allowing NATURAL LIGHT ,  Separate Breakfast Kitchen with access to Balcony with space for both a bistro table and chairs in the kitchen or on the balcony,    Main Double Bedroom & Second Double Bedroom. Large House Bathroom with Shower over bath. Gas central heating. Double glazed. OFF ROAD PARKING . Additional on street parking ,Security alarm.  \n\nIdeal for a Couple. \n\nNO SMOKERS\n\nDeposit : £1326                        Energy Efficiency Rating:  C",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/120a3fec4/92285586/120a3fec4bfda87bee3c67dee9fe2da2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/56ac281e2/92285586/56ac281e223102141d736bd425272e6b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/45ca5a97f/92285586/45ca5a97f6491ad04cbd6e22b6fa11e8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a25d5f7f3/92285586/a25d5f7f3b9566b52a097b84070d760b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6f657bb28/92285586/6f657bb28ca47b59aede68ad59e7980d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/df1ed3c9b/92285586/df1ed3c9b6d24ffdb67e1860eb45d8cd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dc475f3cd/92285586/dc475f3cd3a984b348601eda4e0ed512.jpeg",
+  "https://media.rightmove.co.uk/property-photo/775ad7bad/92285586/775ad7bad295f8ef756abe6503a8bf6c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fc94fa6b6/92285586/fc94fa6b6022d122a1ec78a08cedda0f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/558b8a673/92285586/558b8a67344187b52c0427c13e8476f4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a1c4da274/92285586/a1c4da27443b0e7a1fbd8ae771d4cb7c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/31b6b8973/92285586/31b6b897354cf835d7c493ed10f04346.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4d26c174a/92285586/4d26c174a6f76182148118731c9895e0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b6d6eec92/92285586/b6d6eec92f5584d8de2399812dd004ed.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ac2966ec8/92285586/ac2966ec8fb7b0a95861fafd484cdc95.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8981d6ee6/92285586/8981d6ee61677c08b5603a8c227dee44.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b149bf10b/92285586/b149bf10b477fe516bf50059b7a41da0.jpeg"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "Burley Park Station",
+   "miles": 3.345046587591559,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 3.6058944831618165,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Leeds Station",
+   "miles": 3.752585362565676,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Linley & Simpson, Roundhay",
+ "city": "Leeds",
+ "sourceOutcode": "LS8",
+ "scrapedAt": "2026-08-30T10:25:18.135Z"
+}

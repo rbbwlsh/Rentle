@@ -1,0 +1,80 @@
+{
+ "id": "90831126",
+ "displayAddress": "Mare Street, Hackney",
+ "outcode": "E8",
+ "incode": "1HA",
+ "latitude": 51.54653,
+ "longitude": -0.05489,
+ "priceAmount": 1800,
+ "priceLabel": "£1,800 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90831126",
+ "area": "Hackney",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 403,
+  "sizeSqM": 37,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "12/09/2026",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": 403,
+ "sizeSqM": 37,
+ "description": "Located in the heart of vibrant Hackney, Offering approximately 403 sq. ft. of well-planned accommodation, this attractive apartment features a spacious open-plan reception room and modern fitted kitchen, creating a light and comfortable living space ideal for both relaxing and entertaining. Large windows allow an abundance of natural light to flood the property, while the kitchen offers a range of fitted units, generous worktop space, an integrated oven and gas hob, and space for additional appliances. The property further comprises a generously sized double bedroom and a fully tiled bathroom with a bath and shower over, wash hand basin and WC. Finished in neutral décor with wood flooring throughout the principal living areas, the apartment is ready for immediate occupation.\nSituated on the top floor, the property enjoys an elevated position and is perfectly placed to take advantage of everything Hackney has to offer. Mare Street's vibrant selection of cafés, restaurants, bars and independent shops are right on the doorstep, while Broadway Market, London Fields and Victoria Park are all within easy reach. Hackney Central and Hackney Downs stations are within walking distance, providing excellent transport links to the City, Shoreditch, Stratford and beyond.",
+ "keyFeatures": [
+  "Conversion - Furnished",
+  "1 Bed + 1 Reception",
+  "1 Bathroom",
+  "Shower",
+  "Energy Rating : D",
+  "Council Tax Band B",
+  "No special accessibility",
+  "No Parking",
+  "Washing Machine",
+  "Gas Central Heating"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/440ad77f3/90831126/440ad77f3149fcec4b4981a409984344.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d38bd8d6e/90831126/d38bd8d6e1e75488ebb942656491adfe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fb1ba71de/90831126/fb1ba71de9f8d59af369ba9a4fa89ffe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ba46e4767/90831126/ba46e47675d7fe2b5113b7488b065931.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7ec419a3c/90831126/7ec419a3ca8356235194091f29a55a96.jpeg",
+  "https://media.rightmove.co.uk/property-photo/27d81b618/90831126/27d81b618272ef932503bb1a16d4e888.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Hackney Central Station",
+   "miles": 0.0538297735567017,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Hackney Downs Station",
+   "miles": 0.25921200007761186,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "London Fields Station",
+   "miles": 0.4278992992270692,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "London Move, London",
+ "city": "London",
+ "sourceOutcode": "E8",
+ "scrapedAt": "2026-08-30T10:13:23.249Z"
+}

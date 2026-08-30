@@ -1,0 +1,91 @@
+{
+ "id": "92549694",
+ "displayAddress": "Aston Place, B1",
+ "outcode": "B1",
+ "incode": "1FU",
+ "latitude": 52.477873,
+ "longitude": -1.905248,
+ "priceAmount": 1115,
+ "priceLabel": "£1,115 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92549694",
+ "area": "Aston Place",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished or unfurnished, landlord is flexible",
+  "letAvailableDate": "Now",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Welcome to Aston Place—modern city living in the very heart of Birmingham. Just a 6-minute stroll from New Street Station and the Bullring, you’ll have world-class shopping, dining, and the city’s tram network right on your doorstep.\r\n\r\nDesigned with style and comfort in mind, each apartment features a high-quality interior finish, with the option to choose from a range of contemporary furniture packages to make the space your own.\r\n\r\nBut Aston Place is more than just a place to live—it’s a community. With thoughtfully curated events and shared spaces, there are plenty of opportunities to connect, unwind, and enjoy life beyond your front door:\r\n\r\n- Resident events including wine tastings, pottery classes, and more\r\n\r\n- Fully equipped on-site gym\r\n\r\n- Dedicated co-working and social spaces\r\n\r\n- The Club Kitchen—a bookable space for dinner parties and gatherings\r\n\r\n- Pet-friendly options available in selected apartments\r\n\r\n- On-site parking available (additional cost)\r\n\r\nWith 24-hour resident services and maintenance on hand, Aston Place is ideal for busy renters looking for convenience, connection, and a home that works for their lifestyle.\r\n\r\n*Available for student lets.\nViewing Tour disclaimer: This advertisement relates to a specific unit at the stated rent. Where multiple units are available within the same development, you may be shown other apartments during your viewing. Each unit is marketed at its own advertised rent, which will be clearly confirmed to you before any offer is submitted. We do not accept offers above the advertised rent for any property. The rent agreed will always be the advertised rent for the selected unit, in accordance with the Renters’ Rights Act.",
+ "keyFeatures": [
+  "Balcony or terrace in every apartment",
+  "Free superfast WiFi",
+  "On site gym",
+  "Club kitchen for hosting",
+  "On site resident services and maintenance",
+  "Parcel collection and storage",
+  "Co working and social spaces",
+  "Bike storage"
+ ],
+ "tags": [
+  "BUILT_FOR_RENTERS",
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/67537cb06/92549694/67537cb06b7fa086cab0410f95e99ac0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f655fd638/92549694/f655fd63870a635969430436debcb7c9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5981c3a10/92549694/5981c3a10dd78f679c35e01c1980fb62.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0e2446427/92549694/0e24464272a07a2b43e7dac0c4b8287a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/650c62626/92549694/650c62626ad84a45f3bf2d145773d4e1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a10b7530d/92549694/a10b7530d734323752f42f0ae8da27a5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/600e7f227/92549694/600e7f2278dbf7c31b613747b36bb76f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/52526bba5/92549694/52526bba55ea0b86425f6b4e8f1ff6f3.png",
+  "https://media.rightmove.co.uk/property-photo/0c25fe9c9/92549694/0c25fe9c952c81e6250dd5221f1a2852.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bfb9416f5/92549694/bfb9416f5296d2933ffd869a1f88552b.png",
+  "https://media.rightmove.co.uk/property-photo/250cc4183/92549694/250cc418347d3bca59ad885431c0fda2.png",
+  "https://media.rightmove.co.uk/property-photo/193c84587/92549694/193c84587bcb730aafb8ba29409f7a84.png",
+  "https://media.rightmove.co.uk/property-photo/6977fa768/92549694/6977fa768ebc63583c781e6711a436ee.png",
+  "https://media.rightmove.co.uk/property-photo/7dda3de25/92549694/7dda3de2512548aaed3cb2df26026abf.png",
+  "https://media.rightmove.co.uk/property-photo/1d0a8ab4a/92549694/1d0a8ab4a82e92ca9bafdfec4f53834f.png",
+  "https://media.rightmove.co.uk/property-photo/3b1534bfe/92549694/3b1534bfe781ae695d37c26e79023609.png"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 0.2661341166247867,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Snow Hill Station",
+   "miles": 0.436917135968778,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Snow Hill Tram Stop",
+   "miles": 0.4979663761557149,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Home Made, London",
+ "city": "Birmingham",
+ "sourceOutcode": "B1",
+ "scrapedAt": "2026-08-30T10:19:17.013Z"
+}

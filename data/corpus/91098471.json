@@ -1,0 +1,83 @@
+{
+ "id": "91098471",
+ "displayAddress": "6 Clyde Road, Didsbury, Manchester, M20 2WH",
+ "outcode": "M20",
+ "incode": "2WH",
+ "latitude": 53.426538,
+ "longitude": -2.240386,
+ "priceAmount": 895,
+ "priceLabel": "£895 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91098471",
+ "area": "Didsbury, Manchester",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "11/09/2026",
+  "deposit": 1032,
+  "minimumTermMonths": 1,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "WATCH VIDEO TOUR! Granite Lettings & Property Management are proud to present this one bedroom, fully furnished apartment in the popular area of West Didsbury.  The apartment is a duplex so is set over two floors and briefly comprises:  lounge / dining area with bay window, storage cupboard and separate kitchen to the upper floor.  Stairs lead down to the master bedroom with ensuite bathroom with shower over bath.  Set in the popular area of West Didsbury the apartment is within easy reach to local bars and restaurants.  There is good access for Manchester City Centre, Fallowfield, Universities and Manchester Christie Hospital.  The apartment has easy access to the M56 / M60 / M62 and easy access to the airport for those who commute.\n\nMaximum occupancy is TwoTenants.\n\nNO CORPORATE LETS OR AIR BNB. \n\nYou must attend a viewing of the property before you can make an offer to rent the property. Viewing the property and making an offer does not guarantee you will be successful in renting the property. Viewings are booked on a first come first served basis. \n\nTo make an offer for this property and to ensure the applicant is eligible, the applicant should meet the following affordability benchmark, this will ensure they meet the landlords expectations and pass through our referencing procedure. The applicant must be in full time employment in the UK, have been in their current role for more than 3 months and earning a minimum (basic) salary of £32,220 per year. If there are multiple applicants, the total, combined, yearly salaries must be at least this amount. If the applicant does not meet these requirements, they must provide a UK guarantor. To ensure the guarantor is eligible, the guarantor must be in full time employment in the UK, have been in their current role for more than 3 months and earning a minimum (basic) salary of £32,220 per year.\n\nWhen making an enquiry, please confirm your ideal move in date and that can meet the above affordability criteria, this helps speed up the enquiry process and will ensure you get a viewing quickly. \n\nIf you have viewed the property, made an offer and the landlord has accepted, you will then be invited to reserve the property. To reserve a property, a holding fee, equivalent to one weeks rent is required, the holding fee will then contribute towards your first month`s rent.\n\nThe tenant is responsible for all utilities, council tax, broadband and TV license. Bills are not included.\n\nIf you have any concerns about proposed building works within the vicinity, we advise you take personal responsibility to seek out details of any proposed planning applications on the local council website. Our enquires team and viewing representatives may not always have full details of any proposed planning applications and we will therefore not be held responsible for any incorrect information provided.\n\nThere are two deposit options, the tenant can pay a traditional deposit equivalent to 5 weeks Rent or a Zero Deposit option is available, for more information visit reposit.co.uk\n\nUnfortunately the landlord does not allow pets in this property.\n\nCouncil Tax Band A - £1455.36 - Manchester City Council [Prices correct as of 2025/2026 - please always refer to the council website]\n\nwhat3words ///  assets.belts.towers\n\nNotice\nAll photographs are provided for guidance only.\n\nRedress scheme provided by: The Property Ombudsman (D6830)\nClient Money Protection provided by: Client Money Protect CMP (CMP007984)",
+ "keyFeatures": [
+  "One Bedroom",
+  "Ground Floor",
+  "Fully Furnished",
+  "Lounge / Dining Area",
+  "Separate Kitchen",
+  "Family Bathroom",
+  "Parking",
+  "Good Access to City Centre",
+  "Close To Local Bars &amp; Restaurants"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/6095f9456/91098471/6095f945602b3b0a01bd7a61aa238f93.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8e744863b/91098471/8e744863b9aacff4c5cb2a4735fbe28b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/725b1fd95/91098471/725b1fd957edd0854499ac41ddfe0ec2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e9d138484/91098471/e9d138484411c87783cf98750e38ca03.jpeg",
+  "https://media.rightmove.co.uk/property-photo/70738122a/91098471/70738122a345d2593675ca20a7aec9d3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e7fd74a68/91098471/e7fd74a6812d7582b29def9ae75a8a9f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fc9bbca85/91098471/fc9bbca85e31ae9a18aa8bae267a7ef2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/48b305e40/91098471/48b305e40ca900522b66bcdba9aee4c1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7b766a505/91098471/7b766a505032dffe6051096d5a798a51.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1ab47f776/91098471/1ab47f7764498d84f42017213e34ec82.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 0.18021772917312195,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 0.2198711709555625,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Withington Tram Stop",
+   "miles": 0.561370239414913,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Granite Lettings & Property Management - Residential Lettings & Sales, Northern Quarter",
+ "city": "Manchester",
+ "sourceOutcode": "M20",
+ "scrapedAt": "2026-08-30T10:18:29.049Z"
+}

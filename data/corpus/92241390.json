@@ -1,0 +1,71 @@
+{
+ "id": "92241390",
+ "displayAddress": "Norman Place, Leeds",
+ "outcode": "LS8",
+ "incode": "2AW",
+ "latitude": 53.845623,
+ "longitude": -1.510325,
+ "priceAmount": 625,
+ "priceLabel": "£625 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92241390",
+ "area": "Leeds",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/11/2026",
+  "deposit": 720,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "1 Bedroom furnished flat just off Street Lane in Roundhay. The property has been re decorated and has a new sofa, bed and new carpets throughout. The property has an open plan lounge and kitchen furnished with sofas, a washing machine and a fridge freezer. There is a double bedroom furnished with a bed and fitted wardrobes with a separate bathroom with a shower over the bath. The property has on street parking available and is on the main bus routes into the city centre.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/090c90dc1/92241390/090c90dc1ef27934f974eb26682d6ee0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/92d90d124/92241390/92d90d124e1690a2bfb1921bc9bd1e06.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b183c3426/92241390/b183c3426a4f11d0d3813a6e1a6592b0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/88fd3a060/92241390/88fd3a0606bee5153ef575af8b7ffece.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9452bdcf1/92241390/9452bdcf1618bbbb2014f1ea52e69bac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/31479bb62/92241390/31479bb62bcfdf7704cbc0c87d0b99a5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e200b0e9a/92241390/e200b0e9ad2de5a631df0b2372519a94.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b87acbfff/92241390/b87acbfff77c70047b1a0a3fd39b0113.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Burley Park Station",
+   "miles": 3.6196284738438314,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cross Gates Station",
+   "miles": 3.736783344660221,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Leeds Station",
+   "miles": 3.876390213955018,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "SJM Properties, Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS8",
+ "scrapedAt": "2026-08-30T10:25:21.350Z"
+}

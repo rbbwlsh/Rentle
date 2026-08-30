@@ -1,0 +1,82 @@
+{
+ "id": "92543322",
+ "displayAddress": "Turnpike Lane, Haringey",
+ "outcode": "N8",
+ "incode": "0EP",
+ "latitude": 51.58969,
+ "longitude": -0.10532,
+ "priceAmount": 2750,
+ "priceLabel": "£2,750 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92543322",
+ "area": "Haringey",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": 1039,
+  "sizeSqM": 96,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "08/10/2026",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": 1039,
+ "sizeSqM": 96,
+ "description": "A modern spec and spacious three-bedroom flat located on Turnpike Lane in Hornsey. 96 Sqm / 1038 Sft in Size. \n\nThe property has been tastefully decorated throughout and offers three well-sized bedrooms, along with a large open plan kitchen and reception room. The kitchen is fully fitted with an electric hob, oven, fridge freezer and washing machine.\n\nAdditional features include, gas central heating, double glazed windows, ample storage and high standard furniture is provided.\n\nThe flat is set in a lively and well-connected area moments from Turnpike Lane Underground Station (Piccadilly Line), as well as Hornsey Overground Station for quick access into the City. \n\nLocal bus routes are excellent, and the high street offers a wide variety of shops, cafés, restaurants and everyday amenities. \n\nDucketts Common and Priory Park are nearby, providing great open green spaces.\n\nAvailable 08th of October, Contact Ariston Property to arrange a viewing.",
+ "keyFeatures": [
+  "3-Bedroom Flat - Available 8th of October",
+  "96 Sqm / 1038 Sft",
+  "Moments from Turnpike Lane Station (Piccadilly Line)",
+  "Open plan kitchen with living space",
+  "Great Condition",
+  "Shower &amp; Wc",
+  "Council Tax Band B",
+  "Fully Furnished",
+  "Washing Machine",
+  "Gas Central Heating"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f7e0ea4dd/92543322/f7e0ea4dd4314b65323af87eb6fa55f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/562f72b71/92543322/562f72b717956a5abab21a02a2acc34f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/00a7bb6bb/92543322/00a7bb6bb65ac6b2b13008bd4f4c46e0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/de36c424a/92543322/de36c424aecdc70ccf32eb8839d6fa69.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8501835ee/92543322/8501835ee84263317d5ace033f4435a3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/406da977a/92543322/406da977a14ef3540b2e2508f412e020.jpeg",
+  "https://media.rightmove.co.uk/property-photo/449736e7f/92543322/449736e7f486d398ca6cec7d3e9e534e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/272093416/92543322/2720934168f9d6952aee1c7a35268e4e.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Turnpike Lane Station",
+   "miles": 0.1211933162521444,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Hornsey Station",
+   "miles": 0.35768665094222885,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Wood Green Station",
+   "miles": 0.5595923213026409,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "Ariston Property, London",
+ "city": "London",
+ "sourceOutcode": "N8",
+ "scrapedAt": "2026-08-30T10:13:43.628Z"
+}

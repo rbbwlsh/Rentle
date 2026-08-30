@@ -1,0 +1,71 @@
+{
+ "id": "92346270",
+ "displayAddress": "Park Cottages, Leeds, West Yorkshire, LS8",
+ "outcode": "LS8",
+ "incode": "2ER",
+ "latitude": 53.839806,
+ "longitude": -1.502222,
+ "priceAmount": 1395,
+ "priceLabel": "£1,395 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92346270",
+ "area": "Leeds, West Yorkshire",
+ "bedrooms": 2,
+ "bathrooms": null,
+ "propertySubType": "House",
+ "details": {
+  "propertyType": "House",
+  "bedrooms": 2,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "17/10/2026",
+  "deposit": 1609,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Fantastic location by Roundhay Park. Close to local amenities. Close to major bus and transport links. Private garden with gardener included. house alarm. two allocated parking spaces.\n\n\rLinley and Simpson are delighted to present this beautiful stone built two bedroom cottage. The property benefits from its many original features as well as having a private garden, secure store room and two allocated parking spaces. Located just on the edge of Roundhay Park just a few minutes walk to Canal Gardens, Tropical World and the many amenities on Street Lane. This unique property is available UNFURNISHED and briefly comprises; Open plan living room/kitchen with fireplace, master bedroom with built in wardrobes, second bedroom, and contemporary house bathroom with shower over bath.  \nGas central heating and double glazing throughout.  Large storage undercroft - acces from outside.\n\nNo smokers\nUnsuitable for small children\nAlarm. \nPrivate garden.  \nSecure gate access\nTwo allocated parking spaces. \nDeposit : £1609\nEnergy Performance Rating : C\nCouncil Tax Band: C",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/653ec6881/92346270/653ec6881d15c43ddd944c0920233530.jpeg",
+  "https://media.rightmove.co.uk/property-photo/24795c943/92346270/24795c943f3ea744ecfaaef0de77a5b9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7c7c72a9c/92346270/7c7c72a9c609371abfc9e1577e252c3a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3e6dd6075/92346270/3e6dd60750e5e7e125085b1c877ac293.jpeg",
+  "https://media.rightmove.co.uk/property-photo/67dcb1eea/92346270/67dcb1eead9b9fc33d11874e211cf531.jpeg",
+  "https://media.rightmove.co.uk/property-photo/228138f0d/92346270/228138f0d2cfdc4e7909099f3cc925ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/08246bfc3/92346270/08246bfc386eb1f1320d0d92a4d260fb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/720b6a8af/92346270/720b6a8af2f87e8de9665ee850dd2668.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Cross Gates Station",
+   "miles": 3.2157295155924017,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 3.6524756405861893,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Leeds Station",
+   "miles": 3.663833605615716,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Linley & Simpson, Roundhay",
+ "city": "Leeds",
+ "sourceOutcode": "LS8",
+ "scrapedAt": "2026-08-30T10:25:12.427Z"
+}

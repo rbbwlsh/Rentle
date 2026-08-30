@@ -1,0 +1,79 @@
+{
+ "id": "92527293",
+ "displayAddress": "Lavender Sweep, \nClapham Junction, SW11",
+ "outcode": "SW11",
+ "incode": "1HD",
+ "latitude": 51.461567,
+ "longitude": -0.164942,
+ "priceAmount": 3350,
+ "priceLabel": "£3,350 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92527293",
+ "area": "Lavender Sweep, Clapham Junction",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": 929,
+  "sizeSqM": 86,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 3865,
+  "minimumTermMonths": 12,
+  "councilTaxBand": "D"
+ },
+ "sizeSqFt": 929,
+ "sizeSqM": 86,
+ "description": "**Families or couples only** A spacious three bedroom split level apartment on Lavender Sweep. The property has been finished to a high standard throughout and comprises two large double bedrooms, a third smaller bedroom, two modern bathrooms (one en-suite), fully fitted eat in kitchen, exceptionally large hallway making a perfect work from home space, separate reception room with feature fireplace, and private roof terrace.\n\nLavender Sweep is a popular one way residential road conveniently located moments from the many shops, bars and restaurants of Battersea Rise, Northcote Road and St Johns Road whilst Clapham Junction Station is close by providing excellent transport links into Central London and The City. The green open spaces of Clapham Common can also be found within close proximity.\n\nOur China Desk is here for you, if Chinese is your preferred language, please get in touch via WeChat (ChestertonsLettings)",
+ "keyFeatures": [
+  "Three Bedrooms",
+  "Private Terrace",
+  "Separate Kitchen",
+  "Close to Clapham Junction"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/035c5341e/92527293/035c5341ea3a4128b856f2a67f60a81d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2561c4e1f/92527293/2561c4e1f52e9af0381cd496b4c53c7f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a4ae6c1f9/92527293/a4ae6c1f9f5607b7438f13ccfa9c19b5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/604335f7b/92527293/604335f7bc807655f7c404dd5c6b90ce.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eb29e2858/92527293/eb29e28583f18be03ea6c11753b65f96.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee6584978/92527293/ee65849781a4363b0b4a061036d2d459.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f833e48c5/92527293/f833e48c5e472948a86ceac34543d629.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1f0d82546/92527293/1f0d82546dd6c871e78c5afcb9903a5d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/62e48f774/92527293/62e48f77479b0d528f0e4731d0bb1021.jpeg",
+  "https://media.rightmove.co.uk/property-photo/829292f77/92527293/829292f773aaff1920d8b5af2065fb68.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Clapham Junction Station",
+   "miles": 0.2279520608900088,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Clapham South Station",
+   "miles": 0.9585434450065701,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Wandsworth Town Station",
+   "miles": 0.9970647392913898,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Chestertons, Battersea",
+ "city": "London",
+ "sourceOutcode": "SW11",
+ "scrapedAt": "2026-08-30T10:15:36.784Z"
+}

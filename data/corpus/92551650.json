@@ -1,0 +1,77 @@
+{
+ "id": "92551650",
+ "displayAddress": "Church Street, Manchester, Greater Manchester, M4",
+ "outcode": "M4",
+ "incode": "1PN",
+ "latitude": 53.48298,
+ "longitude": -2.237967,
+ "priceAmount": 1200,
+ "priceLabel": "£1,200 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92551650",
+ "area": "Manchester, Greater Manchester",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 1384,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "AVAILABLE NOW | Fully Furnished | One Double Bedroom | Deansgate Area | Great Transport Routes & Walking Distance to the City Centre\n\n\rDescription\n\nSavills are Delighted to Present this Fully Furnished, One-Bedroom Apartment in Pall Mall House, ideal for City Centre living.\n\nThis well-presented one-bedroom apartment offers spacious and characterful accommodation, featuring a generous open-plan living and dining area with large windows that provide excellent natural light and attractive views across the City Centre skyline. The property also benefits from a separate fitted kitchen with integrated appliances and a well-proportioned double bedroom, creating a comfortable and practical home in the heart of Manchester.\n\nPall Mall House is a converted warehouse located on Church Street in the heart of the Northern Quarter. The conversion has been completed to a high standard while retaining many original character features, complemented by an Art Deco-inspired communal entrance and lobby. The building rises to eight storeys, with the lower two floors occupied by commercial units. Ideally positioned for everything the City Centre has to offer, this sought-after location is moments from the bars, restaurants and independent shops for which the Northern Quarter is renowned.\n\nThe block is accessed via a secure entry system directly from Church Street and benefits from two lifts and stair access to all floors.\n\nPlease note that students will not be considered for this property. This restriction is a requirement of the landlord's mortgage lender and is not at the landlord's discretion.\n\nThis property has cladding, as far as we know the current position with the property is: It’s been tested and there are no works required.*\n*You should make enquires about the external wall system of the property, if it has cladding and if it is safe or if there are interim measure in place.\n\n\r\n\r \r\n\nAdditional Info\n\nHolding Deposit : £276.92 ( 1  week )\nDeposit Payable : £1,384.62 ( 5 weeks ) \nRent must be paid monthly in advance",
+ "keyFeatures": [
+  "AVAILABLE NOW!",
+  "One Double Bedroom",
+  "Fully Furnished",
+  "City Centre Location",
+  "Thoughtfully Designed Interiors",
+  "EPC Rating = C"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1303da9d2/92551650/1303da9d26f1902e12490d3a395716a5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a5d67f0f9/92551650/a5d67f0f9c48be8e3829f918393e270d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ae93a4dbc/92551650/ae93a4dbcefecd6737382d2320d20b5c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5bcfbd743/92551650/5bcfbd743b340ebdff7c4d68e1decfb8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c1b754d67/92551650/c1b754d67c2aeb6b35df25a7247a9aaa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/160293ed6/92551650/160293ed6a1c323c2fd284085d0bfa32.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bcfbae2bc/92551650/bcfbae2bc8cd5b7dd97f2e14467b69e6.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Market Street Tram Stop",
+   "miles": 0.09155826729686126,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Mosley Street Tram Stop",
+   "miles": 0.18614477074808305,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Piccadilly Gardens Tram Stop",
+   "miles": 0.21151879681375974,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Savills Lettings, Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M4",
+ "scrapedAt": "2026-08-30T10:17:19.944Z"
+}

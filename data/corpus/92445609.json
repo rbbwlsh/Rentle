@@ -1,0 +1,91 @@
+{
+ "id": "92445609",
+ "displayAddress": "Choumert Road London SE15",
+ "outcode": "SE15",
+ "incode": "4AA",
+ "latitude": 51.46741,
+ "longitude": -0.07399,
+ "priceAmount": 6000,
+ "priceLabel": "£6,000 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92445609",
+ "area": "SE15 area",
+ "bedrooms": 5,
+ "bathrooms": 2,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "sizeSqFt": 1,
+  "sizeSqM": 0,
+  "letType": "Short term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "09/11/2026",
+  "deposit": 6923,
+  "minimumTermMonths": 0,
+  "councilTaxBand": "E"
+ },
+ "sizeSqFt": 1,
+ "sizeSqM": 0,
+ "description": "SHORT-TERM LET. A spacious and beautifully presented five-bedroom period house arranged over three floors, offering approximately 2,111 sq ft of well-proportioned accommodation in the heart of Peckham.\nThe ground floor features two generous reception rooms, together with a large contemporary kitchen/dining room opening onto a private rear garden. A convenient guest WC completes the ground floor.\nThe upper floors comprise five good-sized bedrooms, a family bathroom and an additional shower room.\nPerfectly suited to insurance relocations, home refurbishments or other short-term stays, this home combines period character with modern living in a highly sought-after location. To check broadband and mobile phone coverage please visit Ofcom here ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/ofcom-checker",
+ "keyFeatures": [
+  "Five generous bedrooms",
+  "Two bathrooms &amp; ground floor WC",
+  "Private Rear Garden",
+  "Spacious kitchen/dining room",
+  "Two reception rooms",
+  "Good transport connections",
+  "Close to Peckham Rye Station"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/4c866c869/92445609/4c866c869aa89d9339a20fab26cb43f6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/277a728d4/92445609/277a728d44c12d6d6e4d4f599a36237f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cb386318e/92445609/cb386318e7bc03ec54c50342236c76a9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d58e0639c/92445609/d58e0639c19c6d5b73e3fad7b01859f3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c334d7138/92445609/c334d71389d3367a4813ee92247c5971.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6dd0b98b6/92445609/6dd0b98b6232aec9fc9a6b52ed6f84ca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/435ef6ea3/92445609/435ef6ea37dfa612ae53fc56afabc1bf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3f0e0f089/92445609/3f0e0f089831c979a100d4f564576756.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b6e328fa8/92445609/b6e328fa864824acc9475b3312613c40.jpeg",
+  "https://media.rightmove.co.uk/property-photo/439597b73/92445609/439597b7324e8b951ede7371df39c30f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/190419727/92445609/190419727e0821348b73bc40e257dc57.jpeg",
+  "https://media.rightmove.co.uk/property-photo/34cd2ed89/92445609/34cd2ed8973275570c22905eeae8b12a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/453dac618/92445609/453dac6189f952bfb4d2d212ac336571.jpeg",
+  "https://media.rightmove.co.uk/property-photo/82bdf40bc/92445609/82bdf40bc54ee3c0f1ae0b8bf782e83d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/35708818c/92445609/35708818c92f0271a601346fb025704d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ebccbe459/92445609/ebccbe45925408bb170dcc9d06ee05fb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/024828cf5/92445609/024828cf5e7f0b24e6f189a0750f76d8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a2c1587d1/92445609/a2c1587d1fc3c3b49539d11651575f47.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0da847e6f/92445609/0da847e6f044d50ce476e587e8273849.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a69250d25/92445609/a69250d25c0926d72fe6b5e8e8684dcc.jpeg"
+ ],
+ "imageCount": 20,
+ "nearestStations": [
+  {
+   "name": "Peckham Rye Station",
+   "miles": 0.27403314840168147,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "East Dulwich Station",
+   "miles": 0.4895283298163307,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Denmark Hill Station",
+   "miles": 0.6726027535426782,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Hamptons, Dulwich",
+ "city": "London",
+ "sourceOutcode": "SE15",
+ "scrapedAt": "2026-08-30T10:14:39.842Z"
+}

@@ -1,0 +1,77 @@
+{
+ "id": "91724862",
+ "displayAddress": "Coldharbour Road, Redland, BS6",
+ "outcode": "BS6",
+ "incode": "7LX",
+ "latitude": 51.47635,
+ "longitude": -2.609511,
+ "priceAmount": 950,
+ "priceLabel": "£950 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91724862",
+ "area": "Redland",
+ "bedrooms": null,
+ "bathrooms": 1,
+ "propertySubType": "Not Specified",
+ "details": {
+  "propertyType": "Not Specified",
+  "bedrooms": null,
+  "bathrooms": 1,
+  "sizeSqFt": 215,
+  "sizeSqM": 20,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "11/09/2026",
+  "deposit": 1096,
+  "minimumTermMonths": null,
+  "councilTaxBand": "F"
+ },
+ "sizeSqFt": 215,
+ "sizeSqM": 20,
+ "description": "Studio Flat | Redland | Fully Furnished | Council Tax & Water Included | Communal Laundry Facilities | Available 11th September 2026\n\nKey Features: \n\nFully furnished studio flat\n\nPopular Redland location\n\nCouncil tax included in the rent\n\nWater and sewerage included\n\nOpen-plan kitchen/living/bedroom area\n\nSeparate shower room\n\nElectric heating\n\nFree use of communal washing machines and tumble dryers\n\nVirgin Media available for £7 per month with no annual contract\n\nFirst-come, first-served parking\n\nOn-street parking also available\n\nEPC Rating C\n\nAvailable 11th September 2026\n\nDeposit £1153.84\n\nBristol Property Centre are delighted to offer to the market this well-presented, fully furnished studio flat, situated in the highly sought-after area of Redland.\n\nThe property is located on Coldharbour Road, with access from Dundonald Road, and offers a practical open-plan kitchen, living and sleeping area, along with a separate shower room.\n\nThe studio is offered fully furnished and benefits from electric heating. Residents also have free use of communal washing machines and tumble dryers within the building.\n\nFor added convenience, the rent includes council tax, water and sewerage. Virgin Media is also available for an additional £7 per month, with no annual contract required.\n\nParking is available on a first-come, first-served basis, with additional on-street parking available nearby.\n\nAvailable from 11th September 2026.\n\nEPC Rating: C\nParking: First come, first served / on-street parking\n\nPlease contact Bristol Property Centre to arrange your viewing.",
+ "keyFeatures": [
+  "Available 11th September 2026",
+  "Studio",
+  "Shower Room",
+  "EPC- C",
+  "Rent included council tax, water and sewerage.,",
+  "Fully Furnished",
+  "Great Location",
+  "Deposit £1153.84"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c92624977/91724862/c92624977b77931828cd8141e949b63e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/983b8d1c5/91724862/983b8d1c5f33e7264ce314dce6b5ef08.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1c141a3cb/91724862/1c141a3cbba6f20cff35d344f3a49c0a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/80062db31/91724862/80062db310bb9cda9cd2046b12d3aadd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d4dd92319/91724862/d4dd92319b23dcb525583ddb2907f640.jpeg"
+ ],
+ "imageCount": 5,
+ "nearestStations": [
+  {
+   "name": "Redland Station",
+   "miles": 0.7077279960465416,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.8185309782112348,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Montpelier Station",
+   "miles": 1.0530933114898062,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Bristol Property Centre, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS6",
+ "scrapedAt": "2026-08-30T10:23:02.106Z"
+}

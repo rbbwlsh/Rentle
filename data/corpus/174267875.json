@@ -1,0 +1,83 @@
+{
+ "id": "174267875",
+ "displayAddress": "Alcindor Mansions, Paddington Green, London",
+ "outcode": "W2",
+ "incode": "1ER",
+ "latitude": 51.51905,
+ "longitude": -0.17398,
+ "priceAmount": 5350,
+ "priceLabel": "£5,350 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/174267875",
+ "area": "Alcindor Mansions, London",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished or unfurnished, landlord is flexible",
+  "letAvailableDate": "Now",
+  "deposit": 6634,
+  "minimumTermMonths": 6,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A beautifully presented two-bedroom apartment located on Westmark Tower, part of the prestigious West End Gate development in Paddington. The apartment features two bathrooms, a kitchen, and a living room. Floor-to-ceiling windows provide bright natural light, complemented by wooden flooring, creating a bright and elegant living atmosphere.\r\n\r\n1. Residents' Facilities\r\nResidents benefit from an exceptional range of amenities, including a 24-hour concierge, lift access, state-of-the-art gym, swimming pool, private cinema, meeting room, residents' lounge, and an elegant private dining room available for hire.\r\n\r\n2. Neighbourhood\r\nDeveloped by St Edward, West End Gate is finished to an outstanding standard throughout. The property is ideally positioned within easy walking distance of Paddington Station, while Westmark Tower is less than an 18-minute walk from Hyde Park, offering an elegant and livable neighbourhood.\r\n\r\n3. Transportation & Education\r\nWestmark Tower is only a 3-minute walk to Edgware Road station, under 10 minutes to Paddington station, providing excellent transport links across London and beyond. It also offers the perfect commute for students at LBS, UCL, UAL, Imperial, and Regent University.",
+ "keyFeatures": [
+  "2-bedrooms, 2-bathrooms flat",
+  "24/7 concierge, gym, pool, and cinema",
+  "Minutes from Paddington &amp; Edgware Road stations",
+  "Perfect commute to LBS, UCL, Imperial &amp; more"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/694a4a1dc/174267875/694a4a1dc5eb700a47e1aad8ed8bf9f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/037650aa9/174267875/037650aa9f80171dc18606b30f1aa0db.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3faddee0a/174267875/3faddee0a508e3eda3ecebb240eb9d44.jpeg",
+  "https://media.rightmove.co.uk/property-photo/85152d46f/174267875/85152d46f0c657b4b31c153ee48355dd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/00dcdae44/174267875/00dcdae44e9ab01009674688f46df3c6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4479f3183/174267875/4479f3183e6cc31940a9d7e94851d3b9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3c21c40b5/174267875/3c21c40b5f79f319769269f0e226098d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d32077802/174267875/d320778029ff008271f012094a9c1a4a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f6ee40eb2/174267875/f6ee40eb22f3db1ab235036f3ab7d67a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9c3aee975/174267875/9c3aee975f50594048cb42a4f4a5e265.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fda9d14d1/174267875/fda9d14d1e19ec7bf959652f80d27a7d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/be8a968d8/174267875/be8a968d8fb2e7a1268d27014ef3bdd5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d14846a7f/174267875/d14846a7f041b07c473aafc7ae842a65.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3e15d3c59/174267875/3e15d3c59ce655041aac554c69142980.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Paddington Station",
+   "miles": 0.1948235349952862,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Edgware Road (Bakerloo) Station",
+   "miles": 0.22640977754677774,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Edgware Road (Circle, District, Hammersmith & City) Station",
+   "miles": 0.2742660167991163,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "FMX PROPERTIES LTD, London",
+ "city": "London",
+ "sourceOutcode": "W2",
+ "scrapedAt": "2026-08-30T10:16:06.733Z"
+}

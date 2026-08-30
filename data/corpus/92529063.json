@@ -1,0 +1,76 @@
+{
+ "id": "92529063",
+ "displayAddress": "Gloucester Row, Clifton, Bristol, BS8",
+ "outcode": "BS8",
+ "incode": "4AW",
+ "latitude": 51.456081,
+ "longitude": -2.622771,
+ "priceAmount": 1800,
+ "priceLabel": "£1,800 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92529063",
+ "area": "Clifton, Bristol",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 733,
+  "sizeSqM": 68,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "28/09/2026",
+  "deposit": 2076,
+  "minimumTermMonths": null,
+  "councilTaxBand": "D"
+ },
+ "sizeSqFt": 733,
+ "sizeSqM": 68,
+ "description": "Westcoast properties are pleased to welcome this stunning two bedroom apartment in Clifton, a short walk from Clifton suspension bridge & Clifton Village.",
+ "keyFeatures": [
+  "Damage Deposit £2076",
+  "Holding Deposit £415",
+  "Council tax band D £2,713.68 (26/27)",
+  "EPC - C",
+  "Mobile ( Source OfCom ) – EE Good outdoor, O2 Good outdoor, Three Good outdoor and Variable in-home, Vodafone Good outdoor",
+  "Broadband – ( Source Ofcom ) – Standard, Superfast, Ultrafast"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d97c884e8/92529063/d97c884e8088099380d72570224a2972.jpeg",
+  "https://media.rightmove.co.uk/property-photo/26e6a6061/92529063/26e6a60619177386bf4c24d71010350c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8af999d3b/92529063/8af999d3b5ff32960f6e6efd8a796c88.jpeg",
+  "https://media.rightmove.co.uk/property-photo/44dfdf631/92529063/44dfdf63182ef20244d0bcd3763bae59.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c26cd8c39/92529063/c26cd8c39d8e335159c2b86e97b0790b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/719227db5/92529063/719227db55af5d7e8915956ada21f386.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.7749670464493702,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 1.315618644695406,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bedminster Station",
+   "miles": 1.6585297549884397,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "West Coast Properties, Bishopston",
+ "city": "Bristol",
+ "sourceOutcode": "BS8",
+ "scrapedAt": "2026-08-30T11:03:03.743Z"
+}

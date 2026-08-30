@@ -1,0 +1,91 @@
+{
+ "id": "92523252",
+ "displayAddress": "Essex Street, Birmingham, B5",
+ "outcode": "B5",
+ "incode": "4BY",
+ "latitude": 52.473535,
+ "longitude": -1.898954,
+ "priceAmount": 1500,
+ "priceLabel": "£1,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92523252",
+ "area": "Birmingham",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 751,
+  "sizeSqM": 70,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 1730,
+  "minimumTermMonths": null,
+  "councilTaxBand": "TBC"
+ },
+ "sizeSqFt": 751,
+ "sizeSqM": 70,
+ "description": "One of Birmingham's most striking residential towers, this beautifully presented two bedroom apartment offers 751 sq ft of stylish city living. Facing east, the apartment benefits from full-height windows that flood the space with natural light while framing views across the city skyline.\n\nFinished to a high specification throughout, the apartment features a bespoke fitted kitchen and contemporary interiors designed for comfortable, low-maintenance living. The home is offered fully furnished and available immediately, ideal for professionals seeking a turnkey city centre base.\n\nSouth Central is a landmark 30 storey development in the heart of Southside, Birmingham, moments from the gateway to Chinatown and within easy walking distance of Birmingham New Street station, making it perfectly placed for commuters and city dwellers alike.\n\nResidents enjoy access to an impressive range of on-site amenities, including a fully equipped gym, a co-working lounge for those who work from home, and a dedicated concierge service. Additional conveniences include secure entrances, bike storage, and a post room, cementing South Central's reputation as one of Birmingham's standout city-living addresses.",
+ "keyFeatures": [
+  "East facing",
+  "Full-height windows with city views",
+  "Available now",
+  "Onsite gym and co-working lounge",
+  "Bike Storage",
+  "Washer Dryer Included",
+  "Dishwasher Included"
+ ],
+ "tags": [
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/90d438215/92523252/90d43821599006ef6f3725e16969fcde.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f567fc323/92523252/f567fc3238c87e38e09fa38562a27da2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/256edbb3a/92523252/256edbb3a558332a15ba536bc802ead3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/073c9cf8a/92523252/073c9cf8a81b5d025b25a7edf1441cd8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b3915ec7c/92523252/b3915ec7c8b579cfd1dee17e4d603f2a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f2d4d3a70/92523252/f2d4d3a70d7e40e56f19044a9b9bd851.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e94621c42/92523252/e94621c424a84420a99b8d786843c28f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ff5cc0a3e/92523252/ff5cc0a3e53600702905ed09969c253e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d1176c7f9/92523252/d1176c7f9425f033340dc4ce79e4061e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/91fdd95ae/92523252/91fdd95ae59dda81a5ff7e206b2192ee.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1e262590a/92523252/1e262590a609d62964fb964b01b87c8b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aabebb19d/92523252/aabebb19d1f0b94cde3cb32eb6af47d3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b3def74d5/92523252/b3def74d5b90cbd4f54eb4d0e634b311.jpeg",
+  "https://media.rightmove.co.uk/property-photo/85bc08081/92523252/85bc080810512c9e36c372b418c137d1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0dc28f078/92523252/0dc28f078b1ff919f94af319947def00.jpeg",
+  "https://media.rightmove.co.uk/property-photo/723b3c74c/92523252/723b3c74c3f3c4f2c8a1c8a0cdd5dd4f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/19b4030f8/92523252/19b4030f8a040289df2e5a9f061df84a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/faa5a6f9c/92523252/faa5a6f9ca8fcf3d9b17c8622332ccfe.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 0.290120857290444,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Moor Street Station",
+   "miles": 0.4712057982654056,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Five Ways Station",
+   "miles": 0.6476371548373742,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Virelle Group, Manchester",
+ "city": "Birmingham",
+ "sourceOutcode": "B5",
+ "scrapedAt": "2026-08-30T10:20:14.460Z"
+}

@@ -1,0 +1,78 @@
+{
+ "id": "92463627",
+ "displayAddress": "Choumert Road, Peckham, London, SE15",
+ "outcode": "SE15",
+ "incode": "4BG",
+ "latitude": 51.46803,
+ "longitude": -0.06777,
+ "priceAmount": 2000,
+ "priceLabel": "£2,000 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92463627",
+ "area": "Peckham, London",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 548,
+  "sizeSqM": 51,
+  "letType": "Long term",
+  "furnishType": null,
+  "letAvailableDate": "Ask agent",
+  "deposit": 2308,
+  "minimumTermMonths": null,
+  "councilTaxBand": "TBC"
+ },
+ "sizeSqFt": 548,
+ "sizeSqM": 51,
+ "description": "LONG LET. Finished to an exceptional standard, this superb 2 bedroom flat is situated in an excellent modern development moments from transport and amenities offering spacious living, double bedrooms and private balcony.\r\nChoumert Road is well located for a wealth of shops, restaurants and leisure facilities on offer along nearby Rye Lane. Local transport links include Peckham Rye Station (National Rail).\r\nPlease use the reference CHPK3658881 when contacting Foxtons.",
+ "keyFeatures": [
+  "Set within a grand modern development",
+  "Naturally bright and spacious living areas",
+  "Quality fixtures and fittings",
+  "Private balcony",
+  "2 double bedrooms",
+  "Main bedroom with en suite",
+  "Modern fitted kitchen"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/92fa45c04/92463627/92fa45c043e71ada935ceb137d1eca69.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8858babcf/92463627/8858babcf92917780d52a25e4060e6e6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cb1fd0764/92463627/cb1fd0764d0627fb1d49e6b84974e2ab.jpeg",
+  "https://media.rightmove.co.uk/property-photo/18e999804/92463627/18e999804af40a1b9157d7213ad5944f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bbd364b3b/92463627/bbd364b3b627918d19884220fb25ddb5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d987c2afe/92463627/d987c2afe845af8057d90405210c3d93.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Peckham Rye Station",
+   "miles": 0.13643148144518608,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Queens Road Peckham Station",
+   "miles": 0.5897173187900074,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Nunhead Station",
+   "miles": 0.6482790101081035,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Foxtons, Peckham",
+ "city": "London",
+ "sourceOutcode": "SE15",
+ "scrapedAt": "2026-08-30T10:14:36.831Z"
+}

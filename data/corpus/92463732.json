@@ -1,0 +1,82 @@
+{
+ "id": "92463732",
+ "displayAddress": "Bellevue Crescent, Canonmills, Edinburgh",
+ "outcode": "EH3",
+ "incode": "6ND",
+ "latitude": 55.960092,
+ "longitude": -3.193129,
+ "priceAmount": 1400,
+ "priceLabel": "£1,400 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92463732",
+ "area": "Canonmills, Edinburgh",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "29/09/2026",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "We are delighted to present this one-bedroom apartment located in the New Town. The property has been redecorated throughout, making the most of the bright and characterful spaces. \n\nThe property consists of a large and bright living room with dining space and feature fireplace, a homely but modern kitchen, a hallway leading to the double bedroom which benefits from a large walk-in cupboard. The modern bathroom in the property is spacious, featuring a bath and shower. \n\nThe desirable area of New Town has some of the city`s best cafes, restaurants, galleries and amenities; whilst also being in walking distance from the city centre and an array of local parks. \n\nLandlord Registration - 06098/230/16230. EPC Rating: D.\n\nBen Property Management Limited is a regulated agent, registration number LARN1809028.",
+ "keyFeatures": [
+  "Long Term"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/aceb70a17/92463732/aceb70a177ccc9518700d7346f602c44.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eed01c06d/92463732/eed01c06df4c569b29ee3531b060dbc1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/952b54403/92463732/952b5440308d13c06dfbbd622ff9e943.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4146045b6/92463732/4146045b600bffe05eb8a5b9c186abe2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e60d08499/92463732/e60d08499d344f02455b47fd2334e734.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b5b021533/92463732/b5b0215334f981666af4648e605f7129.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8cfe670e9/92463732/8cfe670e935c23c96ae4dfb968c540f6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/483518edc/92463732/483518edce6546d18f92de2e3ff313d8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1d40279e2/92463732/1d40279e28856be82e9933a2fc03cdca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/189eb1f79/92463732/189eb1f79a90d0d57430262fb757875f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e62797744/92463732/e6279774477e419dbd60ae9c65fb6498.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7e81e2fef/92463732/7e81e2fef14d3ee47d8ac8976d9c8e37.jpeg",
+  "https://media.rightmove.co.uk/property-photo/030931916/92463732/030931916e1cb04a02088e40c9d06d15.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0bebce3ba/92463732/0bebce3ba0c3103a7c1e03422ab2da2e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb50c3842/92463732/bb50c38425d460d1fdbba9a4fb43a3f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aac5568fb/92463732/aac5568fb26807226ae127fcc39c8382.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cc273c890/92463732/cc273c8905f595838429ba61838bc8c8.jpeg"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.5731546956344031,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.407363577193417,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 3.0315124036848196,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Ben Property, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH3",
+ "scrapedAt": "2026-08-30T10:26:10.933Z"
+}

@@ -1,0 +1,83 @@
+{
+ "id": "92284536",
+ "displayAddress": "Boothroyd Drive, Leeds, LS6",
+ "outcode": "LS6",
+ "incode": "2SL",
+ "latitude": 53.821934,
+ "longitude": -1.563251,
+ "priceAmount": 1450,
+ "priceLabel": "£1,450 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92284536",
+ "area": "Leeds",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Detached",
+ "details": {
+  "propertyType": "Detached",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 1673,
+  "minimumTermMonths": null,
+  "councilTaxBand": "D"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "**Due to the high level of interest in this property, please submit all enquiries via this website** Ritz Properties are delighted to present to the market this well presented three bedroom, two bathroom detached family home, situated within the highly sought after residential area of Meanwood.\n\nThe ground floor accommodation comprises a spacious and bright living room, a further reception room, a fully fitted kitchen and a convenient ground floor W.C. To the first floor, the property offers a primary bedroom with an en suite three piece shower room, two further generously proportioned double bedrooms and a family bathroom.\n\nExternally, the property benefits from a single garage, off-street parking and attractive gardens to both the front and rear.\n\nIdeally located, the property is within easy reach of a wide range of local amenities, including reputable schools such as Manor Wood Primary School and Chapel Allerton Primary School, as well as Sainsbury's Local. The popular areas of Roundhay, Chapel Allerton and Alwoodley are also easily accessible, offering a variety of shops, cafés, restaurants and further amenities.\n\nRent £1450 PCM / Deposit £1673 / Unfurnished / Available Now / EPC Rating - C / Council Tax Band - D.\n\nRitz Properties hereby give notice that these particulars have been produced in good faith and are set out as general outline only, for the guidance of intending purchasers or lessees and do constitute, nor constitute part of an offer or contract. All descriptions, dimensions, references to condition and necessary permission for use in occupation and other details are given without responsibility and any intending purchasers or tenants should not rely solely on them as statement of fact, but must satisfy themselves by inspection or via independent verification. Neither Ritz Properties nor any of its employees or agents has any authority to make or give any representation or warranty whatever in relation to this property. We are members of a redress scheme: Property Ombudsman (D6127). We are members of the Client Money Protection (CMP003614). Our fee details can be seen below:",
+ "keyFeatures": [
+  "3 double bedrooms",
+  "Primary bedroom with ensuite",
+  "Garage, driveway and gardens"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/9a1fa9b72/92284536/9a1fa9b724e78c6db330f1e05bf379dc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/342090c35/92284536/342090c359f215c219815005909780d8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d3fde67eb/92284536/d3fde67eb1eca1bf0a2f1e61994a4ef6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ac0ce15ca/92284536/ac0ce15ca8e67fc2df0a69b164843071.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ff44bd3d/92284536/8ff44bd3d89f4629d2b5d63a1d3f818c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2f5ff9c59/92284536/2f5ff9c59586decc701e93b882917278.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7a160638d/92284536/7a160638d91ce16401fd8750ed9f172e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9c9e9cfca/92284536/9c9e9cfcaddfee62ab8069945bf95611.jpeg",
+  "https://media.rightmove.co.uk/property-photo/445907c0a/92284536/445907c0ac1dfb0153991960d93a191f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/45f4ce37a/92284536/45f4ce37a021764b4dd43092dea990b8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6f2381bf8/92284536/6f2381bf8211969c6feee1bc810f5ba3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8459c253c/92284536/8459c253ce346201fb5d039ca2fcb0b8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cdb8af5e1/92284536/cdb8af5e165c0670cacae0dfcffed0c1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/478db84d6/92284536/478db84d6f79db537f0c5a5c4bbf1625.jpeg",
+  "https://media.rightmove.co.uk/property-photo/74f617693/92284536/74f617693e0dc7de99f12ef1f46d5048.jpeg",
+  "https://media.rightmove.co.uk/property-photo/86dfed999/92284536/86dfed999312f0fb424bd050861a3245.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Burley Park Station",
+   "miles": 0.9176521789808173,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 1.2925194133421103,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Leeds Station",
+   "miles": 2.042588390875927,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Ritz Properties, Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS6",
+ "scrapedAt": "2026-08-30T10:24:30.462Z"
+}

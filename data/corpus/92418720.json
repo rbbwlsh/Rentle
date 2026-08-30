@@ -1,0 +1,79 @@
+{
+ "id": "92418720",
+ "displayAddress": "Graham Mansions, (PP520), Hackney, E8",
+ "outcode": "E8",
+ "incode": "1EY",
+ "latitude": 51.546505,
+ "longitude": -0.057401,
+ "priceAmount": 2100,
+ "priceLabel": "£2,100 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92418720",
+ "area": "(PP520), Hackney",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Ask agent",
+  "deposit": 2423,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "The property benefits from recent redecorations and provides a spacious lounge, master bedroom, second bedroom/ study, kitchen complete with appliances and bathroom with shower.\nGraham Mansions is situated between Graham and Sylvester Road, ideally located for Hackneys excellent transport links, shops, bars and open spaces. The block also provides a secluded communal garden with secure bike storage.\n\nLocal transport links include Hackney Central Overground station (zone 2), which is a 2-minute walk and Hackney Downs Mainline Station is a 5-minute walk and offers a regular service to Liverpool Street. The local bus routes are fantastic and can all be caught from stops only moments from the property. These services include the 38 to Victoria Station, the 55 to Oxford Circus, the 48 to London Bridge, the 242 to Tottenham Court Road, the 277 to Highbury Corner, the 106 to Finsbury Park and the 394 to Islington.  Many of these routes offer a night service.\n\nThe property is ready for occupation now and viewings are being arranged. Please quote property code PP520.\n(Date available subject to change)\nGovernment website shows this property falls under Council Tax Band A, please note this may not always be accurate and recommend you speak with the local authority for confirmation. \nUtilities/council tax bills are not included in the rent. Offered as a sole or joint tenancy - if more than one tenant, all named tenants will be `jointly and severally liable` for terms and conditions of the tenancy agreement (including total rent).\nHolding deposit - equivalent to 1 weeks rent (will be put towards 1st month`s rent in advance when due)\nTo check broadband and mobile phone coverage please visit Ofcom here ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/ofcom-checker\nThis property is available with a Deposit-Free option which means that instead of paying a traditional security deposit of up to 5 weeks, you pay a fee equal to 28% of the monthly rent to become a member of flatfair (a deposit-free renting scheme) which significantly reduces the upfront costs. This fee is non-refundable and is not a deposit so cannot be used towards covering the cost of any future damage. (You are still liable to cover costs but at the end of tenancy rather than from deposit paid at start – this is NOT an insurance policy). More details available at flatfair.co.uk \nClient Money Protection : Hamways is a member of the Propertymark Client Money Protection Scheme (CMP)\nRedress Scheme : Hamways is a member of The Property Ombudsman (TPO)\nThese particulars are believed to be correct at time of writing, but their accuracy is not guaranteed, nor do they form part of any contract.",
+ "keyFeatures": [
+  "Two Bedroom Apartment",
+  "Second Bedroom Or Study",
+  "Hackney Central Location",
+  "Excellent Transport Links",
+  "Communal Gardens And Bike Storage",
+  "Redecorated Throughout"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/52043f123/92418720/52043f123a70a317d0cba4f4e0f6ccc7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6adb12235/92418720/6adb122356802e466517e7480c1e06df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/93e120b8c/92418720/93e120b8cafc2f0ba014e167461e2700.jpeg",
+  "https://media.rightmove.co.uk/property-photo/59b725236/92418720/59b72523634b4980765fdb0db90dfa48.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3e270758b/92418720/3e270758b5fd4f0a086a8ec44de73d16.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4f37ee27f/92418720/4f37ee27f9dd7210fcf180a3bfdca182.jpeg",
+  "https://media.rightmove.co.uk/property-photo/052a393ad/92418720/052a393addcb0e6cf9416b9da7a59ef2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eb38c4e68/92418720/eb38c4e689d80f0f5996e51c46522736.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2b90f7e36/92418720/2b90f7e36851b40d5cf1348cee6010a4.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Hackney Central Station",
+   "miles": 0.07148989150825688,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Hackney Downs Station",
+   "miles": 0.17281161677446835,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "London Fields Station",
+   "miles": 0.4079531613339139,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Hamways, London",
+ "city": "London",
+ "sourceOutcode": "E8",
+ "scrapedAt": "2026-08-30T10:13:12.035Z"
+}

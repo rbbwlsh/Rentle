@@ -1,0 +1,83 @@
+{
+ "id": "91198596",
+ "displayAddress": "Baldwin Street, Bristol",
+ "outcode": "BS1",
+ "incode": "1SE",
+ "latitude": 51.453268,
+ "longitude": -2.595745,
+ "priceAmount": 4200,
+ "priceLabel": "£4,200 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91198596",
+ "area": "Bristol",
+ "bedrooms": 6,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 6,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 4846,
+  "minimumTermMonths": null,
+  "councilTaxBand": "D"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Welcome to this newly refurbished property located on Baldwin Street in the vibrant city of Bristol. This spacious apartment is perfect for families or professional sharers seeking a comfortable and modern living space in a central location. \n\nThe property boasts six well-appointed bedrooms, providing ample space for everyone. With one reception room, it offers a welcoming area for relaxation and socialising. The two bathrooms ensure convenience for all residents, making morning routines and evening unwinding a breeze.\n\nSituated in the heart of Bristol, this property benefits from easy access to a variety of local amenities, including shops, restaurants, and public transport links. The central location allows for a lively lifestyle, with the city's attractions just a short walk away.\n\nThis property is an excellent opportunity for those looking to enjoy the best of city living while having a comfortable and stylish home. Don't miss the chance to make this newly refurbished space your own.\n\nThe Flat - \n\nReception/ Kitchen - 5.00m x 4.80m (16' 5\" x 15' 9\")\n\nBathroom - 2.40m x 2.50m (7' 10\" x 8' 2\")\n\nBathroom. - 2.60m x 1.60m (8' 6\" x 5' 3\")\n\nBedroom 1 - 5.60m x 2.60m (18' 4\" x 8' 6\")\n\nBedroom 2 - 4.20m x 2.70m (13' 9\" x 8' 10\")\n\nBedroom 3 - 3.70m x 2.20m (12' 2\" x 7' 3\")\n\nBedroom 4 - 3.60m x 3.70m (11' 10\" x 12' 2\")\n\nBedroom 5 - 3.70m x 4.00m (12' 2\" x 13' 1\")\n\nBedroom 6 - 3.60m x 4.30m (11' 10\" x 14' 1\")\n\nFull Description - FULLY FURNISHED STUDENT OR PROFESSIONAL SHARERS PROPERTY. AVAILABLE BEGINNING OF JULY 2023. An this amazing 6 bedroom flat is in the heart of Bristol City Centre and is ready and waiting for you to move in to. The flat offers two bathrooms, a kitchen/living room and 5 doubles and 1 single bedrooms with beds, desk wardrobes and chest of drawers. This is a fantastic opportunity for students to live within the close distance to Bristol University and enjoy all the amenities of the city right at their front door.\n£595.00 per room, property is not rented as individual rooms, property as one whole let.\n\nFull Description. - FULLY FURNISHED STUDENT OR PROFESSIONAL SHARERS PROPERTY. AVAILABLE BEGINNING OF JULY 2023. An this amazing 6 bedroom flat is in the heart of Bristol City Centre and is ready and waiting for you to move in to. The flat offers two bathrooms, a kitchen/living room and 5 doubles and 1 single bedrooms with beds, desk wardrobes and chest of drawers. This is a fantastic opportunity for students to live within the close distance to Bristol University and enjoy all the amenities of the city right at their front door.\n£595.00 per room, property is not rented as individual rooms, property as one whole let.",
+ "keyFeatures": [
+  "Fully Furnished",
+  "5 Bedroom Flat",
+  "Fantastic Location",
+  "15 Minute Walk To University",
+  "EPC Rating D",
+  "Whole Property As one Let",
+  "Family or Professional Sharers"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/2eadcb70e/91198596/2eadcb70e7db24aff06dec219272dfa4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/80a032cdd/91198596/80a032cdd12c9bcf63f6b3b017a250f5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cecd78a9a/91198596/cecd78a9a2368418d77fa35bd708ea9b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/19d920b22/91198596/19d920b221cf4fe0a68475ebbb753764.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8bf79aba7/91198596/8bf79aba759d12e7f1a172f0bb5ed1fd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/98c342a3a/91198596/98c342a3ac95d429f54df2e7525581bc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b9e8ba86e/91198596/b9e8ba86e09395b3243aded26b5cfc3a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f4b337785/91198596/f4b337785307ada3ebb91f7a2f8b7b7c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/189801486/91198596/1898014861bc7d49751a35b6647b4484.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0377a8c17/91198596/0377a8c17cd2077919c7d2523bbd5c3b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3b1662bd1/91198596/3b1662bd1ee48dee069b94d243e1cd35.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6acaeca52/91198596/6acaeca52cbfe197a4b6a68a1396c742.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 0.6826110330622926,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bedminster Station",
+   "miles": 0.9195880452920902,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Clifton Down Station",
+   "miles": 1.0217361390408044,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Beste Estates, Clifton",
+ "city": "Bristol",
+ "sourceOutcode": "BS1",
+ "scrapedAt": "2026-08-30T10:22:07.037Z"
+}

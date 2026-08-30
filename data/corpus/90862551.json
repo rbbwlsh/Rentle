@@ -1,0 +1,81 @@
+{
+ "id": "90862551",
+ "displayAddress": "Pershore Street, Birmingham",
+ "outcode": "B5",
+ "incode": "6AN",
+ "latitude": 52.472833,
+ "longitude": -1.894454,
+ "priceAmount": 1000,
+ "priceLabel": "£1,000 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90862551",
+ "area": "Birmingham",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Ask agent",
+  "deposit": 1269,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Available from 11th September. This one bedroom apartment is located on a high floor with lift access, boasting views across the new Smithfield's regeneration site. The apartment is delivered fully furnished with modern items. High quality specifications throughout, including walnut finish flooring, Smeg integrated kitchen appliances, and white marbled floor and wall tiling in the bath and shower rooms. Residents will have access to their very own exclusive lounge situated on the ground level, a residents Gym, as well as an onsite 24-Hour concierge for added Security.\n\nLocated on the Southside of the City, on the cusp of the Chinese Quarter, we're extremely excited to introduce you to the Timber Yard development. \nAmongst the many advantages of enjoying a luxury lifestyle at Timber Yard will be total connectivity - a 5-minute stroll to the Birmingham New Street Station, with journey times of less than 2 hours to get to the Capital. \n\nGet in touch with our team today to register your interest and secure a space for early viewings!\n\nSecurity Deposit: £1,269\nCouncil Tax Band: C",
+ "keyFeatures": [
+  "Available 11th September",
+  "Council Tax C",
+  "One Bedroom / One Bathroom Fully Furnished",
+  "High floor",
+  "24 Hour Concierge Service Residents Gym &amp; Lounge",
+  "Close to Birmingham New Street"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/8484ac914/90862551/8484ac91406d54c10b55ff4f3ab1b196.jpeg",
+  "https://media.rightmove.co.uk/property-photo/02a6935c0/90862551/02a6935c0fedf464e728d4dba7a3c1fe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c966c4990/90862551/c966c499077e9936f7b34e5106e484af.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4a6fd7f7b/90862551/4a6fd7f7bb84a136a9dfa8b9a75bac71.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e5d7a4af6/90862551/e5d7a4af69af83efe7952721bc25df41.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b1cb61bb2/90862551/b1cb61bb24016457090ef30a36ad6bb7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7ffa80d6b/90862551/7ffa80d6b2c72d48c3f7b53581da4152.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d076b844e/90862551/d076b844eb5647fb91244aa7601eb5f3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4f02317c2/90862551/4f02317c29521111816ab0472b4f7251.jpeg",
+  "https://media.rightmove.co.uk/property-photo/384bee86e/90862551/384bee86e6241607e24dd35d0b5a8013.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9ce1ec2a0/90862551/9ce1ec2a0053590e5df2af419ad64751.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 0.388261374276553,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Moor Street Station",
+   "miles": 0.44008348004445713,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Snow Hill Station",
+   "miles": 0.7265504497108856,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Life Residential, Birmingham",
+ "city": "Birmingham",
+ "sourceOutcode": "B5",
+ "scrapedAt": "2026-08-30T10:20:11.455Z"
+}

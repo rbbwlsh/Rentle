@@ -1,0 +1,89 @@
+{
+ "id": "92524776",
+ "displayAddress": "School Grove, Manchester, M20",
+ "outcode": "M20",
+ "incode": "4RT",
+ "latitude": 53.431573,
+ "longitude": -2.217203,
+ "priceAmount": 693,
+ "priceLabel": "£693 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92524776",
+ "area": "Manchester",
+ "bedrooms": 6,
+ "bathrooms": 1,
+ "propertySubType": "House",
+ "details": {
+  "propertyType": "House",
+  "bedrooms": 6,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "03/09/2026",
+  "deposit": 300,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "An open plan living space with everything you need to relax, socialise, entertain and cook meals to enjoy with friends and housemates! All good sized well furnished double rooms, 2 bathrooms with a garden at the back and off road parking. This is just a great house in the popular residential student area of Withington.\n\nProperty Details\nAll 6 double sized bedrooms have double beds with semi orthopedic mattresses\n200mb Broadband always connected - no set up needed\nLeather sofas & includes 50″ Smart TV with Freeview\nFitted Kitchen with Dishwasher, Washer Dryer, 2 Fridge Freezers, 2 ovens with 5 Gas Hobs so plenty of cooking space, lots of cupboard space & dining table with benches\n2 Bathrooms with showers 1 comes with bath as well\nPractical features include double glazing, efficient gas fired condenser boiler, interlinked smoke alarms in every room & security alarm\nExterior: Parking to the front & gated grassed back garden with gardener service included\nBus: 300m to Kingsway(no. 50 every 5mins at peak times & until midnight), 50m Parrs Wood Road(no. 44 & 145 every 20mins 7.30am to 10am) or 500m to Wilmslow Road(night bus 143)\nTrain: Mauldeth Road station 800m - 10 mins to City\nAldi Newsagent/corner shop/off licence 200m, Sainsburys Fallowfield 750m\nParade of shops inc Co-op supermarket, post office, bakery etc 500m\n\nThis property is managed via the Hybr platform. By submitting an enquiry, you acknowledge and consent to your information being shared with Hybr for the purpose of processing and responding to your enquiry.\n\n If you have any questions get in touch with our team by pressing the call button on Rightmove and when asked for a property reference code, put in 86690693",
+ "keyFeatures": [
+  "£160 per person per week",
+  "All Bills Included",
+  "Furnished",
+  "Open Plan Living",
+  "Rear Garden",
+  "Off-Road Parking",
+  "50″ Smart TV",
+  "Dishwasher"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/069878a24/92524776/069878a24a2a964d41b125a6d401dd1f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/11d19b465/92524776/11d19b4658c5dc7a95082ef9c0e392d0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4b166fced/92524776/4b166fced02b4a3ab4af4f18f6f0eddc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/41aaaa6c5/92524776/41aaaa6c543c393de1b360e00d15f1a4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/389649d95/92524776/389649d95596e359629bd0c75ba7288f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/455dac0f5/92524776/455dac0f5cc86ffe97d3833fd6ae31ca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f0ac4218a/92524776/f0ac4218a549d8ea18e932b7d2446029.jpeg",
+  "https://media.rightmove.co.uk/property-photo/15cfc312a/92524776/15cfc312abd63a61b4ab92013528a11a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8afcca312/92524776/8afcca3127711679186b36d58f70dc1a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb19cc8bd/92524776/bb19cc8bd1020036759a992e7129904a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e83ffc2de/92524776/e83ffc2de3baeda2c4f5ca9a60bba50c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/df1dc933d/92524776/df1dc933d1ffcd0332131708568b0107.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a6587c1c3/92524776/a6587c1c36a30b09f2db3d844821bcb6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7fdaf9f87/92524776/7fdaf9f872d0d0cf15f208555bf9bb22.jpeg",
+  "https://media.rightmove.co.uk/property-photo/14855b35d/92524776/14855b35da2f1119c3e8f76943704443.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b0101df8d/92524776/b0101df8d5c13915feb020db32db4aba.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d3efd0c96/92524776/d3efd0c96c76c5408e6dd317f10d8e30.jpeg"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "Mauldeth Road Station",
+   "miles": 0.3787413167547859,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burnage Station",
+   "miles": 0.6737315122772041,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 0.9233262904696778,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "HYBR, Covering Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M20",
+ "scrapedAt": "2026-08-30T10:18:37.644Z"
+}

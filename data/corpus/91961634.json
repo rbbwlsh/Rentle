@@ -1,0 +1,83 @@
+{
+ "id": "91961634",
+ "displayAddress": "Praed Street Paddington W2",
+ "outcode": "W2",
+ "incode": "1JJ",
+ "latitude": 51.51834,
+ "longitude": -0.17144,
+ "priceAmount": 3500,
+ "priceLabel": "£3,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91961634",
+ "area": "W2 area",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 648,
+  "sizeSqM": 60,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "31/08/2026",
+  "deposit": 4038,
+  "minimumTermMonths": 0,
+  "councilTaxBand": "G"
+ },
+ "sizeSqFt": 648,
+ "sizeSqM": 60,
+ "description": "Located on the 7th floor of this popular development is this well presented two double bedroom apartment to let. Offering over 600 square feet of lateral living space and with accommodation comprising a bright open plan kitchen and reception room, two double bedrooms with fitted wardrobes and two bathrooms (one ensuite). Features include neutral décor and hard wood floors. benefits include 24 hour concierge, air cooling and underground parking available by separate negotiation. Located within close proximity of both Paddington and Edgware Road stations and local amenities. Offered furnished and available from the end of August. To check broadband and mobile phone coverage please visit Ofcom here ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/ofcom-checker",
+ "keyFeatures": [
+  "Two double bedrooms",
+  "Two bathrooms",
+  "7th floor with lift",
+  "24 hour concierge",
+  "South facing balcony",
+  "Parking available by negotiation",
+  "Council Tax Band: G"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/31c3bb7df/91961634/31c3bb7df71d487c15c6df4c132ec97d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/585dacbb8/91961634/585dacbb86ee7515ce77536b887988be.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d58b0f5d0/91961634/d58b0f5d08619085382053d1296e28fd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/20096bf6f/91961634/20096bf6fd029cd796c81c9c95227bac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b0a7fdb22/91961634/b0a7fdb2251944c6c2917ac1790ff22c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/87728d8fc/91961634/87728d8fc16c36910f53569581812066.jpeg",
+  "https://media.rightmove.co.uk/property-photo/00fd7b32f/91961634/00fd7b32f80d825ad594da76f1c3e3b3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e3c812fc7/91961634/e3c812fc74a25dbc40471c29578b1ede.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5ef2b51f9/91961634/5ef2b51f94f13e3fc08392de7dea05c9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7d039c18e/91961634/7d039c18e78eecd91792f1dddfd253a8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eed2fbf99/91961634/eed2fbf990a7bfc0efeacfbb4d1dd27d.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Edgware Road (Bakerloo) Station",
+   "miles": 0.1640295697331787,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Edgware Road (Circle, District, Hammersmith & City) Station",
+   "miles": 0.19157707778498534,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Paddington Station",
+   "miles": 0.29304365077950756,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "Hamptons, Paddington",
+ "city": "London",
+ "sourceOutcode": "W2",
+ "scrapedAt": "2026-08-30T10:15:57.143Z"
+}

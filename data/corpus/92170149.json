@@ -1,0 +1,88 @@
+{
+ "id": "92170149",
+ "displayAddress": "Balcarres Court, Edinburgh, EH10 5JL",
+ "outcode": "EH10",
+ "incode": "5JL",
+ "latitude": 55.9241,
+ "longitude": -3.216376,
+ "priceAmount": 1450,
+ "priceLabel": "£1,450 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92170149",
+ "area": "Edinburgh",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Ground Flat",
+ "details": {
+  "propertyType": "Ground Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "10/09/2026",
+  "deposit": 1650,
+  "minimumTermMonths": 0,
+  "councilTaxBand": "TBC"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Lovely 2-bedroom unfurnished property with garage in the highly desirable Morningside area, set within the quiet residential development of Balcarres Court. The accommodation comprises a bright spacious lounge,  kitchen, two bedrooms and a bathroom with electric shower. Further benefits include an external storage cupboard, private garage with power, shared drying green and attractive, well-maintained communal gardens.Ideally located close to an excellent range of local amenities, including Waitrose, Marks & Spencer Foodhall, independent cafés, bars and restaurants, with the vibrant shops and dining options of Bruntsfield also just a short walk away. Residents can enjoy nearby  Bruntsfield Links and The Meadows, while the popular Dominion Cinema is also within easy reach.Edinburgh city centre is easily accessible via frequent bus services, with Haymarket Station and the City Bypass both conveniently close by. \n\nCouncil Tax - D\nEPC - E\nLL REG - 1786215/239/30072\nLARN1809020 \n\nPlease note pictures are for illustrative purposes only and the property may appear different at the viewing.",
+ "keyFeatures": [
+  "Garage",
+  "Livingroom",
+  "Modern kitchen",
+  "Washing Machine ",
+  "Electric heating",
+  "Shower ",
+  "Garden",
+  "Shared drying green"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/6da7cd5e9/92170149/6da7cd5e96ce3b46f30bf8b3006f31ad.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5a7a072be/92170149/5a7a072be54ab957386352fb470a8150.jpeg",
+  "https://media.rightmove.co.uk/property-photo/947b56d26/92170149/947b56d267bae594a841351d472e48eb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9512ab896/92170149/9512ab896f7610921e4941893fcb7d33.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6a43158f7/92170149/6a43158f77ce529521d60a7532510807.jpeg",
+  "https://media.rightmove.co.uk/property-photo/917d48ea7/92170149/917d48ea7ca243fc4a0ee9327679fe51.jpeg",
+  "https://media.rightmove.co.uk/property-photo/57ccb3db9/92170149/57ccb3db9186e27e0471518a385f1b1a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/93e280f7f/92170149/93e280f7f7d295472b6355198bcbf950.jpeg",
+  "https://media.rightmove.co.uk/property-photo/666c65ef0/92170149/666c65ef024c8fa74a6ded8df87c0526.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c79603fb6/92170149/c79603fb608d11b877ae32c5e814d88f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2ba9c1f9c/92170149/2ba9c1f9cd84657b52441eaefadbc1ca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c27cdab3b/92170149/c27cdab3bdfc779c40992c231b0c1dd6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/94f3b3f47/92170149/94f3b3f471ea92d2b6399ef7907ffa0b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b7dd8c63c/92170149/b7dd8c63c6fc1f63c2603ae5d6dec2e1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2ba9c1f9c/92170149/2ba9c1f9cd84657b52441eaefadbc1ca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6482f6d91/92170149/6482f6d91f0da27d61c01e435b1b15d9.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Slateford Station",
+   "miles": 1.0660118833884678,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.472722280454841,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Kingsknowe Station",
+   "miles": 1.9291648125382013,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Arden Property Management, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH10",
+ "scrapedAt": "2026-08-30T11:04:27.366Z"
+}

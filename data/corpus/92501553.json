@@ -1,0 +1,70 @@
+{
+ "id": "92501553",
+ "displayAddress": "Panmure Place, Edinburgh",
+ "outcode": "EH3",
+ "incode": "9JJ",
+ "latitude": 55.943201,
+ "longitude": -3.200477,
+ "priceAmount": 2175,
+ "priceLabel": "£2,175 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92501553",
+ "area": "Edinburgh",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "07/09/2026",
+  "deposit": 2375,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "HMO PROPERTY - Updated Photographs Due  \n\nSpacious and freshly painted 3 bedroom HMO property in a vibrant central location.\n\nThe property comprises: 2 double bedrooms and one single, fully fitted kitchen with dining area and bathroom with shower over bath. \n\nThis property further benefits from gas central heating and on street permit parking. \n\nClose to The Meadows and within walking distance to the city centre. It also benefits from excellent local amenities and is in close proximity to Edinburgh University and Napier University campuses.\n\nDeposit: £2,375\nFurnished\nCouncil Tax: C\nEnergy Performance: C\nLandlord registration: 254341/230/02271 and 254003/230/02401\nScottish Letting Agent Registration –LARN1903047\n\nEPC Rating: C\nCouncil Tax Band: C",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/510b0ceb8/92501553/510b0ceb855b88057bac2faa537e2ac5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8386724e2/92501553/8386724e2aae13bca0e998cf38a11a24.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0d821d691/92501553/0d821d691f0bbacfab475cff0a107bc9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0393a0c23/92501553/0393a0c23e86c2c26f66e42ba99b13f8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a1e2dd07d/92501553/a1e2dd07dbc6c37ad2e55ad394fe05ed.jpeg",
+  "https://media.rightmove.co.uk/property-photo/af1a58e4f/92501553/af1a58e4f26cf644eed3914a7351bc42.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eac4c373a/92501553/eac4c373acf8ca56aa4a851cb59dacd5.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Haymarket Station",
+   "miles": 0.7012328743929781,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.7373333630430998,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 2.0262836451218904,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Rettie, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH3",
+ "scrapedAt": "2026-08-30T10:26:03.555Z"
+}

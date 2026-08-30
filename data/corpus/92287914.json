@@ -1,0 +1,72 @@
+{
+ "id": "92287914",
+ "displayAddress": "Flat , Din Buildings, Harehills Lane, Leeds",
+ "outcode": "LS8",
+ "incode": "3EG",
+ "latitude": 53.817686,
+ "longitude": -1.515333,
+ "priceAmount": 675,
+ "priceLabel": "£675 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92287914",
+ "area": "Din Buildings, Leeds",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 420,
+  "sizeSqM": 39,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Ask agent",
+  "deposit": 778,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": 420,
+ "sizeSqM": 39,
+ "description": "Barford Property are pleased to offer to let this modern and spacious one-bedroom apartment, situated within Din Buildings above the well-known Fforde Grene on Harehills Lane.\n\nThe apartment offers contemporary accommodation comprising a double bedroom, modern fitted kitchen, living area and stylish bathroom. Its convenient location provides excellent access to Roundhay, local amenities, public transport and Leeds city centre.\n\nKitchen / Living Area\n\nThe property benefits from a modern kitchen finished with high-gloss units, contrasting worktops and metro-style tiled splashbacks. Integrated appliances include an oven and hob with extractor above.\n\nA large roof window provides plenty of natural light, while the tiled flooring gives the kitchen a clean contemporary finish.\n\nBedroom\n\nA well-proportioned double bedroom with modern wood-effect flooring and neutral décor.\n\nThe room benefits from a large roof window providing good natural light and offers ample space for a double bed and bedroom furniture.\n\nBathroom\n\nA modern three-piece bathroom suite comprising bath with electric shower and glazed shower screen, pedestal wash basin and WC.\n\nThe bathroom is finished with attractive contemporary grey tiling to the walls and floor.\n\nLocation\n\nSituated on Harehills Lane, close to the sought-after Roundhay area, the apartment is well placed for a wide range of local shops, restaurants and everyday amenities.\n\nRoundhay Park is within easy reach, while regular transport connections provide convenient access into Leeds city centre. The location also offers good access to the wider road and motorway network.\n\nCouncil Tax Band: A (Leeds City Council)\nHolding Deposit: £155.76",
+ "keyFeatures": [
+  "Available Now",
+  "Modern bathroom and kitchen",
+  "barfordproperty.co.uk",
+  "1 Bedroom Luxury Apartment"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/93b4ec5b7/92287914/93b4ec5b732daea9a32df811a4c36664.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c5edc3270/92287914/c5edc3270d1070bd5b7dd9945534a18d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0bb5b3dc3/92287914/0bb5b3dc34b6737767a70d4535ea1caf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2edf685c2/92287914/2edf685c2f5fc1d8d84465127141e3eb.jpeg"
+ ],
+ "imageCount": 4,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 2.0932849740689212,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 2.598372329454312,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cross Gates Station",
+   "miles": 2.809543642307596,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Barford Property, Bradford",
+ "city": "Leeds",
+ "sourceOutcode": "LS8",
+ "scrapedAt": "2026-08-30T10:25:16.571Z"
+}

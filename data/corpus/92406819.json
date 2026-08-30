@@ -1,0 +1,92 @@
+{
+ "id": "92406819",
+ "displayAddress": "Cheltenham Road, Montpellier, Bristol, BS6",
+ "outcode": "BS6",
+ "incode": "5PX",
+ "latitude": 51.46601,
+ "longitude": -2.588886,
+ "priceAmount": 2100,
+ "priceLabel": "£2,100 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92406819",
+ "area": "Montpellier, Bristol",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "House",
+ "details": {
+  "propertyType": "House",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Part furnished",
+  "letAvailableDate": "04/09/2026",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Modern TOWNHOUSE available to rent located in the sought after Montpellier area of the city of Bristol with its array of local independent shops and cafes right on the doorstep. The property benefits from a NEW BUILD guarantee, high end bespoke kitchen, and EN-SUITES to both bedrooms. The space has been thoughtfully laid out with a useful office / 3rd bedroom space on the ground floor and extra utility area. The property has a PRIVATE courtyard and side access. Please register your interest ASAP to book a viewing. \r\nThe property is available from Sept 2026",
+ "keyFeatures": [
+  "Modern townhouse",
+  "Large loft space",
+  "Montpellier location",
+  "Courtyard garden",
+  "Available Sept 2026",
+  "Furnished with white goods"
+ ],
+ "tags": [
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/ff90692ad/92406819/ff90692ad8260671352c3bbb51e2edcb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f9590bd1e/92406819/f9590bd1edc7acd34243c975507fdb19.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e05ec716c/92406819/e05ec716cdf8f0ddbdbcabf1ea860890.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d9bd61468/92406819/d9bd614684f7d7fb8641dbe8520177da.jpeg",
+  "https://media.rightmove.co.uk/property-photo/45fd78ca7/92406819/45fd78ca7660fe96d02630558ae5de45.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9152f877f/92406819/9152f877ff3f8fbe5803c514f91b30d8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2f20e8652/92406819/2f20e86527ff6c6eeb19fcf39786a272.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b5a2c2ca5/92406819/b5a2c2ca55993983b5cd764143f7b156.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f55ccd4a4/92406819/f55ccd4a44aafd79902d0cfbc33eb2fd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/59e561dc4/92406819/59e561dc47badbee0e714014cc11874f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9f187f281/92406819/9f187f281ead4a5920c55776d3a806e6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4f32e539d/92406819/4f32e539d2a5ce56ba6ffb1684ae0558.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4d38c6747/92406819/4d38c6747d2583a3d56030fd6861cf7a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7f2f5c335/92406819/7f2f5c335ff35975e29afd786c5db108.jpeg",
+  "https://media.rightmove.co.uk/property-photo/915be485b/92406819/915be485bd219b69411c54d99b0db7e7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f17a19186/92406819/f17a19186fb1a7223cd7c2f315528703.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5e6da0df4/92406819/5e6da0df4708782bc18f9b58b8727516.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ac5091941/92406819/ac50919413d584381e9fd18820692639.jpeg",
+  "https://media.rightmove.co.uk/property-photo/70d6624c4/92406819/70d6624c4717e9c149044c53b644ec05.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0a181e26f/92406819/0a181e26f71726a0784d398a9f6e02d1.jpeg"
+ ],
+ "imageCount": 20,
+ "nearestStations": [
+  {
+   "name": "Montpelier Station",
+   "miles": 0.16189500350968664,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.48108249833498556,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.9612909029262094,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "HPG, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS6",
+ "scrapedAt": "2026-08-30T10:23:11.080Z"
+}

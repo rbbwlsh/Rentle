@@ -1,0 +1,80 @@
+{
+ "id": "91858404",
+ "displayAddress": "Elder Street, Edinburgh, Midlothian",
+ "outcode": "EH1",
+ "incode": "3BP",
+ "latitude": 55.955321,
+ "longitude": -3.188647,
+ "priceAmount": 2000,
+ "priceLabel": "£2,000 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91858404",
+ "area": "Edinburgh, Midlothian",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 538,
+  "sizeSqM": 50,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 2200,
+  "minimumTermMonths": null,
+  "councilTaxBand": "G"
+ },
+ "sizeSqFt": 538,
+ "sizeSqM": 50,
+ "description": "Stunning one-bedroom apartment located within the exclusive new St James Quarter development.\n\nFeaturing best-in-class design, St James Quarter creates a unique and inspiring place to live, and has been one of the largest regeneration projects in the UK, with 1.7 million sq ft of retail, leisure and hotel space. \n\nResidents benefit from a concierge service based in the entrance lobby, a members lounge, sky-garden and some of Edinburgh’s most exciting retail and leisure facilities on the doorstep, including a W Hotel, an Everyman Cinema, and an array of restaurants.  \n\nAccommodation Comprises:\n\nWelcoming entrance hallway; Stunning open plan living area, contemporary fitted kitchen and dining area; Double bedroom with fitted wardrobes; Bathroom with shower above bath, sink, WC and heated towel rail.\n\nThe property is provided with heating and hot water from a communal boiler which is individually metered within the apartment.\n\nThe St James Quarter’s enviable central position puts the city in easy reach. The nearby St Andrew Square & York Place tram stops makes all parts of the city highly accessible with links all the way from the airport to Leith and Newhaven.  The property is also just a short walk to Waverley station, giving this location unsurpassed connectivity across the city and beyond. \n\nDeposit: £2,200\nFurnished \nEPC: B\nCouncil Tax Band: G\nLandlord Registration: 527183/230/23072\nLARN1903047\nCladding\n\nEPC Rating: B\nCouncil Tax Band: G",
+ "keyFeatures": [],
+ "tags": [
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/7689d8f0a/91858404/7689d8f0a388a3ed23b1b6cd7c665adf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e5f414128/91858404/e5f414128b176f214ebf35f883c6dfe1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1d6ff3790/91858404/1d6ff3790a9954bb0afbd8d6b1dacb6e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/188f58f3d/91858404/188f58f3df418f1376d836819a0677b8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/84be03ea6/91858404/84be03ea69ec4335f034ab9f6c8ca6f6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/97493e3bb/91858404/97493e3bbab1d1aa6101e8c71d5a80c2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/60f6d7655/91858404/60f6d76551e7cdac23b1450feea6cce4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/04b15ad1d/91858404/04b15ad1d4ad36e9c79917acd7bd4d2c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9c048f49c/91858404/9c048f49c291524f81547dc1b66659b2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/42e43e2fd/91858404/42e43e2fd284612e15d7ee8967bc038b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b1bf786fc/91858404/b1bf786fcafa2dcdefdd473c7777e461.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f706fc892/91858404/f706fc892073c941ac173e4c953dbe05.jpeg",
+  "https://media.rightmove.co.uk/property-photo/477794aa1/91858404/477794aa1a477deef9b1325c860479f0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4561c8dcb/91858404/4561c8dcb4eed46e2e9b9b56037117d0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2fa350c1e/91858404/2fa350c1e85d9f9f8529a2a79ca89aa8.jpeg"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.2329208296268335,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.3359107015973775,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 2.912022424640925,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Rettie, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH1",
+ "scrapedAt": "2026-08-30T11:03:34.143Z"
+}

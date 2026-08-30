@@ -1,0 +1,76 @@
+{
+ "id": "92512653",
+ "displayAddress": "Bird In Bush Road, Peckham, London, SE15",
+ "outcode": "SE15",
+ "incode": "6RW",
+ "latitude": 51.47974,
+ "longitude": -0.06915,
+ "priceAmount": 1725,
+ "priceLabel": "£1,725 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92512653",
+ "area": "Peckham, London",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 468,
+  "sizeSqM": 43,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Ask agent",
+  "deposit": 1991,
+  "minimumTermMonths": null,
+  "councilTaxBand": "TBC"
+ },
+ "sizeSqFt": 468,
+ "sizeSqM": 43,
+ "description": "LONG LET. Set along a quiet residential road, this wonderful 1 bedroom second floor flat is presented in excellent condition throughout, offering a generous living area, superb fixtures and fittings and communal garden.\r\nThe property is located within easy reach of a number of local amenities while the green open spaces of Burgess Park are easily accessible.\r\nPlease use the reference CHPK3463111 when contacting Foxtons.",
+ "keyFeatures": [
+  "Bright and generously proportioned reception room",
+  "Wonderfully equipped open plan kitchen",
+  "Good-sized double bedroom",
+  "Modern shower room",
+  "Charming communal garden",
+  "High quality fixtures and fittings"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/0678f3273/92512653/0678f327382ba6d375db9be91724b99d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c8f2030eb/92512653/c8f2030eb8018439c2521505bb0d3832.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eba2f66eb/92512653/eba2f66eb9f983769e195de265d43e90.jpeg",
+  "https://media.rightmove.co.uk/property-photo/317e1c7fb/92512653/317e1c7fb96ff6a396f81fb29cfd82d3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/97ca8cfa1/92512653/97ca8cfa1752f84a1d509f1ffa6042fb.jpeg"
+ ],
+ "imageCount": 5,
+ "nearestStations": [
+  {
+   "name": "Queens Road Peckham Station",
+   "miles": 0.6677669393251249,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Peckham Rye Station",
+   "miles": 0.6838976833202064,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "South Bermondsey Station",
+   "miles": 0.8445519524842021,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Foxtons, Peckham",
+ "city": "London",
+ "sourceOutcode": "SE15",
+ "scrapedAt": "2026-08-30T10:14:33.845Z"
+}

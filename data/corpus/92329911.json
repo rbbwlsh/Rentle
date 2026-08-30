@@ -1,0 +1,77 @@
+{
+ "id": "92329911",
+ "displayAddress": "Morley Road, Southville, BS3",
+ "outcode": "BS3",
+ "incode": "1DT",
+ "latitude": 51.443161,
+ "longitude": -2.602608,
+ "priceAmount": 1500,
+ "priceLabel": "£1,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92329911",
+ "area": "Southville",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 861,
+  "sizeSqM": 80,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "03/10/2026",
+  "deposit": 1730,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": 861,
+ "sizeSqM": 80,
+ "description": "Two Bedroom Terraced House | Available 3rd October 2026 | Great Location | EPC - D - Couples only accepted \n\nBristol Property Centre are delighted to offer to the market this two double bedroom house located in the trendy Southville area of Bristol. The property boasts two reception rooms, a separate kitchen, rear garden, two big bedrooms with a upstairs bathroom. The property is in a great location being close to North street and all its bars and cafes. The property is in excellent condition. Available 3rd October 2026\n\nEPC rating - D\n\nCouncil Tax Band - B\n\nParking - On street permit parking\n\nEPC Rating: D",
+ "keyFeatures": [
+  "Two Bedroom House",
+  "Unfurnished with White Goods",
+  "Council Tax Band - B",
+  "Great Location",
+  "Available 3rd October 2026"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/b59c73b2f/92329911/b59c73b2f9f6792ca6d97327032d3ad2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/504e679a0/92329911/504e679a03cd236b871470f12dc06a10.jpeg",
+  "https://media.rightmove.co.uk/property-photo/72aac9c25/92329911/72aac9c2552f83c390175038610180cb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d482a6583/92329911/d482a6583a4442d6e1744897c88b8103.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9cd906a4c/92329911/9cd906a4c89ffcb95f3f0b68f8695167.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f46dd37da/92329911/f46dd37da67fb9b362a39802907204a4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d13264629/92329911/d1326462955a542880ad1553f9390fcd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fb87949fb/92329911/fb87949fb852b13d3dbd98757e0324d9.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Bedminster Station",
+   "miles": 0.42068193590001685,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Parson Street Station",
+   "miles": 0.7391240383084932,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 1.0003973001605844,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Bristol Property Centre, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS3",
+ "scrapedAt": "2026-08-30T10:22:21.329Z"
+}

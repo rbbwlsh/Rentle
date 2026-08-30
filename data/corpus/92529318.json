@@ -1,0 +1,73 @@
+{
+ "id": "92529318",
+ "displayAddress": "Cambridge Street, Manchester, M1",
+ "outcode": "M1",
+ "incode": "5GB",
+ "latitude": 53.472523,
+ "longitude": -2.24394,
+ "priceAmount": 1570,
+ "priceLabel": "£1,570 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92529318",
+ "area": "Manchester",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 1812,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Property Reference: 3020915.\n\nWe are proud to offer this delightful 2-bedroom flat with 2 toilets in a great location. The property has easy access to local amenities and well-regarded schools.\n\nViewing is highly recommended. Contact OpenRent today for more details or to arrange a viewing!\n\nThe property is only suitable for long-term tenants. BNO families are warmly welcome.\n\n \n\nSummary & Exclusions:\n- Rent Amount: £1,570.00 per month (£362.31 per week)\n- Deposit / Bond: £1,811.53\n- 2 Bedrooms\n- 2 Bathrooms\n- Property comes furnished\n- Available to move in from 28 August 2026\n- Maximum number of tenants is 4\n- Students welcome to enquire\n- Smokers considered\n- Bills not included\n- No Parking Available\n- No Garden Access\n- EPC Rating: C\n\n  If calling, please quote reference: 3020915  \n\nFees:\nYou will not be charged any admin fees.\n\n ** Contact today to book a viewing and have the landlord show you round! ** \nRequest Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.",
+ "keyFeatures": [
+  "No Agent Fees",
+  "Students Can Enquire",
+  "Property Reference Number: 3020915"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/de5959700/92529318/de595970036634e3ad59f7efc37c512d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1863dfd69/92529318/1863dfd69557b27f5118b4c017d3652c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2bed559de/92529318/2bed559def4ce6ce48325b81dc24a665.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3ddfeab93/92529318/3ddfeab9308b3970d4e91d61fad2c353.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0d7a6928c/92529318/0d7a6928cfa5abab584ea0e8a5b0496a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f8f7810d8/92529318/f8f7810d843095f0467398593ca786c4.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Manchester Oxford Road Station",
+   "miles": 0.11823375746205643,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Deansgate Station",
+   "miles": 0.3050328108238472,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "St Peters Square Tram Stop",
+   "miles": 0.35602394091971096,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "OpenRent, London",
+ "city": "Manchester",
+ "sourceOutcode": "M1",
+ "scrapedAt": "2026-08-30T10:16:54.632Z"
+}

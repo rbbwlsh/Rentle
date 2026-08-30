@@ -1,0 +1,79 @@
+{
+ "id": "92266251",
+ "displayAddress": "Sugar House, French Yard, Bristol, BS1",
+ "outcode": "BS1",
+ "incode": "6SZ",
+ "latitude": 51.446301,
+ "longitude": -2.5943,
+ "priceAmount": 2200,
+ "priceLabel": "£2,200 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92266251",
+ "area": "French Yard, Bristol",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "06/11/2026",
+  "deposit": 2538,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "AVAILABLE NOVEMBER 2026\n\nThis modern upper floor apartment boasts 2 bedrooms and comes unfurnished, offering a comfortable and convenient living space. The property features a balcony, ideal for enjoying the fresh air and views, as well as residents' parking for added convenience. With a lift providing easy access to the upper floor, this apartment promises both style and functionality. Located in a sought-after area, this property is perfect for professionals or couples seeking a contemporary living space in a convenient location. Don't miss the opportunity to make this apartment your home. Contact us today to arrange a viewing and secure this desirable property.\n\nA holding deposit of £530,77 followed by a security deposit of £2653,85.\n\nEPC: B\nCouncil Tax : D\nCouncil: Bristol City Council\nHeating : Mains Electric\nWater : Mains Water\nElectricity : Mains Electric\nWater and Sewerage: Mains water\nOfcom- Information regarding broadband options and phone signal can be obtained from the Ofcom broadband and mobile coverage checker.",
+ "keyFeatures": [
+  "MODERN TWO BEDROOM APARTMENT",
+  "CENTRAL LOCATION",
+  "ALLOCATED SECURE PARKING",
+  "WALKING DISTANCE TO AMENITIES",
+  "AVAILABLE NOVEMBER"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/658dd4419/92266251/658dd441952a3a881582cc0c91100d34.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fa4212234/92266251/fa421223409ecd9efdc01288b34dde29.jpeg",
+  "https://media.rightmove.co.uk/property-photo/26e990dae/92266251/26e990dae5f13b4287940226ee85e2eb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dbf86f8f5/92266251/dbf86f8f5d09470419ba8bc3de762841.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2b4164d2f/92266251/2b4164d2fb707a3a2733edceb1fba5b6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a601328a5/92266251/a601328a50d76d6118c8e0176ac01a2d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/37f0a4e64/92266251/37f0a4e64e5fdaee6dea9a6046e34d80.jpeg",
+  "https://media.rightmove.co.uk/property-photo/902b59555/92266251/902b595555daa45875291fd78dcc1d13.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e8dd76dd0/92266251/e8dd76dd07d0a302006f675e1f21ec86.jpeg",
+  "https://media.rightmove.co.uk/property-photo/41ffdd677/92266251/41ffdd677974e00c32447c554d77531c.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Bedminster Station",
+   "miles": 0.4356924297071571,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 0.586438293061204,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Parson Street Station",
+   "miles": 1.1009079129007813,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Romans, Clifton",
+ "city": "Bristol",
+ "sourceOutcode": "BS1",
+ "scrapedAt": "2026-08-30T10:22:11.627Z"
+}

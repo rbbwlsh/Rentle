@@ -1,0 +1,82 @@
+{
+ "id": "89612052",
+ "displayAddress": "Bexley Terrace, Harehills, Leeds",
+ "outcode": "LS8",
+ "incode": "5NX",
+ "latitude": 53.80934,
+ "longitude": -1.51872,
+ "priceAmount": 950,
+ "priceLabel": "£950 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89612052",
+ "area": "Harehills, Leeds",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 1096,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Bexley Terrace, Harehills, Leeds | 2 Bedroom Home | Available Now | £975 pcm | £1125 Deposit | 3D Virtual Tour Available\n\n If you're after a home with real space and a bit of character, this one's worth a look.\n\n From the outside, it's a classic Leeds red-brick terrace sitting in a row of similar period properties. There's on-street parking available and a neatly paved front garden enclosed by a picket fence — a lovely spot to catch some sun or keep bikes out of the way.\n\n Inside, the ground floor has a bright and airy living room with original coving, a ceiling rose and warm wood-effect flooring — a really pleasant space to come home to. The kitchen sits just off the living area, fitted with white units, a gas hob and oven, metro-tiled splashback and a fridge freezer included.\n\n Head upstairs and you'll find a well-finished bathroom with large stone-effect tiles, a P-shaped bath with shower screen and a new combi boiler, alongside a generous double bedroom with plush carpet and a feature accent wall.\n\n On the top floor there's a second bedroom lit by a Velux skylight, giving it a bright and airy feel with its own radiator — a great private retreat. The large landing area outside also offers useful additional space.\n\n And then there's the basement — two rooms, fully boarded with power and lighting already in place. Whether you need serious storage, a workshop, a home gym or a hobby space, it's a genuinely brilliant bonus that most houses in this area simply don't have.\n\n Rent: £975 pcmDeposit: £1,125 (5 weeks)Gas central heating throughoutOn-street parkingAvailable nowEPC Rating: EPC DCouncil Tax Band: C Tax A Get in touch with the team at Haus to arrange a viewing.",
+ "keyFeatures": [
+  "EPC-D",
+  "2 spacious bedrooms ideal for families",
+  "Gas central heating throughout",
+  "Large basement",
+  "White goods included - move in ready",
+  "Popular LS8 location near amenities"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/05c776101/89612052/05c776101df29c592da09915e4fc7724.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5c9e8f034/89612052/5c9e8f03490dd9a16e4772074fedce71.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2e8ba1b36/89612052/2e8ba1b36f6a1d5ec84f4b610c700bd9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aef8e0822/89612052/aef8e082245e824bbcc881ca35e5e15c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/691094032/89612052/6910940324642eba4512b79955e40f2f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f6aff5359/89612052/f6aff535917fbf270081f33cfaab942e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3f7430ba7/89612052/3f7430ba756ba20fb7d3d8b812561bb5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/98974e4d1/89612052/98974e4d1b042f3b78cf7885bbb61b44.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a628eae8b/89612052/a628eae8b3dbc56e0ead90da972e7ac1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ef333ea54/89612052/ef333ea543ef4b78c3ef6fe5894ce8e9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f03b707fb/89612052/f03b707fbe822dde8817c8e339cf3bfb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/62eaa28fb/89612052/62eaa28fb463480d55c7c7bdeab7fd1f.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 1.5750826379975769,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 2.4366612744223413,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cross Gates Station",
+   "miles": 2.8239242109575473,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Haus Sales & Lettings, Covering Yorkshire",
+ "city": "Leeds",
+ "sourceOutcode": "LS8",
+ "scrapedAt": "2026-08-30T10:25:08.145Z"
+}

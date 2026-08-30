@@ -2,14 +2,15 @@ import { useState } from 'react';
 import { formatPcm } from '../format.js';
 
 const MIN = 200;
-const MAX = 10000;
+const MAX = 10000; // slider range only — the corpus has a few trophy listings
+const TYPED_MAX = 50000; // above it, so the typed input goes much higher
 const STEP = 25;
 
 // Slider + synced numeric input for the player's monthly-rent guess.
 export default function GuessControl({ attempt, maxAttempts, disabled, onGuess }) {
   const [value, setValue] = useState(1500);
 
-  const clamp = (n) => Math.max(MIN, Math.min(MAX, n));
+  const clamp = (n) => Math.max(MIN, Math.min(TYPED_MAX, n));
 
   function submit(e) {
     e.preventDefault();

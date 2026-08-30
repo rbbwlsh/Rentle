@@ -1,0 +1,75 @@
+{
+ "id": "92520696",
+ "displayAddress": "Westfield Road, Edgbaston, Birmingham, B15 3QG",
+ "outcode": "B15",
+ "incode": "3QG",
+ "latitude": 52.46726,
+ "longitude": -1.948977,
+ "priceAmount": 1050,
+ "priceLabel": "£1,050 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92520696",
+ "area": "Edgbaston, Birmingham",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 1215,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "LUXURY EN-SUITE APARTMENT | ALL BILLS & COUNCIL TAX INCLUDED | £1,050 PCM | AVAILABLE NOW\r\nAn exceptional high-specification apartment situated on Westfield Road, Edgbaston, offering stylish, contemporary accommodation finished to an excellent standard throughout.\n\n\r\nThe property benefits from a spacious and beautifully presented living/sleeping area, private en-suite bathroom and a top-of-the-range fitted kitchen with modern appliances. Finished with a clean, modern feel, the apartment is ready for immediate occupation.\n\n\r\nA key benefit is the fully inclusive rent of £1,050 PCM, including Council Tax and household bills, giving tenants the convenience of one straightforward monthly payment.\n\n\r\nIdeally located for Queen Elizabeth Hospital Birmingham, the property is particularly well suited to doctors, nurses, healthcare professionals and University staff. It is also conveniently positioned for the University of Birmingham, Harborne, Edgbaston and Birmingham city centre, with local shops, cafés, restaurants and transport connections within easy reach.\n\n\r\nOffering a private en-suite, premium specification, all-inclusive rent and an excellent location close to the hospital, this is an outstanding opportunity for a professional seeking high-quality accommodation in Edgbaston.\n\n\r\nThe property enjoys a highly convenient position on Westfield Road, Edgbaston, placing tenants within easy reach of some of Birmingham's most important employment, education and leisure destinations.\n\n\r\nA particular advantage is the property's proximity to Queen Elizabeth Hospital Birmingham, making it an excellent option for doctors, nurses, healthcare professionals and other hospital staff. The University of Birmingham is also nearby, making the location equally attractive to university professionals, postgraduate students and researchers.\n\n\r\nThe popular Harborne area is within easy reach, offering an excellent selection of restaurants, cafés, pubs, supermarkets and independent shops, while Edgbaston and Birmingham city centre provide further shopping, dining and entertainment options.",
+ "keyFeatures": [
+  "£1,050 PCM - ALL BILLS INCLUSIVE &amp; COUNCIL TAX INCLUDED",
+  "3D Virtual Tour Available NOW!!!!",
+  "PRIVATE EN-SUITE",
+  "TOP-OF-THE-RANGE FINISH",
+  "CLOSE TO QUEEN ELIZABETH HOSPITA",
+  "Early viewing is highly recommended",
+  "Academic Year 2026/2027"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/ce4c56f5d/92520696/ce4c56f5d56f825e853775e1db9db7ae.png",
+  "https://media.rightmove.co.uk/property-photo/034a33d9e/92520696/034a33d9e2b51e38599b272dc6c8396c.png",
+  "https://media.rightmove.co.uk/property-photo/fbfcd093c/92520696/fbfcd093c5617218d7f5eaa9c8f961ad.png",
+  "https://media.rightmove.co.uk/property-photo/6e4cf8e7a/92520696/6e4cf8e7a0802e93d43fbea22d737861.png"
+ ],
+ "imageCount": 4,
+ "nearestStations": [
+  {
+   "name": "University Station",
+   "miles": 1.2510566914858974,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Five Ways Station",
+   "miles": 1.5264467011979264,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Selly Oak Station",
+   "miles": 1.909315485477742,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Easy Lettings (Birmingham) Ltd, Birmingham",
+ "city": "Birmingham",
+ "sourceOutcode": "B15",
+ "scrapedAt": "2026-08-30T10:20:49.841Z"
+}

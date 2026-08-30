@@ -1,0 +1,86 @@
+{
+ "id": "92342814",
+ "displayAddress": "Durdham Park Bristol BS6",
+ "outcode": "BS6",
+ "incode": "6XA",
+ "latitude": 51.47254,
+ "longitude": -2.61329,
+ "priceAmount": 2000,
+ "priceLabel": "£2,000 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92342814",
+ "area": "BS6 area",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 1,
+  "sizeSqM": 0,
+  "letType": "Short term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "16/10/2026",
+  "deposit": 2308,
+  "minimumTermMonths": 0,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": 1,
+ "sizeSqM": 0,
+ "description": "This beautifully presented one-bedroom apartment offers stylish living in one of Bristol's most sought-after locations, moments from the open spaces of the Downs.\n\nTuscany House is a striking Grade II Listed Italianate villa dating from circa 1850, offering a unique combination of period character and contemporary living. Set within attractive communal grounds, the property provides a peaceful setting whilst remaining within easy reach of the city centre and the extensive amenities of Clifton and Redland.\n\nThe apartment comprises a bright and welcoming reception room, well-appointed kitchen, spacious double bedroom and modern bathroom. Finished to a high standard throughout, the property offers comfortable and well-proportioned accommodation ideal for a professional single or couple.\n\nA particular highlight is the roof terrace, providing an excellent private outdoor space for relaxing or entertaining. The property also benefits from an allocated off-street parking space, a highly sought-after feature in this popular area. To check broadband and mobile phone coverage please visit Ofcom here ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/ofcom-checker",
+ "keyFeatures": [
+  "SHORT LET  l  ALL BILLS INCLUDED",
+  "Furnished",
+  "Off Street Parking Space",
+  "Private Roof Terrace "
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/b34fc0904/92342814/b34fc090470b343309686d794f83f607.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e781a7c71/92342814/e781a7c714afa486e0a27b5210fc7e6d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/665974f70/92342814/665974f7048d03482388690c4a39db31.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ddd1b4c51/92342814/ddd1b4c515f70876f3fb6cc2a9595adb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ad7efa1c/92342814/8ad7efa1c83b1aba9ec5867bc8cc3041.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6ed595784/92342814/6ed5957846a0b316201cf0ed7c39299a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6ee56b525/92342814/6ee56b525f6c0c6f93601ea5c65fb4f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9f31b0d7f/92342814/9f31b0d7f049c8fac0b8dfc4dcf0ceeb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ac2fec6cd/92342814/ac2fec6cdbd67f655496e86effc5de76.jpeg",
+  "https://media.rightmove.co.uk/property-photo/70d0ad573/92342814/70d0ad5739ff2740882b5daea0093997.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4bb9dcf36/92342814/4bb9dcf36a4d01cd663b411bbccc2e8d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e6397a8e8/92342814/e6397a8e81a4dce68518fafe62ab7aa6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/16cf630fd/92342814/16cf630fd93b6c16463404a4aba13a7c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b734f3770/92342814/b734f37704349bfe4069ced348841c2c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9123c424b/92342814/9123c424b66b2cd02759859e44614d20.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9b49e1cc4/92342814/9b49e1cc4a1966a0091b3298696e7ef9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/06a30de3a/92342814/06a30de3a2bbc45dabbaaffd5ad6416f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/24cc38052/92342814/24cc3805234b6fe50b94a93c6a39b417.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.5611135766900754,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.6675776941536895,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Montpelier Station",
+   "miles": 1.0982445404643848,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Hamptons, Bath",
+ "city": "Bristol",
+ "sourceOutcode": "BS6",
+ "scrapedAt": "2026-08-30T10:23:22.511Z"
+}

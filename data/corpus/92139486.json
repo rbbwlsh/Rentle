@@ -1,0 +1,73 @@
+{
+ "id": "92139486",
+ "displayAddress": "Bayswater Row, Leeds",
+ "outcode": "LS8",
+ "incode": "5LF",
+ "latitude": 53.811168,
+ "longitude": -1.520131,
+ "priceAmount": 900,
+ "priceLabel": "£900 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92139486",
+ "area": "Leeds",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "End of Terrace",
+ "details": {
+  "propertyType": "End of Terrace",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 765,
+  "sizeSqM": 71,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 1038,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": 765,
+ "sizeSqM": 71,
+ "description": "Nestled in the charming area of Bayswater Row, Leeds, this delightful end terrace house offers a perfect blend of comfort and convenience. Spanning an inviting 764 square feet, the property features two well-proportioned bedrooms, making it an ideal choice for small families, couples, or individuals seeking extra space.\n\nUpon entering, you are welcomed into a spacious reception room that serves as a versatile living area, perfect for relaxation or entertaining guests. The layout is designed to maximise natural light, creating a warm and inviting atmosphere throughout the home. \n\nThe property boasts a well-appointed bathroom, ensuring that all essential amenities are readily available. The kitchen, while not specified, typically offers ample space for culinary pursuits, allowing for the preparation of delightful meals.\n\nThe location of Bayswater Row is particularly appealing, with easy access to local amenities, parks, and transport links, making it a convenient base for both work and leisure. The surrounding area is known for its friendly community and vibrant atmosphere, providing a welcoming environment for residents.\n\nThis end terrace house presents a wonderful opportunity for those looking to establish themselves in a desirable part of Leeds. With its practical layout and prime location, it is a property that should not be missed. Whether you are looking to buy or rent, this home is ready to welcome you.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c49713a9c/92139486/c49713a9c4eda96de94311889d01ed75.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fa17e1c62/92139486/fa17e1c6203cb3f499eb2915d8cf43f4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f21fc634/92139486/5f21fc634eb8484c4b7be72bae49368a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d4eeaa688/92139486/d4eeaa6881c06442f2602facc8df1c79.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a4c3a5a2f/92139486/a4c3a5a2f460a00ebc3d830753fc6905.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1868fd29b/92139486/1868fd29b23645030393865a32cef8c7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9eb98e88a/92139486/9eb98e88ac31fbe321564dd3270881fe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2a824ddd4/92139486/2a824ddd461736c85c6cbb7e68a9a915.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3f0dff5db/92139486/3f0dff5dbbdf486281cf8beb7fd660e2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a4fb2becf/92139486/a4fb2becf927a7c00d8f8d9d201c1f87.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 1.6230405605759315,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 2.372654800694339,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cross Gates Station",
+   "miles": 2.8972192143398963,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "VGL Properties Limited, Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS8",
+ "scrapedAt": "2026-08-30T10:25:25.245Z"
+}

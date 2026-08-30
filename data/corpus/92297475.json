@@ -1,0 +1,82 @@
+{
+ "id": "92297475",
+ "displayAddress": "2 x £138pw, Flat 2, Daisy Bank Road, Manchester, Greater Manchester, M14",
+ "outcode": "M14",
+ "incode": "5QL",
+ "latitude": 53.458344,
+ "longitude": -2.212973,
+ "priceAmount": 1192,
+ "priceLabel": "£1,192 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92297475",
+ "area": "Manchester, Greater Manchester",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 800,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "****AVAILABLE FROM 4th SEPTEMBER 2026****\n\nIDEAL FOR COUPLES  - Rent for the flat is £275/wk\n\nGAS SUPPLY INCLUDED IN THE RENT!\n\nTHE PROPERTY:\n*\tA beautiful Grade II listed building full of history and character\n\n*\tBright and spacious apartment\n\n*\tFully furnished double bedroom with desk, drawers, and wardrobe\n\n*\tBathroom with bath and shower\n\n*\tStunning, modern, fully fitted kitchen with dishwasher and washer-dryer\n\n*\tDelightful garden views\n\n*\tAccess to the beautiful Summerville Gardens with picnic benches and a patio area\n\n*\tOff-street secure gated parking\n\n*\tOn-site team including maintenance, window washer, gardener, and cleaners for communal areas\n\n*\tGreat security with CCTV and lockable entrance gates\n\n*       24-Hour Emergency Number \n\nTHE LOCATION:\n*\tExcellent transportation links and regular bus routes to the City Centre\n\n*\tJust a short walk to Oxford Road and the hospitals\n\n*\tClose to local amenities such as Tesco Express\n\nRef: 65DBRF2\n VIEW NOW! Call our office or send an email to book a viewing today!\n\nLANDLORD OF THE YEAR 2022\nWe are proud to be the Manchester Landlord of the Year for 2022! \nNominated again for 2026",
+ "keyFeatures": [
+  "Very Spacious Flat in Gated Grade II Listed Building",
+  "Gas Included in the Rent!",
+  "Expansive Lounge and Dining Area",
+  " Great Security with CCTV and Lockable Entrance Gates ",
+  "On-Site Maintenance Team and 24hr Emergency Number ",
+  "Access to Beautiful Gardens with Patio Area and Picnic Benches",
+  "Close to Oxford Road &amp; Universities",
+  "Excellent Transportation Links"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/4415b64dd/92297475/4415b64dd4f252c2aee545f116f3e582.jpeg",
+  "https://media.rightmove.co.uk/property-photo/af6bdac14/92297475/af6bdac144823f064127bdad83ea6d98.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0e324478a/92297475/0e324478a4aee0b7b419bb1ae6211dd0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dac88e904/92297475/dac88e9048575ab213e2c7e932db73f4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b2d24f589/92297475/b2d24f5891b4da06a7a327fc3acdb25d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/29d5839da/92297475/29d5839da24f57970764681316e410ab.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9f31417e1/92297475/9f31417e1d912d0d267de810a56668e2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/845b4ac95/92297475/845b4ac951a14f65c42ecd2592aa54f5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8e4f7d6a9/92297475/8e4f7d6a900c2a69f470133570c29653.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e81608c9f/92297475/e81608c9f481c3256328cc0941a2d3d7.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Ardwick Station",
+   "miles": 0.8802849865077462,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Ashburys Station",
+   "miles": 1.1851640750734453,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Levenshulme Station",
+   "miles": 1.2733217158893853,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Crossway Estates, Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M14",
+ "scrapedAt": "2026-08-30T10:17:57.011Z"
+}

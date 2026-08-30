@@ -1,0 +1,84 @@
+{
+ "id": "92415057",
+ "displayAddress": "Trafalgar Avenue, Peckham, London, SE15",
+ "outcode": "SE15",
+ "incode": "6NR",
+ "latitude": 51.485149,
+ "longitude": -0.072803,
+ "priceAmount": 4500,
+ "priceLabel": "£4,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92415057",
+ "area": "Peckham, London",
+ "bedrooms": 4,
+ "bathrooms": 2,
+ "propertySubType": "House",
+ "details": {
+  "propertyType": "House",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "12/09/2026",
+  "deposit": 5192,
+  "minimumTermMonths": 12,
+  "councilTaxBand": "TBC"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A beautiful house finished to a very high standard with spacious rooms and lots of charm. \n\nThe house is set over four floors. On the lower ground floor is a stunning white gloss kitchen with breakfast bar, great light and a vast adjacent dining room with a wood burning stove. \n\nStairs lead up to a double reception room , large windows and many original features. \n\nOn the first floor there is a luxurious master bedroom suite with walk in wardrobe and newly fitted en-suite bathroom. \n\nThere are a further two double bedrooms and family bathroom on the second floor.\n\nTo the rear of the house is a lovely garden",
+ "keyFeatures": [
+  "House",
+  "Stunning property",
+  "Two bathrooms",
+  "Available September",
+  "Unfurnished",
+  "Beautiful Décor",
+  "NO HMO LICENCE!"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/326bbbfae/92415057/326bbbfaea858a410e88d795fbe12450.jpeg",
+  "https://media.rightmove.co.uk/property-photo/68203e134/92415057/68203e134f173c4a190c81015c90c0f3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b6d06be35/92415057/b6d06be35711d78c053f5d8ed96fae2a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f8d7bdcce/92415057/f8d7bdcce181f3e1c29f7cfbfb429dba.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1ce72bae2/92415057/1ce72bae22ea409a927aad770ec6838d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3534f56ab/92415057/3534f56ab17b26a89696d4b5c7e22cb9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/be6b0ede6/92415057/be6b0ede6262e1df2c2928c610fb8a8f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1dd954bea/92415057/1dd954bea16b6df00229d63b56095c2b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c0db35a0e/92415057/c0db35a0ef29ceb86da822a2d5381405.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9feef4986/92415057/9feef49867cadfd131014fd4e60bbf2e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6461e9f72/92415057/6461e9f724e00db0b1640e2dc279eb2f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/735612952/92415057/735612952b6f5787be6b744ab4f3b50d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/09816d3c1/92415057/09816d3c1caa62daf238d04481eb0c7a.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "South Bermondsey Station",
+   "miles": 0.8144526269236931,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bermondsey Station",
+   "miles": 0.9646960484165285,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Peckham Rye Station",
+   "miles": 1.0706139363464402,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Kinleigh Folkard & Hayward - Lettings, Peckham Rye",
+ "city": "London",
+ "sourceOutcode": "SE15",
+ "scrapedAt": "2026-08-30T10:14:53.523Z"
+}

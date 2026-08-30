@@ -1,0 +1,80 @@
+{
+ "id": "92517132",
+ "displayAddress": "Howard Place, Central, Edinburgh, EH3",
+ "outcode": "EH3",
+ "incode": "5JZ",
+ "latitude": 55.96377,
+ "longitude": -3.20123,
+ "priceAmount": 2300,
+ "priceLabel": "£2,300 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92517132",
+ "area": "Central, Edinburgh",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "30/09/2026",
+  "deposit": 2500,
+  "minimumTermMonths": null,
+  "councilTaxBand": "E"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "New to the market, stunning unfurnished top floor 3 bedroom traditional flat in sought after area of Inverleith. Close to Edinburgh Botanical gardens and within walking distance to Edinburgh city centre.\n\nThe property is offered unfurnished and comprises of:-\n\nHall, Lounge, Diningroom(/Bedroom 3), Master Bedroom with a “secret” dressing room and ensuite shower room , Bedroom 2, Bathroom with separate shower cubicle, breakfasting kitchen, utility cupboard, excellent storage, Gas Central heating and shared garden to the rear. Parking permit required.\n\nThe New Town is a popular area of the city, with Princes Street and George Street within walking distance for their range of restaurants and shops. The property has access to\nexcellent transport links, and is close by to Edinburgh major train stations, on Edinburgh princess street is the city's tram network, giving a direct route to Edinburgh international airport.\n\nEPC- D\nCOUNCIL TAX- E\nLL reg: 04545/230/14540\nLARN1904047 EPC rating: D.  Landlord Registration Number: 1115040/230/30091. Letting Agent Registration Number: 1904047.",
+ "keyFeatures": [
+  "Shower",
+  "Washing machine",
+  "Dishwasher",
+  "Fridge Freezer"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d81aa9bb4/92517132/d81aa9bb454554a18d43d2a3ede667b1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/78ae74415/92517132/78ae7441566f824fa6a385ef0a8de5e8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c0ca1fcb1/92517132/c0ca1fcb117221befa942cde76f27ef4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7c5b819a8/92517132/7c5b819a896a62e3061381ad47cba96e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a966b4415/92517132/a966b4415c9ec808341b5a64c08b3ec0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/26ed418d3/92517132/26ed418d3ceb1d8ad29dfa34e0ab7365.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f6f34e0d6/92517132/f6f34e0d6a1d2d5fef67e5dac207500b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b240b11b7/92517132/b240b11b79cabdaf21c8bf4ffdf68a11.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1131feb69/92517132/1131feb693d070f7230dca139f621115.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e20bd4687/92517132/e20bd468736bad49618dd54f960de411.jpeg",
+  "https://media.rightmove.co.uk/property-photo/71739be97/92517132/71739be97b9e5fedea265fb3e736b4eb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d244c467/92517132/6d244c46718123e13e342e4eec74498d.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.9259041400702404,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.4328007588280043,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 3.0502036081811683,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Ballantynes, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH3",
+ "scrapedAt": "2026-08-30T10:26:01.974Z"
+}

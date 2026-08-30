@@ -1,0 +1,92 @@
+{
+ "id": "92542494",
+ "displayAddress": "Broadside, M4",
+ "outcode": "M4",
+ "incode": "5FS",
+ "latitude": 53.48601,
+ "longitude": -2.2307,
+ "priceAmount": 1650,
+ "priceLabel": "£1,650 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92542494",
+ "area": "Broadside",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Experience Premium Living at Broadside Manchester\nWelcome to Broadside, a modern residential community in Manchester's dynamic New Cross district. Offering stunning one, two, and three-bedroom apartments, Broadside blends sleek, contemporary design with outstanding convenience.\n\nStylish Interiors for Modern Lifestyles\nEach apartment features high-quality finishes, spacious open-plan layouts, and energy-efficient appliances, perfectly balancing comfort and style. Floor-to-ceiling windows fill your home with natural light, while premium kitchens and bathrooms provide a luxurious touch.\n\nAmenities That Redefine Living\nBroadside’s exclusive amenities cater to work, wellness, and leisure:\n- Rooftop Terraces with breathtaking city views.\n- Fitness Studio with exercise bikes and yoga matts.\n- Co-Working Spaces ideal for productivity.\n- 24/7 Concierge Service for ultimate convenience.\n- Pet-Friendly Living with a welcoming community.\n\nStay connected with super-fast Wi-Fi, secure parking for an additional cost, and resident events fostering a vibrant neighbourhood atmosphere.\n\nPrime Location Near Manchester’s Best\nEnjoy the Northern Quarter's eclectic shops, bars, and dining just moments away. Broadside offers urban living at its finest, with everything you need at your doorstep.\n\nDiscover your perfect city home at Broadside.\n\n*Available for student let\nViewing Tour disclaimer: This advertisement relates to a specific unit at the stated rent. Where multiple units are available within the same development, you may be shown other apartments during your viewing. Each unit is marketed at its own advertised rent, which will be clearly confirmed to you before any offer is submitted. We do not accept offers above the advertised rent for any property. The rent agreed will always be the advertised rent for the selected unit, in accordance with the Renters’ Rights Act.",
+ "keyFeatures": [
+  "Private terraces",
+  "Fitness studio",
+  "Residents Lounge",
+  "24hr Concierge",
+  "Super-fast WiFi",
+  "Bespoke Interiors",
+  "City Centre Location",
+  "Pet Friendly",
+  "Private residents roof terrace"
+ ],
+ "tags": [
+  "BUILT_FOR_RENTERS",
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/aa4d09431/92542494/aa4d09431fb281070a243fe14b9ccc66.jpeg",
+  "https://media.rightmove.co.uk/property-photo/428c07495/92542494/428c0749548821add934ab83d126acd8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/65f49d8de/92542494/65f49d8dea5c39614de1176420d254cd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b9eb5ad10/92542494/b9eb5ad1047fc2ae6f483581d5474402.jpeg",
+  "https://media.rightmove.co.uk/property-photo/55074bdb7/92542494/55074bdb7a0ebc5e744b478bbe224ce5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c88d3b9c2/92542494/c88d3b9c24b59615bf889da15ae98633.jpeg",
+  "https://media.rightmove.co.uk/property-photo/625ecb352/92542494/625ecb35201433a2e2e0db789c60084e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/53650998e/92542494/53650998e5432e6865a3f72e3c60f61b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a411b2fa1/92542494/a411b2fa1e6fff2958a126e1e9058931.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f561ec249/92542494/f561ec249ff7da013697141582a5828f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f6985d4a1/92542494/f6985d4a11e55868e6023cd04b2f8e6e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/48a3244c4/92542494/48a3244c4f3dfe8710575fb88e94ed18.jpeg",
+  "https://media.rightmove.co.uk/property-photo/31f671fd8/92542494/31f671fd807a6c14fbecc3bb4dc35534.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a49ec05d6/92542494/a49ec05d6af3ed32f9edc0c6bd283df1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7bf565248/92542494/7bf565248e23b6d4e826051794982040.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b6b0156ed/92542494/b6b0156ed6db1e85921b584cb086cb06.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Market Street Tram Stop",
+   "miles": 0.45305400455762335,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "New Islington Tram Stop",
+   "miles": 0.561974302207725,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Manchester Victoria Station",
+   "miles": 0.49068677411473627,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Home Made, London",
+ "city": "Manchester",
+ "sourceOutcode": "M4",
+ "scrapedAt": "2026-08-30T10:17:44.011Z"
+}

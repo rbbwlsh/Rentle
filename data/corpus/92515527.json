@@ -1,0 +1,84 @@
+{
+ "id": "92515527",
+ "displayAddress": "Langdale Road, Manchester, M14",
+ "outcode": "M14",
+ "incode": "5PP",
+ "latitude": 53.457147,
+ "longitude": -2.213256,
+ "priceAmount": 654,
+ "priceLabel": "£654 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92515527",
+ "area": "Manchester",
+ "bedrooms": 5,
+ "bathrooms": 2,
+ "propertySubType": "House",
+ "details": {
+  "propertyType": "House",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 2705,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Lovely large 5 bedroom 2 bathroom student house with open lounge, close to all amenities, university, public transport, city centre, and MRI Hospital. The property has 4 large double bedrooms with a large kitchen and a separate living room. It comes with a washer and dryer, fully furnished with double beds in each room with IKEA furnishings.\n\nOn-road parking.\n\nVictoria Park\n\nManchester\n\nM14 5PP\n\nThis property is managed via the Hybr platform. By submitting an enquiry, you acknowledge and consent to your information being shared with Hybr for the purpose of processing and responding to your enquiry.\n\n If you have any questions get in touch with our team by pressing the call button on Rightmove and when asked for a property reference code, put in 20455908",
+ "keyFeatures": [
+  "£151 per person per week",
+  "All Bills Included",
+  "Furnished",
+  "Close to Amenities",
+  "Near University",
+  "Public Transport Links",
+  "Large Kitchen",
+  "Victoria Park Location",
+  "Available Now"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a3bca05d7/92515527/a3bca05d7068512ca364a2d4c9e6b9a4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0e4d5d400/92515527/0e4d5d400968a6d1b74b13db69fdafd2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0bd4115b5/92515527/0bd4115b5a050e3287a66effde0e48cc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/76d24de0e/92515527/76d24de0ec32a523607d1ebfe1b5bf8d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9d5f8c24d/92515527/9d5f8c24ddaf22eef37a79cf5cf2d889.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fa8184f6a/92515527/fa8184f6a9c94111f7bee4c4f32efed3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/45cd57529/92515527/45cd5752963fc13cdb0ee08428dfc12e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8d8b8759e/92515527/8d8b8759e941f4a7d199a8690de33b99.jpeg",
+  "https://media.rightmove.co.uk/property-photo/034f9ab80/92515527/034f9ab800e4ddcae1016aa349dc3b45.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0bf06594f/92515527/0bf06594f9f48139f5a57ba4fc3bcc9b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bc8555b69/92515527/bc8555b6997aeae3e6d1974940aeb04b.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Ardwick Station",
+   "miles": 0.963071918202641,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Levenshulme Station",
+   "miles": 1.2199199172331445,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Ashburys Station",
+   "miles": 1.2578673172067172,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "HYBR, Covering Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M14",
+ "scrapedAt": "2026-08-30T10:18:04.074Z"
+}

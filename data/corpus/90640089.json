@@ -1,0 +1,71 @@
+{
+ "id": "90640089",
+ "displayAddress": "Express Networks, Manchester",
+ "outcode": "M4",
+ "incode": "5DB",
+ "latitude": 53.484901,
+ "longitude": -2.23195,
+ "priceAmount": 1200,
+ "priceLabel": "£1,200 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90640089",
+ "area": "Express Networks, Manchester",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "08/10/2026",
+  "deposit": 1385,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "***Cladding works on going \n\nMartin & Co are pleased to offer this excellent 2 bedroom apartment at Express Networks. Located in the heart of the highly desirable Northern Quarter, only a short walk from Piccadilly Gardens this apartment is ideal for the young professional.",
+ "keyFeatures": [
+  "MOMENTS FROM PICCADILLY GARDENS",
+  "SOUGHT AFTER NORTHERN QUARTER LOCATION",
+  "TWO DOUBLE BEDROOMS",
+  "FEATURE WET ROOM / EN SUITE",
+  "FULLY FURNISHED",
+  "***Cladding works on going "
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/59c1a679b/90640089/59c1a679b103ce4f8155affbfa76e502.jpeg"
+ ],
+ "imageCount": 1,
+ "nearestStations": [
+  {
+   "name": "Market Street Tram Stop",
+   "miles": 0.3657916153898125,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Piccadilly Gardens Tram Stop",
+   "miles": 0.38996716434796996,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Mosley Street Tram Stop",
+   "miles": 0.43896420884774934,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Martin & Co, Manchester Central",
+ "city": "Manchester",
+ "sourceOutcode": "M4",
+ "scrapedAt": "2026-08-30T10:17:26.952Z"
+}

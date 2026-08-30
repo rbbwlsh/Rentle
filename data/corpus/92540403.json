@@ -1,0 +1,77 @@
+{
+ "id": "92540403",
+ "displayAddress": "Church Street, Manchester, M4",
+ "outcode": "M4",
+ "incode": "1PN",
+ "latitude": 53.482976,
+ "longitude": -2.237927,
+ "priceAmount": 950,
+ "priceLabel": "£950 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92540403",
+ "area": "Manchester",
+ "bedrooms": null,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": null,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 1096,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "AVAILABLE NOW | Fully Furnished | Studio Apartment | Deansgate Area | Great Transport Routes & Walking Distance to the City Centre\n\n\rDescription\n\nFurnished studio apartment in Pall Mall House - ideal for City Centre living. \n\nThis fantastic studio offers a separate kitchen to the living quarters giving occupiers more space, whilst the living area has a private balcony - a rare find for such a central location. \n\nPall Mall House is a converted warehouse located on Church Street in the heart of the Northern Quarter. The conversion has been done exquisitely and there are many features throughout with a art deco styled communal area. The building is 8 storey high with the lower two floors occupied by commercial space. Located well for all the City Centre has to offer, this particular location is popular being so close to the bars, restaurants and independent shops that the Northern Quarter is famous for.\n\nThe block is accessed via secure entry system directly from Church Street and there are two lifts and stairs to all floors.\n\nThis property has cladding, as far as we know the current position with the property is: It’s been tested and there are no works required.*\n*You should make enquires about the external wall system of the property, if it has cladding and if it is safe or if there are interim measure in place.\n\n\r\n\r \r\n\nAdditional Info\n\nHolding Deposit : £219.23 ( 1  week )\nDeposit Payable : £1,096.15 ( 5 weeks ) \nRent must be paid monthly in advance",
+ "keyFeatures": [
+  "Studio",
+  "Furnished",
+  "City Centre Location",
+  "Separate Kitchen",
+  "Private Balcony",
+  "EPC Rating = B"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c75d752fb/92540403/c75d752fb7ab920520d05f036f4fc064.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b9826671c/92540403/b9826671c0299af93acc3815c6f60e62.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7a3578ee9/92540403/7a3578ee9c2c4303db48b5b79800a3be.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8b6f4f1ee/92540403/8b6f4f1eec6c583177221ffd395fbe04.jpeg",
+  "https://media.rightmove.co.uk/property-photo/331b775d1/92540403/331b775d1cfb6f9fc430c882b4aa9ed0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7f333f418/92540403/7f333f41802e3c237c5b021fb70e44e7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9385feaf2/92540403/9385feaf2361e4398832175c1487c454.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Market Street Tram Stop",
+   "miles": 0.09229900753961097,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Mosley Street Tram Stop",
+   "miles": 0.18647201351707515,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Piccadilly Gardens Tram Stop",
+   "miles": 0.21084217503326935,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Savills Lettings, Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M4",
+ "scrapedAt": "2026-08-30T10:17:45.233Z"
+}

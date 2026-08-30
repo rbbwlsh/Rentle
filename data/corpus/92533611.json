@@ -1,0 +1,72 @@
+{
+ "id": "92533611",
+ "displayAddress": "Sakina House, Manchester, M20",
+ "outcode": "M20",
+ "incode": "3GR",
+ "latitude": 53.433628,
+ "longitude": -2.231395,
+ "priceAmount": 760,
+ "priceLabel": "£760 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92533611",
+ "area": "Sakina House, Manchester",
+ "bedrooms": 1,
+ "bathrooms": 2,
+ "propertySubType": "Flat Share",
+ "details": {
+  "propertyType": "Flat Share",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 760,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Property Reference: 3021232.\n\nWe are proud to offer this delightful room in a 2 bedroom, 2 bathroom shared flat in a great location.\n\nAvailable to move in from 29 August 2026. Property is offered unfurnished.\n\nViewing highly recommended. Contact OpenRent today for more details or to arrange a viewing! \n\nSummary\n\nRoom 1 - Double room for 1 person - £760.00 per month (£175.38 per week)\n\nDeposit / Bond is from £760.00, depending on room\n\nMaximum number of tenants is 1\n\nSummary & Exclusions:\n- Rent Amount: £760.00 per month (£175.38 per week)\n- Deposit / Bond: £760.00\n- 2 Bedroom Property (1 room currently available for rent)\n- 2 Bathrooms\n- Property comes unfurnished\n- Available to move in from 29 August 2026\n- Maximum number of tenants is 1\n- Students welcome to enquire\n- No Smokers\n- Bills Included\n- No Parking Available\n- No Garden Access\n- EPC Rating: EPC Not Required (Shared Accommodation)\n\n  If calling, please quote reference: 3021232  \n\nFees:\nYou will not be charged any admin fees.\n\n ** Contact today to book a viewing and have the landlord show you round! ** \nRequest Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.",
+ "keyFeatures": [
+  "No Agent Fees",
+  "Room Only (Shared Flat)",
+  "Students Can Enquire",
+  "Bills Included",
+  "Property Reference Number: 3021232"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/0b99c3f8b/92533611/0b99c3f8b6746da897d711203d1a0149.jpeg",
+  "https://media.rightmove.co.uk/property-photo/434012754/92533611/43401275409803f76d151fe9d28460e4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c0c272637/92533611/c0c27263757c2d598724f65a38a9d347.jpeg"
+ ],
+ "imageCount": 3,
+ "nearestStations": [
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 0.49119582525013383,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 0.6581425423093992,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Withington Tram Stop",
+   "miles": 0.7386230913120823,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "OpenRent, London",
+ "city": "Manchester",
+ "sourceOutcode": "M20",
+ "scrapedAt": "2026-08-30T10:18:30.557Z"
+}

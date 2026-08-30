@@ -1,0 +1,73 @@
+{
+ "id": "92500320",
+ "displayAddress": "Garden Court (F6), Alma Vale Road, Clifton, Bristol, BS8",
+ "outcode": "BS8",
+ "incode": "2HT",
+ "latitude": 51.462306,
+ "longitude": -2.615569,
+ "priceAmount": 1295,
+ "priceLabel": "£1,295 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92500320",
+ "area": "Clifton, Bristol",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "19/10/2026",
+  "deposit": 1295,
+  "minimumTermMonths": null,
+  "councilTaxBand": "TBC"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "ATTRACTIVE ONE BEDROOM BALCONY APARTMENT IN A PRIME LOCATION WITH OFF STREET PARKING. The apartment is packed with character and comprises living room with balcony overlooking the church gardens, separate kitchen with oven, halogen hob, fridge with freezer compartment and washing machine. There is a spacious double bedroom and the bathroom is modern with a shower over the bath. There is an allocated parking space in a carpark behind. Ref61 (Unfurnished) (Gas Central Heating) (Council Tax Band B) (EPC Rating TBC)",
+ "keyFeatures": [
+  "1 BEDROOM APARTMENT",
+  "OFF STREET PARKING",
+  "2 BALCONIES"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/4fdd475e9/92500320/4fdd475e9a037fbab2e0400378905e28.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9d73f0805/92500320/9d73f08050c42415156855ed5099ac39.jpeg",
+  "https://media.rightmove.co.uk/property-photo/500e4a9bc/92500320/500e4a9bc3357e5e87db87c8be5cad7e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a41a30601/92500320/a41a306019a85cfaae8fbe5179b8f183.jpeg",
+  "https://media.rightmove.co.uk/property-photo/571617778/92500320/571617778982c08056bd6be445704b3b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d29c4d472/92500320/d29c4d47218a3922b0c237e822695df2.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.25036173572506154,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.8113514036882555,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Montpelier Station",
+   "miles": 1.2310020947779952,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Abode Property Management, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS8",
+ "scrapedAt": "2026-08-30T11:03:11.774Z"
+}

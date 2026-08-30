@@ -1,0 +1,74 @@
+{
+ "id": "92299074",
+ "displayAddress": "Joiner Street, Manchester, M4",
+ "outcode": "M4",
+ "incode": "1PH",
+ "latitude": 53.482574,
+ "longitude": -2.237718,
+ "priceAmount": 1300,
+ "priceLabel": "£1,300 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92299074",
+ "area": "Manchester",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "03/09/2026",
+  "deposit": 1500,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Property Reference: 2967430.\n\nProperty is right in the heart of Manchester's City Centre which provides convenient access to Piccadilly tram, bus and train station with Victoria and Deansgate train stations within a short walking distance. Surrounded by shops, coffee shop, restaurants and convenient store.\n\nProperty available after 03/09/2026.\n\n ·      Fully furnished\n\n ·      Two double bedrooms\n\n ·      Modern Integrated kitchen\n\n ·      Well-presented bathroom \n\n ·      Second floor \n\n ·      Central Northern Quarter Location\n\n Viewing highly recommended. Contact OpenRent today for more details and to arrange a viewing!\n\nSummary & Exclusions:\n- Rent Amount: £1,300.00 per month (£300.00 per week)\n- Deposit / Bond: £1,500.00\n- 2 Bedrooms\n- 1 Bathrooms\n- Property comes furnished\n- Available to move in from 03 September 2026\n- Maximum number of tenants is 2\n- Students welcome to enquire\n- No Smokers\n- Bills not included\n- No Parking Available\n- No Garden Access\n- EPC Rating: C\n\n  If calling, please quote reference: 2967430  \n\nFees:\nYou will not be charged any admin fees.\n\n ** Contact today to book a viewing and have the landlord show you round! ** \nRequest Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.",
+ "keyFeatures": [
+  "No Agent Fees",
+  "Students Can Enquire",
+  "Property Reference Number: 2967430"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/913418a44/92299074/913418a44340652af508a1861561c5f2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c9b70e163/92299074/c9b70e163b0909f1f252d98bb8b54478.jpeg",
+  "https://media.rightmove.co.uk/property-photo/722b2c79e/92299074/722b2c79e01bcdff41f09ce7b5864d4c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d19d6d0a3/92299074/d19d6d0a30cd168aeb1f8d0e4c4019c7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/91e3bd2c7/92299074/91e3bd2c7e5044b5d54a3b926cd730b6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5e7526a7d/92299074/5e7526a7df9b22f2e5988a1e3a5098a1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/354317660/92299074/354317660b411d92c278aaf6ab3b2e5b.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Market Street Tram Stop",
+   "miles": 0.07854290309942093,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Mosley Street Tram Stop",
+   "miles": 0.16460818797066118,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Piccadilly Gardens Tram Stop",
+   "miles": 0.18177880689400808,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "OpenRent, London",
+ "city": "Manchester",
+ "sourceOutcode": "M4",
+ "scrapedAt": "2026-08-30T10:17:46.848Z"
+}

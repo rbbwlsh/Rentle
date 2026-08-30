@@ -1,0 +1,72 @@
+{
+ "id": "92516193",
+ "displayAddress": "Ferme Park Road, Crouch End N8",
+ "outcode": "N8",
+ "incode": "9RY",
+ "latitude": 51.576718,
+ "longitude": -0.114417,
+ "priceAmount": 2275,
+ "priceLabel": "£2,275 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92516193",
+ "area": "Ferme Park Road",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": null,
+  "letAvailableDate": "30/09/2026",
+  "deposit": 2625,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This spacious two double bedroom flat is set on the 2nd floor of a period house minutes to Crouch End. The apartment has a fully fitted kitchen/diner, neutral decor, two good size double bedrooms and a generous size lounge.Ferme Park Road provides an excellent location moments from the shops, bars and restaurants around Crouch End Broadway, while transport links include Hornsey Station (National Rail) and Turnpike Pike Lane Underground Station (Piccadilly Line).",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c3e788fc9/92516193/c3e788fc9e462457e040d97fd9734b8a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5ebe91601/92516193/5ebe916018c7add272dddd8e9d4a9887.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d2677a3b2/92516193/d2677a3b244d29d20195ce528499f86f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3b3b77f63/92516193/3b3b77f6370aaf599267d238ab99c22a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a07103514/92516193/a07103514a2c966102f3250b29c1e57c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee11aea3f/92516193/ee11aea3f3c0719eb83b5045e28858f9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/de98e2f40/92516193/de98e2f4030641e7fceb7fc84360b5e2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6397d38e1/92516193/6397d38e1ed115429087f764d16bc547.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee754abd4/92516193/ee754abd4ab32b7454c68fa429bdbf9d.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Crouch Hill Station",
+   "miles": 0.3903410858154417,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Harringay Station",
+   "miles": 0.3932890159626414,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Hornsey Station",
+   "miles": 0.6719521510762303,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Black Katz, Camden",
+ "city": "London",
+ "sourceOutcode": "N8",
+ "scrapedAt": "2026-08-30T10:13:47.999Z"
+}

@@ -1,0 +1,84 @@
+{
+ "id": "92503698",
+ "displayAddress": "Kensington Terrace, Hyde Park, Leeds, LS6",
+ "outcode": "LS6",
+ "incode": "1BG",
+ "latitude": 53.813278,
+ "longitude": -1.564448,
+ "priceAmount": 1050,
+ "priceLabel": "£1,050 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92503698",
+ "area": "Hyde Park, Leeds",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "15/10/2026",
+  "deposit": 1211,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "DEPOSIT FREE OPTION AVAILABLE! This TWO BEDROOM apartment is located on the cusp of the city centre, close to the Universities and Leeds General Infirmary. Offered FURNISHED, the property is ideal for two friends or a couple.\n\n\rDEPOSIT FREE OPTION AVAILABLE! \nThis TWO BEDROOM apartment is located on Kensington Terrace on the edge of the city centre close to Woodhouse Moor Park and local amenities. \nThe property is offered fully FURNISHED with two equal sized bedrooms making it ideal for two firends or a couple. \nThe property is briefly comprised of; entrance hallway leading to a light and airy OPEN-PLAN living/kitchen space with JULIET BALCONY, kitchen includes free-standing fridge-freezer and washing machine, two double bedrooms with BUILT-IN STORAGE and house bathroom with shower cubicle. \nExternally, the property benefits from OFF-STREET, first come first serve parking and maintained COMMUNAL GARDENS.  \n\nPlease note: This property is on the first floor with no lift access. Heating is solely electric throughout.  \n\nDeposit Free Option Available\nFurnished\nDeposit: £1211\nEPC: B\nCouncil Tax Band: B\nResident Parking\n\n** Please contact our Headingley branch today for more information and to arrange a viewing! **\n\nThe property is connected to a mains electricity supply, with mains water and sewerage supplied by Yorkshire water. The broadband type available in the area is standard. Mobile availability at the property is covered by all four major suppliers. Please either check the Ofcom website or contact the office for specific details and suppliers available, for both broadband and mobile.  A holding deposit equivalent to one weeks rent (£242) will be taken once you have been provisionally accepted by the landlord (subject to references and contracts).  This holding deposit will not be returned should you provide false or misleading information, fail a right to rent check, unilaterally withdraw your application or fail to take all reasonable steps to enter into a tenancy agreement within a reasonable timescale.",
+ "keyFeatures": [
+  "Deposit Free Option Available",
+  "Two Bedroom Apartment",
+  "Furnished",
+  "Open-Plan Living",
+  "Juliet Balcony",
+  "Off Street Parking",
+  "Communal Garden Space",
+  "Great Location"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/acdb1465c/92503698/acdb1465c9b8ad4988a4715614215f4f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d73a632ac/92503698/d73a632ac5f1f5730de6cb114acd612c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/da13e19e2/92503698/da13e19e2bfbaa8d4a4713fbd41489dc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/70d802d4b/92503698/70d802d4be1d35bd20245dd19eef9b9a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e0d15f5e5/92503698/e0d15f5e5bd9898f7e6df2f06a535e76.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c118f320a/92503698/c118f320a1c7d5b28d9c8326cefde0ea.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a9c324820/92503698/a9c324820ee01903cd8580262730eca0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7d377689b/92503698/7d377689baef5d2fe2733785101bcf06.jpeg",
+  "https://media.rightmove.co.uk/property-photo/722086608/92503698/722086608f73765e96d71465b1cad85e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/56b138245/92503698/56b138245b487ce69b01abab39671888.jpeg",
+  "https://media.rightmove.co.uk/property-photo/95c6ae351/92503698/95c6ae351b61e37f7160431826c04347.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4ca6d58d0/92503698/4ca6d58d03705e1dfb5de0de57083122.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Burley Park Station",
+   "miles": 0.5648450490867082,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 1.2568587390276909,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Leeds Station",
+   "miles": 1.5109706035080002,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Linley & Simpson, Headingley",
+ "city": "Leeds",
+ "sourceOutcode": "LS6",
+ "scrapedAt": "2026-08-30T10:24:39.153Z"
+}

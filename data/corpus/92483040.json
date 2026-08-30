@@ -1,0 +1,81 @@
+{
+ "id": "92483040",
+ "displayAddress": "Dene House Court, University, Leeds",
+ "outcode": "LS2",
+ "incode": "9BS",
+ "latitude": 53.80972,
+ "longitude": -1.548775,
+ "priceAmount": 1050,
+ "priceLabel": "£1,050 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92483040",
+ "area": "University, Leeds",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 1050,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "AVAILABLE NOW!! LOVELY SPACIOUS NEWLY DECORATED TWO DOUBLE BEDROOMED APARTMENT WITH SECURE PARKING, A NEW FITTED KITCHEN, BREAKFAST BAR AND SHOWER ROOM W/C, SITUATED IN THIS VERY CONVENIENT LOCATION, A SHORT WALK TO THE MAIN UNIVERSITIES AND LEEDS CITY CENTRE.\r\n\r\nThe attractive furnished accommodation has double glazing with large windows and high ceilings with all electric heating, comprising an entrance hall, a good sized lounge with breakfast bar and a modern fitted kitchen, two double bedrooms and a shower room w/c. Outside, there is a fully enclosed courtyard with secure parking and electric gates with one allocated parking space.\r\n\r\nA deposit of £1050 will be required which will be registered with an approved scheme within 30 days of initial payment. A holding deposit of £100 is required when making an application. If the application is approved the holding deposit will go towards the first month's rent payment.",
+ "keyFeatures": [
+  "Two bedroomed apartment",
+  "New kitchen &amp; shower room w/c",
+  "Freshly decorated",
+  "Courtyard with secure parking space",
+  "Very close to universities &amp; city",
+  "Available now",
+  "EPC RATING D"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/fddfdb5e2/92483040/fddfdb5e24b19d3dee7de16e7ae6715a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b20b6af07/92483040/b20b6af07b56eb322d35b2989490af64.jpeg",
+  "https://media.rightmove.co.uk/property-photo/239bc6a56/92483040/239bc6a56299bf09a2edbcd53a994c59.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b798d8ccd/92483040/b798d8ccde3496866002290b47dc2dba.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cd25de28c/92483040/cd25de28ca2a73d58f2a21cbfcb0cc25.jpeg",
+  "https://media.rightmove.co.uk/property-photo/672e15e60/92483040/672e15e607a37f5865879ce90542ea05.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1d8276953/92483040/1d82769532de4229131f45cc3c0d0684.jpeg",
+  "https://media.rightmove.co.uk/property-photo/68b3dbe3d/92483040/68b3dbe3d763d8b37441f0070de61901.jpeg",
+  "https://media.rightmove.co.uk/property-photo/77bb91a36/92483040/77bb91a3634aa6bbd310cf02f217aa21.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e00707634/92483040/e00707634ea16f6542a1954403ccb44e.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 1.0901933927329979,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 1.2094875305686799,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 1.941651068085465,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Castlehill, Headingley",
+ "city": "Leeds",
+ "sourceOutcode": "LS2",
+ "scrapedAt": "2026-08-30T10:24:19.532Z"
+}

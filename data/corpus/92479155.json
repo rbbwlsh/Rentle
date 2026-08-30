@@ -1,0 +1,80 @@
+{
+ "id": "92479155",
+ "displayAddress": "Burghley Road, Bristol",
+ "outcode": "BS6",
+ "incode": "5BN",
+ "latitude": 51.471111,
+ "longitude": -2.589107,
+ "priceAmount": 795,
+ "priceLabel": "£795 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92479155",
+ "area": "Bristol",
+ "bedrooms": null,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": null,
+  "bathrooms": 1,
+  "sizeSqFt": 765,
+  "sizeSqM": 71,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "18/09/2026",
+  "deposit": 917,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": 765,
+ "sizeSqM": 71,
+ "description": "* AVAILABLE 18.09.2026 * \n\nFULLY FURNISHED BEDSIT & KITCHEN! The Property Outlet & Jeffrey Ross are delighted to offer to the rental market this ground floor bedsit in a shared house. The accommodation comprises kitchen & bedroom/living area. WHITE GOODS INCLUDED, FRIDGE/FREEZER, NEW ELECTRIC HOB & OVEN. There is a communal Bathroom & utility room with a washing machine and tumble dryer. This property is situated in St Andrews, just off Gloucester Road with good transports links, shops, restaurants and bars all in walking distance. BILLS INCLUDED WITHIN THE MONTHLY RENT – water & council tax.\n\nHolding Deposit £183.46",
+ "keyFeatures": [
+  "764.23 SQ FT (total ground floor area)",
+  "Bedsit",
+  "Furnished",
+  "Ground Floor",
+  "Great Location",
+  "Double Glazing",
+  "Fridge/Freezer",
+  "New Electric Oven &amp; Hob",
+  "Suit a single professional",
+  "Damaged Deposit £917.30"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/81cd7899e/92479155/81cd7899e32965c6b18f86c3d0472e80.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ebed2f9ce/92479155/ebed2f9ce72f167ef40b990a29f309a5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c67f2124e/92479155/c67f2124e3b23c15a7798b37d7c990c7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ba7a1cf66/92479155/ba7a1cf66f8c197735bffe1d24940e11.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3883bc844/92479155/3883bc8442d7323326d572e8fb4a7b91.jpeg",
+  "https://media.rightmove.co.uk/property-photo/337ab14af/92479155/337ab14af8f3d132bd60cc2d11f0ba6f.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Montpelier Station",
+   "miles": 0.19150164372746473,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.48582673505022256,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Stapleton Road Station",
+   "miles": 1.023319363827691,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "JeffreyRoss & The Property Outlet, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS6",
+ "scrapedAt": "2026-08-30T10:22:59.314Z"
+}

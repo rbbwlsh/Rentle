@@ -1,0 +1,70 @@
+{
+ "id": "92521410",
+ "displayAddress": "Welsh Back, Bristol",
+ "outcode": "BS1",
+ "incode": "4SS",
+ "latitude": 51.453468,
+ "longitude": -2.592479,
+ "priceAmount": 1450,
+ "priceLabel": "£1,450 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92521410",
+ "area": "Welsh Back, Bristol",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "07/09/2026",
+  "deposit": 1673,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Available from middle of May!\n\nFull Description - Wildheart are delighted to bring to the market for the first time this recently refurbished, bright and spacious one bedroom on the second floor in West India House. The flat is available on a furnished or unfurnished basis \n\nThis distinguished listed building is overlooking the delightful wharf at Welsh Back and a short stroll from Queen Square and the many attractions on offer at Harbourside.  Just a 10-minute walk to Bristol Temple Mead station this apartment is in a truly outstanding location for those looking for a home in the heart of the city.\n\nAvailable to rent from the middle of May - early viewing is recommended!\n\nHolding Deposit: £334.60\nDeposit: £1,673\nCouncil Tax band: C\n\nFurniture has been included for AI purposes only",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/345fd10eb/92521410/345fd10ebd7e302056acfa361b8c76bd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0dc780db9/92521410/0dc780db9b10c4bb551a6adab159480c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/36845ee3e/92521410/36845ee3e4c1f4bdd0061a4dcc7402ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b18110c6d/92521410/b18110c6d0366a1c66d28447ae47360c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/da23fcb17/92521410/da23fcb174add26f17ae1dfa42384ad9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1b8c171f1/92521410/1b8c171f13e38f48e5fe92e03530e869.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d846b7bc6/92521410/d846b7bc69d487ab6fe6028eeb407ad4.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 0.5656477303670541,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bedminster Station",
+   "miles": 0.9345475519820894,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Montpelier Station",
+   "miles": 1.0415046615800772,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Wildheart Residential Management Limited, Epsom",
+ "city": "Bristol",
+ "sourceOutcode": "BS1",
+ "scrapedAt": "2026-08-30T10:21:46.033Z"
+}

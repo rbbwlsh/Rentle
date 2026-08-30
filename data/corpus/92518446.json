@@ -1,0 +1,86 @@
+{
+ "id": "92518446",
+ "displayAddress": "Larke Rise, Mersey Road, West Didsbury",
+ "outcode": "M20",
+ "incode": "2UL",
+ "latitude": 53.418975,
+ "longitude": -2.246177,
+ "priceAmount": 1750,
+ "priceLabel": "£1,750 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92518446",
+ "area": "West Didsbury",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "21/09/2026",
+  "deposit": 2019,
+  "minimumTermMonths": null,
+  "councilTaxBand": "D"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "*** AVAILABLE SEPTEMBER *** A superbly presented two double bedroom apartment situated on the ever-popular Larke Rise development in West Didsbury. Only a short walk to local pubs & bars and a 10-minute walk to the Metrolink makes it perfectly suited to single occupants, couples or professional sharers. The accommodation is tastefully furnished throughout and briefly comprises; tidy communal areas with lift access, entrance hall, very large lounge / dining area, glass walled study / sun-room and modern kitchen. Master bedroom with en-suite shower room, second double bedroom and modern main bathroom. Secure parking and well-kept communal gardens. Fully Furnished. To arrange a viewing please contact our Didsbury office. \n\nEPC Rating C // Council Tax Band D\n\n*** AVAILABLE SEPTEMBER *** A superbly presented two double bedroom apartment situated on the ever-popular Larke Rise development in West Didsbury. Only a short walk to local pubs & bars and a 10-minute walk to the Metrolink makes it perfectly suited to single occupants, couples or professional sharers. EPC Rating C // Council Tax Band D",
+ "keyFeatures": [
+  "Available September",
+  "Two Double Bedrooms",
+  "Two Bathrooms",
+  "Furnished",
+  "Ideal for Couples or Professional Sharers",
+  "Glass Walled Reception / Study Area",
+  "Great Location of West Didsbury",
+  "Allocated Parking",
+  "Council Tax Band D",
+  "EPC Rating C"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1e3ee1b00/92518446/1e3ee1b00cfa787dc179d4bacba6b79d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/00a029e6d/92518446/00a029e6dc55674f16f7389e38ddef1c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ce423ceab/92518446/ce423ceabdb7f2dcd9df0ab6e04dea5e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/39df5b809/92518446/39df5b809244203ca4951ff15535254b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5ced93e5f/92518446/5ced93e5f2dce321bebf64e0305b124a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1f027534e/92518446/1f027534ec2f9ec5f9f4cc96bf02a1c2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/44aae3f39/92518446/44aae3f3951c8bee17ee9a21056adbd0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6ead4b511/92518446/6ead4b51139a5de8845b7ad3e8c52bb6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f156493b4/92518446/f156493b4ffa8422048726abf7ce906c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8887bb78e/92518446/8887bb78e3466df212924da70db55817.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a5637c0f1/92518446/a5637c0f1aa979e17495544361775077.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 0.5643519558432963,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 0.7397759198122841,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Didsbury Village Station",
+   "miles": 0.7417434732501823,
+   "types": [
+    "TRAM",
+    "LIGHT_RAILWAY"
+   ]
+  }
+ ],
+ "agent": "Jordan Fishwick, Didsbury",
+ "city": "Manchester",
+ "sourceOutcode": "M20",
+ "scrapedAt": "2026-08-30T10:18:39.140Z"
+}

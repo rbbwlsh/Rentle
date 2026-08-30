@@ -1,0 +1,68 @@
+{
+ "id": "92320578",
+ "displayAddress": "Roman Grove, Leeds",
+ "outcode": "LS8",
+ "incode": "2DT",
+ "latitude": 53.844463,
+ "longitude": -1.507037,
+ "priceAmount": 850,
+ "priceLabel": "£850 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92320578",
+ "area": "Leeds",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "15/10/2026",
+  "deposit": 850,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "AVAILABLE 15th October 2026\n\nA modern and stylish, fully furnished, one bedroom apartment located on a quiet street in Roundhay.\n\nThe property is located on the second floor of a picturesque Victorian house and contains an open-plan kitchen/living room, double bedroom and en-suite shower room.  \n\nRoman Grove is located just off Street Lane, which hosts bars, restaurants, supermarkets and regular bus routes into Leeds city centre. On-street parking is also available.\n\nCouncil Tax Band - A",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/5b9c877f0/92320578/5b9c877f093930f768cc55ea73effff2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/df079defc/92320578/df079defc09231f5bf15c087a5ea3501.jpeg",
+  "https://media.rightmove.co.uk/property-photo/26326bedf/92320578/26326bedf3989ea9cd8a70cb0e5c0236.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b43066059/92320578/b430660593966f40321e365cd7c4bc2f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ed07e2600/92320578/ed07e26006e8122de4c474f00d486433.jpeg"
+ ],
+ "imageCount": 5,
+ "nearestStations": [
+  {
+   "name": "Cross Gates Station",
+   "miles": 3.5880869688752575,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 3.674104921906314,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Leeds Station",
+   "miles": 3.8578900633722846,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Fletcher Properties, Covering Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS8",
+ "scrapedAt": "2026-08-30T10:25:13.855Z"
+}

@@ -1,0 +1,78 @@
+{
+ "id": "92549856",
+ "displayAddress": "Swan Street, Manchester, M4",
+ "outcode": "M4",
+ "incode": "5JU",
+ "latitude": 53.485015,
+ "longitude": -2.229736,
+ "priceAmount": 1635,
+ "priceLabel": "£1,635 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92549856",
+ "area": "Manchester",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Ask agent",
+  "deposit": 0,
+  "minimumTermMonths": null,
+  "councilTaxBand": "TBC"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Nestled perfectly between the vibrant Northern Quarter and the lively Ancoats, Swan Street House offers a modern urban living experience like no other in Manchester. This pet-friendly building boasts fully furnished apartments with contemporary designs, creating a stylish and comfortable home. Residents can enjoy exclusive amenities such as resident lounges, co-working spaces, and private meeting rooms, fostering both community and productivity. Swan Street House is more than just a place to live—it's a place to thrive, with regular resident events adding to the vibrant atmosphere.\n\nApartment highlights:\n\n- A spacious open-plan kitchen/living area with modern appliances; full height fridge/freezer, oven, electric hob, washer/dryer and dishwasher\n\n- Large family bathroom with shower/bath\n\n- Fully furnished modern furniture: double beds, mattresses, wardrobes, bedside units, dining table and chairs, a large sofa, arm chair, media unit and coffee table\n\n- Floor to ceiling windows\n\nPerks of living here:\n\n- Professional management and friendly 24/7 on-site team\n\n- Pet-friendly apartments with no added costs\n\n- On-site maintenance, here to help when you need them\n\n- Access to on-site Resident' Lounges, Co-working Space, Private Meeting Rooms and Rooftop Terrace\n\n- Flexible tenancies from 12 to 36 months\n\n- Resident events with your community\n\n- Exclusive local and nationwide discounts\n\n- The option to paint feature walls\n\n- Super-fast Wi-Fi options where you can pick the package right for you\n\n- Secure car parking spaces available to rent and EV charging (subject to availability )\n\n CBRE Limited on its behalf and for the Vendors or Lessors of this property whose Agents they are, give notice that:\n\n1. These particulars are set out as a general outline only for guidance to intending Purchasers or Lessees, and do not constitute any part of an offer or contract.  \n2.Whilst CBRE Limited uses reasonable endeavours to ensure that the information in these particulars is materially correct, some of the information is derived from third parties and has not been verified by us. Any intending Purchasers, Lessees or Third Parties should not rely on this information as a statement or representation of fact, but must satisfy themselves by their own inspection, searches, enquiries, surveys or otherwise as to the accuracy and completeness.\n3. To the maximum extent permitted by law CBRE Limited accepts no liability or responsibility for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss of profits resulting from direct or indirect actions based upon the content of these particulars. No person in the employment of CBRE Limited has any authority to make any representation or warranty whatsoever in relation to this property.\n4. Unless otherwise stated, all purchase prices and rents are correct at the date of publication and, unless otherwise stated,  are quoted exclusive of VAT.  Lease details and service ground rent (where applicable) are given as a guide only and should be checked and confirmed by your solicitor prior to exchange of contracts.",
+ "keyFeatures": [],
+ "tags": [
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/4715b3960/92549856/4715b3960834decc1f64d144328cc592.jpeg",
+  "https://media.rightmove.co.uk/property-photo/535e1d70e/92549856/535e1d70e3d7d4478ef48f3dcbfe12a3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/de702085a/92549856/de702085a8c6e19899bcfa4cb6b2c501.jpeg",
+  "https://media.rightmove.co.uk/property-photo/09667fc5d/92549856/09667fc5d52d9e99add4a2435f505be2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9d1612c24/92549856/9d1612c24c3afad13f74a0e5dbe884d0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7cb8b0a55/92549856/7cb8b0a551a8971e025e31d646f8cc60.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2bcd9d6b7/92549856/2bcd9d6b76ac16407d78d6637b10bd15.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb1245413/92549856/bb1245413f1bd1db9397d15854a80ae6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9189c29fa/92549856/9189c29faa537dabf07e2177596a1bc2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3ab0ac104/92549856/3ab0ac104a870992e4b33680654ce3cf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1ce615038/92549856/1ce615038ec0ff73861dc1ec16abb513.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d89226f9f/92549856/d89226f9fb968c3889cbd65f463ce18c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ddbb79377/92549856/ddbb79377dd5ac36c353ea278fd0ba13.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Manchester Victoria Station",
+   "miles": 0.5441776127766065,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Market Street Tram Stop",
+   "miles": 0.44778107812667284,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Piccadilly Gardens Tram Stop",
+   "miles": 0.44884301130989906,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "CBRE Residential, New Developments",
+ "city": "Manchester",
+ "sourceOutcode": "M4",
+ "scrapedAt": "2026-08-30T10:17:31.507Z"
+}

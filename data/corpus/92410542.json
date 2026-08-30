@@ -1,0 +1,80 @@
+{
+ "id": "92410542",
+ "displayAddress": "Gransden Avenue, London, E8",
+ "outcode": "E8",
+ "incode": "3QA",
+ "latitude": 51.540865,
+ "longitude": -0.056628,
+ "priceAmount": 3500,
+ "priceLabel": "£3,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92410542",
+ "area": "London",
+ "bedrooms": 2,
+ "bathrooms": null,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Ask agent",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "The Gransden - Rental Apartments in Hackney\r\n\r\nOur 2 Bedroom Apartments\r\nOur 2-bedroom apartments at The Gransden offer flexible, high-spec living ideal for professional sharers, couples needing extra space, or small families looking to enjoy Hackney living. With generous layouts and thoughtfully designed interiors, these apartments balance practicality with modern style.\r\nEach apartment features a spacious open-plan kitchen, dining, and living area that creates the perfect setting for both relaxing and entertaining. Large windows allow plenty of natural light to fill the space, while private balconies provide an ideal extension of the home for outdoor dining or quiet evenings. The contemporary kitchens are fully fitted with integrated appliances, sleek cabinetry, and ample worktop space.\r\nThe principal bedroom offers a spacious double room with built-in storage and easy access to a stylish modern bathroom, while the second bedroom provides excellent flexibility as a guest room, workspace, or additional bedroom. Finished with wooden flooring, double glazing, and bright contemporary interiors, these apartments are available furnished or unfurnished to suit your lifestyle.\r\n\r\nWhat's included:\r\n*\t2 minute walk to London Fields Overground Station\r\n*\tPrivate Spacious Balconies \r\n*\tFully Furnished or Unfurnished Options \r\n*\tModern Open-Plan Living Spaces \r\n*\tPet Friendly Living \r\n*\tExcellent Transport Links in Zone 2 London \r\n*\tResident App with Exclusive Perks\r\n*\tProfessionally Managed\r\n*\tExclusive Resident Events\r\n*\tOn-Site Team & Maintenance Support\r\n\r\nThe Location\r\nLocated in the heart of Hackney, The Gransden offers modern rental living in one of East London's most vibrant and creative neighbourhoods. Just moments from London Fields Rail and a short walk from Broadway Market, residents enjoy fast and convenient access to Liverpool Street and Central London, making commuting simple while keeping the best of local living right on your doorstep.\r\nHackney is known for its unique blend of green spaces, independent cafés, restaurants, markets, and cultural hotspots. London Fields Park provides the perfect place for outdoor exercise, weekend relaxation, and summer swimming at the nearby lido, while Broadway Market offers some of East London's best food, coffee, and boutique shopping. From local galleries and music venues to riverside walks along Regent's Canal, The Gransden places you at the centre of a lively and well-connected Zone 2 lifestyle.\r\n\r\nResident Perks\r\nThe Gransden offers a collection of professionally managed 1, 2 and 3-bedroom rental apartments in the heart of Hackney, perfectly positioned for vibrant East London living. Designed for modern lifestyles, these high-spec apartments combine style, flexibility, and everyday convenience. Available furnished or unfurnished, each home features bright open-plan living spaces, fully equipped kitchens, contemporary bathrooms, and private balconies that extend your living space outdoors. Wooden flooring throughout, double glazing, and spacious, well-proportioned layouts create homes that are both comfortable and practical.\r\nWhether you're a professional seeking a well-connected base, a couple, a family needing extra space, or sharers looking for modern East London living, The Gransden offers flexible rental options to suit a wide range of lifestyles. \r\n\r\nGet in touch to check availability and book a viewing today!",
+ "keyFeatures": [
+  "2 minute walk to London Fields Overground Station",
+  "Private Spacious Balconies",
+  "Fully Furnished or Unfurnished Options",
+  "Modern Open-Plan Living Spaces",
+  "Pet Friendly Living",
+  "Excellent Transport Links in Zone 2 London",
+  "Resident App with Exclusive Perks",
+  "Professionally Managed",
+  "Exclusive Resident Events",
+  "On-Site Team &amp; Maintenance Support"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d8db51524/92410542/d8db51524f236c82ebf85081894b37bc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5de7ee71f/92410542/5de7ee71fb82410a4b3657be701cbf36.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c284866ff/92410542/c284866ff9977601ce25b3ef3f335d29.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9f909cbf8/92410542/9f909cbf8d4ca5d65611f52a5ff799d8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/387a4fc9b/92410542/387a4fc9bd6cfe7fb4e4f19ca9141116.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1584b0271/92410542/1584b0271e5ead36c37ce892126ff8ce.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "London Fields Station",
+   "miles": 0.05270991186001019,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Hackney Central Station",
+   "miles": 0.4232490538116503,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Hackney Downs Station",
+   "miles": 0.5365616941506083,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "City Living, Nationwide",
+ "city": "London",
+ "sourceOutcode": "E8",
+ "scrapedAt": "2026-08-30T10:13:18.923Z"
+}

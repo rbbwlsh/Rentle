@@ -1,0 +1,81 @@
+{
+ "id": "92533026",
+ "displayAddress": "Shire Oak Road, Leeds",
+ "outcode": "LS6",
+ "incode": "2DD",
+ "latitude": 53.820824,
+ "longitude": -1.571532,
+ "priceAmount": 750,
+ "priceLabel": "£750 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92533026",
+ "area": "Leeds",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 750,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Available NOW! - Early viewing is advised of this extremely SOUGHT AFTER and ATTRACTIVE LOCATION WITHIN HEADINGLEY, only a short walk to the extensive amenities and yet set back enjoying a leafy backwater position.\r\n\r\nThis CLEAN AND WELL PRESENTED FLAT offers ONE/TWO bedrooms, on the second floor (top floor), with communal parking and maintained gardens. \r\n\r\nIdeally suited for a professional or mature student person or couple, (rather than two sharers due to the side of the second bedroom) \r\n\r\nFeatures include modern bathroom and characterful kitchen, Upvc double glazing and nice garden views.    \r\n\r\n A deposit equal to the 1st months rent will be required which will be registered with an approved scheme within 30 days of initial payment. A holding deposit of £100 is required when making an application. If the application is approved the holding deposit will go towards the first month's rent payment.",
+ "keyFeatures": [
+  "One/Two Bedroomed 2ND Floor Flat ",
+  "Available NOW ",
+  "Upvc Double Glazing ",
+  "BRAND NEW CARPETS &amp; DECOR THROUGHOUT! ",
+  "Popular Spot in Central Headingley ",
+  "Ideal Professional Base",
+  "EPC RATING E"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/b9fe60800/92533026/b9fe6080024566955df8627a4b226e2f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/76cc15278/92533026/76cc1527837b066be4c0cc7b56bfafad.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c3f784f6e/92533026/c3f784f6e9ea4b7248bea79beeba266f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/14249db33/92533026/14249db33ee2e2998fb1e9d84607aee7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3141b74c2/92533026/3141b74c29cbb0d3393d56229fcfb338.jpeg",
+  "https://media.rightmove.co.uk/property-photo/01f732a62/92533026/01f732a628102688072172584f552cef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c1143e1c5/92533026/c1143e1c5760612bded9f33bc3d6e9ff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4a429be1d/92533026/4a429be1d07692dcbafc56ac12acb396.jpeg",
+  "https://media.rightmove.co.uk/property-photo/09de3d516/92533026/09de3d516d9ae9c0115cde107a2b5479.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6e717c8c9/92533026/6e717c8c9d57b529249b9c509f3f3094.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Burley Park Station",
+   "miles": 0.6677567566280206,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 0.9450105621508386,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Kirkstall Forge Station",
+   "miles": 2.087992112578195,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Castlehill, Headingley",
+ "city": "Leeds",
+ "sourceOutcode": "LS6",
+ "scrapedAt": "2026-08-30T10:24:33.101Z"
+}

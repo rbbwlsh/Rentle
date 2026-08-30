@@ -1,0 +1,84 @@
+{
+ "id": "175022714",
+ "displayAddress": "Lauriston Gardens, Central, Edinburgh, EH3",
+ "outcode": "EH3",
+ "incode": "9HJ",
+ "latitude": 55.94286,
+ "longitude": -3.19866,
+ "priceAmount": 3200,
+ "priceLabel": "£3,200 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/175022714",
+ "area": "Central, Edinburgh",
+ "bedrooms": 4,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 4,
+  "bathrooms": 1,
+  "sizeSqFt": 1098,
+  "sizeSqM": 102,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "09/09/2026",
+  "deposit": 3692,
+  "minimumTermMonths": null,
+  "councilTaxBand": "E"
+ },
+ "sizeSqFt": 1098,
+ "sizeSqM": 102,
+ "description": "Viewings booked exclusively online at  \n\nA fantastic main door 4 bedroom HMO property within walking distance of the university. This spacious accommodation comprises of a modern kitchen with dining table and additional seating area, 4 double bedrooms, large bathroom with shower over bath and ample storage throughout.  \n\nThere is a small private garden to the front of the property which is well maintained and a large shared garden to the rear of the property which is accessed through one of the bedrooms. The property benefits from Gas Central Heating. \n\nLauriston is in the heart of the city of Edinburgh, surrounded by an excellent range of shops, amenities and restaurants. It runs adjacent to The Meadows - a large public park in the centre of Edinburgh University campus, Edinburgh College of Art and National Library of Scotland. Within easy reach is more comprehensive shopping along Edinburgh’s Princess Street as well as Cameron Toll Shopping Centre including a Sainsbury’s superstore.\nThis is a great area for students, situated in the centre of the student community, with ample bus routes available across the city providing easy access to Edinburgh’s Universities.  \n\nPlease note there may have been changes to decor, floor covering and furnishing since the marketing photos were taken.  EPC rating: D.  Landlord Registration Number: 02374/230/12400. Letting Agent Registration Number: 1904038.",
+ "keyFeatures": [
+  "Shower",
+  "Washing machine",
+  "Fridge Freezer"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d4e175062/175022714/d4e175062eeb69e3447b191869b7a678.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3ad49d25a/175022714/3ad49d25a2e080f5259423fc1113fb58.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0d1d96e04/175022714/0d1d96e0402b41dd75ab68c4ce92e065.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c6baabbc1/175022714/c6baabbc1b2ed3c33e4758425b293910.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e99f596f5/175022714/e99f596f5fe3c58e85b4a565d39c1fc3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ea4915fa5/175022714/ea4915fa520ca7ef0fc9c8b80a2523a9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ceb6e3e1c/175022714/ceb6e3e1c79e1c6c744771bbcf1d25f0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/703565bb8/175022714/703565bb827e1776c8a1ed45a46c8db1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b7ef54577/175022714/b7ef545771cf8654dd6353a1df26b673.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6ed93f402/175022714/6ed93f4022ff2dccf1b4801559c625a8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6a13d5fb6/175022714/6a13d5fb614c68aa6f4b259e8a1ee587.jpeg",
+  "https://media.rightmove.co.uk/property-photo/59f04dc31/175022714/59f04dc31726d4732bf0abf65d005817.jpeg",
+  "https://media.rightmove.co.uk/property-photo/185c58719/175022714/185c587191a8bb020f6ab921399e5551.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c944b375b/175022714/c944b375b9da24e799bff91e7289601e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/67a3b3c54/175022714/67a3b3c543166ef9845ca8e93838c887.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a7ff253c3/175022714/a7ff253c39fc62168c4de9ebcd5a437f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9b7ef8e7c/175022714/9b7ef8e7c31302a6833ed8e33e19dbe5.jpeg"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.7208364065498815,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 0.775244776096634,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 2.071904040213142,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "IERO, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH3",
+ "scrapedAt": "2026-08-30T10:26:15.797Z"
+}

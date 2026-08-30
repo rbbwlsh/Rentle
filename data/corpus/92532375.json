@@ -1,0 +1,84 @@
+{
+ "id": "92532375",
+ "displayAddress": "Cutting Room, Bedminster",
+ "outcode": "BS3",
+ "incode": "1FQ",
+ "latitude": 51.44353,
+ "longitude": -2.59638,
+ "priceAmount": 1500,
+ "priceLabel": "£1,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92532375",
+ "area": "Cutting Room, Bedminster",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "26/10/2026",
+  "deposit": 1730,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "** Zero Deposit Guarantee Available **\nTaylors are excited to present this beautifully appointed one-bedroom, upper-floor apartment in the sought-after Factory No1 development.\n\nLocated just off East Street in Bedminster, this apartment offers a superb combination of modern living and convenience. As part of the prestigious Factory No1 complex, residents benefit from on-site concierge services and round-the-clock security. The meticulously maintained communal grounds enhance the luxurious feel of the development, providing a peaceful and inviting environment.\n\nLocation:\n\nSituated in the heart of Bedminster, you’re surrounded by an array of local shops, bars, and restaurants. The Whapping Wharf and Harbourside areas are just a short walk away, along with Bristol Temple Meads train station and the City Centre, making this an ideal spot for those who enjoy easy access to everything Bristol has to offer.\n\nThe Apartment:\n\nThis stunning apartment is positioned to overlook Southville, offering views from the balcony. Upon entering, you're greeted by a spacious entrance hall with a handy storage cupboard. The bedroom is generously sized and furnished with a king-sized bed, built-in wardrobes, side tables, and a dresser drawer, providing ample storage and comfort. The bathroom features stylish grey tiling throughout, complemented by gold fixtures. It includes both a separate shower and bath, a large wash basin, and a W/C.\n\nThe heart of the home is the open-plan living, kitchen, and dining area. The modern kitchen is fully equipped with high-quality built-in appliances, including a washing machine, fridge-freezer, dishwasher, induction hob, and overhead extractor fan. The kitchen provides plenty of counter space and storage. \n\nIn between the kitchen and living area is a convenient dining space with a glass table and chairs, perfectly placed to enjoy the views. The spacious living area easily accommodates multiple pieces of furniture and even offers space for a desk, ideal for home office workers. A balcony extends from the living area, providing a peaceful outdoor space to relax and unwind. Its inward-facing position ensures a quieter experience, perfect for enjoying the surroundings in privacy.\n\nDon't miss out on this fantastic opportunity!\n\nContact Taylors on   to arrange a viewing today. Council Tax Band: C Holding Deposit: £346.00",
+ "keyFeatures": [
+  "Available October",
+  "Excellent Condition",
+  "Double Bedroom",
+  "Furnished",
+  "Located in the Heart of Bedminster",
+  "Part of Factory No.1",
+  "2022 New Build Development",
+  "Close to City Centre",
+  "Fully Equipt Intergrated Appliances",
+  "Concierge Service"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/ab7f7446a/92532375/ab7f7446aa36cbab3b238ba9d6e4ef53.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1e42b59de/92532375/1e42b59de71d58e0c87b05ff571cf069.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5614ae9a4/92532375/5614ae9a4c1d979b5c7703a4c34bed4f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e0a3bdc18/92532375/e0a3bdc187cb1d97787ba1f675fa17d1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f4d2e7e15/92532375/f4d2e7e15147a4ecf5d510d4bd7fdeac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d35a88a8/92532375/6d35a88a8afc94c8865dc2f58098ad9b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/be19ccfe5/92532375/be19ccfe525a99938d6710b8cbec548f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/34a8ebf52/92532375/34a8ebf528ecedac4e5f7b619f596999.jpeg",
+  "https://media.rightmove.co.uk/property-photo/33fa68d9f/92532375/33fa68d9f5dee567a9829af4092e134f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ae09b61e0/92532375/ae09b61e034192255de5075337eb2173.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Bedminster Station",
+   "miles": 0.2602598611447112,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 0.7491879206800031,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Parson Street Station",
+   "miles": 0.8927647801876059,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Taylors Lettings, Bedminster",
+ "city": "Bristol",
+ "sourceOutcode": "BS3",
+ "scrapedAt": "2026-08-30T10:22:24.005Z"
+}

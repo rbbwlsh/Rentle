@@ -1,0 +1,88 @@
+{
+ "id": "92490852",
+ "displayAddress": "PLATFORM_ in Edinburgh, EH6",
+ "outcode": "EH6",
+ "incode": "5GE",
+ "latitude": 55.97151,
+ "longitude": -3.18179,
+ "priceAmount": 1600,
+ "priceLabel": "£1,600 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92490852",
+ "area": "PLATFORM_ in Edinburgh",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Smart, stylish, and right in the heart of the city - this is renting done differently.\r\n\r\nPLATFORM_ in Edinburgh's modern studio, 1, 2, and 3-bedroom apartments are made for easy city living. Whether you're commuting, working from home, or heading out to explore Edinburgh's best bits, everything's within easy reach.\r\n\r\nWhy you'll love living here:\r\n\r\n- Gym on your doorstep - no queues, no travel, just head downstairs\r\n\r\n- Gorgeous roof terrace - perfect for a morning coffee or sunset catch-up\r\n\r\n- Plenty of space to work or chill - think co-working lounges, games room, and stylish social areas\r\n\r\n- Private dining room - ideal for hosting mates without squeezing everyone round your kitchen\r\n\r\n- Ultrafast broadband - included, so you're sorted from day one\r\n\r\n- Pet friendly - because home wouldn't be the same without them\r\n\r\n- Super central - walk to the West End, hop on the tram, or head to Princes Street in minutes\r\n\r\nInside each apartment, you'll find sleek, open-plan layouts with fully fitted kitchens, integrated appliances, and loads of storage. Some even come with balconies or amazing views across the city. And if you want to bring your own vibe, you can choose between furnished and unfurnished options.\r\n\r\nIt's not just a place to live - it's a proper community. From resident events to friendly onsite teams who've always got your back, this is city living without the hassle.\r\n\r\nBook a viewing and come see for yourself - it's even better in person.\r\n\r\nImages, CGIs and floorplans are illustrative only, actual availability may vary. Please enquire for further details.\r\n\r\n*available to students\r\n\r\nLARN: 2207001\r\nLandlord Reg: 522507/230/26042\r\nEPC Rating: B-C\r\nTenancy: Private Residential Tenancy\nViewing Tour disclaimer: This advertisement relates to a specific unit at the stated rent. Where multiple units are available within the same development, you may be shown other apartments during your viewing. Each unit is marketed at its own advertised rent, which will be clearly confirmed to you before any offer is submitted. We do not accept offers above the advertised rent for any property. The rent agreed will always be the advertised rent for the selected unit, in accordance with the Renters’ Rights Act.",
+ "keyFeatures": [
+  "24/7 Concierge",
+  "Private Residents' Gym",
+  "Co-Working Spaces",
+  "Yoga &amp; Spin Studios",
+  "Private Screening Room",
+  "Kids' Playroom",
+  "Roof Terraces",
+  "Built for Renters"
+ ],
+ "tags": [
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/79d72b060/92490852/79d72b060d2f741f6013a4d2bcfee5fd.png",
+  "https://media.rightmove.co.uk/property-photo/169b3060e/92490852/169b3060e1ca9c9f4af476c2c15a435b.png",
+  "https://media.rightmove.co.uk/property-photo/7f5ee6698/92490852/7f5ee6698a39bf40e9213cab5972cad5.png",
+  "https://media.rightmove.co.uk/property-photo/66155b43d/92490852/66155b43d75933caf22cf38b1a1a0724.png",
+  "https://media.rightmove.co.uk/property-photo/f2922fa1e/92490852/f2922fa1ed6f43ff9ed93bb201245f4f.png",
+  "https://media.rightmove.co.uk/property-photo/240c9de04/92490852/240c9de04d1ec88bb8cad58b62d7025b.png",
+  "https://media.rightmove.co.uk/property-photo/b293e1b67/92490852/b293e1b6720964e3d5bcaaf26b1a1821.png",
+  "https://media.rightmove.co.uk/property-photo/2687844ad/92490852/2687844ad4377f1bf944416871ea084d.png",
+  "https://media.rightmove.co.uk/property-photo/01ec6537d/92490852/01ec6537daec14b4d77f7c16fcbcd224.png",
+  "https://media.rightmove.co.uk/property-photo/069f86218/92490852/069f86218aea585dcd73d9cb79a31ca7.png",
+  "https://media.rightmove.co.uk/property-photo/2306f72b0/92490852/2306f72b011c788366b3b22bc4e71295.png",
+  "https://media.rightmove.co.uk/property-photo/5fa360d64/92490852/5fa360d64d4384fe7a3ad93bda51d4c1.png",
+  "https://media.rightmove.co.uk/property-photo/4b3d16883/92490852/4b3d1688317abc8e1d39bbe9a54c2321.png",
+  "https://media.rightmove.co.uk/property-photo/97a7d254c/92490852/97a7d254c8938d4b7fb60913e36001b7.png"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 1.3842359544172036,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 2.2942110723986078,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Brunstane Station",
+   "miles": 3.7273878136761356,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Home Made, London",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH6",
+ "scrapedAt": "2026-08-30T10:26:51.872Z"
+}

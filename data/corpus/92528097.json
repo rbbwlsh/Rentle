@@ -1,0 +1,85 @@
+{
+ "id": "92528097",
+ "displayAddress": "Ballbrook Avenue, Didsbury",
+ "outcode": "M20",
+ "incode": "6AB",
+ "latitude": 53.42416,
+ "longitude": -2.232938,
+ "priceAmount": 950,
+ "priceLabel": "£950 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92528097",
+ "area": "Didsbury",
+ "bedrooms": null,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": null,
+  "bathrooms": 1,
+  "sizeSqFt": 345,
+  "sizeSqM": 32,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "05/09/2026",
+  "deposit": 1096,
+  "minimumTermMonths": null,
+  "councilTaxBand": "A"
+ },
+ "sizeSqFt": 345,
+ "sizeSqM": 32,
+ "description": "A raised ground floor studio on the leafy Ballbrook Avenue. Offered as seen in pictures, the property offers a ''turn key'' opportunity for those seeking quality accommodation within easy reach of Didsbury Village.",
+ "keyFeatures": [
+  "Super Stylish Studio Apartment.",
+  "Fully Furnished As Seen In Pics.",
+  "Magnificent, Well Maintained Building.",
+  "Off Road Parking Subject To Availability.",
+  "Bike Store and Pleasant, Lawned Front Gardens.",
+  "Short Stroll To Didsbury Village."
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/9aad08eb7/92528097/9aad08eb7451ab4db3d49e004846e004.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5194b6f6c/92528097/5194b6f6cac1a4a1fb73c653d839f2f2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0c855038a/92528097/0c855038affa554b064a20e257699aec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/26b80f6c4/92528097/26b80f6c49305f38975e0f191c322800.jpeg",
+  "https://media.rightmove.co.uk/property-photo/188f518f9/92528097/188f518f9ce6395cd4db8a95e435df45.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ac75fa94e/92528097/ac75fa94e2805ca5c5a6d1210bd3453a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4d8240d63/92528097/4d8240d63d637d0b237e7de443b5262b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d3cd81f1c/92528097/d3cd81f1c68468dcb443535951fd47fc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/de5b7073e/92528097/de5b7073ecea0cfb8046ee77b2736e0d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/af8d3544f/92528097/af8d3544fac8a78cab03e8389c638f76.jpeg",
+  "https://media.rightmove.co.uk/property-photo/812107381/92528097/81210738113c2cdbfc35f2ed7a5846dd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c68cdf807/92528097/c68cdf8072263e356a90b2c85372e5f8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b9837c74d/92528097/b9837c74d28061c8a59e2a4c84f0157f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/edbd53647/92528097/edbd53647a16ffa8601a035f8643e68c.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 0.13839236229454807,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 0.4681013810422363,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Didsbury Village Station",
+   "miles": 0.5481952064270824,
+   "types": [
+    "TRAM",
+    "LIGHT_RAILWAY"
+   ]
+  }
+ ],
+ "agent": "Stanton Properties, Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M20",
+ "scrapedAt": "2026-08-30T10:18:34.941Z"
+}

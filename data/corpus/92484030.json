@@ -1,0 +1,81 @@
+{
+ "id": "92484030",
+ "displayAddress": "The Boulevard, West Didsbury, Greater Manchester, M20",
+ "outcode": "M20",
+ "incode": "2EA",
+ "latitude": 53.430447,
+ "longitude": -2.249135,
+ "priceAmount": 1095,
+ "priceLabel": "£1,095 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92484030",
+ "area": "West Didsbury, Greater Manchester",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 506,
+  "sizeSqM": 47,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "08/10/2026",
+  "deposit": 1263,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": 506,
+ "sizeSqM": 47,
+ "description": "AVAILABLE OCTOBER. A WELL-PROPORTIONED one bedroom 506 square feet fully furnished apartment with allocated parking space occupying a THIRD FLOOR position within a MODERN DEVELOPMENT, located just a short stroll to fashionable burton road and West Didsbury village with their vast array of café bars, independent shops and restaurants, within easy reach of the Metrolink. Please contact Philip James today to arrange a viewing.",
+ "keyFeatures": [
+  "AVAILABLE OCTOBER",
+  "One Double Bedroom",
+  "Modern Development",
+  "Approx. 506 Sq Ft",
+  "In The Heart Of West Didsbury",
+  "Lift To All Floors",
+  "Resident Gated Parking",
+  "Well Proportioned Throughout",
+  "Five Week Deposit"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/e824f986e/92484030/e824f986e8cd37715d86b6ce8ba70c95.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1f74014de/92484030/1f74014de77ae877f3ed10b756294e76.jpeg",
+  "https://media.rightmove.co.uk/property-photo/08647b852/92484030/08647b8525f7f2ddc1e704273be81334.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9a324f543/92484030/9a324f543b8323adeb0f0bc88b6a12de.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d85c4d1e7/92484030/d85c4d1e7ea04aa45f81886b666382d5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9d7508a69/92484030/9d7508a695b282971fe24564592bc281.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e4119fae7/92484030/e4119fae75680ff87269c5c29ffcabea.jpeg",
+  "https://media.rightmove.co.uk/property-photo/69f4dd5fa/92484030/69f4dd5faeb3f84ea99b8fdce24f15df.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Withington Tram Stop",
+   "miles": 0.15656215405856042,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 0.3635908768221451,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 0.6711886307817857,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Philip James Manchester, Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M20",
+ "scrapedAt": "2026-08-30T10:18:48.093Z"
+}

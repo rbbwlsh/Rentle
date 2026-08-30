@@ -1,0 +1,85 @@
+{
+ "id": "91795842",
+ "displayAddress": "Greenbank Road, Southville",
+ "outcode": "BS3",
+ "incode": "1RH",
+ "latitude": 51.44511,
+ "longitude": -2.61378,
+ "priceAmount": 1600,
+ "priceLabel": "£1,600 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91795842",
+ "area": "Southville",
+ "bedrooms": 2,
+ "bathrooms": null,
+ "propertySubType": "House",
+ "details": {
+  "propertyType": "House",
+  "bedrooms": 2,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 1846,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "** Zero Deposit Guarantee Available **\nConnells are delighted to introduce to the lettings market this two double bedroom house in the heart of Southville. The property is in one of the most sought after areas in South Bristol within a short walk of Bristol City Centre and the Harbourside and also the highly popular North Street. \n\nThis spacious house boasts a good sized living room and separate kitchen. Also downstairs is the bathroom, complete with shower above bath. Upstairs are two very large double bedrooms and a good study space for those working from home or your dream walk in wardrobe. Additionally, a lovely, low-maintenance garden to the rear and a small front garden.\n\nThis property would be perfect for professional couples or two friends looking to be in one of the most popular areas of Bristol with extremely easy access to the city centre. \n\nCouncil Tax Band: B Council Tax Band:  Holding Deposit: £369.00",
+ "keyFeatures": [
+  "Southville location",
+  "Two large double bedrooms",
+  "Rear garden",
+  "Additional study room",
+  "Available mid September",
+  "Very spacious throughout"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/8532e5005/91795842/8532e50059119cf6b7bd39deb3dced39.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8b4f009c3/91795842/8b4f009c314ff874dc130174c5acb17b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6e9f37c55/91795842/6e9f37c5506a572e82f551e7e99d006b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d02ad3848/91795842/d02ad3848e43e9edd3bb96d8b9a0c195.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5c700a58a/91795842/5c700a58af975fdd42363772893ce459.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8f2fa642f/91795842/8f2fa642f7fcdc3da4f87aea65cf812e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/75b8231cb/91795842/75b8231cb43a609e3f0a993b626e95f4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2ac39eda8/91795842/2ac39eda88a8d159ec1f0f5e0db9d3cc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9afd4bcff/91795842/9afd4bcffa4cd80e00355cd798837f2a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/52d512bfd/91795842/52d512bfd9bb32f2595b3118c2940258.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5e868f697/91795842/5e868f697fa7a93ffb25f4edba250d2f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0118ddaab/91795842/0118ddaabd0d8d179fccca8ace45c084.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f7bf41a52/91795842/f7bf41a52719c064bbced44476f741be.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ead935b53/91795842/ead935b53ab17ca03b0396be7b147765.jpeg",
+  "https://media.rightmove.co.uk/property-photo/59b59ae5a/91795842/59b59ae5a97b6bafc245dfa8172bc657.jpeg"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Parson Street Station",
+   "miles": 0.8532968969561942,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bedminster Station",
+   "miles": 0.9133156713813887,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Clifton Down Station",
+   "miles": 1.3494886712801728,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Connells Lettings, Southville",
+ "city": "Bristol",
+ "sourceOutcode": "BS3",
+ "scrapedAt": "2026-08-30T10:22:35.632Z"
+}

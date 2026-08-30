@@ -1,0 +1,92 @@
+{
+ "id": "91833978",
+ "displayAddress": "Armada Place, Bristol, BS1",
+ "outcode": "BS1",
+ "incode": "3SF",
+ "latitude": 51.463357,
+ "longitude": -2.590223,
+ "priceAmount": 1600,
+ "priceLabel": "£1,600 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91833978",
+ "area": "Bristol",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 603,
+  "sizeSqM": 56,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 1846,
+  "minimumTermMonths": null,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": 603,
+ "sizeSqM": 56,
+ "description": "A brilliantly located two-bedroom maisonette set right in the heart of Stokes Croft, with plenty of character, generous living space and the added bonus of secure off-street parking.\n\nArranged over two levels, the property has a lovely mixture of original features and modern finishes. The contemporary kitchen is finished with dark cabinetry, white worktops and integrated cooking appliances, with a separate utility area with a washing machine.\n\nThe living room is a really good size, with wooden flooring, a beautiful original fireplace and built-in cupboards adding plenty of character.\n\nThe first bedroom is a generous double, with a further original feature fireplace and plenty of space for bedroom furniture. The second is a spacious attic-style bedroom, with characterful sloping ceilings and plenty of usable floor space.\n\nThe bathroom has been finished in a modern style, with a large walk-in shower, black fittings and a clean, minimal finish.\n\nOutside, there is a private patio area as well as secure off-street parking – a real rarity for such a central location.\n\nStokes Croft's independent cafés, bars and restaurants are right on the doorstep, with Gloucester Road, Cabot Circus and Bristol City Centre all within easy walking distance.\n\nThe property is offered unfurnished and available now\n\nEPC Rating: C",
+ "keyFeatures": [
+  "Available now",
+  "Two Bedroom Maisonette",
+  "Unfurnished",
+  "Secure off street parking",
+  "Courtyard"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/2ce035d24/91833978/2ce035d24413844b78531067652dbd6d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9bf5c481d/91833978/9bf5c481dcf94a036db57add96a7914e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c2c3fd94a/91833978/c2c3fd94a5bc9b1371606dccb9f0031b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ca6fc8261/91833978/ca6fc8261667c81a5488bf0f97fa0c6f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8680e1759/91833978/8680e175964c9c76ac50be70897747f8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1cdc9f6fa/91833978/1cdc9f6fa2e447691418ff0f2d70e1db.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5c3540122/91833978/5c35401225ba54cf782d2846c3495b7e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8562effb7/91833978/8562effb733826974cb4176530205b34.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a2891b1e9/91833978/a2891b1e9c7645aea094387e9dd1f222.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1ae5f13f2/91833978/1ae5f13f225f23228b5ec76ad3dbbc0a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ef17651d9/91833978/ef17651d91fd7127bb219072ea2d0b06.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1d6541c45/91833978/1d6541c457f5d0c32e81a2e2efc26567.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6e07835e0/91833978/6e07835e050bdccddcea0b5752de088e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b92a47219/91833978/b92a47219692e43ee1a359a98287dc82.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0dcbbfc53/91833978/0dcbbfc53e4b7e366a5406d502d38f92.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a77798061/91833978/a777980616abfcab5c16f9418f2f7d92.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e3072cb52/91833978/e3072cb5226cdde9a275ed286f6f2f50.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d0703b877/91833978/d0703b8779116d0253ba99fac88881fd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ae453553a/91833978/ae453553aa51afa8e170273cdf4c1fcd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fc9330e1a/91833978/fc9330e1ac196a1b6d27ac005c6e2cf5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5addbe7b1/91833978/5addbe7b1b87e495501a27b8a8125117.jpeg",
+  "https://media.rightmove.co.uk/property-photo/532d5abaa/91833978/532d5abaa94099342debdd06e8a47fb6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7c7ee6a07/91833978/7c7ee6a07d41089745ce207e72d83aa5.jpeg"
+ ],
+ "imageCount": 23,
+ "nearestStations": [
+  {
+   "name": "Montpelier Station",
+   "miles": 0.350984415133911,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.5232478346224659,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.9020355836126558,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Nook Lettings, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS1",
+ "scrapedAt": "2026-08-30T10:21:48.860Z"
+}

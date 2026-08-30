@@ -1,0 +1,82 @@
+{
+ "id": "92528943",
+ "displayAddress": "Merchant Square East, London, W2",
+ "outcode": "W2",
+ "incode": "1AN",
+ "latitude": 51.519074,
+ "longitude": -0.171197,
+ "priceAmount": 9967,
+ "priceLabel": "£9,967 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92528943",
+ "area": "London",
+ "bedrooms": 4,
+ "bathrooms": 3,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished or unfurnished, landlord is flexible",
+  "letAvailableDate": "Now",
+  "deposit": 13800,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Frestons are delighted to market this four bedroom apartment, with large private balcony, to rent on Merchant Square, W2.\n\nThe property additionally benefits from: CCTV, digital TV, lift and concierge.\n\nAvailable now, early viewings highly recommended.\n\nHolding Deposit: £2,300",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c8c1694d6/92528943/c8c1694d6d26f360ac3b9ad8d42aac37.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9610f0724/92528943/9610f07245c4dc6f3c4d3b2684652548.jpeg",
+  "https://media.rightmove.co.uk/property-photo/035a1de82/92528943/035a1de827585200159f89aa5e752d52.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0fe4d1bda/92528943/0fe4d1bdaa6e5e386c8bdeb11c943096.jpeg",
+  "https://media.rightmove.co.uk/property-photo/33d88489c/92528943/33d88489cac3da805ff12afb954df574.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dffbe9e8e/92528943/dffbe9e8ef37a195e7a86b5c49cd977c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e695d9703/92528943/e695d9703a387760169a8ea1639c61e6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c6632adb1/92528943/c6632adb1fdbfe42cc02f95b338107c7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bd4fcef44/92528943/bd4fcef448d2cc28cf6099d24d93c91f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9086fef37/92528943/9086fef3791cf2dfa16fca39ca49a026.jpeg",
+  "https://media.rightmove.co.uk/property-photo/05617c6bd/92528943/05617c6bde61cece7e442e4455dc48a9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e8b787531/92528943/e8b787531fafdfc675b9fd23c840c013.jpeg",
+  "https://media.rightmove.co.uk/property-photo/128d7551c/92528943/128d7551c65fa3e310bc72ab7932c707.jpeg",
+  "https://media.rightmove.co.uk/property-photo/686f36f56/92528943/686f36f56d69141288212bc207ebd4c4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/acb2b7e54/92528943/acb2b7e542a54b43ce17f7dafd2b0aae.jpeg",
+  "https://media.rightmove.co.uk/property-photo/272dd8fb2/92528943/272dd8fb2007c010870043464a299128.jpeg",
+  "https://media.rightmove.co.uk/property-photo/455d52dd1/92528943/455d52dd13ed1ec6c776e21118a4fe20.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fe3e17c6f/92528943/fe3e17c6f6552c2f7b042959820bab78.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "Edgware Road (Bakerloo) Station",
+   "miles": 0.1202232236780245,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Edgware Road (Circle, District, Hammersmith & City) Station",
+   "miles": 0.15848738211430946,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Paddington Station",
+   "miles": 0.31067086170094005,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "Frestons, Covering London and the Home Counties",
+ "city": "London",
+ "sourceOutcode": "W2",
+ "scrapedAt": "2026-08-30T10:16:20.174Z"
+}

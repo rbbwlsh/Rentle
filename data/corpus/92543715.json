@@ -1,0 +1,80 @@
+{
+ "id": "92543715",
+ "displayAddress": "Aspin Lane, Manchester, M4",
+ "outcode": "M4",
+ "incode": "4GR",
+ "latitude": 53.4897,
+ "longitude": -2.234983,
+ "priceAmount": 1295,
+ "priceLabel": "£1,295 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92543715",
+ "area": "Manchester",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "23/09/2026",
+  "deposit": 1494,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Available Late-September | Fully Furnished | One Bedroom | Concierge & Residents' Gym | Close Proximity to Victoria Train Station\n\n\rDescription\n\nSavills are Delighted to Present this Stunning Brand New Fully Furnished One Double Bedroom Apartment on the 12th floor of the Meadowside Development.\n\nThis fantastic apartment has a pleasant entrance area leading to a open-plan living/kitchen area. The living room itself is a well-designed, practical space whilst the kitchen comes fully fitted with integrated appliances. The bedroom is well-appointed and spacious with built-in wardrobes offering ample space for storage. The bathroom enjoys a modern three-piece suite.\n\nMeadowside is ideally located overlooking the expansive Angel Meadow Park offering an escape from the city. The Meadowside development also offers a residents' gym and residents' lounge. Located in close proximity to Manchester Victoria Station and with the bars and restaurants the Northern Quarter and Ancoats have to offer only a short distance away, this development appeals to all.\n\nWe have been told that this property has no cladding.*\n* You should make enquires about the external wall system of the property, if it has cladding and if it is safe or if there are interim measure in place.\n\n\r\n\r \r\n\nAdditional Info\n\nHolding Deposit : £298.85 ( 1  week )\nDeposit Payable : £1,494.23 ( 5 weeks )\nRent must be paid monthly in advance",
+ "keyFeatures": [
+  "Fully Furnished Apartment",
+  "One Double Bedroom",
+  "Concierge",
+  "Residents' Gym",
+  "Close Proximity to Victoria Station",
+  "Meadowside Location",
+  "EPC Rating = B"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/9649fa97f/92543715/9649fa97fb0a49bd006702657f1a0f12.jpeg",
+  "https://media.rightmove.co.uk/property-photo/67a4b1caa/92543715/67a4b1caa7075a26cfb1be74763b4871.jpeg",
+  "https://media.rightmove.co.uk/property-photo/40f4b7a69/92543715/40f4b7a691f09b09ecd44d0dd0d9dc64.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ec0375f69/92543715/ec0375f6982253664764ab1c186f4196.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4a37a9c0e/92543715/4a37a9c0e3c9b6e55fc93da5d7dc9dcc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/969b396ad/92543715/969b396add647b6a207c8f73c1c04a74.jpeg",
+  "https://media.rightmove.co.uk/property-photo/692dee55e/92543715/692dee55eacfaf90ebc89611568931c0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/104672498/92543715/104672498d00c4cfb78d72e1928ff5b7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e5a3911e8/92543715/e5a3911e8cc97f59b153a10fd91d9fb9.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Manchester Victoria Station",
+   "miles": 0.3563491498415295,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Market Street Tram Stop",
+   "miles": 0.5675235502753246,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Mosley Street Tram Stop",
+   "miles": 0.6663307126761732,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Savills Lettings, Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M4",
+ "scrapedAt": "2026-08-30T10:17:42.763Z"
+}

@@ -1,0 +1,92 @@
+{
+ "id": "92538066",
+ "displayAddress": "Chapel Lane, Leith, Edinburgh, EH6",
+ "outcode": "EH6",
+ "incode": "6ST",
+ "latitude": 55.9754,
+ "longitude": -3.16906,
+ "priceAmount": 1450,
+ "priceLabel": "£1,450 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92538066",
+ "area": "Leith, Edinburgh",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "04/09/2026",
+  "deposit": 2175,
+  "minimumTermMonths": null,
+  "councilTaxBand": "C"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Located in the heart of the vibrant Leith area, this stylish and well-appointed second-floor apartment at Chapel Lane offers contemporary living ideal for a single professional or couple. The property is set within a modern development that benefits from lift access and includes the rare advantage of an underground secure parking space, as well as a residents’ permit for on-street parking directly in front of the building.\n\nThe apartment spans approximately 63.7 square metres (686 square feet) and features a bright and spacious living and dining room, perfect for both relaxing and entertaining. A separate, modern kitchen comes fully equipped with integrated appliances including an oven and hob, fridge freezer, washing machine and dishwasher. The double bedroom offers a peaceful retreat with generous proportions, while an additional study provides a quiet space ideal for office space/study.\n\nThe bathroom is fitted with a jacuzzi bath and overhead shower, offering a touch of luxury. The hallway includes two large storage cupboards, adding practicality to this well-designed home. The property is fully double glazed and fitted with electric heaters throughout, ensuring comfort and energy efficiency all year round.\n\nSituated in the sought-after Leith area, the flat enjoys close proximity to a range of excellent amenities. The popular Shore district, known for its vibrant mix of restaurants, cafes and bars, is just a short walk away. Ocean Terminal shopping centre offers further retail, dining and entertainment options. Public transport links are frequent and reliable, providing quick access into Edinburgh city centre, and nearby cycle paths and green spaces add to the appeal of this lively and well-connected neighbourhood.\n\nThis is an ideal home for a professional or couple seeking a comfortable, modern living space in one of Edinburgh’s most dynamic and desirable areas EPC rating: C.  Landlord Registration Number: 541327/230/09042. Letting Agent Registration Number: LARN2506004.",
+ "keyFeatures": [
+  "Large Home Office/Study",
+  "2 Parking Space",
+  "Lift Access",
+  "Double glazing",
+  "Shower",
+  "Washing machine",
+  "Dishwasher",
+  "Fridge Freezer"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/01bc60fef/92538066/01bc60fefa34db196391c433f9c156ab.jpeg",
+  "https://media.rightmove.co.uk/property-photo/962e1ac64/92538066/962e1ac646f094515fcc907d9d4888c4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6c93a9e6e/92538066/6c93a9e6ed600fe591e50829ef574d12.jpeg",
+  "https://media.rightmove.co.uk/property-photo/edc36ae37/92538066/edc36ae3785f52c1206cc701fd2955f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1c38e28ef/92538066/1c38e28ef957fc6d382236c0352fa982.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e5064b6e4/92538066/e5064b6e4a00ea71a3f036fbd3f184f6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/87c8371ac/92538066/87c8371ac01a4d11e997be9e093f1ede.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8e787a9e1/92538066/8e787a9e18b9c43138cc99fb9f210919.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d302ad364/92538066/d302ad364f579eedea9c664471a4a577.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c4eba7726/92538066/c4eba77269bb0b48f2d770b89c40e49f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a6ba4b17e/92538066/a6ba4b17e6a429abe5a9fd245ffe26b0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0ebfce086/92538066/0ebfce08629e4cbaf1033da45c5859c2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8aaef0c71/92538066/8aaef0c71e62a1a70b87d70c66c4d014.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d4eaca225/92538066/d4eaca225f3dad59f28b85f64a950460.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e8e77f6c7/92538066/e8e77f6c78cffe678a9ab94aac3e9fb6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f531acbb4/92538066/f531acbb4c3db7c83bce3754034d743f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a5b4abbfd/92538066/a5b4abbfd7fb467ac630b3b548911c0a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/09229f894/92538066/09229f8940373835941ca2df2a6d12bf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f65fb290e/92538066/f65fb290e833d68ff1752ebdb2b455ab.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cf1181c45/92538066/cf1181c4515384649cc1dd9fc7f4987c.jpeg"
+ ],
+ "imageCount": 20,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 1.8074234338177275,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 2.819174145714789,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Brunstane Station",
+   "miles": 3.491782201592904,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Pickard Property, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH6",
+ "scrapedAt": "2026-08-30T10:26:33.142Z"
+}

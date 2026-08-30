@@ -1,0 +1,83 @@
+{
+ "id": "92222127",
+ "displayAddress": "Robinwood Court,  Leeds, LS8",
+ "outcode": "LS8",
+ "incode": "1DZ",
+ "latitude": 53.8404,
+ "longitude": -1.5097,
+ "priceAmount": 950,
+ "priceLabel": "£950 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92222127",
+ "area": "Leeds",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "Now",
+  "deposit": 1096,
+  "minimumTermMonths": 0,
+  "councilTaxBand": "B"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "*AVAILABLE NOW*\n\n2 double bedroom ground floor apartment in the heart of Roundhay in North Leeds.\n\nThis property compromises of a spacious lounge. modern kitchen with appliances. Both bedrooms are doubles and a modern house bathroom with shower over bath.\n\nPlenty of parking and set in well kept grounds.\n\nThis property is in walking distance to the popular Street Lane which is where all the cool bars and restaurants are. Also a 5 minute walk to Roundhay Park.\n\nGood transport links to Leeds city centre.\n\nCouncil Tax Band = B\n\nSecurity Deposit / Bond = £1,096.15\n\nEPC = D55",
+ "keyFeatures": [
+  "Popular Residential Area",
+  "Un-Furnished",
+  "Fitted Kitchen",
+  "Close to public transport",
+  "Shops and amenities nearby",
+  "Communal Garden",
+  "Ground Floor",
+  "Double Bedroom"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/14e963beb/92222127/14e963bebbc22465ee4c2d1e47dc7faf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/49be93a9d/92222127/49be93a9d060cc3e47ecb05d70ceba7e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8e4606a65/92222127/8e4606a657704179979a0d75b9d595ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9d44f250a/92222127/9d44f250a042f391be083f27743bd2e4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a53a99bc1/92222127/a53a99bc13d80c869b0f025b5b003fc5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/df81236f3/92222127/df81236f3978824024c72ae4f88fdc3d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/48705e8fa/92222127/48705e8fabb3c3aafbcb4f482e873a1b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6cf77249d/92222127/6cf77249d85c333d4daa84185afb0a62.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4046434ff/92222127/4046434ffd96d23d9fbef55b03cc969d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e6ce6a5c9/92222127/e6ce6a5c9283ed263dce465cbf54830d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/914875219/92222127/914875219e3216eb43ad9a8016e36b4e.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Burley Park Station",
+   "miles": 3.4196532917430744,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cross Gates Station",
+   "miles": 3.4552736418502916,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Leeds Station",
+   "miles": 3.5572558340873845,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Executive Lets, Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS8",
+ "scrapedAt": "2026-08-30T10:25:22.797Z"
+}

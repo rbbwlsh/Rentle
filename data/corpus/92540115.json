@@ -1,0 +1,86 @@
+{
+ "id": "92540115",
+ "displayAddress": "Flat 3 39 Brighton Grove, Manchester, M14",
+ "outcode": "M14",
+ "incode": "5JG",
+ "latitude": 53.449968,
+ "longitude": -2.2176,
+ "priceAmount": 1128,
+ "priceLabel": "£1,128 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92540115",
+ "area": "Manchester",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": 800,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "£260 rent per week for whole flat\n\n***AVAILABLE 1st SEPT 2026 - IDEAL FOR STUDENTS & YOUNG PROFESSIONALS***\n\nLANDLORD OF THE YEAR 2022!\nWe are proud to have won the Manchester Student Homes Landlord of the Year award for 2022! Nominated again in 2026.\n\nHALF RENT JULY AND AUGUST if you're away. \n\nTHE HOUSE:\n-Bright and spacious 1 bedroom apartment\n\n-Fully furnished double bedroom with desks, drawers and wardrobes\n\n-New bathroom with bath and shower\n\n-Modern fully fitted kitchen with dishwasher and washer dryer \n\n-Spacious lounge area with brand new sofas\n\n-Beautiful rear garden with patio area and picnic benches \n\n-Off-road parking\n\n-Maintenance team and 24hr emergency number\n\nTHE LOCATION: \n-Excellent transportation links to City Centre\n\n-Located between the beautiful Platt Fields Park and Birchfields Park\n\n-Convenient location for Wilmslow Road\n\nVIEW NOW! Call our office or send an email to book a viewing today.\n\nRef: 39BGFlat3",
+ "keyFeatures": [
+  "LANDLORD OF THE YEAR 2022!  Nominated 2026.",
+  "HALF RENT JULY AND AUGUST if You're Away!",
+  "STUNNING 1 Bedroom Top Floor Apartment ",
+  "Modern, Fully Fitted Kitchen With Dishwasher and Washer Dryer",
+  "New Bathroom With Bath and Shower",
+  "Beautiful Garden with Patio Area and Picnic Benches",
+  "Off-Street Parking",
+  "Maintenance Team and 24hr Emergency Number",
+  "Set Between the Beautiful Birchfields Park and Platt Fields Park ",
+  "Convenient Location for Universities, Central Fallowfield and the City Centre"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/2b5a872bc/92540115/2b5a872bc420d16f469114918e13e138.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a4e5ae374/92540115/a4e5ae374ccb97b18ed9c27ed61a1526.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7a91c0562/92540115/7a91c056238d6f6a1c4d753c7696cbf1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2a7a6f237/92540115/2a7a6f237bb1c26fa6043f700ed2c949.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6f24c61cb/92540115/6f24c61cb341f102f35d4c4c3530ecb5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cca871067/92540115/cca871067c1afe74836925fb14bcb264.jpeg",
+  "https://media.rightmove.co.uk/property-photo/89604c714/92540115/89604c7148ecf67d096d8b6bf2ad01cc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/065537309/92540115/06553730986a3f35f0b77a6dfd253b29.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5e3241f21/92540115/5e3241f2196116839de4c55786a7b30c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3fb39f57f/92540115/3fb39f57f6a6c8291e88e36cb2d44a57.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c57fe7667/92540115/c57fe76677addc24b425376063a09332.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e4bb4841b/92540115/e4bb4841b007f8b6dfd797b9e60c45bc.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Levenshulme Station",
+   "miles": 1.0930938111450377,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Mauldeth Road Station",
+   "miles": 1.1702864508030062,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Ardwick Station",
+   "miles": 1.4712479441507573,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Crossway Estates, Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M14",
+ "scrapedAt": "2026-08-30T10:17:54.284Z"
+}

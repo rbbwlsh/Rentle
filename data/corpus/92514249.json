@@ -1,0 +1,84 @@
+{
+ "id": "92514249",
+ "displayAddress": "Ilderton Road, London, SE15",
+ "outcode": "SE15",
+ "incode": "1PS",
+ "latitude": 51.483085,
+ "longitude": -0.05338,
+ "priceAmount": 2600,
+ "priceLabel": "£2,600 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92514249",
+ "area": "London",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/11/2026",
+  "deposit": 3000,
+  "minimumTermMonths": null,
+  "councilTaxBand": "D"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Robinson Jackson Lettings are delighted to present this exceptionally modern two-bedroom apartment in Peckham, positioned on the 21st floor and offering impressive views across London.\n\nThe property boasts a bright and spacious open-plan kitchen and reception room, creating a stylish space ideal for both relaxing and entertaining. The modern fitted kitchen comes with a range of integrated white goods as well.\n\nThis property has two generously sized double bedrooms, with the master bedroom benefiting from a modern en-suite bathroom. \n\nResidents further benefit from a concierge service, and excellent transport links, making this an ideal home for professionals or couples seeking a well-connected city living.\n\nWith its fantastic London views, contemporary interiors and superb location, early viewing is highly recommended.\n\nKey Features:\nTwo generously sized double bedrooms\nTwo modern bathrooms\nEn-suite bathroom to principal bedroom\nModern open-plan kitchen/reception room\nContemporary fitted kitchen\nWhite goods included\nConcierge service\nLift access\nDouble-glazed windows\nExcellent transport links\n\nAdditional Information\nCouncil Tax Band: D (Southwark)\nAffordability criteria: £78,000\nDeposit Required: £3,000\n\nSorry, no smokers.\n\nPlease request a copy of our Tenant Guidance Notes that outline the procedures and costs relating to completing a typical tenancy with us",
+ "keyFeatures": [],
+ "tags": [
+  "NEW_HOME"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/2db45dae9/92514249/2db45dae90fa932930c72c16441de978.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b5a1ac449/92514249/b5a1ac4499608f17d70ec57e70d19013.jpeg",
+  "https://media.rightmove.co.uk/property-photo/887bd1892/92514249/887bd18922e5a014d0b035cbca00be5c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c7a4138a1/92514249/c7a4138a1fc1469d9ca51855551cae3a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eeff1444d/92514249/eeff1444d002b363282d9b9eb61ba176.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1c7be18f4/92514249/1c7be18f4191456c8e436044ce23d3b9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/02fe026e8/92514249/02fe026e85f8436790d575f4af9d2279.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9bdf94616/92514249/9bdf94616174814b4a4257179519f5dc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/79d6b96a7/92514249/79d6b96a7031a7321b99e87e459ad20d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eeed24a61/92514249/eeed24a611ead8aa869b88ae4ef8e026.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f7c03ef57/92514249/f7c03ef57dec6b685b4156d674c7db0b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/db8897b7b/92514249/db8897b7b180c9109b04c40d2166e948.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e35eaa8a2/92514249/e35eaa8a231866367a8b7d40fc8aed1e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2b0f614e6/92514249/2b0f614e6c5515e092402d20d98f967f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d0f2ede10/92514249/d0f2ede10c677c277bc2f8a7eb2f3851.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7c4fedfff/92514249/7c4fedfffe65ff0facd6517aaba67647.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c08d5b996/92514249/c08d5b996f2a54efeef0fecb0fcfef44.jpeg",
+  "https://media.rightmove.co.uk/property-photo/477b1fc42/92514249/477b1fc42831c7598c544941e241a5a4.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "South Bermondsey Station",
+   "miles": 0.3269913216250751,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Surrey Quays Station",
+   "miles": 0.7478292065804547,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Queens Road Peckham Station",
+   "miles": 0.6829192099712067,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_OVERGROUND"
+   ]
+  }
+ ],
+ "agent": "Robinson Jackson, Lee",
+ "city": "London",
+ "sourceOutcode": "SE15",
+ "scrapedAt": "2026-08-30T10:14:32.400Z"
+}

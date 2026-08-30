@@ -1,0 +1,80 @@
+{
+ "id": "92505555",
+ "displayAddress": "Victoria Road, Leeds, LS6",
+ "outcode": "LS6",
+ "incode": "1PD",
+ "latitude": 53.8138,
+ "longitude": -1.5719,
+ "priceAmount": 542,
+ "priceLabel": "£542 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92505555",
+ "area": "Leeds",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "Now",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "We have 8 different flats in Victoria Court Mews, spread over two blocks, so this property could be the perfect student home for multiple groups of friends.  There is car parking available on request. Each of the 3 bedrooms of this stunning flat comes with a double bed, desk and chair, plenty of storage space and its own flat screen television. The impressive communal area of this flat is bright and spacious, fully furnished with comfy sofas, a large flat screen television and sound bar and modern appliances in the kitchen and dining area. Victoria Court Mews are located in the highly sought after Hyde Park area of Leeds - as any Leeds student will tell you, this is the place to be. Victoria Court Mews is well within walking distance of amenities within Headingley and Hyde Park, with Co-Op also just a short walk away. The flats are located just off Victoria road which acts as a thoroughfare between Woodhouse Lane and Cardigan Road. There are great bus links to Leeds Beckett University and University of Leeds, as there are numerous bus stops along Victoria Road, with quick routes to the Universities campuses. With Burley Park train station at just a short 10 minute walk away, Victoria Court Mews really is in a great location. Wifi service includes 350Mb wired base speed and connectivity for up to 20 devices.",
+ "keyFeatures": [
+  "Dishwasher",
+  "Dining Table",
+  "Flat Screen TV",
+  "Wi-Fi",
+  "Washer",
+  "Unipol National Code Accredited",
+  "Fibre WIFI",
+  "Desks"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/769900595/92505555/7699005951e44799076c2c5e70406306.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b673d5f9c/92505555/b673d5f9cfd869f539e4156e5dd718c4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/11fd40ae1/92505555/11fd40ae1da07507cf95c57272402539.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a2844fa06/92505555/a2844fa06cf2d256240cafcd03bbf637.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c25a9ad47/92505555/c25a9ad47b68f0035a16adab32b40a00.jpeg",
+  "https://media.rightmove.co.uk/property-photo/250fecb84/92505555/250fecb84b639eaf91078b149d16c230.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cdcead0fa/92505555/cdcead0fac3dba10c23480ed461cddef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0896ebdf2/92505555/0896ebdf21897b987d7e8b73c32d80fe.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Burley Park Station",
+   "miles": 0.28222513946135447,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 0.9538345820044848,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Leeds Station",
+   "miles": 1.7048605502587468,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Student Cribs, London",
+ "city": "Leeds",
+ "sourceOutcode": "LS6",
+ "scrapedAt": "2026-08-30T10:24:37.571Z"
+}

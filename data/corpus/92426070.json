@@ -1,0 +1,94 @@
+{
+ "id": "92426070",
+ "displayAddress": "Millwrights Place, Bristol Bristol BS1",
+ "outcode": "BS1",
+ "incode": "6ZS",
+ "latitude": 51.45334,
+ "longitude": -2.58727,
+ "priceAmount": 1635,
+ "priceLabel": "£1,635 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92426070",
+ "area": "Millwrights Place",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 485,
+  "sizeSqM": 45,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "29/10/2026",
+  "deposit": null,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": 485,
+ "sizeSqM": 45,
+ "description": "Our second development in Finzels Reach in the heart of Bristol city centre with everything on your doorstep.  Beautifully designed light and contemporary apartments with open plan kitchen dining and living spaces.  Fabulous facilities all included.Discover contemporary living at its finest in this brand new city centre apartment, available now!\n\n \n\nThis pet-friendly residence boasts a stunning 9th floor panoramic roof terrace, perfect for soaking up the city views.\n\n \n\nEnjoy lightning-fast 250mbps Wi-Fi included with your apartment, along with the convenience of an on-site resident service team.\n\n \n\nElevate your dining experience on the 14th-floor private dining and terrace. Stay active with a 24/7 gym, and enhance productivity in the co-working mezzanine.\n\n \n\nUnwind in the games room, offering endless entertainment. All managed by an award-winning private landlord.\n\n \n\nReserve your apartment now, don't miss out on this unparalleled living experience!\n\n \n\n*Please note that photos used in advertisement are stock imagery and may not reflect exact home*",
+ "keyFeatures": [
+  "No admin fees",
+  "Flexible long term tenancies",
+  "Complimentary super fast WiFi",
+  "Dedicated onsite residents services team",
+  "Residents lounges / co working spaces",
+  "Roof terrace",
+  "24 hour fitness area / gym",
+  "Parcel collection service",
+  "Professional landlord service"
+ ],
+ "tags": [
+  "BUILT_FOR_RENTERS"
+ ],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/638a37d89/92426070/638a37d89188cbb833b3681e484f4fbe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f40fb7ee/92426070/5f40fb7ee35fcb5b5c26ef3e247a6a03.jpeg",
+  "https://media.rightmove.co.uk/property-photo/db929ab0f/92426070/db929ab0f0316cd4bbe022fc3a9f369c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/605cd64b5/92426070/605cd64b52ab6e579b753bb0fc51752c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ce72cd695/92426070/ce72cd69516aaf0c62e2568053619090.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2c1d57515/92426070/2c1d575155afbf96223b5c9ac6e68646.jpeg",
+  "https://media.rightmove.co.uk/property-photo/009f8cc37/92426070/009f8cc370934a60739b569792f3d23c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9d479e53a/92426070/9d479e53a263336520a682d5e2b3e515.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fd0cbee5a/92426070/fd0cbee5ad500a61020cf2b3167ce584.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4eddad97a/92426070/4eddad97a9c8e7bf740ebf72303a3a45.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7d3a2e3e9/92426070/7d3a2e3e96ae605fd7f3be2a4899abce.jpeg",
+  "https://media.rightmove.co.uk/property-photo/640e75d24/92426070/640e75d24d0bbf4aeaddea86a073aae2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/18d12e5d5/92426070/18d12e5d5f5ccd8c47e6bd4c9eea4037.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b2c8337e9/92426070/b2c8337e924967cb9c7a9f37392e90b3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/12083a271/92426070/12083a271a3b5ef1d3e12590460c0c4a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f4eba0321/92426070/f4eba03219ee4e05568675ee2ac04128.jpeg",
+  "https://media.rightmove.co.uk/property-photo/40c65d00c/92426070/40c65d00c7391cf3a6df5435a79abc84.jpeg",
+  "https://media.rightmove.co.uk/property-photo/59a66df00/92426070/59a66df00567a05bd057362ee46bfc78.jpeg",
+  "https://media.rightmove.co.uk/property-photo/78e2a33a9/92426070/78e2a33a9c81139cb3c2d54b5400dc5b.jpeg"
+ ],
+ "imageCount": 19,
+ "nearestStations": [
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 0.3885901267223416,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bedminster Station",
+   "miles": 0.9710058674022429,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Montpelier Station",
+   "miles": 1.0398859656565123,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Grainger, Millwrights Place",
+ "city": "Bristol",
+ "sourceOutcode": "BS1",
+ "scrapedAt": "2026-08-30T10:21:43.594Z"
+}

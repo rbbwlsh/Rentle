@@ -1,0 +1,85 @@
+{
+ "id": "89875884",
+ "displayAddress": "Wightman Road, Harringey, London, N8",
+ "outcode": "N8",
+ "incode": "0NA",
+ "latitude": 51.586122,
+ "longitude": -0.108719,
+ "priceAmount": 4500,
+ "priceLabel": "£4,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89875884",
+ "area": "Harringey, London",
+ "bedrooms": 4,
+ "bathrooms": 1,
+ "propertySubType": "House",
+ "details": {
+  "propertyType": "House",
+  "bedrooms": 4,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": null,
+  "furnishType": "Furnished",
+  "letAvailableDate": "01/09/2026",
+  "deposit": 6230,
+  "minimumTermMonths": 12,
+  "councilTaxBand": "E"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A spacious and well-presented four/five-bedroom house situated on a quiet residential street, ideally located just a short walk from Hornsey Station.\n\nThe property offers generous and versatile accommodation, comprising four well-proportioned double bedrooms, along with a spacious lounge currently being used as a fifth bedroom. There is also a fitted kitchen and two bathrooms, providing excellent facilities for comfortable shared living.\n\nOffered fully furnished, this property is an ideal choice for professional sharers, students or a family seeking spacious accommodation in a convenient and well-connected North London location.\n\nHornsey Station is within easy walking distance, while the surrounding area offers a wide range of local shops, cafés, restaurants, parks and everyday amenities.",
+ "keyFeatures": [
+  "Four/five-bedroom house",
+  "Four double bedrooms",
+  "Spacious lounge/optional fifth bedroom",
+  "Fitted kitchen",
+  "Two bathrooms",
+  "Fully furnished",
+  "Quiet residential location",
+  "Short walk to Hornsey Station",
+  "Excellent local amenities",
+  "Ideal for sharers, students or a family"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1ea629ada/89875884/1ea629adae8c96be8772f3c510f74fcd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/10b1d9402/89875884/10b1d940248eb4be98ae7362e3859eaa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/58f71ed7c/89875884/58f71ed7c2f68783aa38b8c218ee4ef5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6f49cd2bb/89875884/6f49cd2bb48d5a5f151ce54647cedad7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a708a9e98/89875884/a708a9e98c447a3dc8224f73acbd07af.jpeg",
+  "https://media.rightmove.co.uk/property-photo/658a7e899/89875884/658a7e8998f3fce8a1ed9c5852ed0985.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dd40cde49/89875884/dd40cde4950959d0296ae4374104839f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/05788e33b/89875884/05788e33b2716dd85a3e7e68e7fb006c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/51dc3ece0/89875884/51dc3ece0cf8b72c31929970bda78333.jpeg",
+  "https://media.rightmove.co.uk/property-photo/739c89d55/89875884/739c89d5565097f90c4c72e73eb5211e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f95f3394e/89875884/f95f3394eceac45230e5a30467316e70.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Hornsey Station",
+   "miles": 0.1223771061869079,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Turnpike Lane Station",
+   "miles": 0.3907044901750142,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Harringay Station",
+   "miles": 0.6477384997151423,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Drivers & Norris, Islington- Lettings",
+ "city": "London",
+ "sourceOutcode": "N8",
+ "scrapedAt": "2026-08-30T10:14:01.139Z"
+}

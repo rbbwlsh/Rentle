@@ -1,0 +1,91 @@
+{
+ "id": "92423700",
+ "displayAddress": "Bower Walk, Bedminster, BS3 5AN",
+ "outcode": "BS3",
+ "incode": "5AN",
+ "latitude": 51.436988,
+ "longitude": -2.584812,
+ "priceAmount": 2500,
+ "priceLabel": "£2,500 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92423700",
+ "area": "Bedminster",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Semi-Detached",
+ "details": {
+  "propertyType": "Semi-Detached",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Unfurnished",
+  "letAvailableDate": "09/09/2026",
+  "deposit": 2884,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A stunning three bedroom home, available early September 2026\n\nWe are pleased to be able to offer to let this beautifully presented three bedroom home tucked away on Bower Walk, Bedminster. Available (subject to references) from early September 2026 its sure to prove perfect for anyone looking for a stunning home in this desirable location.\n\nThe accommodation briefly comprises of a front sitting room, and stunning open plan kitchen/ dining space, that boast bi-folding doors to the raised patio. Upstairs there are three bedrooms and family bathroom, whilst outside the front offers off street parking. The rear garden is a great space and boasts a raised patio, and separate outdoor office space. The property is ideal for families and is available early September, please note that we cannot accept 3 sharers or more due to the properties licensing.\n\nCOUNCIL TAX BAND\nB\n\nEPC Band - TBC - a new EPC report has been ordered.\n\nLetting Fees;\nHolding fee (equal to 1 week rent) - £576.00\nDeposit (equal to 5 weeks rent) - £2,880.00",
+ "keyFeatures": [
+  "Unavailable to 3 or more sharers",
+  "Ideal for families",
+  "Available September 2026",
+  "Large Garden",
+  "Close to Victoria Park",
+  "Three Bedrooms",
+  "Outdoor Office",
+  "Stunning kitchen space"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c302aea3a/92423700/c302aea3a258a41aefe50b877b5561f5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/32f4cc85c/92423700/32f4cc85c7745914fbafb80a5b46779b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7bdb22df0/92423700/7bdb22df0c146d83341614e0801cb246.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5ee42630e/92423700/5ee42630ef311a61cb1f454faabd044d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f93cd48a/92423700/5f93cd48aa8dbf740ad849029406d56a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f74d081c/92423700/5f74d081c371dde71aeabb1d409f4fda.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4d71b4809/92423700/4d71b480946cc9dcde42c1fd0d4e3de9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3b28308c0/92423700/3b28308c0a3b2bf7cade59384721ed9a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1888c2727/92423700/1888c27278bc06f908ed558ebe454109.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b376ac1a6/92423700/b376ac1a6aba577963a8927aa09f57eb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b982d4662/92423700/b982d466231ad8553baed85bf7796bd0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fc02042f7/92423700/fc02042f7520d30f2f3df16d0caa86af.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0f849f702/92423700/0f849f70238c9ab1cc0f53a2934d61d3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6386a1519/92423700/6386a151929ee78ff927f49cfa5b8136.jpeg",
+  "https://media.rightmove.co.uk/property-photo/74e8b6085/92423700/74e8b60851ed6017cad173d7d0e39a9a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7fce61729/92423700/7fce6172925cd53e342b1cd11131e736.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3e21845da/92423700/3e21845daeec0f30572859d3eaa75162.jpeg",
+  "https://media.rightmove.co.uk/property-photo/69f137ead/92423700/69f137eadc244bf798bc2a2bd5e975fb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ed309914/92423700/8ed309914f39441d289e0eee1f27c3e6.jpeg"
+ ],
+ "imageCount": 19,
+ "nearestStations": [
+  {
+   "name": "Bedminster Station",
+   "miles": 0.45950661907759593,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 0.8465290717851429,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Parson Street Station",
+   "miles": 1.0667168759159271,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Hunters, Bedminster, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS3",
+ "scrapedAt": "2026-08-30T10:22:46.317Z"
+}

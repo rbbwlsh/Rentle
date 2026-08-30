@@ -1,0 +1,78 @@
+{
+ "id": "90776562",
+ "displayAddress": "Brook Mews North, Hyde Park",
+ "outcode": "W2",
+ "incode": "3BW",
+ "latitude": 51.512909,
+ "longitude": -0.178138,
+ "priceAmount": 5250,
+ "priceLabel": "£5,250 pcm",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90776562",
+ "area": "Hyde Park",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "letType": "Long term",
+  "furnishType": "Furnished",
+  "letAvailableDate": "Ask agent",
+  "deposit": 7962,
+  "minimumTermMonths": null,
+  "councilTaxBand": null
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A newly refurbished three double bedroom, two bathroom apartment in a converted Mews house by Lancaster Gate. The property has been decorated with bespoke fixtures and fittings and features wood floors and skylights.\n\nBrook Mews North is just behind Craven Terrace and Lancaster Gate, close to Hyde Park and Paddington station. Lancaster Gate is the closest underground station (Central Line).\n\nSecurity Deposit: £7,962\nCouncil Tax Band: G",
+ "keyFeatures": [
+  "Three Double Bedrooms",
+  "Two Bathrooms",
+  "Mews Property",
+  "Separate Kitchen",
+  "Wood Floors",
+  "Hyde Park"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a0cd389ef/90776562/a0cd389ef2303f12fa16fc86328f20d7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/17ac5a812/90776562/17ac5a81215e66c2bc433d2ae9a1e29f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fa86b92f3/90776562/fa86b92f30e769cb48e6dd59758c763c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d69e669f1/90776562/d69e669f1b5b9880f86d61992552d921.jpeg",
+  "https://media.rightmove.co.uk/property-photo/454d5c011/90776562/454d5c0113316e45bf501e9dcb4b0e94.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa63fd8d3/90776562/aa63fd8d3f3b7980d90c384586742f87.jpeg",
+  "https://media.rightmove.co.uk/property-photo/be19eb064/90776562/be19eb064f1613e47395568e98b95570.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Lancaster Gate Station",
+   "miles": 0.14097228989454297,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Paddington Station",
+   "miles": 0.3575785859954036,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Bayswater Station",
+   "miles": 0.4329553016176605,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "Dexters, Hyde Park & Bayswater",
+ "city": "London",
+ "sourceOutcode": "W2",
+ "scrapedAt": "2026-08-30T10:16:26.056Z"
+}
