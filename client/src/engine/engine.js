@@ -5,7 +5,13 @@
 // fight everywhere.
 
 export const WIN_PCT = 0.05; // within 5% of the listed rent wins
-export const MAX_ATTEMPTS = 4;
+export const MAX_ATTEMPTS = 5;
+
+// Comparables are held back so the opening guesses are a real read of the
+// property rather than arithmetic on someone else's price: guesses 1-3 get
+// nothing but too-high/too-low, and the two comparables land after guesses 3
+// and 4 — in time to inform guesses 4 and 5.
+export const COMPARABLE_AFTER_ATTEMPT = 3;
 
 // How far off a guess is, as a fraction of the actual rent.
 export const pctOff = (actual, guess) => Math.abs(guess - actual) / actual;
@@ -38,8 +44,9 @@ export const shareGrid = (tiers) => tiers.map(emojiRow).join('\n');
 //   { status: 'win', actual, tier: 0 }
 //   { status: 'fail', actual, direction, tier }     (final attempt used up)
 //   { status: 'continue', attempt, hint, tier }
-// Hints: attempt 1 -> comparable #1, attempt 2 -> comparable #2 (if available),
-// later attempts (or missing comparables) -> too high / too low.
+// Hints: attempts 1-2 -> too high / too low only. After attempt 3 -> comparable
+// #1, after attempt 4 -> comparable #2, so the last two guesses are the ones
+// with price anchors. Missing comparables degrade to a direction nudge.
 export function scoreGuess({ actual, guess, attempt, comparables = [] }) {
   const tier = tierFor(actual, guess);
   const direction = guess - actual > 0 ? 'high' : 'low';
@@ -47,12 +54,12 @@ export function scoreGuess({ actual, guess, attempt, comparables = [] }) {
   if (tier === 0) return { status: 'win', actual, tier };
   if (attempt >= MAX_ATTEMPTS) return { status: 'fail', actual, direction, tier };
 
-  let hint;
-  if (attempt <= comparables.length && attempt <= 2) {
-    hint = { type: 'comparable', property: comparables[attempt - 1], direction };
-  } else {
-    hint = { type: 'direction', direction };
-  }
+  // 0 after the 3rd guess, 1 after the 4th; negative earlier, so no comparable.
+  const compIndex = attempt - COMPARABLE_AFTER_ATTEMPT;
+  const hint =
+    compIndex >= 0 && compIndex < comparables.length
+      ? { type: 'comparable', property: comparables[compIndex], direction }
+      : { type: 'direction', direction };
   return { status: 'continue', attempt, hint, tier };
 }
 

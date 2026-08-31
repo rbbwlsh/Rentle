@@ -17,16 +17,24 @@ export function haversineMiles(lat1, lon1, lat2, lon2) {
   return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
 }
 
-function cleanSummary(s) {
+function cleanText(s, max) {
   if (!s) return null;
   const t = String(s).replace(/\s+/g, ' ').trim();
-  return t.length > 220 ? `${t.slice(0, 220)}…` : t;
+  return t.length > max ? `${t.slice(0, max)}…` : t;
 }
 
 // A corpus listing rendered as a comparable card (the shape ComparableCard.jsx
 // expects). The other listing's own price IS shown — it's a price anchor — but
 // its address stays at neighbourhood level and nothing links to it.
-function toComparable(candidate, target, imageUrlFor) {
+//
+// Carries enough of the ad to expand into a redacted listing view in place:
+// extra photos, the fuller description, features and the ad facts. Everything
+// that could identify the property (street address, Rightmove URL, agent) is
+// deliberately left out.
+function toComparable(candidate, target, imagesFor) {
+  const images = imagesFor(candidate) || [];
+  const d = candidate.details || {};
+  const station = (candidate.nearestStations || [])[0] || null;
   return {
     price: candidate.priceAmount,
     priceLabel: candidate.priceLabel || `£${candidate.priceAmount} pcm`,
@@ -34,9 +42,20 @@ function toComparable(candidate, target, imageUrlFor) {
     bathrooms: candidate.bathrooms ?? null,
     propertySubType: candidate.propertySubType || 'Property',
     area: candidate.area || null,
-    summary: cleanSummary(candidate.description),
-    imageUrl: imageUrlFor(candidate) || null,
-    imageCount: candidate.imageCount ?? 0,
+    summary: cleanText(candidate.description, 220),
+    // Shown only once the card is expanded.
+    description: cleanText(candidate.description, 900),
+    keyFeatures: (candidate.keyFeatures || []).slice(0, 6),
+    sizeSqFt: candidate.sizeSqFt ?? null,
+    furnishType: d.furnishType || null,
+    letType: d.letType || null,
+    councilTaxBand: d.councilTaxBand || null,
+    nearestStation: station
+      ? { name: station.name, miles: station.miles, types: station.types || [] }
+      : null,
+    images: images.slice(0, 5),
+    imageUrl: images[0] || null,
+    imageCount: images.length,
     addedOrReduced: null,
     distanceMiles: Number(
       haversineMiles(
@@ -54,7 +73,7 @@ function toComparable(candidate, target, imageUrlFor) {
 // prefer listings within a mile when enough exist. Mirrors the old live
 // search's ranking (server/comparables.js), widened from 0.25mi to 1mi since
 // a ~500-listing corpus is sparser than a live search.
-export function pickComparables(target, candidates, { limit = 2, imageUrlFor } = {}) {
+export function pickComparables(target, candidates, { limit = 2, imagesFor } = {}) {
   if (target.latitude == null || target.longitude == null) return [];
 
   const pool = candidates
@@ -66,7 +85,7 @@ export function pickComparables(target, candidates, { limit = 2, imageUrlFor } =
         c.latitude != null &&
         c.longitude != null
     )
-    .map((c) => toComparable(c, target, imageUrlFor));
+    .map((c) => toComparable(c, target, imagesFor));
 
   if (!pool.length) return [];
 

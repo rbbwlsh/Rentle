@@ -1,9 +1,11 @@
 # Cache rules for manual (drag-and-drop) deploys; netlify.toml carries the
 # same rules for CLI deploys. Images and hashed assets never change at their
-# URL; corpus data can change on redeploy.
+# URL; corpus data changes on redeploy at a URL that doesn't, so it has to be
+# revalidated every time — a stale chunk in someone's browser cache would keep
+# serving copy a redeploy was meant to take down. ETags make that a 304.
 /img/*
   Cache-Control: public, max-age=31536000, immutable
 /assets/*
   Cache-Control: public, max-age=31536000, immutable
 /data/*
-  Cache-Control: public, max-age=300
+  Cache-Control: public, max-age=0, must-revalidate

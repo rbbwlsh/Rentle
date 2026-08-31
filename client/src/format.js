@@ -24,3 +24,32 @@ export function formatDistance(miles) {
   const rounded = miles < 0.1 ? miles.toFixed(2) : miles.toFixed(1);
   return `${rounded} mi away`;
 }
+
+// Station distances arrive from Rightmove as raw floats (0.46527164819595607).
+// One decimal place is all anyone reads a walk in.
+export function formatMiles(miles) {
+  const n = Number(miles);
+  if (miles == null || Number.isNaN(n)) return '';
+  return `${n.toFixed(1)} mi`;
+}
+
+// Rightmove's station types are SCREAMING_ENUMS; render them as words.
+const STATION_TYPES = {
+  NATIONAL_TRAIN: 'National Rail',
+  LONDON_UNDERGROUND: 'Underground',
+  LONDON_OVERGROUND: 'Overground',
+  LIGHT_RAILWAY: 'Light rail',
+  TRAM: 'Tram',
+  SUBWAY: 'Subway',
+  METRO: 'Metro',
+  CABLE_CAR: 'Cable car',
+  FERRY: 'Ferry',
+  BUS: 'Bus',
+};
+export function formatStationType(type) {
+  if (!type) return '';
+  return (
+    STATION_TYPES[type] ||
+    String(type).toLowerCase().replace(/_/g, ' ').replace(/^./, (c) => c.toUpperCase())
+  );
+}

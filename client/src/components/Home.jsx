@@ -55,7 +55,7 @@ export default function Home({ navigate }) {
           Rentle #{dailyNumber(today)} · {formatDate(today)}
         </p>
         <h2 className="mt-1 text-lg font-bold text-slate-800">
-          One real listing. Four guesses. Within 5% wins.
+          One real listing. Five guesses. Within 5% wins.
         </h2>
         <p className="mt-1 text-sm text-slate-500">
           The same mystery rental for everyone, every day — from{' '}
@@ -94,10 +94,10 @@ export default function Home({ navigate }) {
           onClick={() => navigate('/browse')}
           className="rounded-2xl bg-white p-5 text-left shadow-lg transition hover:shadow-xl"
         >
-          <div className="text-2xl" aria-hidden>🏙️</div>
+          <div className="text-2xl" aria-hidden>🗺️</div>
           <p className="mt-2 text-sm font-bold text-slate-800">Pick a city</p>
           <p className="mt-0.5 text-xs text-slate-500">
-            Browse real listings and challenge a friend.
+            Play a round from a city&apos;s pool.
           </p>
         </button>
       </div>

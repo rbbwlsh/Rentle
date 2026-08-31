@@ -2,7 +2,9 @@ import { useEffect, useRef, useState } from 'react';
 import { formatPcm, formatGbp } from '../format.js';
 import { loadStats, setName as saveName } from '../engine/stats.js';
 import { encodeShare } from '../engine/share.js';
-import { shareGrid, TIERS } from '../engine/engine.js';
+import { shareGrid, TIERS, MAX_ATTEMPTS } from '../engine/engine.js';
+import { loadIndex } from '../data.js';
+import { pickRandom } from '../engine/picker.js';
 import PersonalStats from './PersonalStats.jsx';
 
 // End-of-game screen. Confetti + a popped-in price on a win, the Wordle-style
@@ -20,7 +22,9 @@ export default function Reveal({
   puzzleNo,
   you,
   opponent,
+  city,
   onHome,
+  navigate,
 }) {
   const off = bestGuess != null ? Math.abs(bestGuess - actual) : null;
   const offPct = off != null ? (off / actual) * 100 : null;
@@ -81,9 +85,10 @@ export default function Reveal({
             View on Rightmove ↗
           </a>
         )}
+        {city && navigate && <AnotherInCity city={city} navigate={navigate} />}
         <button
           onClick={onHome}
-          className="rounded-xl bg-brand-600 px-4 py-3 font-semibold text-white shadow-sm transition hover:bg-brand-700"
+          className="min-h-[52px] rounded-xl bg-brand-600 px-4 py-3 font-semibold text-white shadow-sm transition hover:bg-brand-700"
         >
           Play another
         </button>
@@ -106,7 +111,7 @@ function ResultGrid({ tiers, puzzleNo, won }) {
     <div className="mt-6">
       <p className="text-xs font-semibold uppercase tracking-wide text-slate-400">
         {puzzleNo != null ? `Rentle #${puzzleNo}` : 'Your round'} ·{' '}
-        {won ? `${tiers.length}/4` : 'X/4'}
+        {won ? `${tiers.length}/${MAX_ATTEMPTS}` : `X/${MAX_ATTEMPTS}`}
       </p>
       <div className="mt-2 inline-flex flex-col gap-1.5">
         {tiers.map((tier, row) => {
@@ -176,7 +181,7 @@ function ShareScore({ listingId, you, tiers, puzzleNo }) {
     ...you,
   })}`;
   const headline = `${puzzleNo != null ? `Rentle #${puzzleNo}` : 'Rentle'} ${
-    you.won ? `${you.attemptWon}/4` : 'X/4'
+    you.won ? `${you.attemptWon}/${MAX_ATTEMPTS}` : `X/${MAX_ATTEMPTS}`
   }`;
   const shareText = `${headline}\n${shareGrid(tiers)}`;
 
@@ -245,56 +250,142 @@ function ShareScore({ listingId, you, tiers, puzzleNo }) {
   );
 }
 
-// Lightweight canvas confetti — no library, fires once on mount, cleans up.
+// The win moment. A full-viewport burst — three staggered cannons rather than
+// one pop, so it keeps going long enough to actually feel like a reward — plus
+// a haptic thump on phones. No library: ~120 lines of canvas beats 30kB.
+//
+// Sits fixed over the whole page (not just the card) because a burst clipped
+// to a 400px box reads as a fizzle. Honours prefers-reduced-motion.
 function Confetti() {
   const ref = useRef(null);
   useEffect(() => {
     const canvas = ref.current;
     if (!canvas) return undefined;
+    if (window.matchMedia?.('(prefers-reduced-motion: reduce)').matches) {
+      return undefined;
+    }
+
     const ctx = canvas.getContext('2d');
-    const dpr = window.devicePixelRatio || 1;
-    const w = (canvas.width = canvas.offsetWidth * dpr);
-    const h = (canvas.height = canvas.offsetHeight * dpr);
-    const colors = ['#e11d48', '#fb7185', '#f59e0b', '#10b981', '#3b82f6', '#fbbf24'];
-    const parts = Array.from({ length: 140 }, () => ({
-      x: w / 2 + (Math.random() - 0.5) * w * 0.3,
-      y: h * 0.25,
-      vx: (Math.random() - 0.5) * 14 * dpr,
-      vy: (Math.random() * -14 - 4) * dpr,
-      size: (Math.random() * 6 + 4) * dpr,
-      color: colors[(Math.random() * colors.length) | 0],
-      rot: Math.random() * Math.PI,
-      vr: (Math.random() - 0.5) * 0.3,
-    }));
-    let frame;
+    const dpr = Math.min(window.devicePixelRatio || 1, 2);
+    const w = (canvas.width = window.innerWidth * dpr);
+    const h = (canvas.height = window.innerHeight * dpr);
+    const colors = ['#e11d48', '#fb7185', '#f59e0b', '#10b981', '#3b82f6', '#fbbf24', '#a855f7'];
+
+    // Three cannons: bottom-left, bottom-right, then a centre fountain.
+    const CANNONS = [
+      { x: 0.08, y: 1.02, angle: -Math.PI / 3.1, count: 150, at: 0 },
+      { x: 0.92, y: 1.02, angle: -Math.PI + Math.PI / 3.1, count: 150, at: 12 },
+      { x: 0.5, y: 0.75, angle: -Math.PI / 2, count: 130, at: 26 },
+    ];
+
+    const parts = [];
+    const fire = (c) => {
+      for (let i = 0; i < c.count; i++) {
+        const spread = (Math.random() - 0.5) * 0.9;
+        const speed = (Math.random() * 13 + 11) * dpr;
+        parts.push({
+          x: c.x * w,
+          y: c.y * h,
+          vx: Math.cos(c.angle + spread) * speed,
+          vy: Math.sin(c.angle + spread) * speed,
+          size: (Math.random() * 6 + 4) * dpr,
+          color: colors[(Math.random() * colors.length) | 0],
+          rot: Math.random() * Math.PI * 2,
+          vr: (Math.random() - 0.5) * 0.35,
+          round: Math.random() < 0.28,
+          life: 0,
+        });
+      }
+    };
+
+    if (navigator.vibrate) {
+      try {
+        navigator.vibrate([18, 40, 28]);
+      } catch {
+        /* vibration is a nicety, never a requirement */
+      }
+    }
+
+    const DURATION = 240;
     let ticks = 0;
+    let frame;
     const draw = () => {
       ticks += 1;
+      for (const c of CANNONS) if (c.at === ticks - 1) fire(c);
+
       ctx.clearRect(0, 0, w, h);
       for (const p of parts) {
+        p.life += 1;
+        p.vy += 0.34 * dpr; // gravity
+        p.vx *= 0.988; // drag
+        p.vy *= 0.988;
         p.x += p.vx;
         p.y += p.vy;
-        p.vy += 0.35 * dpr;
         p.rot += p.vr;
+        if (p.y - p.size > h) continue;
+
         ctx.save();
         ctx.translate(p.x, p.y);
         ctx.rotate(p.rot);
-        ctx.globalAlpha = Math.max(0, 1 - ticks / 160);
+        ctx.globalAlpha = Math.max(0, Math.min(1, (DURATION - p.life) / 70));
         ctx.fillStyle = p.color;
-        ctx.fillRect(-p.size / 2, -p.size / 2, p.size, p.size * 0.6);
+        if (p.round) {
+          ctx.beginPath();
+          ctx.arc(0, 0, p.size / 2, 0, Math.PI * 2);
+          ctx.fill();
+        } else {
+          // Flutter: the strip narrows and widens as it tumbles.
+          ctx.fillRect(-p.size / 2, -p.size / 2, p.size, p.size * 0.45 * Math.abs(Math.cos(p.life * 0.16)));
+        }
         ctx.restore();
       }
-      if (ticks < 160) frame = requestAnimationFrame(draw);
+
+      if (ticks < DURATION) frame = requestAnimationFrame(draw);
       else ctx.clearRect(0, 0, w, h);
     };
     frame = requestAnimationFrame(draw);
     return () => cancelAnimationFrame(frame);
   }, []);
+
   return (
     <canvas
       ref={ref}
-      className="pointer-events-none absolute inset-0 h-full w-full"
+      className="pointer-events-none fixed inset-0 z-50 h-screen w-screen"
       aria-hidden
     />
+  );
+}
+
+// "Play another from the same city" — keeps a city session going without
+// bouncing back through the picker.
+function AnotherInCity({ city, navigate }) {
+  const [nextId, setNextId] = useState(null);
+
+  useEffect(() => {
+    if (!city) return undefined;
+    let cancelled = false;
+    loadIndex()
+      .then((index) => {
+        if (cancelled) return;
+        const inCity = new Set(
+          index.listings.filter((l) => l.city === city).map((l) => String(l.id))
+        );
+        const pool = index.order.filter((id) => inCity.has(String(id)));
+        setNextId(pickRandom(pool, Object.keys(loadStats().games)));
+      })
+      .catch(() => {});
+    return () => {
+      cancelled = true;
+    };
+  }, [city]);
+
+  if (!nextId) return null;
+  return (
+    <button
+      onClick={() => navigate(`/p/${nextId}`)}
+      className="min-h-[52px] rounded-xl border border-brand-200 bg-white px-4 py-3 font-semibold text-brand-700 transition hover:border-brand-400"
+    >
+      Another in {city} →
+    </button>
   );
 }

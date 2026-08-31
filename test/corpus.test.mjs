@@ -96,6 +96,19 @@ test('comparables come from the same city, with local thumbs and distance', () =
   assert.deepEqual(chunks.get('4').comparables, []);
 });
 
+test('city pools carry a count and a centroid to pin on the map', () => {
+  const { index } = buildCorpus(listings, manifest);
+  const byName = Object.fromEntries(index.cities.map((c) => [c.name, c]));
+  assert.deepEqual(Object.keys(byName).sort(), ['Leeds', 'London']);
+  assert.equal(byName.London.count, 2); // id 3 was dropped for having no photos
+  assert.equal(byName.Leeds.count, 1);
+  // Centroid is the mean of the city's listings, not of the whole corpus.
+  assert.ok(Math.abs(byName.London.lat - 51.501) < 1e-6);
+  assert.ok(Math.abs(byName.Leeds.lat - 53.8) < 1e-6);
+  // Deepest pool first, so the map can lead with it.
+  assert.equal(index.cities[0].name, 'London');
+});
+
 test('the order is append-only across rebuilds', () => {
   const first = buildOrder(['1', '2', '4'], []);
   const again = buildOrder(['1', '2', '4'], first);

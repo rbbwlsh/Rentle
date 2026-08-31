@@ -64,7 +64,7 @@ function main() {
   const defaults = {
     title: 'Rentle — Guess the Rent',
     description:
-      'The daily guess-the-rent game on real UK listings. Four guesses, real hints — can you read the market?',
+      'The daily guess-the-rent game on real UK listings. Five guesses, real hints — can you read the market?',
     image: `${SITE_URL}/og.png`,
     url: `${SITE_URL}/`,
   };

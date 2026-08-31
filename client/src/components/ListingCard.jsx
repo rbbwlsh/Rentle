@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import ImageCarousel from './ImageCarousel.jsx';
-import { formatGbp } from '../format.js';
+import PropertyMap from './PropertyMap.jsx';
+import { formatMiles, formatStationType } from '../format.js';
 
 // Displays the listing the player is guessing on with as much detail as a real
 // Rightmove ad — except the rent and the exact address are withheld (only an
@@ -32,7 +33,8 @@ export default function ListingCard({ listing }) {
     ['Let type', d.letType],
     ['Available', formatAvailable(d.letAvailableDate)],
     ['Min. tenancy', d.minimumTermMonths ? `${d.minimumTermMonths} months` : null],
-    ['Deposit', d.deposit ? formatGbp(d.deposit) : null],
+    // No deposit row: it's near-universally five weeks' rent, so showing it
+    // hands over the answer.
     ['Council tax', d.councilTaxBand ? `Band ${d.councilTaxBand}` : null],
   ].filter(([, v]) => v != null && v !== '');
 
@@ -131,6 +133,12 @@ export default function ListingCard({ listing }) {
           </div>
         )}
 
+        <PropertyMap
+          latitude={listing.latitude}
+          longitude={listing.longitude}
+          area={listing.area}
+        />
+
         {listing.nearestStations?.length > 0 && (
           <div className="mt-4 border-t border-slate-100 pt-3">
             <h3 className="text-sm font-semibold text-slate-600">Nearest stations</h3>
@@ -141,11 +149,13 @@ export default function ListingCard({ listing }) {
                     {s.name}
                     {s.types?.length ? (
                       <span className="ml-1 text-xs text-slate-400">
-                        ({s.types.join(', ')})
+                        ({s.types.map(formatStationType).join(', ')})
                       </span>
                     ) : null}
                   </span>
-                  <span className="text-slate-400">{s.miles} mi</span>
+                  <span className="flex-shrink-0 tabular-nums text-slate-400">
+                    {formatMiles(s.miles)}
+                  </span>
                 </li>
               ))}
             </ul>

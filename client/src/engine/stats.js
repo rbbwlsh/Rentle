@@ -6,6 +6,8 @@
 // `storage` is injectable for tests; every access is guarded because
 // localStorage can throw (private windows, blocked site data).
 
+import { MAX_ATTEMPTS } from './engine.js';
+
 const KEY = 'rentle_stats_v1';
 
 const emptyStats = () => ({
@@ -105,7 +107,11 @@ export function setName(name, storage) {
 // Derived personal totals for the stats panel.
 export function summarize(stats) {
   const games = Object.values(stats.games);
-  const winByAttempt = { 1: 0, 2: 0, 3: 0, 4: 0 };
+  // One bucket per attempt — derived, so raising MAX_ATTEMPTS can't silently
+  // drop wins on the new final guess out of the histogram.
+  const winByAttempt = Object.fromEntries(
+    Array.from({ length: MAX_ATTEMPTS }, (_, i) => [i + 1, 0])
+  );
   let wins = 0;
   for (const g of games) {
     if (g.won) {

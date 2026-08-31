@@ -29,8 +29,10 @@
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
 
-# Corpus data can change on redeploy — cache briefly.
+# Corpus data changes on redeploy at a URL that doesn't, so it must be
+# revalidated every load — a stale chunk in a browser cache would keep serving
+# copy a redeploy was meant to take down. ETags make that a cheap 304.
 [[headers]]
   for = "/data/*"
   [headers.values]
-    Cache-Control = "public, max-age=300"
+    Cache-Control = "public, max-age=0, must-revalidate"

@@ -9,7 +9,7 @@ import GuessControl from './GuessControl.jsx';
 import HintList from './HintList.jsx';
 import Reveal from './Reveal.jsx';
 
-// The 4-guess game. Loads a listing chunk from the static data, scores
+// The 5-guess game. Loads a listing chunk from the static data, scores
 // guesses client-side, and shows a Wordle-style closeness row after each one.
 // Ends in a win or fail reveal. If `opponent` is set (from a ?s= share link),
 // the player is trying to beat a friend's score.
@@ -146,6 +146,7 @@ export default function Game({ listingId, opponent, onHome, navigate }) {
         puzzleNo={puzzleNo}
         you={you}
         opponent={opponent}
+        city={listing.city}
         onHome={onHome}
         navigate={navigate}
       />
@@ -166,7 +167,8 @@ export default function Game({ listingId, opponent, onHome, navigate }) {
       <GuessControl attempt={attempt} maxAttempts={MAX_ATTEMPTS} onGuess={handleGuess} />
 
       <p className="text-center text-xs text-slate-400">
-        Guess the monthly rent. Get within 5% to win. Wrong guesses unlock hints.
+        Guess the monthly rent — within 5% wins. Guesses 1–3 tell you only
+        higher or lower; a nearby comparable unlocks for guesses 4 and 5.
       </p>
     </div>
   );

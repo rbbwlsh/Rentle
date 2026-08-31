@@ -1,12 +1,12 @@
 import { useEffect, useState } from 'react';
 import Home from './components/Home.jsx';
-import Browse from './components/Browse.jsx';
+import CityPicker from './components/CityPicker.jsx';
 import Game from './components/Game.jsx';
 import { decodeShare } from './engine/share.js';
 
 // Tiny path-based router (no library):
 //   /p/<id>    -> play that listing; ?s=<token> carries a friend's score to beat
-//   /browse    -> pick a listing from the corpus
+//   /browse    -> pick a city, then play a listing from its pool
 //   /          -> home: daily puzzle + random
 function readRoute() {
   const { pathname, search } = window.location;
@@ -40,7 +40,7 @@ export default function App() {
   const goHome = () => navigate('/');
 
   return (
-    <div className="min-h-screen flex flex-col items-center px-4 py-8 sm:py-12">
+    <div className="flex min-h-screen flex-col items-center px-4 pb-[max(2rem,env(safe-area-inset-bottom))] pt-[max(1.5rem,env(safe-area-inset-top))] sm:py-12">
       <header className="w-full max-w-xl mb-6 sm:mb-8 text-center">
         <button
           onClick={goHome}
@@ -63,7 +63,7 @@ export default function App() {
             navigate={navigate}
           />
         ) : route.name === 'browse' ? (
-          <Browse navigate={navigate} />
+          <CityPicker navigate={navigate} />
         ) : (
           <Home navigate={navigate} />
         )}

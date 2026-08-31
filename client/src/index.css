@@ -9,7 +9,30 @@ html {
 body {
   @apply bg-gradient-to-b from-brand-50 to-rose-100 text-slate-800 antialiased;
   min-height: 100vh;
+  /* dvh tracks the collapsing URL bar on mobile; the vh above is the fallback. */
+  min-height: 100dvh;
   margin: 0;
+  /* Stop the whole page rubber-banding behind the gradient on iOS. */
+  overscroll-behavior-y: none;
+}
+
+/* Most play happens on a phone. */
+@media (max-width: 640px) {
+  /* Safari zooms the viewport when a focused input is under 16px, which throws
+     the layout off mid-guess and can't be undone without a pinch. Every input
+     stays at 16px on small screens whatever Tailwind's type scale says. */
+  input,
+  select,
+  textarea {
+    font-size: 16px;
+  }
+}
+
+/* Taps shouldn't paint a grey box over cards and pins. */
+button,
+[role='button'],
+a {
+  -webkit-tap-highlight-color: transparent;
 }
 
 /* Win-moment juice: the emoji and price punch in, the price slightly later. */

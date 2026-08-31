@@ -5,6 +5,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import {
+  MAX_ATTEMPTS,
   scoreGuess,
   summarizeGuesses,
   tierFor,
@@ -19,7 +20,7 @@ const comparables = [{ price: 1150 }, { price: 1300 }];
 test('the 5% win boundary is exact and scales with the rent', () => {
   // £1,200: 5% = £60 either side.
   assert.equal(scoreGuess({ actual: 1200, guess: 1260, attempt: 1 }).status, 'win');
-  assert.equal(scoreGuess({ actual: 1200, guess: 1140, attempt: 4 }).status, 'win');
+  assert.equal(scoreGuess({ actual: 1200, guess: 1140, attempt: 5 }).status, 'win');
   assert.equal(scoreGuess({ actual: 1200, guess: 1261, attempt: 1, comparables }).status, 'continue');
   // £9,000: the same 5% is £450 — a flat £50 margin would have been absurd here.
   assert.equal(scoreGuess({ actual: 9000, guess: 9400, attempt: 1 }).status, 'win');
@@ -41,34 +42,48 @@ test('closeness tiers map percentage-off to squares and colours', () => {
   assert.equal(shareGrid([4, 1, 0]), '🟥⬜⬜⬜⬜\n🟨🟨🟨🟨⬜\n🟩🟩🟩🟩🟩');
 });
 
-test('hint progression: comparable, comparable, direction, then fail — with tiers', () => {
+test('hints: direction only for guesses 1-3, then a comparable each for 4 and 5', () => {
+  // The opening guesses are an unaided read of the property.
   const g1 = scoreGuess({ actual: 1200, guess: 800, attempt: 1, comparables });
-  assert.equal(g1.hint.type, 'comparable');
-  assert.equal(g1.hint.property, comparables[0]);
+  assert.equal(g1.hint.type, 'direction');
   assert.equal(g1.hint.direction, 'low');
   assert.equal(g1.tier, 3); // 33% off
 
   const g2 = scoreGuess({ actual: 1200, guess: 3000, attempt: 2, comparables });
-  assert.equal(g2.hint.type, 'comparable');
-  assert.equal(g2.hint.property, comparables[1]);
+  assert.equal(g2.hint.type, 'direction');
   assert.equal(g2.hint.direction, 'high');
   assert.equal(g2.tier, 4);
 
+  // After the 3rd guess the first comparable unlocks — in time for guess 4.
   const g3 = scoreGuess({ actual: 1200, guess: 1350, attempt: 3, comparables });
-  assert.equal(g3.hint.type, 'direction');
+  assert.equal(g3.hint.type, 'comparable');
+  assert.equal(g3.hint.property, comparables[0]);
   assert.equal(g3.hint.direction, 'high');
   assert.equal(g3.tier, 2); // 12.5% off
 
-  const g4 = scoreGuess({ actual: 1200, guess: 1100, attempt: 4, comparables });
-  assert.equal(g4.status, 'fail');
-  assert.equal(g4.direction, 'low');
-  assert.equal(g4.tier, 1); // 8.3% — agonisingly close
-  assert.equal(g4.actual, 1200);
+  // ...and the second after the 4th, in time for guess 5.
+  const g4 = scoreGuess({ actual: 1200, guess: 1000, attempt: 4, comparables });
+  assert.equal(g4.status, 'continue');
+  assert.equal(g4.hint.type, 'comparable');
+  assert.equal(g4.hint.property, comparables[1]);
+
+  // Five guesses now, so the 4th is no longer the end of the road.
+  const g5 = scoreGuess({ actual: 1200, guess: 1100, attempt: 5, comparables });
+  assert.equal(g5.status, 'fail');
+  assert.equal(g5.direction, 'low');
+  assert.equal(g5.tier, 1); // 8.3% — agonisingly close
+  assert.equal(g5.actual, 1200);
+  assert.equal(MAX_ATTEMPTS, 5);
 });
 
-test('missing comparables degrade to direction hints from the first guess', () => {
-  const g1 = scoreGuess({ actual: 1200, guess: 800, attempt: 1, comparables: [] });
-  assert.equal(g1.hint.type, 'direction');
+test('a comparable that does not exist degrades to a direction nudge', () => {
+  const none = { actual: 1200, guess: 800, comparables: [] };
+  assert.equal(scoreGuess({ ...none, attempt: 1 }).hint.type, 'direction');
+  assert.equal(scoreGuess({ ...none, attempt: 3 }).hint.type, 'direction');
+  // Only one comparable available: guess 5 falls back rather than repeating it.
+  const one = { actual: 1200, guess: 800, comparables: [comparables[0]] };
+  assert.equal(scoreGuess({ ...one, attempt: 3 }).hint.type, 'comparable');
+  assert.equal(scoreGuess({ ...one, attempt: 4 }).hint.type, 'direction');
 });
 
 test('summarizeGuesses finds the winning attempt, best diff and best pct', () => {

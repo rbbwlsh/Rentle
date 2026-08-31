@@ -22,6 +22,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { pickComparables } from './lib/comparables.js';
+import { redactListing } from './lib/redact.js';
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
 const CORPUS_DIR = path.join(ROOT, 'data', 'corpus');
@@ -81,15 +82,19 @@ function encodeSecret(listing) {
 export function buildCorpus(listings, manifest, previousOrder = []) {
   const usable = listings.filter((l) => (manifest[String(l.id)] || []).length > 0);
 
+  // Scrub the ad copy on the way in, before comparables are cut from it: the
+  // corpus on disk keeps the agent's original text, but nothing that ships
+  // mentions a deposit or quotes a figure a player could work the rent back
+  // out of. See lib/redact.js.
   const withImages = usable.map((l) => ({
-    ...l,
+    ...redactListing(l),
     localImages: manifest[String(l.id)].map((e) => imagePathFor(l.id, e)),
   }));
 
   const chunks = new Map();
   for (const l of withImages) {
     const comparables = pickComparables(l, withImages, {
-      imageUrlFor: (c) => c.localImages[0],
+      imagesFor: (c) => c.localImages,
     });
     chunks.set(String(l.id), {
       id: String(l.id),
@@ -107,6 +112,12 @@ export function buildCorpus(listings, manifest, previousOrder = []) {
       images: l.localImages,
       imageCount: l.localImages.length,
       nearestStations: l.nearestStations,
+      // Public, and deliberately exact: the in-game map drops a real pin. That
+      // makes location a first-class clue and does put the answer within reach
+      // of anyone who reverse-searches the point — a known, accepted trade,
+      // same spirit as the base64'd price.
+      latitude: l.latitude ?? null,
+      longitude: l.longitude ?? null,
       agent: l.agent,
       scrapedAt: l.scrapedAt,
       comparables,
@@ -115,9 +126,28 @@ export function buildCorpus(listings, manifest, previousOrder = []) {
   }
 
   const order = buildOrder([...chunks.keys()], previousOrder);
+
+  // City pools for the map picker: where to drop the pin, and how deep the
+  // pool is. The centroid is the mean of the city's listings — good enough to
+  // place a dot on a map of Great Britain, and it carries no price.
+  const cities = [...new Set(withImages.map((l) => l.city).filter(Boolean))]
+    .map((name) => {
+      const all = withImages.filter((l) => l.city === name);
+      const located = all.filter((l) => l.latitude != null && l.longitude != null);
+      const mean = (key) =>
+        located.length
+          ? Number(
+              (located.reduce((sum, l) => sum + l[key], 0) / located.length).toFixed(3)
+            )
+          : null;
+      return { name, count: all.length, lat: mean('latitude'), lon: mean('longitude') };
+    })
+    .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
+
   const index = {
     builtAt: new Date().toISOString(),
     order,
+    cities,
     listings: order.map((id) => {
       const c = chunks.get(id);
       return {

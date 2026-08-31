@@ -1,7 +1,8 @@
 import ComparableCard from './ComparableCard.jsx';
 
-// Renders the accumulated hints from earlier wrong guesses. A hint is either a
-// nearby comparable (with price) or a "too high / too low" direction nudge.
+// Renders the accumulated hints from earlier wrong guesses. Guesses 1-3 yield
+// a "too high / too low" nudge; after that a nearby comparable (with its own
+// price) unlocks, one for guess 4 and one for guess 5.
 export default function HintList({ hints }) {
   if (!hints.length) return null;
 
@@ -12,8 +13,9 @@ export default function HintList({ hints }) {
         <div key={i}>
           {hint.type === 'comparable' ? (
             <div className="space-y-1.5">
-              <p className="text-xs text-slate-500">
-                💡 A nearby rental for context:
+              <p className="text-xs font-medium text-slate-500">
+                🔓 Comparable unlocked — a nearby rental, tap for the full
+                (redacted) listing:
               </p>
               <ComparableCard property={hint.property} />
             </div>

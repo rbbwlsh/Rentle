@@ -1,4 +1,5 @@
 import { loadStats, summarize } from '../engine/stats.js';
+import { MAX_ATTEMPTS } from '../engine/engine.js';
 
 // The player's own record, from localStorage — V1 has no backend, so this
 // replaces the old crowd-stats panel. Same visual language: attempt bars,
@@ -8,10 +9,11 @@ export default function PersonalStats({ you }) {
   if (!s.played) return null;
 
   const rows = [
-    { key: 1, label: 'Won on guess 1', count: s.winByAttempt[1] },
-    { key: 2, label: 'Won on guess 2', count: s.winByAttempt[2] },
-    { key: 3, label: 'Won on guess 3', count: s.winByAttempt[3] },
-    { key: 4, label: 'Won on guess 4', count: s.winByAttempt[4] },
+    ...Array.from({ length: MAX_ATTEMPTS }, (_, i) => ({
+      key: i + 1,
+      label: `Won on guess ${i + 1}`,
+      count: s.winByAttempt[i + 1],
+    })),
     { key: 'fail', label: "Didn't get it", count: s.fails },
   ];
   const youKey = you ? (you.won ? you.attemptWon : 'fail') : null;

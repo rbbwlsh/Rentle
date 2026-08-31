@@ -2,8 +2,8 @@
 
 The daily guess-the-rent game on real UK listings, in the spirit of
 [Dublin Rent Roulette](https://dublinrentroulette.com). One mystery rental a
-day — four guesses, within £50 pcm wins, wrong guesses unlock hints (a nearby
-comparable with its price, then too-high/too-low). Play a random round, browse
+day — five guesses, within 5% wins, wrong guesses unlock hints (too-high /
+too-low first, then a nearby comparable with its price for guesses 4 and 5). Play a random round, browse
 the corpus by city, or send a friend a beat-my-score link.
 
 **Fully static.** V1 has no backend at all: a pre-scraped corpus of ~400–500
