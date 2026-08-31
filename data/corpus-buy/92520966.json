@@ -1,0 +1,90 @@
+{
+ "id": "92520966",
+ "mode": "buy",
+ "displayAddress": "Chepstow House, Chepstow Street, Manchester",
+ "outcode": "M1",
+ "incode": "5JF",
+ "latitude": 53.475395,
+ "longitude": -2.243896,
+ "priceAmount": 195000,
+ "priceLabel": "£195,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92520966",
+ "area": "Chepstow House, Manchester",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 613,
+  "sizeSqM": 57,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 932,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 3605.4,
+  "councilTaxBand": "C",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": 613,
+ "sizeSqM": 57,
+ "description": "We are pleased to have this stunning one bedroom apartment, found on the lower ground floor within the iconic Chepstow House a stunning former textile warehouse in the heart of Manchester. The property comprises of an entrance hallway, spacious lounge with stunning hardwood flooring, well appointed bedroom, family sized bathroom with contemporary fixtures and fittings. A standout feature of the property being the high ceilings and quite position within the building. Secure Allocated Parking. No Chain. Mortgage Buyers Welcome.\n\nEntrance Hallway - Leads to all rooms, storage with plumbing for washing machine.\n\nKitchen / Lounge - 7.25 x 5.24 (23'9\" x 17'2\") - Spacious lounge with stunning hardwood flooring, electrical power sockets, two double glazed sash window. Range of wall and base units with complimentary kitchen worktop. integrated hob / oven, fridge / freezer, extractor fan.\n\nBedroom - 5.18 x 2.73 (16'11\" x 8'11\") - Double bedroom, electric power sockets, double glazed sash window, electric heater.\n\nBathroom - 2.71 x 2.95  (8'10\" x 9'8\" ) - Part tiled bathroom, low level W.C, hand wash basin, fitted mirror, bath with mixer, heated towel rail.\n\nExternally - Secure allocated parking space. Stunning Communal area's.\n\nAdditional Information - Lease: 999 years from1990\nGround Rent: Peppercorn\nService Charge: £3605.40 per annum (includes water usage)\nManagement Company: Chepstow House Management Company Ltd.\nEPC- D\nCouncil Tax Band- C\n\nAgents Notes - To be able to purchase a property in the United Kingdom all agents have a legal requirement to conduct Identity checks on all customers involved in the transaction to fulfil their obligations under Anti Money Laundering regulations. We outsource this check to a third party and a charge will apply. Ask the branch for further details.\n\nDisclaimer - IMPORTANT NOTE TO PURCHASERS: The lease, ground rent and service charges should all be checked via the solicitors for clarification.  We endeavour to make our sales particulars accurate and reliable, however, they do not constitute or form part of an offer or any contract and none is to be relied upon as statements of representation or fact. The services, systems and appliances listed in this specification have not been tested by us and no guarantee as to their operating ability or efficiency is given. All measurements have been taken as guide to prospective buyers only, and are not precise. If floor plans where included, these may not be to scale and accuracy is not guaranteed. If you require clarification or further information on any points, please contact us.",
+ "keyFeatures": [
+  "One Bedroom Apartment",
+  "Ground Floor",
+  "Secure Allocated Parking Space",
+  "Pepper Corn Ground Rent",
+  "Character Building",
+  "EPC- D",
+  "Council Tax Band- C",
+  "Sash Windows",
+  "High Cielings",
+  "Stunning Communal Area's"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/20188cadb/92520966/20188cadb5967d2b07dbc2486a33d7e2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1953764a0/92520966/1953764a0eb928641045c4475ec3f1f6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/22219ea49/92520966/22219ea49c2b790e3527e6c29da6f221.jpeg",
+  "https://media.rightmove.co.uk/property-photo/874b5de14/92520966/874b5de14b341877b424d21430ee821b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ea4caf92/92520966/8ea4caf923247d1568d169d3b464d0bd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0d3431106/92520966/0d343110612f04e1801d0fcc806f0752.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cb1956ffb/92520966/cb1956ffb085b4187f27ee190e4ee2d5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/77349e6e8/92520966/77349e6e8401d687ca0fb28662b75bb7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1cc1f60cc/92520966/1cc1f60ccbf9b00a94949b2324d4184c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0f9323f4e/92520966/0f9323f4e507948291395a1e47954c6f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4eb2a3a82/92520966/4eb2a3a820d488e4be5f5b9908cec01e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/963b3a074/92520966/963b3a074657d78391e63cd0f98258ae.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d176fc579/92520966/d176fc579dcafd9931ea98af0828d9c8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/137ccbcbc/92520966/137ccbcbcef6020a7eec4370de16c2dc.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Manchester Oxford Road Station",
+   "miles": 0.12498283448142036,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "St Peters Square Tram Stop",
+   "miles": 0.1573628135870836,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Deansgate Station",
+   "miles": 0.2980323600780993,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Jordan Fishwick, Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M1",
+ "scrapedAt": "2026-08-31T14:45:32.377Z"
+}

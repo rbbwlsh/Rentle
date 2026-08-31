@@ -1,0 +1,83 @@
+{
+ "id": "91720692",
+ "mode": "buy",
+ "displayAddress": "Captains Walk, Hull",
+ "outcode": "HU1",
+ "incode": "2DX",
+ "latitude": 53.738639,
+ "longitude": -0.342067,
+ "priceAmount": 110000,
+ "priceLabel": "£110,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91720692",
+ "area": "Hull",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 571,
+  "sizeSqM": 53,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 990,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 06/08/2026"
+ },
+ "sizeSqFt": 571,
+ "sizeSqM": 53,
+ "description": "Partial share of the freehold - No service charges! NO CHAIN! A spacious and well presented two bedroom ground floor apartment in the highly sought after Hull Marina. Ideally located within walking distance of shops, restaurants, bars and excellent transport links, this move in ready home benefits from private parking, gas central heating and double glazing. Featuring a bright open plan living/kitchen area, private rear yard and front terrace, it is an ideal first home or investment opportunity.\n\nPartial share of the freehold - No service charges! - NO CHAIN! A spacious and well presented two bedroom ground floor apartment in the sought after Hull Marina. Perfectly positioned within walking distance of shops, restaurants, bars and excellent transport links. Ready to move straight into, the property benefits from private parking! Installed with gas central heating and double glazing. Accommodation briefly comprises; hallway, a bright open plan living/kitchen area, two bedrooms and a bathroom. To the exterior is a private rear yard and a front terrace, making it an ideal first home or investment! Partial share of the freehold!\n\nHallway\nWith laminate flooring, radiator and doors to: \n\nKitchen / Living room\nWith windows to the front and rear, laminate flooring, radiator, feature fireplace, vinyl flooring kitchen area, range of contemporary wall and base units with contrasting work surface and tiling to splash backs, electric oven, gas hob, plumbing for automatic washing machine, sink unit with mixer tap, space for fridge / freezer and sliding door to front. \n\nBedroom one\nWith window to the front, laminate flooring and radiator. \n\nBedroom two\nWith window to the front, laminate flooring and radiator. \n\nBathroom\nWith window to the rear, laminate flooring, heated towel rail, tiled walls, pedestal basin, low flush w/c and panel enclosed bath with shower over. \n\nExterior\nTo the exterior is a private rear yard and a front terrace, making it an ideal first home or investment!\n\nDisclaimer \n-None of the services, fittings or equipment referred to in these particulars have been tested and we are therefore unable to comment as to their condition or suitability. Any intending purchasers should satisfy themselves through their own enquiries. \n \n-An EPC is held for this property and is available for inspection at the branch should you wish to view. It is also available online through the properties details on our website   \n\n-To arrange a viewing for this property please contact Urban Property  0 Holderness Road Hull HU9 3DQ. \n\n-If you require a Mortgage to purchase this or any other property, we offer a free Mortgage Consultation with an independent Mortgage Broker. Please ask for further details. \nAll mortgages are subject to status and valuation. \n\nYOUR HOME IS AT RISK IF YOU DO NOT KEEP UP REPAYMENTS ON A MORTGAGE OR OTHER LOAN SECURED ON IT.",
+ "keyFeatures": [
+  "No chain involved",
+  "Private parking!",
+  "Spacious ground floor apartment",
+  "Sought after Hull Marina location",
+  "Open plan lounge/kitchen",
+  "Well presented throughout - move in ready"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/fff9954a1/91720692/fff9954a14bcd499442e53713d4c878a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6b66e94da/91720692/6b66e94da350e50f0ecf1162d9930a23.jpeg",
+  "https://media.rightmove.co.uk/property-photo/079b947f9/91720692/079b947f9292d2e4c3adba3719055011.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6130f34fd/91720692/6130f34fde7fb2a181bc8a3f936c22a5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/32ea9917e/91720692/32ea9917e89f3504fea5c9cf74d66773.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8a7663eb0/91720692/8a7663eb0b3cb5bea90444e921ccc089.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5c5a47ac0/91720692/5c5a47ac0ea18f10fadc671a67414f1a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2beadb309/91720692/2beadb309d937c6b0393a69febffa08b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bc3e0ee7e/91720692/bc3e0ee7e84021cc5618a7a1631f5d18.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ca193b6c7/91720692/ca193b6c71d05bff87665e59dc7a18eb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a048a6db0/91720692/a048a6db0d7fce630961f04be47d5477.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Hull Station",
+   "miles": 0.36875203655344274,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "New Holland Station",
+   "miles": 2.6450777504971046,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Barrow Haven Station",
+   "miles": 3.514255024545209,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Urban Property, Hull",
+ "city": "Hull",
+ "sourceOutcode": "HU1",
+ "scrapedAt": "2026-08-31T14:59:29.093Z"
+}

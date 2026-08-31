@@ -1,0 +1,91 @@
+{
+ "id": "92179731",
+ "mode": "buy",
+ "displayAddress": "Silbury Boulvard, Central Milton Keynes, MK9",
+ "outcode": "MK9",
+ "incode": "2FA",
+ "latitude": 52.040083,
+ "longitude": -0.765254,
+ "priceAmount": 300000,
+ "priceLabel": "£300,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92179731",
+ "area": "Silbury Boulvard, Central Milton Keynes",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "TBC",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 19/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "* BEAUTIFUL TWO BEDROOM APARTMENT - RARELY AVAILABLE WITH A BALCONY - NO UPPER CHAIN - ONE OF THE LARGEST STYLES IN THE BLOCK *\n\nUrban & Rural are proud to market this beautifully maintained, modern two floor apartment offering two double bedrooms, en-suite and open planned living. This property is offered with no onwards chain and commands on of the largest styles in the block with a private balcony.\n\nFurther accommodation includes a spacious entrance hallway with a large storage cupboard, modern family bathroom, two double bedrooms and en-suite to the master and an fantastic open planned lounge/diner/kitchen. Additionally, there is a generous private balcony and two large storage cupboards.\n\nCompleted in 2020, Medina House is a modern apartment development situated on Silbury Boulevard, just a short walk from Centre:MK. This vibrant shopping and entertainment hub offers an extensive range of shops, restaurants, bars, and recreational facilities, making it an ideal location for city living.\n\nMilton Keynes Central railway station is also within easy walking distance, providing excellent transport connections. Direct trains reach London Euston in around 35 minutes, with further services offering convenient links to the North. The city is exceptionally well connected by road, with Junctions 13 and 14 of the M1 nearby, as well as major routes including the A5, A421, A422, and A509. Milton Keynes also benefits from a comprehensive bus network and an extensive system of redways, offering safe cycling routes throughout the area.\n\nFor those who enjoy the outdoors, Milton Keynes is renowned for its green spaces. Popular spots such as Campbell Park, Ouzel Valley Park, and Willen Lake are all within easy reach of the city centre, offering excellent",
+ "keyFeatures": [
+  "SECOND FLOOR APARTMENT",
+  "LIFT ACCESS",
+  "NO UPPER CHAIN",
+  "RARELY AVAILABLE PRIVATE BALCONY",
+  "ONE OF THE LARGEST STYLES IN THE BLOCK",
+  "ADDITIONAL STORAGE CUPBOARDS",
+  "OPEN PLANNED LOUNGE/DINER/KITCHEN",
+  "WALKING DISTANCE TO THE STATION",
+  "IDEAL INVESTMENT OR FIRST TIME BUY",
+  "'LIFESTYLE' APARTEMENT"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/524c5d380/92179731/524c5d3800034c603e429013d2f22375.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a4fb2bcb8/92179731/a4fb2bcb83529410d5d6db06d1e080e5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0a17a7cf4/92179731/0a17a7cf48fbbe65fae114eaedf8f353.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d77d3821a/92179731/d77d3821ac153218e0481f5aa73e0289.jpeg",
+  "https://media.rightmove.co.uk/property-photo/594e9ee5e/92179731/594e9ee5ef1fc5b4f1ca71790288a4bd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dffeef0a7/92179731/dffeef0a79ef0b9e07c604c70956c1d2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e8d6433d4/92179731/e8d6433d4b52e00ffc332c4de47a3e2b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2596b6894/92179731/2596b6894667f21f04b1ee518360e3ad.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f03d21f35/92179731/f03d21f35f407088615673086f56ea82.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e3bf44458/92179731/e3bf44458023ec3c3df96ee0610cb78f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/889eae98a/92179731/889eae98a1c819c6ed7715b8eaf279de.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f4a52d03b/92179731/f4a52d03b62d577238d0658de28adb26.jpeg",
+  "https://media.rightmove.co.uk/property-photo/01b1ba18f/92179731/01b1ba18f3f8800a0991fbdc56f63ccb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2f884059c/92179731/2f884059cd0038ddf2aa74cbf49072e1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/df8297e7e/92179731/df8297e7e50f889b6f799ba90a4a7f80.jpeg"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Milton Keynes Central Station",
+   "miles": 0.5036344828414955,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Wolverton Station",
+   "miles": 2.389186364680021,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bletchley Station",
+   "miles": 3.3603106931610855,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Urban & Rural Property Services, Milton Keynes",
+ "city": "Milton Keynes",
+ "sourceOutcode": "MK9",
+ "scrapedAt": "2026-08-31T15:02:45.412Z"
+}

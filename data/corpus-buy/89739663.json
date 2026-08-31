@@ -1,0 +1,78 @@
+{
+ "id": "89739663",
+ "mode": "buy",
+ "displayAddress": "Alexandra Road, London, N8",
+ "outcode": "N8",
+ "incode": "0PP",
+ "latitude": 51.590848,
+ "longitude": -0.108083,
+ "priceAmount": 570000,
+ "priceLabel": "£570,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89739663",
+ "area": "London",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 989,
+  "annualGroundRent": 100,
+  "annualServiceCharge": null,
+  "councilTaxBand": "C",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "OFFERS ARE INVITED ON THIS SPACIOUS THREE BEDROOM FIRST FLOOR CONVERTED FLAT WITH OWN SECTION OF GARDEN. Situated within walking distance to Wood Green and Turnpike Lane Underground stations and all the local shops, restaurants and transport links we are pleased to offer for sale this property that benefits from a large open plan modern kitchen lounge, two good size double bedrooms ( one with an ensuite), a good size single bedroom and family bathroom. The property also benefits from its own garden at the rear that is accessed by the side of the building.\nAt the front there is off street parking for one car. \nTO BE SOLD CHAIN FREE WITH APPROX. 989 YEAR LEASE",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/b7a8d7804/89739663/b7a8d78044cb4fedbab1b0601b40d91d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/23a9d28b3/89739663/23a9d28b3bc94d006a105284205129e3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7350fff72/89739663/7350fff720f89c1ecf78bb7eca02c5a7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb37ec740/89739663/bb37ec74017cd4f9cc256df965abe740.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b7b90a0cb/89739663/b7b90a0cb93d1d1a79b63504fd255d3f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/60522afb7/89739663/60522afb7382c46f4a2f253e715841ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/20bb5bdde/89739663/20bb5bddebf8df6b338785df0e563a51.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eaba29ec2/89739663/eaba29ec21117c8cad5bcaf41e4354ee.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bd6d322bd/89739663/bd6d322bd1fc7893039a127717156386.jpeg",
+  "https://media.rightmove.co.uk/property-photo/63c936297/89739663/63c9362979cb5b7c5f026662314991b3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9a7b1474f/89739663/9a7b1474fb014c2b883f6226a9b4829e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7a61d2d4b/89739663/7a61d2d4b5f67b5431a4cb84d49b2fe4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c0a8a6db3/89739663/c0a8a6db38ad56655a310a476654e0d2.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Turnpike Lane Station",
+   "miles": 0.2334464987745659,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Hornsey Station",
+   "miles": 0.3500174517493831,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Wood Green Station",
+   "miles": 0.448928987044073,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "Ellis & Co, Bounds Green",
+ "city": "London",
+ "sourceOutcode": "N8",
+ "scrapedAt": "2026-08-31T16:59:26.305Z"
+}

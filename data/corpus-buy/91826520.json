@@ -1,0 +1,86 @@
+{
+ "id": "91826520",
+ "mode": "buy",
+ "displayAddress": "Phoebe Road, Swansea, SA1",
+ "outcode": "SA1",
+ "incode": "7FZ",
+ "latitude": 51.64125,
+ "longitude": -3.93067,
+ "priceAmount": 90000,
+ "priceLabel": "£90,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91826520",
+ "area": "Swansea",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 0,
+  "councilTaxBand": "C",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 01/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "One-Bedroom Apartment with Balcony – Popular Copper Quarter Development\n\nBelvoir are delighted to present this well-maintained one-bedroom apartment, ideally located within the highly sought-after Copper Quarter development. The property is currently tenanted, making it an excellent opportunity for investors, while also appealing to buyers looking for a future home.\n\nThe apartment features a bright and spacious open-plan living and dining area, a modern fitted kitchen, a generous double bedroom, and a contemporary bathroom. A private balcony overlooks attractive green surroundings, creating a peaceful outdoor space to relax and enjoy.\n\nFurther benefits include an allocated parking space, with ample visitor and on-street parking available throughout the development. The building also benefits from a valid EWS1 certificate, offering added reassurance for prospective purchasers.\n\nSituated within this popular riverside development, residents can enjoy scenic walks along the river while being just moments from local shops, cafés, and other everyday amenities. The property also offers excellent transport links, with easy access to Swansea City Centre, the M4 motorway, and surrounding areas.\n\nThe property is currently let at £750 per calendar month, offering an immediate income for investors. Buyers intending to occupy the property themselves are advised to discuss the current tenancy with the selling agent.\n\nThis is a fantastic opportunity to acquire a well-presented apartment in a desirable location. Early viewing is highly recommended—contact Belvoir today to arrange an appointment.\n\n EPC rating: C. Tenure: Leasehold,",
+ "keyFeatures": [
+  "One Bedroom Apartment",
+  "Open Planned Living Space",
+  "Three Piece Bathroom Suite",
+  "Balcony With River View",
+  "Allocated Parking",
+  "Tenant In Sit"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/51d2d0a52/91826520/51d2d0a529cab690a5f1c321eaf1a272.jpeg",
+  "https://media.rightmove.co.uk/property-photo/560463f31/91826520/560463f31846c1a3f83d41f127160234.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7defc3f9e/91826520/7defc3f9ee35f84026353d9a757cfc35.jpeg",
+  "https://media.rightmove.co.uk/property-photo/78e6ba8e2/91826520/78e6ba8e2095583f4e4a1a7940bf178a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/812210158/91826520/812210158e6fcdccb3bf96433dd152ca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/562987431/91826520/5629874314d2e7b9549d7c8d9d19ad44.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7be0e02b9/91826520/7be0e02b929b24f8c4441f50ef85ee5f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/55872a0d1/91826520/55872a0d1a957d2f4f79f346759194dd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2c5e18a0e/91826520/2c5e18a0e936169a32d4a6bec6304a2d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d671046b0/91826520/d671046b07ea80a7bfb7458f806fb3ce.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e5cb39777/91826520/e5cb3977795303c8093684cd7db081d6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/79c34521f/91826520/79c34521f7291af6db21b09cb8c9d8b2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d65392f86/91826520/d65392f865c7db731b96c5f312bfc6bc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/858d7a4f2/91826520/858d7a4f2773cb2ff8012df0655b7263.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Swansea Station",
+   "miles": 1.1925002472390493,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Llansamlet Station",
+   "miles": 2.414806076825815,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Skewen Station",
+   "miles": 3.8708897462604277,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Belvoir, Mumbles",
+ "city": "Swansea",
+ "sourceOutcode": "SA1",
+ "scrapedAt": "2026-08-31T14:58:09.664Z"
+}

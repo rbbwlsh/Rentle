@@ -1,0 +1,99 @@
+{
+ "id": "162257162",
+ "mode": "buy",
+ "displayAddress": "Armory Lane, Old Portsmouth",
+ "outcode": "PO1",
+ "incode": "2PF",
+ "latitude": 50.793522,
+ "longitude": -1.101976,
+ "priceAmount": 227500,
+ "priceLabel": "£227,500",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/162257162",
+ "area": "Old Portsmouth",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Ground Flat",
+ "details": {
+  "propertyType": "Ground Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 27/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "We are delighted to offer for sale this spacious one bedroom ground floor apartment, which is being offered with no forward chain, a private garden and an allocated parking space. Located in Armory Lane, Old Portsmouth, this home is just a short walk from Guwharf Quays with excellent transport links to London. Internally the accommodation comprises, one double bedroom, spacious bathroom, living room and a fitted kitchen. The property further benefits from gas central heating and double glazing. Discerning purchasers are strongly recommended to put forward the earliest of enquiries to avoid disappointment.",
+ "keyFeatures": [
+  "One Bedroom Ground Floor Apartment",
+  "Requested Old Portsmouth Location",
+  "Allocated Parking Space",
+  "Spacious Living Room &amp; Fitted Kitchen",
+  "Recently Re-Fitted Bathroom",
+  "Enclosed Private Front Garden",
+  "Offered with No Forward Chain",
+  "Viewing Advised!"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/30cb1afdf/162257162/30cb1afdff5ec4ef32c131c414ac4796.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f90aaa76/162257162/5f90aaa765113e5a17bf61f923d0a8ba.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aabd29587/162257162/aabd29587d3286a1f3793fb0035a645b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/372642811/162257162/372642811651294640fc2fdb27ec101d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c5eb15aff/162257162/c5eb15aff281e3688743872406e65138.jpeg",
+  "https://media.rightmove.co.uk/property-photo/344c0f7fc/162257162/344c0f7fc9f31e500f589838bfd6d3b6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1ee71aedf/162257162/1ee71aedf58766c74827854f77800d5a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e2dda0299/162257162/e2dda0299ab4be30fff0c79f4ba7e2fe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/60b94175b/162257162/60b94175ba7a003d8eaf22865b8dc5c8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3970e50d8/162257162/3970e50d8c29503ffa19c8747f8eb31f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eb943c2ef/162257162/eb943c2ef5c9f49218f29695970aa4f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c6efd2a2f/162257162/c6efd2a2f8a08c5b4065ae925116722f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/14799b3bf/162257162/14799b3bfe5b9585e9d3c268caca749a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/19f78332c/162257162/19f78332c43100b807ed173012d9dbf6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3535412d5/162257162/3535412d5484b1ada26bad3b62b7b334.jpeg",
+  "https://media.rightmove.co.uk/property-photo/076f40974/162257162/076f40974b75fb61d2d9d45f0a1b74e2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/afda95d9c/162257162/afda95d9cc449d7bb75b9f627108a913.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8e48b58a9/162257162/8e48b58a94f9afbde55be1d23a38af15.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b11d1c944/162257162/b11d1c94430d0769cdf9869c37a8c947.jpeg",
+  "https://media.rightmove.co.uk/property-photo/91621de01/162257162/91621de01b4f32065e906e7a1b594850.jpeg",
+  "https://media.rightmove.co.uk/property-photo/487c1d593/162257162/487c1d593f1826df79ea7f3c56237c59.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ed5b68602/162257162/ed5b686026bc8bed2fbfcf2861b7a2e1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/76d6058ef/162257162/76d6058ef2dbf43a731234cba3125c02.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cd4a24c08/162257162/cd4a24c08425e3b5b086185d68cba2df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/38307bb9b/162257162/38307bb9b6bdcf815e962b81c2bced14.jpeg"
+ ],
+ "imageCount": 25,
+ "nearestStations": [
+  {
+   "name": "Portsmouth Harbour Station",
+   "miles": 0.3381921330966863,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Portsmouth & Southsea Station",
+   "miles": 0.6106720650300194,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Fratton Station",
+   "miles": 1.2412048974165977,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Fry & Kent, Southsea",
+ "city": "Portsmouth",
+ "sourceOutcode": "PO1",
+ "scrapedAt": "2026-08-31T14:57:38.282Z"
+}

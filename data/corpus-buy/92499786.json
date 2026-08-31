@@ -1,0 +1,86 @@
+{
+ "id": "92499786",
+ "mode": "buy",
+ "displayAddress": "Midsummer Boulevard, Milton Keynes",
+ "outcode": "MK9",
+ "incode": "1FP",
+ "latitude": 52.038033,
+ "longitude": -0.767364,
+ "priceAmount": 240000,
+ "priceLabel": "£240,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92499786",
+ "area": "Milton Keynes",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": 2000,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A sophisticated first-floor apartment offering contemporary luxury, exceptional convenience and a truly enviable central Milton Keynes lifestyle. Set within the newly built Tempus House on the prestigious Midsummer Boulevard, this beautifully presented one-bedroom apartment combines a high-quality specification with a superb city-centre location, making it an outstanding choice for professionals, first-time buyers and investors alike.\n\nPositioned in the heart of Milton Keynes, the property places you within easy walking distance of Centre, an extensive selection of restaurants, cafés, bars and leisure facilities, while Milton Keynes Central railway station is also easily accessible, providing excellent connections for commuters and those looking to enjoy everything the city has to offer.\n\nStepping inside, the apartment immediately impresses with its stylish, contemporary finish and abundance of natural light. The heart of the home is the impressive open-plan kitchen, living and dining space, creating a wonderfully sociable environment that is equally suited to relaxing at home or entertaining guests.\n\nThe bespoke-style kitchen has been thoughtfully designed with dusk grey Lucent high-gloss handleless cabinetry, premium quartz worktops and fully integrated appliances, delivering a sleek and luxurious aesthetic. Scratch-resistant engineered wood flooring flows throughout the main living area, enhancing the sense of quality and creating a seamless modern finish.\n\nThe generous double bedroom provides a peaceful and beautifully finished space, while the luxurious bathroom continues the apartment's contemporary theme. Fully tiled from floor to ceiling, it features a modern suite, large illuminated wall mirror and heated towel rail, creating a stylish space with a touch of hotel-inspired luxury.\n\nThe apartment further benefits from a secure video intercom entry system, modern communal areas and the significant advantage of one allocated parking space — an increasingly desirable feature for central Milton Keynes living.\n\nOffered chain free and fully furnished, this is a genuine turnkey opportunity for anyone looking to enjoy a low-maintenance lifestyle in one of the city's most convenient locations. Whether you're searching for your first home, a sophisticated city base or a strong investment opportunity, Tempus House offers an impressive combination of modern luxury, convenience and connectivity.\n\nEPC Rating: B\nParking: Allocated parking space\nService Charge: Approximately £2,000 per annum",
+ "keyFeatures": [
+  "Luxury first-floor one-bedroom apartment in the newly built Tempus House",
+  "Prime central Milton Keynes location on Midsummer Boulevard",
+  "Stylish open-plan kitchen, living &amp; dining area with abundant natural light",
+  "High-specification kitchen with quartz worktops, integrated appliances and dusk grey high-gloss cabinetry",
+  "Allocated parking space with secure video intercom entry",
+  "Chain free &amp; fully furnished – ideal for first-time buyers, professionals or investors"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/360084492/92499786/360084492054a039170972b479f40c22.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dc8da9e3e/92499786/dc8da9e3e0bdca3ecb9a3e895d846e98.jpeg",
+  "https://media.rightmove.co.uk/property-photo/da93c9aca/92499786/da93c9aca70bba184de0b959e4313668.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa87c0fe3/92499786/aa87c0fe32cf594154efdaeabb8a03c1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7687f85dc/92499786/7687f85dc8c86e85dbffbf18ee3fab7c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6619e9267/92499786/6619e926759e6218d3b23183d9eeb51d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8f6172840/92499786/8f6172840a38c8cf3a90fe0ec09438e2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/91985a934/92499786/91985a9348ba704daed9774f10d48e9e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d58989a19/92499786/d58989a19bde49ead9cc4ff9ffb29e89.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c05a228ad/92499786/c05a228ad24e5e9dafb79812c323a59e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a2dbefbe6/92499786/a2dbefbe67692816aec45952a3dc6113.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1e5965c63/92499786/1e5965c6341fd2410bd7525b6e409620.jpeg",
+  "https://media.rightmove.co.uk/property-photo/36504b5e6/92499786/36504b5e63a12eb41fe5fba4bc0a3f9b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ab3ed0799/92499786/ab3ed07990ea9a8da1590e3082c93b42.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Milton Keynes Central Station",
+   "miles": 0.3389710314657369,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Wolverton Station",
+   "miles": 2.4363500600831896,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bletchley Station",
+   "miles": 3.2649279908932236,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "haart, Milton Keynes",
+ "city": "Milton Keynes",
+ "sourceOutcode": "MK9",
+ "scrapedAt": "2026-08-31T14:57:54.267Z"
+}

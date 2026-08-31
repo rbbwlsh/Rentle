@@ -1,0 +1,75 @@
+{
+ "id": "92500707",
+ "mode": "buy",
+ "displayAddress": "Newtown Close, Exeter, Devon, EX1",
+ "outcode": "EX1",
+ "incode": "2EU",
+ "latitude": 50.72628,
+ "longitude": -3.51829,
+ "priceAmount": 150000,
+ "priceLabel": "£150,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92500707",
+ "area": "Exeter, Devon",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 88,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Being sold with no onward chain is this two bedroom first floor apartment in Newtown, only a short walk to the City Centre, RD&E, local shops and much more. \n\nComprising of a light and airy living/dining room, good size separate kitchen, two double bedrooms and bathroom. There is also ample storage throughout. \n\nThe property is in need of some modernisation but would make a fantastic first time buy or investment opportunity. \n\nContact us now for more information and to arrange a viewing on  .",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1c65576a1/92500707/1c65576a1cd70f2c904d4b96de45441c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d2a38e55a/92500707/d2a38e55a775c1ccc47e307ce34e968a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9bb612504/92500707/9bb612504e49ad10748c722bab7bac1d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1467b3692/92500707/1467b36924af36746d9aa014a45edb46.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cd6bfcb43/92500707/cd6bfcb43e9321e371b4592f84c2448c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4d1382e93/92500707/4d1382e93b8808ae5a0538b8ad96133e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fa9ecc43e/92500707/fa9ecc43e262359d1b83ff2dbd35390f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0b680bb20/92500707/0b680bb20f6e1cc24e4d435cd50b1042.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c1f8db8f2/92500707/c1f8db8f2e9b43c07f34dab55f435ac3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0959d75e3/92500707/0959d75e33c7b097b8bf9656d7c820d6.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "St James Park Station",
+   "miles": 0.34605167904343426,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Exeter Central Station",
+   "miles": 0.6481892184449406,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Polsloe Bridge Station",
+   "miles": 0.799997875859251,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Fulfords, Exeter (City Centre)",
+ "city": "Exeter",
+ "sourceOutcode": "EX1",
+ "scrapedAt": "2026-08-31T15:01:41.209Z"
+}

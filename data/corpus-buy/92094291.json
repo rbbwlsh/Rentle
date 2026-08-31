@@ -1,0 +1,83 @@
+{
+ "id": "92094291",
+ "mode": "buy",
+ "displayAddress": "67 Morrison Drive, Garthdee, Aberdeen, AB10 7EA",
+ "outcode": "AB10",
+ "incode": "7EA",
+ "latitude": 57.123527,
+ "longitude": -2.14268,
+ "priceAmount": 65000,
+ "priceLabel": "£65,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92094291",
+ "area": "Garthdee, Aberdeen",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 624,
+  "sizeSqM": 58,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 17/08/2026"
+ },
+ "sizeSqFt": 624,
+ "sizeSqM": 58,
+ "description": "Bright & spacious two-bedroom first floor flat with balcony, park views and excellent investment potential.\n\n\rForming part of a well-maintained six-flatted apartment block in the sought-after district of Garthdee, this bright, spacious, and well-presented two-bedroom first floor flat is offered for sale.\nEnjoying a convenient location within easy walking distance of Robert Gordon University’s Garthdee Campus, the property is ideally placed for students, professionals, and families alike. The building benefits from a secure telephone entry system, attractive communal hallways and stairwells, and large windows on the half-landings which allow an abundance of natural light to flood the common areas. The mutual areas are professionally maintained under contract for a monthly fee, which also includes buildings insurance.\n\nThis property represents an excellent opportunity for first-time buyers seeking an affordable home, as well as investors looking to expand their rental portfolio.\n\nThe welcoming entrance hall features two full-length storage cupboards, providing excellent practical storage space. The bright and generously proportioned lounge enjoys a dual aspect to the front and offers ample room for a variety of freestanding furnishings. The kitchen is fitted with a good range of base and wall-mounted units. There are two well-proportioned double bedrooms, both decorated in light, neutral tones and benefiting from built-in wardrobes.  Completing the accommodation is the bathroom.\n\nThe property has been has been successfully let for several years, making it an attractive option for both owner-occupiers and buy-to-let investors. Early viewing is highly recommended.\n\nLocation\n\nGarthdee is a highly desirable residential area offering an excellent range of amenities and recreational facilities. Sports enthusiasts are well catered for with nearby facilities including the Robert Gordon’s University Sports Centre, David Lloyd Aberdeen Tennis & Health Club, and the Garthdee Sports Centre and Alpine Adventure Park. The former Deeside Railway Line offers scenic routes for walking, running, and cycling.\nFor everyday shopping, the nearby Bridge of Dee Retail Park provides a wide selection of national retailers, including two major supermarkets. The area is also served by a medical centre, library, local convenience stores, and excellent public transport links to Aberdeen city centre and surrounding areas.\n\nFixtures and Fittings\n\nAll blinds, light fittings, and integrated appliances will remain. All of the furniture will remain, the property will be sold as seen.\n\nViewing Details\n\nBy appointment contact Simpson & Marwick.",
+ "keyFeatures": [
+  "Spacious first floor flat within a well-maintained six-flatted block",
+  "Sought-after Garthdee location close to Robert Gordon University",
+  "Secure telephone entry system",
+  "Bright dual-aspect lounge",
+  "Two generous double bedrooms with fitted wardrobes",
+  "Bathroom with shower over bath and heated towel rail",
+  "Well-maintained communal areas with buildings insurance included in factoring fee",
+  "Strong rental history offering excellent investment appeal"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1d02c081e/92094291/1d02c081e67625afd0190b92726ead35.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5313d2a73/92094291/5313d2a7341ecb7ece2dbce03e76c283.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cb2c2e629/92094291/cb2c2e629e7f651fb259eff1dad8d4a0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b687f0a29/92094291/b687f0a29ab4e905a156ce49a65c1039.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0f1adfa1f/92094291/0f1adfa1f62f1cce919d99da77883a9d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4482a4876/92094291/4482a487606b76be086cab730b905748.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e235fc880/92094291/e235fc880b47cc5cc4b0845cf9c6ea89.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bfa0625bd/92094291/bfa0625bdcfb898de14ca9da68995a7c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c173747d7/92094291/c173747d7c361eca89324ea2ae9ed2da.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fb40ab365/92094291/fb40ab36577c883ff34c869989549da1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/74b979e15/92094291/74b979e1541c59dfd1ecd22d0bfd7629.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4c01498d0/92094291/4c01498d07e4e0fbcbd4cbbd357e1b37.jpeg",
+  "https://media.rightmove.co.uk/property-photo/19f770d00/92094291/19f770d00b9cad9d6eae885f91bce892.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6fe64a4e8/92094291/6fe64a4e89a6bca629f8aef2fcc19e5d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3edd49573/92094291/3edd49573199e2a1043a9f1043dd175c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/120af24cc/92094291/120af24cc13b4774b6cd29789cfe0a5b.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Aberdeen Station",
+   "miles": 2.1622453279664313,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Portlethen Station",
+   "miles": 4.372712414470967,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Simpson & Marwick, Aberdeen",
+ "city": "Aberdeen",
+ "sourceOutcode": "AB10",
+ "scrapedAt": "2026-08-31T15:03:14.533Z"
+}

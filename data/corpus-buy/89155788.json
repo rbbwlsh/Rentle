@@ -1,0 +1,85 @@
+{
+ "id": "89155788",
+ "mode": "buy",
+ "displayAddress": "Peckham Hill Street, London",
+ "outcode": "SE15",
+ "incode": "5JT",
+ "latitude": 51.475178,
+ "longitude": -0.069312,
+ "priceAmount": 250000,
+ "priceLabel": "£250,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89155788",
+ "area": "London",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 101,
+  "annualGroundRent": 250,
+  "annualServiceCharge": 2000,
+  "councilTaxBand": "B",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 01/06/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "SUMMARY\n**ONE BEDROOM GEORGIAN CONVERSION UPPER-GROUND FLOOR FLAT - IDEAL FOR FIRST TIME BUYERS**\n\nThe property briefly comprises of an entrance hall, OPEN PLAN LIVING/KITCHEN ROOM, bedroom & a bathroom.\n\nDESCRIPTION\nBarnard Marcus are delighted to bring to market this immaculately presented ONE BEDROOM GEORGIAN CONVERSION UPPER-GROUND FLOOR FLAT ideally situated within short distances of both PECKHAM RYE & QUEENS ROAD STATIONS which offer services in LONDON BRIDGE, VICTORIA, BLACKFRIARS, ST PANCRAS, CANADA WATER & CLAPHAM JUNCTION all in UNDER 30 MINUTES!\n\nThe property briefly comprises of an entrance hall, OPEN PLAN LIVING/KITCHEN ROOM, bedroom & a bathroom.\n\nThis property located on Peckham Hill Street, offers first-time buyers an enviable base in the heart of South East London. Commuting is seamless, with Peckham Rye Station and Queens Road Peckham Station situated a short walk away, offering Overground and National Rail services that connect to London Bridge in around ten minutes. Buyers will love the vibrant local culture right on their doorstep. The bustling hub of Rye Lane and Bellenden Road are packed with independent cafes, eclectic bars, and the famous Bussey Building. Additionally, the green open spaces of Peckham Rye Common provide a perfect weekend retreat.\n\nPlease note that an AML fee is chargeable to the buyer once an offer is accepted to cover the cost of carrying out the required identity and anti-money laundering checks. Once these checks have been completed, the fee cannot be refunded, even if the property purchase does not go ahead.\n\nEntrance Hall \n\nLiving Room 13'  x 11' 1\" ( 3.96m x 3.38m )\n\nKitchen 13'  x 5' 2\" ( 3.96m x 1.57m )\n\nBedroom One 9' 8\" x 5' 9\" ( 2.95m x 1.75m )\n\nBathroom \n\nWe currently hold lease details as displayed above, should you require further information please contact the branch.  Please note additional fees could be incurred for items such as leasehold packs.\n\n1. MONEY LAUNDERING REGULATIONS: Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale.\r\n2. General: While we endeavour to make our sales particulars fair, accurate and reliable, they are only a general guide to the property and, accordingly, if there is any point which is of particular importance to you, please contact the office and we will be pleased to check the position for you, especially if you are contemplating travelling some distance to view the property.\r\n3. The measurements indicated are supplied for guidance only and as such must be considered incorrect.\r\n4. Services: Please note we have not tested the services or any of the equipment or appliances in this property, accordingly we strongly advise prospective buyers to commission their own survey or service reports before finalising their offer to purchase.\r\n5. THESE PARTICULARS ARE ISSUED IN GOOD FAITH BUT DO NOT CONSTITUTE REPRESENTATIONS OF FACT OR FORM PART OF ANY OFFER OR CONTRACT. THE MATTERS REFERRED TO IN THESE PARTICULARS SHOULD BE INDEPENDENTLY VERIFIED BY PROSPECTIVE BUYERS OR TENANTS. NEITHER SEQUENCE (UK) LIMITED NOR ANY OF ITS EMPLOYEES OR AGENTS HAS ANY AUTHORITY TO MAKE OR GIVE ANY REPRESENTATION OR WARRANTY WHATEVER IN RELATION TO THIS PROPERTY.",
+ "keyFeatures": [
+  "ONE BEDROOM UPPER-GROUND FLOOR FLAT",
+  "SHARED OFF-STREET PARKING",
+  "LONG LEASEHOLD",
+  "WALKING DISTANCE TO PECKHAM RYE &amp; QUEENS ROAD STATION",
+  "PRIME SE15 LOCATION",
+  "IDEAL FOR FIRST TIME BUYERS",
+  "CLOSE TO BELLENDEN ROAD AMENITIES",
+  "APPROXIMATELY 320 SQ. FT. OF ACCOMMODATION"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/7ce99a9f7/89155788/7ce99a9f7335bcedccddeb0671088319.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cb5116188/89155788/cb51161882f5a9c4b9c0b972f2cf54c9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0cb82d3f4/89155788/0cb82d3f445abee74ad5897974cb755d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a878a9857/89155788/a878a9857656104bd086d4060059a617.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7882ad365/89155788/7882ad3653adf4056f557ba42392b22f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/08d842c9e/89155788/08d842c9ee8633c4405a6098a54a6c72.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c6f286a62/89155788/c6f286a6245391e9154f0baae168938e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/15835cfa0/89155788/15835cfa09e65890859861888253c6cf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bc44cde64/89155788/bc44cde64a11fdad053db34780b85717.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7a334e567/89155788/7a334e567bb53834ec764309b84e8893.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Peckham Rye Station",
+   "miles": 0.3686768251338487,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Queens Road Peckham Station",
+   "miles": 0.530375035480682,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Nunhead Station",
+   "miles": 0.9061464709275142,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Barnard Marcus, Peckham",
+ "city": "London",
+ "sourceOutcode": "SE15",
+ "scrapedAt": "2026-08-31T16:57:07.688Z"
+}

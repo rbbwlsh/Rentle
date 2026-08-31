@@ -1,0 +1,92 @@
+{
+ "id": "144922913",
+ "mode": "buy",
+ "displayAddress": "Adelphi Court, Manor Road, Bournemouth, Dorset, BH1",
+ "outcode": "BH1",
+ "incode": "3JD",
+ "latitude": 50.7221,
+ "longitude": -1.85051,
+ "priceAmount": 220000,
+ "priceLabel": "£220,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/144922913",
+ "area": "Bournemouth, Dorset",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 839,
+  "sizeSqM": 78,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 103,
+  "annualGroundRent": 125,
+  "annualServiceCharge": 1943,
+  "councilTaxBand": "C",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": 839,
+ "sizeSqM": 78,
+ "description": "Avenue Estates are delighted to present this TWO DOUBLE BEDROOM second floor apartment situated in a PRESTIGIOUS BLOCK within WALKING DISTANCE OF BOURNEMOUTH BEACH. This impressive apartment boasts ALLOCATED PARKING, an EN-SUITE SHOWER ROOM, and is offered with NO FORWARD CHAIN.\n\nAccommodation is spacious, well proportioned and bright throughout and comprises a large inviting entrance hall with multiple fitted storage cupboards, a modern fitted kitchen with integrated appliances, a family bathroom, a primary bedroom with fitted wardrobe space and an en-suite shower room, a further double bedroom also benefitting from fitted wardrobe space, and an impressive central living room with double doors looking out over the Juliet balcony. \n\nAdelphi Court boasts evident curb appeal with a well maintained frontage and block paved parking area of which the apartment benefits from an allocated space. The block offers a lift to all floors which can be accessed via the well maintained lobby with an impressive vaulted ceiling and seating area.\n\nLeasehold with approximately 103 years remaining\nService Charge of £1,943 per annum\nGround Rent of £125 per annum\n\nContact Avenue Estates today to arrange your viewing of this superb apartment!\n\nFor early access to upcoming property, follow Avenue Estates on Facebook & Instagram today!",
+ "keyFeatures": [
+  "Two Double Bedroom Second Floor Apartment",
+  "En-Suite Bathroom &amp; Family Bathroom",
+  "Offered With No Forwards Chain",
+  "Situated In A Modern Purpose Built Block",
+  "Within Walking Distance Of Bournemouth Beach",
+  "Juliet Balcony",
+  "Impressive Communal Lobby With A Lift To All Floors",
+  "An Ideal Second Home Purchase Or First Time Buy",
+  "Superb Location Close To Bournemouth Town Centre",
+  "Contact Avenue Estates To Arrange Your Viewing Today!"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/158804089/144922913/1588040899afe1c04c8f27c107f7bf32.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b927ec1c4/144922913/b927ec1c4400b86939ce4b5b5d89e657.jpeg",
+  "https://media.rightmove.co.uk/property-photo/55f8cb05f/144922913/55f8cb05f2d1127c256e745181d0feae.jpeg",
+  "https://media.rightmove.co.uk/property-photo/27db35e45/144922913/27db35e457999e41dc560ab0045c4ce6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9e4828396/144922913/9e48283964194afcd423362a04185210.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a58985573/144922913/a58985573934dc4d350a8989c5177841.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4b9749744/144922913/4b9749744c0d1d9283c45cfa18cac2fc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fa0deaf72/144922913/fa0deaf72d2a3d2707ad1f1fccf9a04b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/da6810be7/144922913/da6810be70888b3e68400e1345b43e85.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8d885cc09/144922913/8d885cc09e141d90d06314fbc0fbf58d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a10c9bee6/144922913/a10c9bee6a8ae77e3a62f1200bd67d27.jpeg",
+  "https://media.rightmove.co.uk/property-photo/50ba5854f/144922913/50ba5854f093f83fef5b92f856cda211.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6492e3a13/144922913/6492e3a1396eebcd71cbd6e0a16e48f1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0dab4a48a/144922913/0dab4a48a3c4d85b0336d0a870611fcd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f3547979c/144922913/f3547979cf7c11fef94ee6e1fdb2bbbc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f65c02de5/144922913/f65c02de56dbd906e71fe0fe4cb50e75.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Bournemouth Station",
+   "miles": 0.7214441336695713,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Pokesdown Station",
+   "miles": 1.268227331985357,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Branksome Station",
+   "miles": 3.0349833185707076,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Avenue Estates, Bournemouth",
+ "city": "Bournemouth",
+ "sourceOutcode": "BH1",
+ "scrapedAt": "2026-08-31T15:01:51.173Z"
+}

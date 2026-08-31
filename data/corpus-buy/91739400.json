@@ -1,0 +1,85 @@
+{
+ "id": "91739400",
+ "mode": "buy",
+ "displayAddress": "Gloucester Terrace, London",
+ "outcode": "W2",
+ "incode": "6HT",
+ "latitude": 51.518337,
+ "longitude": -0.185445,
+ "priceAmount": 500000,
+ "priceLabel": "£500,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91739400",
+ "area": "London",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 481,
+  "sizeSqM": 45,
+  "tenureType": "SHARE_OF_FREEHOLD",
+  "yearsRemainingOnLease": 982,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "D",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 20/08/2026"
+ },
+ "sizeSqFt": 481,
+ "sizeSqM": 45,
+ "description": "A beautifully presented first floor apartment with a private balcony, ideally positioned, just moments from Hyde Park and the vibrant neighbourhoods of Notting Hill and Little Venice.\n\nFlooded with natural light, the apartment features impressive floor-to-ceiling windows, elegant high ceilings and attractive wood flooring throughout, creating a bright and spacious feel.\n\nOffered with share of freehold and a lease of over 980 years, the property also benefits from the freeholders’ joint ownership of a substantial basement storage area. Subject to the necessary planning permissions and consents, this space may offer future development potential, including the creation of a separate lease.\n\nThe building has recently undergone refurbishment to both its façade and communal areas and is professionally managed by an established and highly regarded managing agent, allowing owners to enjoy the benefits of share of freehold ownership without the burden of day-to-day management.\n\nPerfectly located within approximately ten minutes’ walk of Paddington, Royal Oak and Bayswater stations, the apartment enjoys exceptional transport connections via the Elizabeth line, Heathrow Express, National Rail and multiple Underground lines, providing fast access across London and beyond.\n\nSurrounded by an outstanding choice of cafés, restaurants, independent boutiques and green open spaces, this is an exceptional home or investment in one of central London’s most desirable locations.",
+ "keyFeatures": [
+  "Period Conversion",
+  "Private Balcony",
+  "Bright first floor apartment with impressive floor-to-ceiling windows, high ceilings and wood flooring throughout.",
+  "Recently refurbished façade and communal areas, giving buyers confidence that significant works have already been completed.",
+  "The freeholders jointly own the basement storage area. This provides valuable additional storage and, subject to the necessary planning permissions and consents, may offer future (truncated)",
+  "The building is professionally managed by an established and well-respected property management company (Raglan), meaning owners would benefit from the advantages of a share of freehold (truncated)",
+  "The outstanding location, with Hyde Park, Little Venice, Westbourne Grove and Notting Hill all within easy walking distance.",
+  "Excellent transport links, with Paddington, Royal Oak and Bayswater stations all around a ten-minute walk away, providing access to the Elizabeth line, Heathrow Express, National Rail and (truncated)",
+  "Resident Parking Subject to Council Regulations"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/41915ab7e/91739400/41915ab7e21c0fae9e793b2909f73478.jpeg",
+  "https://media.rightmove.co.uk/property-photo/72a9bbd89/91739400/72a9bbd898749aa57c3732bbccc65ee8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c1c6c0639/91739400/c1c6c0639e237ea99171c695b2de9113.jpeg",
+  "https://media.rightmove.co.uk/property-photo/22b18db06/91739400/22b18db068df926057f6a38756605983.jpeg",
+  "https://media.rightmove.co.uk/property-photo/067035060/91739400/0670350606eafd4ec74260d0d391ccc7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f70d2c907/91739400/f70d2c9072bd0a1ac0d6b9e46601891c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ab55b71a3/91739400/ab55b71a3df91f41e430f3c6102eb54b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/16f95e652/91739400/16f95e65214700f8713b909c3efc8f3d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e0c24889d/91739400/e0c24889d535d45d2d4fb44e7c12bf5f.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Royal Oak Station",
+   "miles": 0.12966689510607401,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Paddington Station",
+   "miles": 0.31219530366994236,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Warwick Avenue Station",
+   "miles": 0.36481544425678203,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "Chancellors, Notting Hill",
+ "city": "London",
+ "sourceOutcode": "W2",
+ "scrapedAt": "2026-08-31T16:58:54.667Z"
+}

@@ -1,0 +1,91 @@
+{
+ "id": "172189667",
+ "mode": "buy",
+ "displayAddress": "Mandale House, Bailey Street, Sheffield",
+ "outcode": "S1",
+ "incode": "4AB",
+ "latitude": 53.382755,
+ "longitude": -1.474887,
+ "priceAmount": 100000,
+ "priceLabel": "£100,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/172189667",
+ "area": "Mandale House, Sheffield",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 27/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Guide Price £100,000 - £110,000\r\n\r\nBeautifully presented modern two-bedroom second-floor apartment, ideally located in the heart of Sheffield city centre and within walking distance of Kelham Island. Perfect for first-time buyers or investors, this property offers light and airy contemporary accommodation within one of the city’s most popular districts along with secure under croft allocated parking. \r\n\r\nAccessed via a secure communal intercom entrance with stairs and lift to the second floor, the apartment opens into an inner hallway with useful storage housing the water tank. The kitchen is fitted with a range of matching units, contrasting worktops and integrated oven with electric hob, flowing through to a bright and spacious open-plan living and dining area. Generous windows flood the space with natural light and offer views over Bailey Street.\r\n\r\nThere are two well-proportioned double bedrooms, both presented in neutral modern décor with carpeting, and a partially tiled contemporary bathroom featuring a white suite, vanity hand wash basin, shower over bath and heated towel rail.\r\n\r\nExternally, residents benefit from a communal outdoor space accessed from Level 1. Secure fob-entry gates lead to allocated undercroft parking with internal access to Mandale House.\r\n\r\nMandale House is superbly positioned for enjoying everything Sheffield has to offer. Located in the city centre, it provides easy access to both universities, excellent transport links and the vibrant retail and leisure scene. Kelham Island, recently named by Time Out Magazine as one of the coolest neighbourhoods in the world,  is just a short walk away, offering an eclectic mix of independent bars, restaurants and cultural venues.",
+ "keyFeatures": [
+  "Superb Second Floor Apartment",
+  "2 Bedrooms &amp; Modern Bathroom",
+  "Located in Heart of City Centre",
+  "Walking Distance of Kelham Island",
+  "Stylish Modern Decor ",
+  "Communal Outdoor Space ",
+  "Secure Under Croft Allocated Parking",
+  "Leasehold 105 years from 2007 £385pa",
+  "Service Charge £2,245.50 - Y&amp;Y Management",
+  "Council Tax Band B, EPC Rating C"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d3f02fe11/172189667/d3f02fe118930ea6f72c21ee3a7f9aa3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fb2c05988/172189667/fb2c0598877c7485f3512318d130126a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bc0769aea/172189667/bc0769aea1e03b354af3e2c3000b7004.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fc12b026f/172189667/fc12b026f1fc43071509011b052de5a8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/803638833/172189667/8036388337d730048c3e99b8ba609cc6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/341854ac1/172189667/341854ac1582e77933d9adaeb19210a8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa460206e/172189667/aa460206e0e065d59fc1ea2c53dceb65.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ad39f2f88/172189667/ad39f2f889c7948910b91e2139ad7b54.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c2f50697a/172189667/c2f50697a67e64ed93bcaefc20503a2a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/96c186987/172189667/96c186987886110398b3627ac785a50a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/92fbd33d7/172189667/92fbd33d7d4252ca71cd6f6f7214c3ec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cbd0dcede/172189667/cbd0dcede708cc34c7c0b933fd3b0a9d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b8b86f933/172189667/b8b86f9333a1449e76a06ecc844b9cfd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2ac5aa46e/172189667/2ac5aa46ee3c53d1434ba28f69fce04b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d4df939b7/172189667/d4df939b780aef453d6fba8a94f5adf4.jpeg"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "City Hall Tram Stop",
+   "miles": 0.10839728390662115,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "West Street Tram Stop",
+   "miles": 0.19085570053045095,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Cathedral Tram Stop",
+   "miles": 0.23896450512148462,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "haus, Sheffield",
+ "city": "Sheffield",
+ "sourceOutcode": "S1",
+ "scrapedAt": "2026-08-31T16:55:39.268Z"
+}

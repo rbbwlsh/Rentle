@@ -1,0 +1,82 @@
+{
+ "id": "91423614",
+ "mode": "buy",
+ "displayAddress": "12 Princes Gardens, Dowanhill, G12",
+ "outcode": "G12",
+ "incode": "9HR",
+ "latitude": 55.876212,
+ "longitude": -4.304771,
+ "priceAmount": 135000,
+ "priceLabel": "£135,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91423614",
+ "area": "Dowanhill",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": 280,
+  "sizeSqM": 26,
+  "tenureType": null,
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 28/07/2026"
+ },
+ "sizeSqFt": 280,
+ "sizeSqM": 26,
+ "description": "Occupying a peaceful top floor position within one of Dowanhill's most admired addresses, this charming studio apartment presents a rare opportunity to acquire an affordable home in the heart of Glasgow's West End. Set within an elegant blonde sandstone townhouse and enjoying access to beautifully maintained residents' gardens, the property is perfectly suited to a range of buyers.\n\nAccessed via a well-maintained communal entrance, the flat offers cleverly designed accommodation that maximises both space and functionality. A welcoming entrance hallway leads through to the bright and versatile principal living area, where large dormer windows flood the room with natural light while providing attractive leafy views across the surrounding gardens. The flexible layout easily accommodates both living and sleeping areas, with excellent built-in wardrobe storage allowing the space to remain open and uncluttered.\n\nThe kitchen is fitted with a range of wall and base units, integrated oven and electric hob for day-to-day living, while the modern shower room is fitted with a contemporary white suite, corner shower enclosure and heated towel rail.\n\nFurther benefits include gas central heating, access to extensive residents' pleasure gardens, secure door entry and a highly desirable location within one of the West End's most prestigious conservation areas.\n\nPrinces Gardens is regarded as one of Dowanhill's finest addresses, renowned for its elegant Victorian architecture and exceptional central residents' gardens. The property is ideally positioned just a short walk from Byres Road, Hyndland Road and Partick, where an outstanding selection of cafés, restaurants and bars. The University of Glasgow, Botanic Gardens and Kelvingrove Park are all within easy reach, while Hillhead and Partick Subway Stations, Partick Railway Station and frequent bus services provide excellent transport links throughout Glasgow and beyond. \n\nWhilst every effort is made by Yates Hellier to ensure the accuracy of these details, it should be noted that measurements are approximate and all information including service charges, ground ownership and school catchment has been provided by the vendor and their accuracy cannot be guaranteed and should be verified through your solicitor and local council.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/0b911c46f/91423614/0b911c46f0edcd2de17c69c20f0988e6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/98295b294/91423614/98295b294ec106b5cefda3e1548b7006.jpeg",
+  "https://media.rightmove.co.uk/property-photo/39ae23a77/91423614/39ae23a77b1da4dee72bdef9b7be01b4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8bdd1c92d/91423614/8bdd1c92d99e1109c4f5b980fe00f5d5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0e755351c/91423614/0e755351c1a024874292f379b5fd3de4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0e1c183ee/91423614/0e1c183eefdfccd40c39521cf0670603.jpeg",
+  "https://media.rightmove.co.uk/property-photo/530cc2644/91423614/530cc2644ff241bdf4e8e4c834c2eea7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2ac518252/91423614/2ac5182525c29de59f9494b8259516f0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/192b2e855/91423614/192b2e855c288f64f42d0134e0c60acb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a3ec561f8/91423614/a3ec561f8d814dcdf23e22c51d727487.jpeg",
+  "https://media.rightmove.co.uk/property-photo/21dfda431/91423614/21dfda4313442c9af2fe254b84c22c2e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8848aeb52/91423614/8848aeb52659e0d06a56a56f53de9369.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d3f8f1efe/91423614/d3f8f1efef216a5f16e39175a4829c9c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7f0662040/91423614/7f066204003c987b431d07eb2571421b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/56d454a32/91423614/56d454a32f92f1e484c9179d31d4cf70.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2a602265d/91423614/2a602265d2d124c8a8ed079543873593.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dc0eb8f9a/91423614/dc0eb8f9aa9471331408e0daba88dc9b.jpeg"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "Kelvinhall Station",
+   "miles": 0.41398041998131085,
+   "types": [
+    "LIGHT_RAILWAY"
+   ]
+  },
+  {
+   "name": "Partick Station",
+   "miles": 0.42126791153481563,
+   "types": [
+    "LIGHT_RAILWAY"
+   ]
+  },
+  {
+   "name": "Partick Station",
+   "miles": 0.42126791153481563,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Yates Hellier, Glasgow",
+ "city": "Glasgow",
+ "sourceOutcode": "G12",
+ "scrapedAt": "2026-08-31T14:58:27.502Z"
+}

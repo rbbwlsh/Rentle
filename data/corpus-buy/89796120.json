@@ -1,0 +1,78 @@
+{
+ "id": "89796120",
+ "mode": "buy",
+ "displayAddress": "Borough Road, Sunderland, Tyne and Wear, SR1",
+ "outcode": "SR1",
+ "incode": "1HR",
+ "latitude": 54.90522,
+ "longitude": -1.37568,
+ "priceAmount": 70000,
+ "priceLabel": "£70,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89796120",
+ "area": "Sunderland, Tyne and Wear",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 17/06/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "CURRENT RENTAL INCOME IS £500PCM.. Attention investors! Studio apartment in Horizon House is a development of self contained studios which have the use of a communal gym, cinema room, games room, kitchen area and laundry. The studio is situated in the city centre and comprises of lounge/bedroom and shower room. Ideally placed for all that the city centre has to offer and a short distance away from Sunderland University.\n\nAgents Note \nPlease note that the AML fee covers the cost of carrying out the required identity and anti-money laundering checks. Once these checks have been completed, the fee cannot be refunded, even if the property purchase does not go ahead.",
+ "keyFeatures": [
+  "1 Bedroom Studio",
+  "Secure entry system",
+  "Onsite gym",
+  "Great investment opportunity",
+  "Onsite laundry facilities"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c4f73deb7/89796120/c4f73deb7d351012af9aaba36a07af40.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b8cb18622/89796120/b8cb18622db51994ec686c1a44d0d9db.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b67d79a44/89796120/b67d79a44c18566bd483d34b0e5cbe87.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e9a86b741/89796120/e9a86b741c64180ece1b5668527aefa6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f4cd2590a/89796120/f4cd2590a3218f00ecd7a490a6c0a290.jpeg",
+  "https://media.rightmove.co.uk/property-photo/30ae8a4dd/89796120/30ae8a4dd222a783ba8dbe53bd88cfaa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/61e59a481/89796120/61e59a4811debd4648dc5eb193fdd1dc.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Sunderland Station",
+   "miles": 0.2929847876385112,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Park Lane Metro Station",
+   "miles": 0.5163055328556376,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "St Peter's Tram Stop",
+   "miles": 0.6458099003066888,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Bridgfords, Washington",
+ "city": "Sunderland",
+ "sourceOutcode": "SR1",
+ "scrapedAt": "2026-08-31T14:54:47.239Z"
+}

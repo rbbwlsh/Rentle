@@ -1,0 +1,88 @@
+{
+ "id": "89391297",
+ "mode": "buy",
+ "displayAddress": "15/4 Pitt Street, Edinburgh, EH6 4BX",
+ "outcode": "EH6",
+ "incode": "4BX",
+ "latitude": 55.973242,
+ "longitude": -3.187793,
+ "priceAmount": 350000,
+ "priceLabel": "£350,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89391297",
+ "area": "Edinburgh",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 0,
+  "councilTaxBand": "C",
+  "priceQualifier": "Fixed Price",
+  "listingUpdate": "Reduced today"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Welcome to Pitt Street, laid out by Robert Burn in 1808 - the renowned architect of the Nelson Monument on Calton Hill and responsible for the remodeling of St Giles Cathedral in the early 19th Century.\n\nThis voluminous, sun filled, two bedroom second (top) floor flat, offers bright and spacious accommodation, boasting an elegant mix of contemporary comforts and many fine period features, including; dado paneling in the sitting room, beautiful cornincing, high ceilings and working shutters throughout; a bow-ended rear bedroom overlooking private gardens; and the original flagged floor and fitted pantry in the dining kitchen. \n\nRecently rewired and redecorated throughout, the 81m2 apartment forms part of a beautiful Georgian B Listed tenement, with only four owner occupied properties in the stair, and is set on a wide cobblestoned street, well placed to access a great choice of local parks, and the Water of Leith walk/cycleway leading down to the Shore. \n\nIt is conveniently located in the Bonnington/Newhaven conservation area to take advantage of the vibrant Leith district of Edinburgh, close to an abundance of local amenities along with excellent transport links to and from the city centre, the property is presented to the market in immaculate order throughout.",
+ "keyFeatures": [
+  "Beautiful top floor flat forming part of a listed building and retaining fine period features",
+  "Now at a Fixed Price £25,000 below Home Report valuation",
+  "Great location in vibrant Leith and close to excellent amenities",
+  "Unrestricted on street parking"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c8f21602a/89391297/c8f21602a3eb2f38ee4803a6540b1c79.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7affc532d/89391297/7affc532dc5fcff87fbb544e0d569f0a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/355c9d5eb/89391297/355c9d5eb670e22cf204d37d8eaaa402.jpeg",
+  "https://media.rightmove.co.uk/property-photo/74df98cfe/89391297/74df98cfe837dbf7623a72d8867383d9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/09f296dcb/89391297/09f296dcbc37d9858596f3188b789269.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f05f241fb/89391297/f05f241fb8eda43281e216b8bb242459.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3b6dce540/89391297/3b6dce540ee896b241524ea9af71f0d7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb770c0f9/89391297/bb770c0f9112a54e6b5ee58d61de2f75.jpeg",
+  "https://media.rightmove.co.uk/property-photo/013a0ca66/89391297/013a0ca66bfcf9aac6bb01ca57967afa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/755be482c/89391297/755be482c698d23a28a69d225ee566e9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/12b1cffa3/89391297/12b1cffa30ed6e04a99a8808486d1c9a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f2c309e7/89391297/5f2c309e713839c00c48b27d1826f0cb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9e75123f5/89391297/9e75123f51f49816b928efb9550d2e7a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ce3ec8d9a/89391297/ce3ec8d9aafed2370704a28495c23f1a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1a8e62318/89391297/1a8e62318cbe9a615756514182b7f883.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b76e23bf1/89391297/b76e23bf1ec2b8a56d8b2abbd1184f93.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3775e601a/89391297/3775e601a02b461525b8636251077872.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d8a257a3a/89391297/d8a257a3aaf7ef7e33290f97966b7d34.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 1.4706467013715643,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 2.2601965155757684,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 3.884228568021714,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "McDougall McQueen, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH6",
+ "scrapedAt": "2026-08-31T16:56:59.504Z"
+}

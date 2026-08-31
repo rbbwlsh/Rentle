@@ -1,0 +1,72 @@
+{
+ "id": "92506989",
+ "mode": "buy",
+ "displayAddress": "Homer Street, Stoke-on-Trent, ST1",
+ "outcode": "ST1",
+ "incode": "3NZ",
+ "latitude": 53.024166,
+ "longitude": -2.163059,
+ "priceAmount": 90000,
+ "priceLabel": "£90,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92506989",
+ "area": "Stoke-on-Trent",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": "Offers in Region of",
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Property number 53977. Enquire through Rightmove's messaging system and we'll respond within 5 minutes, 24/7. The property is currently let at £525 per calendar month, producing an annual rental income of £6,300 and representing a gross yield of 7.00% against the £90,000 asking price.\r\n\n\r\n\nThe accommodation comprises two reception rooms, kitchen, two bedrooms and bathroom, together with an enclosed rear yard. Further benefits include gas central heating via a combination boiler and uPVC double glazing.\r\n\n\r\n\nHomer Street is conveniently positioned for access to Hanley and Stoke-on-Trent city centre, with a wide range of shops, supermarkets and everyday amenities available locally. The wider area benefits from significant employment and education centres including Royal Stoke University Hospital, University of Staffordshire, Stoke-on-Trent College and Festival Park, helping support an established and diverse private rental market.\r\n\n\r\n\nTransport connections are readily accessible, with Stoke-on-Trent railway station and the A500 providing connections throughout North Staffordshire and onwards towards the A50 and M6.\r\n\n\r\n\nThe existing rent also provides potential for longer-term rental growth. Wider market evidence indicates higher rents are being achieved and advertised for comparable two-bedroom accommodation across Stoke-on-Trent. Any future rental increase would, of course, be subject to the existing tenancy, applicable legislation, property condition and prevailing market conditions.\r\n\nFor investors seeking an income-producing freehold property at an accessible capital value, 21 Homer Street represents a straightforward opportunity to acquire an established rental asset with immediate income and potential for future rental growth.\r\n\n\r\n\nKEY FEATURES\r\n\n  TENANT IN SITU\r\n\n  £525 PCM CURRENT RENT\r\n\n  £6,300 ANNUAL RENTAL INCOME\r\n\n  7.00% GROSS YIELD\r\n\n  £90,000 ASKING PRICE\r\n\n  TWO BEDROOMS\r\n\n  TWO RECEPTION ROOMS\r\n\n  FREEHOLD\r\n\n  GAS CENTRAL HEATING\r\n\n  UPVC DOUBLE GLAZING\r\n\n  REAR YARD\r\n\n  EPC RATING D\r\n\n  COUNCIL TAX BAND A\r\n\n  ESTABLISHED ST1 RENTAL LOCATION\r\n\n  POTENTIAL FOR LONGER-TERM RENTAL GROWTH\r\n\n\r\n\nINVESTMENT SUMMARY\r\n\nAsking Price: £90,000\r\n\nCurrent Rent: £525 PCM\r\n\nAnnual Rental Income: £6,300\r\n\nGross Yield: 7.00%\r\n\nTenant: In Situ\r\n\nTenure: Freehold\r\n\nEPC: D\r\n\nCouncil Tax: Band A\r\n\n\r\n\nACCOMMODATION\r\n\nGround Floor: Two reception rooms and kitchen.\r\n\nFirst Floor: Two bedrooms and bathroom.\r\n\nOutside: Enclosed rear yard with on-road parking.\r\n\n\r\n\nRENTAL GROWTH POTENTIAL\r\n\nThe current passing rent of £525 PCM provides an immediate gross yield of 7.00%.\r\n\nFor illustration:\r\n\n£650 PCM = £7,800 PA = 8.67% gross yield\r\n\n£700 PCM = £8,400 PA = 9.33% gross yield\r\n\nThese figures are provided for illustration only and do not constitute a rental valuation or guarantee of future income. Any future rent review would be subject to the tenancy, relevant legislation and prevailing market conditions.\r\n\n\r\n\nSHORT SUMMARY\r\n\nTENANTED INVESTMENT – £90,000. Two-bedroom freehold terrace currently producing£525 PCM / £6,300 PA, representing a 7.00% gross yield. Tenant in situ, two reception rooms, gas central heating, double glazing and rear yard. Established ST1 rental location with potential for longer-term rental growth.",
+ "keyFeatures": [
+  "Central heating",
+  "Double glazed",
+  "Rear enclosed yard "
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/b4ea00c2b/92506989/b4ea00c2b51fb61464c391bb30a2c544.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ad4fc1826/92506989/ad4fc1826a6231369bcfb9c9aff02746.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8160d2e82/92506989/8160d2e82f57c07c049df6bff4a43188.jpeg"
+ ],
+ "imageCount": 3,
+ "nearestStations": [
+  {
+   "name": "Stoke-on-Trent Station",
+   "miles": 1.34498188643599,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Longport Station",
+   "miles": 2.5294929326692293,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Longton Station",
+   "miles": 2.620429032226009,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Visum, Nationwide",
+ "city": "Stoke-on-Trent",
+ "sourceOutcode": "ST1",
+ "scrapedAt": "2026-08-31T15:00:23.976Z"
+}

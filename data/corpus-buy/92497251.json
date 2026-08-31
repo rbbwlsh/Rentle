@@ -1,0 +1,86 @@
+{
+ "id": "92497251",
+ "mode": "buy",
+ "displayAddress": "Ravensworth Gardens, Cambridge",
+ "outcode": "CB1",
+ "incode": "2XL",
+ "latitude": 52.196063,
+ "longitude": 0.136087,
+ "priceAmount": 335000,
+ "priceLabel": "£335,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92497251",
+ "area": "Cambridge",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 575,
+  "sizeSqM": 53,
+  "tenureType": "SHARE_OF_FREEHOLD",
+  "yearsRemainingOnLease": 99,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 1880.32,
+  "councilTaxBand": "C",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": 575,
+ "sizeSqM": 53,
+ "description": "A bright and airy, 2 double bedroom, first floor apartment offering well- appointed accommodation, in a highly convenient location, a stone’s throw from Cambridge Railway Station and a range of amenities.\n\nThe Ravensworth Gardens development was constructed in 2000 and offers established green spaces, play areas and a secure undercroft parking. No. 35 extends to around 575 sqft and is in a prime, central location, ideal for access to the railway station.\n\nThe apartment occupies a corner position on the first floor and is accessed via a communal entrance hallway. Upon entering the apartment, there is a reception hall leading through to a well-appointed and equipped kitchen with an integrated electric hob, electric fan oven, overhead extractor, sink with a mixer tap, a washer-drier and a fridge-freezer, all of which are included in the sale. Benefitting from a dual aspect, the living room offers ample room for both living and dining. \n\nMainly tiled, the bathroom is fitted with white three-piece suite including a wash basin, WC and a panelled bath with a shower attachment. There are two good-sized bedrooms, with bedroom one benefiting from built-in wardrobes and bedroom two having a dual aspect.\n\nLocation - Ravensworth Gardens is a popular development of townhouses and apartments on the corner of Tenison Road and Devonshire Road. It is superbly located adjoining the \"CB1\" development within walking distance of the railway station and city centre. Addenbrooke's Hospital is within easy reach. Local shopping is available at the station, within \"CB1\", Mill Road and on Hills Road.\n\nTenure - Leasehold with Share of freehold\nLeasehold is 125 years with approximately 99 years remaining.\nService Charge is currently £1,880.32 per annum (Sept 2025 - August 2026). This is reviewed annually and is adjusted according to associated costs.\nThe vendor informs us that no Ground Rent is payable.\n\nServices - Main services connected include: water, electricity, gas and mains drainage.\n\nStatutory Authorities - Cambridge City Council.\nCouncil Tax Band - C\n\nFixtures And Fittings - Unless specifically mentioned in these particulars, all fixtures and fittings are expressly excluded from the sale of the leasehold interest.\n\nViewing - Strictly by appointment through the vendor’s sole agents, Redmayne Arnold and Harris.",
+ "keyFeatures": [
+  "First floor, purpose-built apartment",
+  "2 double bedrooms",
+  "1 bathroom, 1 reception room",
+  "Dual aspect living room",
+  "Allocated undercroft parking",
+  "Highly convenient, near-central location",
+  "Gas central heating to radiators",
+  "EPC - C / 79",
+  "Built in 2000",
+  "Perfect for London commuters"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/0c28729fb/92497251/0c28729fbe7e8f96834fe7439963af55.jpeg",
+  "https://media.rightmove.co.uk/property-photo/28b2374d9/92497251/28b2374d95c2db0ca1acbdfb8a4c8bb2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/06d3676c7/92497251/06d3676c7024f96a9be152d174d93547.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8aff4d2d1/92497251/8aff4d2d1ca65e87bbb383d1b50c886c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f5c9a06f0/92497251/f5c9a06f0bcc7be0c94f138e1d8d7a90.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6c2b404c8/92497251/6c2b404c887265d6ef9a3440dbe13a17.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3e09b2402/92497251/3e09b240206e890b417fcf055e414d45.jpeg",
+  "https://media.rightmove.co.uk/property-photo/48e67a118/92497251/48e67a118f882915a07318885814f0db.jpeg",
+  "https://media.rightmove.co.uk/property-photo/369137b02/92497251/369137b0221aa47982ae8f3794d9c456.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bdd6eebc1/92497251/bdd6eebc1481776d8f59c40583c22814.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Cambridge Station",
+   "miles": 0.16822366974017047,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cambridge North",
+   "miles": 2.146241916323306,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Shelford Station",
+   "miles": 3.2635190326731993,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Redmayne Arnold & Harris, Cambridge",
+ "city": "Cambridge",
+ "sourceOutcode": "CB1",
+ "scrapedAt": "2026-08-31T15:01:05.616Z"
+}

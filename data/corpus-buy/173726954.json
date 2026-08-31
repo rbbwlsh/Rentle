@@ -1,0 +1,87 @@
+{
+ "id": "173726954",
+ "mode": "buy",
+ "displayAddress": "Wimbledon Street, Leicester, Leicestershire, LE1",
+ "outcode": "LE1",
+ "incode": "1SZ",
+ "latitude": 52.636578,
+ "longitude": -1.125705,
+ "priceAmount": 155000,
+ "priceLabel": "£155,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/173726954",
+ "area": "Leicester, Leicestershire",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 103,
+  "annualGroundRent": 150,
+  "annualServiceCharge": 3519.46,
+  "councilTaxBand": "D",
+  "priceQualifier": "Offers in Region of",
+  "listingUpdate": "Reduced on 29/06/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "For sale is this stunningly appointed, 3-bedroom apartment, ideally positioned within the heart of Leicester city's Cultural Quarter. The property is presented in good condition, ready to welcome a range of buyers looking for a city centre location with a plethora of local amenities and excellent public transport links on the doorstep. \n\nThe accommodation comprises three double bedrooms, two bathrooms, an open-plan lounge and a kitchen/diner. The master bedroom benefits from an en-suite, while the second bedroom boasts built-in wardrobes and dual aspect windows. The two bathrooms are fully equipped, each featuring a bath with shower over, WC, and hand basin. \n\nThe heart of this home is the spacious open-plan living area. Ample natural light floods the contemporary kitchen, which is equipped with a kitchen island with breakfast bar, wall and base units, a wine cooler, an electric oven, induction hob, a washing machine and integrated dishwasher, microwave and fridge/freezer.\n\nNotable features of this property include allocated under croft parking, ensuring a hassle-free city living experience, and large windows providing fabulous city views. Notably, the property is sold with no chain, facilitating a smooth transaction process. \n\nWith an EPC rating of D and council tax band D, this property combines style, comfort, and practicality in a prime city location. Experience the vibrant urban life in a home that delivers on all fronts, call us now to arrange your viewing!\n\n\rIMPORTANT NOTE TO POTENTIAL PURCHASERS & TENANTS:\n We endeavour to make our particulars accurate and reliable, however, they do not constitute or form part of an offer or any contract and none is to be relied upon as statements of representation or fact. The services, systems and appliances listed in this specification have not been tested by us and no guarantee as to their operating ability or efficiency is given. All photographs and measurements have been taken as a guide only and are not precise. Floor plans where included are not to scale and accuracy is not guaranteed. If you require clarification or further information on any points, please contact us, especially if you are traveling some distance to view. POTENTIAL PURCHASERS: Fixtures and fittings other than those mentioned are to be agreed with the seller. POTENTIAL TENANTS: All properties are available for a minimum length of time, with the exception of short term accommodation. Please contact the branch for details. A security deposit of at least one month’s rent is required. Rent is to be paid one month in advance. It is the tenant’s responsibility to insure any personal possessions. Payment of all utilities including water rates or metered supply and Council Tax is the responsibility of the tenant in most cases. \n\nLEC260133/2",
+ "keyFeatures": [
+  "3 Bedroom Apartment",
+  "Sold with No Onward Chain!",
+  "Ideally Located in Leicester's Cultural Quarter",
+  "Master Bedroom with En-Suite",
+  "Open Plan Kitchen/Living/Diner",
+  "Under Croft Allocated Parking Space",
+  "Early Viewing Highly Recommended!"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/27402eafb/173726954/27402eafb866b62d21c5bfd45a1922af.jpeg",
+  "https://media.rightmove.co.uk/property-photo/74e3c014e/173726954/74e3c014e1fea4227e787116dc86262a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4e84fbfde/173726954/4e84fbfde3bd696407b3cf3519c971a5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ba20c5967/173726954/ba20c59677e34aa3a3234ff7afd36a60.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d8c061e10/173726954/d8c061e10c45562811547dbbbc629dc4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3cd9893ce/173726954/3cd9893ce587ccd9fefde2a3434d6253.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fe1800275/173726954/fe1800275df41934f4fe47c72c03ca47.jpeg",
+  "https://media.rightmove.co.uk/property-photo/34d94e71f/173726954/34d94e71fbda5cad584e2719dcbfd280.jpeg",
+  "https://media.rightmove.co.uk/property-photo/840dd3fa1/173726954/840dd3fa1b7b7e41b1899edcce8c30d4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cbf024d5d/173726954/cbf024d5d2d8dcfb1b12eec4bd943bcc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/49529116f/173726954/49529116f6c54f39f7a344f4ccfe4a92.jpeg",
+  "https://media.rightmove.co.uk/property-photo/125f6ef12/173726954/125f6ef1208a4f48555976dd65dfc7f3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/94d6cc8c8/173726954/94d6cc8c8763936fa1d8fac55ece64da.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e7208965e/173726954/e7208965e48783158ee31b3f0275f92f.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Leicester Station",
+   "miles": 0.32729717589952506,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "South Wigston Station",
+   "miles": 3.7697169739748952,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Syston Station",
+   "miles": 4.3731319994022035,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Your Move, Leicester",
+ "city": "Leicester",
+ "sourceOutcode": "LE1",
+ "scrapedAt": "2026-08-31T16:52:53.155Z"
+}

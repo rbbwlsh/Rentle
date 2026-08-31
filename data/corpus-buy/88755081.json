@@ -1,0 +1,99 @@
+{
+ "id": "88755081",
+ "mode": "buy",
+ "displayAddress": "Noel Street, NG7, Nottingham, Nottinghamshire",
+ "outcode": "NG7",
+ "incode": "6BP",
+ "latitude": 52.967813,
+ "longitude": -1.168889,
+ "priceAmount": 90000,
+ "priceLabel": "£90,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/88755081",
+ "area": "Nottingham, Nottinghamshire",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 624,
+  "sizeSqM": 58,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 979,
+  "annualGroundRent": 150,
+  "annualServiceCharge": 2300,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Added on 20/05/2026"
+ },
+ "sizeSqFt": 624,
+ "sizeSqM": 58,
+ "description": "A well-positioned one-bedroom apartment located within High Point, just off Noel Street in Hyson Green, offering practical accommodation with excellent access to Nottingham City Centre, local amenities and tram links.\r\n\r\nThis apartment presents a strong opportunity for first-time buyers, investors or anyone seeking a conveniently located city-fringe home. The property is set within the established High Point development and benefits from a highly accessible position close to local shops, supermarkets, transport links and key Nottingham employment and education hubs.\r\n\r\nThe accommodation is arranged to provide a living area, fitted kitchen, double bedroom and bathroom, making it a practical and manageable home in a well-connected location. The layout is particularly suited to buyers looking for a low-maintenance apartment or landlords seeking a rental investment in an area with consistent tenant demand.\r\n\r\nHigh Point is positioned close to The Forest Recreation Ground and tram connections, with Nottingham City Centre, Nottingham Trent University and Queens Medical Centre all within easy reach. The area is well served by everyday amenities, including shops, restaurants, takeaways and public transport options. Nearby tram access is a clear selling point for both owner-occupiers and tenants.",
+ "keyFeatures": [
+  "One-bedroom Luxurious Apartment Positioned on the 15th floor",
+  "Secure entry system with on-site concierge for added peace of mind",
+  "Long Lease  979 years remaining",
+  "Convenient Hyson Green location",
+  "Close to tram links, Universities, Hospitals and local amenities",
+  "Easy access to Nottingham City Centre",
+  "Suitable for first-time buyers or investors",
+  "Practical, low-maintenance accommodation",
+  "Strong rental appeal due to location"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/8ca987c51/88755081/8ca987c5112261020598b908d2bf2a2e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2d87bd180/88755081/2d87bd18004e63e60133018dbc9328b5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/54b2c191c/88755081/54b2c191c4643f90fcc6b5f514ada082.jpeg",
+  "https://media.rightmove.co.uk/property-photo/27b4983fa/88755081/27b4983fa42b532f4ddd29477ef4b437.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ad8b6681/88755081/8ad8b6681ead65702f8eab9591ab8d37.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8fe5f95a1/88755081/8fe5f95a18bd2ae52ea216f563231655.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6e5e4ca71/88755081/6e5e4ca7136b8dc06d50f888c1dc8aec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/db313600a/88755081/db313600a100838429c1a0b18e574f37.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b787d307d/88755081/b787d307d422ae31758b843edd254157.jpeg",
+  "https://media.rightmove.co.uk/property-photo/371ba2b48/88755081/371ba2b483ba44f7d1ad0e8cd9982f77.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b4aacd9ac/88755081/b4aacd9ac7d01292b74fccd83d00981f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9a927c64a/88755081/9a927c64a07aa196eaf86ad3b7823e49.jpeg",
+  "https://media.rightmove.co.uk/property-photo/27131d8d8/88755081/27131d8d85586b6df8fa2cc61a5abc31.jpeg",
+  "https://media.rightmove.co.uk/property-photo/609b9e602/88755081/609b9e6028fc38587d83ca5e148fa35f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ca1ff096a/88755081/ca1ff096a5b9c0bdb12394eb9f6c926a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7b4a4f65d/88755081/7b4a4f65d00037535a71b96fb8eac657.jpeg",
+  "https://media.rightmove.co.uk/property-photo/45d2d25de/88755081/45d2d25deeb17caad00592d8d95ad4a1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0b6b1f637/88755081/0b6b1f637e07f4b9db99b0e8f3c01ef3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/65a509ace/88755081/65a509acee54a16671927c24b11e71f1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/64f87feaf/88755081/64f87feaf3f6baa47caf39c5280278c4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/51da5a10d/88755081/51da5a10d1fd22e100a9f11c66233526.jpeg",
+  "https://media.rightmove.co.uk/property-photo/21b1bac83/88755081/21b1bac8399992f88effb1c033a0a46c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/15b9a50bd/88755081/15b9a50bdda0679fba72fbbfcc15a4d5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ae9b71b17/88755081/ae9b71b17ab7a4859145e68d09e8c597.jpeg"
+ ],
+ "imageCount": 24,
+ "nearestStations": [
+  {
+   "name": "Noel St Tram Stop",
+   "miles": 0.03415942668395209,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "The Forest Tram Stop",
+   "miles": 0.18213780185584638,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Hyson Green Market Tram Stop",
+   "miles": 0.13215583915502516,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Trent Estate Agents, Nottingham",
+ "city": "Nottingham",
+ "sourceOutcode": "NG7",
+ "scrapedAt": "2026-08-31T16:52:45.419Z"
+}

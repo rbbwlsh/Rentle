@@ -1,0 +1,88 @@
+{
+ "id": "173002025",
+ "mode": "buy",
+ "displayAddress": "21 King's Stables Lane, Grassmarket, Edinburgh, EH1 2LQ",
+ "outcode": "EH1",
+ "incode": "2LQ",
+ "latitude": 55.946857,
+ "longitude": -3.199993,
+ "priceAmount": 315000,
+ "priceLabel": "£315,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/173002025",
+ "area": "Grassmarket, Edinburgh",
+ "bedrooms": 1,
+ "bathrooms": 2,
+ "propertySubType": "Duplex",
+ "details": {
+  "propertyType": "Duplex",
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 0,
+  "councilTaxBand": "C",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 17/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Superbly tucked away in a quiet cobblestoned lane close to Edinburgh Castle and the historic Old Town is this true walk-in condition main door duplex apartment boasting a light and spacious interior showcasing a fabulous mix of contemporary modern fittings and industrial style features, plus an all important private car parking space nearby. \n\nCleverly designed and finished off to a high spec over ground and first floor levels, this unique property would make an ideal city centre base or investment purchase. Living space on the ground floor falls naturally into areas for relaxation, dining and cooking. Pale tone high gloss units are set against solid wood worktops and eye-catching coloured splash-backs within the fitted kitchen area. Generous sized sleeping space upstairs lies open to an elevated seating or study area. Light streams in through multiple rooflights and French doors opening out onto a balcony suitable for potted plants. Edinburgh's most famous landmark, the Castle, can be seen across the neighbouring rooftops. A well fitted and modern shower-room is located on each floor. Exposed brickwork, an industrial style metal staircase and timber effect flooring add immense character, whilst feature glass flooring panels allow natural light to filter down from upstairs. More than ample built-in storage space has been added. \n\nAn allocated parking space within a secure garage is included with the property - a great feature given the restricted parking within the area. This space is accessed from King's Stables Lane, just a short distance from the door of the property, via a security fob. \n\nThe property holds a home let licence and has has been successfully operated as a short-term let over recent years, generating an average gross yield of 12.7% per annum for the owners. Its rare main-door configuration, layout, proximity to Edinburgh Castle and allocated parking space make it particularly well-suited to premium short-term accommodation in one of the city's most sought-after tourist locations. \n\nFeatures include: On trend open plan living/dining/contemporary fitted kitchen • Shower-room • Industrial style steel staircase to upper floor • Large double bedroom with split level seating area and French doors • Juliette balcony allowing over the rooftops view to Castle • En-suite, utility cupboard and excellent built-in storage • Wet electric heating system • Double glazing • Video entryphone • Allocated parking space • Council Taxd Band C. • Energy Rating Band E. \n\nFactors: Trinity Factors approx £930.00 per annum.",
+ "keyFeatures": [
+  "Main door duplex apartment in true walk-in condition",
+  "Spacious interior showcasing a fabulous mix of contemporary modern fittings and industrial style features",
+  "Open plan living/dining/contemporary fitted kitchen",
+  "arge double bedroom with split level seating area and French doors",
+  "Juliette balcony allowing over the rooftops view to Castle",
+  "Allocated parking space"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/9a7e5813a/173002025/9a7e5813a473dc72d3c84fe4be366ca9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d86264196/173002025/d86264196ee1bba901f6b9126be949af.jpeg",
+  "https://media.rightmove.co.uk/property-photo/faabc0736/173002025/faabc073674eb8f5aba2974fe4eda5cf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1e9af4ac8/173002025/1e9af4ac8cd35dddf73938645e0ea76c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7ffaca3aa/173002025/7ffaca3aacb11c2f73ed8b7a8ce79548.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a6058a799/173002025/a6058a799a15918993520bc763ac815f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7de36991f/173002025/7de36991faa21ff0bfe4756324cd1759.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2eee13c8a/173002025/2eee13c8a1a9be3548fda8445f35f35a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bdfa81066/173002025/bdfa81066be5df64d91fde55ee20d34e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f8f229331/173002025/f8f229331f2b3e6ac7f098c0de110797.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f6e2786ad/173002025/f6e2786ad44b45a4da4e4e44f8d38580.jpeg",
+  "https://media.rightmove.co.uk/property-photo/57d301170/173002025/57d3011709f2da9f56991e4a9678158c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/09758ef4d/173002025/09758ef4d3ded05755d5bc2c175b6900.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fd2aacb87/173002025/fd2aacb87effa787f47ed1ad68bca5db.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fe0bad0f4/173002025/fe0bad0f4fe927c6dfae4dea694532e0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ba31b03da/173002025/ba31b03dada6dbd5b70b709319d2c84d.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.5326039427615866,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 0.7114767772649063,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 2.1940669825268913,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Warners Solicitors, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH1",
+ "scrapedAt": "2026-08-31T15:03:03.928Z"
+}

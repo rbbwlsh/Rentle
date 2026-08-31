@@ -1,17 +1,18 @@
 import { useState } from 'react';
 import ImageCarousel from './ImageCarousel.jsx';
 import PropertyMap from './PropertyMap.jsx';
-import { formatMiles, formatStationType } from '../format.js';
+import { formatGbp, formatMiles, formatStationType } from '../format.js';
 
 // Displays the listing the player is guessing on with as much detail as a real
-// Rightmove ad — except the rent and the exact address are withheld (only an
+// Rightmove ad — except the price and the exact address are withheld (only an
 // obscured `area` is shown), so it can't be looked up mid-game.
-export default function ListingCard({ listing }) {
+export default function ListingCard({ mode, listing }) {
   const [expanded, setExpanded] = useState(false);
   const d = listing.details || {};
 
   const headlineChips = [
-    listing.bedrooms != null && `${listing.bedrooms} bed`,
+    listing.bedrooms != null &&
+      (listing.bedrooms === 0 ? 'Studio' : `${listing.bedrooms} bed`),
     listing.bathrooms != null && `${listing.bathrooms} bath`,
     listing.propertySubType,
     listing.sizeSqFt && `${listing.sizeSqFt.toLocaleString()} sq ft`,
@@ -23,19 +24,50 @@ export default function ListingCard({ listing }) {
       }`
     : null;
 
-  // The Rightmove "ad facts" table — only rows with a value are shown.
-  const facts = [
+  // The Rightmove "ad facts" table — only rows with a value are shown. The two
+  // channels publish genuinely different facts, so the table follows the mode:
+  // a sale has tenure and a service charge where a let has furnishing and a
+  // tenancy length.
+  const shared = [
     ['Property type', d.propertyType],
-    ['Bedrooms', listing.bedrooms],
+    ['Bedrooms', listing.bedrooms === 0 ? 'Studio' : listing.bedrooms],
     ['Bathrooms', listing.bathrooms],
     ['Size', sizeStr],
-    ['Furnishing', d.furnishType],
-    ['Let type', d.letType],
-    ['Available', formatAvailable(d.letAvailableDate)],
-    ['Min. tenancy', d.minimumTermMonths ? `${d.minimumTermMonths} months` : null],
-    // No deposit row: it's near-universally five weeks' rent, so showing it
-    // hands over the answer.
-    ['Council tax', d.councilTaxBand ? `Band ${d.councilTaxBand}` : null],
+  ];
+  const facts = [
+    ...shared,
+    ...(mode.key === 'buy'
+      ? [
+          ['Tenure', formatTenure(d.tenureType)],
+          [
+            'Lease remaining',
+            d.yearsRemainingOnLease ? `${d.yearsRemainingOnLease} years` : null,
+          ],
+          [
+            'Service charge',
+            d.annualServiceCharge ? `${formatGbp(d.annualServiceCharge)} a year` : null,
+          ],
+          [
+            'Ground rent',
+            d.annualGroundRent ? `${formatGbp(d.annualGroundRent)} a year` : null,
+          ],
+          ['Council tax', d.councilTaxBand ? `Band ${d.councilTaxBand}` : null],
+          // The qualifier says how the price is pitched, never what it is.
+          ['Price basis', d.priceQualifier],
+          ['On the market', d.listingUpdate],
+        ]
+      : [
+          ['Furnishing', d.furnishType],
+          ['Let type', d.letType],
+          ['Available', formatAvailable(d.letAvailableDate)],
+          [
+            'Min. tenancy',
+            d.minimumTermMonths ? `${d.minimumTermMonths} months` : null,
+          ],
+          // No deposit row: it's near-universally five weeks' rent, so showing
+          // it hands over the answer.
+          ['Council tax', d.councilTaxBand ? `Band ${d.councilTaxBand}` : null],
+        ]),
   ].filter(([, v]) => v != null && v !== '');
 
   const description = listing.description || '';
@@ -164,6 +196,15 @@ export default function ListingCard({ listing }) {
       </div>
     </div>
   );
+}
+
+// Rightmove reports tenure as a SCREAMING_ENUM.
+function formatTenure(value) {
+  if (!value) return null;
+  return String(value)
+    .toLowerCase()
+    .replace(/_/g, ' ')
+    .replace(/^./, (c) => c.toUpperCase());
 }
 
 // Rightmove dates come through as ISO strings or words like "Now". Render a

@@ -1,0 +1,88 @@
+{
+ "id": "174184226",
+ "mode": "buy",
+ "displayAddress": "Guildford Road, Portsmouth",
+ "outcode": "PO1",
+ "incode": "5HU",
+ "latitude": 50.802867,
+ "longitude": -1.073395,
+ "priceAmount": 225000,
+ "priceLabel": "£225,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/174184226",
+ "area": "Portsmouth",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Arden & Way are pleased to present to the sales market this recently renovated two bedroom terraced house. Set in the sought after location of Fratton, the property is walking distance from Fratton train station and Southsea seafront in a short commute away including Gun Wharf Quays.\n\nTo the ground floor you will find a spacious lounge which leads through to the, kitchen/diner and downstairs WC. To the first floor you will find two good sized double bedrooms and family shower room. The property also boasts gas central heating, double glazing and enclosed rear garden.\n\nFor more information or to book a viewing please contact Arden & Way\n\nThis property is a perfect buy to let investment which Arden and way can help work our your landlord yield and give you all the information regarding this.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/df3bc3eee/174184226/df3bc3eee730b25a445092dc3d61da77.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dc0cfb75d/174184226/dc0cfb75d6c85693fbedcf36af2b302d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b7c4b5e23/174184226/b7c4b5e23d78268deb005f3e432cd944.jpeg",
+  "https://media.rightmove.co.uk/property-photo/44acbb91d/174184226/44acbb91d9571606ab4d8d1eb62306a3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b5eedb110/174184226/b5eedb110a0fd719b810bbfc2fabe898.jpeg",
+  "https://media.rightmove.co.uk/property-photo/04191e462/174184226/04191e46291f6ed500e8dff5d6510bda.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c0b4b8e3b/174184226/c0b4b8e3bf93f546751965f57b962312.jpeg",
+  "https://media.rightmove.co.uk/property-photo/515d5c6b7/174184226/515d5c6b767b5e48307a7740a3e30d07.jpeg",
+  "https://media.rightmove.co.uk/property-photo/36cd790f3/174184226/36cd790f3f921de8496f25b39d01c7ea.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d78ba5060/174184226/d78ba50601a5c57bef4436bdcb6137bb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/585db254d/174184226/585db254d1563f81bc31f5cd5bacaaac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3839b70da/174184226/3839b70dae75a8fa4b72e750a697efad.jpeg",
+  "https://media.rightmove.co.uk/property-photo/46520dac9/174184226/46520dac960698196be58f91be91ade6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/98db6aa62/174184226/98db6aa62e44e2acdc7b62620b2ef1c4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f4060f8f6/174184226/f4060f8f6b9ed3a04fa76be8d0695597.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7166c2d5d/174184226/7166c2d5d49fe6dd7e2e5d1fc35bc862.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f6bcdeb2b/174184226/f6bcdeb2b4d34df26cfd853a4b5acaec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6fb6723c1/174184226/6fb6723c127acb322468918ce76eb836.jpeg",
+  "https://media.rightmove.co.uk/property-photo/24208c149/174184226/24208c1497550a764d464cc6bd429dd6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/da80dc4ad/174184226/da80dc4ad1488f89c60dcab4eb21d45d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f5b7414e7/174184226/f5b7414e7cb39e73e1fc38a223806c8a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9ca2475da/174184226/9ca2475da1511c422b5fe46f41a71116.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e064bff6b/174184226/e064bff6b7df774a6b1c156b91589096.jpeg"
+ ],
+ "imageCount": 23,
+ "nearestStations": [
+  {
+   "name": "Fratton Station",
+   "miles": 0.458209376438488,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Portsmouth & Southsea Station",
+   "miles": 0.805490242926584,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Portsmouth Harbour Station",
+   "miles": 1.531922611824915,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Arden & Way, Hayling Island",
+ "city": "Portsmouth",
+ "sourceOutcode": "PO1",
+ "scrapedAt": "2026-08-31T15:02:21.096Z"
+}

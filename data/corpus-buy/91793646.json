@@ -1,0 +1,84 @@
+{
+ "id": "91793646",
+ "mode": "buy",
+ "displayAddress": "Piccadilly, Bradford",
+ "outcode": "BD1",
+ "incode": "3NN",
+ "latitude": 53.79639,
+ "longitude": -1.75433,
+ "priceAmount": 39999,
+ "priceLabel": "£39,999",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91793646",
+ "area": "Piccadilly, Bradford",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers in Region of",
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "SUMMARY\nA modern one-bedroom apartment in Equity Chambers, BD1, featuring a spacious bedroom, a large open-plan lounge/kitchen area, a fitted kitchen and bathroom, and an excellent city centre location close to local amenities and transport links.\n\nDESCRIPTION\nSituated in the heart of Bradford city centre, this well-presented one-bedroom flat in the sought-after Equity Chambers development (BD1) offers modern and comfortable living. The property features a spacious double bedroom, providing plenty of room for storage and relaxation, alongside a large open-plan lounge and kitchen area that creates a bright and welcoming living space. Comes with fitted kitchen providing ample workspace. In the bathroom there is a classic white fitted suite. Ideally located within walking distance of shops, restaurants, transport links, and local amenities, this apartment is perfect for professionals or anyone looking to enjoy convenient city centre living.\n\nPlease note that an AML fee is chargeable to the buyer once an offer is accepted to cover the cost of carrying out the required identity and anti-money laundering checks. Once these checks have been completed, the fee cannot be refunded, even if the property purchase does not go ahead.\n\nHallway \nWith doorway to the front.\n\nLounge/Kitchen Area 17' 5\" x 16' 6\" ( 5.31m x 5.03m )\nFitted kitchen with a range of wall and base units and large spacious reception area.\n\nBedroom 15' 9\" into recess x 13' 9\" ( 4.80m into recess x 4.19m )\nWith windows to the rear and electric heating unit.\n\nBathroom \nFitted bathroom comprising of a panel bath, wash hand basin and WC.\n\nLease details are currently being compiled.  For further information please contact the branch.  Please note additional fees could be incurred for items such as leasehold packs.\n\n1. MONEY LAUNDERING REGULATIONS: Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale.\r\n2. General: While we endeavour to make our sales particulars fair, accurate and reliable, they are only a general guide to the property and, accordingly, if there is any point which is of particular importance to you, please contact the office and we will be pleased to check the position for you, especially if you are contemplating travelling some distance to view the property.\r\n3. The measurements indicated are supplied for guidance only and as such must be considered incorrect.\r\n4. Services: Please note we have not tested the services or any of the equipment or appliances in this property, accordingly we strongly advise prospective buyers to commission their own survey or service reports before finalising their offer to purchase.\r\n5. THESE PARTICULARS ARE ISSUED IN GOOD FAITH BUT DO NOT CONSTITUTE REPRESENTATIONS OF FACT OR FORM PART OF ANY OFFER OR CONTRACT. THE MATTERS REFERRED TO IN THESE PARTICULARS SHOULD BE INDEPENDENTLY VERIFIED BY PROSPECTIVE BUYERS OR TENANTS. NEITHER SEQUENCE (UK) LIMITED NOR ANY OF ITS EMPLOYEES OR AGENTS HAS ANY AUTHORITY TO MAKE OR GIVE ANY REPRESENTATION OR WARRANTY WHATEVER IN RELATION TO THIS PROPERTY.",
+ "keyFeatures": [
+  "Located in City Centre",
+  "One Bedroom",
+  "Fitted kitchen and bathroom",
+  "Offers in the Region of £45,000"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/9a80894c1/91793646/9a80894c1d1ede5066d6e7bf261f573a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/beb030ea0/91793646/beb030ea08111f5f44d95eb3e137f590.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8b14ca589/91793646/8b14ca58972745d47b21415dd04e7796.jpeg",
+  "https://media.rightmove.co.uk/property-photo/72e0d12cc/91793646/72e0d12cc2963ae3435ccb48e3bbe9e0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/43a7bf64b/91793646/43a7bf64b339839ee51ba94bbe8b9b01.jpeg",
+  "https://media.rightmove.co.uk/property-photo/277c38383/91793646/277c38383aa87407dda637dade6b25df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3e4b78ce0/91793646/3e4b78ce0313df8bfe4ec2dfe2efdf89.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b9b05ec95/91793646/b9b05ec95451b93a24887869c2e6f4ba.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cfb71e0a7/91793646/cfb71e0a705242af91cc229745647dbe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c025f0236/91793646/c025f02368bb778888281d1d89e3e3d3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ad4d71e7b/91793646/ad4d71e7bdee0b1053bcbcb50e2fdfd7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/248c32adc/91793646/248c32adc72d0ab506295d082cb2012f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8c53d37b4/91793646/8c53d37b4b33415c19f5d2466c2d742e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a4782cf9e/91793646/a4782cf9e3fb4f12dc37f94302cff613.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Bradford Forster Square Station",
+   "miles": 0.0619718480305471,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bradford Interchange Station",
+   "miles": 0.39517295921752793,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Frizinghall Station",
+   "miles": 1.7322346207634334,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "William H. Brown, Wibsey",
+ "city": "Bradford",
+ "sourceOutcode": "BD1",
+ "scrapedAt": "2026-08-31T14:55:22.548Z"
+}

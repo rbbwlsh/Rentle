@@ -1,0 +1,72 @@
+{
+ "id": "91639854",
+ "mode": "buy",
+ "displayAddress": "HORIZON, Borough Road, Sunderland, Tyne And Wear, SR1",
+ "outcode": "SR1",
+ "incode": "1HW",
+ "latitude": 54.90613,
+ "longitude": -1.37925,
+ "priceAmount": 67000,
+ "priceLabel": "£67,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91639854",
+ "area": "Sunderland, Tyne And Wear",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": null,
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Added on 04/12/2023"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Centrally located in Sunderland, Horizon will provide contemporary high specification living for Sunderland's large number of students and young working professionals.\n\n  \n\n Horizon is made up of 154 self-contained studio apartments, carefully designed to maximize the rental potential of its tenants.\n\n  \n\n Apartments at Horizon come with a furniture pack include in the purchase price, which provides a range of specially selected furniture to complement the surroundings.\n\n  \n\n Also included in the furniture pack is a fully fitted kitchenette, complete with an integrated microwave/oven, fridge freezer, and twin induction hob.\n\n  \n\n Additionally, the development will provide a variety of communal areas, including a dedicated study area, residents' gym, cinema room, on-site laundry facilities, and games room.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/4e7ef20d3/91639854/4e7ef20d3ec276746eb4eb059fa169a2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/06d5e9eda/91639854/06d5e9edad4c4b98f85de4e5781f2e25.png",
+  "https://media.rightmove.co.uk/property-photo/fa2338f14/91639854/fa2338f1484e8188e0bc5b576c1ee3cf.png",
+  "https://media.rightmove.co.uk/property-photo/f19235fdc/91639854/f19235fdc6962f1db63dfa1a72719f4e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/652e7e940/91639854/652e7e9408b97a0f02b4becbc8161649.jpeg",
+  "https://media.rightmove.co.uk/property-photo/525558d1e/91639854/525558d1e6ad9c463484d42ca0ed5643.jpeg",
+  "https://media.rightmove.co.uk/property-photo/47e76301c/91639854/47e76301cfe77e1841c0677024123e5f.png"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Sunderland Station",
+   "miles": 0.13924230862963935,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Park Lane Metro Station",
+   "miles": 0.457709715310507,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "St Peter's Tram Stop",
+   "miles": 0.504908390418593,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Aspen Woolf Ltd, Leeds",
+ "city": "Sunderland",
+ "sourceOutcode": "SR1",
+ "scrapedAt": "2026-08-31T14:46:21.216Z"
+}

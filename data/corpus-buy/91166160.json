@@ -1,0 +1,93 @@
+{
+ "id": "91166160",
+ "mode": "buy",
+ "displayAddress": "Oyster Wharf, 18 Lombard Road, London, SW11",
+ "outcode": "SW11",
+ "incode": "3RR",
+ "latitude": 51.47136,
+ "longitude": -0.177685,
+ "priceAmount": 750000,
+ "priceLabel": "£750,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91166160",
+ "area": "London",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 132,
+  "annualGroundRent": 330,
+  "annualServiceCharge": 7000,
+  "councilTaxBand": "G",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 29/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A delightful two double bedroom apartment on the fourth floor (lift) with a stunning west facing roof terrace with views down the River Thames.\n\n\rThis impeccably presented apartment sits in a prestigious riverside development, offering breath-taking panoramic views of the Thames and a genuinely unparalleled riverside lifestyle.\n\nSpanning over 900 square feet on the fourth floor, (with lift) the apartment features a spacious open-plan reception room where floor-to-ceiling glass doors open onto a generous south-facing roof terrace, the perfect spot for outdoor entertaining against a backdrop of stunning river views.\n\nThe sleek, modern kitchen is fully fitted and includes a breakfast bar alongside ample space for a family dining table. To the rear of the apartment, the primary bedroom benefits from an en-suite bathroom and built-in wardrobes, while a second double bedroom with built-in wardrobe and a family bathroom complete the accommodation.\n\nOyster Wharf is situated close to Clapham Junction (mainline) which provides fantastic transport links into Victoria and Waterloo.  Clapham Junction also provides a wide range of shops, bars and restaurants.  Battersea Square is close by and there is access both East and West via the Thames Path.",
+ "keyFeatures": [
+  "Two Double Bedrooms",
+  "Two Bathrooms (one en-suite)",
+  "Open-Plan Kitchen/Reception Room",
+  "West Facing Roof Terrace",
+  "River Views",
+  "Secure Underground Parking",
+  "Concierge"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/ad07b91ee/91166160/ad07b91eeb6b7b5b7ec6a47e08243667.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c75067162/91166160/c75067162e99469c2dd1626a2da65ae0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/13f00e00e/91166160/13f00e00e86d87b4e33b4decba09d8eb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa710df3f/91166160/aa710df3f82e12f3676174b5f1fd3d97.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d3e6bd8e7/91166160/d3e6bd8e782a52e365905c75454f3968.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6f9ff34d3/91166160/6f9ff34d3378f6ae699685f2d66f5468.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bc8e8b71e/91166160/bc8e8b71e6ba5555678c7e7d1bc39f22.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3eb19d332/91166160/3eb19d3326188517bc7754e7c7828a96.jpeg",
+  "https://media.rightmove.co.uk/property-photo/886093c8c/91166160/886093c8c1c4cde89c2ff9678810019b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e4bedfe19/91166160/e4bedfe19cc2e1849464aadfb978f407.jpeg",
+  "https://media.rightmove.co.uk/property-photo/09744c5cd/91166160/09744c5cd36c442ecd48c041212a2975.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8274ed8dc/91166160/8274ed8dca1249f7adcdb17cd77f24eb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cea99d322/91166160/cea99d322eedfd4ea7319f689970bf34.jpeg",
+  "https://media.rightmove.co.uk/property-photo/939f1cdde/91166160/939f1cdde0a407205fdef89fbef6d9fc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/affe7e367/91166160/affe7e36749ddb720b6eb53d1a9ba91d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cbf890993/91166160/cbf8909936d003d92e34c475c121e597.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7155f368a/91166160/7155f368aaceb9c349a6202a1048b2ec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/57a483750/91166160/57a483750333b7c5befc6614a9a2a9f1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ec6f8b821/91166160/ec6f8b821430551e19bdd8b7c14fe40b.jpeg"
+ ],
+ "imageCount": 19,
+ "nearestStations": [
+  {
+   "name": "Imperial Wharf Station",
+   "miles": 0.33895539328898316,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Clapham Junction Station",
+   "miles": 0.6539309251353526,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Wandsworth Town Station",
+   "miles": 0.8569116772049387,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Radstock Property, Central & South West London",
+ "city": "London",
+ "sourceOutcode": "SW11",
+ "scrapedAt": "2026-08-31T16:59:13.589Z"
+}

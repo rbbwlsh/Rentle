@@ -1,0 +1,81 @@
+{
+ "id": "90912204",
+ "mode": "buy",
+ "displayAddress": "Hardgate, Aberdeen",
+ "outcode": "AB10",
+ "incode": "6AD",
+ "latitude": 57.134609,
+ "longitude": -2.114429,
+ "priceAmount": 60000,
+ "priceLabel": "£60,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90912204",
+ "area": "Hardgate, Aberdeen",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": null,
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Added on 13/07/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Smart Sales & Investments are delighted to present this affordable ground floor flat in the vibrant city of Aberdeen. Featuring a well proportioned bedroom, fitted kitchen, and a family bathroom, this home offers a practical and comfortable layout suited to everyday living. With access to a communal garden, residents enjoy valuable outdoor space that enhances lifestyle appeal.\n\nVacant and in walk in condition, the property is ready for immediate occupancy, making it an ideal choice for first time buyers, downsizers, or investors seeking a low maintenance addition to their portfolio. Situated in a central Aberdeen location, the flat benefits from excellent access to shops, cafes, schools, leisure facilities, and strong transport links across the city. Aberdeen's reputation as a hub for professionals and students ensures consistent demand and long term value.\n\nINVESTMENT HIGHLIGHTS:\n* Vacant & Ready to Occupy: Immediate availability for owner occupiers or tenants.\n* Walk In Condition: No renovation required. A turnkey comfort and convenience.\n* Ideal for First Time Buyers: Affordable entry point into Aberdeen's property market.\n* Communal Garden Appeal: Outdoor space enhances rental desirability and supports premium rents.\n* Central Aberdeen Location: Close to shops, cafes, schools, and leisure facilities.\n* Transport Links: Well connected to city routes and public transport.\n* Capital Growth Potential: Aberdeen's strong rental market and ongoing development support appreciation.\n\nThis is more than just a property - it's a chance to secure a well located home with genuine lifestyle and investment appeal. Ideal for residential buyers or investors seeking reliable returns. Enquire now!\nThis investment property represents an outstanding opportunity for savvy investors or residential buyers looking to acquire a valuable asset. Smart Sales & Investments are committed to facilitating a smooth transaction process. To allow for maximum commitment to the sale from both parties, there will be a buyer's premium payable to secure the property.",
+ "keyFeatures": [
+  "CITY CENTRE LOCATION",
+  "EXCELLENT TRANSPORT LINKS",
+  "STRONG RENTAL DEMAND",
+  "CAPITAL GROWTH POTENTIAL",
+  "GROUND FLOOR CONVENIENCE",
+  "COMFORTABLE LAYOUT",
+  "BUY-TO-LET OPPORTUNITY",
+  "AFFORDABLE ENTRY POINT",
+  "COMMUNAL GARDEN",
+  "WALK-IN CONDITION"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/86956e42d/90912204/86956e42d0831b99410d580251bd069e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0b2386228/90912204/0b23862284099fe6ff5ef383b00c822b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6a62a0b25/90912204/6a62a0b25f23b97c7d5706f3a0c33c9e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/64ecf1438/90912204/64ecf1438fa21ec91940330d98debaef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cafcbd94b/90912204/cafcbd94b605976d49b8b412609047ee.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ec46606f2/90912204/ec46606f243bff45f19428b369f0693b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ff6dde5d/90912204/8ff6dde5d1e607f5287389ee2048dcfb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/070a6df9d/90912204/070a6df9da1a3723b53dbf6195b0a755.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a4f3a5516/90912204/a4f3a551635f2efd9a9049bb65c84ca0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/928b797e1/90912204/928b797e140f27474fa5af325ecb23b6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d1a986388/90912204/d1a98638897d7cfea14fe9ba7453025f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/df9217e34/90912204/df9217e347b5f7cf87c9d6987ae4e188.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8c7ed8cec/90912204/8c7ed8cec02d123afef1674a20c05d77.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7d084caaf/90912204/7d084caaff9bf7112a1a591defc6f819.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ef5dc2235/90912204/ef5dc2235bd1ad66bc630cb4419ba7c6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dc629b37b/90912204/dc629b37b9dc2f48cce2ed4493c85ac4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7025ffe74/90912204/7025ffe74908f85e5190165bb3dff362.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2c2858a29/90912204/2c2858a29942970b11d4e6679c16aed0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/57502a426/90912204/57502a426cf82417543980652328ecfc.jpeg"
+ ],
+ "imageCount": 19,
+ "nearestStations": [
+  {
+   "name": "Aberdeen Station",
+   "miles": 0.8598637432854523,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Smart Sales & Investments, Glasgow",
+ "city": "Aberdeen",
+ "sourceOutcode": "AB10",
+ "scrapedAt": "2026-08-31T14:58:30.615Z"
+}

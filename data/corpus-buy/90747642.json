@@ -1,0 +1,95 @@
+{
+ "id": "90747642",
+ "mode": "buy",
+ "displayAddress": "Rudge Avenue, Wolverhampton, West Midlands, WV1",
+ "outcode": "WV1",
+ "incode": "2AS",
+ "latitude": 52.58909,
+ "longitude": -2.092683,
+ "priceAmount": 185000,
+ "priceLabel": "£185,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90747642",
+ "area": "Wolverhampton, West Midlands",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Semi-Detached",
+ "details": {
+  "propertyType": "Semi-Detached",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": null,
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 18/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Whitegates have immense pleasure in OFFERING for SALE this stunning TWO-bedroom Semi Detached spacious home located on Rudge Avenue, Wolverhampton. This property is situated very close to the Wolverhampton City Centre and has a wide range of amenities close by. \n\nThe property itself benefits from an Entrance Porch, Spacious Living Room with Gas Fire and surround, Kitchen with dining space, Utility and a Conservatory to the side of the property. \n\nOn the first floor you have two Bedrooms with built in Sharpe Wardrobes, separate WC and a family bathroom. \n\nTo the rear of the property, you have a large lawned and patio area. The driveway is suitable for at least two cars. \n\nDG Windows and Electrical Heating. \n\nEPC – E",
+ "keyFeatures": [
+  "Two Bedrooms",
+  "Porch Entrace",
+  "Living Room",
+  "Kitchen/Diner",
+  "Utility Room",
+  "Conservatory",
+  "Garden",
+  "WC",
+  "Bathroom",
+  "Driveway Parking"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1e742bcb7/90747642/1e742bcb72fd8233aa592e7867408349.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2bd94891c/90747642/2bd94891c9f6b191757400ce3f2e3424.jpeg",
+  "https://media.rightmove.co.uk/property-photo/223604cbd/90747642/223604cbd4c25c23709b1d7bec0c6490.jpeg",
+  "https://media.rightmove.co.uk/property-photo/660574d1e/90747642/660574d1e3b16d171e151a423c6721d1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6afe6aadb/90747642/6afe6aadb0125eb1f2cf6158f9961a96.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b7448c677/90747642/b7448c677d87dbc50d8fc881cd965992.jpeg",
+  "https://media.rightmove.co.uk/property-photo/22f067b77/90747642/22f067b77be32e8b4ca3c90b24710f0d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/71ce8718c/90747642/71ce8718c8e49002fb86a2ed8d017c67.jpeg",
+  "https://media.rightmove.co.uk/property-photo/698a220c4/90747642/698a220c424a47e8e686f7144ab90f80.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7bbd4220b/90747642/7bbd4220bd502cbc72121a48c0ab9ab5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2a079170f/90747642/2a079170f3714e30779447a54239d69e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a48c9b287/90747642/a48c9b2875e903f453ac9c94c53bf1e2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/39cd3f582/90747642/39cd3f582847dd0c5da05f9675be60a5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa3728728/90747642/aa3728728317980035f522494e70d494.jpeg",
+  "https://media.rightmove.co.uk/property-photo/04c559116/90747642/04c5591164cbbc5b8656aae32460550f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eb2de1fdb/90747642/eb2de1fdb2a87b524235bc3fef6aab62.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8e821d178/90747642/8e821d178c9026f7623ec13989539d1b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b9e192886/90747642/b9e1928863921678e0fe396dd4e546f6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9b841c8b1/90747642/9b841c8b1173316c5835fec65e311f47.jpeg"
+ ],
+ "imageCount": 19,
+ "nearestStations": [
+  {
+   "name": "Wolverhampton Station",
+   "miles": 1.1602113456056102,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "The Royal Tram Stop",
+   "miles": 1.1824982855484085,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Priestfield Tram Stop",
+   "miles": 1.229200760715468,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Whitegates, Wolverhampton",
+ "city": "Wolverhampton",
+ "sourceOutcode": "WV1",
+ "scrapedAt": "2026-08-31T15:00:19.781Z"
+}

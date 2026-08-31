@@ -1,0 +1,83 @@
+{
+ "id": "174054773",
+ "mode": "buy",
+ "displayAddress": "Church Street, Bathford, Bath",
+ "outcode": "BA1",
+ "incode": "7TU",
+ "latitude": 51.400124,
+ "longitude": -2.303417,
+ "priceAmount": 375000,
+ "priceLabel": "£375,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/174054773",
+ "area": "Bathford, Bath",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Semi-Detached",
+ "details": {
+  "propertyType": "Semi-Detached",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 1044,
+  "sizeSqM": 97,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 0,
+  "councilTaxBand": "D",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": 1044,
+ "sizeSqM": 97,
+ "description": "A very charming early 18th Century semi-detached cottage of character, delightfully located in the heart of this highly sought after village. Listed Grade II, the house offers spacious 2 double bedroom, 2 bathroom accommodation over 2 floors and enjoys a pleasing semi-rural view towards Solsbury Hill.\n\nACCOMMODATION\n\n2 double bedrooms\n\n bathroom\n\nshower room\n\nkitchen/dining room\n\nsitting room\n\nlanding/study area\n\nconservatory\n\ngas fired heating\n\nEXTERNALLY\n\n6 Church Street enjoys a small but pretty rear courtyard garden. Mostly walled and easily maintained, there are well stocked flower borders together with a couple of sitting areas - perfect for outdoor dining. The garden in front of the house is owned by number 5, with a right of way for number 6 to the road. Parking is ‘on street’.\n\nLOCATION\n\nThe property stands behind a cobbled pavement in this very desirable road in the middle of Bathford. It is within easy walking distance of the various amenities in the village (including a community shop/cafe, hair salon, pub, parish rooms, village club, frequent bus service, an excellent primary school, children’s playground, allotments, rugby and cricket clubs and a church). Wonderful walks are very close to hand - in the nearby open countryside, along the river, or up in the woodland at Brown’s Folly, yet the city centre is just 3½ miles away.\n\nTenure: Freehold\n\nCouncil Tax Band: ‘D’ £2,365.07 - 2026/27",
+ "keyFeatures": [
+  "A very charming early 18th Century semi-detached cottage of character",
+  "Lovely location in the heart of this highly sought after village",
+  "Spacious 2 double bedroom, 2 bathroom accommodation over 2 floors",
+  "Pretty garden and pleasing semi-rural view towards Solsbury Hill"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/50a4b6dbc/174054773/50a4b6dbc8582c83c6af4ebfffe2d895.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ecdfc7e73/174054773/ecdfc7e73502bccbb6167660efca927d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f3ede267a/174054773/f3ede267af0c67117f263d61f5d966b0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/597317f1c/174054773/597317f1cd449768d696a2bf72b45a3f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2c0b4a921/174054773/2c0b4a921c7934f6b1eaa773e3487185.jpeg",
+  "https://media.rightmove.co.uk/property-photo/80c4547d2/174054773/80c4547d278b077695604abcd545c870.jpeg",
+  "https://media.rightmove.co.uk/property-photo/53061c283/174054773/53061c283e2fcb62aedee39cc68449ff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7effc9a01/174054773/7effc9a0139d4e205dbe7ce7d4954b61.jpeg",
+  "https://media.rightmove.co.uk/property-photo/060a9f543/174054773/060a9f543718faf6951456bf2e59295d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/def7b7833/174054773/def7b78333a33631d7ae55f91942268b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee5d46440/174054773/ee5d46440ba5ebb44c2fa766fe814080.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8e1409609/174054773/8e140960961cd863395df086263cb1c3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/40ec00af1/174054773/40ec00af1fe8054cc28c676332bce820.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Bath Spa Station",
+   "miles": 2.7950943823985734,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Oldfield Park Station",
+   "miles": 3.645887259395182,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Freshford Station",
+   "miles": 4.024367453501127,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Whiteley Helyar, Bath",
+ "city": "Bath",
+ "sourceOutcode": "BA1",
+ "scrapedAt": "2026-08-31T15:01:58.265Z"
+}

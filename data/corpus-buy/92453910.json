@@ -1,0 +1,79 @@
+{
+ "id": "92453910",
+ "mode": "buy",
+ "displayAddress": "Bowling Green Street, Leicester, LE1",
+ "outcode": "LE1",
+ "incode": "6AT",
+ "latitude": 52.632733,
+ "longitude": -1.132142,
+ "priceAmount": 110000,
+ "priceLabel": "£110,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92453910",
+ "area": "Leicester",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 106,
+  "annualGroundRent": 150,
+  "annualServiceCharge": 864,
+  "councilTaxBand": "B",
+  "priceQualifier": "Offers in Region of",
+  "listingUpdate": "Added on 27/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Welcome to this charming 2-bedroom flat located in a bustling city centre, offering a convenient and vibrant urban lifestyle. Boasting a kitchen/diner area that is ideal for entertaining guests or enjoying intimate meals, this property provides a comfortable living space for its residents. The bathroom is well-appointed and serves as a private sanctuary for relaxation after a long day.\n\nPerfectly suited for first-time buyers seeking a cosy yet functional abode, or investors looking for a lucrative opportunity, this flat presents versatile possibilities for various lifestyles. With a chain-free status, the purchasing process is streamlined, ensuring a quick and hassle-free transition for the new owners.\n\nThe city centre location offers unparalleled access to a myriad of amenities, including shopping centres, dining establishments, cultural venues, and public transportation options. Residents will find themselves immersed in the vibrant pulse of urban living, with everything they need right at their doorstep. Whether you are looking to settle down in a convenient city centre location or seeking a profitable investment opportunity, this 2-bedroom flat caters to your needs with its versatile appeal. The property's charm and practicality make it a standout choice in the real estate market, promising a delightful living experience for its future occupants.",
+ "keyFeatures": [
+  "Two Bedroom Flat",
+  "Kitchen/Diner",
+  "Bathroom",
+  "City Centre Location",
+  "Perfect First Time Buyer or Investment Property",
+  "Chain Free"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/b4c0521f0/92453910/b4c0521f05d5d9d8ae46b6231475e4cd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/11b70e8b7/92453910/11b70e8b7778a6c5c440902309bc5f37.jpeg",
+  "https://media.rightmove.co.uk/property-photo/864b09111/92453910/864b09111955f0a41bd46f7dd0fab2af.jpeg",
+  "https://media.rightmove.co.uk/property-photo/41f814d03/92453910/41f814d03c3b4c10bac6efcfb01b64b6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6811b55e2/92453910/6811b55e271a8ba93cda3914cefd8411.jpeg",
+  "https://media.rightmove.co.uk/property-photo/525645033/92453910/525645033c95a18b6301d6cd84b3bace.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d74be1aea/92453910/d74be1aea9767cad82626fe5e8c484f1.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Leicester Station",
+   "miles": 0.34354096338264967,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "South Wigston Station",
+   "miles": 3.4882225112141114,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Syston Station",
+   "miles": 4.729330385564774,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Abbey Homes, Leicester",
+ "city": "Leicester",
+ "sourceOutcode": "LE1",
+ "scrapedAt": "2026-08-31T15:00:37.723Z"
+}

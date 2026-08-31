@@ -1,0 +1,92 @@
+{
+ "id": "91162797",
+ "mode": "buy",
+ "displayAddress": "Westbury Close, Liverpool",
+ "outcode": "L17",
+ "incode": "5BD",
+ "latitude": 53.36982,
+ "longitude": -2.945,
+ "priceAmount": 435000,
+ "priceLabel": "£435,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91162797",
+ "area": "Liverpool",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Detached",
+ "details": {
+  "propertyType": "Detached",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "D",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 25/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "SUMMARY\nThe home sits in a quiet cul-de-sac location within this sought-after residential close. Aigburth is a highly desirable suburb with excellent local amenities, parks, good schools, and convenient transport links into Liverpool city centre.\n\nDESCRIPTION\nDetached family home in the popular Aigburth area of Liverpool, offering approximately 116 square metres of versatile living space. This property benefits from a driveway providing off-road parking and a single garage with internal access. There is a welcoming porch leading into the hall and a useful guest WC on the ground floor. The accommodation includes a spacious living room and a separate dining room, along with a kitchen/breakfast area that opens into a bright conservatory, creating an ideal space for family meals or entertaining. Upstairs, the first floor provides three good-sized bedrooms and family bathroom facilities. The layout offers excellent flow for modern family living, with distinct reception spaces on the ground floor and private bedroom accommodation above. The home sits in a quiet cul-de-sac location within this sought-after residential close. Aigburth is a highly desirable suburb with excellent local amenities, parks, good schools, and convenient transport links into Liverpool city centre.\n\nAgents Note \n''Please note that an AML fee is chargeable once an offer is accepted to cover the cost of carrying out the required identity and anti-money laundering checks.''\n\n1. MONEY LAUNDERING REGULATIONS: Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale.\r\n2. General: While we endeavour to make our sales particulars fair, accurate and reliable, they are only a general guide to the property and, accordingly, if there is any point which is of particular importance to you, please contact the office and we will be pleased to check the position for you, especially if you are contemplating travelling some distance to view the property.\r\n3. The measurements indicated are supplied for guidance only and as such must be considered incorrect.\r\n4. Services: Please note we have not tested the services or any of the equipment or appliances in this property, accordingly we strongly advise prospective buyers to commission their own survey or service reports before finalising their offer to purchase.\r\n5. THESE PARTICULARS ARE ISSUED IN GOOD FAITH BUT DO NOT CONSTITUTE REPRESENTATIONS OF FACT OR FORM PART OF ANY OFFER OR CONTRACT. THE MATTERS REFERRED TO IN THESE PARTICULARS SHOULD BE INDEPENDENTLY VERIFIED BY PROSPECTIVE BUYERS OR TENANTS. NEITHER SEQUENCE (UK) LIMITED NOR ANY OF ITS EMPLOYEES OR AGENTS HAS ANY AUTHORITY TO MAKE OR GIVE ANY REPRESENTATION OR WARRANTY WHATEVER IN RELATION TO THIS PROPERTY.",
+ "keyFeatures": [
+  "Three bedroom Detached Property",
+  "Lounge ",
+  "Dining Room",
+  "Kitchen Diner",
+  "utility Room  And Conservatory",
+  "Family Bathroom And Ensuite Shower Room",
+  "Rear Garden",
+  "Driveway And Garage"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a0426db39/91162797/a0426db39e15d31abd290c99a403ace5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a7e91a8ab/91162797/a7e91a8ab6ffd30e75283a2397112a31.jpeg",
+  "https://media.rightmove.co.uk/property-photo/edd9fe6d5/91162797/edd9fe6d59e7d777c7affce46d2a872e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b923c5080/91162797/b923c5080f3fbf2e1268fa692f7c1c8d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3b94525cb/91162797/3b94525cb4b2d000cee7d6ceb64067b4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/71725d43b/91162797/71725d43bd13820092e9c71ff710005c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3318e3ad1/91162797/3318e3ad1353d3f914e123147b47d126.jpeg",
+  "https://media.rightmove.co.uk/property-photo/538d61ee6/91162797/538d61ee6cace163d4ee4a757eb81e68.jpeg",
+  "https://media.rightmove.co.uk/property-photo/93f396146/91162797/93f39614623d08e9b9b699749383c3f9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0474982dc/91162797/0474982dc2d966652628ac1a5c803dc2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2ab97daf9/91162797/2ab97daf96d68415582c0de75cc1bb47.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8bb25e206/91162797/8bb25e2069c5196fdfaa4d3bedd5e18d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/67c3ecb3c/91162797/67c3ecb3cb48bad295b889e6e8d0f80a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/891569a20/91162797/891569a2032fe02591660f1699058fc3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/834952b0e/91162797/834952b0ef32f792535ccf64b0bae820.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8f63e07af/91162797/8f63e07afc418674422b1bc245ef5b8e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4a9f7135a/91162797/4a9f7135a171bd509704946b33662183.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8f63e07af/91162797/8f63e07afc418674422b1bc245ef5b8e.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "St. Michaels Station",
+   "miles": 0.5406719175007615,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Aigburth Station",
+   "miles": 0.8178035563157104,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Mossley Hill Station",
+   "miles": 1.3872172255502344,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Jones & Chapman, Allerton",
+ "city": "Liverpool",
+ "sourceOutcode": "L17",
+ "scrapedAt": "2026-08-31T16:58:19.438Z"
+}

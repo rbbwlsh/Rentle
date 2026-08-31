@@ -1,0 +1,85 @@
+{
+ "id": "91244115",
+ "mode": "buy",
+ "displayAddress": "Waverley Road, Sefton Park, Liverpool",
+ "outcode": "L17",
+ "incode": "8UB",
+ "latitude": 53.38221,
+ "longitude": -2.94693,
+ "priceAmount": 120000,
+ "priceLabel": "£120,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91244115",
+ "area": "Sefton Park, Liverpool",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": 25,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 24/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "SUMMARY\nWaverley Road is a sought-after residential street in Liverpool, close to local amenities, parks, and with easy access to the city centre via road and public transport. The area offers a vibrant community feel with nearby shops, cafés, and green spaces.\n\nDESCRIPTION\nThis charming two-storey apartment offers bright and well-proportioned living space in a highly convenient location. Situated on Waverley Road in the popular L17 postcode, the property provides approximately 44.7 m² (481 sq.ft.) of internal accommodation arranged over the Lower Ground and Ground floors.\nThe ground floor features a spacious open-plan kitchen, diner and living room, creating a versatile heart of the home ideal for both relaxing and entertaining. This bright space flows naturally and provides plenty of room for dining and seating areas. A vestibule provides access to the property. On the lower ground floor there is a generous double bedroom with ample room for a double bed and additional furniture, along with a modern shower room fitted with WC, wash basin and shower. The layout is practical and efficient, making excellent use of the available space. The property benefits from off-road parking and access to a communal garden, adding further appeal for convenience and outdoor space. It would suit professionals, couples or first-time buyers looking for a low-maintenance home with character.\nWaverley Road is a sought-after residential street in Liverpool, close to local amenities, parks, and with easy access to the city centre via road and public transport. The area offers a vibrant community feel with nearby shops, cafés, and green spaces. A fantastic opportunity to acquire a well-presented flat in a prime L17 location - ideal for owner-occupiers or investors.\n\n*note* \n\"All services/appliances have not and will not be tested\"\n\n\"Please note that an AML fee is chargeable once an offer is accepted to cover the cost of carrying out the required identity and anti-money laundering checks. Once these checks have been completed, the fee cannot be refunded, even if the property purchase does not go ahead.\"\n\nWe currently hold lease details as displayed above, should you require further information please contact the branch.  Please note additional fees could be incurred for items such as leasehold packs.\n\n1. MONEY LAUNDERING REGULATIONS: Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale.\r\n2. General: While we endeavour to make our sales particulars fair, accurate and reliable, they are only a general guide to the property and, accordingly, if there is any point which is of particular importance to you, please contact the office and we will be pleased to check the position for you, especially if you are contemplating travelling some distance to view the property.\r\n3. The measurements indicated are supplied for guidance only and as such must be considered incorrect.\r\n4. Services: Please note we have not tested the services or any of the equipment or appliances in this property, accordingly we strongly advise prospective buyers to commission their own survey or service reports before finalising their offer to purchase.\r\n5. THESE PARTICULARS ARE ISSUED IN GOOD FAITH BUT DO NOT CONSTITUTE REPRESENTATIONS OF FACT OR FORM PART OF ANY OFFER OR CONTRACT. THE MATTERS REFERRED TO IN THESE PARTICULARS SHOULD BE INDEPENDENTLY VERIFIED BY PROSPECTIVE BUYERS OR TENANTS. NEITHER SEQUENCE (UK) LIMITED NOR ANY OF ITS EMPLOYEES OR AGENTS HAS ANY AUTHORITY TO MAKE OR GIVE ANY REPRESENTATION OR WARRANTY WHATEVER IN RELATION TO THIS PROPERTY.",
+ "keyFeatures": [
+  "One Bedroom Apartment ",
+  "Open Plan Living ",
+  "Fitted Kitchen ",
+  "Double Bedroom",
+  "Gas Central Heating",
+  "Communal Garden ",
+  "Off Road Parking",
+  "Close To Lark Lane"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/b7605434f/91244115/b7605434fc9c459074370b915540867c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2a5a80e92/91244115/2a5a80e9233e328ec56fea90007ff778.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eaeb6d9e0/91244115/eaeb6d9e0e328a75f1b761a63fee5f62.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f61608fd6/91244115/f61608fd6a5b5dde708dbd06f5b414cb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/00eb09e1e/91244115/00eb09e1e46fb5326392d1afe0d61ad0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/93d793688/91244115/93d79368825cfede7246739b4c551bbc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7fa358106/91244115/7fa358106fd3ff40fdcadfb05e599671.jpeg",
+  "https://media.rightmove.co.uk/property-photo/af4640b8d/91244115/af4640b8dd661c4135b1faa75cbdb9b4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/61f119fee/91244115/61f119fee2b19121f603e27005fbfd6f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e3354de3c/91244115/e3354de3c53b1cab0d1d7bfc0d873ee7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3857ce3b2/91244115/3857ce3b2d5803eb37ff8e9665f8e064.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "St. Michaels Station",
+   "miles": 0.5028136800859447,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Brunswick Station",
+   "miles": 1.2060773288571,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Mossley Hill Station",
+   "miles": 1.3339743046714214,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Jones & Chapman, Allerton",
+ "city": "Liverpool",
+ "sourceOutcode": "L17",
+ "scrapedAt": "2026-08-31T15:04:09.855Z"
+}

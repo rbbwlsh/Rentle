@@ -1,0 +1,91 @@
+{
+ "id": "91961211",
+ "mode": "buy",
+ "displayAddress": "Junior Street, The Annexe, LE1",
+ "outcode": "LE1",
+ "incode": "4QF",
+ "latitude": 52.639699,
+ "longitude": -1.136881,
+ "priceAmount": 155000,
+ "priceLabel": "£155,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91961211",
+ "area": "The Annexe",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 980,
+  "annualGroundRent": 128,
+  "annualServiceCharge": 1536,
+  "councilTaxBand": "C",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 25/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This luxury first floor apartment presents a rare opportunity to acquire a stylish and contemporary home  within walking distance of the city centre, ideal for professionals or those seeking a sophisticated urban lifestyle. The property benefits from under floor heating and double glazing throughout and features a open plan living area designed to impress, offering a seamless flow between the lounge and kitchen spaces .The  lounge area is light-filled and inviting, with direct access to balcony seating (perfect for relaxing or entertaining guests). The luxury fitted kitchen is equipped with high-quality integrated appliances, sleek cabinetry, and ample work surfaces, catering to both every-day living and culinary occasions. There are two generously sized double bedrooms, each thoughtfully designed to provide comfort and flexibility, whether used as sleeping quarters, a guest room, or a home office. The modern shower room is finished to a high standard, featuring contemporary fittings. Residents benefit from allocated secure parking, ensuring peace of mind and convenience in this sought-after central location. Offered to the market with no onward chain, this apartment is ready for immediate occupation, making it an excellent choice for buyers seeking a straightforward purchase. The property’s prime location places a wealth of amenities, shops, restaurants, and transport links within easy reach, allowing residents to enjoy all the advantages of city living. With its high specification finish, spacious layout, and enviable position, this apartment represents a superb investment or a wonderful place to call home. Early viewing is highly recommended to appreciate the quality and lifestyle on offer.",
+ "keyFeatures": [
+  "LUXURY FIRST FLOOR APARTMENT",
+  "FEATURE OPEN PLAN LIVING AREA",
+  "LOUNGE AREA WIH ACCESS TO BALCONY SEATING",
+  "LUXURY FITTED KITCHEN WITH INTEGRATED APPLIANCES",
+  "TWO DOUBLE BEDROOMS",
+  "MODERN SHOWER ROOM",
+  "ALLOCATED SECURE PARKING",
+  "WALKING DISTANCE CITY CENTRE",
+  "NO ONWARD CHAIN"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/39867ff14/91961211/39867ff141c87e010c26eb15b2e7e01e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b3cdda8bb/91961211/b3cdda8bbdb12abfca837b54f0521775.jpeg",
+  "https://media.rightmove.co.uk/property-photo/90429752d/91961211/90429752dba367b330400b5ecc4ab3af.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1ebd20496/91961211/1ebd20496df16dbf13f7137078de040a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dfc5ac695/91961211/dfc5ac695054e8b9d7cf592dae366ed1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0ef5c0c49/91961211/0ef5c0c495395c31ac69cafd5940c532.jpeg",
+  "https://media.rightmove.co.uk/property-photo/423d06d36/91961211/423d06d364dd70734595615fbaa8695c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9956ff7ee/91961211/9956ff7ee053c01648d8f8912581300b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8a106a822/91961211/8a106a8224ea66db963e7ef5d306a074.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c94ec8d43/91961211/c94ec8d439e04fb32f2c8fab7d272f0f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/29929f6be/91961211/29929f6bec74eb8f32c20bdcefb2f792.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cc6a43e97/91961211/cc6a43e971ccc22a05ed44dd778d2de8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/03249414d/91961211/03249414d6cf49ce2ff57273813e52c9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/41fdc5985/91961211/41fdc59856139d0e348f0e07127c88ab.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5020dabfe/91961211/5020dabfe7b84271735e7920bb684f30.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8d44afd4d/91961211/8d44afd4dd8f731ce33d07ebadcece5d.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Leicester Station",
+   "miles": 0.7598198325373715,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "South Wigston Station",
+   "miles": 3.9707921630291185,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Syston Station",
+   "miles": 4.40195152266441,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Moore & York, Covering Leicestershire",
+ "city": "Leicester",
+ "sourceOutcode": "LE1",
+ "scrapedAt": "2026-08-31T15:00:34.491Z"
+}

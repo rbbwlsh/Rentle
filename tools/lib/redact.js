@@ -1,4 +1,5 @@
-// Strips rent-revealing text out of listing copy at build time.
+// Strips price-revealing text out of listing copy at build time — the rent in
+// a lettings ad, the asking price in a sale one.
 //
 // The ad body is scraped verbatim, and letting agents put the answer right in
 // it: "RENT - £1,100.00 PCM", "£102pppw including bills", "Deposit: equivalent
@@ -30,6 +31,12 @@ const REVEALS = [
   /deposit/i,
   /\bholding\s+(?:fee|deposit|sum)\b/i,
   /\b(?:zero|nil|no)[-\s]deposit\b/i,
+  // Sale ads name the price in their own idiom, and not always with a £:
+  // "Guide Price 425,000", "Offers in excess of 300,000", "OIRO £250,000".
+  // The bare `£` rule above catches most of it; these catch the rest.
+  /\b(?:guide|asking)\s+price\b/i,
+  /\boffers?\s+(?:over|in\s+excess\s+of|in\s+the\s+region\s+of|in\s+region\s+of)\b/i,
+  /\b(?:oiro|oieo|poa)\b/i,
   // "five weeks' rent", "one month's rent", "6 weeks rent".
   /\b(?:\d+|a|one|two|three|four|five|six|seven|eight|nine|ten)\s*[-–]?\s*(?:weeks?|months?)[’']?s?\s+rent\b/i,
   // A figure quoted straight off a rent label: "Rent 1100", "Monthly rent:

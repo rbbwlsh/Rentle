@@ -1,0 +1,82 @@
+{
+ "id": "89496084",
+ "mode": "buy",
+ "displayAddress": "Midland Street, Sheffield, S1",
+ "outcode": "S1",
+ "incode": "4SZ",
+ "latitude": 53.37256,
+ "longitude": -1.46925,
+ "priceAmount": 175000,
+ "priceLabel": "£175,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89496084",
+ "area": "Sheffield",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 14/07/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "17 Midland Street, S1 \n\nWe advise that an offer has been made for the above property in the sum of £171,000. Any persons wishing to increase on this offer should notify the agents of their best offer prior to exchange of contracts.\n\nAvailable with no upward chain is this deceptively spacious two double bedroom mid-terrace property, situated on an attractive cobbled road and offering well-proportioned accommodation throughout. \n\nThe property is ideally positioned within walking distance of Sheffield City Centre, providing access to an excellent range of amenities, transport links, and the train station, as well as convenient access to major road networks.\n\nThe accommodation benefits from gas-fired central heating and double glazing, and briefly comprises an entrance vestibule which leads into a welcoming hallway. There is a living room to the front aspect featuring a decorative fireplace, together with a separate dining room to the rear which also enjoys an ornate fireplace, adding character to the space. Beyond this is an off-shot kitchen of good proportions, fitted with a range of units and providing access to a useful cellar storage area.\n\nTo the first floor, the property offers two well-sized double bedrooms, along with a particularly spacious bathroom fitted with a white three-piece suite.\n\nExternally, the property benefits from a pleasant enclosed rear courtyard garden, incorporating a selection of established plants and a timber decking terrace, creating a practical outdoor seating area. There is also a brick-built outhouse providing additional storage, together with a gate leading to a communal rear passageway.\n\nThis property represents an excellent opportunity for a range of purchasers, offering generous accommodation in a highly convenient and sought-after location.\n\n \n\n \n\nPlease note that the AML fee covers the cost of carrying out the required identity and anti-money laundering checks. Once these checks have been completed, the fee cannot be refunded, even if the property purchase does not go ahead.",
+ "keyFeatures": [
+  "Mid terrace property",
+  "Two bedrooms",
+  "Central location",
+  "Spacious room sizes",
+  "Viewing advised",
+  "No chain"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/e051529f7/89496084/e051529f72f12d1b87a1737d83765dc1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4bba123ca/89496084/4bba123cae7c86e4db1820c01da449cd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/46afb2727/89496084/46afb2727a27543c505ba78ba47eb352.jpeg",
+  "https://media.rightmove.co.uk/property-photo/87dbf3c96/89496084/87dbf3c9629130c25cbd83b1ffe146ec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c7a14c4dc/89496084/c7a14c4dcc212f5e22fd42b6fe4d0126.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9aafa6900/89496084/9aafa6900e3ee1737bfb659986ada40e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ccd2799a6/89496084/ccd2799a67b732b201b8ef76acbde010.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b63331ae0/89496084/b63331ae0e4219c34c0c36ae4827336b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e5f94c9c3/89496084/e5f94c9c38034e71fb803ba9ac1b60aa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9f40877fc/89496084/9f40877fcc3d0b6fb925cd62e1006ba9.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Granville Road/The Sheffield College Tram Stop",
+   "miles": 0.3463991058322006,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Sheffield Tram Stop",
+   "miles": 0.6207786792384186,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "West Street Tram Stop",
+   "miles": 0.6487008223955012,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Blundells, Woodseats",
+ "city": "Sheffield",
+ "sourceOutcode": "S1",
+ "scrapedAt": "2026-08-31T16:55:37.890Z"
+}

@@ -1,0 +1,86 @@
+{
+ "id": "152250518",
+ "mode": "buy",
+ "displayAddress": "Whitworth Street West, Manchester, Greater Manchester, M1",
+ "outcode": "M1",
+ "incode": "5EB",
+ "latitude": 53.474711,
+ "longitude": -2.242133,
+ "priceAmount": 185000,
+ "priceLabel": "£185,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/152250518",
+ "area": "Manchester, Greater Manchester",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 753,
+  "sizeSqM": 70,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 27/08/2026"
+ },
+ "sizeSqFt": 753,
+ "sizeSqM": 70,
+ "description": "A spacious and well kept 2-bedroom flat located in Manchester. There are various valuable amenities within walking distance of the property and it is able to generate rewarding rental returns.\n\nFor investors looking for a reliable, long term investment, this is a brilliant opportunity!\n\nThe home features 2 bedrooms, a spacious lounge, a modern kitchen and two bathrooms -- one is ensuite.\n\nInvestment details\n\nIt currently produces an annual gross income of £1,450 with tenants currently situated. Considering the purchase price and the potential rental income that could be earned in future years, this will make for a worthwhile addition to an investors property portfolio.\n\nFor greater detail on this property's investment potential, please see the Let Property Pack linked below.\n\nIf you are interested, please call us.\n\nTenancy Details\n\nThere are tenants that currently reside in the property and have consistently paid their rent for the duration of their stay. They do not have any intentions to move out so hope to remain in the property.\n\nWe are committed to facilitating a smooth transaction process between buyer and seller. To allow for maximum commitment to the sale from both parties, a Buyers Premium will apply in order to secure a property.",
+ "keyFeatures": [
+  "Modern Kitchen",
+  "Spacious Living Spaces",
+  "Buy-to-Let Opportunity",
+  "Tenant Currently Situated",
+  "Likely to attract enquiries from Serious Investors &amp; Developers",
+  "INVESTMENT POTENTIAL DETAILED BELOW (Let Property Pack)",
+  "Investment Opportunity"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/0cb200584/152250518/0cb200584e690be2c280c46a071147c2.png",
+  "https://media.rightmove.co.uk/property-photo/ebeb3b11e/152250518/ebeb3b11ec8182d7251fa0186e413b67.png",
+  "https://media.rightmove.co.uk/property-photo/226a4588e/152250518/226a4588e7775458dc99050719f723f8.png",
+  "https://media.rightmove.co.uk/property-photo/98818731b/152250518/98818731b78a06d63dfb491b3e4f6e7c.png",
+  "https://media.rightmove.co.uk/property-photo/781927371/152250518/781927371a2e546be2e03f8b7e994fff.png",
+  "https://media.rightmove.co.uk/property-photo/c55c3184c/152250518/c55c3184c5162c877f805073877e3924.png",
+  "https://media.rightmove.co.uk/property-photo/798f33d59/152250518/798f33d5953e23d69b5076d67eb2032d.png",
+  "https://media.rightmove.co.uk/property-photo/ba44a901e/152250518/ba44a901e2bf96fb0e00072381b0850c.png",
+  "https://media.rightmove.co.uk/property-photo/cadd7397a/152250518/cadd7397aec7c23b00f5e997b6862b45.png",
+  "https://media.rightmove.co.uk/property-photo/a48048b99/152250518/a48048b99f8d931ea186f3717963573b.png",
+  "https://media.rightmove.co.uk/property-photo/3a51435e0/152250518/3a51435e0bb2101e010d2884138886d9.png",
+  "https://media.rightmove.co.uk/property-photo/f8a69d921/152250518/f8a69d9218bdc21fb56896faccaeb0af.png",
+  "https://media.rightmove.co.uk/property-photo/448205615/152250518/4482056151885f0e03ec0163c5f16541.png"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Manchester Oxford Road Station",
+   "miles": 0.05690227826110941,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "St Peters Square Tram Stop",
+   "miles": 0.2172757303155779,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Deansgate Station",
+   "miles": 0.3601722406545861,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Let Property Sales & Management, Glasgow",
+ "city": "Manchester",
+ "sourceOutcode": "M1",
+ "scrapedAt": "2026-08-31T14:44:37.613Z"
+}

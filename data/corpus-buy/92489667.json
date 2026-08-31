@@ -1,0 +1,83 @@
+{
+ "id": "92489667",
+ "mode": "buy",
+ "displayAddress": "Henderson Street, Preston",
+ "outcode": "PR1",
+ "incode": "7XQ",
+ "latitude": 53.77224,
+ "longitude": -2.71141,
+ "priceAmount": 150000,
+ "priceLabel": "£150,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92489667",
+ "area": "Preston",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": 810,
+  "sizeSqM": 75,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": 0,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": 810,
+ "sizeSqM": 75,
+ "description": "* Extended Three-Bedroom Mid-Terrace Home \n* No Onward Chain\n\nAn excellent opportunity to purchase this extended three-bedroom mid-terrace home, ideally suited to first-time buyers, young families or investors looking for a well-positioned property. Offered for sale with no onward chain, the property provides generous and versatile accommodation together with a convenient location close to local amenities, schools, green spaces and transport connections.\n\nTo the front, there is on-street parking and access into the property through a useful entrance vestibule.\n\nThe living room is positioned at the front of the home, providing a comfortable reception space for relaxing and entertaining.\n\nMoving through to the dining room, there is useful under-stairs storage, with stairs leading to the first floor. An open archway leads through into the fitted kitchen, creating a good flow between the two spaces.\n\nThe kitchen is fitted with a range of wall and base cabinets complemented by work surfaces. There is space for a freestanding fridge and freezer, along with space and plumbing for a washing machine. Integrated appliances include an electric oven and gas hob.\n\nTo the first floor are three generous bedrooms, offering plenty of flexibility for a growing family, guests, home working or hobbies. The accommodation is completed by a three-piece family bathroom.\n\nTo the rear is an enclosed yard, providing a low-maintenance outdoor space which could be used for seating, entertaining or simply enjoying some fresh air.\n\nThe property is conveniently positioned close to Eldon Primary School and the popular Moor Park, while excellent transport connections provide easy access to Preston City Centre and surrounding areas.\n\nWith its extended layout, three good-sized bedrooms, no onward chain and convenient location, this property represents an excellent opportunity for a first-time buyer or investor looking for a home with plenty of potential. \n\nVESTIBULE   \n\nLIVING ROOM 12' 9\" x 13' 3\" (3.89m x 4.04m)  \n\nDINING ROOM 11' 4\" x 11' 2\" (3.45m x 3.4m)  \n\nKITCHEN 10' x 9' (3.05m x 2.74m)  \n\nFIRST FLOOR   \n\nBEDROOM ONE 9' 10\" x 13' 2\" (3m x 4.01m)  \n\nBEDROOM TWO 6' 7\" x 13' 1\" (2.01m x 3.99m)  \n\nBEDROOM THREE 6' 6\" x 11' 2\" (1.98m x 3.4m)  \n\nBATHROOM 4' 5\" x 8' 3\" (1.35m x 2.51m)  \n\n  Preston city centre is a vibrant city on the north bank of the River Ribble in Lancashire, offering an excellent choice of shops, cafés, restaurants, bars and leisure facilities. Fishergate and Friargate form the main shopping streets, with further independent businesses and eateries found throughout the surrounding streets.\n\nThe city is ideally located for commuters, with Preston Railway Station providing direct rail links via the West Coast Main Line, alongside easy access to the M6, M61, M65 and M55 motorways and several international airports.\n\nFor outdoor enthusiasts, The Guild Wheel offers fantastic walking and cycling routes, including paths through Avenham and Miller Parks and alongside the River Ribble. Local education includes the University of Lancashire, St Stephen's C of E Primary School and Christ the King Catholic High School. \n\n  Whilst we believe the data within these statements to be accurate, any person(s) intending to place an offer and/or purchase the property should satisfy themselves by inspection in person or by a third party as to the validity and accuracy.  \n\nPlease call   to arrange a viewing on this property now.  Our office hours are 9am-5pm Monday to Friday and 9am-4pm Saturday.",
+ "keyFeatures": [
+  "Extended 3 Bedroom Mid Terrace Home",
+  "Offered With No Chain",
+  "Excellent First-Time Buyer or Investment Opportunity",
+  "3 Generous Bedrooms",
+  "2 Reception Rooms",
+  "Fitted Kitchen",
+  "Convenient Location to Eldon Primary School, Moor Park and Local Amenities",
+  "On Street Parking"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/064a04015/92489667/064a0401561c0599641a0c22c47399a5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c0ca501c7/92489667/c0ca501c73b1ec8eba7d87257d26953f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/caa860a1a/92489667/caa860a1a0930605e23b12bd793b5bf5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d410e1875/92489667/d410e1875143afcde34de4bd898e3548.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a2d06ddee/92489667/a2d06ddee253b7353cda8365c8654e40.jpeg",
+  "https://media.rightmove.co.uk/property-photo/720d964eb/92489667/720d964eb1526715a8ba2de44ee11a25.jpeg",
+  "https://media.rightmove.co.uk/property-photo/de4e9d2c8/92489667/de4e9d2c885326f863a73ffc553b952b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/70af30ff9/92489667/70af30ff9d48a2f4d26aacd9756204bc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/91e86eb8a/92489667/91e86eb8a616e0f1f6807cbf2d564c69.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Preston Station",
+   "miles": 1.136383775209188,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Lostock Hall Station",
+   "miles": 3.487256664223188,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bamber Bridge Station",
+   "miles": 3.751400277964214,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Roberts & Co Estate Agents, Preston & South Ribble",
+ "city": "Preston",
+ "sourceOutcode": "PR1",
+ "scrapedAt": "2026-08-31T15:04:17.504Z"
+}

@@ -5,14 +5,14 @@ import { loadStats, summarize } from '../engine/stats.js';
 
 // Home screen: today's puzzle, a random round, and the browse grid. The daily
 // is the same listing for everyone (deterministic pick over the corpus order).
-export default function Home({ navigate }) {
+export default function Home({ mode, navigate }) {
   const [index, setIndex] = useState(null);
   const [error, setError] = useState('');
-  const stats = summarize(loadStats());
+  const stats = summarize(loadStats(mode.key));
 
   useEffect(() => {
-    loadIndex().then(setIndex).catch((err) => setError(err.message));
-  }, []);
+    loadIndex(mode.key).then(setIndex).catch((err) => setError(err.message));
+  }, [mode.key]);
 
   if (error) {
     return (
@@ -35,7 +35,10 @@ export default function Home({ navigate }) {
         <div className="text-3xl">🏗️</div>
         <p className="mt-3 text-sm text-slate-600">
           No listings yet — the game data hasn&apos;t been built. Run{' '}
-          <code className="rounded bg-slate-100 px-1">npm run seed</code> then{' '}
+          <code className="rounded bg-slate-100 px-1">
+            npm run seed -- --mode {mode.key}
+          </code>{' '}
+          then{' '}
           <code className="rounded bg-slate-100 px-1">npm run images</code>.
         </p>
       </div>
@@ -44,22 +47,23 @@ export default function Home({ navigate }) {
 
   const today = londonDate();
   const dailyId = pickDaily(index.order, today);
-  const dailyDone = Boolean(loadStats().games[String(dailyId)]);
-  const playedIds = Object.keys(loadStats().games);
+  const dailyDone = Boolean(loadStats(mode.key).games[String(dailyId)]);
+  const playedIds = Object.keys(loadStats(mode.key).games);
   const cityCount = new Set(index.listings.map((l) => l.city)).size;
 
   return (
     <div className="space-y-4">
       <div className="rounded-2xl bg-white p-6 shadow-xl shadow-rose-200/50 sm:p-8">
         <p className="text-xs uppercase tracking-wide text-brand-600">
-          Rentle #{dailyNumber(today)} · {formatDate(today)}
+          {mode.puzzleName} #{dailyNumber(today, mode.epoch)} · {formatDate(today)}
         </p>
         <h2 className="mt-1 text-lg font-bold text-slate-800">
           One real listing. Five guesses. Within 5% wins.
         </h2>
         <p className="mt-1 text-sm text-slate-500">
-          The same mystery rental for everyone, every day — from{' '}
-          {index.order.length} real listings across {cityCount} UK cities.
+          The same mystery {mode.subject} for everyone, every day — from{' '}
+          {index.order.length} real listings across {cityCount} UK{' '}
+          {cityCount > 10 ? 'towns and cities' : 'cities'}.
         </p>
         {stats.streak > 0 && (
           <p className="mt-2 text-sm font-semibold text-brand-700">
@@ -67,10 +71,10 @@ export default function Home({ navigate }) {
           </p>
         )}
         <button
-          onClick={() => navigate(`/p/${dailyId}`)}
+          onClick={() => navigate(mode.playPath(dailyId))}
           className="mt-5 w-full rounded-xl bg-brand-600 px-4 py-3 font-semibold text-white shadow-sm transition hover:bg-brand-700"
         >
-          {dailyDone ? "Revisit today's puzzle" : "Play today's Rentle"}
+          {dailyDone ? "Revisit today's puzzle" : `Play today's ${mode.puzzleName}`}
         </button>
         {dailyDone && (
           <p className="mt-2 text-center text-xs text-slate-400">
@@ -81,7 +85,7 @@ export default function Home({ navigate }) {
 
       <div className="grid grid-cols-2 gap-4">
         <button
-          onClick={() => navigate(`/p/${pickRandom(index.order, playedIds)}`)}
+          onClick={() => navigate(mode.playPath(pickRandom(index.order, playedIds)))}
           className="rounded-2xl bg-white p-5 text-left shadow-lg transition hover:shadow-xl"
         >
           <div className="text-2xl" aria-hidden>🎲</div>
@@ -91,13 +95,13 @@ export default function Home({ navigate }) {
           </p>
         </button>
         <button
-          onClick={() => navigate('/browse')}
+          onClick={() => navigate(mode.browsePath)}
           className="rounded-2xl bg-white p-5 text-left shadow-lg transition hover:shadow-xl"
         >
           <div className="text-2xl" aria-hidden>🗺️</div>
           <p className="mt-2 text-sm font-bold text-slate-800">Pick a city</p>
           <p className="mt-0.5 text-xs text-slate-500">
-            Play a round from a city&apos;s pool.
+            Play a round from a town&apos;s pool.
           </p>
         </button>
       </div>

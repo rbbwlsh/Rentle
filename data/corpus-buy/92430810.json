@@ -1,0 +1,73 @@
+{
+ "id": "92430810",
+ "mode": "buy",
+ "displayAddress": "Brun Grove, Blackpool",
+ "outcode": "FY1",
+ "incode": "6PG",
+ "latitude": 53.801723,
+ "longitude": -3.032968,
+ "priceAmount": 100000,
+ "priceLabel": "£100,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92430810",
+ "area": "Blackpool",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 26/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "**WELL PRESENTED TERRACED HOUSE WITH A GREAT KITCHEN, TWO DOUBLE BEDROOMS & NO ONWARD CHAIN** Well Presented Terraced House comprising Entrance Hallway, Lounge, Dining Room, Kitchen, Landing, Two Double Bedrooms, 4 Piece Bathroom, Enclosed South Facing Rear Garden, Council Tax Band A, No Onward Chain Involved\n\nEntrnace Hallway - Double glazed entrance door, stairs to first floor landing\n\nLounge - 4.06m x 4.85m (13'4 x 15'11) - Double glazed walk in bay window to front, radiator, decorative cornice style ceiling, electric fireplace\n\nDining Room - 5.03m x 3.15m (16'6 x 10'4) - Double glazed double doors to rear, radiator, understairs storage cupboard, decorative cornice style ceiling, open plan to Kitchen\n\nKitchen - 4.55m x 2.84m (14'11 x 9'4) - Modern Fitted with a matching range of base and wall units with round edge worktops, electric oven, ceramic hob with extractor over, plumbing for washing machine, space for fridge fridge freezer, double glazed window to rear, tiled floor, double glazed door to garden\n\nLanding - Loft access\n\nBedroom 1 - 5.03m x 3.81m (16'6 x 12'6) - Double glazed window to front, radiator\n\nBedroom 2 - 3.48m x 2.51m (11'5 x 8'3) - Double glazed window to rear, radiator\n\nBathroom - 1.40m x 3.45m (4'7 x 11'4) - Fitted with a 4 piece bathroom suite comprising low level wc, panelled bath, shower enclosure, pedestal wash hand basin, tiled floor, tiled walls, double glazed window to rear\n\nOutside - South facing rear garden with decking area, lawn, panelled fencing",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/9f8074702/92430810/9f80747026395f20028ba31ed82d2322.jpeg",
+  "https://media.rightmove.co.uk/property-photo/456ebf2fc/92430810/456ebf2fc6c9e9c0cb8ca03e80f17ec7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5d66c0ad5/92430810/5d66c0ad5a593a2680afc600c1d8a1b2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9c0cb8e13/92430810/9c0cb8e1310cb1cc0deeed3def625dc3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8f35c14e6/92430810/8f35c14e664a90d6c46593420d5694d2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6a12388f7/92430810/6a12388f797e0428ce646f7162f42d97.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3586bc783/92430810/3586bc7830b7535556e94fe48fab022c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0d016fd8d/92430810/0d016fd8dbe8dfd33e1a63b03412b5bc.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Blackpool South Station",
+   "miles": 0.6952532753678607,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Blackpool Pleasure Beach Station",
+   "miles": 1.2912518267425586,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Blackpool North Station",
+   "miles": 1.5363088401608032,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Hunters, Blackpool",
+ "city": "Blackpool",
+ "sourceOutcode": "FY1",
+ "scrapedAt": "2026-08-31T14:59:58.992Z"
+}

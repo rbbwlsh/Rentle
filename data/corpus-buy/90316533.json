@@ -1,0 +1,82 @@
+{
+ "id": "90316533",
+ "mode": "buy",
+ "displayAddress": "Azenby Road, London",
+ "outcode": "SE15",
+ "incode": "5AJ",
+ "latitude": 51.46965,
+ "longitude": -0.077408,
+ "priceAmount": 230000,
+ "priceLabel": "£230,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90316533",
+ "area": "London",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 122,
+  "annualGroundRent": 200,
+  "annualServiceCharge": 3000,
+  "councilTaxBand": "B",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 30/06/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Chain-Free Studio Apartment with Mezzanine – Ideal First-Time Buy or Investment\n\nSituated on Azenby Road, SE15, this well-presented chain-free studio apartment offers a smart and versatile layout, featuring a spacious mezzanine sleeping area, excellent ceiling height and an abundance of natural light. Perfectly suited to first-time buyers, professionals or investors, the property combines character with practicality in a sought-after South East London location.\n\nThe bright main studio enjoys impressive double-height ceilings and a large front-facing window, creating an airy and welcoming living space with room for both relaxing and dining. The cleverly designed mezzanine provides a dedicated sleeping area, maximising the floor space below while adding a contemporary loft-style feel.\n\nA separate fitted kitchen offers ample storage and worktop space, while the bathroom is conveniently positioned off the entrance hall. The apartment also benefits from useful built-in storage and a neutral décor throughout, making it ready to move straight into.\n\nResidents enjoy access to a communal swimming pool, adding a valuable lifestyle benefit.\n\nLocated within easy reach of the vibrant amenities of Peckham the property is well served by independent cafés, restaurants, parks and excellent transport links into Central London, making it an attractive option for both owner-occupiers and tenants alike\n\nThe area also benefits from an extensive network of cycle routes, making commuting across London straightforward\n\nPeckham Rye Station – London Overground and National Rail services with direct trains to London Victoria, London Blackfriars, London Bridge, St Pancras International and Dalston Junction.\nQueens Road Peckham Station – London Overground and Southern services, offering direct links to London Bridge, Canada Water, Shoreditch High Street, Highbury & Islington and Clapham Junction.",
+ "keyFeatures": [
+  "Chain free",
+  "Spacious open-plan living and dining area",
+  "Separate fitted kitchen",
+  "Bright studio apartment with mezzanine sleeping area",
+  "Residents' communal swimming pool"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/2a607b293/90316533/2a607b293f160d6ab9488ade7d4e8614.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8a60f3b55/90316533/8a60f3b5507f6e7cb107481ab6785fff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/677b8a89e/90316533/677b8a89e2bea037132822c85a8f403f.png",
+  "https://media.rightmove.co.uk/property-photo/790346e9c/90316533/790346e9c3ceff5ffc67658c650162a8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6303c34c4/90316533/6303c34c4af48b856bb2ebfe3af7cb8f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1e5ba2861/90316533/1e5ba2861e28e15b67e455d6b5c740b3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ab9fec6e0/90316533/ab9fec6e0d04dfafcf489222d6759b7b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5c4c99bb0/90316533/5c4c99bb04257ce3e0a6d5dabaad0dbe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5200bd2cd/90316533/5200bd2cd116418e8578d11c98c9cfab.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa5a01d74/90316533/aa5a01d74a5638fec0661d3c4ec74f4d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9952d2a72/90316533/9952d2a72bb31c3627999d86e24eabe9.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Peckham Rye Station",
+   "miles": 0.36380375561916783,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Denmark Hill Station",
+   "miles": 0.5306152419387453,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "East Dulwich Station",
+   "miles": 0.5729775129567684,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Gareth James Property, South East London",
+ "city": "London",
+ "sourceOutcode": "SE15",
+ "scrapedAt": "2026-08-31T14:58:37.762Z"
+}

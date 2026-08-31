@@ -1,0 +1,75 @@
+{
+ "id": "91851819",
+ "mode": "buy",
+ "displayAddress": "Pound Lane, YORK",
+ "outcode": "YO1",
+ "incode": "7PB",
+ "latitude": 53.95872,
+ "longitude": -1.07472,
+ "priceAmount": 180000,
+ "priceLabel": "£180,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91851819",
+ "area": "YORK",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 190,
+  "annualGroundRent": 300,
+  "annualServiceCharge": 1400,
+  "councilTaxBand": "B",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 10/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "SUMMARY\nSituated within York’s historic city walls and forming part of a highly sought after development, this beautifully presented second floor apartment offers stylish and contemporary living in an exceptional city centre location.\n\nDESCRIPTION\nSituated within York’s historic city walls and forming part of a highly sought after development, this beautifully presented second floor apartment offers stylish and contemporary living in an exceptional city centre location.\n\nFinished to a high standard throughout, the property features a bright and spacious open plan living area with modern fitted kitchen, a generous double bedroom, and a sleek, contemporary bathroom. The apartment is thoughtfully designed to maximise both comfort and practicality, making it ideal for first-time buyers, professionals, investors, or those seeking a city pied-à-terre.\n\nA particular highlight of the property is the private balcony, providing an attractive outdoor space to relax and enjoy the surroundings.\n\nPerfectly positioned for easy access to York’s extensive range of shops, restaurants, cafés and transport links, this fantastic apartment combines modern living with the convenience and character of one of the city's most desirable locations.\n\nEntrance Hall \n\nKitchen/Living Room 22' 8\" x 10' 3\" ( 6.91m x 3.12m )\n\nBedroom 15' 1\" x 9' 10\" ( 4.60m x 3.00m )\n\nBathroom 7' 8\" x 6' 7\" ( 2.34m x 2.01m )\n\nWe currently hold lease details as displayed above, should you require further information please contact the branch.  Please note additional fees could be incurred for items such as leasehold packs.\n\n1. MONEY LAUNDERING REGULATIONS: Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale.\r\n2. General: While we endeavour to make our sales particulars fair, accurate and reliable, they are only a general guide to the property and, accordingly, if there is any point which is of particular importance to you, please contact the office and we will be pleased to check the position for you, especially if you are contemplating travelling some distance to view the property.\r\n3. The measurements indicated are supplied for guidance only and as such must be considered incorrect.\r\n4. Services: Please note we have not tested the services or any of the equipment or appliances in this property, accordingly we strongly advise prospective buyers to commission their own survey or service reports before finalising their offer to purchase.\r\n5. THESE PARTICULARS ARE ISSUED IN GOOD FAITH BUT DO NOT CONSTITUTE REPRESENTATIONS OF FACT OR FORM PART OF ANY OFFER OR CONTRACT. THE MATTERS REFERRED TO IN THESE PARTICULARS SHOULD BE INDEPENDENTLY VERIFIED BY PROSPECTIVE BUYERS OR TENANTS. NEITHER SEQUENCE (UK) LIMITED NOR ANY OF ITS EMPLOYEES OR AGENTS HAS ANY AUTHORITY TO MAKE OR GIVE ANY REPRESENTATION OR WARRANTY WHATEVER IN RELATION TO THIS PROPERTY.",
+ "keyFeatures": [
+  "GUIDE PRICE £180,000 - £190,000",
+  "A BEAUTIFULLY PRESENTED ONE BEDROOM APARTMENT ",
+  "SITUATED ON A HIGHLY SOUGHT AFTER DEVELOPMENT WITHIN THE CITY WALLS ",
+  "A SHORT WALK TO A RANGE OF LOCAL AMENITIES, EATERIES AND TRANSPORT LINKS",
+  "NO CHAIN ",
+  "A DOUBLE BALCONY WITH VIEWS OF THE MINSTER",
+  "SITUATED ON THE SECOND FLOOR"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/3d181f87d/91851819/3d181f87dc0c5348464807117f930133.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a9044fed0/91851819/a9044fed0df4c3491252e3ba0137ba30.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4ccf1be45/91851819/4ccf1be457618f50ae572d3ee76db02d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3c5868171/91851819/3c58681711e8e9e4ac3bf165c6631739.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d36bcfad3/91851819/d36bcfad32ed2571ba4e83dfe5be91c3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7a0b66d7d/91851819/7a0b66d7d3cdd167e72a78035878f709.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c3639aad4/91851819/c3639aad40bdd6c7011be666b0a0666d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eeaf5967d/91851819/eeaf5967d69300ef2054ce55396d2834.jpeg",
+  "https://media.rightmove.co.uk/property-photo/da001bac8/91851819/da001bac8bf46ac5b3848bf65ca76364.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "York Station",
+   "miles": 0.7549323610567631,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Poppleton Station",
+   "miles": 3.2272579520528737,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "William H. Brown, York",
+ "city": "York",
+ "sourceOutcode": "YO1",
+ "scrapedAt": "2026-08-31T14:55:12.062Z"
+}

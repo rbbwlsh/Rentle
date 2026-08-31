@@ -1,0 +1,88 @@
+{
+ "id": "92520057",
+ "mode": "buy",
+ "displayAddress": "New Marchants Passage, Bath",
+ "outcode": "BA1",
+ "incode": "1AR",
+ "latitude": 51.378586,
+ "longitude": -2.359208,
+ "priceAmount": 300000,
+ "priceLabel": "£300,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92520057",
+ "area": "New Marchants Passage, Bath",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 585,
+  "sizeSqM": 54,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": 585,
+ "sizeSqM": 54,
+ "description": "A wonderfully renovated purpose-built apartment, with lift access, in this most central of locations and offered with no onward chain. Built as part of a 2010/11 development, this modern flat has been extensively upgraded by the current owner, creating a high-quality home in the very centre of the city.\n\n \n\nACOMMODATION\n\nEntrance hall\n\nOpen plan kitchen/reception room with integrated appliances\n\nGood size bedroom with a range of bespoke fitted wardrobes\n\nContemporary bathroom with underfloor heating\n\n \n\nEXTERNALLY\n\nThe flat has access to a paved communal outdoor space, broken up by raised planters. There is also a very useful secure bike store, as well as a store to keep the bins & recycling out of the apartments.\n\n \n\nLOCATION\n\nThe flat occupies such a central and excellent position, above the Southgate shopping area, and therefore within a very short and level walk of the wealth of amenities in the city. Bath Spa Railway Station, the Bus Station, the Recreation Rugby Ground, Sports centre and Theatre Royal are all close at hand, as are countless shops and excellent restaurants and cafes.",
+ "keyFeatures": [
+  "No onward chain",
+  "Lift access",
+  "Extensively renovated",
+  "Bike store"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/75db84a5a/92520057/75db84a5a6896e643061805d0dec487d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0e4c52842/92520057/0e4c5284269fa6187532d85c7c37857f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5816d5d28/92520057/5816d5d282c0a08454b359d54958b091.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8369533ab/92520057/8369533ab6095a2bdfab5c062c00a25b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9d5398f48/92520057/9d5398f489f28fa45b98280d513c252f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ad968da95/92520057/ad968da95721b043259b4521df040de9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f8d4e3b3f/92520057/f8d4e3b3f1bc764e5244d64f4050386d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/da616482e/92520057/da616482e49f6c76e9ceb9876061cce1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bfb3c2c3f/92520057/bfb3c2c3ff8cf862394869247d771889.jpeg",
+  "https://media.rightmove.co.uk/property-photo/56d463694/92520057/56d46369405e945ebc74c4ed56d3cd77.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5ed7f45b4/92520057/5ed7f45b415b1b7acba1554615c91e2b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9b77d8d23/92520057/9b77d8d23b3ef120055813d028eb9d09.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dfc42a64c/92520057/dfc42a64ca0ea52fbd9bd4d1ce34f13c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/429460d73/92520057/429460d737c52520957aba911649c2a0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e2c52d041/92520057/e2c52d041e636964882b532829970792.jpeg",
+  "https://media.rightmove.co.uk/property-photo/51a16718c/92520057/51a16718cbef238cd4c53db54c6d464e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6ac806bda/92520057/6ac806bda04e1c148478a6475820f6cd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/69f10e5a9/92520057/69f10e5a912746e7e12b18975140e211.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "Bath Spa Station",
+   "miles": 0.11038744489500212,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Oldfield Park Station",
+   "miles": 0.9311373934556452,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Freshford Station",
+   "miles": 3.568941682217755,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Whiteley Helyar, Bath",
+ "city": "Bath",
+ "sourceOutcode": "BA1",
+ "scrapedAt": "2026-08-31T14:57:18.834Z"
+}

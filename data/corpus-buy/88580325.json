@@ -1,0 +1,90 @@
+{
+ "id": "88580325",
+ "mode": "buy",
+ "displayAddress": "Percy Street, Middlesbrough",
+ "outcode": "TS1",
+ "incode": "4DD",
+ "latitude": 54.570301,
+ "longitude": -1.240714,
+ "priceAmount": 120000,
+ "priceLabel": "£120,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/88580325",
+ "area": "Middlesbrough",
+ "bedrooms": 3,
+ "bathrooms": 3,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": null,
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 21/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Clarke Munro are delighted to offer this incredible student property on Percy Street. Within close proximity to Teesside University, this property has been renovated throughout to a high standard to give a real luxurious feel. The property internally comprises of entrance hall, ground floor bedroom, communal lounge and contemporary fitted kitchen with range of matching units and appliances, then a modern ground floor bathroom. The two further bedrooms on the first floor each have an en-suite shower room. All rooms are furnished to a high standard and each room is advertised at £115pw. Property has been let from June 2026 for £498.33 per person per month.",
+ "keyFeatures": [
+  "TURN KEY INVESTMENT ",
+  "3 BEDROOMS ",
+  "3 BATHROOMS",
+  "CONTEMPORARY INTERIOR",
+  "GREAT LOCATION",
+  "TENURE - FREEHOLD ",
+  "COUNCIL TAX BAND A "
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/80c6af043/88580325/80c6af043d9690c818e705647b8af00e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/823c683ad/88580325/823c683add2764af866cb441c3bd3728.jpeg",
+  "https://media.rightmove.co.uk/property-photo/71b0d9581/88580325/71b0d9581d48025ced057e0b011903d0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ebf741fd8/88580325/ebf741fd82df07955a45c301d63740d7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cc3d4addb/88580325/cc3d4addb5bdc1262d3d4b363224dbad.jpeg",
+  "https://media.rightmove.co.uk/property-photo/78ed123bb/88580325/78ed123bb714276a525bca013e68e196.jpeg",
+  "https://media.rightmove.co.uk/property-photo/605db1395/88580325/605db139501663fe3c35aba05a0a6aef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3cff5f094/88580325/3cff5f094c25da012dcc9884a7cc82f6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/45622a6eb/88580325/45622a6eb5d4ca129e62983b292eef47.jpeg",
+  "https://media.rightmove.co.uk/property-photo/82029d797/88580325/82029d797c33d6911e23eebd6ef8adfa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/43feb8397/88580325/43feb8397588e282ec704948e913f4b1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1510672a4/88580325/1510672a4aba1f9e80265833e7495bfa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cdd4a21e2/88580325/cdd4a21e20a4cfcf3bde6b49eb1c1038.jpeg",
+  "https://media.rightmove.co.uk/property-photo/37c44b3f4/88580325/37c44b3f493a7846e600c05c3ae31c26.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b440f4e78/88580325/b440f4e78191b6a65fe2a7a146ba0a64.jpeg",
+  "https://media.rightmove.co.uk/property-photo/38a142cdf/88580325/38a142cdfe06fd6ba8e194d71dc82717.jpeg",
+  "https://media.rightmove.co.uk/property-photo/01fcffaf1/88580325/01fcffaf13e32ccd61f422225f4b5f6e.jpeg"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "Middlesbrough Station",
+   "miles": 0.6531524136772127,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Marton Station",
+   "miles": 2.519933044978829,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Thornaby Station",
+   "miles": 2.542078904833662,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Clarke Munro, Middlesbrough",
+ "city": "Middlesbrough",
+ "sourceOutcode": "TS1",
+ "scrapedAt": "2026-08-31T15:03:42.275Z"
+}

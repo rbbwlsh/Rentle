@@ -1,0 +1,67 @@
+{
+ "id": "173576366",
+ "mode": "buy",
+ "displayAddress": "Padholme Road, PETERBOROUGH",
+ "outcode": "PE1",
+ "incode": "5JB",
+ "latitude": 52.57814,
+ "longitude": -0.22683,
+ "priceAmount": 275000,
+ "priceLabel": "£275,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/173576366",
+ "area": "PETERBOROUGH",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Semi-Detached",
+ "details": {
+  "propertyType": "Semi-Detached",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Added on 27/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "SUMMARY\nBased in Eastfield, this 3 / 4 Bedroom Family Home offers easy access to the City in addition to local Schools and Shops on the doorstep. The new University and local College are both nearby, as is Central Park. Peterborough offers quick Road and Rail links with London Kings Cross 45 mins approx\n\nDESCRIPTION\n\" Well presented, extended family home\" Close to the City, we are pleased to offer this spacious property consisting of open plan Living Dining Rooms, fitted Kitchen, utility area and Cloak Room, converted Garage perfect as an additional Bedroom or Study / Play Room. To the first floor, two Double Bedrooms and a Single plus a Family Bathroom. To the front,  off road Driveway Parking and to the rear, enclosed Garden laid to lawn and pathway. The property benefits from Solar electricity and is 3rd party owned and maintained offering free Electricity. Both Boiler, Facials, flat roof extension have been updated.   Viewings are highly recommended.\n\nAgents Note\nThis property has an offer accepted subject to contract but is still currently available to view.\n\nOpen Plan Living Fining Room  \nWith French doors to the garden\n\nKitchen  \nAmple wall and base units, space for Range style cooker\n\nCloak Room  \n2 piece\n\nFamily Room / Bedroom 4  \nConverted Garage, wonderful space for additional Bedroom, play room or Office\n\nBedrooms  \n2 doubles and a single\n\nFamily Bathroom  \n3 piece suite towel rail, shaver point\n\n1. MONEY LAUNDERING REGULATIONS: Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale.\r\n2. General: While we endeavour to make our sales particulars fair, accurate and reliable, they are only a general guide to the property and, accordingly, if there is any point which is of particular importance to you, please contact the office and we will be pleased to check the position for you, especially if you are contemplating travelling some distance to view the property.\r\n3. The measurements indicated are supplied for guidance only and as such must be considered incorrect.\r\n4. Services: Please note we have not tested the services or any of the equipment or appliances in this property, accordingly we strongly advise prospective buyers to commission their own survey or service reports before finalising their offer to purchase.\r\n5. THESE PARTICULARS ARE ISSUED IN GOOD FAITH BUT DO NOT CONSTITUTE REPRESENTATIONS OF FACT OR FORM PART OF ANY OFFER OR CONTRACT. THE MATTERS REFERRED TO IN THESE PARTICULARS SHOULD BE INDEPENDENTLY VERIFIED BY PROSPECTIVE BUYERS OR TENANTS. NEITHER SEQUENCE (UK) LIMITED NOR ANY OF ITS EMPLOYEES OR AGENTS HAS ANY AUTHORITY TO MAKE OR GIVE ANY REPRESENTATION OR WARRANTY WHATEVER IN RELATION TO THIS PROPERTY.",
+ "keyFeatures": [
+  "Extended 3 / 4 Bedroom Family Home in Eastfield",
+  "Open plan Kitchen Diner ",
+  "Private quiet south facing Garden ",
+  "Off road Driveway Parking ",
+  "Local Schools and Shops on the doorstep ",
+  "Both Peterborough College and University nearby ",
+  "Viewings highly recommended "
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/251972f15/173576366/251972f1520970598a053586a0b7155f.jpeg"
+ ],
+ "imageCount": 1,
+ "nearestStations": [
+  {
+   "name": "Peterborough Station",
+   "miles": 1.0150774932889082,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Whittlesea Station",
+   "miles": 4.974776424305671,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "William H. Brown, Peterborough",
+ "city": "Peterborough",
+ "sourceOutcode": "PE1",
+ "scrapedAt": "2026-08-31T16:53:39.563Z"
+}

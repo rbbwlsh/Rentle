@@ -1,0 +1,87 @@
+{
+ "id": "91946856",
+ "mode": "buy",
+ "displayAddress": "Brunswick Place, Bath",
+ "outcode": "BA1",
+ "incode": "2RQ",
+ "latitude": 51.3873,
+ "longitude": -2.36225,
+ "priceAmount": 395000,
+ "priceLabel": "£395,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91946856",
+ "area": "Bath",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 780,
+  "sizeSqM": 72,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": 25,
+  "annualServiceCharge": 237.5,
+  "councilTaxBand": "B",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 12/08/2026"
+ },
+ "sizeSqFt": 780,
+ "sizeSqM": 72,
+ "description": "A very well presented second floor apartment in this popular and handy position, only a short walk from the very centre of the city. Contained within an elegant Grade II Listed Georgian townhouse, the particularly light, bright and spacious accommodation retains fine and original period features and enjoys a pleasing southerly view to the rear.\n\nACCOMMODATION\n\n2 bedrooms\n\nbathroom\n\ngenerous living/dining room with wide opening to kitchen\n\ngas fired heating\n\nresidents parking permit available (central zone)\n\nLOCATION\n\nBrunswick Place is most conveniently located in a popular residential road on the lower slopes of Lansdown, just a short walk from the many shops, restaurants and amenities in Margaret’s Buildings, on Brock Street, St James’s Square and in the city centre. Royal Victoria and Hedgemead Parks are closeby (with their fabulous grounds, Botanical Gardens, tennis courts and extensive children’s play areas), whilst swift access to the M4 is available without having to cross Bath.\n\n \n\nTenure: Share of Freehold\n\nService charge: £ 237.50 pcm\n\nCouncil tax band: ‘B’ £1,808.54 (26/27)",
+ "keyFeatures": [
+  "A very well presented second floor apartment",
+  "Light and bright with a pleasing southerly aspect",
+  "Highly convenient location on the edge of the city centre",
+  "Residents parking permits available"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/419b569be/91946856/419b569be4cb50814af9149ef31f1469.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6b436b079/91946856/6b436b0792b28224f3856b67b85beb15.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5dddc65d6/91946856/5dddc65d6392abe05e01c8d32d54dc78.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f9bd8a1bc/91946856/f9bd8a1bc072ec5a272cc643c9426fac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a99223706/91946856/a992237064dfe06d014289f55ae39ec5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/064351c6c/91946856/064351c6cf96a5afb9454dce4cb1820f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/58cbffcf7/91946856/58cbffcf75a65b3be9dde567b6c5d788.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1b6858ce6/91946856/1b6858ce6392f5ed6de527de1a7e674b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7a81650c7/91946856/7a81650c75f86414d0aff8deb4127c57.jpeg",
+  "https://media.rightmove.co.uk/property-photo/204ad9da3/91946856/204ad9da358ac760bd35444f585192cd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d7b4a5cf8/91946856/d7b4a5cf8bb3068d09fb7a709d4659d2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/79ac0110c/91946856/79ac0110cc07f8d08b2b1e61b6b3109e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b6330a058/91946856/b6330a0581da3720732fef9190ee0bcc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6f94c3611/91946856/6f94c36119ee87e0b9cff6424d3bd319.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c6ec247d2/91946856/c6ec247d2557764c4de133451eced754.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0b101510c/91946856/0b101510c1a71b8bba7c33afd31e99a6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a4d77de32/91946856/a4d77de32aac540c6ab312b70e21ef1e.jpeg"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "Bath Spa Station",
+   "miles": 0.7024152076732754,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Oldfield Park Station",
+   "miles": 0.9791114591798614,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Freshford Station",
+   "miles": 4.102668076277855,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Whiteley Helyar, Bath",
+ "city": "Bath",
+ "sourceOutcode": "BA1",
+ "scrapedAt": "2026-08-31T15:01:56.691Z"
+}

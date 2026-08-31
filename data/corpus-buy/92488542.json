@@ -1,0 +1,83 @@
+{
+ "id": "92488542",
+ "mode": "buy",
+ "displayAddress": "Wycliffe Road, Cambridge, CB1",
+ "outcode": "CB1",
+ "incode": "3JD",
+ "latitude": 52.200202,
+ "longitude": 0.155245,
+ "priceAmount": 270000,
+ "priceLabel": "£270,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92488542",
+ "area": "Cambridge",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Maisonette",
+ "details": {
+  "propertyType": "Maisonette",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 529,
+  "sizeSqM": 49,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 176,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "C",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": 529,
+ "sizeSqM": 49,
+ "description": "A well-positioned first-floor apartment, enjoying a quiet cul-de-sac location, within easy reach of Addenbrooke's, Cambridge Station and the City Centre. Available with no onward chain. \n\nThis well cared for apartment enjoys a quiet cul-de-sac position set just off Brooks Road. The property offers 529 sqft of light and airy accommodation, is well suited to first-time/investment buyers alike, and is for sale with the advantage of no onward chain.\n\nThe accommodation briefly comprises an entrance hall with a large utility cupboard. There is a bright living room which benefits from a dual aspect and a superb degree of natural light. The kitchen/breakfast room has been fitted with a range of modern units and includes various integrated appliances. \n\nThe double bedroom benefits from southerly aspects and there is a refitted shower room, complemented by attractive tiling. \n\nOutside, the property is surrounded by communal green spaces, there is plenty of parking on a first come, first served basis.\n\nThe property is Leasehold with 176 years remaining, having recently been extended. There is a service charge of around £150 per quarter and a ground rent of £3 per annum. \n\nWycliffe road is conveniently situated just off Brooks Road to the eastern side of the city. The property enjoys a quiet, near central cul-de-sac position, less than a mile from Cambridge centre with its combination of ancient and modern buildings, winding lanes, excellent choice of schools and wide range of shopping facilities.\n\nAddenbrookes hospital & biomedical campus are just 2 miles away and there is a Sainsbury superstore a short walk from the property. Nearby amenities also include a doctors surgery and there is plenty of shopping on Mill Road which is less than half a mile from the property.\n\nSchooling is available at Ridgefield Primary School with secondary provision at Coleridge Community College.",
+ "keyFeatures": [
+  "Recently extended lease (176 years remaining)",
+  "Top floor apartment",
+  "529 sqft / 49 sqm",
+  "Gas central heating and double glazing",
+  "No chain",
+  "Easy access to Addenbrooke's and ARM"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/87d1537ab/92488542/87d1537ab16c1bd6c3c4c959d2216357.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f944baca7/92488542/f944baca7a7e383eafdaed52b24168db.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f65f39222/92488542/f65f39222cc3e11eff83f65e2b072dde.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8c5035d06/92488542/8c5035d06b3d553ea3045a2502ebd223.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9b9df21e9/92488542/9b9df21e9c914e188fc7bbf18543718c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bce84bb2a/92488542/bce84bb2ac9874decb29c3acc2c4d3da.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6202656f8/92488542/6202656f839fcaffe0376b498f20f7a9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/13fec4b18/92488542/13fec4b18b9dc6c5e1c83c292948d177.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8d50123f0/92488542/8d50123f06a9e5dbfe591d73af88fa1a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/799e5bc78/92488542/799e5bc7833a1093e49fb9afccabfe38.jpeg",
+  "https://media.rightmove.co.uk/property-photo/46599d50c/92488542/46599d50c102fcaa419ba3953bc73d8c.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Cambridge Station",
+   "miles": 0.8533972706099892,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cambridge North",
+   "miles": 1.6467045701498046,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Shelford Station",
+   "miles": 3.605249287096269,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Gray & Toynbee, Cambridge South",
+ "city": "Cambridge",
+ "sourceOutcode": "CB1",
+ "scrapedAt": "2026-08-31T14:56:40.303Z"
+}

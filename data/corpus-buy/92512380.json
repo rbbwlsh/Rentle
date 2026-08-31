@@ -1,0 +1,86 @@
+{
+ "id": "92512380",
+ "mode": "buy",
+ "displayAddress": "Westpoint Apartments, Clarendon Road, Hornsey",
+ "outcode": "N8",
+ "incode": "0DB",
+ "latitude": 51.58897,
+ "longitude": -0.11173,
+ "priceAmount": 325000,
+ "priceLabel": "£325,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92512380",
+ "area": "Westpoint Apartments, Hornsey",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 525,
+  "sizeSqM": 49,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 977,
+  "annualGroundRent": null,
+  "annualServiceCharge": 3026.04,
+  "councilTaxBand": "C",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": 525,
+ "sizeSqM": 49,
+ "description": "Alex Crown are delighted to offer this spacious one-bedroom apartment for sale, set on the 4th floor of the well-positioned Westpoint Apartments on Clarendon Road, N8.\n\nThe property offers a bright and generously sized open-plan living area with space for both lounge and dining, leading onto a fully fitted kitchen. Large windows and access to a private balcony provide excellent natural light, with pleasant views overlooking North London. The apartment further comprises a large double bedroom with built-in wardrobes, a fully tiled bathroom with bath and shower attachment, and useful storage space throughout.\n\nWestpoint Apartments is ideally located in the heart of Turnpike Lane, offering excellent access to a wide range of local shops, cafés, restaurants and everyday amenities. Transport links are superb, with Turnpike Lane Underground Station on the Piccadilly Line within easy reach, Hornsey Rail Station nearby, and numerous bus routes providing convenient access across North London and into Central London.\n\nThis apartment would make an excellent first-time purchase, home, or investment opportunity in a highly connected North London location.",
+ "keyFeatures": [
+  "GUIDE PRICE £325K - £350K",
+  "Spacious one-bedroom apartment for sale in Westpoint Apartments, Clarendon Road, N8",
+  "Set on the 4th floor with pleasant views overlooking North London",
+  "Large double bedroom with built-in wardrobes",
+  "Generously sized open-plan living room with dining space",
+  "Fully fitted kitchen area",
+  "Private balcony accessed from the living area",
+  "Fully tiled bathroom with bath, shower attachment and WC",
+  "Useful storage space throughout the apartment",
+  "Well-positioned development in the heart of Turnpike Lane"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1fb122cd0/92512380/1fb122cd0259d0dadf90c52848f700f0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/68132bf38/92512380/68132bf38acddc8d9e69469f1fb7f92f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f4514f7a/92512380/5f4514f7a5e931f3219b03f214d0451e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/24a0387eb/92512380/24a0387ebb1341189497eb1fc65a707e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/58e3b00fc/92512380/58e3b00fcfbf8ba686f7234f423f638d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7d4510062/92512380/7d451006242779dddce0e38eef0f00d7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e88aec866/92512380/e88aec86614200b67f4e7775fe3b4d3e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ce48c79ab/92512380/ce48c79ab0d8fafeb640b8ebb449589e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/11d46cd04/92512380/11d46cd043b669a8ce3d470f550249a0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3cdcaee13/92512380/3cdcaee131600d5373f46b03eeaefdb4.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Hornsey Station",
+   "miles": 0.18686115220335117,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Turnpike Lane Station",
+   "miles": 0.39981137144724954,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Wood Green Station",
+   "miles": 0.5748827344840161,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "Alex Crown Lettings & Estate Agents, Islington",
+ "city": "London",
+ "sourceOutcode": "N8",
+ "scrapedAt": "2026-08-31T16:56:22.425Z"
+}

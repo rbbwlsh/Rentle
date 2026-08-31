@@ -1,0 +1,84 @@
+{
+ "id": "92493279",
+ "mode": "buy",
+ "displayAddress": "Priory Avenue, Hornsey, N8",
+ "outcode": "N8",
+ "incode": "7RP",
+ "latitude": 51.58835,
+ "longitude": -0.125932,
+ "priceAmount": 400000,
+ "priceLabel": "£400,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92493279",
+ "area": "Hornsey",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 389,
+  "sizeSqM": 36,
+  "tenureType": "SHARE_OF_FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "D",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": 389,
+ "sizeSqM": 36,
+ "description": "PhilipAlexander are delighted to present this impressive one-bedroom apartment, enviably positioned on the highly sought-after Priory Avenue in Hornsey, N8. Offering generous proportions, excellent natural light and considerable potential, the property provides an exciting opportunity to acquire a home in one of North London’s most desirable residential locations.\n\nThe accommodation is centred around a bright and spacious reception room, providing an elegant and comfortable setting for both relaxing and entertaining. The separate kitchen is well proportioned and offers excellent scope for a purchaser to modernise and create a stylish contemporary space to their own specification.\n\nThe apartment also features a generous double bedroom and bathroom, with the overall layout providing an excellent balance of living and bedroom accommodation. Throughout, the property benefits from a wonderful sense of space and natural light, while offering significant potential for further enhancement.\n\nPriory Avenue is a particularly attractive residential address, perfectly positioned between the vibrant centres of Crouch End, Muswell Hill and Hornsey. An outstanding selection of independent boutiques, cafés, restaurants and amenities are all within easy reach, combining the tranquillity of a residential setting with the convenience of North London living.\n\nThe property is also exceptionally well placed for green open spaces. Priory Park is moments away, while the magnificent Alexandra Palace and Park offers extensive parkland, leisure facilities and spectacular panoramic views across London.\n\nCombining an excellent location, generous accommodation and superb potential, this attractive apartment represents a rare opportunity for buyers looking to create a stylish home in a highly sought-after part of Hornsey, N8.\n\nEPC Rating: D",
+ "keyFeatures": [
+  "One-bedroom apartment",
+  "Highly sought-after Priory Avenue location",
+  "Bright and welcoming reception room",
+  "Well-proportioned double bedroom",
+  "Separate fitted kitchen",
+  "Family bathroom",
+  "Excellent scope for modernisation",
+  "Close to Crouch End Broadway, Muswell Hill and Hornsey",
+  "Moments from Priory Park",
+  "Easy access to Alexandra Palace and Park and excellent transport links"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/89ce117d8/92493279/89ce117d8d6f6ccf26cddc95a3bb88b6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0f5e7192d/92493279/0f5e7192de6c3c85708d88b7005a62b8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ea0a61815/92493279/ea0a618154c4e57badbd9878bb4a90f6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/72d0abbf0/92493279/72d0abbf04c0e109b4a6c98781a4b175.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4f77d7722/92493279/4f77d7722d4da1be84fe05a878a95852.jpeg",
+  "https://media.rightmove.co.uk/property-photo/be7303eb6/92493279/be7303eb6cda2ad265014b08640524fa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/76c23c992/92493279/76c23c992ae1c8b41cb4eb2d5f584bf0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4618cc2f8/92493279/4618cc2f890e1fe54926161b450b60dd.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Hornsey Station",
+   "miles": 0.6359822687699381,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Alexandra Palace Station",
+   "miles": 0.7362814112885361,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Wood Green Station",
+   "miles": 0.9177860968913043,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "Philip Alexander, Crouch End",
+ "city": "London",
+ "sourceOutcode": "N8",
+ "scrapedAt": "2026-08-31T16:56:21.045Z"
+}

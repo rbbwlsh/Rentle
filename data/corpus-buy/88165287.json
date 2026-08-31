@@ -1,0 +1,91 @@
+{
+ "id": "88165287",
+ "mode": "buy",
+ "displayAddress": "The Axium, 36 Windmill Street, Birmingham B1",
+ "outcode": "B1",
+ "incode": "1FW",
+ "latitude": 52.473659,
+ "longitude": -1.901461,
+ "priceAmount": 310000,
+ "priceLabel": "£310,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/88165287",
+ "area": "The Axium",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 739,
+  "sizeSqM": 69,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 995,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "E",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 04/11/2025"
+ },
+ "sizeSqFt": 739,
+ "sizeSqM": 69,
+ "description": "Let UK Home are excited to offer this spectacular 2-bedroom apartment in the heart of The Axium in  Birmingham. Property Reference: LUH 631\n\nThe flat comprises a spacious open kitchen with a stylishly attached dining area, a magnificent living room, two bright bedrooms and two modern bathrooms.\n\nResidents of this exceptional development will have exclusive use of the private screening room, reception room and public terrace. Furthermore, residents will also benefit from a concierge and an unrivalled selection of shops, bars, restaurants, leisure facilities and beautiful landscaped courtyards. \n\nThe Axium is located in the sought-after location of central Birmingham. With an energetic buzz of the city just moments from your apartment and close-by amenities, allowing residents to strike the perfect balance between city life, work and play. These luxury apartments were designed with urban living in mind to ensure residents experience the very best of what Birmingham has to offer. Each apartment enjoys intelligent and sophisticated designs allowing for maximum space and natural light.\n\nThe apartment is adjacent to Birmingham New Street Station and the business district, within walking distance to Chinatown, and close to the new business district Arena Central and the large-scale redevelopment area Paradise. There are complete retail stores, restaurants, banks, and supermarkets surrounding the apartment. The large shopping malls Bullring & Grand Central and Mailbox, as well as many department stores including Selfridges, House of Fraser, John Leweis, M&S, etc. are all within walking distance of the apartment.",
+ "keyFeatures": [
+  "4th Floor",
+  "24h Security",
+  "Concierge Service",
+  "Cinema &amp; Game Room",
+  "Close to Local Shops",
+  "Close to Transport Links",
+  "CCTV",
+  "EPC Rating: B"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/87a9732b7/88165287/87a9732b703bb571fa579f4e506839d6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/115735d29/88165287/115735d29d54e778972bce46badfe05b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/66c01fe05/88165287/66c01fe05e7352fa41c5527ed081df76.jpeg",
+  "https://media.rightmove.co.uk/property-photo/27e39551c/88165287/27e39551c10c15eb5486e557241a8033.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2d616cdac/88165287/2d616cdac9629fc8cc7419f228cabafc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7c3663484/88165287/7c366348402249b71f1356649f71391b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fad9189e2/88165287/fad9189e20516677ca88f37cd6b79efa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b42eef9a9/88165287/b42eef9a95859e8fa4caf25a34ca3e29.jpeg",
+  "https://media.rightmove.co.uk/property-photo/39bc738a5/88165287/39bc738a56242053c9ce2dd58134759a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e731e0484/88165287/e731e0484be081d07d53bfe2f234e5a3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/38b037413/88165287/38b037413543857958f16ea077fdea4c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/642e751ee/88165287/642e751ee364515e62713ed97410a9a6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/32b4a8813/88165287/32b4a88131ee07144b3f2c387d4af9a7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f36526456/88165287/f36526456fc508d492fbe16b9cfb559c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2d62c0edd/88165287/2d62c0edd85bcbb740499f8683866443.jpeg",
+  "https://media.rightmove.co.uk/property-photo/50879a4a6/88165287/50879a4a6f1fa1a480a46d5ba127a33f.png",
+  "https://media.rightmove.co.uk/property-photo/9adc44570/88165287/9adc445703223542a5808b3eec512f74.png"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 0.300851977613764,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Moor Street Station",
+   "miles": 0.5335873423765433,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Five Ways Station",
+   "miles": 0.555421251745521,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Let UK Home, Covering London",
+ "city": "Birmingham",
+ "sourceOutcode": "B1",
+ "scrapedAt": "2026-08-31T16:55:50.241Z"
+}

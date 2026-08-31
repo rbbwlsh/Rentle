@@ -1,0 +1,86 @@
+{
+ "id": "166512626",
+ "mode": "buy",
+ "displayAddress": "Northfield Road, Stoke, Coventry, CV1",
+ "outcode": "CV1",
+ "incode": "2BP",
+ "latitude": 52.404471,
+ "longitude": -1.493218,
+ "priceAmount": 185000,
+ "priceLabel": "£185,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/166512626",
+ "area": "Stoke, Coventry",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "House",
+ "details": {
+  "propertyType": "House",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "SPACIOUS THREE BEDROOM TWO BATHROOM HOUSE \n\nAn excellent opportunity to acquire this extended three-storey property, ideally located in a convenient position close to the city centre. Offering strong potential as a buy-to-let investment or a first-time purchase, the home benefits from uPVC double glazing and gas central heating throughout.\n\nThe accommodation comprises: a front dining room and a separate rear sitting room, a spacious, well-fitted kitchen and a large ground-floor bathroom with full tiling, featuring both a bath and a separate shower area. On the first floor, you’ll find: two well-proportioned bedrooms, a modern, tiled bathroom with shower and the second floor offers a further generous double bedroom.\n\nOutside, the property includes a small front foregarden, side gated access, and a private enclosed rear garden, ideal for outdoor relaxation or entertaining.\n\nThis property combines space, location, and potential – a great choice for investors or first-time buyers alike.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/5abd886c6/166512626/5abd886c6ce1e163a117324ff480e52e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/202e1bef2/166512626/202e1bef2454919a139b95ccbddb0bf0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0cbefb7bd/166512626/0cbefb7bdd58820ef74ff89b9a7bf5df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/542caa029/166512626/542caa02994bb4fe6a0a0c8f1a0e26c6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5e343f802/166512626/5e343f8021e9bc5646239dcd2803e7b2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d5a736175/166512626/d5a7361755f5fc82285c6c58c98a81de.jpeg",
+  "https://media.rightmove.co.uk/property-photo/74732c95e/166512626/74732c95eedd74f208ff24b6cd9541e1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b396b2f89/166512626/b396b2f89f7c915add212722bde5129c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2eb87ec02/166512626/2eb87ec02c0415aa0357aff80104b1e1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f1bdd470c/166512626/f1bdd470c860f21a2163ad734f63007e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e5e7c148e/166512626/e5e7c148e15f73a6f4253ed0ce895db5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1044a476c/166512626/1044a476c3de5a9c38f63bce27ce4d9d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/576847963/166512626/576847963c2841f4930867f7cd079e30.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9c936b8c3/166512626/9c936b8c3c53488080fac7eda985da5b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f12a65276/166512626/f12a6527693079f5000e3f572034b5bb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a790bcc5f/166512626/a790bcc5fee7fb43321141610a2d02db.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bc72cef52/166512626/bc72cef52d5365eae481a80daa7f68b8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a30e5a0c5/166512626/a30e5a0c5c8921729e8cb4c3afc04805.jpeg",
+  "https://media.rightmove.co.uk/property-photo/567951539/166512626/56795153978ae6b001e5dfb4e10d661e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0ab21ad9f/166512626/0ab21ad9f7b4993220fa3bda0d26d601.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f93f906e5/166512626/f93f906e52bdd270fb60f65b14d3bc8f.jpeg"
+ ],
+ "imageCount": 21,
+ "nearestStations": [
+  {
+   "name": "Coventry Station",
+   "miles": 0.9223421275190142,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Canley Station",
+   "miles": 2.3336675769226454,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Coventry Arena Station",
+   "miles": 2.9255982136198075,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "John Payne Estate Agents, Coventry",
+ "city": "Coventry",
+ "sourceOutcode": "CV1",
+ "scrapedAt": "2026-08-31T16:52:22.914Z"
+}

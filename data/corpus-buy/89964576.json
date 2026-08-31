@@ -1,0 +1,93 @@
+{
+ "id": "89964576",
+ "mode": "buy",
+ "displayAddress": "North Row, Milton Keynes, MK9",
+ "outcode": "MK9",
+ "incode": "3NS",
+ "latitude": 52.04774,
+ "longitude": -0.75276,
+ "priceAmount": 375000,
+ "priceLabel": "£375,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89964576",
+ "area": "Milton Keynes",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "SHARE_OF_FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": 3960,
+  "councilTaxBand": "E",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 21/06/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This Premium three-bedroom penthouse apartment offers an abundance of light, space, and contemporary living. \n\nSituated on North Row, this impressive home features bright and airy interiors, generous open-plan living areas, large windows that flood the property with natural light.\n\nThe spacious layout provides ample room for both relaxing and entertaining, while the three well-proportioned bedrooms offer comfortable and versatile accommodation. \nIdeally located, this exceptional penthouse is perfectly placed in the heart of central Milton Keynes and within walking distance of the main line train & Bus stations, local amenities and the main shopping centre.\n\nThe property comprises: Communal entrance with stairs to upper floors, Entrance/ Sun room with Double Glazed windows over looking the communal gardens and door to Balcony. Large living room and kitchen, shower room and three good sized bedrooms. \n\n\"Please note that an AML fee is chargeable to the buyer once an offer is accepted to cover the cost of carrying out the required identity and anti-money laundering checks. Once these checks have been completed, the fee cannot be refunded, even if the property purchase does not go ahead.\"",
+ "keyFeatures": [
+  "3 Bedrooms",
+  "Entrance Hall",
+  "Lounge",
+  "Kitchen",
+  "Sun Room",
+  "Bathroom"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/08dcee5d9/89964576/08dcee5d99157d72ed2f5211d00c6e51.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e26937fb0/89964576/e26937fb044bc892add73cfeb5591753.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4adbc99e5/89964576/4adbc99e5b4f6b881e2dc98127bc0314.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8fac76693/89964576/8fac766937601f9f28f702474c037805.jpeg",
+  "https://media.rightmove.co.uk/property-photo/34404b3ee/89964576/34404b3eeaf55690fdb279af6a22117f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/724ea1d2b/89964576/724ea1d2b0ccdc17676ca25189a03b19.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a5bce611a/89964576/a5bce611a40e9d83f58d6a7f316ebca7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bfbd3a54b/89964576/bfbd3a54b0cf651917090f7216e28d49.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7452d98fb/89964576/7452d98fbf5da71f0132cccc955b217f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bef2fba39/89964576/bef2fba3907b7cef0a4be7e33f0e29d0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/db80d5c96/89964576/db80d5c96bc22d6c8d6c72063d634d04.jpeg",
+  "https://media.rightmove.co.uk/property-photo/565edc363/89964576/565edc36370f0d069b4adc039db86bdd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ad5ad7ba1/89964576/ad5ad7ba12c7995312202d06967eb527.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8eda5e15e/89964576/8eda5e15e62432ade1d43d0d29b40937.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b5a0ea976/89964576/b5a0ea976e5328077c8125b1a8ae897a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bd4807713/89964576/bd48077131233278fb74d3aff6b21380.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1ded10d03/89964576/1ded10d0351f2fbcf05853d1473a81de.jpeg",
+  "https://media.rightmove.co.uk/property-photo/38b7bee68/89964576/38b7bee6806fba01432ef8ddb923369b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e83dd2c49/89964576/e83dd2c49b51678382db31b2aa97bd2a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/28b5cc41c/89964576/28b5cc41cdd1c30143a495981d895fca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4c0f0b3b8/89964576/4c0f0b3b8f769d43337896953cd2da08.jpeg"
+ ],
+ "imageCount": 21,
+ "nearestStations": [
+  {
+   "name": "Milton Keynes Central Station",
+   "miles": 1.254208851816781,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Wolverton Station",
+   "miles": 2.484082399485298,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Fenny Stratford Station",
+   "miles": 3.618472739905235,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Wilson Peacock, Milton Keynes",
+ "city": "Milton Keynes",
+ "sourceOutcode": "MK9",
+ "scrapedAt": "2026-08-31T16:55:00.213Z"
+}

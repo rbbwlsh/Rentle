@@ -1,0 +1,82 @@
+{
+ "id": "92507370",
+ "mode": "buy",
+ "displayAddress": "North Road West, Plymouth, Devon, PL1",
+ "outcode": "PL1",
+ "incode": "5BY",
+ "latitude": 50.37617,
+ "longitude": -4.14592,
+ "priceAmount": 140000,
+ "priceLabel": "£140,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92507370",
+ "area": "Plymouth, Devon",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Maisonette",
+ "details": {
+  "propertyType": "Maisonette",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "SHARE_OF_FREEHOLD",
+  "yearsRemainingOnLease": 960,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Offered to the market with no onward chain, this spacious three-bedroom maisonette is conveniently situated within easy reach of Plymouth city centre, making it an ideal first-time purchase or investment opportunity. The property has previously proven popular as a rental to its excellent location and generous accommodation.\n\nArranged over two floors, the accommodation comprises a spacious lounge/diner, kitchen, bathroom, and a generous principal bedroom on the first floor. The second floor offers two further well-proportioned bedrooms.\n\nFurther benefits include a long lease, with no service charges along with gas central heating, double glazing throughout, and off-road parking to the rear.\n\nEarly viewing is highly recommended to appreciate the space and potential this property has to offer.\n\nAgency Note: \nTenure - Reverse Freehold. \nService Charge PA - £0 \nGround Rent PA - £0\nBuildings Insurance PA - £361 approx.\nYears Remaining on Lease - 961",
+ "keyFeatures": [
+  "3 Bedroom Maisonette",
+  "Lounge/Diner",
+  "Kitchen",
+  "Shower Room"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/833732171/92507370/8337321712033fc555cd5bac81e5dea1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/02152f10e/92507370/02152f10ea5dfef9b38faa3a3e7fd2d2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1939ffe11/92507370/1939ffe11cbca322be04a855affb7c93.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cc131d197/92507370/cc131d197cd14256d2e36288cd212bb6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a64244a01/92507370/a64244a017d5e65cf328fd1fd96f4877.jpeg",
+  "https://media.rightmove.co.uk/property-photo/07d784d1d/92507370/07d784d1d8b1bc432e80c6a2e124dda4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eda90e4f7/92507370/eda90e4f7d81e05c2602288a59fa828a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7869df253/92507370/7869df2530fd9a588d598c2e1cccf2d7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5d7f84fbb/92507370/5d7f84fbbfbc50b3838f806ee284b98c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fd142c354/92507370/fd142c3545d7a4455a39cd3c14da9dc5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e700b1684/92507370/e700b168401a693e6268a81a2da9bd30.jpeg",
+  "https://media.rightmove.co.uk/property-photo/436498005/92507370/43649800557f24154e849b0c819a502e.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Plymouth Station",
+   "miles": 0.1673093863624717,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Devonport Station",
+   "miles": 1.0849578098414019,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Dockyard Station",
+   "miles": 1.405146187411543,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Miller Countrywide, Plymouth",
+ "city": "Plymouth",
+ "sourceOutcode": "PL1",
+ "scrapedAt": "2026-08-31T16:53:47.520Z"
+}

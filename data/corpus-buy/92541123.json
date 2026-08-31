@@ -1,0 +1,89 @@
+{
+ "id": "92541123",
+ "mode": "buy",
+ "displayAddress": "Park Road, Mount Pleasant, Exeter",
+ "outcode": "EX1",
+ "incode": "2HS",
+ "latitude": 50.728748,
+ "longitude": -3.512287,
+ "priceAmount": 325000,
+ "priceLabel": "£325,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92541123",
+ "area": "Mount Pleasant, Exeter",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "C",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 29/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Offered for sale with no onward chain, this impressive bay-fronted period residence combines character features with spacious, extended accommodation in a highly sought-after and convenient location. Situated within easy reach of the City Centre and Ladysmith School, the property is ideal for families and professionals alike.\n\nThe accommodation is light and spacious throughout, featuring an entrance porch, welcoming hallway, elegant bay-fronted living room with a decorative tiled feature fireplace, separate dining room, kitchen/breakfast room, utility room with garden access, and a ground floor shower room. The first floor offers three well-proportioned double bedrooms and a family bathroom. The bathroom is well equipped with a modern roll-top bath and separate shower. \n\nOutside, the enclosed rear garden provides an attractive and low-maintenance outdoor space, laid with decorative stone chippings and complemented by a rear pedestrian access gate.\n\nEarly iternal viewing is highly recommended.\n\nMaterial Information - Construction notes: Brick. \n\nUtilities: Mains gas, electricity, water, and drainage. Current broadband provider: TalkTalk.  \n\nBroadband and Mobile Coverage: For an indication of specific speeds and supply or coverage in the area, we recommend checking with Ofcom by visiting their web site.  \n\nViewing Arrangements - Strictly by appointment with Naomi J Ryan Estate Agents.\n\nReferral Fee Disclosure - We recommend sellers and/or potential buyers use the services of The Mortgage Quarter. Should you decide to use the services of The Mortgage Quarter you should know that we would expect to receive a referral fee of £200 from them for recommending you to them. You are not under any obligation to use the services and can seek alternative providers of these services. Further information is available on our web site.",
+ "keyFeatures": [
+  "3 Double Bedrooms",
+  "No Onward Chain",
+  "Well Presented Throughout",
+  "Living Room with Bay Window",
+  "Separate Dining Room",
+  "Kitchen/Breakfast Room",
+  "Separate Utility Room and Ground Floor Shower Room",
+  "Modern First Floor Bathroom with Separate Shower",
+  "Enclosed Rear Garden",
+  "Viewing Highly Recommended"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/26ce7ac8c/92541123/26ce7ac8ccd746577d322a4c1b2e9f9d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2b1d8257d/92541123/2b1d8257dbccb59b66eadf8f4732c931.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7f926d9ae/92541123/7f926d9aefc7246de3d57608c7ff3e5c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/491e3ab9e/92541123/491e3ab9e114bd5324c28d759ce66d0d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9727acad5/92541123/9727acad5d428ad60ae7e7f5d9ca4e8f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5663c847d/92541123/5663c847d13e6cf6af5e66f10e0a57d9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/65bd2b451/92541123/65bd2b45186c6c7ed7a74f5978d2c92f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/89bfafdf7/92541123/89bfafdf7f98f406cc0db1a2ece6e6d3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/03f48cdae/92541123/03f48cdaeb20ca628e953ef9dca4d7df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d410c6805/92541123/d410c680508048f599f1d9f14fafd4fa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e096ff48a/92541123/e096ff48af37998e3899dcc268c02b7c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/61ec4359f/92541123/61ec4359f20535f47e1c31bd62e0499a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fa2864182/92541123/fa286418272c8ee523f2c824f76d8dd5.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "St James Park Station",
+   "miles": 0.46200913728575066,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Polsloe Bridge Station",
+   "miles": 0.49111351192329683,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Exeter Central Station",
+   "miles": 0.9265386741350249,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Naomi J Ryan, Exeter",
+ "city": "Exeter",
+ "sourceOutcode": "EX1",
+ "scrapedAt": "2026-08-31T16:53:56.953Z"
+}

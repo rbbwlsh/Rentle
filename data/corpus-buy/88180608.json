@@ -1,0 +1,81 @@
+{
+ "id": "88180608",
+ "mode": "buy",
+ "displayAddress": "Stimpson Avenue, Abington, Northampton, Northamptonshire, NN1",
+ "outcode": "NN1",
+ "incode": "4JW",
+ "latitude": 52.246013,
+ "longitude": -0.877184,
+ "priceAmount": 230000,
+ "priceLabel": "£230,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/88180608",
+ "area": "Northampton, Northamptonshire",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A beautifully presented three-bedroom Victorian terraced home situated in the heart of Abington, within walking distance of Abington Park, Northampton Racecourse, and the vibrant Wellingborough Road. Offering a blend of character features and practical living space, this charming property would make an ideal first-time purchase or investment opportunity.\n\nThe property is entered via the front aspect into a bright and welcoming hallway, with stairs rising to the first floor and access to the main living accommodation. The spacious open-plan living and dining room is filled with natural light and showcases a stunning central fireplace complete with original tiled inserts and a wooden mantelpiece, adding to the home’s period charm. A large rear sash window in the dining area opens through to the sun room, creating an excellent additional reception space.\n\nThe kitchen is fitted with a range of wall and base-mounted units, along with an integrated oven and gas hob, and also provides access to the cellar. To the rear of the kitchen is a useful utility room, leading through to the family bathroom, which is fitted with a bath and shower over, wash basin, and WC.\n\nTo the first floor are two generously sized double bedrooms and a well-proportioned single bedroom.\n\nExternally, the property benefits from a low-maintenance rear courtyard garden with convenient rear access via a shared alleyway.\n\n\rIMPORTANT NOTE TO POTENTIAL PURCHASERS & TENANTS:\n We endeavour to make our particulars accurate and reliable, however, they do not constitute or form part of an offer or any contract and none is to be relied upon as statements of representation or fact. The services, systems and appliances listed in this specification have not been tested by us and no guarantee as to their operating ability or efficiency is given. All photographs and measurements have been taken as a guide only and are not precise. Floor plans where included are not to scale and accuracy is not guaranteed. If you require clarification or further information on any points, please contact us, especially if you are traveling some distance to view. POTENTIAL PURCHASERS: Fixtures and fittings other than those mentioned are to be agreed with the seller. POTENTIAL TENANTS: All properties are available for a minimum length of time, with the exception of short term accommodation. Please contact the branch for details. A security deposit of at least one month’s rent is required. Rent is to be paid one month in advance. It is the tenant’s responsibility to insure any personal possessions. Payment of all utilities including water rates or metered supply and Council Tax is the responsibility of the tenant in most cases. \n\nQNT260204/2",
+ "keyFeatures": [
+  "Three Bedrooms",
+  "Victorian Terraced House",
+  "Downstairs Bathroom",
+  "Character Property",
+  "Close Proximity To Racecourse and Abington Park",
+  "Walking Distance to Northampton General Hospital",
+  "Courtyard Garden",
+  "Very Well Presented",
+  "Sun Room",
+  "Utility Room"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/ce60d18fb/88180608/ce60d18fb109f2b5f0a455d5b24e49c3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dd57bde65/88180608/dd57bde6586b9e45526826bcb3f32925.jpeg",
+  "https://media.rightmove.co.uk/property-photo/08c4a6ca8/88180608/08c4a6ca8d1749c80cf77f2b3d5546c4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9edbfa333/88180608/9edbfa3334fa7c4dad7c659791862b02.jpeg",
+  "https://media.rightmove.co.uk/property-photo/11c098a7a/88180608/11c098a7a07cb8333e7393382d254892.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cae22c46c/88180608/cae22c46c163d52a253110bcf97cfe84.jpeg",
+  "https://media.rightmove.co.uk/property-photo/478d0c688/88180608/478d0c688e0cda9589b6ea43afa0df56.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a91eb4d26/88180608/a91eb4d2680d7c5fc4343f7e319059c4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/20c017d93/88180608/20c017d9314132fb445dcdf04ee3eea7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fc22656be/88180608/fc22656bef6faa2a73e1b3208a10cb20.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cc2d9626a/88180608/cc2d9626a1821d5b6f7e72342d526992.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6512a22dc/88180608/6512a22dc159ff38da39d29adf1ae7cd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/11fd73d90/88180608/11fd73d90addf94b54bb856969e15b60.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4b0aa5ca4/88180608/4b0aa5ca459f9fd12d4e6f566c784473.jpeg",
+  "https://media.rightmove.co.uk/property-photo/89562ae2e/88180608/89562ae2e3d4842ec4062e51db78401b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e03c85584/88180608/e03c855842fe1ae10763cebbea505216.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2bb3d4fa5/88180608/2bb3d4fa53891a613ebc14126b5817da.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2c8da35c7/88180608/2c8da35c7d8ba1680cd5c84573c8312a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/022f22724/88180608/022f22724be0c511c9d0808cf2b8cea8.jpeg"
+ ],
+ "imageCount": 19,
+ "nearestStations": [
+  {
+   "name": "Northampton Station",
+   "miles": 1.382865638831626,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "YOUR MOVE Nolan Throw, Abington",
+ "city": "Northampton",
+ "sourceOutcode": "NN1",
+ "scrapedAt": "2026-08-31T16:53:08.582Z"
+}

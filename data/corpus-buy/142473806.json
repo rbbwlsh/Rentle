@@ -1,0 +1,79 @@
+{
+ "id": "142473806",
+ "mode": "buy",
+ "displayAddress": "Gunwharf Quays, Portsmouth, Hampshire",
+ "outcode": "PO1",
+ "incode": "3SG",
+ "latitude": 50.795895,
+ "longitude": -1.103703,
+ "priceAmount": 90000,
+ "priceLabel": "£90,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/142473806",
+ "area": "Portsmouth, Hampshire",
+ "bedrooms": 0,
+ "bathrooms": null,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 18/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "55 The Roundhouse, Gunwharf Quays, Portsmouth PO1 3SG\n\nWe are acting in the sale of the above property and received an offer of £108,000 on the above property.\n\nAny interested parties must submit any higher offers in writing to the selling agent before exchange of contracts takes place\n\nThis Stylish Studio Apartment is located on the 1st Floor Within The Heart Of Gunwharf Quays.   Ideal for an Investment Opportunity, Viewing Highly Recommended. Offered with NO CHAIN.\n\nPERFECT FOR INVESTMENT BUYERS LOOKING FOR A GOOD INVESTMENT OPPORTUNITY IN GUNWHARF QUAYS.\n\nCouncil Tax Band A: £1,155.00\n\nSuccessful buyers will be required to complete online identity checks provided by Lifetime Legal. The cost of these checks is £80 inc. VAT per purchase which is paid in advance, directly to Lifetime Legal. This charge verifies your identity in line with our obligations as agreed with HMRC and includes mover protection.’’",
+ "keyFeatures": [
+  "Studio",
+  "First Floor",
+  "Lift",
+  "Shower Room",
+  "Kitchen Area",
+  "No Chain",
+  "Located in Gunwharf Quays"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/6908818cb/142473806/6908818cb2a82c4d3ada6b61b53fdc54.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b1325baf4/142473806/b1325baf40457bf65f0d681ebfaff32d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1f53196a9/142473806/1f53196a98cd9018ef2145b0a2b50535.jpeg",
+  "https://media.rightmove.co.uk/property-photo/07907282c/142473806/07907282c513d2ae9c3d93bb8de9e34b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b3dc42030/142473806/b3dc420306ea288010cdd41731a77045.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7db862aff/142473806/7db862aff9bf49e48dcf952dfa05b942.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Portsmouth Harbour Station",
+   "miles": 0.17461070937522685,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Portsmouth & Southsea Station",
+   "miles": 0.6088905420129942,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Fratton Station",
+   "miles": 1.302666560864357,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Leaders Waterside Properties Sales, Gunwharf Quays",
+ "city": "Portsmouth",
+ "sourceOutcode": "PO1",
+ "scrapedAt": "2026-08-31T14:52:52.670Z"
+}

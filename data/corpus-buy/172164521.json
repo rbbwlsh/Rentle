@@ -1,0 +1,80 @@
+{
+ "id": "172164521",
+ "mode": "buy",
+ "displayAddress": "Lower Twelfth Street, Milton Keynes, Buckinghamshire, MK9",
+ "outcode": "MK9",
+ "incode": "3PW",
+ "latitude": 52.04376,
+ "longitude": -0.75054,
+ "priceAmount": 150000,
+ "priceLabel": "£150,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/172164521",
+ "area": "Milton Keynes, Buckinghamshire",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 106,
+  "annualGroundRent": 150,
+  "annualServiceCharge": 2196,
+  "councilTaxBand": "TBC",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 29/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Spacious One Bedroom Apartment, Theatre District, Central Milton Keynes\n\nIf you’re looking for a home right in the heart of the action, this onebedroom apartment in the Theatre District delivers unbeatable citycentre living. Positioned in the block directly above the Post Office, you’re surrounded by everything that makes Milton Keynes vibrant, modern, and brilliantly connected.\n\nA Prime Theatre District Location\nStep outside and you’re moments from an incredible range of restaurants, cafés, bars, gyms, and entertainment venues. The Theatre District is one of the most soughtafter spots in Central MK, offering a lively atmosphere day and night. You’re also just a short stroll from:\n\nThe Centre:MK and Intu shopping\n\nMilton Keynes Theatre and the Xscape leisure complex\n\nBeautiful parks and lakeside walks\n\nThe mainline train station with fast links to London and beyond\n\nIt’s the perfect blend of convenience, culture, and lifestyle.\n\nSpacious, OpenPlan Living\nInside, the apartment offers a generous openplan living and kitchen area—ideal for modern living and entertaining. The double bedroom provides a peaceful retreat, while the family bathroom completes the layout. The space feels bright, airy, and wellproportioned throughout.\n\nResident Parking Included\nA huge bonus for a citycentre home: resident parking is available, giving you the freedom to enjoy central living without the usual parking challenges.\n\nPerfect for FirstTime Buyers or Investors\nWhether you’re stepping onto the property ladder or expanding your portfolio, this apartment is a standout choice. Firsttime buyers will love the convenience and lifestyle on offer, while investors will appreciate the strong, steady rental demand in this prime location—properties in the Theatre District are consistently popular with professionals.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d5e3f209d/172164521/d5e3f209d0de97443643bff77d93a614.jpeg",
+  "https://media.rightmove.co.uk/property-photo/64a9a7114/172164521/64a9a7114e0eb6942de539a092f5b5c6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/338988669/172164521/33898866943c76b2c926a675e1f3a194.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b1eded6fb/172164521/b1eded6fb6e7bee265961c60fd74b270.jpeg",
+  "https://media.rightmove.co.uk/property-photo/afe54e2b6/172164521/afe54e2b6a520409fc7c4a06dfa3ace0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e8d43ca21/172164521/e8d43ca21498316f3aa3676ba8d3b862.jpeg",
+  "https://media.rightmove.co.uk/property-photo/535727b73/172164521/535727b73d5a3aad544ae6b74abe79b2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cf4f4aca1/172164521/cf4f4aca1510dfe2aa81d8163d03851e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/24bbdcacc/172164521/24bbdcacc5853f0d02e59f8e8fd41c99.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aded2a8c5/172164521/aded2a8c570378889708121bcad8c761.jpeg",
+  "https://media.rightmove.co.uk/property-photo/844b5288a/172164521/844b5288ad747c257f542615225d994a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/de34da8b5/172164521/de34da8b55531c332c61fb15a385c8f2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/03dfa85ec/172164521/03dfa85ec1735ba4fb54edb3ebaa8fee.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e8fa3098c/172164521/e8fa3098c2e69c097272d72f7ca439aa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ddfa04e6c/172164521/ddfa04e6cd4e4889d9876bf7e5c2e00f.jpeg"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Milton Keynes Central Station",
+   "miles": 1.1503905909779593,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Wolverton Station",
+   "miles": 2.7079915986236327,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Fenny Stratford Station",
+   "miles": 3.3286923899845644,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Taylors Estate Agents, Milton Keynes",
+ "city": "Milton Keynes",
+ "sourceOutcode": "MK9",
+ "scrapedAt": "2026-08-31T14:57:52.880Z"
+}

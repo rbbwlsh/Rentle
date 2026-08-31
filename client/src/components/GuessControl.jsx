@@ -1,31 +1,30 @@
 import { useEffect, useRef, useState } from 'react';
-import { formatPcm } from '../format.js';
-import {
-  TYPED_MAX,
-  clampGuess,
-  normalizeTypedGuess,
-  parseTypedGuess,
-} from '../engine/guessInput.js';
+import { formatPrice } from '../format.js';
+import { clampGuess, normalizeTypedGuess, parseTypedGuess } from '../engine/guessInput.js';
+import { guessToSlider, sliderToGuess, sliderBounds } from '../engine/modes.js';
 
-const SLIDER_MIN = 200;
-const SLIDER_MAX = 10000; // slider range only — the corpus has a few trophy listings
-const STEP = 25;
-const NUDGE = 50;
-
-// Slider + typed input for the player's monthly-rent guess.
+// Slider + typed input for the player's guess, in whichever mode is being
+// played. Everything that differs between rent and buy — the band, the scale,
+// the nudge size, how many digits the box accepts — comes out of the mode
+// table rather than a constant here, because those constants were rent's: six
+// digits caps typing at £999,999, which makes a £1.2m listing unguessable, and
+// a linear £25k–£1.5m slider gives about £1,500 a step with the whole corpus
+// crammed into the left tenth.
 //
 // The typed field holds a RAW STRING, not a number. An earlier version clamped
 // on every keystroke, which made the box impossible to use: typing "1500"
 // clamped to the £200 floor on the first digit, and clearing the field snapped
 // it to 200 as well. Nothing is coerced until submit — you can empty the box,
 // type freely, and only then does the value get bounded.
-export default function GuessControl({ attempt, maxAttempts, disabled, onGuess }) {
-  const [raw, setRaw] = useState('1500');
+export default function GuessControl({ mode, attempt, maxAttempts, disabled, onGuess }) {
+  const cfg = mode.guess;
+  const [raw, setRaw] = useState(String(cfg.initial));
   const [touched, setTouched] = useState(false);
   const inputRef = useRef(null);
 
   const n = parseTypedGuess(raw);
   const valid = n != null;
+  const track = sliderBounds(mode);
 
   // A fresh box for each guess, focused on desktop so you can just type.
   useEffect(() => {
@@ -33,17 +32,37 @@ export default function GuessControl({ attempt, maxAttempts, disabled, onGuess }
     if (window.matchMedia?.('(min-width: 640px)').matches) inputRef.current?.focus();
   }, [attempt]);
 
-  const setNumber = (v) => setRaw(String(Math.max(0, Math.min(TYPED_MAX, Math.round(v)))));
+  // Switching game resets the box to that game's opening figure — £1,500 pcm
+  // is not a sane starting guess for an asking price.
+  useEffect(() => {
+    setRaw(String(cfg.initial));
+  }, [mode.key, cfg.initial]);
+
+  const setNumber = (v) =>
+    setRaw(String(Math.max(0, Math.min(cfg.typedMax, Math.round(v)))));
+
+  // Rent nudges by a flat £50; a flat £50 against a £400k asking price is
+  // noise, so buy nudges by a proportion instead.
+  const nudge = (direction) => {
+    const from = valid ? n : cfg.initial;
+    if (cfg.nudge < 1) {
+      const next = from * (1 + direction * cfg.nudge);
+      const grain = next >= 500000 ? 10000 : next >= 100000 ? 5000 : 1000;
+      setNumber(Math.round(next / grain) * grain);
+    } else {
+      setNumber(from + direction * cfg.nudge);
+    }
+  };
 
   function onType(e) {
-    setRaw(normalizeTypedGuess(e.target.value));
+    setRaw(normalizeTypedGuess(e.target.value, cfg.maxDigits));
   }
 
   function submit(e) {
     e.preventDefault();
     setTouched(true);
     if (disabled || !valid) return;
-    onGuess(clampGuess(n));
+    onGuess(clampGuess(n, cfg.typedMax));
   }
 
   return (
@@ -76,32 +95,36 @@ export default function GuessControl({ attempt, maxAttempts, disabled, onGuess }
           pattern="[0-9]*"
           autoComplete="off"
           enterKeyHint="go"
-          aria-label="Your guess in pounds per month"
+          aria-label={`${mode.prompt} in pounds`}
           placeholder="0"
           value={raw}
           onChange={onType}
           disabled={disabled}
           className="w-full min-w-0 bg-transparent py-3 text-2xl font-extrabold tabular-nums text-slate-800 outline-none placeholder:text-slate-300"
         />
-        <span className="flex-shrink-0 text-sm font-medium text-slate-400">pcm</span>
+        {mode.unit && (
+          <span className="flex-shrink-0 text-sm font-medium text-slate-400">
+            {mode.unit}
+          </span>
+        )}
       </div>
 
       <div className="mt-1.5 flex h-5 items-center justify-between text-xs">
         {touched && !valid ? (
           <span className="font-medium text-rose-500">Enter an amount to guess.</span>
         ) : (
-          <span className="text-slate-400">{valid ? formatPcm(n) : ' '}</span>
+          <span className="text-slate-400">{valid ? formatPrice(n, mode) : ' '}</span>
         )}
         <div className="flex gap-1.5">
-          {[-NUDGE, NUDGE].map((d) => (
+          {[-1, 1].map((d) => (
             <button
               key={d}
               type="button"
               disabled={disabled}
-              onClick={() => setNumber((valid ? n : 0) + d)}
+              onClick={() => nudge(d)}
               className="rounded-lg bg-slate-100 px-2.5 py-1 font-semibold text-slate-600 transition active:bg-slate-200 disabled:opacity-50"
             >
-              {d > 0 ? `+${d}` : d}
+              {cfg.nudgeLabel(d * (cfg.nudge < 1 ? 1 : cfg.nudge))}
             </button>
           ))}
         </div>
@@ -109,18 +132,18 @@ export default function GuessControl({ attempt, maxAttempts, disabled, onGuess }
 
       <input
         type="range"
-        min={SLIDER_MIN}
-        max={SLIDER_MAX}
-        step={STEP}
-        value={Math.min(Math.max(valid ? n : SLIDER_MIN, SLIDER_MIN), SLIDER_MAX)}
-        onChange={(e) => setRaw(e.target.value)}
+        min={track.min}
+        max={track.max}
+        step={track.step}
+        value={guessToSlider(mode, valid ? n : cfg.min)}
+        onChange={(e) => setRaw(String(sliderToGuess(mode, e.target.value)))}
         disabled={disabled}
         aria-label="Drag to set your guess"
         className="mt-4 w-full"
       />
       <div className="mt-1 flex justify-between text-xs text-slate-400">
-        <span>{formatPcm(SLIDER_MIN)}</span>
-        <span>{formatPcm(SLIDER_MAX)}+</span>
+        <span>{formatPrice(cfg.min, mode)}</span>
+        <span>{formatPrice(cfg.max, mode)}+</span>
       </div>
 
       <button

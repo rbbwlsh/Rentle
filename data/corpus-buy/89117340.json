@@ -1,0 +1,90 @@
+{
+ "id": "89117340",
+ "mode": "buy",
+ "displayAddress": "23c/4, Gayfield Square, New Town, Edinburgh, EH1 3NX",
+ "outcode": "EH1",
+ "incode": "3NX",
+ "latitude": 55.959723,
+ "longitude": -3.185441,
+ "priceAmount": 320000,
+ "priceLabel": "£320,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89117340",
+ "area": "New Town, Edinburgh",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 614,
+  "sizeSqM": 57,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 0,
+  "councilTaxBand": "E",
+  "priceQualifier": "Fixed Price",
+  "listingUpdate": "Added on 31/05/2026"
+ },
+ "sizeSqFt": 614,
+ "sizeSqM": 57,
+ "description": "Immaculately presented second floor flat situated within the prestigious New Town district of the City within walking distance of Edinburgh City Centre, its many well renowned attractions and a wide range of local amenities.  The property would make an ideal purchase for a professional person/couple or perhaps letting purposes and the move-in accommodation comprises:- Shared secure entry. Stairs & lift to upper levels. Reception hall with storage. Attractive open plan living room/modern fitted kitchen with appliances. Two double bedrooms both with built in mirrored wardrobes. Contemporary recently installed shower room. Gas central heating. Double glazing. Gayfield Square Gardens close by. Permit & meter parking.\n\nLOCATION: Gayfield Square enjoys a desirable location with a host of amenities on its doorstep. Within walking distance of the City Centre, St James Quarter and Broughton Street, there are excellent leisure, retail and dining experiences to enjoy: the Playhouse Theatre hosting London West-End musicals and acts, the Everyman and Vue cinemas, health & fitness facilities, independent shops and international retailers and restaurants to suit every taste. Everyday shopping needs are well served whether by award-winning deli Valvona & Crolla, the local fishmonger, butcher and greengrocer or branches of national supermarkets. The area offers a host of green spaces including the lovely park at the centre of Gayfield Square, nearby Calton Hill, Holyrood Park and the network of 'green paths' giving access to the Water of Leith Walkway. An ideal location for superb transport links, Edinburgh Waverley Train Station and Edinburgh Bus Station are both a short walk away and the trams and buses on nearby Leith Walk offer access to other parts of the city and Edinburgh International Airport.\n\nFACTORING NOTE:\n\nThe development is factored by James Gibb at an approximate charge of £120 per calendar month.  This covers the maintenance of all the communal areas and also the block’s buildings’ insurance.\n\n***Please note, some images have been virtually staged for illustration purposes***",
+ "keyFeatures": [
+  "Shared secure entry. Stairs &amp; lift to upper levels.",
+  "Reception hall with storage.",
+  "Attractive open plan living room/modern fitted kitchen with appliances.",
+  "Two double bedrooms both with built in mirrored wardrobes.",
+  "Contemporary recently installed shower room.",
+  "Permit &amp; meter parking. Gayfield Square Gardens close by."
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c6a7454ec/89117340/c6a7454ec3227367098293e81fcc8277.jpeg",
+  "https://media.rightmove.co.uk/property-photo/acbc51e88/89117340/acbc51e889d4f911cae9d2f75fa9371f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dc7070d0e/89117340/dc7070d0e12993ac79ef4d30f6f47ba9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0c03c3e32/89117340/0c03c3e328b60880a828502e47a987da.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7ca733593/89117340/7ca733593833564e28dbc8d5b65e5827.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3b4b9af70/89117340/3b4b9af7063d98111885e0691fb88372.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d6addf084/89117340/d6addf0849ccc384f968480d21275be1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d8f315392/89117340/d8f315392fe9be71b6a848096337446e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c3c55dd35/89117340/c3c55dd353c62ec4a758d040ff4ad1f1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/571b6c2bc/89117340/571b6c2bcc1c36438fa805c6eb8c6c7b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9aaed0535/89117340/9aaed05354b7401d8d98df715a894aa0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/41c9987f0/89117340/41c9987f0013b8b4c4dbaff27ed2031d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aade70072/89117340/aade700721fe6ced0ef1c4fdcd2c412b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5cce01499/89117340/5cce014990d5064434c4438744efa2d3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4b0cc61e2/89117340/4b0cc61e261951f7c749d462d9359ade.jpeg",
+  "https://media.rightmove.co.uk/property-photo/27ed9b219/89117340/27ed9b219ab87ec9fa377a9caf80ab83.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b0b1a07e2/89117340/b0b1a07e2bed3bc686f2e388e1381c34.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fcd8f41b3/89117340/fcd8f41b3c2dfc75a5a8276dea5dc80e.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.5594913021130778,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.6117040048585498,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 3.213783572501022,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Gillespie Macandrew, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH1",
+ "scrapedAt": "2026-08-31T16:56:11.708Z"
+}

@@ -1,0 +1,85 @@
+{
+ "id": "92529102",
+ "mode": "buy",
+ "displayAddress": "Appleby Road, Hackney",
+ "outcode": "E8",
+ "incode": "3ET",
+ "latitude": 51.541827,
+ "longitude": -0.06278,
+ "priceAmount": 1500000,
+ "priceLabel": "£1,500,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92529102",
+ "area": "Hackney",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "End of Terrace",
+ "details": {
+  "propertyType": "End of Terrace",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Situated on this sought-after turning, just moments from the desirable London Fields, with its renowned Lido and expansive green open space, is this stunning extended three-bedroom Victorian house.\n\nBeautifully presented throughout, the property offers exceptional living space, beginning with an elegant front reception room that flows seamlessly into a stylish bespoke kitchen with a side-return extension, creating the perfect setting for modern family living, dining and entertaining.\n\nThe property further benefits from a secluded, well-proportioned rear garden, double-glazed sash windows, a guest cloakroom, wooden flooring, and a contemporary family bathroom.\n\n There is an excellent selection of local amenities  close by, including the vibrant and fashionable Broadway Market, with its array of independent cafés, restaurants and shops.\n\nTenure: Freehold \nCouncil Tax Band: E",
+ "keyFeatures": [
+  "Sought After Location",
+  "Period Freehold House",
+  "Three Bedrooms",
+  "Large Rear Garden",
+  "Superb Storage Space",
+  "Close To London Fields Station"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/e434e6e98/92529102/e434e6e98eadef9c8a2e4b0ffce26cf0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2d3f1bd76/92529102/2d3f1bd7605808d828f9efbd6bd98ebf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ca0231169/92529102/ca02311691dd790d9ae63ed528dc3870.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5dcf6055f/92529102/5dcf6055f1c06f93efb033aee1ec5c38.jpeg",
+  "https://media.rightmove.co.uk/property-photo/33df6aac9/92529102/33df6aac97393dc47275bd5c282d231b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8728f1248/92529102/8728f1248746037b6507b773204218ad.jpeg",
+  "https://media.rightmove.co.uk/property-photo/91d173a98/92529102/91d173a9827686bdbc4a15695ecd5893.jpeg",
+  "https://media.rightmove.co.uk/property-photo/038cd5dfa/92529102/038cd5dfaba84f5c466f270a93c4f5cb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/721f3f495/92529102/721f3f49515688e392bc27cebdac2670.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1ad1fb646/92529102/1ad1fb6462de1312f975b3ebbd21c4c8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1115fda06/92529102/1115fda06dfb152f350f67f30603d53d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0a5a172ea/92529102/0a5a172ea8a0201b86947ba0a5c67023.jpeg",
+  "https://media.rightmove.co.uk/property-photo/90daf4be3/92529102/90daf4be39ca3befef89ddf35116d90d.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "London Fields Station",
+   "miles": 0.23143479951726892,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Hackney Downs Station",
+   "miles": 0.46131270084613707,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Hackney Central Station",
+   "miles": 0.46254956579971945,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  }
+ ],
+ "agent": "Dexters, Hackney",
+ "city": "London",
+ "sourceOutcode": "E8",
+ "scrapedAt": "2026-08-31T16:59:21.368Z"
+}

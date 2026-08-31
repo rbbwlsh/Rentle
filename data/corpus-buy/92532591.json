@@ -1,0 +1,92 @@
+{
+ "id": "92532591",
+ "mode": "buy",
+ "displayAddress": "Kilcattan Street, splott, Cardiff",
+ "outcode": "CF24",
+ "incode": "2AN",
+ "latitude": 51.480983,
+ "longitude": -3.15767,
+ "priceAmount": 185000,
+ "priceLabel": "£185,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92532591",
+ "area": "splott, Cardiff",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 646,
+  "sizeSqM": 60,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "C",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": 646,
+ "sizeSqM": 60,
+ "description": "This two-bedroom terraced house is offered for sale in immaculate condition, providing a light and minimal interior throughout. The property features one reception room with a gas fireplace with Victorian surround in good working order, real wood flooring and upgraded underfloor insulation, offering flexible living and dining space, together with a well-presented kitchen and a modern bathroom, including a tumble dryer with dedicated vent, creating a practical layout for day-to-day living with built in storage including a partially-boarded loft and lockable outside shed. The kitchen roof has recently been renewed and fitted with upgraded insulation, a modern composite door fitted, and a new boiler and electric oven have been installed.\n\nSituated in Splott, Cardiff, the house has unrestricted on-street parking and is conveniently located close to the city centre which can be reached in just 20-30 minutes by foot, with a range of local amenities available nearby. Splott Park and Moorland Park are within easy reach, offering green space, play areas and sports facilities. The area also benefits from a great selection of local shops, cafés and services, with Lidl 2 minutes walk away, and further extensive retail and leisure options available in Cardiff city centre and around Newport Road.\n\nFor public transport, the property is well placed for access to Cardiff city centre by frequent bus services from Splott and neighbouring areas. Cardiff Central station can be reached in 20-30 minutes by foot and 10–15 minutes by bus or car, providing rail links to destinations including Cardiff Airport, Newport, Swansea and London Paddington, with journey times to London from approximately 2 hours. Road connections are also convenient, with access to the A48 and A4232 linking to the M4 corridor.\n\nThis two-bedroom terraced house for sale in Splott represents a well-maintained home in a location that offers straightforward access to central Cardiff, local parks and everyday amenities.",
+ "keyFeatures": [
+  "Immaculate two-bedroom terraced house",
+  "Light, minimal interior throughout",
+  "Close to Cardiff city centre",
+  "Near Splott and Moorland Parks",
+  "Great local shops and cafés",
+  "Frequent bus services nearby",
+  "Easy access to Cardiff Central station",
+  "Convenient links to A48, M4"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/648caf1e3/92532591/648caf1e3737f9023dd352cf22acc82e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dad8a6510/92532591/dad8a651059f8b359bc41d926232dd93.jpeg",
+  "https://media.rightmove.co.uk/property-photo/649579acf/92532591/649579acf8476254e3b0c72a2716dd59.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f5f3c94e0/92532591/f5f3c94e0a0b4141ed5c33fb19944904.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4e966b15c/92532591/4e966b15cad75fa673d880a52795adef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6bfc8216a/92532591/6bfc8216a909ac85c6a493c26a77b83e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/278ac7542/92532591/278ac754212cd52a8480b91c342d6f93.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9b9778f75/92532591/9b9778f75747e710c915d891e2b31d2b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d528a3840/92532591/d528a384008276ce7d12bfe5fcc3afbe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4ecfc81db/92532591/4ecfc81db241a918faf8017e7e2f57cd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f499f9d5c/92532591/f499f9d5c5c3fda56626bad0ae45da37.jpeg",
+  "https://media.rightmove.co.uk/property-photo/badfcab99/92532591/badfcab99764f8c2ad6e4d060af917b2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f21f40226/92532591/f21f402260062f58cecccf0da55eda9a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f5fc436a8/92532591/f5fc436a83784487244e80430d427d76.jpeg",
+  "https://media.rightmove.co.uk/property-photo/117f4d66b/92532591/117f4d66bda072227bf60d16f3c468ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a77a56c84/92532591/a77a56c84c8dab8ad3e7dc1ef94cb745.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e96f4a5ea/92532591/e96f4a5ea3a40b8231c0a65bad994f4b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5fe8f5e4b/92532591/5fe8f5e4b8bb8239ab0e3097f9b3ae85.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "Cardiff Queen Street Station",
+   "miles": 0.5548238271817469,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cardiff Central Station",
+   "miles": 0.9603723264658585,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cardiff Bay Station",
+   "miles": 1.0335695193756511,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Moginie James, Roath",
+ "city": "Cardiff",
+ "sourceOutcode": "CF24",
+ "scrapedAt": "2026-08-31T16:56:54.635Z"
+}

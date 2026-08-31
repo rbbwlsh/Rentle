@@ -1,0 +1,84 @@
+{
+ "id": "92509167",
+ "mode": "buy",
+ "displayAddress": "Gunhild Court, Cambridge",
+ "outcode": "CB1",
+ "incode": "8RF",
+ "latitude": 52.183413,
+ "longitude": 0.15534,
+ "priceAmount": 200000,
+ "priceLabel": "£200,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92509167",
+ "area": "Cambridge",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Maisonette",
+ "details": {
+  "propertyType": "Maisonette",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 527,
+  "sizeSqM": 49,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 89,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": 527,
+ "sizeSqM": 49,
+ "description": "A well-positioned one-bedroom first floor apartment forming part of a small, established development just to the north of Cambridge city centre. The property offers straightforward, low-maintenance accommodation with well-proportioned rooms, useful storage and a practical layout, likely to appeal to first-time buyers, investors or those seeking a Cambridge base with good access to the Science Park and Cambridge North station.\r\n\r\nThe apartment is accessed via its own entrance at ground level with stairs rising to the first floor. The sitting/dining room is a comfortable, square-shaped space with a large window overlooking mature greenery, providing good natural light and sufficient room for both seating and dining areas. The separate kitchen is functional and sensibly arranged with a range of fitted units, ample worktop space and room for freestanding appliances.\r\n\r\nThe bedroom is a generous double with space for wardrobes and additional furniture, while the bathroom has been fitted with a modern white suite including a curved shower enclosure alongside a bath. Neutral décor throughout gives the property a clean and straightforward feel, allowing buyers to move in immediately while still offering scope for cosmetic improvement over time if desired.\r\n\r\nAn additional external store provides practical storage for bicycles or household items, which is particularly useful for day-to-day Cambridge living. The development itself sits within established communal grounds with mature trees and open lawned areas creating a quieter setting than many similarly priced apartments closer to the centre.\r\n\r\nThe property is offered on a leasehold basis with approximately 92 years remaining on the lease. The current service charge is £1,552.44 per annum, and the ground rent is peppercorn\r\n\r\nGunhild Court is well placed for access to the Science Park, Cambridge Business Park and the guided busway, with regular routes into the city centre. Cambridge North station is also within easy reach, making the property a practical option for commuters. Nearby Chesterton provides a growing range of everyday amenities, independent cafés and local shops, while the River Cam and Stourbridge Common offer accessible green space close by.\r\n\r\nA practical and well-balanced apartment in a convenient north Cambridge location, offering straightforward city living with good long-term flexibility.",
+ "keyFeatures": [
+  "51 sqm / 550 sqft",
+  "Chain free",
+  "Maisonette",
+  "1 bed, 1 recep, 1 bath",
+  "On street parking",
+  "1990s- leasehold",
+  "EPC - C / 76",
+  "Council tax band - B"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/eaca88f1d/92509167/eaca88f1d5ae30cdc6179753b0336480.jpeg",
+  "https://media.rightmove.co.uk/property-photo/86bba9581/92509167/86bba95819eeb5bcfbe4ec85a58b71a3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/91ed7437d/92509167/91ed7437d266492b60536e2620c557d4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/67645124f/92509167/67645124f82a16c3bb8083f5118519cf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7b4ff65af/92509167/7b4ff65afb10ce005bf5c1b029cf6d29.jpeg",
+  "https://media.rightmove.co.uk/property-photo/940200a69/92509167/940200a6995c3d4f0f8dca59403aa013.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2a5046184/92509167/2a5046184e115952b512f869995abca4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1cce66df8/92509167/1cce66df8b73e6fd7cec010f632d9414.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7c1cea0af/92509167/7c1cea0af59fda458aad139f5e2ea0ff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6ee259c41/92509167/6ee259c419c5a472ccd5ef2118d3c57f.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Cambridge Station",
+   "miles": 1.0361833058256282,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Shelford Station",
+   "miles": 2.473415754958414,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cambridge North",
+   "miles": 2.8054669732006925,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Cooke Curtis & Co, Cambridge",
+ "city": "Cambridge",
+ "sourceOutcode": "CB1",
+ "scrapedAt": "2026-08-31T14:56:38.987Z"
+}

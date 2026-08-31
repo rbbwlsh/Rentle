@@ -7,8 +7,14 @@
 // localStorage can throw (private windows, blocked site data).
 
 import { MAX_ATTEMPTS } from './engine.js';
+import { modeOf } from './modes.js';
 
-const KEY = 'rentle_stats_v1';
+// One bucket per mode. Rent keeps its original key so existing players keep
+// their history; buy gets its own, because a streak shared between two
+// separate dailies is not a streak of anything.
+const keyFor = (modeKey) => modeOf(modeKey).storageKey;
+// The player's display name is theirs, not the mode's.
+const NAME_KEY = 'rentle_name';
 
 const emptyStats = () => ({
   name: '',
@@ -24,13 +30,13 @@ function safeStorage(storage) {
   }
 }
 
-export function loadStats(storage) {
+export function loadStats(modeKey, storage) {
   const s = safeStorage(storage);
   try {
-    const parsed = JSON.parse(s.getItem(KEY));
+    const parsed = JSON.parse(s.getItem(keyFor(modeKey)));
     if (parsed && typeof parsed.games === 'object') {
       // Migrate the old standalone name key if present.
-      if (!parsed.name) parsed.name = s.getItem('rentle_name') || '';
+      if (!parsed.name) parsed.name = s.getItem(NAME_KEY) || '';
       return { ...emptyStats(), ...parsed };
     }
   } catch {
@@ -38,16 +44,16 @@ export function loadStats(storage) {
   }
   const fresh = emptyStats();
   try {
-    fresh.name = s.getItem('rentle_name') || '';
+    fresh.name = s.getItem(NAME_KEY) || '';
   } catch {
     /* ignore */
   }
   return fresh;
 }
 
-function saveStats(stats, storage) {
+function saveStats(modeKey, stats, storage) {
   try {
-    safeStorage(storage).setItem(KEY, JSON.stringify(stats));
+    safeStorage(storage).setItem(keyFor(modeKey), JSON.stringify(stats));
   } catch {
     /* stats are a convenience, never fatal */
   }
@@ -62,10 +68,10 @@ const dayBefore = (dateStr) => {
 // Record a finished game. `isDaily` + `dateStr` drive the streak; a replayed
 // listing keeps its first result. Returns the updated stats.
 export function recordGame(
-  { id, won, attemptWon, bestDiff, bestPct, guesses, isDaily = false, dateStr },
+  { mode, id, won, attemptWon, bestDiff, bestPct, guesses, isDaily = false, dateStr },
   storage
 ) {
-  const stats = loadStats(storage);
+  const stats = loadStats(mode, storage);
 
   if (!stats.games[id]) {
     stats.games[id] = {
@@ -87,17 +93,17 @@ export function recordGame(
       }
       stats.daily.lastDate = dateStr;
     }
-    saveStats(stats, storage);
+    saveStats(mode, stats, storage);
   }
   return stats;
 }
 
-export function setName(name, storage) {
-  const stats = loadStats(storage);
+export function setName(modeKey, name, storage) {
+  const stats = loadStats(modeKey, storage);
   stats.name = String(name || '').trim().slice(0, 24);
-  saveStats(stats, storage);
+  saveStats(modeKey, stats, storage);
   try {
-    safeStorage(storage).setItem('rentle_name', stats.name);
+    safeStorage(storage).setItem(NAME_KEY, stats.name);
   } catch {
     /* ignore */
   }

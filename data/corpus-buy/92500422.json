@@ -1,0 +1,81 @@
+{
+ "id": "92500422",
+ "mode": "buy",
+ "displayAddress": "Stanley Road, Bournemouth, Family Home Needing Work.",
+ "outcode": "BH1",
+ "incode": "4SD",
+ "latitude": 50.730431,
+ "longitude": -1.854184,
+ "priceAmount": 250000,
+ "priceLabel": "£250,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92500422",
+ "area": "Bournemouth, Family Home Needing Work.",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Semi-Detached",
+ "details": {
+  "propertyType": "Semi-Detached",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 614,
+  "sizeSqM": 57,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": 614,
+ "sizeSqM": 57,
+ "description": "Built, we think, in the last 25 years, this two double bedroom, semi-detached house is set just at the end of Stanley Road in Springbourne.\n\nStanley Road is one-way running West to East from Windham Road.\n\nThe house is essentially modern but the decorations are now tired and do require updating.\n\nThe driveway has space for at least one vehicle or even two with a little adjustment, and the rear garden is a deceptively good size too.\n\nFrom the driveway, a path leads to the front door and this leads to the: \n\nENTRANCE HALL\nThere is a good sized CLOAKS CUPBOARD to the left and then doors lead to:\n\nLIVING ROOM\nThere are double french doors leading to the garden and to the left, the stairs up to the bedrooms and bathroom. There is a further window to the side along with ample space for both sofa and dining suites.\n\nKITCHEN\nWindow to the front and fitted with a selection of units and worktops. There is a sink by the window and an inset gas hob with electric oven under (neither tested) along with spaces for washing machine and fridge/freezer. To one corner is the wall mounted gas fired central heating boiler (not tested).\n\nGROUND FLOOR CLOAKROOM\nThis has a small window to the front and is fitted with a WC and corner hand basin.\n\nFIRST FLOOR LANDING\nAccess hatch to loft, doors to:\n\nBEDROOM ONE\nWindow to rear, space for cdouble bed and wardrobes etc...\n\nBEDROOM TWO\nWindow to front and also a full double bedroom. Corner storage cupboard.\n\nBATHROOM\nWindow to side aspectand fitted with a white suite comprising bath, WC and pedestal basin.\n\nOUTSIDE\nTo the front, the house has as short path to the front door witha a railing fence providing the boundry to the pavement.\nTo the right side of the house is a driveway that gives off-street parking for at lease one car but could be extended for maybe one more. A gated fence then leads to the rear garden which can also be accessed via the french doors in the living room.\nIt is paved and shingled for low maintenance  and is a surprisinly good size as it benefits form the width of the drive as well. There is a serviceable shed to the right and some built in seating in the corner.\n\nIMPORTANT NOTE:\nThese particulars are believed to be correct but their accuracy is not guaranteed. They do not form part of any contract. Nothing in these particulars shall be deemed to be a statement that the property is in good structural condition or otherwise, nor that any of the services, appliances, equipment or facilities are in good working order or have been tested. Purchasers should satisfy themselves on such matters prior to purchase.",
+ "keyFeatures": [
+  "TWO DOUBLE BEDROOM SEMI-DETACHED HOUSE, NO CHAIN, AVAILABLE NOW, SOME RENOVATION REQUIRED, DRIVEWAY PARKING AND GARDEN, GFCH (not tested), KEY IN OFFICE, BOOK YOUR VIEWING TODAY!"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/5e473339c/92500422/5e473339c559c86fec9fea857e6ae446.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cf2adb9e7/92500422/cf2adb9e74f6820835eb8584cae5415b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/45104a5bd/92500422/45104a5bdc1136f1f5acd9c1da214319.jpeg",
+  "https://media.rightmove.co.uk/property-photo/52a3312bd/92500422/52a3312bde8457b1aa7b945e46253a24.jpeg",
+  "https://media.rightmove.co.uk/property-photo/936fec90c/92500422/936fec90c93055dc207010c5feb2e9df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7654b731d/92500422/7654b731ddd11c03d711aa9794cd0ad5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/459521357/92500422/459521357deaade94f3979e9c317a835.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f684bafce/92500422/f684bafcebdeb8599219b19eb89658ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2d934903d/92500422/2d934903dfd0e668ef6514823c6f5c85.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0945d6f4e/92500422/0945d6f4e5ed7ce623118467f713c96b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d54205f38/92500422/d54205f384ba73ad72207225ee492c31.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ad9c5fb0c/92500422/ad9c5fb0c1cb614bde28dcf06672ea0d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4a68c8f6c/92500422/4a68c8f6ca070a93a48ec29517a27d54.jpeg",
+  "https://media.rightmove.co.uk/property-photo/572f18069/92500422/572f1806923371f4f6331d6aceb700a5.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Bournemouth Station",
+   "miles": 0.46589375540706346,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Pokesdown Station",
+   "miles": 1.2706773810584606,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Branksome Station",
+   "miles": 2.8515885864596857,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Bullock & Lees, Bournemouth",
+ "city": "Bournemouth",
+ "sourceOutcode": "BH1",
+ "scrapedAt": "2026-08-31T15:01:52.506Z"
+}

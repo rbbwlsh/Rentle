@@ -1,0 +1,90 @@
+{
+ "id": "168980219",
+ "mode": "buy",
+ "displayAddress": "Woburn Road, Blackpool, FY1",
+ "outcode": "FY1",
+ "incode": "2PH",
+ "latitude": 53.828278,
+ "longitude": -3.047697,
+ "priceAmount": 95000,
+ "priceLabel": "£95,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/168980219",
+ "area": "Blackpool",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": 1012,
+  "sizeSqM": 94,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 01/05/2026"
+ },
+ "sizeSqFt": 1012,
+ "sizeSqM": 94,
+ "description": "Our latest listing is a 3-bedroom mid-terraced house located in Blackpool. It is in close proximity to valuable amenities, is able to generate rewarding rental returns and has a tenant currently situated.\n\nFor investors looking to expand their portfolio, this is a fantastic opportunity!\n\nThis well-kept home features 3 bedrooms, lounge, bathroom and kitchen.\n\nInvestment details\n\nIt currently produces an annual gross income of £11,400 with tenants currently situated. Considering the purchase price and the potential rental income that could be earned in future years, this will make for a worthwhile addition to an investors property portfolio.\n\nFor greater detail on this property's investment potential, please see the Let Property Pack linked below.\n\nIf you are interested, please call us.\n\nTenancy Details\n\nThe current tenants have lived in the property for several years and have consistently paid their rent for the duration of their stay. They do not have any intentions to move out so hope to remain in the property.\n\nWe are committed to facilitating a smooth transaction process between buyer and seller. To allow for maximum commitment to the sale from both parties, a Buyers Premium will apply in order to secure a property.",
+ "keyFeatures": [
+  "Street Parking",
+  "Buy-to-Let Opportunity",
+  "Long Term Tenant Currently Situated",
+  "Likely to attract enquiries from Serious Investors &amp; Developers",
+  "INVESTMENT POTENTIAL DETAILED BELOW (Let Property Pack)",
+  "Investment Opportunity",
+  "Cash Buyers Only"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/ead8e9196/168980219/ead8e9196ae8543404e75f667c7e4988.jpeg",
+  "https://media.rightmove.co.uk/property-photo/79052efc9/168980219/79052efc9d359a12848890bb42ca0e6c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/403170fa8/168980219/403170fa88a7fe58ed368745ae00a492.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b29296e6b/168980219/b29296e6b5f2ca0e57a6459c89a36874.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d172a5680/168980219/d172a568046f98fba2adfb720df1dcbd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c8d1bf9b7/168980219/c8d1bf9b7781f66ecdc8757f2d0fa552.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2656df0bc/168980219/2656df0bc3df8c97eee51af9520e2688.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa75a8f19/168980219/aa75a8f19d67f5315e6dc9351a42e1bf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4565e5c25/168980219/4565e5c2592644d05ef25c5874027370.jpeg",
+  "https://media.rightmove.co.uk/property-photo/97e35db2a/168980219/97e35db2aa9571936e2747b33df58673.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1d210fec1/168980219/1d210fec18547e296b6702950bbb7bfc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/91d62ff5f/168980219/91d62ff5f4ba5405c2b15fb608939e5f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a0ec29f4f/168980219/a0ec29f4fcc5348573e7e34cf14c4e06.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f6af00e2c/168980219/f6af00e2c308c9e3373bdf376b2ca854.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6c3cfe7e7/168980219/6c3cfe7e7c99b1c0226fe6ee39a7f3ff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fcfbe199c/168980219/fcfbe199caed8f867ddff16a2c79bc6c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/34a396003/168980219/34a3960039af5b1da607643fbf53cdea.jpeg"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "Blackpool North Station",
+   "miles": 0.4592272001061922,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Layton Station",
+   "miles": 0.8372722353697343,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Blackpool South Station",
+   "miles": 2.07775094438361,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Let Property Sales & Management, Glasgow",
+ "city": "Blackpool",
+ "sourceOutcode": "FY1",
+ "scrapedAt": "2026-08-31T16:52:12.636Z"
+}

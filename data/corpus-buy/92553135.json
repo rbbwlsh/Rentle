@@ -1,0 +1,86 @@
+{
+ "id": "92553135",
+ "mode": "buy",
+ "displayAddress": "St. Brendans Road, Manchester, Greater Manchester, M20",
+ "outcode": "M20",
+ "incode": "3GH",
+ "latitude": 53.43437,
+ "longitude": -2.23387,
+ "priceAmount": 365000,
+ "priceLabel": "£365,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92553135",
+ "area": "Manchester, Greater Manchester",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": null,
+  "listingUpdate": "Added yesterday"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A beautifully presented three-bedroom mid-terrace home, ideally situated in a popular residential location, offering spacious and versatile accommodation throughout.\n\nThe ground floor features two generous reception rooms, providing flexible living and dining space ideal for modern family life and entertaining. The fitted kitchen is well-appointed and offers direct access to the rear garden.\n\nTo the first floor, there are three well-proportioned bedrooms served by a contemporary family bathroom fitted with modern fixtures and finishes.\n\nExternally, the property benefits from both front and rear gardens. The enclosed rear garden features an attractive decking area, creating the perfect space for outdoor dining, entertaining guests or enjoying the warmer months. The front garden provides an appealing approach to the home and additional outdoor space.\n\nIdeally located close to local amenities, reputable schools, transport links and green spaces, this attractive home is perfectly suited to first-time buyers, growing families and investors alike.\n\nEarly viewing is highly recommended to fully appreciate the opportunity on offer.\n\nPlease note that an AML fee is chargeable to the buyer once an offer is accepted to cover the cost of carrying out the required identity and anti-money laundering checks. Once these checks have been completed, the fee cannot be refunded, even if the property purchase does not go ahead.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c17a97e8c/92553135/c17a97e8c0d6968de32695826e83a82a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/36aac6bab/92553135/36aac6bab1a14e629d97bc12ec0f4192.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a32c17b69/92553135/a32c17b69286f4dd2021d7f3f6d1ef45.jpeg",
+  "https://media.rightmove.co.uk/property-photo/625fa4aaf/92553135/625fa4aaf75c81168d05f6635ddbd4f6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9f7e98a3d/92553135/9f7e98a3d109a38081eed45f48b277c1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fc56f84b3/92553135/fc56f84b33bdc79aff568e7ff7fa5764.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7e6a42bf0/92553135/7e6a42bf0176fd8fca06fc4001575ebb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/51d494548/92553135/51d4945481cf80ee969150899f652380.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ebb0d11c2/92553135/ebb0d11c2806deaf5b3d88008742070d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0e8972760/92553135/0e8972760dde735ccfec0c5badc8e8a8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8f5fad6b1/92553135/8f5fad6b1e3499128731837607ac48bc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a45f3f498/92553135/a45f3f4981687e368a5e0ddf62bb5fb2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7dd75f18a/92553135/7dd75f18a033443240c9abe47f77fbed.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2d8501df8/92553135/2d8501df8d1acde9f0ebc386b7f99469.jpeg",
+  "https://media.rightmove.co.uk/property-photo/65640cca8/92553135/65640cca8dcbe2e720cce62d236209da.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3c757ecc1/92553135/3c757ecc11109e5aebb49676633fc5e4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d0cf0311c/92553135/d0cf0311ce23d1fd11d4904eb95aa9b5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8eff86ad5/92553135/8eff86ad5553fcf8a5ca76a9fad952d4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/432041f96/92553135/432041f96e0991be3962b7a164c79833.jpeg",
+  "https://media.rightmove.co.uk/property-photo/06074b243/92553135/06074b243492f5d6c248c524e56572c4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/18e66f605/92553135/18e66f6052e1fb08a50874281ff2e60b.jpeg"
+ ],
+ "imageCount": 21,
+ "nearestStations": [
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 0.4564943011559795,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Withington Tram Stop",
+   "miles": 0.6439669893979154,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 0.6854659644158069,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Bridgfords, Withington",
+ "city": "Manchester",
+ "sourceOutcode": "M20",
+ "scrapedAt": "2026-08-31T16:58:14.396Z"
+}

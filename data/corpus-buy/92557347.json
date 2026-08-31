@@ -1,0 +1,79 @@
+{
+ "id": "92557347",
+ "mode": "buy",
+ "displayAddress": "Kingdom Street, Plymouth, Devon, PL1",
+ "outcode": "PL1",
+ "incode": "3GL",
+ "latitude": 50.36465,
+ "longitude": -4.15116,
+ "priceAmount": 200000,
+ "priceLabel": "£200,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92557347",
+ "area": "Plymouth, Devon",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": null,
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "C",
+  "priceQualifier": null,
+  "listingUpdate": "Added yesterday"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Situated within a contemporary and well-maintained development, this beautifully presented two-bedroom apartment offers an excellent opportunity for first-time buyers, professionals, or investors seeking a property in one of the city's most convenient and desirable locations.\n\nIdeally positioned within easy walking distance of the waterfront, city centre, and major transport links, the property also benefits from close proximity to a range of local amenities, including schools, shops, restaurants, and green open spaces.\n\nThe development itself provides secure intercom entry, lift access, and resident parking facilities, ensuring both convenience and peace of mind.\n\nUpon entering, the welcoming hallway features neutral décor and attractive wood-effect flooring, creating a bright and stylish first impression. The heart of the apartment is the impressive open-plan living and kitchen area, designed to maximise both space and natural light. Large windows and a patio door leading to the private balcony flood the room with daylight, creating an inviting setting for relaxing, dining, or entertaining.\n\nThe contemporary kitchen is fitted with a range of modern units, generous worktop space, integrated cooking appliances, and ample storage, making it both practical and stylish for everyday living.\n\nThere are two well-proportioned bedrooms, both offering comfortable accommodation. The principal bedroom enjoys a bright and airy feel thanks to its full-height window, while the second bedroom provides flexibility as a guest room, home office, or additional living space.\n\nCompleting the accommodation is a modern family bathroom fitted with a full-sized bath with shower over, chrome heated towel rail, and useful inset shelving.\n\nOffering modern living in a highly accessible location, this attractive apartment represents an exceptional opportunity for buyers seeking a stylish home or investment property in a thriving waterfront city. Being sold with no onward chain.\n\nAgent Notes-\nService Charge- TBC\nGround Rent- TBC\nLease Length- TBC",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/eaa32095c/92557347/eaa32095c33c3c009b55234c90c029f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/23482b734/92557347/23482b73464d9d108e373051cd175c47.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2d5594441/92557347/2d5594441257671be4eddd798be187ba.jpeg",
+  "https://media.rightmove.co.uk/property-photo/668bc1432/92557347/668bc14326edf8c66644d40a59492d45.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3c8a4bebd/92557347/3c8a4bebde2b0cf8375a194d06b42ec7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f80a23ef4/92557347/f80a23ef4c11b6706fcb0bb2f314e671.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2fd32898b/92557347/2fd32898bd0b7482ff36074019540836.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b72d1ec1a/92557347/b72d1ec1a674b7b70713e455d2b9ff86.jpeg",
+  "https://media.rightmove.co.uk/property-photo/28dcaada9/92557347/28dcaada9495413f9415da4b859aeaf6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/82dfe5f62/92557347/82dfe5f62e8c9720aa057e4e7ef15dab.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0d147acf2/92557347/0d147acf2ddccbc3a6dee373a1b48fbf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b3a489bb8/92557347/b3a489bb8b16157b416c9962d2d094e3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/068ff5700/92557347/068ff5700f1279cd850552b37838e446.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cf9fababd/92557347/cf9fababd6e01f9831b9bc5bae7e809f.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Plymouth Station",
+   "miles": 0.9735782905437519,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Devonport Station",
+   "miles": 1.2705874522357536,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Dockyard Station",
+   "miles": 1.6530797280837872,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Miller Countrywide, Plymouth",
+ "city": "Plymouth",
+ "sourceOutcode": "PL1",
+ "scrapedAt": "2026-08-31T15:01:33.937Z"
+}

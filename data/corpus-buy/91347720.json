@@ -1,0 +1,82 @@
+{
+ "id": "91347720",
+ "mode": "buy",
+ "displayAddress": "Geoffrey Watling Way, Norfolk",
+ "outcode": "NR1",
+ "incode": "1HB",
+ "latitude": 52.621369,
+ "longitude": 1.307788,
+ "priceAmount": 100000,
+ "priceLabel": "£100,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91347720",
+ "area": "Norfolk",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": 441,
+  "sizeSqM": 41,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 104,
+  "annualGroundRent": 200,
+  "annualServiceCharge": 1953.34,
+  "councilTaxBand": "A",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 27/07/2026"
+ },
+ "sizeSqFt": 441,
+ "sizeSqM": 41,
+ "description": "GUIDE PRICE £100,000 - £105,000.  An excellent fourth floor studio apartment offering a well designed living space, perfect for a First Time Buyer or a Buy To Let Investor. The accommodation includes a spacious 23`5\" x 10`6\" living area that seamlessly incorporates a modern kitchen and an adjoining living area. A well appointed bathroom and ample storage add to the practicality of the layout. The property benefits from double glazing and efficient electric underfloor heating, ensuring comfort throughout the year. A good size balcony off the living area has fantastic views. With its excellent design and desirable features, this apartment presents a fantastic opportunity for comfortable and compact living.\n\nLocation\nLocated just off Carrow Road, this well appointed studio apartment offers a fantastic blend of convenience and lifestyle. Just a stones throw from a wealth of local amenities, you will find yourself within easy reach of the Riverside Leisure Complex, which boasts an array of bars, restaurants, a multiplex cinema, a bowling alley, a swimming pool, and a fully equipped gym. Perfect for Norwich City football supporters, the property is just a 30 second walk to the stadium, ensuring you never miss a match day atmosphere. A scenic riverside walk provides direct access to Norwich City centre, while excellent transport links, including local buses and easy access to the Southern Bypass, make commuting a breeze. Whether you are a sports fan, a City professional, or simply looking for a vibrant and well connected place to call home, this studio apartment ticks all the boxes.\n\nAgents Note - Anti Money Laundering\nBy law, we are required to conduct anti-money laundering checks on all potential buyers and sellers, and we take this responsibility very seriously. In line with HMRC guidelines, our trusted partner, Coadjute, will securely manage these checks on our behalf. Once an offer is accepted (subject to contract), Coadjute will send a secure link for you to complete the biometric checks electronically. A non-refundable fee of £45+ VAT per person will apply for these checks, and Coadjute will handle the payment for this service. These anti-money laundering checks must be completed before we can send the memorandum of sale to the solicitors to confirm the sale.\n\nNotice\nPlease note that we have not tested any apparatus, equipment, fixtures, fittings or services and as so cannot verify that they are in working order or fit for their purpose. Pymm & Co cannot guarantee the accuracy of the information provided. This is provided as a guide to the property and an inspection of the property is recommended.",
+ "keyFeatures": [
+  "NO ONWARD CHAIN",
+  "23`5\" x 10`6\" Living Area Incorporating The Kitchen &amp; Bedroom",
+  "Bathroom",
+  "Double Glazing",
+  "Electric Underfloor Heating",
+  "Balcony Giving Fantastic Views",
+  "Just A Stones Throw Away From A Wealth Of Local Amenities",
+  "Ideal For FTB Or Buy To Let Investor"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/5cad53909/91347720/5cad53909f5e5a357d0aaf550b7d8964.jpeg",
+  "https://media.rightmove.co.uk/property-photo/038939102/91347720/0389391024458d67048a871ad9e887de.jpeg",
+  "https://media.rightmove.co.uk/property-photo/07c3ed3a1/91347720/07c3ed3a1cae47e087688dce242e4b45.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c3d35441e/91347720/c3d35441efd0714b22f848e03dd448de.jpeg",
+  "https://media.rightmove.co.uk/property-photo/99242aa34/91347720/99242aa342cf26ef978c744c15771e5c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d88214a3b/91347720/d88214a3b7b9e5b7f2e3014242d0784d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/477f87ecc/91347720/477f87ecc104bbdc0bf15048d87d2814.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b4781be98/91347720/b4781be980d6e4428dee4d6c33abb40e.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Norwich Station",
+   "miles": 0.38897003533887703,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Brundall Gardens Station",
+   "miles": 4.658611012656366,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Salhouse Station",
+   "miles": 5.083987014004763,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Pymm & Co, Norwich",
+ "city": "Norwich",
+ "sourceOutcode": "NR1",
+ "scrapedAt": "2026-08-31T14:50:33.986Z"
+}

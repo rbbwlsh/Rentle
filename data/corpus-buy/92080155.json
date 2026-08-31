@@ -1,0 +1,85 @@
+{
+ "id": "92080155",
+ "mode": "buy",
+ "displayAddress": "Holburn Street, Aberdeen, AB10",
+ "outcode": "AB10",
+ "incode": "6BY",
+ "latitude": 57.14053,
+ "longitude": -2.11366,
+ "priceAmount": 108000,
+ "priceLabel": "£108,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92080155",
+ "area": "Aberdeen",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 743,
+  "sizeSqM": 69,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 0,
+  "councilTaxBand": "D",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 17/08/2026"
+ },
+ "sizeSqFt": 743,
+ "sizeSqM": 69,
+ "description": "Situated within a traditional granite building, this centrally located first floor apartment offers a comfortable and well-presented living environment in the heart of Aberdeen. The property is characterised by classic features, while providing modern conveniences suitable for contemporary lifestyles.\n\nThe accommodation comprises two double sized bedrooms, both thoughtfully designed to offer ample space and flexibility for various furnishing arrangements. The spacious living room serves as a central hub for relaxation or entertaining, complemented by large windows that help create a bright and inviting atmosphere. A modern shower room adds to the ease of living, incorporating sleek fixtures and fittings that contribute to the overall standard of the property.\n\n \n\nThe fully fitted kitchen with excellent storage is equipped with integrated appliances and provides everything required for efficient meal preparation. The apartment further benefits from gas central heating, ensuring year-round comfort and energy efficiency. Residents will appreciate the presence of a shared garden, offering a pleasant outdoor area for recreation. For those requiring vehicle access, on-street parking is available within the vicinity.\n\n \n\n \n\nAberdeen is renowned for its rich architectural heritage and strong sense of community. The property enjoys an enviable location on Holburn Street, adjacent to Union Street, ideally placed for access to all city centre amenities, including shops, dining establishments, educational facilities, and public transport links. The area provides a convenient base for exploring the wider region, while local green spaces and cultural landmarks contribute to a balanced lifestyle.\n\nNOTE HOME REPORT - The home report is available to view on the Northwood website portal (northwooduk.com/aberdeen)- within the listing and select \"View home report\".\n\nViewings are highly recommended to appreciate this spacious apartment in ready to move in condition and providing easy access to local amenities. Please contact Northwood Aberdeen to arrange a viewing.\n\n EPC rating: D. Tenure: Freehold,",
+ "keyFeatures": [
+  "Centrally located first floor apartment in traditional granite building",
+  "Spacious living room",
+  "Two, double sized bedrooms",
+  "Fully fitted kitchen with appliances",
+  "Modern shower room",
+  "Ideal location for all city centre amenities"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/6e54b838a/92080155/6e54b838a0a1926c3e9d6ada5c6a2f8d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6c168516d/92080155/6c168516d3bcb23b3af516cb0c2e0dea.jpeg",
+  "https://media.rightmove.co.uk/property-photo/df253a60c/92080155/df253a60c6569d11c4178097788d77a0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7024f03a6/92080155/7024f03a64b269a5e3b4654ba69267f8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7a683551a/92080155/7a683551a81eba13a34fbcaf56853dd4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1eadab800/92080155/1eadab8005e79d01fa6b22e7828611f5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3aa1b5308/92080155/3aa1b5308a39027ce4fc33766b65be53.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2cf795d0f/92080155/2cf795d0f0fc4d6c4c29a33bb395a5ff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/95e5f3096/92080155/95e5f3096f0e814f3f758369c53f69df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/540d96229/92080155/540d96229ef4f7ee031a6f31ac6d53a2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/403a77893/92080155/403a778933799aa6e78006a8426f37a9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6e29db566/92080155/6e29db5668b344993d987315c7d1aaa2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ddf12013e/92080155/ddf12013ef5661a268f528492b4bb37a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/28bd6b890/92080155/28bd6b89089aff356d0c255deb3ad639.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c1a044bfb/92080155/c1a044bfbf2be10bbcbf97d1feaec6c6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c6513fffb/92080155/c6513fffba984c542369c87afc4e19e1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/20fe605b1/92080155/20fe605b1715ab2f7e12b9c8fe979c9d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dcc451efa/92080155/dcc451efa47531f350ffb35071471b3a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e78766d08/92080155/e78766d0824aad77cb573ca8aadcb32d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a7d6580a3/92080155/a7d6580a3ecd81251a936d47aaeec65f.jpeg"
+ ],
+ "imageCount": 20,
+ "nearestStations": [
+  {
+   "name": "Aberdeen Station",
+   "miles": 0.6035253769594126,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Dyce Station",
+   "miles": 5.388958100765651,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Northwood, Aberdeen",
+ "city": "Aberdeen",
+ "sourceOutcode": "AB10",
+ "scrapedAt": "2026-08-31T15:03:16.117Z"
+}

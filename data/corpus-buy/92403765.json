@@ -1,0 +1,90 @@
+{
+ "id": "92403765",
+ "mode": "buy",
+ "displayAddress": "Cavendish Road, Dean Park, Bournemouth, BH1",
+ "outcode": "BH1",
+ "incode": "1RG",
+ "latitude": 50.727511,
+ "longitude": -1.873087,
+ "priceAmount": 425000,
+ "priceLabel": "£425,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92403765",
+ "area": "Dean Park, Bournemouth",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Town House",
+ "details": {
+  "propertyType": "Town House",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 984,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "E",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 26/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A beautifully presented three-bedroom townhouse situated within the highly sought-after Dean Park area of Bournemouth, set within an exclusive gated development. The property benefits from a stunning open-plan kitchen/dining/living space, two bath/shower rooms and a private patio and garden area. Ideally positioned within easy reach of Bournemouth town centre and the mainline train station, the property is perfectly suited to families, professionals and those looking to downsize without compromising on space or location.\n\nA private entrance door opens into a welcoming reception hall with stairs rising to the first floor and access through to the impressive open-plan living space. The living room and kitchen benefit from double opening doors leading directly onto the garden, allowing natural light to flood the room. The contemporary kitchen is fitted with a comprehensive range of units, integrated appliances and ample space for a dining table. A cloakroom is also conveniently positioned off the living area.\n\nThe first floor accommodates two bedrooms, served by a luxuriously appointed main bathroom, together with a separate utility/storage room providing plumbing for a washing machine. Occupying the entire top floor, the principal bedroom offers an excellent range of fitted wardrobes, a useful storage cupboard and access to a stylish en-suite shower room with a double shower enclosure.\n\nExternally, the property enjoys beautifully maintained communal grounds within a secure gated development, along with an allocated off-road parking space accessed via electric gates. One of the property’s key attributes is its exceptional location, being within easy reach of Bournemouth town centre, the award-winning sandy beaches and Bournemouth’s mainline train station, providing direct routes to London Waterloo. This attractive and energy-efficient home further benefits from underfloor heating, secure bike storage and modern, well-designed accommodation throughout, creating an ideal turn-key property in one of Bournemouth’s most desirable locations.\n\n984 years remaining on lease\n\nService Charge - £1311.08 per annum\n\nGround Rent - £0.00\n\nCouncil Tax Band:  E           EPC Rating: TBC\n\nAGENTS NOTE: The heating system, mains and appliances have not been tested by Hearnes Estate Agents. Any areas, measurements or distances are approximate. The text, photographs and plans are for guidance only and are not necessarily comprehensive. Whilst reasonable endeavours have been made to ensure that the information given in our sales particulars are as accurate as possible, this information has been provided to us by the seller and is not guaranteed. Any intending buyer should not rely upon the information we have supplied and should satisfy themselves by inspection, searches, enquiries, and survey as to the correctness of each statement before making a financial or legal commitment. We have not checked the legal documentation to verify the legal status, including the lease term and ground rent and escalation of ground rent of the property (where applicable). A buyer must not rely upon the information provided until it has been verified by their own solicitors.",
+ "keyFeatures": [
+  "Beautifully presented three-bedroom townhouse in sought-after Dean Park",
+  "Exclusive gated development with allocated off-road parking",
+  "Stunning open-plan kitchen/dining/living space with garden access",
+  "Private patio and garden area",
+  "Long lease - 984 years remaining",
+  "Principal bedroom occupying the entire top floor with en-suite",
+  "Luxuriously appointed main bathroom and ground floor cloakroom",
+  "Underfloor heating and secure bike storage"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/bc9d23162/92403765/bc9d23162dd8e2ed8b4e54702acb930e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f09e8a8b0/92403765/f09e8a8b09ff5613ca496c8c2867a345.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dcc20b106/92403765/dcc20b106645787d76e4206db7a149b2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/92f637c10/92403765/92f637c101cab544e1a17c4384b68d34.jpeg",
+  "https://media.rightmove.co.uk/property-photo/19fb1fceb/92403765/19fb1fcebaaa16c5988ac1c6d43b24c0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c35fa843a/92403765/c35fa843aef88712461a7a56468ffdc7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/131e1330a/92403765/131e1330a1c3cc2c61d8085a08834f44.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4171956d6/92403765/4171956d6b18c86ac2616b8d69b79bfb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0220cbd06/92403765/0220cbd062122ffde480ff857fb1a609.jpeg",
+  "https://media.rightmove.co.uk/property-photo/07f5f1cf1/92403765/07f5f1cf1b627edc9f3c1dcccc1f0931.jpeg",
+  "https://media.rightmove.co.uk/property-photo/39ec81fa0/92403765/39ec81fa08345dd1c2995d866ee9949f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ba854d799/92403765/ba854d79911d7e36c5be7ef87b503cf8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/671616f12/92403765/671616f123258298bb4416ac8033a64f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1f978efee/92403765/1f978efee0a2a2d3fd0228d55a5285cb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8f5395415/92403765/8f539541546abd5659cdd16e1a84571f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/77bf60154/92403765/77bf601541449f88bb72885c9befce48.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Bournemouth Station",
+   "miles": 0.39663880065268864,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Branksome Station",
+   "miles": 2.017221750906451,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Pokesdown Station",
+   "miles": 2.1134123380263095,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Hearnes Estate Agents, Bournemouth",
+ "city": "Bournemouth",
+ "sourceOutcode": "BH1",
+ "scrapedAt": "2026-08-31T16:54:07.448Z"
+}

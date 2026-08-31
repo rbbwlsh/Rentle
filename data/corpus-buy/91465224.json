@@ -1,0 +1,70 @@
+{
+ "id": "91465224",
+ "mode": "buy",
+ "displayAddress": "Ashburnham Road, Abington, Northampton NN1",
+ "outcode": "NN1",
+ "incode": "4RB",
+ "latitude": 52.250423,
+ "longitude": -0.870518,
+ "priceAmount": 265000,
+ "priceLabel": "£265,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91465224",
+ "area": "Abington",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": 1103,
+  "sizeSqM": 102,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "C",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 27/08/2026"
+ },
+ "sizeSqFt": 1103,
+ "sizeSqM": 102,
+ "description": "O'Riordan Bond is delighted to offer for sale with no onward chain this wonderfully authentic double bay fronted three bedroom Edwardian terraced home, in a highly sought after part of Abington, within walking distance of the park. Whilst the property would benefit from some improvement, it retains many original period features.\n\nThe accommodation comprises through entrance hall, cellar, sitting room, kitchen, dining room, three double bedrooms and a bathroom.\n\nOutside is a well tended garden to the rear. Further benefits include period sash windows and a combination of electric and gas convector heating. (C/1103/M)\n\n* TENURE - Freehold\n* COUNCIL TAX BAND - C",
+ "keyFeatures": [
+  "Double bay fronted three bedroom Edwardian terraced home",
+  "Two reception rooms",
+  "Cellar",
+  "Gas radiator heating",
+  "Well tended rear garden",
+  "No onward chain"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a0fe98b8d/91465224/a0fe98b8d8d32713a9b8b63a6e1d2ae7.png",
+  "https://media.rightmove.co.uk/property-photo/9cca6ac44/91465224/9cca6ac4415fd710b0d079ea370c2d31.png",
+  "https://media.rightmove.co.uk/property-photo/b3f8864e6/91465224/b3f8864e692857b8c86f6b3f06a4dc38.png",
+  "https://media.rightmove.co.uk/property-photo/da2f5ee8e/91465224/da2f5ee8e9c290e94ddddb386596ffda.png",
+  "https://media.rightmove.co.uk/property-photo/3f1248f51/91465224/3f1248f51fcaedc7874a53ceeb3e7823.png",
+  "https://media.rightmove.co.uk/property-photo/a3d50ee06/91465224/a3d50ee06174396db9833776f76895a0.png",
+  "https://media.rightmove.co.uk/property-photo/7df7311e6/91465224/7df7311e674617176f5e27ba373b5646.png",
+  "https://media.rightmove.co.uk/property-photo/4c03878d6/91465224/4c03878d6a86e0fafc1a943382ba81a8.png",
+  "https://media.rightmove.co.uk/property-photo/a624feed0/91465224/a624feed0ff431bad15e7ade9906bfc2.png",
+  "https://media.rightmove.co.uk/property-photo/eb069a51a/91465224/eb069a51a72f94989152cb5fbbbb7349.png",
+  "https://media.rightmove.co.uk/property-photo/c442243e7/91465224/c442243e759afde0056f518f0fe7ffff.png",
+  "https://media.rightmove.co.uk/property-photo/456160057/91465224/45616005733b1352fe0a632488cbd921.png"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Northampton Station",
+   "miles": 1.77021628232912,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "O'Riordan Bond, Abington",
+ "city": "Northampton",
+ "sourceOutcode": "NN1",
+ "scrapedAt": "2026-08-31T16:53:09.850Z"
+}

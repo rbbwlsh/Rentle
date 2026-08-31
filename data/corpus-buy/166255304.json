@@ -1,0 +1,83 @@
+{
+ "id": "166255304",
+ "mode": "buy",
+ "displayAddress": "St Ann Lane, Norwich",
+ "outcode": "NR1",
+ "incode": "1FZ",
+ "latitude": 52.6259,
+ "longitude": 1.302,
+ "priceAmount": 130000,
+ "priceLabel": "£130,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/166255304",
+ "area": "Norwich",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 119,
+  "annualGroundRent": null,
+  "annualServiceCharge": 1500,
+  "councilTaxBand": null,
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 16/06/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This stylish studio apartment offers contemporary urban living at its finest. Featuring a fully fitted kitchen complete with integrated appliances, the space is designed for both convenience and sleek aesthetics. Enjoy the vibrant city centre just moments from your door, with easy access to shops, dining, and entertainment. Step out onto your private balcony to unwind and take in the city views. Perfect for professionals or anyone seeking a chic, low-maintenance home in the heart of the city.",
+ "keyFeatures": [
+  "Modern Studio Apartment",
+  "Fully Fitted Kitchen with Integrated Appliances",
+  "Private Balcony",
+  "City Centre Location",
+  "Close to Shops and Amenities",
+  "No Onward Chain"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/90e85a143/166255304/90e85a143f98b4a8fa1e2642b508ca76.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4daa2f1cf/166255304/4daa2f1cf6ae02e1b13b471679711106.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d0cf256bd/166255304/d0cf256bd0083e4abf8081bccfd6648e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/782a9f8db/166255304/782a9f8dbb21f73c96d7626ff8e39a86.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4ddaa7d99/166255304/4ddaa7d992d0493e418c4de5008c5f00.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9df8084d4/166255304/9df8084d439a393f7b5e093c185f2490.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f039fae36/166255304/f039fae36f9ab0410f525e5b376c8011.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d959a8cbc/166255304/d959a8cbc61bb074b81649b60a5eb244.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ce175e8a/166255304/8ce175e8a3c1a2645153c73eab37bd60.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6314dec32/166255304/6314dec32e1f2fe6d1f21784adc10461.jpeg",
+  "https://media.rightmove.co.uk/property-photo/49238811e/166255304/49238811eb5a7f74dcbf766de75fdad8.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Norwich Station",
+   "miles": 0.22107559077181213,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Brundall Gardens Station",
+   "miles": 4.902720588484753,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Salhouse Station",
+   "miles": 5.036527896409375,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "haart, Norwich",
+ "city": "Norwich",
+ "sourceOutcode": "NR1",
+ "scrapedAt": "2026-08-31T14:50:35.479Z"
+}

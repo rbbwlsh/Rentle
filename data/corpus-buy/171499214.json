@@ -1,0 +1,84 @@
+{
+ "id": "171499214",
+ "mode": "buy",
+ "displayAddress": "Oriental Place, Brighton",
+ "outcode": "BN1",
+ "incode": "2LJ",
+ "latitude": 50.8229,
+ "longitude": -0.15331,
+ "priceAmount": 130000,
+ "priceLabel": "£130,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/171499214",
+ "area": "Brighton",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 86,
+  "annualGroundRent": 175,
+  "annualServiceCharge": 3000,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 27/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "SUMMARY\nA top floor studio apartment positioned within a beautiful converted Regency building situated moments from the seafront/ promenade and Brighton City Centre.\n\nDESCRIPTION\nThis property is positioned within a beautiful period converted building located close to the ever popular Western Road. Western Road offers a variety of shops, bars and restaurants as well as easy access to Brighton's mainline station which offers a comprehensive choice of commuter links including a direct train service to London Victoria. \n\nThe property is presented in good decorative order throughout. The studio room is open plan with a trendy fitted kitchen and there is a separate shower room. The property is sold with no onward chain. Viewing highly recommended!\n\nWe currently hold lease details as displayed above, should you require further information please contact the branch.  Please note additional fees could be incurred for items such as leasehold packs.\n\n1. MONEY LAUNDERING REGULATIONS: Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale.\r\n2. General: While we endeavour to make our sales particulars fair, accurate and reliable, they are only a general guide to the property and, accordingly, if there is any point which is of particular importance to you, please contact the office and we will be pleased to check the position for you, especially if you are contemplating travelling some distance to view the property.\r\n3. The measurements indicated are supplied for guidance only and as such must be considered incorrect.\r\n4. Services: Please note we have not tested the services or any of the equipment or appliances in this property, accordingly we strongly advise prospective buyers to commission their own survey or service reports before finalising their offer to purchase.\r\n5. THESE PARTICULARS ARE ISSUED IN GOOD FAITH BUT DO NOT CONSTITUTE REPRESENTATIONS OF FACT OR FORM PART OF ANY OFFER OR CONTRACT. THE MATTERS REFERRED TO IN THESE PARTICULARS SHOULD BE INDEPENDENTLY VERIFIED BY PROSPECTIVE BUYERS OR TENANTS. NEITHER SEQUENCE (UK) LIMITED NOR ANY OF ITS EMPLOYEES OR AGENTS HAS ANY AUTHORITY TO MAKE OR GIVE ANY REPRESENTATION OR WARRANTY WHATEVER IN RELATION TO THIS PROPERTY.",
+ "keyFeatures": [
+  "Top floor studio apartment",
+  "Beautiful regency building ",
+  "Moments from the seafront ",
+  "Trendy kitchen",
+  "Ideal buy to let or first time buyers",
+  "No onward chain "
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/2294878a0/171499214/2294878a0d3554d2c3750ed8e58a64ca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/25ea280da/171499214/25ea280da2ad666e1b0d464e8377d601.jpeg",
+  "https://media.rightmove.co.uk/property-photo/12debbe8e/171499214/12debbe8e48eeb5a32f364801e3f730f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e571ba588/171499214/e571ba588961bd63957e3c858b7dca86.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1fd2c2155/171499214/1fd2c215597c182a2b4c222e435d7443.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fe55602ad/171499214/fe55602ad6da28e9973f777fd3132af1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c2cf78663/171499214/c2cf786630d6b55b60f961a576983fa3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c8e2a44da/171499214/c8e2a44da1f890a82ca168c005597692.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ba457d228/171499214/ba457d2283385f2433ff7c1fc4213f7f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/512689317/171499214/512689317a53355adb8e55df02dd9cdc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/600b9d619/171499214/600b9d619850c5e6a794f26dae4ce1a2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/453fe7f4d/171499214/453fe7f4d8f229bcf3252f28700bf9d7.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Brighton Station",
+   "miles": 0.6678570916144064,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Hove Station",
+   "miles": 1.1477371794297984,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "London Road (Brighton) Station",
+   "miles": 1.2047395408328645,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Fox & Sons, Brighton",
+ "city": "Brighton",
+ "sourceOutcode": "BN1",
+ "scrapedAt": "2026-08-31T14:52:29.123Z"
+}

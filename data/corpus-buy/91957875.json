@@ -1,0 +1,98 @@
+{
+ "id": "91957875",
+ "mode": "buy",
+ "displayAddress": "City Central, Wellington Street, LS1",
+ "outcode": "LS1",
+ "incode": "4EA",
+ "latitude": 53.79607,
+ "longitude": -1.55166,
+ "priceAmount": 495000,
+ "priceLabel": "£495,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91957875",
+ "area": "City Central",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": 1625,
+  "sizeSqM": 151,
+  "tenureType": "SHARE_OF_FREEHOLD",
+  "yearsRemainingOnLease": 974,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 3632,
+  "councilTaxBand": "F",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 13/08/2026"
+ },
+ "sizeSqFt": 1625,
+ "sizeSqM": 151,
+ "description": "City Central is a Grade II listed conversion of a former hotel. Positioned on Wellington Street the development consists of 65 apartments with restaurants to the ground floor. There is a great range of amenities on the doorstep including; the railway station (4 mins), City Square (3 mins), Central Square (1 min), Wellington Place (5 mins) Leeds General Infirmary (15 mins), Trinity (5 mins) and Victoria Gate (12 mins). All times taken from Google Maps.\n\nThis apartment is renovated to a high standard and is extremely spacious covering approx. 1625 square feet. \n\nOne allocated car parking space is included.\n\nLease length: 999 years from 2000\nService charge: £3632 P.A\nGround rent: £0\nShare of freehold\n\nHeating: Electric wall mounted heaters\nWater: Mains connected, via a meter\nElectric supply: Mains connected, via metre\nBroadband: No issues\nMobile signal: No issues\nFlood Risk: None\nLocal Planning Permissions: NA\n\nEPC: D\nCouncil tax band: F",
+ "keyFeatures": [
+  "EXTREMELY SPACIOUS DUPLEX - 1625 SQUARE FEET",
+  "THREE GOOD DOUBLE BEDROOMS, TWO BATHROOMS PLUS WC",
+  "UPGRADED THROUGHOUT ",
+  "ALLOCATED CAR PARKING SPACE",
+  "CORNER ASPECT",
+  "GRADE II LISTED",
+  "SHARE OF FREEHOLD ",
+  "MOMENTS FROM CITY SQUARE AND THE RAILWAY STATION ",
+  "COUNCIL TAX BAND: F",
+  "EPC: D"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/bd279dfea/91957875/bd279dfea6a0070b778d92f2cf7f682e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f69342e23/91957875/f69342e230a699448988d669a56288e6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0b4318bea/91957875/0b4318bea4c5412fc1a40988f8e9948a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b89340e25/91957875/b89340e25cd337786b3852b1faf4749f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9ed42bac7/91957875/9ed42bac7c3d0535a9318110ccf68446.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0efc9d09c/91957875/0efc9d09c546c895feedd21bfcf5510d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/22d79f51c/91957875/22d79f51cece0a83ac8ee606bc66860e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9e8f60df9/91957875/9e8f60df90bbf77b5eeb3a0fa828c192.jpeg",
+  "https://media.rightmove.co.uk/property-photo/95bce1829/91957875/95bce18290eeb35d77e031a38db4f1e9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/22939d800/91957875/22939d8007168e6f6f5ce865d4a496b9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9bab19547/91957875/9bab195477feeb2f26b34df5882cd0c7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1b1b16d0a/91957875/1b1b16d0a5f1b7b4d31d11598cd112d6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/498525b71/91957875/498525b710687295be30e0180bf979b4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6db8a89fc/91957875/6db8a89fcfb199432db37d7c4e46c837.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b72f8fba0/91957875/b72f8fba0c34806d9a6701f1c4ee4ef5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/34436701a/91957875/34436701a77a80e2362317107e2b60fb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d345c404/91957875/6d345c404861f3c68541e3cc5486f7c2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ed6751442/91957875/ed67514425734ddcf1c3ac9ed73029f6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b2b36b2da/91957875/b2b36b2da5d67ffa2e4b2b0b24cab917.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4c995625a/91957875/4c995625a2edb7d9bdc763216950d018.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cadf786e3/91957875/cadf786e3ca4fcba6d12439335bfec31.jpeg",
+  "https://media.rightmove.co.uk/property-photo/806e766dd/91957875/806e766dd6decf2a3afb0e4be0fd090c.jpeg"
+ ],
+ "imageCount": 22,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 0.23478281193344244,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 1.542942991039785,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 2.3056127126934287,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Zenko City Living, Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS1",
+ "scrapedAt": "2026-08-31T16:57:12.496Z"
+}

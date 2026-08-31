@@ -1,0 +1,74 @@
+{
+ "id": "92375601",
+ "mode": "buy",
+ "displayAddress": "Hamilton Court,  Blackpool, FY1",
+ "outcode": "FY1",
+ "incode": "4QR",
+ "latitude": 53.81344,
+ "longitude": -3.04943,
+ "priceAmount": 90000,
+ "priceLabel": "£90,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92375601",
+ "area": "Blackpool",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 962,
+  "annualGroundRent": 60,
+  "annualServiceCharge": 960,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 25/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "NO ONWARD CHAIN! Ready to move into, this well-presented one-bedroom ground-floor apartment is situated in the popular Hamilton Court development in Blackpool, conveniently located close to a range of local shops, amenities and excellent transport links.\n\nBenefiting from its own separate private entrance, the accommodation offers a spacious sitting/dining room, a generous double bedroom with modern fitted wardrobes, and a contemporary three-piece wet room. Further benefits include ample residential parking and the convenience of ground-floor living. An ideal purchase for first-time buyers, downsizers or buy-to-let investors, this property is offered with no onward chain and is ready for its new owner to move straight into. Early viewing is highly recommended.\n\nBriefly comprising; entrance porch, hallway, sitting/dining room, kitchen, bedroom, shower room and residential parking. \n\nGROUND FLOOR\n\nENTRANCE PORCH\nUPVC double glazed door to the side aspect. \n\nHALLWAY\nSpacious hallway with two large storage cupboards, one which houses the water tank.\n\nKITCHEN\n2.71m x 2.30m (8'11 x 7'7)\nUPVC double glazed window to the front rear aspect. Fitted kitchen with a range of wall and base units with complementary work surfaces, plumbed for washing machine, space for fridge/freezer, integrated oven and hob with extractor over, sink with mixer tap and tiled splash back.\n\nSITTING/DINING ROOM \n5.03m x 3.64m (16'6 x 11'11)\nUPVC double glazed window to the front aspect, feature electric fire, tv point and electric heater.\n\nBEDROOM\n3.88m x 3.66m (12'9 x 12'0)\nUPVC double glazed window to the rear aspect, fitted wardrobes and electric heater.\n\nSHOWER ROOM\n2.08m x 1.0m (6'10 x 4'11)\nModern fitted three piece suite wet room comprising; shower attachment, wash basin and low flush wc. \n\nEXTERNAL\nResidential parking. \n\nTENURE\nWe have been informed that the property is leasehold on a 999 year lease from built with a ground rent of £60 per annum and a service charge of £80 per calendar month; prospective purchasers should seek clarification of this from their solicitors.\n\nVIEWINGS \nViewings are strictly by appointment through the agents office.\n\nAll measurements are approximate and for illustrative purposes only. Digital images are reproduced for general information only and must not be inferred that any item shown is included for sale with the property. We have been unable to confirm if services / items in the property are in full working order. The property is offered for sale on this basis. Prospective purchasers are advised to seek expert advice where appropriate.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/22ac6b6d0/92375601/22ac6b6d077cd9ffa0501220541cec3b.png",
+  "https://media.rightmove.co.uk/property-photo/cf57a7a10/92375601/cf57a7a10eb90a36f853b4d6ccc479c5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0dd158f8d/92375601/0dd158f8d06b841d9a6841ec91c1a73a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee947b04b/92375601/ee947b04b2c3e793382d781b5a7a8a9c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/be78fca6a/92375601/be78fca6ad2752daa6fe07fc8a162f87.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0dfe287e4/92375601/0dfe287e439e6720cea79c1972dab059.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d98b00ca2/92375601/d98b00ca27c21f807ef101637e5fdb6f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/889508010/92375601/889508010b81cd540cf05f12525654fa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa94e6996/92375601/aa94e6996bd62a61d0ba8b3019b32efd.png"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Blackpool North Station",
+   "miles": 0.5720868845907288,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Blackpool South Station",
+   "miles": 1.0509810459422677,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Layton Station",
+   "miles": 1.6768188494527267,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "The Square Room, Fylde Coast",
+ "city": "Blackpool",
+ "sourceOutcode": "FY1",
+ "scrapedAt": "2026-08-31T14:55:52.050Z"
+}

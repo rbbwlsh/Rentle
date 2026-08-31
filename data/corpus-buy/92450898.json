@@ -1,0 +1,95 @@
+{
+ "id": "92450898",
+ "mode": "buy",
+ "displayAddress": "Hurst Street, Liverpool, Merseyside, L1",
+ "outcode": "L1",
+ "incode": "8DN",
+ "latitude": 53.39834,
+ "longitude": -2.98654,
+ "priceAmount": 260000,
+ "priceLabel": "£260,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92450898",
+ "area": "Liverpool, Merseyside",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "SHARE_OF_FREEHOLD",
+  "yearsRemainingOnLease": 977,
+  "annualGroundRent": null,
+  "annualServiceCharge": 2920,
+  "councilTaxBand": "TBC",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 27/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Entwistle Green are delighted to present this exceptional two-bedroom, two-bathroom apartment, situated on the first floor of a highly desirable development. Immaculately renovated throughout to an outstanding standard, this stunning home offers contemporary living with premium finishes and a superb wrap-around terrace.\n\nStep inside to discover a beautifully presented interior, where every detail has been carefully considered. The spacious open-plan living, dining and kitchen area provides the perfect setting for both relaxing and entertaining. The brand-new kitchen has been expertly fitted with stylish modern units and quality finishes, creating a sleek and functional heart of the home. Large windows and terrace access flood the space with natural light, enhancing the apartment's bright and airy feel.\n\nThe property boasts two generously sized double bedrooms, including a luxurious principal bedroom complete with a contemporary en-suite shower room. A second fully refurbished bathroom has been finished to the same standards, offering both style and practicality. New flooring has been installed throughout, complementing the apartment's fresh, modern aesthetic.\n\nOne of the property's most impressive features is the expansive wrap-around terrace, providing excellent outdoor space for al fresco dining, entertaining guests, or simply enjoying the surroundings. The apartment further benefits from a secure underground allocated parking space, adding convenience and security for residents.\n\nOffered in turnkey condition and finished to an exceptionally high specification, this remarkable apartment presents a rare opportunity for buyers seeking a stylish, low-maintenance home in a sought-after location. \n\nEarly viewing is highly recommended to fully appreciate the quality and space on offer.",
+ "keyFeatures": [
+  "First Floor Apartment",
+  "Two Double Bedrooms, Two Contemporary Bathrooms",
+  "Fully Refurbished Throughout",
+  "Brand-New Kitchen",
+  "Newly Installed Flooring",
+  "Exceptional High-Quality Finish",
+  "Large Wrap-Around Terrace",
+  "Allocated Parking Space",
+  "Ready to Move Into",
+  "Share of Freehold"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/eb372b1d2/92450898/eb372b1d273489b49b1185201275c313.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a1923bc97/92450898/a1923bc97619526bc7919c8f5d528f10.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0f41bd271/92450898/0f41bd27160f47331e8d1a49556a82e5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/231ea00dc/92450898/231ea00dcca6f46b3ac8d9663131de27.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fd2dd3a6c/92450898/fd2dd3a6c10ea795ec62bf2321de7505.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aab47da0f/92450898/aab47da0f31d72d240e94a83602c73c2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2023e9113/92450898/2023e91138baf2019a12fd051a440044.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c84202106/92450898/c842021062d291cdf9217d40c8122add.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ccb942dee/92450898/ccb942dee2fefaa8a9b5e36744c56edc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/695bc4557/92450898/695bc4557bf1dda6664793abe9037f3c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eaa1937ea/92450898/eaa1937ea941f4dd6bfe1599acd73a8f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d247968ed/92450898/d247968edea057f02750ff9da89fbc8f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6510702e3/92450898/6510702e3dce463fa0da598708ccbe2e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eba5a9167/92450898/eba5a9167cb41541ea2adbbff186d4c2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ad79a478/92450898/8ad79a4788153d53869b8e33ee583b59.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e0623044a/92450898/e0623044ae063bbfadbdce6e1f7b0902.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8b9278d05/92450898/8b9278d0516fc66607e23634dde432e7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9847de4bf/92450898/9847de4bf15539e5375edd7b600a2d48.jpeg",
+  "https://media.rightmove.co.uk/property-photo/22619ece8/92450898/22619ece843a1504bdbfaf5cd0604011.jpeg"
+ ],
+ "imageCount": 19,
+ "nearestStations": [
+  {
+   "name": "James Street Station",
+   "miles": 0.511297832953811,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Liverpool Central Station",
+   "miles": 0.5258980079868403,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Liverpool Lime Street Station",
+   "miles": 0.7272546168208277,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Entwistle Green, Liverpool",
+ "city": "Liverpool",
+ "sourceOutcode": "L1",
+ "scrapedAt": "2026-08-31T16:55:47.065Z"
+}

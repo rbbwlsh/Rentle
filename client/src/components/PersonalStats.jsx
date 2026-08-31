@@ -4,8 +4,8 @@ import { MAX_ATTEMPTS } from '../engine/engine.js';
 // The player's own record, from localStorage — V1 has no backend, so this
 // replaces the old crowd-stats panel. Same visual language: attempt bars,
 // with your latest result highlighted.
-export default function PersonalStats({ you }) {
-  const s = summarize(loadStats());
+export default function PersonalStats({ mode, you }) {
+  const s = summarize(loadStats(mode.key));
   if (!s.played) return null;
 
   const rows = [

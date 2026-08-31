@@ -1,0 +1,84 @@
+{
+ "id": "89562147",
+ "mode": "buy",
+ "displayAddress": "Palmer Street, Middlesbrough",
+ "outcode": "TS1",
+ "incode": "4DF",
+ "latitude": 54.571329,
+ "longitude": -1.240909,
+ "priceAmount": 70000,
+ "priceLabel": "£70,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89562147",
+ "area": "Middlesbrough",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 10/06/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This chain free sale offers a two bedroom mid terrace home! \n\nNotable features include gas central heating, UPVC double glazed windows and exterior doors, retiled main roof, stylish shower room and a modern kitchen. \n\nThe property comprises open plan lounge/diner, kitchen and shower room. On the first floor there are two bedrooms. Externally there is a small rear courtyard.\n\nTenure - Freehold\n\nCouncil Tax Band A",
+ "keyFeatures": [
+  "Chain Free Sale!",
+  "Ideal For First Time Buyers, Young Couples &amp; Investors Alike!",
+  "Two Bedroom Mid Terrace Home",
+  "Stylish Shower Room",
+  "Retiled Main Roof",
+  "Modern Kitchen",
+  "UPVC Double Glazed Windows &amp; Exterior Doors",
+  "Gas Central Heating"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d1144c0c4/89562147/d1144c0c450a0efe91a7bd5e6eac7bbd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a296ddcc4/89562147/a296ddcc45572c5b74411a3a65919906.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3be062aa1/89562147/3be062aa1f84f8750a2abd9a072e9ca0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e50ee0122/89562147/e50ee01221e26b43a08b4d21b727ea33.jpeg",
+  "https://media.rightmove.co.uk/property-photo/72d0e42fc/89562147/72d0e42fc87f6e511865c0575ac3d3b2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d00d9a93e/89562147/d00d9a93e98724db5931ed6104d08eed.jpeg",
+  "https://media.rightmove.co.uk/property-photo/afcfe2a77/89562147/afcfe2a774bf56929164fc2a18d8db37.jpeg",
+  "https://media.rightmove.co.uk/property-photo/127168d3b/89562147/127168d3ba89cf60bc1720283f48bd99.jpeg",
+  "https://media.rightmove.co.uk/property-photo/718e818eb/89562147/718e818eb753f90b624d9a18caaa1e6a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/49ae88418/89562147/49ae88418ef3e9d182b57ca2855b8d43.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Middlesbrough Station",
+   "miles": 0.590741185941047,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Thornaby Station",
+   "miles": 2.5568870672813206,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Marton Station",
+   "miles": 2.577402258876291,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Michael Poole, Middlesbrough",
+ "city": "Middlesbrough",
+ "sourceOutcode": "TS1",
+ "scrapedAt": "2026-08-31T14:59:00.430Z"
+}

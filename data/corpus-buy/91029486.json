@@ -1,0 +1,80 @@
+{
+ "id": "91029486",
+ "mode": "buy",
+ "displayAddress": "St. Davids Road, Preston, Lancashire, PR1",
+ "outcode": "PR1",
+ "incode": "6ND",
+ "latitude": 53.77036,
+ "longitude": -2.69423,
+ "priceAmount": 100000,
+ "priceLabel": "£100,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91029486",
+ "area": "Preston, Lancashire",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "End of Terrace",
+ "details": {
+  "propertyType": "End of Terrace",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 26/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Three bedroom end terraced house offering no chain delay.\n\nSituated within this popular location in Deepdale offering easy access to local amenities, schools and transport links.\n\nThe accommodation briefly comprises; vestibule, lounge, dining kitchen, to the first floor, three bedrooms and three piece bathroom.  Double glazing, gas central heating system and yard to the rear.\nThe tenure for the property is leasehold 859 years.\n\nViewing recommended.\n*Please note that an AML fee is chargeable once an offer is accepted to cover the cost of carrying out the required identity and anti-money laundering checks.",
+ "keyFeatures": [
+  "Three bedroom end terraced home",
+  "Within this popular location in Deepdale",
+  "Vestibule, lounge, modern dining kitchen",
+  "Three bedrooms and bathroom",
+  "No chain delay and viewing highly recommended"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/bbbb3a440/91029486/bbbb3a440b6b0631424c1f2202df29ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/960e31aaa/91029486/960e31aaa04d5b979854ca1c2250f05d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a9010888c/91029486/a9010888cb4be1d409b5467f0addfe1b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ce227a182/91029486/ce227a18242f8c2cd1410e7df98be48f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9a6535ee5/91029486/9a6535ee5133afb61c14f9dc8041d305.jpeg",
+  "https://media.rightmove.co.uk/property-photo/698425159/91029486/6984251591b69faaafc2c0d93f668011.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d986895cc/91029486/d986895cc1551b3f4fe5bf8569426744.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cf0ac6992/91029486/cf0ac69921d5a9d596820ee08fece811.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5b58ead63/91029486/5b58ead633325787979b45268d323d19.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Preston Station",
+   "miles": 1.1299634966646874,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Lostock Hall Station",
+   "miles": 3.2250069966058863,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bamber Bridge Station",
+   "miles": 3.2961060561222055,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Entwistle Green, Preston",
+ "city": "Preston",
+ "sourceOutcode": "PR1",
+ "scrapedAt": "2026-08-31T15:04:13.016Z"
+}

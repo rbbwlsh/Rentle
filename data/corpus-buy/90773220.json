@@ -1,0 +1,85 @@
+{
+ "id": "90773220",
+ "mode": "buy",
+ "displayAddress": "Henniker Road, Ipswich",
+ "outcode": "IP1",
+ "incode": "5HH",
+ "latitude": 52.069942,
+ "longitude": 1.114457,
+ "priceAmount": 200000,
+ "priceLabel": "£200,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90773220",
+ "area": "Ipswich",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "End of Terrace",
+ "details": {
+  "propertyType": "End of Terrace",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Reduced yesterday"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "GRACE ESTATE AGENTS are delighted to present this three-bedroom end-terrace situated in a convenient location close to a wide range of local shops and amenities, this well-presented three-bedroom end-terrace home offers spacious and versatile accommodation, making it an ideal choice for families, first-time buyers, or investors.\n\nThe property features a generous living room, providing a comfortable space to relax and entertain, while the heart of the home is the newly fitted kitchen/diner. Enhanced by a single-storey extension, this impressive space offers ample room for family dining and everyday living, creating a bright and practical environment.\n\nThe ground floor also benefits from a conveniently located bathroom, adding to the home's functionality. Upstairs, three well-proportioned bedrooms provide comfortable accommodation for the whole family.\n\nExternally, the property is complemented by a detached single garage, offering useful storage or secure parking.\n\nCombining spacious living areas, modern improvements, and a convenient location, this attractive end-terrace property presents an excellent opportunity for those seeking a home ready to move into.\n\nEntrance Hall - Double glazed window and Upvc door to front aspect. Radiator, access to bathroom, living room, storage cupboard and stairs to the first floor.\n\nLiving Room - 4.12 x 3.51 (13'6\" x 11'6\") - Double glazed window to front aspect, radiator, wood style flooring and access to the kitchen/diner.\n\nKitchen/Diner - 4.95 x 3.56 (16'2\" x 11'8\") - Double glazed window to rear aspect, double glazed French doors to rear aspect, radiator, wood style flooring, tiled splash back, matching eye level and base units with worktops over. Kitchen island, space for dishwasher, washing machine, tumble dryer, fridge and freezer. Single oven with hob and extractor fan over. Bowl and a half sink with side drainer and mixer tap.\n\nBathroom - 2.47 x 1.80 (8'1\" x 5'10\") - Double glazed window to rear aspect, radiator, low level WC, hand wash basin, panelled bath with shower on riser rail, tiled flooring and splash back.\n\nMaster Bedroom - 4.34 x 2.87 (14'2\" x 9'4\") - Double glazed window to front aspect, radiator and storage cupboard.\n\nBedroom Two - 3.70 x 3.35 (12'1\" x 10'11\") - Double glazed window to rear aspect, radiator and storage cupboard.\n\nBedroom Three - 2.45 x 2.11 (8'0\" x 6'11\") - Double glazed window to rear aspect and radiator.\n\nOutside - Rear garden - patio from the rear of the property leading to a lawned area, access to the garage and fenced boundaries. \n\nFront garden - Pathway leading to the property, lawned area, fenced boundaries and access to the rear garden.",
+ "keyFeatures": [
+  "Three Bedroom End-Terrace House",
+  "Spacious Kitchen/Diner",
+  "Detached Single Garage",
+  "Spacious Living Room",
+  "Downstairs Bathroom",
+  "Single Story Extension To The Kitchen/Diner",
+  "Close To A Range Of Local Shops And Amenities"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/26c65f0a4/90773220/26c65f0a4255a9103ccca8856b9441ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5b055e1a2/90773220/5b055e1a25b3aecca9e3cf6ae327257c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8e7e0b400/90773220/8e7e0b400912a5eaf7ffca33c4740f5e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2539d32aa/90773220/2539d32aaaf7fd989af562c5b6ae3aef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/87b3cb339/90773220/87b3cb339d63c1f47aa89eea2e3cb476.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e16b9e691/90773220/e16b9e6918b4cf66edad62af04227da6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dae714d71/90773220/dae714d71ce86494e6bbff6780991d35.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8bb7711db/90773220/8bb7711db1de0ac2f67fa0cc7d30a54f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/854aa51ed/90773220/854aa51eddd7f97ce8feda068700cea8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0d02467a1/90773220/0d02467a1637d51dcf01f0f1031b6fb0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/243af6d3d/90773220/243af6d3d8d6722005ffd583a3761166.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2769a3f0e/90773220/2769a3f0eb06032a2e179cfad0fb45fe.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Ipswich Station",
+   "miles": 1.8287269852017207,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Westerfield Station",
+   "miles": 2.3237210948572526,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Derby Road Station",
+   "miles": 3.2010426405994306,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Grace Estate Agents, Ipswich",
+ "city": "Ipswich",
+ "sourceOutcode": "IP1",
+ "scrapedAt": "2026-08-31T16:53:33.497Z"
+}

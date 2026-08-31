@@ -1,0 +1,88 @@
+{
+ "id": "90665442",
+ "mode": "buy",
+ "displayAddress": "Carlow Street, Middlesbrough",
+ "outcode": "TS1",
+ "incode": "4SA",
+ "latitude": 54.566909,
+ "longitude": -1.254091,
+ "priceAmount": 91995,
+ "priceLabel": "£91,995",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90665442",
+ "area": "Middlesbrough",
+ "bedrooms": 0,
+ "bathrooms": null,
+ "propertySubType": "Semi-Detached",
+ "details": {
+  "propertyType": "Semi-Detached",
+  "bedrooms": 0,
+  "bathrooms": null,
+  "sizeSqFt": 905,
+  "sizeSqM": 84,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 09/07/2026"
+ },
+ "sizeSqFt": 905,
+ "sizeSqM": 84,
+ "description": "Nestled on Carlow Street in the vibrant town of Middlesbrough, this charming semi-detached house offers a delightful blend of comfort and style. Spanning an impressive 904 square feet, the property welcomes you with a spacious hallway that leads into a bright and inviting living room, perfect for relaxation and entertaining.\n\nAn elegant archway connects the living room to a generous dining room, where patio doors open up to the rear garden, seamlessly blending indoor and outdoor living. The fitted kitchen boasts  black marble-style countertops paired with oak-coloured cupboards, creating a modern yet warm atmosphere. A convenient door from the kitchen provides direct access to the garden, ideal for summer barbecues and family gatherings.\n\nVenturing to the first floor, you will find a well-appointed bathroom alongside two good-sized bedrooms, one of which features a charming fireplace that adds character and warmth to the spaces. A smaller third bedroom completes the upper level, making it suitable for a variety of uses, whether as a guest room, study, or playroom.\n\nThis property is perfect for families or professionals seeking a comfortable home in a friendly neighbourhood. With its appealing features and practical layout, this house on Carlow Street is a wonderful opportunity not to be missed.",
+ "keyFeatures": [
+  "Semi-detached house",
+  "Hallway to living room",
+  "Archway to dining room",
+  "Patio doors to garden",
+  "Fitted kitchen, marble tops",
+  "Oak cupboards in kitchen",
+  "Located on Carlow Street",
+  "Viewing recommended"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/33fe3a82e/90665442/33fe3a82e69fa81603ee03dcd163d5a9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fa2df05f3/90665442/fa2df05f3da10d82734e7f9a4870461f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/94ea3ca48/90665442/94ea3ca483917b335bf8d5bf988813bf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/56887ae6c/90665442/56887ae6c771bc97e72c587541695e5e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/94ef2e561/90665442/94ef2e5610218a3d0a9e2deb09714566.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a28f6335a/90665442/a28f6335a94ebc0e324107ebe02f127f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4265002bd/90665442/4265002bdee2c4af1f90f9f098f83667.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eaa3c8781/90665442/eaa3c8781a125e0c75d7dc5d6a10099a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bc72689b6/90665442/bc72689b68f7137b340acf28b7a348d1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa1ddc015/90665442/aa1ddc015d548f7d42a23ebab1539b24.jpeg",
+  "https://media.rightmove.co.uk/property-photo/211062cca/90665442/211062cca73c55590f0c6b90dd0909b0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/851839242/90665442/851839242f476c11a68c50baf996acb8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/be6725d77/90665442/be6725d7726b9b1abdb909c83f2e19e6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/02872bb06/90665442/02872bb06b448451eaf9b2c700152f4f.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Middlesbrough Station",
+   "miles": 1.1457039702266332,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Thornaby Station",
+   "miles": 1.9597227371493764,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Stockton Station",
+   "miles": 2.595532494707386,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Magnum Properties Ltd, Middlesbrough",
+ "city": "Middlesbrough",
+ "sourceOutcode": "TS1",
+ "scrapedAt": "2026-08-31T14:46:36.886Z"
+}

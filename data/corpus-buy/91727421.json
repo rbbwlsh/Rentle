@@ -1,0 +1,79 @@
+{
+ "id": "91727421",
+ "mode": "buy",
+ "displayAddress": "Great Western Road, Aberdeen, AB10",
+ "outcode": "AB10",
+ "incode": "6NR",
+ "latitude": 57.133949,
+ "longitude": -2.130584,
+ "priceAmount": 240000,
+ "priceLabel": "£240,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91727421",
+ "area": "Aberdeen",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": null,
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 06/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Located in Aberdeen's sought-after West End, this beautifully presented three-bedroom double upper granite apartment blends contemporary style with charming period character. Offering spacious accommodation over two levels, the property features a bright bay-window lounge, a modern gloss kitchen with integrated appliances and breakfast bar, a recently upgraded shower room, and three generous double bedrooms, including an exceptionally spacious principal bedroom with built-in wardrobes and loft access. Retaining original features such as cornicing, decorative ceilings and fireplaces, the home also benefits from gas central heating, double glazing, excellent storage, and a prime location within the catchment for Aberdeen Grammar School and close to the city's private schools, local amenities and transport links.\n\nADDITIONAL INFORMATION:\n\nCouncil Tax Band: E\n\nLocal Authority: Aberdeen City\n\nLEGAL DISCLAIMER:\n\nThese particulars, whilst believed to be accurate are set out as a general guideline and do not constitute any part of an offer or contract. Intending Purchasers should not rely on them as statements of representation of fact, but must satisfy themselves by inspection or otherwise as to their accuracy. Please note that we have not tested any apparatus, equipment, fixtures, fittings or services including gas central heating and so cannot verify they are in working order or fit for their purpose. Furthermore, Solicitors should confirm moveable items described in the sales particulars and, in fact, included in the sale since circumstances do change during the marketing or negotiations. Although we try to ensure accuracy, if measurements are used in this listing, they may be approximate. Therefore if intending Purchasers need accurate measurements to order carpeting or to ensure existing furniture will fit, they should take such measurements themselves. Photographs are reproduced general information and it must not be inferred that any item is included for sale with the property.\n\nTENURE\n\nTo be confirmed by the Vendor’s Solicitors\n\nPOSSESSION\n\nVacant possession upon completion\n\nVIEWING\n\nViewing strictly by appointment through The Express Estate Agency",
+ "keyFeatures": [
+  "*Guide Price £240,000 - £260,000*",
+  "Sought-after West End location",
+  "Three generous double bedrooms",
+  "Bright bay-window lounge with period features",
+  "Modern fitted kitchen with integrated appliances",
+  "Contemporary recently upgraded shower room",
+  "Beautiful original character including cornicing, fireplaces and decorative ceilings",
+  "Gas central heating and double glazing",
+  "Excellent storage including floored loft with Ramsay ladder",
+  "Within Aberdeen Grammar catchment and close to private schools, shops and city centre"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/46cdb77fc/91727421/46cdb77fcbeb498fe5af57a28a811187.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cc4a21f83/91727421/cc4a21f8320b4b45ec5cf9fa5ed4123b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/29628f593/91727421/29628f5930ef132610534de902aac20d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3d777be91/91727421/3d777be918b7cb4cc87a4615feb5946d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/554f74e08/91727421/554f74e083660fe02ee5707bbdbb6507.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e43a1b45c/91727421/e43a1b45cb77db57ff7114168b0df9a6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f2e18c5f8/91727421/f2e18c5f80bbd4db20a2e0e6004db762.jpeg",
+  "https://media.rightmove.co.uk/property-photo/39864e48d/91727421/39864e48d89adb531b5e14f0829f7a2f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e40ed3eda/91727421/e40ed3eda37d87f3f408134f6a15dd3f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a72f4f5b0/91727421/a72f4f5b0e62efdc3084f2c15b10d46f.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Aberdeen Station",
+   "miles": 1.374825279190935,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Dyce Station",
+   "miles": 5.475684053325963,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Express Estate Agency, Nationwide",
+ "city": "Aberdeen",
+ "sourceOutcode": "AB10",
+ "scrapedAt": "2026-08-31T16:55:22.238Z"
+}

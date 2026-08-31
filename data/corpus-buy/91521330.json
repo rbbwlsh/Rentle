@@ -1,0 +1,80 @@
+{
+ "id": "91521330",
+ "mode": "buy",
+ "displayAddress": "Chatham Square, 20 Alfred Street, Reading",
+ "outcode": "RG1",
+ "incode": "7AH",
+ "latitude": 51.45586,
+ "longitude": -0.979827,
+ "priceAmount": 185000,
+ "priceLabel": "£185,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91521330",
+ "area": "Reading",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 477,
+  "sizeSqM": 44,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 236,
+  "annualGroundRent": 350,
+  "annualServiceCharge": 2605,
+  "councilTaxBand": "C",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 27/08/2026"
+ },
+ "sizeSqFt": 477,
+ "sizeSqM": 44,
+ "description": "Ideally positioned for anyone wanting Reading life on their doorstep, this well-presented one bedroom apartment offers genuine move-in ready living just a five-minute walk from Reading train station, perfect for commuters into London or beyond.\n\nThe apartment itself is in excellent order throughout, with an integrated kitchen featuring a fridge freezer, washing machine, and dishwasher, offering a comfortable and low-maintenance base whether you're a first-time buyer, investor, or looking to downsize without compromising on location.\n\nStep outside and the town centre unfolds around you: the Oracle Shopping Centre is on your doorstep for retail, dining, and the cinema, while several supermarkets nearby make day-to-day living effortless. With the station so close, this is a location that genuinely works for both commuting and everyday convenience.",
+ "keyFeatures": [
+  "One bedroom",
+  "Open plan living",
+  "Sixth floor",
+  "Underfloor heating",
+  "Close to Station",
+  "Town Centre property"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/cb071b549/91521330/cb071b54902e7477bd89a2b26d2420db.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b88a48efc/91521330/b88a48efc38ba4c5ef1d6c501e3bd721.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4327968a5/91521330/4327968a526d3107673d514a785f083b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9773ebbea/91521330/9773ebbea8a9b3ad3457c30a879c9d0e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/72c44cc6d/91521330/72c44cc6de3060f541ddd8da92373824.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7286ec8bb/91521330/7286ec8bb59f3d370f79ce3aee74138f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d8f76b814/91521330/d8f76b8149cb921852dda4590787ec98.jpeg",
+  "https://media.rightmove.co.uk/property-photo/516b37fd9/91521330/516b37fd981bacd25e79e12e31672035.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Reading Station",
+   "miles": 0.3901358436036372,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Reading West Station",
+   "miles": 0.47003440588078294,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Reading Green Park Station",
+   "miles": 2.1840194067158207,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Romans, Reading",
+ "city": "Reading",
+ "sourceOutcode": "RG1",
+ "scrapedAt": "2026-08-31T14:57:41.219Z"
+}

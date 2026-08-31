@@ -1,0 +1,89 @@
+{
+ "id": "91620720",
+ "mode": "buy",
+ "displayAddress": "Woodbridge Vale, Headingley, Leeds",
+ "outcode": "LS6",
+ "incode": "3LT",
+ "latitude": 53.821773,
+ "longitude": -1.599775,
+ "priceAmount": 140000,
+ "priceLabel": "£140,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91620720",
+ "area": "Headingley, Leeds",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": 914,
+  "sizeSqM": 85,
+  "tenureType": null,
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 26/08/2026"
+ },
+ "sizeSqFt": 914,
+ "sizeSqM": 85,
+ "description": "Our latest listing is a 3-bedroom terraced house located in Leeds. It is in close proximity to valuable amenities, is able to generate rewarding rental returns and has a tenant currently situated.\n\nFor investors looking to expand their portfolio, this is a fantastic opportunity!\n\nThis well-kept terraced house features 3 bedrooms, 2 bathrooms, a spacious lounge, a fully fitted kitchen with integrated appliances and an access to a street parking. \n\nInvestment details\n\nIt currently produces an annual gross income of £10,800 with tenants currently situated. Considering the purchase price and the potential rental income that could be earned in future years, this will make for a worthwhile addition to an investors property portfolio.\n\nFor greater detail on this property's investment potential, please see the Let Property Pack linked below.\n\nIf you are interested, please call us.\n\nTenancy Details\n\nThere are tenants that currently reside in the property and have consistently paid their rent for the duration of their stay. They do not have any intentions to move out so hope to remain in the property.\n\nWe are committed to facilitating a smooth transaction process between buyer and seller. To allow for maximum commitment to the sale from both parties, a Buyers Premium will apply in order to secure a property.",
+ "keyFeatures": [
+  "Street Parking",
+  "Private Garden (front and back)",
+  "Buy-to-Let Opportunity ",
+  "Tenant Currently Situated",
+  "Likely to attract enquiries from Serious Investors &amp; Developers",
+  "INVESTMENT POTENTIAL DETAILED BELOW (Let Property Pack)"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/75a103b0b/91620720/75a103b0bef9471ea4ad336b465e6b17.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6170d018b/91620720/6170d018b5ca8ac2851bccd85964c22a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d20f1dae9/91620720/d20f1dae9c3b508012ac0dfef731db7d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/466f4b135/91620720/466f4b135583c2fdd33826a61987e512.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6e5d31aa0/91620720/6e5d31aa0cd208079ab9ff33f93f40d4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e4c1a0d22/91620720/e4c1a0d22bbe6a1767cbca91c4904b6e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/13be55abe/91620720/13be55abed1f7c20e3daaba508c6e1ca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e061267fb/91620720/e061267fb7b7ddd4808bca3307436cc6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b478c16c1/91620720/b478c16c12884189115cb9922597ce4a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee2c6fbf1/91620720/ee2c6fbf17fcd5e9fb5495ba4a31683b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bed56087c/91620720/bed56087ccca2c9a37d7e9e528603450.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a5d350320/91620720/a5d350320ccb8b3124cfb69ba8bd98a2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eb0298e34/91620720/eb0298e34b6f5240c25e8a548ef43029.jpeg",
+  "https://media.rightmove.co.uk/property-photo/691eead6d/91620720/691eead6d0e94ec47f1778983110936a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e4a6a5eab/91620720/e4a6a5eab34fc07ca20964f231263f93.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9db88aed3/91620720/9db88aed3d8acce9757fe2ebf48374a6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/662882ba1/91620720/662882ba12a5faf5be124599fae30ca6.jpeg"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "Headingley Station",
+   "miles": 0.3506743742061194,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Kirkstall Forge Station",
+   "miles": 0.9322065661155695,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 1.11727254711901,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Let Property Sales & Management, Glasgow",
+ "city": "Leeds",
+ "sourceOutcode": "LS6",
+ "scrapedAt": "2026-08-31T16:58:04.673Z"
+}

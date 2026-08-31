@@ -1,0 +1,81 @@
+{
+ "id": "92443302",
+ "mode": "buy",
+ "displayAddress": "Parkfield Road, Aigburth, L17",
+ "outcode": "L17",
+ "incode": "8UJ",
+ "latitude": 53.382537,
+ "longitude": -2.950352,
+ "priceAmount": 190000,
+ "priceLabel": "£190,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92443302",
+ "area": "Aigburth",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 637,
+  "sizeSqM": 59,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 27/08/2026"
+ },
+ "sizeSqFt": 637,
+ "sizeSqM": 59,
+ "description": "Move Residential are thrilled to present to the sales market this charming two bedroom upper floor apartment, enjoying a prime location on Parkfield Road in the sought-after suburb of Aigburth, L17. Available with no onward chain, this well-proportioned property has been finished to a high standard throughout, presenting an opportunity not to be missed for first time buyers, investors and those looking to downsize.\n\nAccessed via a well-maintained communal entrance and stairs, you are greeted into the apartment by an inviting entrance hall which leads through to a bright and spacious reception room, finished in a tasteful décor featuring wood style flooring. This is followed by a modern fitted kitchen, and continuing through you will find the sleeping accommodation consisting of two generously sized double bedrooms, each boasting plush carpeting and receiving plenty of natural light, served by a contemporary style three-piece bathroom suite.\n\nExternally, residents of the building further benefit from access to the communal garden and off-road parking.\n\nEPC Rating: C",
+ "keyFeatures": [
+  "Charming Two Bedroom Upper Floor Apartment",
+  "Prime Location In Sought-After Area Of Aigburth",
+  "Offered To The Market With No Onward Chain",
+  "Well-Proportioned &amp; Finished To High Standard",
+  "Entrance Hall, Reception Room &amp; Fitted Kitchen",
+  "Two Bright &amp; Well-Presented Double Bedrooms",
+  "Contemporary Style Three-Piece Bathroom Suite",
+  "Further Benefits From Shared Gardens &amp; Parking"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/15c389b37/92443302/15c389b37c18b469307771b4849b76f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f6c11b618/92443302/f6c11b618c678843cd6f3efb12af1a7a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ccdb9ed97/92443302/ccdb9ed9767a7f747165ec6f6fbca4e1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5c4dc56f6/92443302/5c4dc56f63a0c7cf21acdc4820e9812f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f5079fde6/92443302/f5079fde687e41d38c4e034c25d1b12b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/290a31db8/92443302/290a31db83e454c26a79a90079c97a9e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/09586c618/92443302/09586c6189c6bd37aa41441c8de0f164.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "St. Michaels Station",
+   "miles": 0.4696804889572887,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Brunswick Station",
+   "miles": 1.0651584377588137,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Edge Hill Station",
+   "miles": 1.3852699489198006,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Move Residential, Mossley Hill",
+ "city": "Liverpool",
+ "sourceOutcode": "L17",
+ "scrapedAt": "2026-08-31T16:56:36.159Z"
+}

@@ -1,0 +1,76 @@
+{
+ "id": "92387778",
+ "mode": "buy",
+ "displayAddress": "Keats Way, Peterborough, PE1",
+ "outcode": "PE1",
+ "incode": "3LT",
+ "latitude": 52.59774,
+ "longitude": -0.258971,
+ "priceAmount": 240000,
+ "priceLabel": "£240,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92387778",
+ "area": "Peterborough",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Semi-Detached",
+ "details": {
+  "propertyType": "Semi-Detached",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": 861,
+  "sizeSqM": 80,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Added on 25/08/2026"
+ },
+ "sizeSqFt": 861,
+ "sizeSqM": 80,
+ "description": "This well-presented SEMI-DETACHED FAMILY HOME offers THREE BEDROOMS, TWO RECEPTION ROOMS, a generous KITCHEN DINER, DRIVEWAY PARKING FOR MULTIPLE VEHILCES & A SOUTH-WESTERLY FACING REAR GARDEN and is being sold with NO ONWARD CHAIN. Upon entry, you are greeted by a welcoming hallway offering access to the spacious lounge occupying the front of the home offering ample living space and a mantle fireplace, kitchen diner which is fitted with a range of wall and base units, integrated appliances (including oven, hob, and extractor) as well as space and plumbing for further free standing appliances, ample worktop space and dining space and the generous conservatory being flexible in it's use and offers access onto the rear garden. Upstairs, a central landing leads to three well-proportioned bedrooms, two of which boast built-in storage, all of which benefit from the family shower room which is equipped with a walk-in shower enclosure, wash basin and WC. Outside the property hosts driveway parking for multiple vehicles the front aspect whilst to the rear you will find the low maintenance south-westerly facing garden offering both patio seating space and an abundance of storage.\nEPC Rating: D",
+ "keyFeatures": [
+  "Semi-Detached Family Home",
+  "THREE BEDROOMS",
+  "TWO RECEPTION ROOMS &amp; KITCHEN DINER",
+  "Shower Room &amp; Downstairs WC",
+  "DRIVEWAY PARKING FOR MULTIPLE VEHICLES",
+  "SOUTH-WESTERLY FACING REAR GARDEN",
+  "NO ONWARD CHAIN",
+  "EPC Rating TBC"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/9cfb1c672/92387778/9cfb1c672c7691dc8d7646d38ed3f802.jpeg",
+  "https://media.rightmove.co.uk/property-photo/502027a2a/92387778/502027a2ae7f08f306c93c68a70b105b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/341dee5b0/92387778/341dee5b0cc4fc84dbe71b50e7581de2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/03111a087/92387778/03111a08766e68b142e7f99aac2dad15.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb09673bf/92387778/bb09673bfa21017aea74431ad997ed54.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4d001b7b1/92387778/4d001b7b1370f95e31a2fc0dc3734859.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7e306a764/92387778/7e306a7646dc0c3dc00c777dcd166010.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dd379bc91/92387778/dd379bc91034085202c43f4cbcc55f3b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e452707fa/92387778/e452707faad36fbe93b4129e3e9bb2db.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0af071258/92387778/0af07125850659b638ae9fa521557de5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f4ad815d4/92387778/f4ad815d44cfcb70b8e4a0f6b5348f97.jpeg",
+  "https://media.rightmove.co.uk/property-photo/518ff0f0d/92387778/518ff0f0d3159f3e158653470c23a15f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b34855b47/92387778/b34855b4786c73ac66e6d5deab6b9b83.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ea1ed6adc/92387778/ea1ed6adc12210a2a1cd4e1b5d70fc17.jpeg",
+  "https://media.rightmove.co.uk/property-photo/24d56693d/92387778/24d56693d3d7b8c9fa313f747797b342.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b26614397/92387778/b26614397b9f21281fa1dcf19825b7ac.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Peterborough Station",
+   "miles": 1.6281275733880272,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Newton Fallowell, Peterborough",
+ "city": "Peterborough",
+ "sourceOutcode": "PE1",
+ "scrapedAt": "2026-08-31T16:53:41.204Z"
+}

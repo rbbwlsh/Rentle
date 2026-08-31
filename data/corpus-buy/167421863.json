@@ -1,0 +1,86 @@
+{
+ "id": "167421863",
+ "mode": "buy",
+ "displayAddress": "Oldham Street, Liverpool, Merseyside, L1",
+ "outcode": "L1",
+ "incode": "2SU",
+ "latitude": 53.40283,
+ "longitude": -2.9744,
+ "priceAmount": 230000,
+ "priceLabel": "£230,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/167421863",
+ "area": "Liverpool, Merseyside",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 105,
+  "annualGroundRent": 150,
+  "annualServiceCharge": 3131,
+  "councilTaxBand": "TBC",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 28/07/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Entwistle Green are delighted to welcome you to Oldham Street, Liverpool - a spacious three-bedroom apartment located in the heart of the city centre.\n\nThis apartment is ideal for a variety of buyers whether you are a first time buyer looking to take advantage of all that city centre living has to offer with the amazing amenities located on your doorstep. The apartment is also an ideal investment opportunity given the strong rental demand in the area.\n\nThis spacious flat boasts an inviting entrance hall with storage cupboard and main bathroom. From here, you access the three double bedrooms, the master with an ensuite. The hallway then leads to a spacious open plan kitchen diner with access to the balcony/terrace.\n\nOne of the highlights of this property is the balcony, where you can enjoy your morning coffee or unwind after a long day while taking in the bustling city views. The property also benefits from a secure allocated parking space.\n\nWhat's more, this property comes with no onward chain, ensuring a smooth and hassle-free buying process. Whether you're looking for a stylish urban retreat or a lucrative investment opportunity, this flat ticks all the boxes. Don't miss out on the chance to own a piece of city living at its finest - book a viewing today and envision the endless possibilities that await you at Oldham Street!\n\nPlease note than an AML fee is chargeable to the buyers once an offer is accepted to cover the cost of carrying out the required identity and anti-money laundering checks. Once these checks have been completed, the fee cannot be refunded, even if the property purchase does not go ahead.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/98aea9c16/167421863/98aea9c16c8cd9c49da422d078119169.jpeg",
+  "https://media.rightmove.co.uk/property-photo/21a2fbcd9/167421863/21a2fbcd9fd86d8c54a91d0f75df924f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8040d3155/167421863/8040d3155d89627791dd8121e166b2d9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/409fbbb01/167421863/409fbbb01c40cf14c5a8cdee2ad934ca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4057388c8/167421863/4057388c85556970110686b0668f9690.jpeg",
+  "https://media.rightmove.co.uk/property-photo/00229b560/167421863/00229b560a12cc5d45f18a13494199ec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/de5d61c35/167421863/de5d61c35e179fb6c36044ce95d0f64d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3f34b20ee/167421863/3f34b20eee04d22c898ed665fc047c0b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/df3c4e0ed/167421863/df3c4e0ed5cb4b181d77d77d1d709b76.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2a279be34/167421863/2a279be3499abec33ab81ef90b41fe82.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4aa3e6a8d/167421863/4aa3e6a8de5c52760e3005dc8a5fe22b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bd902587e/167421863/bd902587eefc39f961e0bc22c75d7067.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8a5559f37/167421863/8a5559f37f75e875ff8aeb1fef578ad9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ed3e67bf6/167421863/ed3e67bf66caa361773bee524c7e355a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/671486545/167421863/671486545d6fb7da97bdd79f64c68edb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/de40c1f32/167421863/de40c1f32c4a72157b5e702446df53dd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/efbee0f0b/167421863/efbee0f0b2f17d396dc37547ce019451.jpeg",
+  "https://media.rightmove.co.uk/property-photo/030d54b85/167421863/030d54b85f7ee90f53e2ea8f1ca198df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b042119b8/167421863/b042119b8d66f8387ed5dfe9c53e72be.jpeg",
+  "https://media.rightmove.co.uk/property-photo/16ec17c66/167421863/16ec17c668b03243b8339e0b920468c4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/54f14aa2c/167421863/54f14aa2cdda3f5a16b4e1dbca6191a1.jpeg"
+ ],
+ "imageCount": 21,
+ "nearestStations": [
+  {
+   "name": "Liverpool Central Station",
+   "miles": 0.23738022936669867,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Liverpool Lime Street Station",
+   "miles": 0.32380018681492445,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Moorfields Station",
+   "miles": 0.7376468334498242,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Entwistle Green, Liverpool",
+ "city": "Liverpool",
+ "sourceOutcode": "L1",
+ "scrapedAt": "2026-08-31T16:57:29.095Z"
+}

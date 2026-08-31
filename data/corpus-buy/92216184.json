@@ -1,0 +1,85 @@
+{
+ "id": "92216184",
+ "mode": "buy",
+ "displayAddress": "Roedale Road, Brighton",
+ "outcode": "BN1",
+ "incode": "7GX",
+ "latitude": 50.827308,
+ "longitude": -0.13333,
+ "priceAmount": 275000,
+ "priceLabel": "£275,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92216184",
+ "area": "Brighton",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 106,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Added on 20/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Situated in this POPULAR location, this charming first-floor flat offers a delightful blend of comfort & MODERN living. With two well-proportioned bedrooms, this property is perfect for small families, couples or individuals seeking a SPACIOUS home. As you enter, you are welcomed into an inviting OPEN PLAN living space that seamlessly combines the kitchen & lounge areas, creating a warm & sociable atmosphere. This layout is ideal for entertaining guests or enjoying quiet evenings at home. The flat also boasts a lovely BALCONY, providing a perfect spot to relax & soak up the sun or enjoy a morning coffee while taking in the views. Situated in a vibrant area of Brighton, residents will benefit from easy access to local amenities, including shops, cafes & parks, as well as excellent transport links to the city centre & beyond. Available CHAIN FREE! Energy Rating: B81 Exclusive to Maslen Estate Agents\n\nWhat the owner says: \n\n\"I loved living in the flat in Harrington House. The open-plan layout makes the living area feel naturally light and spacious, yet it’s always had a cozy, welcoming feel — especially when stepping out onto the balcony for a morning coffee. Roedale Road is well-connected with shops and Sainsbury's close by, and buses into the city centre if you're not in the mood to walk. The building has a warm, friendly feel, and I hope the next owners love living here as much as I have.\"\n\nCommunal front door to:\n\nCommunal Hallway - Choice of stairs or lift to the first floor, personal front door to:\n\nHallway - Radiator, 2 x built in storage cupboards, wall mounted entryphone, wall mounted thermostat, doors to all rooms.\n\nBathroom - WC with push button flush, pedestal wash hand basin with mixer tap, panelled bath with hot & cold taps, wall mounted shower over, glass shower screen, part tiled walls, laminate flooring, radiator.\n\nOpen Plan Lounge/Dining Room - Square bay window to side, balcony door to front, 2 x radiators, archway to kitchen.\n\nKitchen - Range of wall & base units with roll edged work surfaces over, inset stainless steel single drainer sink unit with mixer tap, inset hob with extractor over, integrated oven below, space for appliances, wall mounted 'Potterton' boiler, part tiled walls, tiled floor, window to side.\n\nBedroom - Window to side, radiator.\n\nBedroom - Window to side, radiator.\n\nTotal Approx Floor Area - 74.6 sq.m. (803.1 sq.ft.)\n\nCouncil Tax Band C - \n\nParking Zone 14 - \n\nV1 -",
+ "keyFeatures": [
+  "No Onward Chain",
+  "2 Bedrooms",
+  "Private Balcony",
+  "Open Plan Lounge/Dining Room",
+  "Popular Location",
+  "First Floor Flat",
+  "Viewings Are Highly Recommended",
+  "Total Approx Floor Area: 74.6 sq.m. (803.1 sq.ft.)",
+  "Exclusive to Maslen Estate Agents"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/371b9e54a/92216184/371b9e54aed2da4a80cc4f888edaefca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1ae255f36/92216184/1ae255f36ac2dd51d6d09a3fe2229d6d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/77a616811/92216184/77a616811128e6073e575c499767ef5c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/69e4e96f0/92216184/69e4e96f0b0df46b095a046d7abadf3d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c2d47cf5c/92216184/c2d47cf5cec76b544d1e54f8aa468ba1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/843ae49da/92216184/843ae49da63a79850b9f9ae0a7840fbd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8214f4823/92216184/8214f4823181fe07d22dfc2c66c89b65.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7bc421172/92216184/7bc42117220629de1bdee7638eee8571.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1c5bbad40/92216184/1c5bbad40b881308eb170f6fd7df7aa6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/408d9d3fc/92216184/408d9d3fc98c7d6f3b20cde1d3aff712.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "London Road (Brighton) Station",
+   "miles": 0.6606837557767232,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Moulsecoomb Station",
+   "miles": 1.4590182799921663,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Brighton Station",
+   "miles": 0.3562661058091727,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "David Maslen Estate Agents, Lewes Road",
+ "city": "Brighton",
+ "sourceOutcode": "BN1",
+ "scrapedAt": "2026-08-31T15:02:04.010Z"
+}

@@ -1,0 +1,79 @@
+{
+ "id": "92227590",
+ "mode": "buy",
+ "displayAddress": "Flat 72 The Exchange, Percy Street, Preston",
+ "outcode": "PR1",
+ "incode": "1AX",
+ "latitude": 53.760859,
+ "longitude": -2.693321,
+ "priceAmount": 127000,
+ "priceLabel": "£127,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92227590",
+ "area": "Preston",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 431,
+  "sizeSqM": 40,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 247,
+  "annualGroundRent": 140,
+  "annualServiceCharge": 1900,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 20/08/2026"
+ },
+ "sizeSqFt": 431,
+ "sizeSqM": 40,
+ "description": "This modern apartment is an excellent buy-to-let investment opportunity. Situated in the heart of Preston city centre, where rental demand remains consistently high, the property is ideally positioned to attract tenants. \n\nResidents enjoy a fantastic selection of amenities, including shops, bars, cafes, and restaurants right on the doorstep. Excellent transport links are also within easy walking distance, with both the bus station and train station nearby, making it an ideal location for commuters and city professionals alike.\n\nUpon entering the apartment, you are welcomed into a bright and inviting open-plan lounge and kitchen, creating the perfect space for relaxing, dining, and entertaining. The well-designed layout maximises both space and natural light, providing a comfortable and contemporary living environment. The property also benefits from a generously sized double bedroom and a modern bathroom, completing this well-presented apartment.\n\nThe Exchange offers residents thoughtfully designed communal spaces, including a stylish residents' lounge and a landscaped roof garden, creating a welcoming environment to relax and socialise.\n\nResidents also benefit from a range of premium amenities, including a fully equipped gym, secure bicycle storage, and a hotel-style concierge service, providing both convenience and peace of mind.\n\nThe property is currently tenanted and generates a rental income of £925 per calendar month.\n\nPlease contact Open House Lancashire to arrange your viewing.\n\nCouncil Tax Band: A\nTenure: Leasehold (247 years)\nGround Rent: £140 per year\nService Charge: £1,900 per year",
+ "keyFeatures": [
+  "Newly Built Apartment",
+  "Open Plan Kitchen &amp; Living",
+  "One bedroom",
+  "24hr Concierge/security service",
+  "Ideal investment",
+  "Central location"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/12e55d4e3/92227590/12e55d4e35762f1665a0f418ca6101fc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bd21724b3/92227590/bd21724b38627b65c4231541607bd563.jpeg",
+  "https://media.rightmove.co.uk/property-photo/46515ec03/92227590/46515ec039c9f97f24cc1dc21585ce0a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0ab2ed104/92227590/0ab2ed104ab6416c03e7a846cda32e83.jpeg",
+  "https://media.rightmove.co.uk/property-photo/64ae8dc3d/92227590/64ae8dc3de7781573b71f24f426481be.jpeg",
+  "https://media.rightmove.co.uk/property-photo/90282bdc8/92227590/90282bdc898bf9fcd4182893bc551568.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ffa6a1017/92227590/ffa6a1017d4971b476e02c2b33dc3084.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Preston Station",
+   "miles": 0.6660840763379388,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Lostock Hall Station",
+   "miles": 2.567215186922282,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bamber Bridge Station",
+   "miles": 2.692524798922882,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Open House Preston Ltd, Preston",
+ "city": "Preston",
+ "sourceOutcode": "PR1",
+ "scrapedAt": "2026-08-31T14:55:45.980Z"
+}

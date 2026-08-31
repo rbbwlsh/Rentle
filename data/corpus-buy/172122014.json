@@ -1,0 +1,98 @@
+{
+ "id": "172122014",
+ "mode": "buy",
+ "displayAddress": "French Yard, Bristol, BS1",
+ "outcode": "BS1",
+ "incode": "6SF",
+ "latitude": 51.446653,
+ "longitude": -2.593322,
+ "priceAmount": 750000,
+ "priceLabel": "£750,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/172122014",
+ "area": "French Yard, Bristol",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": 1549,
+  "sizeSqM": 144,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 163,
+  "annualGroundRent": 350,
+  "annualServiceCharge": 8040.82,
+  "councilTaxBand": "D",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 20/03/2026"
+ },
+ "sizeSqFt": 1549,
+ "sizeSqM": 144,
+ "description": "This impressive duplex apartment offers over 1,540 sq ft of beautifully arranged living space, combining generous room sizes with an elegant, flowing layout. \r\n\r\nSet within the distinguished Edward VII Wing, the apartment opens into an expansive sitting/dining room with soaring ceilings and tall windows fitted with plantation shutters that flood the space with natural light. This striking main living area provides exceptional flexibility for both relaxation and entertaining, seamlessly connecting to a well proportioned kitchen. The first floor also includes a spacious double bedroom with adjacent large family bathroom, ideal for guests, a useful utility room, guest cloakroom and storage cupboard. \r\n\r\nUpstairs to the second floor, the sense of space continues with a superb principal suite featuring a large walk in wardrobe and modern en-suite bathroom. A second double bedroom and a generous landing that is used as a study area complete the upper level, enhancing the open, airy feel. With its outstanding proportions, high ceilings and well designed duplex layout, this apartment offers a rare opportunity to enjoy spacious contemporary living within a landmark building.\n\nOutside\n\nThe apartment is approached via a well-maintained and glamourous entrance courtyard, complete with a working carved stone fountain. All of the residents enjoy the benefit of a Concierge service with a dedicated estate office. The property has two allocated underground parking spaces, and lift access from the communal entrance to the second floor.\n\nSituation\n\nThe Edward VII Wing is situated within The General, a stunning Grade II Listed development, located overlooking the Bathurst Basin and the New Cut, on the edge of Bristol's historic floating harbour, forming part of the award-winning development. Within walking distance from the apartment are many excellent dining venues in the award-winning CARGO area, as well as such cultural venues as The Tobacco Factory, Bristol Old Vic and Bristol Beacon concert hall. Clifton Village 1.8 miles, Park Street 0.5 miles, Bristol Temple Meads 0.7 miles.  Property Ref Number:  \n\nHAM-62823\n\nAdditional Information\n\nTenure: Leasehold, 175 years from 01/01/2015\r\nService Charges: £8,040.82 pa\r\nGround Rent: £350 pa\r\nLocal Authority Bristol City Council\r\nCouncil Tax Band D",
+ "keyFeatures": [
+  "Spacious duplex apartment",
+  "Stunning reception with high ceilings",
+  "Contemporary kitchen",
+  "3 double bedrooms",
+  "2 bathrooms",
+  "2 allocated parking spaces",
+  "Lift access",
+  "Concierge",
+  "Communal gardens",
+  "Central Bristol location by the Harbourside"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/5e7742187/172122014/5e7742187cfa72c52d19ce71159e48a4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f9501e349/172122014/f9501e34980d70ed6c30111e9682c0ce.jpeg",
+  "https://media.rightmove.co.uk/property-photo/daa460728/172122014/daa460728e7607b53ed010847d37b0bb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/50dbf5a03/172122014/50dbf5a0334554648a1a3ded9e230e17.jpeg",
+  "https://media.rightmove.co.uk/property-photo/15a7ccb9a/172122014/15a7ccb9adb3bc220d472057443038cb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/588a5a610/172122014/588a5a6103c081d027a2282f633c288e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/643426425/172122014/643426425f81b72f54976dad6a0f5192.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3cbee3608/172122014/3cbee360826479100de0905bfcbba9bd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/05bce1c79/172122014/05bce1c797a8ea828a14500379bee149.jpeg",
+  "https://media.rightmove.co.uk/property-photo/51615fbfe/172122014/51615fbfe8de547cd1164a68773d3144.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6194d10bd/172122014/6194d10bd2793694ce7d94964dcf5281.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a6e0c2d19/172122014/a6e0c2d1912f14b189d8f193c34d1af2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e355edc1c/172122014/e355edc1c7fa54ad87f52a2aef258cec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/452e8cb36/172122014/452e8cb366d4e8faa24d53f054c34c29.jpeg",
+  "https://media.rightmove.co.uk/property-photo/07c44a336/172122014/07c44a3362924ad2f96607d9189aefa8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f51a6311b/172122014/f51a6311bf7e9e6bce580b33841aff8b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e1334b6de/172122014/e1334b6de1e06082c4022b58892bb2a8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/30d13e7f5/172122014/30d13e7f56701b48ce53e0fc1a03bdd1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/de3fa0419/172122014/de3fa0419492d490ee7bb1ea243e96b7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/96860627a/172122014/96860627a715d2626823e98e265e3920.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7fff3bdf6/172122014/7fff3bdf6bdef90d823db425de868291.jpeg",
+  "https://media.rightmove.co.uk/property-photo/104a14d14/172122014/104a14d1430a1e896b7d37eb55570b2b.jpeg"
+ ],
+ "imageCount": 22,
+ "nearestStations": [
+  {
+   "name": "Bedminster Station",
+   "miles": 0.4619295059386435,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 0.5386528932462954,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Parson Street Station",
+   "miles": 1.1450976754208333,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Hamptons, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS1",
+ "scrapedAt": "2026-08-31T16:57:41.918Z"
+}

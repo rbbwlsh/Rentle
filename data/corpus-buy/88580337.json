@@ -1,0 +1,95 @@
+{
+ "id": "88580337",
+ "mode": "buy",
+ "displayAddress": "Albany Street,TS1",
+ "outcode": "TS1",
+ "incode": "4DB",
+ "latitude": 54.570347,
+ "longitude": -1.241331,
+ "priceAmount": 120000,
+ "priceLabel": "£120,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/88580337",
+ "area": "Albany Street",
+ "bedrooms": 3,
+ "bathrooms": 3,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": null,
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 21/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Clarke Munro are delighted to offer this incredible student property on Albany Street. Within close proximity to Teesside University, this property has been renovated throughout to a high standard to give a real luxurious feel. The property internally comprises of entrance hall, ground floor bedroom, communal lounge and contemporary fitted kitchen with range of matching units and appliances, then a modern ground floor bathroom. The two further bedrooms on the first floor each have an en-suite shower room. All rooms are furnished to a high standard and each room is advertised at £",
+ "keyFeatures": [
+  "TURN KEY INVESTMENT",
+  "3 BEDROOMS",
+  "3 BATHROOMS",
+  "CONTEMPORARY INTERIOR",
+  "GREAT LOCATION",
+  "TENURE FREEHOLD ",
+  "COUNCIL TAX BAND A "
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/affa7b93c/88580337/affa7b93c992b60fd4a996e2f1a51a71.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1f808a32e/88580337/1f808a32efd456aa06c130d7ea9706ea.jpeg",
+  "https://media.rightmove.co.uk/property-photo/16f13b7d7/88580337/16f13b7d7e92df36c84ba003e690dac8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6347536f5/88580337/6347536f598c1a92fd05d87a7f795807.jpeg",
+  "https://media.rightmove.co.uk/property-photo/38a142cdf/88580337/38a142cdfe06fd6ba8e194d71dc82717.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2e8aed6ee/88580337/2e8aed6eeb9b9b1ec8c28beffe0785b6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/950d50f22/88580337/950d50f220107a70c892475e198f66e5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/74be23b3f/88580337/74be23b3f4e3d0d48cc487662e332890.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3e65b07b9/88580337/3e65b07b9dfa4e8180cbd1d4d88e6f70.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0cec57825/88580337/0cec578257b5d7025624d4cb3717b200.jpeg",
+  "https://media.rightmove.co.uk/property-photo/09f5b07e8/88580337/09f5b07e8129419f47c201c832b0d37c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/65d30b4b3/88580337/65d30b4b39b7f6c8566f036f99d862e3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa3d4b8e5/88580337/aa3d4b8e5420b8c7be6b0da7cae4fe33.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3d61371a5/88580337/3d61371a520692d65c9eb33b876b6a82.jpeg",
+  "https://media.rightmove.co.uk/property-photo/18871f75a/88580337/18871f75a45040756a1971e58215234f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e3d4722f8/88580337/e3d4722f8f9715176111f8c2e35d3f17.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b9f02a6d4/88580337/b9f02a6d4377b9fa5b50255ba24df87b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bc74c9027/88580337/bc74c90270a321f13db6b3ebf9a2d16f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/71b0d9581/88580337/71b0d9581d48025ced057e0b011903d0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1d2ffcd96/88580337/1d2ffcd96e61004aba1805d9d173ebf2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/08812bf2f/88580337/08812bf2ff67caf7c1f2a0cdcd59b7aa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/372a5fe38/88580337/372a5fe38d27b791440ab3e2303bfc3a.jpeg"
+ ],
+ "imageCount": 22,
+ "nearestStations": [
+  {
+   "name": "Middlesbrough Station",
+   "miles": 0.6596907592088691,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Thornaby Station",
+   "miles": 2.519394379979522,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Marton Station",
+   "miles": 2.539317475398074,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Clarke Munro, Middlesbrough",
+ "city": "Middlesbrough",
+ "sourceOutcode": "TS1",
+ "scrapedAt": "2026-08-31T15:03:40.679Z"
+}

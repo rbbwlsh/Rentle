@@ -1,0 +1,76 @@
+{
+ "id": "169390835",
+ "mode": "buy",
+ "displayAddress": "Ashbourne Court, Ashbourne Road, Derby",
+ "outcode": "DE1",
+ "incode": "1GH",
+ "latitude": 52.925167,
+ "longitude": -1.491101,
+ "priceAmount": 69950,
+ "priceLabel": "£69,950",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/169390835",
+ "area": "Derby",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 61,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 20/07/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "The perfect, first time buy, buy to let investment or pied-à-terre with parking, vacant possession and no chain.\n\nThis first floor studio flat is located in the Friar Gate area close to the city centre and numerous local convenience stores, café, public houses and close to all gateways in and out of Derby.\n\nExternally, there is a covered allocated car parking space.\n\nAshbourne Court is located on the junction with Ashbourne Road and Uttoxeter New Road.\n\nAccommodation - \n\nGround Floor - \n\nCommunal Hallway - With front and rear doors, stairs to upper floors.\n\nFirst Floor - Entering the flat into:\n\nLobby - Main front door, storage space for coats, shoes etc, inner door into:\n\nStudio Area - 4.70m x 3.99m (15'5\" x 13'1\") - A large space with two UPVC double glazed window, pull-down bed with side cabinet, electric storage heater, airing cupboard, door into:\n\nKitchen - 2.62m x 1.80m (8'7\" x 5'11\") - Appointed with a range of fitted kitchen units with cabinets and drawers, laminate work surfaces, stainless steel sink and drainer and tiled splashback, electric cooker, under counter appliance space, two UPVC double glazed windows.\n\nInner Lobby - Leading into:\n\nBathroom - 2.03m x 1.80m (6'8\" x 5'11\") - Appointed with a three-piece suite comprising a panelled bath, washed hand basin and low-level WC, UPVC double glazed  window.\n\nTenure - Leasehold.\n\nThe Lease is for 99 years from 1988. The service charge is £300 for 2025. \n\nIn addition each of the 6 lease holders have 1 share in the freehold title to the block of units.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/6cace4ab2/169390835/6cace4ab2040802aa26d7c5aff5ce9a8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b50bd45ac/169390835/b50bd45ac095f90989c0c5007de78aea.jpeg",
+  "https://media.rightmove.co.uk/property-photo/83a3e2f32/169390835/83a3e2f3257ef909f3e002b0cac4490f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/adbce5c43/169390835/adbce5c437f13f846f4ed444b73218a3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7faaa0ec6/169390835/7faaa0ec6e48aae559b81b70e3633d53.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5e44ac2ec/169390835/5e44ac2ec3611d566a173e1d731bd494.jpeg",
+  "https://media.rightmove.co.uk/property-photo/acc6c1160/169390835/acc6c1160007336221259da1b8004bcb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a095a302a/169390835/a095a302a5d4ac19fc70a880e80371ce.jpeg",
+  "https://media.rightmove.co.uk/property-photo/90f5ad0f9/169390835/90f5ad0f90da639ef33439db6f070b69.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e18a0f1e3/169390835/e18a0f1e3d5911c3655601b0cbb7570d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3c659bdf4/169390835/3c659bdf424996854f7738f83b3395b0.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Derby Station",
+   "miles": 1.3182341051274007,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Peartree Station",
+   "miles": 2.026854108677369,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Spondon Station",
+   "miles": 3.486877696727519,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Boxall Brown & Jones, Derby",
+ "city": "Derby",
+ "sourceOutcode": "DE1",
+ "scrapedAt": "2026-08-31T14:50:06.936Z"
+}

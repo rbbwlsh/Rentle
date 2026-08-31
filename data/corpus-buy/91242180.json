@@ -1,0 +1,67 @@
+{
+ "id": "91242180",
+ "mode": "buy",
+ "displayAddress": "Dunster Street, Northampton, Northamptonshire, NN1",
+ "outcode": "NN1",
+ "incode": "3LX",
+ "latitude": 52.24128,
+ "longitude": -0.8906,
+ "priceAmount": 110000,
+ "priceLabel": "£110,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91242180",
+ "area": "Northampton, Northamptonshire",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 121,
+  "annualGroundRent": null,
+  "annualServiceCharge": 1500,
+  "councilTaxBand": "B",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 20/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Immaculately presented throughout, this beautiful factory conversion apartment features exposed brickwork, high ceilings and industrial beams. \n\nSituated in the iconic, grade 2 listed Hawkins Building, a 19th century shoe factory in Northampton's historic Boot and Shoe quarter which was converted into luxury apartments in 2023, the property is within close walking distance of Northampton town centre amenities.\n\nThe deceptively spacious property needs to be seen to be appreciated and is ideal for a first time buyer.  Access to the top floor apartment is by a communal lift.\n\nPlease note that an AML fee is chargeable to the buyer once an offer is accepted to cover the cost of carrying out the required identity and anti-money laundering checks. Once these checks have been completed, the fee cannot be refunded, even if the property purchase does not go ahead.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/4c6570eee/91242180/4c6570eeedb6c41c52941869c8653b4b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e39e6817a/91242180/e39e6817ab95e362756b8c0a0b15212a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/82db518c8/91242180/82db518c800a2b71e4cd1307f7f19ce1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7dfa77dad/91242180/7dfa77dad4a4cff18b9b77801f9fea56.jpeg",
+  "https://media.rightmove.co.uk/property-photo/12b73bd7c/91242180/12b73bd7cc01c8c257a9a44fb838de91.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7efc7e887/91242180/7efc7e8872b07ccb43d30aa6f7f8b639.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0c46bcaa1/91242180/0c46bcaa1e329fdc8efdc9886afd7223.jpeg",
+  "https://media.rightmove.co.uk/property-photo/55418c880/91242180/55418c880f3d64442539a0777ec61780.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6644faac8/91242180/6644faac88daf91b9ad417c8e9527a2e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fbb11c168/91242180/fbb11c168c98e8a50714a216e5e8e82e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/56844d98a/91242180/56844d98a02e074c3031971a0476ee85.jpeg",
+  "https://media.rightmove.co.uk/property-photo/40a44ca97/91242180/40a44ca97060322296f44a1465d2725d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b0786b756/91242180/b0786b75623c38bd50073db8c95deb9b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/12b73bd7c/91242180/12b73bd7cc01c8c257a9a44fb838de91.jpeg",
+  "https://media.rightmove.co.uk/property-photo/08639d138/91242180/08639d1382f93e77fba40af6056ef06c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e39e6817a/91242180/e39e6817ab95e362756b8c0a0b15212a.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Northampton Station",
+   "miles": 0.7354589216936498,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Taylors Estate Agents, Northampton",
+ "city": "Northampton",
+ "sourceOutcode": "NN1",
+ "scrapedAt": "2026-08-31T14:50:20.444Z"
+}

@@ -9,14 +9,14 @@ import { project, COAST_PATH, VIEW_W, VIEW_H } from '../engine/ukmap.js';
 // never changes, only where the property is drawn from. Deliberately NOT a
 // grid of every listing: seeing the whole corpus laid out spoils the pool.
 
-export default function CityPicker({ navigate }) {
+export default function CityPicker({ mode, navigate }) {
   const [index, setIndex] = useState(null);
   const [error, setError] = useState('');
   const [active, setActive] = useState(null);
 
   useEffect(() => {
-    loadIndex().then(setIndex).catch((err) => setError(err.message));
-  }, []);
+    loadIndex(mode.key).then(setIndex).catch((err) => setError(err.message));
+  }, [mode.key]);
 
   if (error) {
     return (
@@ -37,21 +37,28 @@ export default function CityPicker({ navigate }) {
   // Older builds of index.json predate `cities`; derive it if it's missing.
   const cities = (index.cities || []).filter((c) => c.lat != null && c.lon != null);
   const cityOf = new Map(index.listings.map((l) => [String(l.id), l.city]));
-  const played = Object.keys(loadStats().games);
+  const played = Object.keys(loadStats(mode.key).games);
+  // The rent map has six cities and can carry six labels. The buy map has
+  // forty-odd towns, where permanent labels are an unreadable pile — so past a
+  // dozen pins only the one under the finger is named, and the button grid
+  // below stays the readable index.
+  const dense = cities.length > 12;
 
   function play(cityName) {
     const pool = index.order.filter((id) => cityOf.get(String(id)) === cityName);
     const id = pickRandom(pool, played);
-    if (id) navigate(`/p/${id}`);
+    if (id) navigate(mode.playPath(id));
   }
 
   return (
     <div className="space-y-4">
       <div className="rounded-2xl bg-white p-4 shadow-xl shadow-rose-200/50 sm:p-6">
-        <h2 className="text-lg font-bold text-slate-800">Pick a city</h2>
+        <h2 className="text-lg font-bold text-slate-800">
+          Pick a {dense ? 'town' : 'city'}
+        </h2>
         <p className="mt-0.5 text-sm text-slate-500">
-          Tap a city and we&apos;ll pull a mystery listing from its pool — same
-          game, same five guesses.
+          Tap one and we&apos;ll pull a mystery {mode.subject} from its pool —
+          same game, same five guesses.
         </p>
 
         <svg
@@ -97,20 +104,22 @@ export default function CityPicker({ navigate }) {
                 <circle
                   cx={x}
                   cy={y}
-                  r={isActive ? 6 : 4.5}
+                  r={isActive ? 6 : dense ? 3.5 : 4.5}
                   className={isActive ? 'fill-brand-700' : 'fill-brand-600'}
                 />
                 <circle cx={x} cy={y} r="2" className="fill-white" />
-                <text
-                  x={labelLeft ? x - 9 : x + 9}
-                  y={y + 3.5}
-                  textAnchor={labelLeft ? 'end' : 'start'}
-                  className={`text-[9px] font-bold ${
-                    isActive ? 'fill-brand-700' : 'fill-slate-600'
-                  }`}
-                >
-                  {c.name}
-                </text>
+                {(!dense || isActive) && (
+                  <text
+                    x={labelLeft ? x - 9 : x + 9}
+                    y={y + 3.5}
+                    textAnchor={labelLeft ? 'end' : 'start'}
+                    className={`text-[9px] font-bold ${
+                      isActive ? 'fill-brand-700' : 'fill-slate-600'
+                    }`}
+                  >
+                    {c.name}
+                  </text>
+                )}
               </g>
             );
           })}
@@ -135,7 +144,8 @@ export default function CityPicker({ navigate }) {
       </div>
 
       <p className="text-center text-xs text-slate-400">
-        {index.order.length} listings across {cities.length} cities.
+        {index.order.length} listings across {cities.length}{' '}
+        {dense ? 'towns and cities' : 'cities'}.
       </p>
     </div>
   );

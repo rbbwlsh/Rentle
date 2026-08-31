@@ -1,0 +1,83 @@
+{
+ "id": "170314391",
+ "mode": "buy",
+ "displayAddress": "Stafford Street, Hanley",
+ "outcode": "ST1",
+ "incode": "1JB",
+ "latitude": 53.02592,
+ "longitude": -2.17619,
+ "priceAmount": 60000,
+ "priceLabel": "£60,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/170314391",
+ "area": "Hanley",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 245,
+  "annualGroundRent": 150,
+  "annualServiceCharge": 1765.46,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Added on 16/12/2025"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "OVERVIEW  This **for sale** open-plan **studio flat** is located in Hanley, at the heart of Stoke-on-Trent's city centre, and is particularly suited to **investors**, with a tenant in situ currently achieving £530 pcm and no onward chain.\n\nThe property comprises an open-plan studio layout incorporating the living, sleeping and kitchen areas, along with one bathroom. The open-plan kitchen and reception space provide a practical arrangement for city-centre living.\n\nSituated in Hanley City Centre, the flat offers straightforward access to local amenities including shops, supermarkets, eateries and leisure facilities around the Cultural Quarter and Potteries Shopping Centre. Central Forest Park is within easy reach, providing green space, walking routes and recreational areas.\n\nPublic transport links are readily available. Regular bus services operate from Hanley Bus Station, connecting to surrounding areas across Stoke-on-Trent and beyond. Stoke-on-Trent railway station is accessible by bus or a short drive, offering services to Birmingham (around 50 minutes on fast services) and Manchester (around 50-60 minutes), as well as longer-distance routes to London and other major cities.\n\nThe location places residents within convenient reach of local cafés, restaurants and everyday services, supporting demand for rental accommodation in the area. This studio flat offers an opportunity for buyers seeking a centrally located investment property in Hanley with an established rental income. \n\nENTRANCE HALL 12' 11\" x 10' 9\" (3.94m x 3.30m) Intercom entry system. Wall mounted electric heater.  \n\nOPEN PLAN LIVING AREA 18' 0\" x 14' 1\" (5.50m x 4.31m) Having a kitchen area fitted with wall and base units with worksurface over which incorporates a circular stainless steel sink unit, integrated oven and hob, double glazed windows, wall mounted electric heater. \n\nSHOWER ROOM 7' 1\" x 5' 1\" (2.18m x 1.56m) Modern white suite comprising; low level WC, wall mounted hand wash basin and shower unit. \n\nAGENTS NOTE  Martin and Co are required by law to conduct an Anti Money Laundering check on all buyers of a property. There will be a charge of 54.00 including VAT per person. This is non refundable and payable in advance . This charge covers the cost of the Anti Money laundering and Compliance check.",
+ "keyFeatures": [
+  "Open-plan studio layout",
+  "Tenant in situ £530 pcm",
+  " No onward chain",
+  "Walking distance to amenities",
+  "Good bus and rail links",
+  " Ideal investment property",
+  "Council Tax Band - A",
+  "Tenure - Leasehold",
+  "EPC - C"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/39a14cda3/170314391/39a14cda3540888f3494a065e339a29b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3fb8299b7/170314391/3fb8299b7ace138e3ec120e9c767ca84.jpeg",
+  "https://media.rightmove.co.uk/property-photo/affb04f18/170314391/affb04f186f8879ffc1c63e6e4373252.jpeg",
+  "https://media.rightmove.co.uk/property-photo/519a1e7b3/170314391/519a1e7b30ad1bd73b466a10b6937795.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9b004c6b9/170314391/9b004c6b9cce525d2dd3e34fe4a68db9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c96c76ef6/170314391/c96c76ef6b9aecda995d96b32d667c4e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1d7914da2/170314391/1d7914da22addfb61057689dc660a0b4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a40b02aca/170314391/a40b02aca9312a294f8eecfb20f6c980.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Stoke-on-Trent Station",
+   "miles": 1.2544053662607724,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Longport Station",
+   "miles": 1.9984453232149024,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Longton Station",
+   "miles": 2.9907220349432477,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Martin & Co, Stoke On Trent",
+ "city": "Stoke-on-Trent",
+ "sourceOutcode": "ST1",
+ "scrapedAt": "2026-08-31T14:49:32.630Z"
+}

@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { formatPcm, formatGbp } from '../format.js';
+import { formatPrice, formatGbp } from '../format.js';
 import { loadStats, setName as saveName } from '../engine/stats.js';
 import { encodeShare } from '../engine/share.js';
 import { shareGrid, TIERS, MAX_ATTEMPTS } from '../engine/engine.js';
@@ -11,6 +11,7 @@ import PersonalStats from './PersonalStats.jsx';
 // result grid, the real address, personal stats, opponent comparison, and a
 // beat-my-score link with a paste-anywhere emoji grid.
 export default function Reveal({
+  mode,
   won,
   actual,
   priceLabel,
@@ -43,11 +44,13 @@ export default function Reveal({
       </p>
 
       <div className="mt-6 rounded-xl bg-brand-50 px-4 py-5">
-        <p className="text-xs uppercase tracking-wide text-brand-600">Listed at</p>
+        <p className="text-xs uppercase tracking-wide text-brand-600">
+          {mode.revealLabel}
+        </p>
         <p
           className={`mt-1 text-4xl font-extrabold text-brand-700 ${won ? 'pop-in-late' : ''}`}
         >
-          {priceLabel || formatPcm(actual)}
+          {priceLabel || formatPrice(actual, mode)}
         </p>
         {displayAddress && (
           <p className="mt-1 text-xs text-slate-500">📍 {displayAddress}</p>
@@ -62,16 +65,22 @@ export default function Reveal({
         )}
       </div>
 
-      <ResultGrid tiers={tiers} puzzleNo={puzzleNo} won={won} />
+      <ResultGrid mode={mode} tiers={tiers} puzzleNo={puzzleNo} won={won} />
 
       {opponent && you && <OpponentResult opponent={opponent} you={you} />}
 
       <div className="mt-6">
-        <PersonalStats you={you} />
+        <PersonalStats mode={mode} you={you} />
       </div>
 
       {you && (
-        <ShareScore listingId={listingId} you={you} tiers={tiers} puzzleNo={puzzleNo} />
+        <ShareScore
+          mode={mode}
+          listingId={listingId}
+          you={you}
+          tiers={tiers}
+          puzzleNo={puzzleNo}
+        />
       )}
 
       <div className="mt-6 flex flex-col gap-2">
@@ -85,7 +94,9 @@ export default function Reveal({
             View on Rightmove ↗
           </a>
         )}
-        {city && navigate && <AnotherInCity city={city} navigate={navigate} />}
+        {city && navigate && (
+          <AnotherInCity mode={mode} city={city} navigate={navigate} />
+        )}
         <button
           onClick={onHome}
           className="min-h-[52px] rounded-xl bg-brand-600 px-4 py-3 font-semibold text-white shadow-sm transition hover:bg-brand-700"
@@ -105,12 +116,12 @@ const SQUARE_COLORS = {
 };
 
 // The visual twin of the emoji share grid: one row per guess.
-function ResultGrid({ tiers, puzzleNo, won }) {
+function ResultGrid({ mode, tiers, puzzleNo, won }) {
   if (!tiers?.length) return null;
   return (
     <div className="mt-6">
       <p className="text-xs font-semibold uppercase tracking-wide text-slate-400">
-        {puzzleNo != null ? `Rentle #${puzzleNo}` : 'Your round'} ·{' '}
+        {puzzleNo != null ? `${mode.puzzleName} #${puzzleNo}` : 'Your round'} ·{' '}
         {won ? `${tiers.length}/${MAX_ATTEMPTS}` : `X/${MAX_ATTEMPTS}`}
       </p>
       <div className="mt-2 inline-flex flex-col gap-1.5">
@@ -170,24 +181,26 @@ function OpponentResult({ opponent, you }) {
   );
 }
 
-function ShareScore({ listingId, you, tiers, puzzleNo }) {
-  const [name, setNameState] = useState(() => loadStats().name || '');
+function ShareScore({ mode, listingId, you, tiers, puzzleNo }) {
+  const [name, setNameState] = useState(() => loadStats(mode.key).name || '');
   const [copied, setCopied] = useState(false);
 
   // The score travels in the link itself — no server, so the link is ready
   // the moment the game ends and updates live as the name is typed.
-  const link = `${window.location.origin}/p/${listingId}?s=${encodeShare({
+  const link = `${window.location.origin}${mode.playPath(listingId)}?s=${encodeShare({
     name,
     ...you,
   })}`;
-  const headline = `${puzzleNo != null ? `Rentle #${puzzleNo}` : 'Rentle'} ${
+  const headline = `${
+    puzzleNo != null ? `${mode.puzzleName} #${puzzleNo}` : mode.puzzleName
+  } ${
     you.won ? `${you.attemptWon}/${MAX_ATTEMPTS}` : `X/${MAX_ATTEMPTS}`
   }`;
   const shareText = `${headline}\n${shareGrid(tiers)}`;
 
   function onNameChange(e) {
     setNameState(e.target.value);
-    saveName(e.target.value);
+    saveName(mode.key, e.target.value);
   }
 
   async function share() {
@@ -358,31 +371,31 @@ function Confetti() {
 
 // "Play another from the same city" — keeps a city session going without
 // bouncing back through the picker.
-function AnotherInCity({ city, navigate }) {
+function AnotherInCity({ mode, city, navigate }) {
   const [nextId, setNextId] = useState(null);
 
   useEffect(() => {
     if (!city) return undefined;
     let cancelled = false;
-    loadIndex()
+    loadIndex(mode.key)
       .then((index) => {
         if (cancelled) return;
         const inCity = new Set(
           index.listings.filter((l) => l.city === city).map((l) => String(l.id))
         );
         const pool = index.order.filter((id) => inCity.has(String(id)));
-        setNextId(pickRandom(pool, Object.keys(loadStats().games)));
+        setNextId(pickRandom(pool, Object.keys(loadStats(mode.key).games)));
       })
       .catch(() => {});
     return () => {
       cancelled = true;
     };
-  }, [city]);
+  }, [mode.key, city]);
 
   if (!nextId) return null;
   return (
     <button
-      onClick={() => navigate(`/p/${nextId}`)}
+      onClick={() => navigate(mode.playPath(nextId))}
       className="min-h-[52px] rounded-xl border border-brand-200 bg-white px-4 py-3 font-semibold text-brand-700 transition hover:border-brand-400"
     >
       Another in {city} →

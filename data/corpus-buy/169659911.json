@@ -1,0 +1,87 @@
+{
+ "id": "169659911",
+ "mode": "buy",
+ "displayAddress": "Great Western Place, Aberdeen, AB10",
+ "outcode": "AB10",
+ "incode": "6QL",
+ "latitude": 57.140123,
+ "longitude": -2.117123,
+ "priceAmount": 69000,
+ "priceLabel": "£69,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/169659911",
+ "area": "Aberdeen",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 463,
+  "sizeSqM": 43,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 18/08/2026"
+ },
+ "sizeSqFt": 463,
+ "sizeSqM": 43,
+ "description": "Our latest listing is a 1-bedroom flat located in Aberdeen. It is in close proximity to valuable amenities, is able to generate rewarding rental returns and has a tenant currently situated.\r\n\r\nFor investors looking to expand their portfolio, this is a fantastic opportunity!\r\n\r\nThis well-presented home features 1 bedroom, an expansive and comfortable lounge, and a clean, modern kitchen-creating an inviting space ideal for everyday living. The property also includes a contemporary three-piece bathroom, a communal rear garden space, and convenient on-street parking. Perfectly positioned close to local amenities, this charming home combines practicality, comfort, and modern appeal.\r\n\r\nInvestment details\r\n\r\nIt currently produces an annual gross income £7,620 with tenants currently situated. Considering the purchase price and the potential rental income that could be earned in future years, this will make for a worthwhile addition to an investors property portfolio.\r\n\r\nFor greater detail on this property's investment potential, please see the Let Property Pack linked below.\r\n\r\nIf you are interested, please call us.\r\n\r\nTenancy Details\r\n\r\nThe current tenants have lived in the property and have consistently paid their rent for the duration of their stay. They do not have any intentions to move out so hope to remain in the property.\r\n\r\nWe are committed to facilitating a smooth transaction process between buyer and seller. To allow for maximum commitment to the sale from both parties, a Buyers Premium will apply in order to secure a property.",
+ "keyFeatures": [
+  "On-Street Parking",
+  "Communal Rear Garden Space",
+  "Buy-to-Let Opportunity",
+  "Long Term Tenant Currently Situated",
+  "Likely to attract enquiries from Serious Investors &amp; Developers",
+  "INVESTMENT POTENTIAL DETAILED BELOW (Let Property Pack) ",
+  "Investment Opportunity"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/996a0e800/169659911/996a0e8005923d6c871de84f30deb230.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b6b923ce4/169659911/b6b923ce4a4b0186d7cb89d649cb32eb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6e2781cdd/169659911/6e2781cddaca39642c76b47ba93593f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/59b3faa95/169659911/59b3faa956016bde211c4c0838f1a9f1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/55a9252a0/169659911/55a9252a05eb6a6fb9a039342a4d9ece.jpeg",
+  "https://media.rightmove.co.uk/property-photo/37f0a8102/169659911/37f0a810296fe933a00f1bbee2e5ce03.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dab0fd968/169659911/dab0fd9688473fdfffae153707fd15ae.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b5f71c7c7/169659911/b5f71c7c71318ec876dcb1902f51a4b1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ffb9f310c/169659911/ffb9f310c25fb8925ba8ab1a54ce04b4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1dd6da6db/169659911/1dd6da6db1fa0c37ef52008af72bad15.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c5888cd68/169659911/c5888cd68e728064b6827ed2d44fd15a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a08f4d56b/169659911/a08f4d56bcd3c8b24da758da49950ea9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3b8ba22d0/169659911/3b8ba22d0cc2502e1c5b222272da2a8a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cff1855b6/169659911/cff1855b64aa9254cb3965131a6a5388.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e956340a8/169659911/e956340a8517f4c00e0213bf7d022433.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f93431731/169659911/f9343173153765e3eb869a6dac947d5c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2624dbc6b/169659911/2624dbc6b38742e1c521f10c7e8ec13d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/814aeeb81/169659911/814aeeb818dcd4a8daf8fa4cb9a6ce72.jpeg",
+  "https://media.rightmove.co.uk/property-photo/456afc66f/169659911/456afc66ff705c260577df72c7b7e8d1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/78a5ae3bb/169659911/78a5ae3bba4773d85a5ab9237515775f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/08a87ef41/169659911/08a87ef415c154395a91ce346774a27b.jpeg"
+ ],
+ "imageCount": 21,
+ "nearestStations": [
+  {
+   "name": "Aberdeen Station",
+   "miles": 0.7356815424729465,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Dyce Station",
+   "miles": 5.342341668286224,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Let Property Sales & Management, Glasgow",
+ "city": "Aberdeen",
+ "sourceOutcode": "AB10",
+ "scrapedAt": "2026-08-31T14:58:33.432Z"
+}

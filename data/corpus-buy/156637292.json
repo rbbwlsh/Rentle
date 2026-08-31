@@ -1,0 +1,74 @@
+{
+ "id": "156637292",
+ "mode": "buy",
+ "displayAddress": "Broad Street, Northampton, NN1",
+ "outcode": "NN1",
+ "incode": "2HS",
+ "latitude": 52.241278,
+ "longitude": -0.899516,
+ "priceAmount": 112000,
+ "priceLabel": "£112,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/156637292",
+ "area": "Northampton",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 667,
+  "sizeSqM": 62,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": "Fixed Price",
+  "listingUpdate": "Reduced on 24/08/2026"
+ },
+ "sizeSqFt": 667,
+ "sizeSqM": 62,
+ "description": "Our latest listing is a 2 2-bedroom flat located in Northampton. It is near valuable amenities, can generate rewarding rental returns, and has a tenant currently situated.\r\n\r\nFor investors looking to expand their portfolio, this is a fantastic opportunity!\r\n\r\nThis well-kept home features 2 bedrooms, a modern kitchen, and a spacious lounge.\r\n\r\nInvestment details\r\n\r\nIt currently produces an annual gross income of £10,800 which could be increased by the new owner to a market rate of £13,800 with long-term tenants currently situated. Considering the purchase price, this will make for a worthwhile addition to an investor's property portfolio.\r\n\r\nPlease see the Let Property Pack linked below for greater detail on this property's investment potential.\r\n\r\nIf you are interested, please call us.\r\n\r\nTenancy Details\r\n\r\nThe current tenants have lived in the property for several years and have consistently paid their rent for the duration of their stay. They do not have any intentions to move out so hope to remain in the property.\r\n\r\nWe are committed to facilitating a smooth transaction process between buyer and seller. To allow for maximum commitment to the sale from both parties, a Buyers Premium will apply in order to secure a property.",
+ "keyFeatures": [
+  "Buy-to-Let Opportunity",
+  "Long Term Tenant Currently Situated",
+  "Likely to attract enquiries from Serious Investors &amp; Developers",
+  "Spacious Lounge",
+  "Modern Kitchen",
+  "INVESTMENT POTENTIAL DETAILED BELOW (Let Property Pack) ",
+  "Investment Opportunity"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/2ff3eaa02/156637292/2ff3eaa028951c9c5c386bb37685f448.jpeg",
+  "https://media.rightmove.co.uk/property-photo/83b106c8f/156637292/83b106c8fbc0eda68e3cf602e6abebe0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6b0602d7f/156637292/6b0602d7f9f40b6fb66c951fc5ecf790.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9b5b67af1/156637292/9b5b67af190be2bf8be6fdcf59832cb9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bc5fc2b8f/156637292/bc5fc2b8f2451051c9cf7f398a5ed9a0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9dd082937/156637292/9dd08293774009ab668aafdc3da1aa92.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1a4f8e447/156637292/1a4f8e447d692594cdfae7d46e953a7f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f74247eab/156637292/f74247eab734cc9be7487565f70a251c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b881bb190/156637292/b881bb190572ed8ad95d4fe9481dc7fc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1e0cad2ce/156637292/1e0cad2cedb33d0b2dbd08ed1ce1c380.jpeg",
+  "https://media.rightmove.co.uk/property-photo/332a132ce/156637292/332a132cef3df6634178feb9b03d4f05.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2a0376959/156637292/2a03769592b149f0517fb0ba91b0e37e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/97ab9fec5/156637292/97ab9fec5c64b48d4aa62477cd6b351a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ac3a807fa/156637292/ac3a807fadc80e193058e4ff020ef3b4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/458755c82/156637292/458755c8273cb44c5bc7bfa6591f89f3.jpeg"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Northampton Station",
+   "miles": 0.387635928554156,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Let Property Sales & Management, Glasgow",
+ "city": "Northampton",
+ "sourceOutcode": "NN1",
+ "scrapedAt": "2026-08-31T15:00:49.192Z"
+}

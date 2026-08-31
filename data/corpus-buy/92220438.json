@@ -1,0 +1,75 @@
+{
+ "id": "92220438",
+ "mode": "buy",
+ "displayAddress": "Liberty House, Liberty Lane, Hull",
+ "outcode": "HU1",
+ "incode": "1AY",
+ "latitude": 53.74225,
+ "longitude": -0.33165,
+ "priceAmount": 140000,
+ "priceLabel": "£140,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92220438",
+ "area": "Liberty House, Hull",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 992,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 2112,
+  "councilTaxBand": null,
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 20/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Welcome to Liberty House, a modern apartment located in the heart of Hull's Old Town. This stylish two-bedroom, two-bathroom apartment, developed in 2019, offers a perfect blend of contemporary living and urban convenience. \n\nAs you enter, you will find a spacious reception room that is both inviting and functional, ideal for relaxing or entertaining guests. The apartment comes fully furnished, allowing you to move in with ease and enjoy your new home from day one. The two well-appointed bedrooms provide ample space for rest, while the two bathrooms ensure comfort and privacy for you and your guests.\n\nOne of the standout features of this property is the designated parking space, a rare find in the city centre, making it convenient for those who drive. Whether you are looking for a new home or an investment opportunity, this apartment is versatile. The property is currently vacant, or if you prefer, it can be purchased with a tenant already in place, paying a rent of £1,150 per calendar month. This arrangement offers an impressive gross return of nearly 10%, making it an attractive option for investors.\n\nLiberty House is perfectly situated to enjoy all that Hull's vibrant city centre has to offer, with shops, restaurants, and cultural attractions just a stone's throw away. This property is not just a home; it is a lifestyle choice in a thriving community. Don't miss the chance to make this exceptional apartment your own or to add it to your investment portfolio",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a823a476a/92220438/a823a476a058c3e9b00121bfaea1308e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0f06affa5/92220438/0f06affa51faf6305d672592303bf8bb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/20367d62a/92220438/20367d62a48db68e378e16bad71a1b34.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aab05b3aa/92220438/aab05b3aa59405e129d07d9a73be77b7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ef44c4c8c/92220438/ef44c4c8cc3d362ab634d9e17123e4f4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/438c4d143/92220438/438c4d14393e298090f2494254260854.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c7fb1de2e/92220438/c7fb1de2e039a4a64e0b13e960a8f701.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c2c83f10d/92220438/c2c83f10d4a210fd11ed6445d82a2a78.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b63d2c7ce/92220438/b63d2c7ced0e03a240f1d793bc5eef05.jpeg",
+  "https://media.rightmove.co.uk/property-photo/16431efcc/92220438/16431efcc6704c569bb04bbc50dd4971.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Hull Station",
+   "miles": 0.5944819743139734,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "New Holland Station",
+   "miles": 3.0234574491093653,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Barrow Haven Station",
+   "miles": 3.9700190393256567,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "MyPad, Hull",
+ "city": "Hull",
+ "sourceOutcode": "HU1",
+ "scrapedAt": "2026-08-31T14:59:24.145Z"
+}

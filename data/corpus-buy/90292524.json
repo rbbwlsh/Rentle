@@ -1,0 +1,64 @@
+{
+ "id": "90292524",
+ "mode": "buy",
+ "displayAddress": "Dryden Road, Peterborough",
+ "outcode": "PE1",
+ "incode": "3JF",
+ "latitude": 52.59759,
+ "longitude": -0.25307,
+ "priceAmount": 260000,
+ "priceLabel": "£260,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90292524",
+ "area": "Peterborough",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Semi-Detached",
+ "details": {
+  "propertyType": "Semi-Detached",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "SUMMARY\nStylish and modern three-bedroom semi-detached home finished to a high standard, featuring a useful utility room and well-maintained outdoor space, ideal for comfortable family living.\n\nDESCRIPTION\nEntrance\n\nLounge \n\nDining Room \n\nKitchen \n\nUtility Room\n\nW/C\n\nBedroom One\n\nBedroom Two \n\nBedroom Three\n\nBathroom\n\nAgents Note\nPlease note that the AML fee covers the cost of carrying out the required identity and anti-money laundering checks. Once these checks have been completed, the fee cannot be refunded, even if the property purchase does not go ahead.\n\n1. MONEY LAUNDERING REGULATIONS: Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale.\r\n2. General: While we endeavour to make our sales particulars fair, accurate and reliable, they are only a general guide to the property and, accordingly, if there is any point which is of particular importance to you, please contact the office and we will be pleased to check the position for you, especially if you are contemplating travelling some distance to view the property.\r\n3. The measurements indicated are supplied for guidance only and as such must be considered incorrect.\r\n4. Services: Please note we have not tested the services or any of the equipment or appliances in this property, accordingly we strongly advise prospective buyers to commission their own survey or service reports before finalising their offer to purchase.\r\n5. THESE PARTICULARS ARE ISSUED IN GOOD FAITH BUT DO NOT CONSTITUTE REPRESENTATIONS OF FACT OR FORM PART OF ANY OFFER OR CONTRACT. THE MATTERS REFERRED TO IN THESE PARTICULARS SHOULD BE INDEPENDENTLY VERIFIED BY PROSPECTIVE BUYERS OR TENANTS. NEITHER SHARMAN QUINNEY NOR ANY OF ITS EMPLOYEES OR AGENTS HAS ANY AUTHORITY TO MAKE OR GIVE ANY REPRESENTATION OR WARRANTY WHATEVER IN RELATION TO THIS PROPERTY.",
+ "keyFeatures": [
+  "Semi-detached property",
+  "Three well-proportioned bedrooms",
+  "Contemporary interior throughout",
+  "Handy utility room",
+  "Driveway with front and rear gardens"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/4d51a7344/90292524/4d51a73441f694993c12c452c58b92e1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1f0ab0d35/90292524/1f0ab0d356048f80eddf96caeb1e0550.jpeg",
+  "https://media.rightmove.co.uk/property-photo/679930607/90292524/679930607b8a4d62d8f8440019e8fa36.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1f47950b3/90292524/1f47950b37a0b2ea978fb4f30bcb1f3f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ba2120d34/90292524/ba2120d34e6e99367dbcdc2a9d4ac821.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0cac32e2c/90292524/0cac32e2c1c6f02df1faeff3049c416d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6499764cb/90292524/6499764cb383ffe22cd84de64a44e837.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Peterborough Station",
+   "miles": 1.5805010170647975,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Sharman Quinney, Peterborough",
+ "city": "Peterborough",
+ "sourceOutcode": "PE1",
+ "scrapedAt": "2026-08-31T16:53:37.949Z"
+}

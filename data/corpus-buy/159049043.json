@@ -1,0 +1,87 @@
+{
+ "id": "159049043",
+ "mode": "buy",
+ "displayAddress": "Stuart Street, Derby, Derbyshire",
+ "outcode": "DE1",
+ "incode": "2EB",
+ "latitude": 52.9259,
+ "longitude": -1.474455,
+ "priceAmount": 120000,
+ "priceLabel": "£120,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/159049043",
+ "area": "Derby, Derbyshire",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 29/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "*** BALCONY WITH RIVER VIEW ** A two bedroom luxury FIRST FLOOR apartment in the prestigious Riverside House Development. The property has the benefit of double glazing, spacious living accommodation, secure gated parking, two double bedrooms and views over Derby City. In brief the property comprises of entrance hallway, spacious lounge, dining and kitchen areas, two double bedrooms, one with en-suite shower room, and the bathroom. Outside the property has one parking space. The property is located within moments of Derby city centre, the ring road and A52 road networks. Early possession of this stunning apartment is available and viewings are highly recommended. Offered with NO UPWARD CHAIN.",
+ "keyFeatures": [
+  "First Floor Apartment",
+  "Two Bedrooms",
+  "En-Suite To The Master",
+  "Allocated Parking Within A Secure Residents Carpark Double glazing",
+  "Open Plan Lounge Diner Kitchen With Balcony",
+  "City Centre Location",
+  "Council Tax Band B"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a4aefec2a/159049043/a4aefec2ab53fabc8c7dc9f7fff0b346.jpeg",
+  "https://media.rightmove.co.uk/property-photo/17570e0ea/159049043/17570e0ea66723852f45316ecd520e8b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a302c5f8c/159049043/a302c5f8cdc5f775f4140d3781b071dd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0942d26ae/159049043/0942d26ae0d3d18f0908291a4b81f6c3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8109582ff/159049043/8109582ff3286d2fe414080b95b7bfa4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3ff2e3080/159049043/3ff2e3080a3f675308618267fbf03e42.jpeg",
+  "https://media.rightmove.co.uk/property-photo/22589782b/159049043/22589782b55b135affb6879788229716.jpeg",
+  "https://media.rightmove.co.uk/property-photo/287825052/159049043/287825052238ebb8a88b7318cff33d84.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9cdeadc44/159049043/9cdeadc4471915f2c7682f9351876a54.jpeg",
+  "https://media.rightmove.co.uk/property-photo/834e8c4aa/159049043/834e8c4aa6ea22549aa8ff065f0ee424.jpeg",
+  "https://media.rightmove.co.uk/property-photo/417bdc58b/159049043/417bdc58b44861e4f72a0123e9f36c3c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1eed24fe1/159049043/1eed24fe1ad7f469736acfe07aee062a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/81c586f33/159049043/81c586f3352152128f19a74f3e7a8471.jpeg",
+  "https://media.rightmove.co.uk/property-photo/233bd501a/159049043/233bd501a8213b66ea0538418b2bfb60.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Derby Station",
+   "miles": 0.8223036781754673,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Peartree Station",
+   "miles": 1.9339228447097452,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Spondon Station",
+   "miles": 2.8385817931421884,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Leaders Sales, Derby",
+ "city": "Derby",
+ "sourceOutcode": "DE1",
+ "scrapedAt": "2026-08-31T15:00:44.772Z"
+}

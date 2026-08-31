@@ -1,0 +1,75 @@
+{
+ "id": "91490613",
+ "mode": "buy",
+ "displayAddress": "Navigation Road, York",
+ "outcode": "YO1",
+ "incode": "9AE",
+ "latitude": 53.956531,
+ "longitude": -1.072013,
+ "priceAmount": 180000,
+ "priceLabel": "£180,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91490613",
+ "area": "York",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": 264,
+  "sizeSqM": 25,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 192,
+  "annualGroundRent": 300,
+  "annualServiceCharge": 1852,
+  "councilTaxBand": "B",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 31/07/2026"
+ },
+ "sizeSqFt": 264,
+ "sizeSqM": 25,
+ "description": "A stylish first floor studio apartment forming part of the beautifully converted Cocoa Suites development, ideally positioned on the banks of the River Foss within York city centre. Currently operating as a popular holiday let through Stays York, the property achieves approximately 80% occupancy, with gross income figures of around £22,000 per annum, making it an excellent opportunity for investors seeking an established city centre rental.\n\nThe apartment has been thoughtfully designed to maximise the available space and offers contemporary, well presented accommodation throughout. The open plan living area incorporates a modern fitted kitchen with elegant quartz worktops, luxury tiled flooring and a charming bistro dining space.\n\nA wall mounted double bed can be folded away when not in use, creating a flexible and spacious living area, complemented by a wall mounted smart television. The accommodation is completed by a stylish, fully tiled shower room featuring a walk in wet room style shower.\n\nCombining an attractive riverside setting with immediate access to York’s extensive shops, restaurants, attractions and transport links, Cocoa Suites 52 is superbly placed for the city centre. Its established popularity as a holiday let, strong occupancy levels and proven income make this an appealing turnkey investment opportunity, with early viewing highly recommended.\n\nLeasehold\nLength of lease- 192 years remaining \nGround rent - £300 PA\nGround rent review period- Fixed\nService Charge- £1,852 PA\n\nAnti-Money Laundering Compliance - We are legally required to conduct Anti Money Laundering checks on all purchasers, sellers, and giftors. These checks become mandatory when a seller accepts a purchaser's offer on a property. Anti-Money Laundering checks are valid for 6 months from the date they are completed. If your purchase does not proceed and you make an offer on another property more than 6 months later, or if your checks are more than 6 months old when making a new offer, you will need to complete and pay for new checks. We use a partner supplier MoveButler, to carry out these checks on our behalf. They will contact you directly once your offer has been accepted (subject to contract) to complete the electronic verification process securely. There is a non-refundable charge of £30 + VAT per purchaser and per giftor for these checks.. This fee must be paid before we can issue a memorandum of sale to solicitors and is non-refundable under any circumstances. Ashtons receive a portion of this fee from MoveButler as compensation for facilitating these checks and our administrative role in the compliance process.",
+ "keyFeatures": [
+  "First Floor Apaerment",
+  "River Views",
+  "Popular Holiday Let",
+  "Modern Kitchen and Bathroom",
+  "No Onward Chain",
+  "Gross Income Approximately £22,000 Per Annum",
+  "EPC D"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d0f787517/91490613/d0f7875177601978a3c72a99af8ed189.jpeg",
+  "https://media.rightmove.co.uk/property-photo/293563d20/91490613/293563d208877fa0e33c69a3018934c1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/021b2e936/91490613/021b2e9361ae02af87c40911774c9a7c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/70fd90202/91490613/70fd9020256a9b3130f4acf9357a1cd1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/80d8f98a5/91490613/80d8f98a55a87e15152668346590fb28.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ae2b23b1c/91490613/ae2b23b1c250f03b4dd8985442af6340.jpeg",
+  "https://media.rightmove.co.uk/property-photo/39b786c43/91490613/39b786c4306f20960aa26982ec304b83.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e857f4bf2/91490613/e857f4bf2d0c73f94cd642bdb8b2c362.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7f55d473c/91490613/7f55d473c0047df68b299d6745d0fff1.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "York Station",
+   "miles": 0.8691971505678631,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Poppleton Station",
+   "miles": 3.3872068630495327,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Ashtons Estate Agents, York",
+ "city": "York",
+ "sourceOutcode": "YO1",
+ "scrapedAt": "2026-08-31T14:47:28.512Z"
+}

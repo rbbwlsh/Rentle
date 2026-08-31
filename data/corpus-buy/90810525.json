@@ -1,0 +1,84 @@
+{
+ "id": "90810525",
+ "mode": "buy",
+ "displayAddress": "Hampshire Street, Portsmouth",
+ "outcode": "PO1",
+ "incode": "5LG",
+ "latitude": 50.80597,
+ "longitude": -1.07479,
+ "priceAmount": 230000,
+ "priceLabel": "£230,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90810525",
+ "area": "Portsmouth",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "End of Terrace",
+ "details": {
+  "propertyType": "End of Terrace",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 13/07/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "SUMMARY\nSituated along the ever-popular Hampshire Street in Portsmouth, this well-presented two-bedroom mid-terraced home offers a fantastic opportunity for first-time buyers, investors, or those looking to downsize.\n\nDESCRIPTION\nThe accommodation comprises a welcoming living room, a separate dining room providing an ideal space for entertaining, and a fitted kitchen with a range of storage and work surfaces. The ground floor also benefits from a cloakroom.\n\nUpstairs, there are two well-proportioned double bedrooms and a family bathroom.\n\nExternally, the property benefits from a low-maintenance enclosed rear garden, perfect for outdoor dining and relaxation. Additional benefits include double glazing and gas central heating throughout.\n\nConveniently located within easy reach of local shops, schools, transport links, and Portsmouth city centre, this charming home combines comfortable living with excellent accessibility.\n\nPlease note that an AML fee is chargeable to the buyer once an offer is accepted to cover the cost of carrying out the required identity and anti-money laundering checks. Once these checks have been completed, the fee cannot be refunded, even if the property purchase does not go ahead.\n\nEntrance Hall \n\nDining Room 13' 8\" x 9' 7\" ( 4.17m x 2.92m )\n\nLiving Room 12' 9\" x 11' 5\" ( 3.89m x 3.48m )\n\nKitchen 9' 11\" x 9' 10\" ( 3.02m x 3.00m )\n\nBedroom One 12' 6\" x 11' 5\" ( 3.81m x 3.48m )\n\nBedroom Two 11' 6\" x 9' 7\" ( 3.51m x 2.92m )\n\nBathroom \n\n1. MONEY LAUNDERING REGULATIONS: Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale.\r\n2. General: While we endeavour to make our sales particulars fair, accurate and reliable, they are only a general guide to the property and, accordingly, if there is any point which is of particular importance to you, please contact the office and we will be pleased to check the position for you, especially if you are contemplating travelling some distance to view the property.\r\n3. The measurements indicated are supplied for guidance only and as such must be considered incorrect.\r\n4. Services: Please note we have not tested the services or any of the equipment or appliances in this property, accordingly we strongly advise prospective buyers to commission their own survey or service reports before finalising their offer to purchase.\r\n5. THESE PARTICULARS ARE ISSUED IN GOOD FAITH BUT DO NOT CONSTITUTE REPRESENTATIONS OF FACT OR FORM PART OF ANY OFFER OR CONTRACT. THE MATTERS REFERRED TO IN THESE PARTICULARS SHOULD BE INDEPENDENTLY VERIFIED BY PROSPECTIVE BUYERS OR TENANTS. NEITHER SEQUENCE (UK) LIMITED NOR ANY OF ITS EMPLOYEES OR AGENTS HAS ANY AUTHORITY TO MAKE OR GIVE ANY REPRESENTATION OR WARRANTY WHATEVER IN RELATION TO THIS PROPERTY.",
+ "keyFeatures": [
+  "Two Bedrooms",
+  "Upstairs Bathroom",
+  "Downstairs W/C",
+  "Low Maintenance Rear enclosed garden",
+  "Perfect for first time buyers",
+  "Close to amenities and transport links"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c644c1174/90810525/c644c1174e2271f2834dedf2ea59949a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/abf3ec128/90810525/abf3ec1289594827183232dbc4209526.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6953cbbd1/90810525/6953cbbd18b9a1a8d070e98af2d582d1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fd321ec61/90810525/fd321ec618176572b2a0a3fe18bd6f4f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/13e933d5c/90810525/13e933d5c9fa024ba35b54a0dde0542e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/17e23c2ed/90810525/17e23c2edef3d5345675ea726a886998.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7ffe2d066/90810525/7ffe2d0662d02f95350bf225b89292f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9d7a4a55f/90810525/9d7a4a55f8eff0beee4a8b56b5c0aa5e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6979617f3/90810525/6979617f3bbe175a8dddbe8aa82e3f94.jpeg",
+  "https://media.rightmove.co.uk/property-photo/61c7530cc/90810525/61c7530cc8d8700492a1fa88d758cd57.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6ba6c4228/90810525/6ba6c422877c49bd7f5f9852b83e0a71.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bdcd5740b/90810525/bdcd5740b431dafec17f5ed4fe9ee69c.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Fratton Station",
+   "miles": 0.6729664068654383,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Portsmouth & Southsea Station",
+   "miles": 0.8595328414500364,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Portsmouth Harbour Station",
+   "miles": 1.5444759918270499,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Fox & Sons, Portsmouth",
+ "city": "Portsmouth",
+ "sourceOutcode": "PO1",
+ "scrapedAt": "2026-08-31T15:02:19.373Z"
+}

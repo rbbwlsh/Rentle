@@ -1,0 +1,85 @@
+{
+ "id": "92516652",
+ "mode": "buy",
+ "displayAddress": "Ingram Street, Glasgow, Glasgow City, G1",
+ "outcode": "G1",
+ "incode": "1DJ",
+ "latitude": 55.85937,
+ "longitude": -4.24634,
+ "priceAmount": 155000,
+ "priceLabel": "£155,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92516652",
+ "area": "Glasgow, Glasgow City",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "C",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "An exceptional delight of interior loveliness, this aesthetically pleasing third floor flat is one of the Merchant City's residential Crown Jewels. A signature landmark, built in 1854 in a gloriously flamboyant Victorian Baronial style, the building originally housed an early department store J &W Campbell.  The property offers secure access to communal hallway, inner hall, light and bright living space with French doors, stunning re-fitted kitchen off and to rear, stylish double bedroom and quality refitted shower-room. In addition, the property has good storage and qualifies for resident's permit parking",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/713ffc328/92516652/713ffc328dc8fde5225f997a7076688d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/893e779ba/92516652/893e779ba82b822569db40c91a0bbcd2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/31ef1110b/92516652/31ef1110b18342001895cd36e4bdc608.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e13ebbeac/92516652/e13ebbeaca70a167ebc125f56a419a8a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/67cc86b4f/92516652/67cc86b4f6f217d13e0f47b5c3d02b76.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ab3aab917/92516652/ab3aab917e79e5cab9c6eb5f3e8f9471.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5c983f765/92516652/5c983f765c403a6d4a5db6dc09abbd7a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6dc300897/92516652/6dc300897f002e3b36b58fe67f1317d8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/167d239d3/92516652/167d239d3f628813a5a78894a814827a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8eb3ea611/92516652/8eb3ea611de466883cec7d0a02409a50.jpeg",
+  "https://media.rightmove.co.uk/property-photo/08f42cbcc/92516652/08f42cbcc9e386ea376902b286fc5f0e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/adefbf3ea/92516652/adefbf3eae35cf4e3ee143b8a6e62072.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1b5cc39b2/92516652/1b5cc39b2b43216383553cd3a1de6638.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5abaf2a6f/92516652/5abaf2a6fce9a44ba355dcfd5fa9b11e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/abc14fbfb/92516652/abc14fbfb6a77de883c7dbc828503cea.jpeg",
+  "https://media.rightmove.co.uk/property-photo/48d7b6599/92516652/48d7b65991c2877fd35676ee2dec7d10.jpeg",
+  "https://media.rightmove.co.uk/property-photo/62871a576/92516652/62871a576893c47bf48427a793ba4fcc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2fc2e9a4b/92516652/2fc2e9a4ba740527d05d39d61af386cd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6268e41d9/92516652/6268e41d9f7796fee167c9aeecb04cf7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5c222d8f3/92516652/5c222d8f359ca6feafb78351fc392966.jpeg"
+ ],
+ "imageCount": 20,
+ "nearestStations": [
+  {
+   "name": "High Street (Glasgow) Station",
+   "miles": 0.2425578694658226,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Argyle Street Station",
+   "miles": 0.25209581605623915,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Glasgow Queen Street Station",
+   "miles": 0.27175291753737185,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Slater Hogg & Howison, City Centre, Glasgow",
+ "city": "Glasgow",
+ "sourceOutcode": "G1",
+ "scrapedAt": "2026-08-31T15:03:09.924Z"
+}

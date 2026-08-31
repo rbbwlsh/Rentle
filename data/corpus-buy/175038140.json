@@ -1,0 +1,83 @@
+{
+ "id": "175038140",
+ "mode": "buy",
+ "displayAddress": "High Street, Southampton, Hampshire, SO14",
+ "outcode": "SO14",
+ "incode": "2NW",
+ "latitude": 50.89767,
+ "longitude": -1.403683,
+ "priceAmount": 145000,
+ "priceLabel": "£145,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/175038140",
+ "area": "Southampton, Hampshire",
+ "bedrooms": 1,
+ "bathrooms": null,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 104,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 27/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "The modern and stylish accommodation on offer comprises a fantastic open-plan lounge and kitchen dining area, complete with its very own generous-sized private balcony, accessed from both the lounge and the principal bedroom.\n\n\rThe contemporary kitchen is well equipped with a built-in hob, oven, fridge freezer, dishwasher and washing machine, making it both practical and appealing for modern living.\n\nThe principal bedroom benefits from a handy built-in wardrobe and is served by a well-fitted bathroom.\n\nThis apartment is an ideal first home, while also representing an excellent opportunity for those looking to downsize or for buy-to-let landlords alike. The property is offered with no forward chain and further benefits from an allocated parking space.\n\nLeasehold\nUnexpired Years: 105\nAnnual Ground Rent: £200\nGround Rent Increase: TBC\nGround Rent Review Period: TBC \nAnnual Service: £3148\nThese details are to be confirmed by the vendor's solicitor and must be verified by a buyer's solicitor.\n\nADDITIONAL INFORMATION\n\nMaterials used in construction:  Concrete Brick\n\nNo gas to the property\n\nHave any alterations or improvements been carried out during the current ownership? Cladding has been changed to be compliant\n\nFor further information on broadband and mobile coverage, please refer to the Ofcom Checker online\n\nShould a purchaser(s) have an offer accepted on a property marketed by Charters Estate Agents, they will need to undertake an identification check. This is done to meet our obligation under Anti Money Laundering Regulations (AML) and is a legal requirement. We use a specialist third party service to verify your identity. The cost of these checks is £60 inc. VAT per purchaser, which is paid in advance, when an offer is agreed and prior to a sales memorandum being issued. This charge is non-refundable under any circumstances.\n\nTelephone House is ideally situated in the heart of Southampton City Centre on the historic High Street, offering excellent access to a wide range of shops, restaurants, cafés and leisure facilities. Westquay Shopping Centre, Ocean Village Marina and Mayflower Park are all within easy walking distance. Southampton Central railway station and the M3/M27 motorway networks are also conveniently accessible, making this an ideal location for city living and commuting alike.",
+ "keyFeatures": [
+  "Well-presented 5th floor apartment",
+  "City centre location",
+  "Open plan living accommodation",
+  "Large private balcony",
+  "Double bedroom with built in wardrobes",
+  "Well-maintained bathroom",
+  "No forward chain",
+  "Allocated parking space"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/48d2d4b57/175038140/48d2d4b578f88a7629ea3c32a92cf8e3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7179deb7c/175038140/7179deb7ca0312cb7dfd8fd437dfa325.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb0ca1ed0/175038140/bb0ca1ed0fa0aa44dceca2449f402df2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a9b3be89a/175038140/a9b3be89a4e6d065ef4ba63704c3b514.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fe37bae48/175038140/fe37bae4812bebb38717a9e2b0f415b0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9ccc29aa1/175038140/9ccc29aa1dd673126f1f5d07e46fe963.jpeg",
+  "https://media.rightmove.co.uk/property-photo/119d8f1b5/175038140/119d8f1b503d6f888710601788311256.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a85725d96/175038140/a85725d96e14aee6cf2b06a8b4c30d7c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/63f5718ae/175038140/63f5718aee87141545e5451240255c42.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Southampton Central Station",
+   "miles": 0.815173735987988,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Woolston Station",
+   "miles": 1.1653875161807041,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Millbrook Station",
+   "miles": 1.652497864387523,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Charters, Southampton",
+ "city": "Southampton",
+ "sourceOutcode": "SO14",
+ "scrapedAt": "2026-08-31T14:57:29.725Z"
+}

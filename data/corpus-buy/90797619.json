@@ -1,0 +1,84 @@
+{
+ "id": "90797619",
+ "mode": "buy",
+ "displayAddress": "Vincent Drive, Edgbaston",
+ "outcode": "B15",
+ "incode": "2SU",
+ "latitude": 52.448979,
+ "longitude": -1.945412,
+ "priceAmount": 110000,
+ "priceLabel": "£110,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90797619",
+ "area": "Edgbaston",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 119,
+  "annualGroundRent": 10,
+  "annualServiceCharge": 1000,
+  "councilTaxBand": "A",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 17/07/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "GUIDE PRICE £110,000 - £130,000\nA spacious three-bedroom apartment situated on the first floor of Windermere House, offering well-proportioned accommodation with strong potential. The property features a bright living area, good-sized bedrooms, and a versatile layout throughout.\n\nKey Features:\n\nCash buyers only\nThree well-proportioned bedrooms\nBright and spacious living area\nWell-connected and convenient location\nClose to Queen Elizabeth Hospital\nNear Sainsbury’s Retail Park\nWithin easy reach of Birmingham City University\nExcellent transport links and local amenities\nStrong investment potential\n\nThis property is offered strictly to cash buyers only and represents a strong opportunity for investors or purchasers seeking a project in a highly convenient and well-connected location, with excellent access to key institutions and Birmingham City Centre.",
+ "keyFeatures": [
+  "Spacious",
+  "Three-bedroom",
+  "Bright",
+  "Versatile",
+  "Well-located",
+  "Transport-links",
+  "Investment",
+  "University-proximity",
+  "Hospital-nearby"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/97e19abed/90797619/97e19abed588ca664309da9326d876f4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c649a6efa/90797619/c649a6efa8ab80fc2a82ab42809cfca0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/943a73c43/90797619/943a73c43f8332843bb8e6c12278c4b1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b656ede6d/90797619/b656ede6d3bb419365305edfaf446e8e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/26e3aa179/90797619/26e3aa1798286780c1aefab00d42461e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3dc1d917c/90797619/3dc1d917c349c4f381b9511752120452.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e7940e0e8/90797619/e7940e0e8fcddd34f441dee7573e3b25.jpeg",
+  "https://media.rightmove.co.uk/property-photo/671744136/90797619/671744136c9bc152e4917118ffc545e3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0781f89d0/90797619/0781f89d015d22f84de7b96d23ad2dbd.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "University Station",
+   "miles": 0.4168699243456177,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Selly Oak Station",
+   "miles": 0.7042026230682629,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bournville Station",
+   "miles": 1.72716073328524,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "haart, Harborne",
+ "city": "Birmingham",
+ "sourceOutcode": "B15",
+ "scrapedAt": "2026-08-31T16:58:24.396Z"
+}

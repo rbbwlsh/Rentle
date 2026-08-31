@@ -1,0 +1,86 @@
+{
+ "id": "92435769",
+ "mode": "buy",
+ "displayAddress": "Bath Road, Bournemouth, Dorset, BH1",
+ "outcode": "BH1",
+ "incode": "2HP",
+ "latitude": 50.719215,
+ "longitude": -1.871447,
+ "priceAmount": 450000,
+ "priceLabel": "£450,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92435769",
+ "area": "Bournemouth, Dorset",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": 1679,
+  "sizeSqM": 156,
+  "tenureType": "SHARE_OF_FREEHOLD",
+  "yearsRemainingOnLease": 955,
+  "annualGroundRent": null,
+  "annualServiceCharge": 5408,
+  "councilTaxBand": "E",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 27/08/2026"
+ },
+ "sizeSqFt": 1679,
+ "sizeSqM": 156,
+ "description": "A rarely available bright and spacious first floor flat, beautifully appointed in excellent condition, nestled in the heart of vibrant Bournemouth. With an impressive 1,685 sqft of living space, this stylish residence is accessed via lift and provides the perfect blend of comfort and convenience.\n\nInside, the property features three generously proportioned double bedrooms and two sleek, contemporary bathrooms. The expansive lounge flows seamlessly into a dining hall, creating a wonderful space for both entertaining guests and relaxing with family. The modern kitchen breakfast room is designed with both style and function in mind, offering ample worktop space and quality fixtures—ideal for cooking up a storm or enjoying a morning coffee.\n\nStep outside onto your private balcony and take in the fresh coastal air. Additional features include resident parking with CCTV, ensuring your vehicle’s security at all times. The building also benefits from a dedicated concierge, adding that extra peace of mind and practicality.\n\nLocated just moments from Bournemouth’s renowned beach and scenic seafront, this home is perfectly positioned for those who savour the coastal lifestyle. The bustling town centre, with its array of shops, cafes, and restaurants, is only a short stroll away, while excellent transport links make commuting and exploring the surrounding area effortless.\n\nProperties of this calibre and location are rarely available.\n\nLocation:\nNestled along Dorset’s stunning south coast, blend seaside charm with vibrant culture. \nBournemouth is a lively resort town boasting award-winning sandy beaches, a bustling pier, and scenic coastal walks. The town offers a dynamic mix of entertainment, arts, and nightlife, while also featuring tranquil parks and historic landmarks. Together, Westbourne and Bournemouth provide a unique blend of relaxation, sophistication, and seaside fun.\n\nThe Bournemouth Wessex Way is very close and gives direct access to the M27 motorway with London a circa 2 hour commute. There are also main line train routes from either Poole or Bournemouth railway stations which connect the Weymouth to London Waterloo South West train service.  \n\nThe vast majority of Bournemouth & Poole enjoy access to 5G network coverage and ultra-fast internet, however we recommend you check each postcode on",
+ "keyFeatures": [
+  "First floor with lift",
+  "Three double bedrooms",
+  "Large lounge &amp; dining hall",
+  "Kitchen breakfast room",
+  "Two modern bathrooms",
+  "Balcony",
+  "Resident parking",
+  "Concierge"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/bc7221400/92435769/bc7221400c17131c015b1988e9f54c3c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5942e3daa/92435769/5942e3daa3b6661bdca48b2095da6a6f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cf663ad68/92435769/cf663ad68364ff3ea4dc0cba59e47f5f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d0fd8878d/92435769/d0fd8878df51b9fa449f33b65c1cacc9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fda160135/92435769/fda1601354c4ecf3dd7321dd1314367f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/14edb5c7d/92435769/14edb5c7d4a1083d41bc013e7442d899.jpeg",
+  "https://media.rightmove.co.uk/property-photo/330ea7ec4/92435769/330ea7ec482f0bf7cf786aebaa82a885.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b0fd842e2/92435769/b0fd842e22d84e441455538ee540eacd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c811d9f93/92435769/c811d9f9383cd829dcc9dd7b29d77a4d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9a8167795/92435769/9a8167795f7bc815639e14f3ba334b74.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9a0efd24d/92435769/9a0efd24d28524428c6baf6aee2d1335.jpeg",
+  "https://media.rightmove.co.uk/property-photo/be768e68c/92435769/be768e68c1cba289889d453aee296aef.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Bournemouth Station",
+   "miles": 0.6874587825007037,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Branksome Station",
+   "miles": 2.1746839209478375,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Pokesdown Station",
+   "miles": 2.1853865345639263,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Winkworth, Westbourne",
+ "city": "Bournemouth",
+ "sourceOutcode": "BH1",
+ "scrapedAt": "2026-08-31T16:54:03.097Z"
+}

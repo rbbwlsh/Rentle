@@ -1,0 +1,80 @@
+{
+ "id": "92212062",
+ "mode": "buy",
+ "displayAddress": "Bath Street, Derby",
+ "outcode": "DE1",
+ "incode": "3BT",
+ "latitude": 52.92926,
+ "longitude": -1.47751,
+ "priceAmount": 80000,
+ "priceLabel": "£80,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92212062",
+ "area": "Derby",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 102,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 20/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "SUMMARY\nA well-presented one-bedroom seventh-floor apartment in the popular Rivermead House development on Bath Street. Offering spacious accommodation, a private balcony and excellent city-centre convenience. Ideal for investors with an estimated rental income of £700-£725 PCM.\n\nDESCRIPTION\nOffered to the market is this well-maintained one-bedroom apartment situated on the seventh floor of the established Rivermead House development on Bath Street. An excellent opportunity for both investors and owner-occupiers, the property enjoys elevated views, generous living accommodation and a highly convenient location close to the city centre.\n\nInternally, the apartment extends to approximately 530 sq. ft. and briefly comprises an entrance hall, spacious living room measuring over 13ft, separate fitted kitchen, a well-proportioned double bedroom with fitted storage, and a bathroom fitted with a three-piece suite. The standout feature is the private balcony, providing an attractive outdoor space and far-reaching views from its elevated position.\n\nThe apartment has been well cared for and offers buyers the opportunity to move straight in while also providing scope for further enhancement if desired. Its practical layout, good room sizes and sought-after location make it an appealing purchase for first-time buyers, professionals and investors alike.\n\nFor investors, the property is anticipated to achieve a rental income in the region of £700 to £725 per calendar month, offering an attractive return at the asking price.\n\nEarly viewing is highly recommended to appreciate the accommodation, views and investment potential on offer.\n\nAbout The Area \nRivermead House occupies a convenient position on Bath Street, offering easy access to a wide range of local amenities, shops, supermarkets, restaurants and leisure facilities. Excellent public transport links are available nearby, with bus routes and rail connections providing access across the city and beyond. The location is particularly attractive to professionals and tenants seeking city-centre living, while nearby road networks make commuting straightforward. The combination of convenience, affordability and strong rental demand continues to make this area popular with both investors and owner-occupiers.\n\nAgents Note \nPlease note that an AML fee is chargeable to the buyer once an offer is accepted to cover the cost of carrying out the required identity and anti-money laundering checks. Once these checks have been completed, the fee cannot be refunded, even if the property purchase does not go ahead.\n\nLease details are currently being compiled.  For further information please contact the branch.  Please note additional fees could be incurred for items such as leasehold packs.\n\n1. MONEY LAUNDERING REGULATIONS: Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale.\r\n2. General: While we endeavour to make our sales particulars fair, accurate and reliable, they are only a general guide to the property and, accordingly, if there is any point which is of particular importance to you, please contact the office and we will be pleased to check the position for you, especially if you are contemplating travelling some distance to view the property.\r\n3. The measurements indicated are supplied for guidance only and as such must be considered incorrect.\r\n4. Services: Please note we have not tested the services or any of the equipment or appliances in this property, accordingly we strongly advise prospective buyers to commission their own survey or service reports before finalising their offer to purchase.\r\n5. THESE PARTICULARS ARE ISSUED IN GOOD FAITH BUT DO NOT CONSTITUTE REPRESENTATIONS OF FACT OR FORM PART OF ANY OFFER OR CONTRACT. THE MATTERS REFERRED TO IN THESE PARTICULARS SHOULD BE INDEPENDENTLY VERIFIED BY PROSPECTIVE BUYERS OR TENANTS. NEITHER SEQUENCE (UK) LIMITED NOR ANY OF ITS EMPLOYEES OR AGENTS HAS ANY AUTHORITY TO MAKE OR GIVE ANY REPRESENTATION OR WARRANTY WHATEVER IN RELATION TO THIS PROPERTY.",
+ "keyFeatures": [
+  "Seventh-floor apartment with elevated views",
+  "Spacious one-bedroom accommodation extending to approximately 530 sq. ft.",
+  "Private balcony accessed from the kitchen area",
+  "Well-presented and well-maintained throughout",
+  "Estimated rental income of £700-£725 PCM, ideal investment opportunity"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f9b23da93/92212062/f9b23da93822d4bbf1ed373ddf176ce3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3ca2e6035/92212062/3ca2e603510d407599b098e85ff526f4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2f1b4d00c/92212062/2f1b4d00cbb30fbb70cf2c814ae9a768.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0ad50b1dd/92212062/0ad50b1dd7ec3dd50682f0685456add0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/26c0702e5/92212062/26c0702e5a38c72cf188a7b28a99c504.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cf736e78e/92212062/cf736e78eb56dc2a6e3b5e60c2960bb6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/31c1e79a1/92212062/31c1e79a181c2d5420a8c329fd303830.jpeg",
+  "https://media.rightmove.co.uk/property-photo/97dd1db75/92212062/97dd1db75d1601ad88470d47bb5e5383.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d7f8ad13e/92212062/d7f8ad13ef63eadcfeec9f65524712ec.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Derby Station",
+   "miles": 1.0865568980413218,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Peartree Station",
+   "miles": 2.1732493651701037,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Spondon Station",
+   "miles": 3.0430061164859343,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Bagshaws Residential, Derby",
+ "city": "Derby",
+ "sourceOutcode": "DE1",
+ "scrapedAt": "2026-08-31T14:56:22.958Z"
+}

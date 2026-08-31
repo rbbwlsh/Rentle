@@ -1,0 +1,82 @@
+{
+ "id": "90946815",
+ "mode": "buy",
+ "displayAddress": "Kings Road, Brighton, BN1 2HJ",
+ "outcode": "BN1",
+ "incode": "2HJ",
+ "latitude": 50.822102,
+ "longitude": -0.151422,
+ "priceAmount": 150000,
+ "priceLabel": "£150,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90946815",
+ "area": "Brighton",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "SHARE_OF_FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 0,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 26/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Situated in the heart of Brighton's vibrant seafront district, this beautifully renovated studio apartment offers an exceptional opportunity for first-time buyers, investors or those seeking a stylish coastal bolthole. Located within the popular Astra House on Kings Road, the property enjoys an enviable position just moments from Brighton Beach, the iconic promenade, and an array of independent cafés, restaurants, bars and shops.\n\nFinished to a high standard throughout, the apartment has been thoughtfully modernised to create a bright and contemporary living space. The spacious studio room offers excellent versatility, with ample space for both living and sleeping areas, complemented by a sleek, modern kitchen and a stylish shower room. Large windows allow plenty of natural light to flood the apartment, enhancing the sense of space.\n\nFurther benefits include a long lease, making this an attractive low-maintenance purchase in one of Brighton's most sought-after locations. Whether you're looking for a permanent residence, weekend retreat or buy-to-let investment, this superb apartment is perfectly positioned to enjoy everything the city has to offer.",
+ "keyFeatures": [
+  "Large, beautifully renovated studio apartment",
+  "Finished to a high specification throughout",
+  "Long lease",
+  "Prime Kings Road location",
+  "Moments from Brighton seafront and beach",
+  "Close to an excellent selection of cafés, restaurants, shops and bars",
+  "Excellent transport links, including Brighton Mainline Station",
+  "Ideal first-time purchase, second home or investment opportunity",
+  "Chain Free"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/5a964312b/90946815/5a964312b9d764c8dbc9f5369113fead.png",
+  "https://media.rightmove.co.uk/property-photo/b8829d659/90946815/b8829d6598c8ac734c7868f66d55a6fc.png",
+  "https://media.rightmove.co.uk/property-photo/f6fdf9b26/90946815/f6fdf9b260d6ab297aa0bc95a25420cb.png",
+  "https://media.rightmove.co.uk/property-photo/ba371f9ba/90946815/ba371f9bad0d8a37de41095e75aa9bae.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c7b7b3ef7/90946815/c7b7b3ef78c3967d44703945503b62ae.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6ff501548/90946815/6ff50154892fb7d60c5f402ad49b5e73.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f259bebd7/90946815/f259bebd725cd9a37da037dc571336fa.png"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Brighton Station",
+   "miles": 0.6421388747981789,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "London Road (Brighton) Station",
+   "miles": 1.2016870411838692,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Hove Station",
+   "miles": 1.2443169965716965,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Jacobs Steel, Hove",
+ "city": "Brighton",
+ "sourceOutcode": "BN1",
+ "scrapedAt": "2026-08-31T14:52:27.505Z"
+}

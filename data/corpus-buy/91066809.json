@@ -1,0 +1,82 @@
+{
+ "id": "91066809",
+ "mode": "buy",
+ "displayAddress": "Three Queens Lane, Bristol, BS1",
+ "outcode": "BS1",
+ "incode": "6LF",
+ "latitude": 51.45055,
+ "longitude": -2.5891,
+ "priceAmount": 300000,
+ "priceLabel": "£300,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91066809",
+ "area": "Bristol",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 983,
+  "annualGroundRent": 200,
+  "annualServiceCharge": 2497,
+  "councilTaxBand": "C",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 26/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "**Two Bedroom Flat in Thomas Court with Allocated Parking and No Onward Chain**\n\nSituated within the popular Thomas Court development on Three Queens Lane, this spacious two-bedroom apartment offers an excellent opportunity to acquire a well-appointed home in a convenient and highly desirable Bristol location.\n\nThe property features a bright and generously proportioned living area, providing ample space for both relaxing and entertaining, alongside a modern fitted kitchen with a range of storage and workspace. Both bedrooms are well-sized doubles and are served by a contemporary family bathroom, creating a practical and well-balanced layout ideal for first-time buyers, professionals, downsizers, or investors.\n\nOffered to the market with no onward chain, the apartment presents an ideal opportunity for buyers seeking a straightforward purchase. Further benefits include an allocated parking space, providing valuable convenience and peace of mind in this sought-after location.\n\nIdeally positioned within easy reach of Bristol City Centre, Temple Meads station, and the vibrant Harbourside, residents can enjoy an excellent selection of shops, restaurants, cafés, and leisure facilities, as well as superb transport links. Combining spacious accommodation, practical features, and an enviable location, this apartment represents a fantastic opportunity to secure a home in the heart of Bristol.\n\nPlease note that an AML fee is chargeable to the buyer once an offer is accepted to cover the cost of carrying out the required identity and anti-money laundering checks. Once these checks have been completed, the fee cannot be refunded, even if the property purchase does not go ahead.",
+ "keyFeatures": [
+  "No Onward Chain",
+  "Allocated Parking",
+  "Central Location",
+  "Balcony",
+  "Lift Access"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f14d82e8e/91066809/f14d82e8eaa7f8b64c53d38a535aff54.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5e0151402/91066809/5e0151402a3fb69b613d93d6e968cae0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/500b59278/91066809/500b5927889a49f1955dd012ee0b1561.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee812e47b/91066809/ee812e47b10df5b0b9ad96550f3ca583.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b1617935b/91066809/b1617935b2227abaaf618924f1346c2a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/098acbfa8/91066809/098acbfa85e70876bf056bbc01459bc4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6a535508c/91066809/6a535508cffb8b65c37ea539dba9381a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c9769293a/91066809/c9769293a24d1c02df75deb962709a55.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee1f28a36/91066809/ee1f28a36e907e65d7ae4b2e57f71a28.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bfd80d58b/91066809/bfd80d58bd74d15542ffbb999558ef47.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2823e0e46/91066809/2823e0e469db7ca6e5432506123e3c0d.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 0.34599783994607725,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bedminster Station",
+   "miles": 0.7631875124169888,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Lawrence Hill Station",
+   "miles": 1.1868945548908787,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Chappell & Matthews, Bristol Harbourside",
+ "city": "Bristol",
+ "sourceOutcode": "BS1",
+ "scrapedAt": "2026-08-31T16:56:02.507Z"
+}

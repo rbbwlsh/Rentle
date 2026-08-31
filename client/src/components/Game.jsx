@@ -13,7 +13,7 @@ import Reveal from './Reveal.jsx';
 // guesses client-side, and shows a Wordle-style closeness row after each one.
 // Ends in a win or fail reveal. If `opponent` is set (from a ?s= share link),
 // the player is trying to beat a friend's score.
-export default function Game({ listingId, opponent, onHome, navigate }) {
+export default function Game({ mode, listingId, opponent, onHome, navigate }) {
   const [phase, setPhase] = useState('loading'); // loading|error|playing|won|lost
   const [error, setError] = useState('');
   const [listing, setListing] = useState(null);
@@ -30,7 +30,7 @@ export default function Game({ listingId, opponent, onHome, navigate }) {
   useEffect(() => {
     let cancelled = false;
     setPhase('loading');
-    loadListing(listingId)
+    loadListing(mode.key, listingId)
       .then((data) => {
         if (cancelled) return;
         if (!data.answer) throw new Error('This listing could not be loaded.');
@@ -46,18 +46,18 @@ export default function Game({ listingId, opponent, onHome, navigate }) {
     return () => {
       cancelled = true;
     };
-  }, [listingId]);
+  }, [mode.key, listingId]);
 
   // Is this listing today's daily? (Drives streaks and the "Rentle #N" label.)
   useEffect(() => {
-    loadIndex()
+    loadIndex(mode.key)
       .then((index) => {
         if (String(pickDaily(index.order, londonDate())) === String(listingId)) {
-          setPuzzleNo(dailyNumber(londonDate()));
+          setPuzzleNo(dailyNumber(londonDate(), mode.epoch));
         }
       })
       .catch(() => {});
-  }, [listingId]);
+  }, [mode.key, mode.epoch, listingId]);
 
   async function finish(won, allGuesses, allTiers) {
     const { bestDiff, bestPct, attemptWon } = summarizeGuesses(
@@ -68,6 +68,7 @@ export default function Game({ listingId, opponent, onHome, navigate }) {
     setPhase(won ? 'won' : 'lost');
     try {
       recordGame({
+        mode: mode.key,
         id: String(listingId),
         won,
         attemptWon,
@@ -135,6 +136,7 @@ export default function Game({ listingId, opponent, onHome, navigate }) {
       : null;
     return (
       <Reveal
+        mode={mode}
         won={phase === 'won'}
         actual={answer.priceAmount}
         priceLabel={answer.priceLabel}
@@ -158,17 +160,22 @@ export default function Game({ listingId, opponent, onHome, navigate }) {
     <div className="space-y-5">
       {opponent && <OpponentBanner opponent={opponent} />}
 
-      <ListingCard listing={listing} />
+      <ListingCard mode={mode} listing={listing} />
 
       <GuessHistory guesses={guesses} tiers={tiers} directions={directions} />
 
-      <HintList hints={hints} />
+      <HintList mode={mode} hints={hints} />
 
-      <GuessControl attempt={attempt} maxAttempts={MAX_ATTEMPTS} onGuess={handleGuess} />
+      <GuessControl
+        mode={mode}
+        attempt={attempt}
+        maxAttempts={MAX_ATTEMPTS}
+        onGuess={handleGuess}
+      />
 
       <p className="text-center text-xs text-slate-400">
-        Guess the monthly rent — within 5% wins. Guesses 1–3 tell you only
-        higher or lower; a nearby comparable unlocks for guesses 4 and 5.
+        {mode.prompt} — within 5% wins. Guesses 1–3 tell you only higher or
+        lower; a nearby comparable unlocks for guesses 4 and 5.
       </p>
     </div>
   );

@@ -1,0 +1,92 @@
+{
+ "id": "92470101",
+ "mode": "buy",
+ "displayAddress": "Bradford Terrace, Birches Head, Stoke-on-Trent",
+ "outcode": "ST1",
+ "incode": "6LY",
+ "latitude": 53.03472,
+ "longitude": -2.162413,
+ "priceAmount": 130000,
+ "priceLabel": "£130,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92470101",
+ "area": "Birches Head, Stoke-on-Trent",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": 850,
+  "sizeSqM": 79,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Added on 27/08/2026"
+ },
+ "sizeSqFt": 850,
+ "sizeSqM": 79,
+ "description": "FAR FROM YOUR AVERAGE TERRACED HOUSE WITH NO UPWARD CHAIN- A spacious three bedroom terraced house located in the popular area of Birches Head. The property has been thoughtfully designed to maximise both comfort and practicality including the splitting of the front bedroom to create two usable bedrooms.\nUpon entering, you are welcomed by a bright and inviting lounge, perfect for relaxing or entertaining guests. The separate dining room provides an ideal setting for family meals or hosting friends, with the added benefit of a patio door out to the rear garden. The modern kitchen is fitted with a range of contemporary units and ample worktop space, as well as most different white goods being included in the sale. Completing the ground floor is the lobby and the white bathroom suite.\nUpstairs, you will find three well-proportioned bedrooms, including a master bedroom that benefits from rural views to the rear and its own W.C for added convenience. The home is well-presented throughout and ready for immediate occupation.\n\nExternally, the property boasts an impressively large rear garden, providing a fantastic outdoor space for children to play, gardening enthusiasts, or those who simply enjoy having their own private green space. The garden is partly laid to lawn with a wooden shed and mature borders, offering both privacy and a pleasant outlook. There is ample space for outdoor seating areas, as well as potential for further landscaping.\nThe property is located in Birches Head, a popular area just a short distance from the town centre, with great commuting links to other parts of the city.\n\nEPC Rating: C",
+ "keyFeatures": [
+  "NO CHAIN",
+  "Spacious three bedroom home with a large rear garden",
+  "Lounge",
+  "Dining room",
+  "Modern kitchen",
+  "White bathroom suite",
+  "Master bedroom with W.C",
+  "Popular area of Birches Head"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/250e33102/92470101/250e331022a4edeb34674dd33d67fd18.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b6a3517f4/92470101/b6a3517f4d5ba0a73357333274104a3b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d6111953b/92470101/d6111953b680b23321214090c47b29d6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2419732a3/92470101/2419732a3e5dee15f96d1557f10609eb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4216b4102/92470101/4216b41026621e9dfd14c124ab672339.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2e9009ecf/92470101/2e9009ecfd802b0a01e06efe6ceb49b6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0a205d7c1/92470101/0a205d7c14a497f9a9ef243a2d83fea3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0b9694421/92470101/0b9694421ea812d9e6c2da931886594f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/38f635954/92470101/38f63595453ae6c00351ec1d20b26703.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8d35e6611/92470101/8d35e6611bf84f79128866750aafa72b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7ed02d778/92470101/7ed02d7781620485530923e92a0b81c9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/24ca6bb45/92470101/24ca6bb456fb44f6aec6f34ad80aa6a4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c3d588d8d/92470101/c3d588d8d15043b42aaaa78156e6f411.jpeg",
+  "https://media.rightmove.co.uk/property-photo/054fe477d/92470101/054fe477d6f7f7d261517132de5fc286.jpeg",
+  "https://media.rightmove.co.uk/property-photo/331bdd2af/92470101/331bdd2af31d883bb045b3eab2a58299.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4291d1cb9/92470101/4291d1cb93d49594cf4dc5fe2be5df33.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cf4cc4cff/92470101/cf4cc4cff6d005ecb97797fb7d8149f2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/50b86fac6/92470101/50b86fac674e6dce116c979c2301d744.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "Stoke-on-Trent Station",
+   "miles": 2.0032914837260893,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Longport Station",
+   "miles": 2.292381563909447,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Longton Station",
+   "miles": 3.2904450345838727,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Goodchilds, Stoke-On-Trent",
+ "city": "Stoke-on-Trent",
+ "sourceOutcode": "ST1",
+ "scrapedAt": "2026-08-31T16:52:40.949Z"
+}

@@ -1,0 +1,89 @@
+{
+ "id": "90936519",
+ "mode": "buy",
+ "displayAddress": "Buckingham Road, Brighton",
+ "outcode": "BN1",
+ "incode": "3RB",
+ "latitude": 50.82719,
+ "longitude": -0.144291,
+ "priceAmount": 400000,
+ "priceLabel": "£400,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90936519",
+ "area": "Brighton",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 720,
+  "sizeSqM": 67,
+  "tenureType": "SHARE_OF_FREEHOLD",
+  "yearsRemainingOnLease": 987,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 1200,
+  "councilTaxBand": "B",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": 720,
+ "sizeSqM": 67,
+ "description": "GUIDE PRICE **£400,000 - £425,000**\n\nPositioned on the top floor of an elegant period building in the heart of Brighton, this beautifully proportioned two-bedroom apartment enjoys breathtaking panoramic views across the city skyline, towards the South Downs and out to sea. Combining generous Regency proportions with an abundance of natural light, the property also offers exciting scope for future enhancement, with the loft space included within the title and potential for conversion, subject to the necessary planning consents.\n\nExtending to approximately 719 sq ft, the apartment immediately impresses with its high ceilings, decorative cornicing and wonderfully bright accommodation. The spacious living and dining room is undoubtedly the heart of the home, where a large bay window frames leafy views and fills the room with natural light, creating a warm and inviting space to relax or entertain.\n\nThe separate kitchen has been thoughtfully updated with contemporary cabinetry, ample worktop space and room for dining, while the elevated position provides a delightful outlook across the rooftops towards Brighton's famous skyline.\n\nBoth bedrooms are comfortable doubles, with the principal bedroom enjoying an attractive outlook, while the second bedroom offers excellent flexibility as a guest room, home office or creative space. A modern family bathroom completes the accommodation.\n\nOne of the property's standout features is the spectacular outlook. From almost every room there are far-reaching views stretching across Brighton's iconic rooftops, with glimpses of the sea to the south and the rolling South Downs to the north, creating an ever-changing backdrop throughout the seasons.\n\nFor buyers looking to add value, the property also benefits from ownership of the loft space, presenting an exciting opportunity to create additional accommodation, subject to the relevant planning and freehold permission and building regulations.\n\nBuckingham Road remains one of Brighton's most convenient central addresses, perfectly positioned moments from Brighton Station, the vibrant North Laine district and the city centre, while the seafront, Seven Dials and an excellent selection of independent cafés, restaurants and shops are all within easy walking distance.\n\nEarly viewing is highly recommended!",
+ "keyFeatures": [
+  "Panoramic sea and city skyline views",
+  "Loft included with conversion potential",
+  "Top floor period apartment",
+  "Beautiful Regency proportions throughout",
+  "Bright bay-fronted living space",
+  "Two versatile double bedrooms",
+  "Approximately 719 sq ft",
+  "Moments from Brighton Station",
+  "Stunning South Downs outlook",
+  "Central Brighton lifestyle on your doorstep"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/3f8caca52/90936519/3f8caca526b0f7b895265720e83eadaa.png",
+  "https://media.rightmove.co.uk/property-photo/51199cc82/90936519/51199cc823a8e4089b9d39118c6af4c5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c38cde311/90936519/c38cde311742052bf4c71a640e6cb43c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2f35c5257/90936519/2f35c525799966bc9640328740f58ec4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1fa4585a4/90936519/1fa4585a4e787b35ae58616de547edab.png",
+  "https://media.rightmove.co.uk/property-photo/1728ba0fd/90936519/1728ba0fdf2b86aef578a5f39280966f.png",
+  "https://media.rightmove.co.uk/property-photo/2c1d5957b/90936519/2c1d5957b91fcb5e46f45161e8a41533.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7f31884a6/90936519/7f31884a6e736b9d161c44a50ef5424d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e67f5b839/90936519/e67f5b839d6cc394ccf6ea8bdadb5f82.png",
+  "https://media.rightmove.co.uk/property-photo/cbe8a33de/90936519/cbe8a33deade72b3d56c5d66a9337f19.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1ab9935ed/90936519/1ab9935edccf51f261bf7722ca3555e3.png",
+  "https://media.rightmove.co.uk/property-photo/bcb092e32/90936519/bcb092e32206d5b92d22612a0b32e5eb.png",
+  "https://media.rightmove.co.uk/property-photo/3eddb5e19/90936519/3eddb5e19ef8c6de19b7ec6034e953b8.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Brighton Station",
+   "miles": 0.17393858823584624,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "London Road (Brighton) Station",
+   "miles": 0.739708332279098,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Hove Station",
+   "miles": 1.2893412208808552,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Pearson Keehan, Brighton",
+ "city": "Brighton",
+ "sourceOutcode": "BN1",
+ "scrapedAt": "2026-08-31T15:02:06.649Z"
+}

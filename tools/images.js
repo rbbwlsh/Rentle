@@ -7,6 +7,10 @@
 // recorded in data/images-manifest.json (committed), so the corpus build is
 // reproducible without the binaries and a re-run only fetches what's missing.
 //
+// Every mode's corpus is processed into the same photo store: Rightmove ids
+// are globally unique, so /img/<id>/ and the manifest are shared between the
+// rent and buy games rather than duplicated per mode.
+//
 // Usage:
 //   node tools/images.js              process every corpus listing not in the manifest
 //   node tools/images.js --redo <id>  re-download one listing's photos
@@ -17,9 +21,9 @@ import { fileURLToPath } from 'node:url';
 import sharp from 'sharp';
 import { fetchWithRetry } from './lib/fetchRetry.js';
 import { BROWSER_HEADERS } from './lib/rightmove.js';
+import { MODES } from './config/modes.js';
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
-const CORPUS_DIR = path.join(ROOT, 'data', 'corpus');
 const IMG_DIR = path.join(ROOT, 'client', 'public', 'img');
 const MANIFEST_PATH = path.join(ROOT, 'data', 'images-manifest.json');
 
@@ -90,10 +94,15 @@ async function main() {
     : null;
 
   const manifest = loadManifest();
-  const listings = fs
-    .readdirSync(CORPUS_DIR)
-    .filter((f) => f.endsWith('.json'))
-    .map((f) => JSON.parse(fs.readFileSync(path.join(CORPUS_DIR, f), 'utf8')));
+  const listings = [];
+  for (const mode of Object.values(MODES)) {
+    const dir = path.join(ROOT, mode.corpusDir);
+    if (!fs.existsSync(dir)) continue;
+    for (const f of fs.readdirSync(dir)) {
+      if (!f.endsWith('.json')) continue;
+      listings.push(JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8')));
+    }
+  }
 
   const todo = listings.filter((l) =>
     redo ? String(l.id) === redo : !(String(l.id) in manifest)

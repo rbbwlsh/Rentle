@@ -1,0 +1,94 @@
+{
+ "id": "92516934",
+ "mode": "buy",
+ "displayAddress": "2 High Storrs Rise, Greystones, S11 7LB",
+ "outcode": "S11",
+ "incode": "7LB",
+ "latitude": 53.36399,
+ "longitude": -1.519659,
+ "priceAmount": 375000,
+ "priceLabel": "£375,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92516934",
+ "area": "Greystones",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Semi-Detached",
+ "details": {
+  "propertyType": "Semi-Detached",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 909,
+  "annualGroundRent": 4.1,
+  "annualServiceCharge": null,
+  "councilTaxBand": "C",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Occupying an enviable location in this very well regarded neighbourhood, close to parks, first class schooling, transport links and being available with no onward chain. The property offers over 790 square feet of accommodation which could easily be extended to both the side and rear if the necessary consents were acquired.\n\nDescription - An attractive 1930's semi detached property that is available with no onward chain. The property is ideally placed for accessing the local amenities which include first class schooling, bus links into town and park walks. The property offers accommodation over two floors and, due to the size of the plot, has plenty of space to both the side and rear to extend into if more space is required (subject to consents). Greystones is a leafy suburb of Sheffield located about two miles southwest of the city centre, nestled between Ecclesall, Bents Green, and Endcliffe. Known for its tree-lined streets, attractive Victorian and Edwardian houses, and strong community feel, it’s a popular area for families and professionals alike. The suburb offers a mix of independent shops, cosy cafés, and pubs, most notably The Greystones, a well-known music venue run by Thornbridge Brewery. With excellent access to good schools, nearby parks such as Endcliffe Park, and the Peak District just a short drive away, Greystones strikes a balance between city convenience and suburban calm and this lovely property is the perfect setting for buyers from all walks of life.\n\nImportant Information - Anti-Money Laundering (AML) Checks - As part of making an offer, we're required by law to complete Anti-Money Laundering (AML) checks to confirm the identity of all purchasers. To cover the cost of this process, a fee of £30 inc VAT per buyer is payable when your offer is accepted. This is a standard requirement for all buyers and helps us ensure your offer can be progressed as quickly and smoothly as possible.",
+ "keyFeatures": [
+  "Falling into catchment for highly regarded local schooling",
+  "Two double bedrooms and one single bedroom",
+  "Modern bathroom with shower over bath, WC and basin",
+  "Dining room with views over the rear garden",
+  "Kitchen with a range of appliances. There is also a very useful pantry",
+  "Living room with views to the front of the property.",
+  "Lovely rear garden",
+  "Single garage ideal for storage and off road parking for one small car.",
+  "999 year lease from 1935 at an annual ground rent of £4.10",
+  "COUNCIL TAX BAND: C - EPC RATING: D"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/7f785568b/92516934/7f785568ba26a4dd31246b2c7d2bb0c1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/75898dd27/92516934/75898dd2756e8aeacd91944c3769f982.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f034f91d7/92516934/f034f91d7c0d34a1298ee1f215f3dc04.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e26d835c9/92516934/e26d835c9e16074195380154313a1077.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d9e70c523/92516934/d9e70c52380ef4f0f3654a936e808509.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6c4813fed/92516934/6c4813fed5beb742e549063aac962cf3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/19a5b513c/92516934/19a5b513cec480f47e88d60c19392a23.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b2b451d96/92516934/b2b451d96f30ebc3ea21844ed1125ef9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9e8d60879/92516934/9e8d608793172457fe215f20091c027c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3d467b4ab/92516934/3d467b4abae5d10a95448f827baddfc5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b6647f184/92516934/b6647f184ceaf33199aa91197bd40288.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fdaf2336a/92516934/fdaf2336a0d5fc69a4eb81e01e40ea30.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ad471cf77/92516934/ad471cf77b19b51f0debab916fcb64ec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dc91c4f82/92516934/dc91c4f82fd2b2c9e41f3ed9f424571e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/68f166622/92516934/68f1666223910fda401bcf30dcacec9c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb9b030b1/92516934/bb9b030b193caa66951103e01fedb33c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0e4c88511/92516934/0e4c8851130f90b4ecdb0ee8c9dd2de5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b94b3ced9/92516934/b94b3ced9aa59a0e9f57d1f43c10a4db.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "University of Sheffield Tram Stop",
+   "miles": 1.8651248118053307,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "West Street Tram Stop",
+   "miles": 2.0825506814352055,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Netherthorpe Road Tram Stop",
+   "miles": 2.0952708474348776,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Eadon Lockwood & Riddle, Banner Cross",
+ "city": "Sheffield",
+ "sourceOutcode": "S11",
+ "scrapedAt": "2026-08-31T16:58:10.995Z"
+}

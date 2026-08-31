@@ -1,0 +1,84 @@
+{
+ "id": "89956797",
+ "mode": "buy",
+ "displayAddress": "Hounds Gate, Nottingham, NG1",
+ "outcode": "NG1",
+ "incode": "6BH",
+ "latitude": 52.951236,
+ "longitude": -1.152578,
+ "priceAmount": 34000,
+ "priceLabel": "£34,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89956797",
+ "area": "Nottingham",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": 258,
+  "sizeSqM": 24,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 24/08/2026"
+ },
+ "sizeSqFt": 258,
+ "sizeSqM": 24,
+ "description": "Our latest listing is a studio flat located in Nottingham. It is in close proximity to valuable amenities, is able to generate rewarding rental returns and has a tenant currently situated.\n\nFor investors looking to expand their portfolio, this is a fantastic opportunity!\n\nThis well-kept home features a spacious living spaces, kitchen, and bathroom.\n\nInvestment details\n\nIt currently produces an annual gross income of £7,272 with tenants currently situated. Considering the purchase price and the potential rental income that could be earned in future years, this will make for a worthwhile addition to an investors property portfolio.\n\nFor greater detail on this property's investment potential, please see the Let Property Pack linked below.\n\nIf you are interested, please call us.\n\nTenancy Details\n\nThere are tenants that currently reside in the property and have consistently paid their rent for the duration of their stay. They do not have any intentions to move out so hope to remain in the property.\n\nWe are committed to facilitating a smooth transaction process between buyer and seller. To allow for maximum commitment to the sale from both parties, a Buyers Premium will apply in order to secure a property.",
+ "keyFeatures": [
+  "Buy-to-Let Opportunity",
+  "Tenant Currently Situated",
+  "Likely to attract enquiries from Serious Investors &amp; Developers",
+  "INVESTMENT POTENTIAL DETAILED BELOW (Let Property Pack)",
+  "RICS Level 2 Survey Available Upon Enquiry",
+  "Cash Buyers Only"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/ca0f1fa77/89956797/ca0f1fa7712cecb6880199421d29354a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ea1d36b09/89956797/ea1d36b094491a2dc3528a371f5881b3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ab9364c80/89956797/ab9364c80d33e3fb9597a1f86d81d930.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7f0df47e8/89956797/7f0df47e87624b2daa3cc2863b52fa5d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3d171a64f/89956797/3d171a64f98c85251feacd745bc49252.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d992a871/89956797/6d992a871d9a6c9cbaabacd43fa3385f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/26c14b8b3/89956797/26c14b8b3ff8fec0df8738ec4a93c42b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8cd119646/89956797/8cd119646643543cac7d1b49564b0470.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ec6fb47ee/89956797/ec6fb47ee594b1d4bfd0e5cd18035e0f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2b8999f35/89956797/2b8999f35487f4a0e88ea91011d35e4c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/154cc77bc/89956797/154cc77bca0639c5e075a3b5bc8b491f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/888256997/89956797/8882569974890af4bc60654824f55da5.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Old Market Square Tram Stop",
+   "miles": 0.16140217927083375,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Royal Centre Tram Stop",
+   "miles": 0.2779634435524797,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Lace Market Tram Stop",
+   "miles": 0.31493241707040215,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Let Property Sales & Management, Glasgow",
+ "city": "Nottingham",
+ "sourceOutcode": "NG1",
+ "scrapedAt": "2026-08-31T14:49:40.143Z"
+}

@@ -1,0 +1,81 @@
+{
+ "id": "164632463",
+ "mode": "buy",
+ "displayAddress": "The Leazes, Sunderland, Tyne and Wear, SR1",
+ "outcode": "SR1",
+ "incode": "3SW",
+ "latitude": 54.90471,
+ "longitude": -1.396139,
+ "priceAmount": 90000,
+ "priceLabel": "£90,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/164632463",
+ "area": "Sunderland, Tyne and Wear",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 16/10/2025"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This property is currently under offer at £100,000.\nAnyone wishing to view this property or increase on this offer should contact Your Move at their earliest convenience.\nPlease note, new offers can be submitted and accepted up until exchange of contracts has taken place.\n\nThis three bedroom mid terraced home offers well proportioned rooms and is situated in a popular area.\n\nUpon entering, you're welcomed by an entrance porch that leads into the lounge. This is followed by a separate breakfasting kitchen with access to the conservatory. \n\nThe property features three bedrooms to the first floor. The bathroom is fitted with a white three-piece suite. \n\nExternally, the home offers the convenience of off-street parking for two vehicles, while the rear boasts a garden which has a decked area.\n\nFreehold\n\n\rIMPORTANT NOTE TO POTENTIAL PURCHASERS & TENANTS:\n We endeavour to make our particulars accurate and reliable, however, they do not constitute or form part of an offer or any contract and none is to be relied upon as statements of representation or fact. The services, systems and appliances listed in this specification have not been tested by us and no guarantee as to their operating ability or efficiency is given. All photographs and measurements have been taken as a guide only and are not precise. Floor plans where included are not to scale and accuracy is not guaranteed. If you require clarification or further information on any points, please contact us, especially if you are traveling some distance to view. POTENTIAL PURCHASERS: Fixtures and fittings other than those mentioned are to be agreed with the seller. POTENTIAL TENANTS: All properties are available for a minimum length of time, with the exception of short term accommodation. Please contact the branch for details. A security deposit of at least one month’s rent is required. Rent is to be paid one month in advance. It is the tenant’s responsibility to insure any personal possessions. Payment of all utilities including water rates or metered supply and Council Tax is the responsibility of the tenant in most cases. \n\nSUN250517/2",
+ "keyFeatures": [
+  "Three Bedroom",
+  "Tenanted Investment",
+  "Great Location",
+  "EPC Grade C",
+  "Council Tax Band B Sunderland City Council",
+  "57 sqm / 613 sqft Floor area"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/8aa60f9e1/164632463/8aa60f9e166734b8b26af6669e7a063c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f17d70e5/164632463/5f17d70e52c8f01655ee2a2c396053b1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/75da307fd/164632463/75da307fd7628354d4ced37ccb37c9d5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8d214986f/164632463/8d214986f77fa332dbea702362ab9b24.jpeg",
+  "https://media.rightmove.co.uk/property-photo/31890ef26/164632463/31890ef26d171992d0d1579c19001b55.jpeg",
+  "https://media.rightmove.co.uk/property-photo/67147f870/164632463/67147f87039a271c9c3412984e8937a5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ff111acb/164632463/8ff111acb9bbd161993ea0a7cd681eae.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1dee54923/164632463/1dee5492348e5aec1b81c3defe4d8692.jpeg",
+  "https://media.rightmove.co.uk/property-photo/277ad5d7f/164632463/277ad5d7f74491576cfff1983d3d9c6d.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "University Metro Station",
+   "miles": 0.18237725108471625,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Millfield Metro Station",
+   "miles": 0.4404346217297734,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Park Lane Metro Station",
+   "miles": 0.4777939252786351,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "YOUR MOVE Chris Stonock, Sunderland",
+ "city": "Sunderland",
+ "sourceOutcode": "SR1",
+ "scrapedAt": "2026-08-31T15:03:33.035Z"
+}

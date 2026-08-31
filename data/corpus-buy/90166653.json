@@ -1,0 +1,82 @@
+{
+ "id": "90166653",
+ "mode": "buy",
+ "displayAddress": "Colquitt Street, Liverpool, Merseyside, L1",
+ "outcode": "L1",
+ "incode": "4DE",
+ "latitude": 53.401864,
+ "longitude": -2.977105,
+ "priceAmount": 150000,
+ "priceLabel": "£150,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90166653",
+ "area": "Liverpool, Merseyside",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "TBC",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 27/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Sutton Kersh are advertising to the market this fourth floor two bedroom apartment. The property briefly comprises to the ground floor secure shared entrance with lift and stairs to all floors, fourth floor, entrance hall, lounge with access to balcony, kitchen, two bedrooms and bathroom. The property further benefits from double glazed windows and electric heating making this a great purchase offered chain free sold as seen. Call our local high street branch today to gain more information or to book a viewing. All services/appliances have not and will not be tested.\n\n• Ground Rent:                    £150.00 per year ( charges annually)\n• Service Charges:              £1941.20 per year ( charged quarterly)\n\nPlease note than an AML fee is chargeable to the buyers once an offer is accepted to cover the cost of carrying out the required identity and anti-money laundering checks. Once these checks have been completed, the fee cannot be refunded, even if the property purchase does not go ahead.",
+ "keyFeatures": [
+  "Fourth Floor Apartment",
+  "Secure Shared Entrance",
+  "Lift &amp; Stairs To All Floors",
+  "Open Plan Lounge/Kitchen",
+  "Two Bedrooms",
+  "Family Bathroom",
+  "Double Glazed Windows",
+  "Electric Heating",
+  "Chain Free Sold As Seen"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/0fb3e3e7f/90166653/0fb3e3e7ffcb5c7499be451c06f6f756.jpeg",
+  "https://media.rightmove.co.uk/property-photo/88e066caa/90166653/88e066caa73490db99e9b1f6481ec035.jpeg",
+  "https://media.rightmove.co.uk/property-photo/31841dd71/90166653/31841dd719804f7d03eee59cf10aaca7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b1ca88671/90166653/b1ca886712720b2183cb26110ae00466.jpeg",
+  "https://media.rightmove.co.uk/property-photo/449bcc081/90166653/449bcc081c2f303fde4ae5c26671bebe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3adcadb2d/90166653/3adcadb2d59ee43d3f148bc4972a15e9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/69ed78126/90166653/69ed78126c60a5a0d617a55dc4339fcc.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Liverpool Central Station",
+   "miles": 0.21023318898823345,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Liverpool Lime Street Station",
+   "miles": 0.3704728467766038,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "James Street Station",
+   "miles": 0.6557264000222971,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Sutton Kersh, City Centre",
+ "city": "Liverpool",
+ "sourceOutcode": "L1",
+ "scrapedAt": "2026-08-31T16:55:45.476Z"
+}

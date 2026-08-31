@@ -121,40 +121,65 @@ function fakeStorage() {
 test('stats record games once and track the daily streak', () => {
   const s = fakeStorage();
 
-  recordGame({ id: '1', won: true, attemptWon: 2, bestDiff: 20, bestPct: 0.016, guesses: [800, 1180], isDaily: true, dateStr: '2026-08-30' }, s);
-  let sum = summarize(loadStats(s));
+  recordGame({ mode: 'rent', id: '1', won: true, attemptWon: 2, bestDiff: 20, bestPct: 0.016, guesses: [800, 1180], isDaily: true, dateStr: '2026-08-30' }, s);
+  let sum = summarize(loadStats('rent', s));
   assert.equal(sum.played, 1);
   assert.equal(sum.streak, 1);
   assert.equal(sum.winByAttempt[2], 1);
-  assert.equal(loadStats(s).games['1'].bestPct, 0.016);
+  assert.equal(loadStats('rent', s).games['1'].bestPct, 0.016);
 
   // Replaying the same listing does not overwrite.
-  recordGame({ id: '1', won: false, attemptWon: null, bestDiff: 500, guesses: [700], isDaily: true, dateStr: '2026-08-30' }, s);
-  sum = summarize(loadStats(s));
+  recordGame({ mode: 'rent', id: '1', won: false, attemptWon: null, bestDiff: 500, guesses: [700], isDaily: true, dateStr: '2026-08-30' }, s);
+  sum = summarize(loadStats('rent', s));
   assert.equal(sum.played, 1);
   assert.equal(sum.won, 1);
 
   // Next-day daily win extends the streak.
-  recordGame({ id: '2', won: true, attemptWon: 1, bestDiff: 0, bestPct: 0, guesses: [1000], isDaily: true, dateStr: '2026-08-31' }, s);
-  sum = summarize(loadStats(s));
+  recordGame({ mode: 'rent', id: '2', won: true, attemptWon: 1, bestDiff: 0, bestPct: 0, guesses: [1000], isDaily: true, dateStr: '2026-08-31' }, s);
+  sum = summarize(loadStats('rent', s));
   assert.equal(sum.streak, 2);
   assert.equal(sum.maxStreak, 2);
 
   // A skipped day resets the streak to 1 on the next win.
-  recordGame({ id: '3', won: true, attemptWon: 1, bestDiff: 10, bestPct: 0.01, guesses: [900], isDaily: true, dateStr: '2026-09-02' }, s);
-  assert.equal(summarize(loadStats(s)).streak, 1);
+  recordGame({ mode: 'rent', id: '3', won: true, attemptWon: 1, bestDiff: 10, bestPct: 0.01, guesses: [900], isDaily: true, dateStr: '2026-09-02' }, s);
+  assert.equal(summarize(loadStats('rent', s)).streak, 1);
 
   // A daily loss zeroes it; non-daily games never touch it.
-  recordGame({ id: '4', won: false, attemptWon: null, bestDiff: 300, guesses: [1], isDaily: true, dateStr: '2026-09-03' }, s);
-  assert.equal(summarize(loadStats(s)).streak, 0);
-  recordGame({ id: '5', won: true, attemptWon: 1, bestDiff: 5, bestPct: 0.005, guesses: [1], isDaily: false }, s);
-  assert.equal(summarize(loadStats(s)).streak, 0);
-  assert.equal(summarize(loadStats(s)).maxStreak, 2);
+  recordGame({ mode: 'rent', id: '4', won: false, attemptWon: null, bestDiff: 300, guesses: [1], isDaily: true, dateStr: '2026-09-03' }, s);
+  assert.equal(summarize(loadStats('rent', s)).streak, 0);
+  recordGame({ mode: 'rent', id: '5', won: true, attemptWon: 1, bestDiff: 5, bestPct: 0.005, guesses: [1], isDaily: false }, s);
+  assert.equal(summarize(loadStats('rent', s)).streak, 0);
+  assert.equal(summarize(loadStats('rent', s)).maxStreak, 2);
 });
 
 test('setName persists and trims', () => {
   const s = fakeStorage();
-  setName('  A very long name that goes past twenty-four chars  ', s);
-  assert.equal(loadStats(s).name.length <= 24, true);
-  assert.equal(loadStats(s).name, 'A very long name that go');
+  setName('rent', '  A very long name that goes past twenty-four chars  ', s);
+  assert.equal(loadStats('rent', s).name.length <= 24, true);
+  assert.equal(loadStats('rent', s).name, 'A very long name that go');
+});
+
+test('each mode keeps its own games and its own streak', () => {
+  const s = fakeStorage();
+  recordGame(
+    { mode: 'rent', id: '1', won: true, attemptWon: 1, bestDiff: 0, bestPct: 0, guesses: [1200], isDaily: true, dateStr: '2026-08-31' },
+    s
+  );
+  recordGame(
+    { mode: 'buy', id: '9', won: false, attemptWon: null, bestDiff: 50000, bestPct: 0.2, guesses: [200000], isDaily: true, dateStr: '2026-08-31' },
+    s
+  );
+
+  // Two dailies a day means two independent streaks: losing the buy round
+  // must not cost the rent streak, and neither corpus sees the other's games.
+  assert.equal(summarize(loadStats('rent', s)).played, 1);
+  assert.equal(summarize(loadStats('rent', s)).streak, 1);
+  assert.equal(summarize(loadStats('buy', s)).played, 1);
+  assert.equal(summarize(loadStats('buy', s)).streak, 0);
+  assert.equal(loadStats('rent', s).games['9'], undefined);
+  assert.equal(loadStats('buy', s).games['1'], undefined);
+
+  // The player's name is theirs, not the mode's.
+  setName('buy', 'Robbie', s);
+  assert.equal(loadStats('rent', s).name, 'Robbie');
 });

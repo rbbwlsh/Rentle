@@ -1,0 +1,82 @@
+{
+ "id": "92537931",
+ "mode": "buy",
+ "displayAddress": "New River Avenue, London, N8",
+ "outcode": "N8",
+ "incode": "7QF",
+ "latitude": 51.589623,
+ "longitude": -0.115271,
+ "priceAmount": 240000,
+ "priceLabel": "£240,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92537931",
+ "area": "London",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 29/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Tatlers are delighted to offer this stylish and contemporary purpose built studio apartment situated within the sought after New River Village development in Crouch End / Hornsey.\n\nThe property offers a bright and well designed open plan living space combining comfortable living and sleeping areas with a modern fitted kitchen and contemporary bathroom. \n\nSet within the popular New River Village development, the property benefits from a modern residential environment while being conveniently located for the amenities, cafés, restaurants and transport links of Crouch End, Hornsey and the surrounding area.\n\nAn ideal home for a professional single occupant or anyone looking for a modern, low-maintenance studio in a desirable North London location.\n\nEarly viewing is advised.",
+ "keyFeatures": [
+  "STUDIO",
+  "BALCONY",
+  "CHAIN FREE",
+  "MODERN APARTMENT"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/155a846a7/92537931/155a846a7e27399f0c7ef774a77b5611.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b8516b587/92537931/b8516b587bd72414c27cc666baf3abac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/02304a88d/92537931/02304a88db671d89e6b560bcb17e10c5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fcca3f7a4/92537931/fcca3f7a4cbe3c7180e4bd066be54193.jpeg",
+  "https://media.rightmove.co.uk/property-photo/37a38d2b5/92537931/37a38d2b5410b1f9d6d570fc2a0b8525.jpeg",
+  "https://media.rightmove.co.uk/property-photo/23f3580bb/92537931/23f3580bba9222ef4b1f40feeb2eb742.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a1531556f/92537931/a1531556fe2ff1f2a4fe4e530403f5e2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cf142b430/92537931/cf142b4309d5b061bb81bb0e7b93e663.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ccc21354f/92537931/ccc21354f6609debf822cb4c68f681b5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e2087574e/92537931/e2087574e450f4b2737d0b466bd601f9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c9d1876bb/92537931/c9d1876bb180ca9bdbfd5c6ec3fa473e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9fd820583/92537931/9fd820583d757d50451b7aaea03156af.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Hornsey Station",
+   "miles": 0.2818616246721072,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Turnpike Lane Station",
+   "miles": 0.542999873070662,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Wood Green Station",
+   "miles": 0.5709162950661602,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "Tatlers, Crouch End",
+ "city": "London",
+ "sourceOutcode": "N8",
+ "scrapedAt": "2026-08-31T14:54:32.249Z"
+}

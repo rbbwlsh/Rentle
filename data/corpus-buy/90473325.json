@@ -1,0 +1,81 @@
+{
+ "id": "90473325",
+ "mode": "buy",
+ "displayAddress": "Basil Street, Preston",
+ "outcode": "PR1",
+ "incode": "6XS",
+ "latitude": 53.769798,
+ "longitude": -2.681149,
+ "priceAmount": 150000,
+ "priceLabel": "£150,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90473325",
+ "area": "Preston",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Detached Bungalow",
+ "details": {
+  "propertyType": "Detached Bungalow",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Located on the cul-de-sac of Basil Street, Preston, this charming detached bungalow presents a wonderful opportunity for those seeking a home with potential. With three well-proportioned bedrooms, this property is ideal for families or those looking to downsize without compromising on space.\n\nUpon entering, you will find two reception rooms that offer a versatile layout, perfect for both relaxation and entertaining. The bungalow features a single bathroom, which, while functional, may benefit from some modernisation to suit your personal taste.\n\nOne of the standout features of this property is the generous garden and yard space, providing an excellent outdoor area for gardening, play, or simply enjoying the fresh air. The driveway offers convenient off-street parking, a valuable asset in today’s busy world.\n\nAlthough the bungalow is in need of some modernisation, it boasts a deceivingly spacious interior that can be transformed into a stylish and comfortable home. With a little imagination and effort, this property can be tailored to meet your needs and preferences.\n\nIn summary, this detached bungalow on Basil Street is a fantastic opportunity for those looking to create their dream home in a peaceful setting. With its ample space, garden, and potential for improvement, it is not to be missed.",
+ "keyFeatures": [
+  "Driveway",
+  "Cul-De-Sac",
+  "Modernisation Needed",
+  "Walking Distance To Local Retail Park",
+  "Two Reception Rooms",
+  "Three Bedrooms"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/104a3723f/90473325/104a3723fc4e1b42f744d3e5a2e42050.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2a8dc9168/90473325/2a8dc9168c195c72a310d706dd4aa581.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ca97c115a/90473325/ca97c115a76f70e375c544fcc4454ef8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0f85f10d7/90473325/0f85f10d79c85c2771de64dfef019b38.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb30dadd5/90473325/bb30dadd58749e97d27d5c5d6f20a1d2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a136b01e8/90473325/a136b01e8a5496b2664879aae953e854.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b82ed2324/90473325/b82ed23249f23a2a056d9959b618158f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/642afef4c/90473325/642afef4cfa886a7125dea9b0285c65d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/798db71f1/90473325/798db71f123f3ac00eb2a32f1bb10edd.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Preston Station",
+   "miles": 1.4369020703980875,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bamber Bridge Station",
+   "miles": 3.0760493878322017,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Lostock Hall Station",
+   "miles": 3.1822221524273187,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Jones Cameron Estate Agents, Preston",
+ "city": "Preston",
+ "sourceOutcode": "PR1",
+ "scrapedAt": "2026-08-31T15:04:14.296Z"
+}

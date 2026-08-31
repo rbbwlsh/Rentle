@@ -1,0 +1,71 @@
+{
+ "id": "89734908",
+ "mode": "buy",
+ "displayAddress": "Apartment , Horizon House, Borough Road, Sunderland",
+ "outcode": "SR1",
+ "incode": "1HS",
+ "latitude": 54.905285,
+ "longitude": -1.375675,
+ "priceAmount": 45000,
+ "priceLabel": "£45,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89734908",
+ "area": "Horizon House, Sunderland",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": 172,
+  "sizeSqM": 16,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 245,
+  "annualGroundRent": 150,
+  "annualServiceCharge": 2264.71,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 17/07/2026"
+ },
+ "sizeSqFt": 172,
+ "sizeSqM": 16,
+ "description": "A stylish and well-presented studio apartment situated within the popular Horizon House development in the heart of Sunderland city centre. This self-contained studio offers modern and comfortable living accommodation, comprising an open-plan lounge/bedroom area and a contemporary shower room. Residents benefit from access to a range of excellent communal facilities, including a gym, cinema room, games room, kitchen area, and laundry facilities. Ideally located within walking distance of Sunderland University, shops, restaurants, and transport links, this property is perfectly suited to first-time buyers, young professionals, or investors seeking a strong investment opportunity, with the potential to achieve a gross yield of approximately 12%.\n\nCouncil Tax Band: A (Sunderland Council)\nTenure: Leasehold (245 years)\nGround Rent: £150 per year\nService Charge: £2,264.71 per year",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/9fdbe856c/89734908/9fdbe856cd96edd948743250b1cf101f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b97f20560/89734908/b97f2056069d0009cfc7057baf9d87b7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d80e5d29d/89734908/d80e5d29d97058c32d9cd3e702754477.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a15ecbb50/89734908/a15ecbb503df2131b5361bf2bb120362.jpeg",
+  "https://media.rightmove.co.uk/property-photo/87d734159/89734908/87d7341596b8629b136a292aef1cd1d6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/42fdfc05d/89734908/42fdfc05d0d1111c6867fb3dcf230357.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Sunderland Station",
+   "miles": 0.29183680609954366,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Park Lane Metro Station",
+   "miles": 0.5191065553102084,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "St Peter's Tram Stop",
+   "miles": 0.6427287747273012,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Property Talk Management, Newcastle-Upon-Tyne",
+ "city": "Sunderland",
+ "sourceOutcode": "SR1",
+ "scrapedAt": "2026-08-31T14:46:19.976Z"
+}

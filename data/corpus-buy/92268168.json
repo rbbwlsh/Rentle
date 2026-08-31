@@ -1,0 +1,82 @@
+{
+ "id": "92268168",
+ "mode": "buy",
+ "displayAddress": "St Michaels Gate, Parnwell, Peterborough, PE1 4YJ",
+ "outcode": "PE1",
+ "incode": "4YJ",
+ "latitude": 52.59592,
+ "longitude": -0.204663,
+ "priceAmount": 500000,
+ "priceLabel": "£500,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92268168",
+ "area": "Parnwell, Peterborough",
+ "bedrooms": 0,
+ "bathrooms": null,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 0,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "TBC",
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Added on 21/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "*BLOCK OF FLATS WITH FREEHOLD TITLE*\n\nL&D ESTATE AGENTS are delighted to offer this rare opportunity to acquire a freehold block of five flats in a sought after location, offering immediate portfolio expansion for the savvy investor. The property comprises two spacious two bedroom ground floor garden flats, each with its own private outdoor space, alongside three well proportioned one bedroom flats. With the benefit of a freehold title, you are purchasing the building outright, giving you full control over the asset and its future potential.\n\nCurrently, some of the flats are let providing an instant income stream, while the entire block can be made available with full vacant possession if preferred. This flexibility makes it ideal for investors looking to either retain sitting tenants or refurbish and reposition the units for higher rental yields. The flats are offered in varying condition from unit to unit, allowing you to add value where you see fit and maximise your return on investment.\n\nWhether you are building your portfolio or seeking a project with genuine upside, this block delivers on both fronts. With a mix of garden flats and one bedroom units, it appeals to a wide range of tenants, from young professionals to those seeking ground floor living. Don't miss the chance to secure a freehold investment with this much versatility and potential.\n\nLOCATION:\n\nSt Michaels Gate is a popular residential development situated to the south of Peterborough city centre offering a convenient and well connected setting ideal for families. The area benefits from a range of nearby amenities including supermarkets, shops, cafés and leisure facilities, while Peterborough city centre and its extensive retail and dining options are easily accessible. Families are well served by a selection of local schools, with both primary and secondary education available within close proximity. Transport links are excellent, with easy access to Peterborough railway station providing fast services to London and the North, alongside convenient road connections via the A1(M), A47 and A605. Combining everyday convenience with strong connectivity, St Michaels Gate is a great location for a wide range of buyers.\n\nFLAT 1- 2 BED GROUND FLOOR GARDEN FLAT-EPC RATING- D - APPX 34 SQM\nFLAT 2- 2 BED GROUND FLOOR GARDEN FLAT-EPC RATING- D - APPX 34 SQM\nFLAT 3- 1 BED FIRST FLOOR FLAT-EPC RATING- C - APPX 34 SQM\nFLAT 4- 1 BED FIRST FLOOR FLAT-EPC RATING- C - APPX 34 SQM\nFLAT 5- 1 BED SECOND FLOOR FLAT- EPC RATING- D - APPX 44 SQM",
+ "keyFeatures": [
+  "L&amp;D ESTATE AGENTS",
+  "Block Of Flats With Freehold",
+  "2 X 2 Bedroom Garden Flats",
+  "3 x 1 Bedroom Flats",
+  "Varying Conditions",
+  "Vacant Possession",
+  "Investor Opportunity",
+  "Close To Transport Links",
+  "Allocated Parking",
+  "Must Be Viewed"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/768ae514d/92268168/768ae514d8cef6ee0dd335075cf95ce6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d841668fa/92268168/d841668fae18ec4a75d7b54d2c06cd0d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b6466be32/92268168/b6466be321f47cdc04c41e1550644691.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dee074469/92268168/dee07446930ea4ae0f3ef28ef69bde0e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ba2eb35d1/92268168/ba2eb35d183a6d54a44b688081f2d46e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bf330fa20/92268168/bf330fa20c2e22aaa5e8bdfd5da4c4af.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ce0782356/92268168/ce0782356908f8232d02659557a9597f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1f5657068/92268168/1f56570681ffa3a9a05f04725438be16.jpeg",
+  "https://media.rightmove.co.uk/property-photo/491eafa14/92268168/491eafa14ea76179f5734d4d9c03c842.jpeg",
+  "https://media.rightmove.co.uk/property-photo/989511b58/92268168/989511b58ad96cb83fcbcc67ee502bf6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/57bd6f7f9/92268168/57bd6f7f99e658ea5eaa58b46c112190.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b5780263d/92268168/b5780263df02bd3100daa6e32e71200a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a1d3d3436/92268168/a1d3d3436232045b76363f7c844bb1d5.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Peterborough Station",
+   "miles": 2.4140628259742214,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Whittlesea Station",
+   "miles": 4.834589328374049,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "L&D Estate Agents, Covering Luton & Dunstable",
+ "city": "Peterborough",
+ "sourceOutcode": "PE1",
+ "scrapedAt": "2026-08-31T14:51:22.426Z"
+}

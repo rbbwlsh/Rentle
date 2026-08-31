@@ -1,0 +1,85 @@
+{
+ "id": "92566101",
+ "mode": "buy",
+ "displayAddress": "Wilson Street, Merchant City, Glasgow G1",
+ "outcode": "G1",
+ "incode": "1HD",
+ "latitude": 55.858904,
+ "longitude": -4.248556,
+ "priceAmount": 230000,
+ "priceLabel": "£230,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92566101",
+ "area": "Merchant City",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 657,
+  "sizeSqM": 61,
+  "tenureType": null,
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "D",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added today"
+ },
+ "sizeSqFt": 657,
+ "sizeSqM": 61,
+ "description": "A fabulous two-bedroom apartment in the heart of the Merchant City, perfectly positioned on Wilson Street and surrounded by some of the city's best restaurants, bars, cafés and shops. Offering bright, well-proportioned accommodation with a sociable open-plan layout, this is a great opportunity for anyone looking to enjoy all that Glasgow city centre has to offer right on the doorstep.\n\nThe property forms part of Wilson Court, a well-maintained development which has benefited from refurbishment works, with secure entry, lift access to all floors and well-kept communal areas.\n\nInternally, the accommodation is bright and well proportioned, with a welcoming reception hallway providing access to all of the main rooms, as well as a useful storage cupboard.\nThe lounge is a lovely, bright space which allows plenty of natural light into the room and offers ample space for comfortable seating and a dining table and chairs, making this a genuinely sociable living space. The open-plan fitted kitchen sits neatly within the room and offers an excellent amount of cupboard and unit space.\n\nThere are two well-proportioned double bedrooms, both benefiting from fitted storage. The family bathroom is also generously sized and features a full three-piece suite.\n\nFurther benefits include double glazing, electric heating, lift access to all floors and well-maintained communal areas while FTTC broadband is available.\n\nThe location is undoubtedly one of the biggest attractions. The Merchant City is known for its fantastic mix of restaurants, bars, cafés, shops and cultural attractions, while the wider city centre is all within easy reach. Glasgow Queen Street Station is approximately five minutes' walk away, with Glasgow Central Station also within easy reach.\n\nThe property is particularly convenient for city centre businesses, the Royal Infirmary, Strathclyde University, Glasgow Caledonian University and the City of Glasgow College, making it an excellent choice for professionals, students or anyone wanting to be right in the middle of the action.\n\nA fantastic city-centre apartment in an enviable Merchant City location, offering bright accommodation, excellent transport links and all the convenience of city living on the doorstep. Early viewing is highly recommended.",
+ "keyFeatures": [
+  "Prime Merchant City location",
+  "Two well-proportioned double bedrooms",
+  "Bright open-plan lounge and fitted kitchen",
+  "Double bedrooms with fitted wardrobes",
+  "Secure-entry Wilson Court development",
+  "Lift access to all floors",
+  "Spacious three-piece bathroom",
+  "Well-maintained communal areas",
+  "Approximately five minutes’ walk from Queen Street Station"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/e047026a7/92566101/e047026a730f9cc6ee955e1239fb68d8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b46895964/92566101/b46895964f9ebc79aee49b0c589169fd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/db7fe562b/92566101/db7fe562bd6213d2f957d323bca5a349.jpeg",
+  "https://media.rightmove.co.uk/property-photo/847b18b2c/92566101/847b18b2c6ec734815d58174dca16efa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/23828749c/92566101/23828749ccd87dbef9a11bf7fe20dc93.jpeg",
+  "https://media.rightmove.co.uk/property-photo/09156da47/92566101/09156da474c5d8267153aa25737d4a24.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ad4501b85/92566101/ad4501b8568391f15fb28a23099a2ce2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f09c3043/92566101/5f09c3043e1ec48bf2b20e3f43eb4998.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2039e7df9/92566101/2039e7df9281541d31dde131acb6fcb2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/356b45b82/92566101/356b45b827685ca08336ef02951303da.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Argyle Street Station",
+   "miles": 0.1698556472154941,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "St. Enoch Station",
+   "miles": 0.23162225427717442,
+   "types": [
+    "LIGHT_RAILWAY"
+   ]
+  },
+  {
+   "name": "Glasgow Queen Street Station",
+   "miles": 0.2479167736375144,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "West End Letting & Sales, Glasgow",
+ "city": "Glasgow",
+ "sourceOutcode": "G1",
+ "scrapedAt": "2026-08-31T16:56:17.745Z"
+}

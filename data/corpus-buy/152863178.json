@@ -1,0 +1,85 @@
+{
+ "id": "152863178",
+ "mode": "buy",
+ "displayAddress": "Great George Street, Leeds, West Yorkshire, LS1",
+ "outcode": "LS1",
+ "incode": "3DL",
+ "latitude": 53.801757,
+ "longitude": -1.553825,
+ "priceAmount": 130000,
+ "priceLabel": "£130,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/152863178",
+ "area": "Leeds, West Yorkshire",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 678,
+  "sizeSqM": 63,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 25/08/2026"
+ },
+ "sizeSqFt": 678,
+ "sizeSqM": 63,
+ "description": "Our latest listing is a 2 bedroom Flat located in Leeds. It is in close proximity to valuable amenities, is able to generate rewarding rental returns and has a tenant currently situated.\r\n\r\nFor investors looking to expand their portfolio, this is a fantastic opportunity!\r\n\r\nThis well-kept home features 2 bedrooms, lounge, kitchen, ensuite.\r\n\r\nInvestment details\r\n\r\nIt currently produces an annual gross income of £13,140. Considering the purchase price, this will make for a worthwhile addition to an investors property portfolio.\r\n\r\nFor greater detail on this property's investment potential, please see the Let Property Pack linked below.\r\n\r\nIf you are interested, please call us.\r\n\r\nTenancy Details\r\n\r\nThe current tenants have lived in the property for several years and have consistently paid their rent for the duration of their stay. They do not have any intentions to move out so hope to remain in the property.\r\n\r\nWe are committed to facilitating a smooth transaction process between buyer and seller. To allow for maximum commitment to the sale from both parties, a Buyers Premium will apply in order to secure a property.",
+ "keyFeatures": [
+  "Buy-to-Let Opportunity",
+  "Long Term Tenant Currently Situated",
+  "Likely to attract enquiries from Serious Investors &amp; Developers.",
+  "Well Maintained Property",
+  "Spacious Rooms",
+  "INVESTMENT POTENTIAL DETAILED BELOW (Let Property Pack)",
+  "Investment Opportunity"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/3fd1eb150/152863178/3fd1eb150409eafdf4f5f744124567da.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c5e74660a/152863178/c5e74660a6a84fb0a2b8ffe66229ba64.png",
+  "https://media.rightmove.co.uk/property-photo/eba6535bc/152863178/eba6535bc8c7108619a05b7d529d9675.png",
+  "https://media.rightmove.co.uk/property-photo/e240bf43b/152863178/e240bf43b1d88ffea75d76d9855288b4.png",
+  "https://media.rightmove.co.uk/property-photo/fd7a86bc5/152863178/fd7a86bc595e9c632c5990c1da9e713a.png",
+  "https://media.rightmove.co.uk/property-photo/db179718e/152863178/db179718ea4f1c90fb12d66dbda5047f.png",
+  "https://media.rightmove.co.uk/property-photo/0d15f0ba0/152863178/0d15f0ba031dfab7e5b256d6fdc5519c.png",
+  "https://media.rightmove.co.uk/property-photo/b0ebaa3ff/152863178/b0ebaa3ff9cefcb1910dfb518f775a4b.png",
+  "https://media.rightmove.co.uk/property-photo/d2b64182d/152863178/d2b64182dc3c3804dba4bcb650526c9f.png",
+  "https://media.rightmove.co.uk/property-photo/9524132e9/152863178/9524132e9beb2980471993452cc3ecfa.png",
+  "https://media.rightmove.co.uk/property-photo/e7c2477b2/152863178/e7c2477b2d42045d2f4469a29fd6a0de.jpeg",
+  "https://media.rightmove.co.uk/property-photo/806a2f340/152863178/806a2f340b170ce8e7339af2a856a677.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 0.6031909188425274,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 1.2188175926767588,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 1.994503598611787,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Let Property Sales & Management, Glasgow",
+ "city": "Leeds",
+ "sourceOutcode": "LS1",
+ "scrapedAt": "2026-08-31T16:55:33.010Z"
+}

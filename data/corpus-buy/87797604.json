@@ -1,0 +1,92 @@
+{
+ "id": "87797604",
+ "mode": "buy",
+ "displayAddress": "Marseille House, Century Wharf, CF10",
+ "outcode": "CF10",
+ "incode": "5NY",
+ "latitude": 51.467547,
+ "longitude": -3.174591,
+ "priceAmount": 145000,
+ "priceLabel": "£145,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/87797604",
+ "area": "Marseille House",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 592,
+  "sizeSqM": 55,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": 164,
+  "annualServiceCharge": 2790,
+  "councilTaxBand": "D",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 08/05/2026"
+ },
+ "sizeSqFt": 592,
+ "sizeSqM": 55,
+ "description": "**IMMACULATE ONE BEDROOM APARTMENT*NO CHAIN** MGY are delighted to bring to market this ground floor, one bedroom apartment situated within the popular development of Century Wharf. The accommodation briefly comprises entrance hallway, lounge/kitchen, bedroom and bathroom. The property further benefits from being chain free, underfloor heating, double glazing throughout, and a video entry intercom system. The development also benefits from 24 hour concierge and leisure facilities with fully equipped swimming pool, gymnasium, sauna and spa. Allocated parking space, visitor parking and bike storage. EWS1 form in place. Ideal first time purchase or investment opportunity. Viewing highly recommended.\n\nEPC Rating: B",
+ "keyFeatures": [
+  "NO CHAIN",
+  "Immaculately Presented",
+  "One Bedroom, Ground Floor Apartment",
+  "One Allocated Parking Space",
+  "Onsite Concierge &amp; Leisure Facilities",
+  "EWS1 Form In Place",
+  "EPC Rating C"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/48532277f/87797604/48532277f46f826f3a65c2f7d9b07cb4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5cce6f8a8/87797604/5cce6f8a8a406bb520a1d7a5670b547d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/344a445a5/87797604/344a445a5c4d08133de50b9c1c7adffb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3e24c4537/87797604/3e24c453754edbf8c598bcefd64acfb9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9201ecd2b/87797604/9201ecd2b1357f884558aad0f8b35950.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ddb765d46/87797604/ddb765d4687cb55e59190d6826c802ef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/59be295d3/87797604/59be295d31d8e49939b50ea5dd1faa2e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/10873aff7/87797604/10873aff7ce9bc808ab013ce97674775.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9aff63bdb/87797604/9aff63bdbfcc939c0b503381f4dd3b4a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/06e9ad9b9/87797604/06e9ad9b97219da54f8579ec46046a7c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2ecec28bf/87797604/2ecec28bfd25f523d2461a545217368f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5e7f96785/87797604/5e7f9678568af2ef7adfb842a24b32ec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fe7a28428/87797604/fe7a2842812d38b8c528e22548c15a15.jpeg",
+  "https://media.rightmove.co.uk/property-photo/05397ae21/87797604/05397ae21fe65bc5eaf4b3178a5269fe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/018825b4b/87797604/018825b4b4208b20fe57d958c191012f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1f4a7c768/87797604/1f4a7c7680ca42df40e1e4dcd69859de.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e7508efd1/87797604/e7508efd182f6c995123888af00d5842.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9ce97adb4/87797604/9ce97adb47287d20da63887ad1d53412.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6c6a116d6/87797604/6c6a116d6abcc98e2d5fb6c1c19d2f48.jpeg"
+ ],
+ "imageCount": 19,
+ "nearestStations": [
+  {
+   "name": "Cardiff Bay Station",
+   "miles": 0.35264666348239776,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cardiff Central Station",
+   "miles": 0.5645147289345797,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Grangetown Station",
+   "miles": 0.6564396882462564,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "MGY, Cardiff",
+ "city": "Cardiff",
+ "sourceOutcode": "CF10",
+ "scrapedAt": "2026-08-31T15:02:49.992Z"
+}

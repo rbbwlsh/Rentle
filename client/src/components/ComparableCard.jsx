@@ -67,7 +67,7 @@ export default function ComparableCard({ property }) {
         <div className="min-w-0 flex-1">
           <div className="flex items-baseline justify-between gap-2">
             <span className="text-base font-bold text-slate-800">
-              {formatPcm(property.price)}
+              {property.priceLabel || formatPcm(property.price)}
             </span>
             <span className="flex-shrink-0 text-xs text-slate-400">
               {formatDistance(property.distanceMiles)}

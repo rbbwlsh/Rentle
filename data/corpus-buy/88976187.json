@@ -1,0 +1,89 @@
+{
+ "id": "88976187",
+ "mode": "buy",
+ "displayAddress": "Warley Road, Blackpool",
+ "outcode": "FY1",
+ "incode": "2LJ",
+ "latitude": 53.830516,
+ "longitude": -3.052721,
+ "priceAmount": 90000,
+ "priceLabel": "£90,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/88976187",
+ "area": "Blackpool",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": 1130,
+  "sizeSqM": 105,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced today"
+ },
+ "sizeSqFt": 1130,
+ "sizeSqM": 105,
+ "description": "Our latest listing is a 3-bedroom mid-terraced house located in Blackpool. It is in close proximity to valuable amenities, is able to generate rewarding rental returns and has a tenant currently situated.\n\nFor investors looking to expand their portfolio, this is a fantastic opportunity!\n\nThis well-kept home features 3 bedrooms, a well-equipped kitchen, a three-piece bathroom, and a private garden (front and back).\n\nIt currently produces an annual gross income of £5,280 with tenants currently situated. Considering the purchase price and the potential rental income that could be earned in future years, this will make for a worthwhile addition to an investors property portfolio.\n\nFor greater detail on this property's investment potential, please see the Let Property Pack linked below.\n\nIf you are interested, please call us.\n\nTenancy Details\n\nThere are tenants that currently reside in the property and have consistently paid their rent for the duration of their stay. They do not have any intentions to move out so hope to remain in the property.\n\nWe are committed to facilitating a smooth transaction process between buyer and seller. To allow for maximum commitment to the sale from both parties, a Buyers Premium will apply in order to secure a property.",
+ "keyFeatures": [
+  "Private Garage Parking",
+  "Private Garden (front and back)",
+  "Buy-to-Let Opportunity",
+  "Tenant Currently Situated",
+  "Likely to attract enquiries from Serious Investors &amp; Developers",
+  "INVESTMENT POTENTIAL DETAILED BELOW (Let Property Pack)",
+  "RICS Level 2 Survey Available Upon Enquiry",
+  "Cash Buyers Only"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/ff408e4f5/88976187/ff408e4f504521624337c4c214d2d812.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4407256c5/88976187/4407256c5b7d25fd1788ef530480e732.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ff118d35f/88976187/ff118d35f0f940d007dade387a4a6759.jpeg",
+  "https://media.rightmove.co.uk/property-photo/85493ba75/88976187/85493ba75ac51a247ff50dc5f09a81f6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7715604d6/88976187/7715604d69918b58ff004a8a6c794fc1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5a1c87261/88976187/5a1c87261853470986b974c72622bb11.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6f773fee0/88976187/6f773fee0388e36e4840e0dd3c1d508f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d728d1b5b/88976187/d728d1b5b72f0b9429938f23b742433f.png",
+  "https://media.rightmove.co.uk/property-photo/cafdc5c89/88976187/cafdc5c89e80e2184760f38d0bb67a4a.png",
+  "https://media.rightmove.co.uk/property-photo/755d8a01c/88976187/755d8a01c4aa62cfa51a4c856a75186a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/59619f605/88976187/59619f605745e6f33c0fc09f82ec268d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3dcbe2c36/88976187/3dcbe2c367f06d9cc2a2d8c055fd5830.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d4fe5e1a2/88976187/d4fe5e1a2eba5c5981c63f3108d86858.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8380dcc6b/88976187/8380dcc6b7554dc2dcfb8e643a1a02e2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3cbfb0d2b/88976187/3cbfb0d2b4c111f67cce08ba6806676f.jpeg"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Blackpool North Station",
+   "miles": 0.6247588772813227,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Layton Station",
+   "miles": 0.9539015286897979,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Blackpool South Station",
+   "miles": 2.2374540893340606,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Let Property Sales & Management, Glasgow",
+ "city": "Blackpool",
+ "sourceOutcode": "FY1",
+ "scrapedAt": "2026-08-31T16:52:14.050Z"
+}

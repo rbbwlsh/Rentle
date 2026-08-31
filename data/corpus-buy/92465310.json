@@ -1,0 +1,64 @@
+{
+ "id": "92465310",
+ "mode": "buy",
+ "displayAddress": "Lutterworth Road, Northampton",
+ "outcode": "NN1",
+ "incode": "5JL",
+ "latitude": 52.242385,
+ "longitude": -0.872121,
+ "priceAmount": 235000,
+ "priceLabel": "£235,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92465310",
+ "area": "Northampton",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 27/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A traditional bay fronted three bedroomed Victorian terrace property situated on a quiet road the popular residential area of Abington. The accommodation comprises entrance hall, lounge/diner, kitchen/breakfast room and cellar. To the first floor there are three bedrooms and a family bathroom. Outside there is a low maintenance rear garden which is mainly laid to gravel and lawn and the garden enjoys a sunny aspect and privacy.\n\nAccommodation - \n\nGround Floor - \n\nEntrance Hall - Enter via a UPVC double glazed front door with obscure glass window and porthole window above, radiator, stairs to the first floor and door to:-\n\nLounge/Diner - 7.42m x 3.43m (24'4 x 11'3) - UPVC double glazed window to the front and radiator. In the dining area there is a UPVC double glazed window to the rear and radiator. A door leads to:-\n\nKitchen/Breakfast Room - 5.26m x 2.34m (17'3 x 7'8) - Fitted with a range of base and eye level units, modern work surfaces, stainless steel sink and drainer with chrome mixer tap, appliances to include oven, halogen hob and extractor, plumbing for washing machine and dishwasher, space for fridge/freezer, breakfast bar and UPVC double glazed window to the side elevation. A door to the cellar and a further door to the rear lobby.\n\nRear Lobby - Storage cupboard to the side and UPVC double glazed window and door to the rear garden.\n\nCellar - Power and lighting.\n\nFirst Floor - \n\nLanding - Loft access hatch with pull down ladder, built in wardrobe and doors leading to:-\n\nBedroom One - 4.32m x 3.12m (14'2 x 10'3) - Two UPVC double glazed windows to the front elevation, radiator, storage cupboard and wardrobe.\n\nBedroom Two - 3.48m x 2.64m (11'5 x 8'8) - UPVC double glazed window to the rear elevation and radiator.\n\nBedroom Three - 2.77m x 2.36m (9'1 x 7'9) - UPVC double glazed window to the rear elevation and radiator.\n\nBathroom - 3.25m x 1.40m (10'8 x 4'7) - Suite comprising WC, wash hand basin, panelled bath with shower attachment and glass screen, radiator, extractor and two UPVC double glazed windows with obscure glass to the side elevation.\n\nOutside - \n\nRear Garden - The low maintenance rear garden is mainly laid to gravel and lawn and is enclosed by brick walling. The rear garden enjoys a sunny aspect and a high degree of privacy.\n\nServices - Main drainage, gas, water and electricity are connected.\n\nCouncil Tax - West Northamptonshire Council - Band B\n\nLocal Amenities - There are a variety of shops on the Wellingborough Road, including a supermarket, banks, fashion and furniture stores, newsagents and greengrocers as well as a bus service from the Wellingborough Road to Northampton town centre. The Weston Favell Shopping Centre incorporating Tesco Superstore lies approximately one mile distant.  Local schools include secondary schooling at Northampton School for Boys on the Billing Road and ample  Primary schooling is available.  Motorway access is via Rushmere Road and then Nene Valley Way to Junction 15.\n\nHow To Get There - From Northampton town centre proceed in an easterly direction along the Billing Road passing St Andrews Hospital and just before the Northampton School for Boys take the second turning on the left into Lutterworth Road. Proceed towards the end of the road and the property can be found on the left hand side.\n\nDoimb27082026/0461 -",
+ "keyFeatures": [
+  "Traditional three bedroomed Victoria Terrace",
+  "Located on a quiet road in the popular are of Abington",
+  "Private, sunny rear garden"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/b7c2b87d8/92465310/b7c2b87d8c43556df0eeebd6177a64a7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/df8d6dd3a/92465310/df8d6dd3a43df46033886a1b830a7007.jpeg",
+  "https://media.rightmove.co.uk/property-photo/22bf143ac/92465310/22bf143ac5f3b684ae821bea5e3c39e2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/957a7c26d/92465310/957a7c26dad8e9b299957b091a1fc647.jpeg",
+  "https://media.rightmove.co.uk/property-photo/93158c742/92465310/93158c74292342332cd6e542d0fb513f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d01e1ef27/92465310/d01e1ef27b38ca98ef8d3676ff954da6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a624f7503/92465310/a624f750395b9a211d8cbab21ff1a81d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/564a9b167/92465310/564a9b167a85adc935c1fc290bc08b41.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1f759ea19/92465310/1f759ea1997fbe83b272e67535c6544f.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Northampton Station",
+   "miles": 1.516761331169168,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Richard Greener, Northampton",
+ "city": "Northampton",
+ "sourceOutcode": "NN1",
+ "scrapedAt": "2026-08-31T16:53:11.164Z"
+}

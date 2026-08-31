@@ -1,0 +1,94 @@
+{
+ "id": "92239854",
+ "mode": "buy",
+ "displayAddress": "Dorchester Avenue, Glasgow, G12",
+ "outcode": "G12",
+ "incode": "0EE",
+ "latitude": 55.892451,
+ "longitude": -4.310084,
+ "priceAmount": 150000,
+ "priceLabel": "£150,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92239854",
+ "area": "Glasgow",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 21/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This beautifully presented three-bedroom apartment is situated in the highly sought-after Kelvindale area of Glasgow's fashionable West End. Finished to an exceptional standard throughout, the property offers a bright and welcoming atmosphere, complemented by stylish interiors and a high-quality finish. This block of flats sits at the end of a terrace and benefits from larger gardens that wrap around the side. span>\n\nTo the rear, the apartment enjoys peaceful open views across the lush woodlands bordering the banks of the Forth and Clyde Canal and onto Dawsholm Park, creating a tranquil setting while remaining within easy reach of the vibrant amenities of the West End. Access to public transport is excellent, with the Kelvindale train station just 100 yards away, offering regular services to the city centre.\n\nAccommodation: clean and tidy communal stairwell, reception hallway, lounge, dining room or 3rd bedroom, two double bedrooms and finally a contemporary bathroom with an over-bath shower.\n\nExternally, there is a private deck and shared gardens.\nSpecification: gas central heating, double glazing and a security entry system.\n\nDisclaimer\n\nWhilst we make enquiries with the Seller to ensure the information provided is accurate, Yopa makes no representations or warranties of any kind with respect to the statements contained in the particulars which should not be relied upon as representations of fact. All representations contained in the particulars are based on details supplied by the Seller. Your Conveyancer is legally responsible for ensuring any purchase agreement fully protects your position. Please inform us if you become aware of any information being inaccurate.",
+ "keyFeatures": [
+  "3 bedroom flat",
+  "Backs onto the Forth and Clyde Canal",
+  "100 yards to Kelvindale train station",
+  "Private deck within a shared garden",
+  "Double glazing",
+  "Gas central heating",
+  "Security entry"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/89422f82b/92239854/89422f82bd10bc5d36fc3f778f79f8f8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0b255131b/92239854/0b255131b6f0af1e534598fe25a0ffb2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/39ab6aa2d/92239854/39ab6aa2da283fce7e656ee72df1e1aa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ba4bfbd2e/92239854/ba4bfbd2ea06d28f5caf1709606c8819.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7890dad1b/92239854/7890dad1bc03b3cb6a62abaa6a6dfece.jpeg",
+  "https://media.rightmove.co.uk/property-photo/28dafcd80/92239854/28dafcd80edcb160e4b44677a4e95c16.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ba8c3fe1/92239854/8ba8c3fe18d835097c4c271a17f61a62.jpeg",
+  "https://media.rightmove.co.uk/property-photo/24dcba58a/92239854/24dcba58a01cefcdd1c5ae0b82c7a389.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c5baa0cc3/92239854/c5baa0cc32d30ba10c7fb72d91b4af44.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e735595a4/92239854/e735595a47f0475aa18b5f9e7c81e432.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bfb19c4aa/92239854/bfb19c4aa56a022d1766e8b84ae19ec2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7a32b771b/92239854/7a32b771bcc8db2560ffc447cdb7ecf3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/166b47e85/92239854/166b47e852ae95fe1bb18047495e0d00.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3ce2a487e/92239854/3ce2a487e1e16c278d8e83fb1b847810.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a6fab2d49/92239854/a6fab2d499ae0fca32592f8c227710bf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/de753cfb1/92239854/de753cfb1cedd44d35a9a7bc5372dd16.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e55d08d12/92239854/e55d08d12e5f1a67be07dca68567611f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b9f758db1/92239854/b9f758db14bdb6d8809df9cf6b7f75f4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/03f8955c4/92239854/03f8955c460c006c626bc4862261e063.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7f903135a/92239854/7f903135ada640aaf9520900295c9a50.jpeg",
+  "https://media.rightmove.co.uk/property-photo/84089ddef/92239854/84089ddef0ffd186f8ad860bf8a4146d.jpeg"
+ ],
+ "imageCount": 21,
+ "nearestStations": [
+  {
+   "name": "Kelvindale Station",
+   "miles": 0.06853061283247433,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Anniesland Station",
+   "miles": 0.5256688673250055,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Maryhill Station",
+   "miles": 0.5202375833512922,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Yopa, Scotland & The North",
+ "city": "Glasgow",
+ "sourceOutcode": "G12",
+ "scrapedAt": "2026-08-31T16:58:49.762Z"
+}

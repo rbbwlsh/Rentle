@@ -1,0 +1,85 @@
+{
+ "id": "92295588",
+ "mode": "buy",
+ "displayAddress": "The Chare, Newcastle upon Tyne, NE1",
+ "outcode": "NE1",
+ "incode": "4DD",
+ "latitude": 54.97599,
+ "longitude": -1.618128,
+ "priceAmount": 150000,
+ "priceLabel": "£150,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92295588",
+ "area": "The Chare, Newcastle upon Tyne",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": 474,
+  "sizeSqM": 44,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 84,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 22/08/2026"
+ },
+ "sizeSqFt": 474,
+ "sizeSqM": 44,
+ "description": "**TENANTED PROPERTY**\n\nOffered for sale strictly as an investment-only opportunity, this well-presented apartment is currently tenanted and provides an attractive opportunity for landlords and investors seeking an established rental income.\n\nThe property forms part of an attractive modern development and offers bright, well-proportioned accommodation throughout. The accommodation comprises a comfortable living/dining area, a fitted kitchen with a range of wall and base units, integrated cooking facilities and space for a washing machine, a well-presented bedroom and a modern bathroom with bath and shower.\n\nThe apartment is neutrally decorated throughout and benefits from excellent natural light, creating a pleasant and comfortable living environment.\n\nCurrently let to a tenant, the property offers an attractive gross rental yield of approximately 12%, making this an appealing proposition for investors seeking a strong income-producing property.\n\n**DISCLAIMER: Photographs may not reflect the current condition, presentation or furnishings of the property. Updated photography is not be available due to the property being tenanted.**",
+ "keyFeatures": [
+  "MODERN DEVELOPMENT",
+  "EXCELLENT NATURAL LIGHT",
+  "INTEGRATED COOKING FACILITIES",
+  "OPEN-PLAN LIVING/DINING",
+  "MODERN BATHROOM",
+  "ATTRACTIVE RENTAL INVESTMENT",
+  "ESTABLISHED RENTAL INCOME",
+  "POPULAR CITY LOCATION",
+  "CLOSE TO UNIVERSITY &amp; RVI",
+  "IDEAL FOR LANDLORDS &amp; INVESTORS"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f6927b3e8/92295588/f6927b3e8fc7613c9c7f6dec4c20b973.png",
+  "https://media.rightmove.co.uk/property-photo/490466532/92295588/490466532e3712344deec12e0c21436a.png",
+  "https://media.rightmove.co.uk/property-photo/343996ddc/92295588/343996ddc602cbb7a62d58c5d555e138.png",
+  "https://media.rightmove.co.uk/property-photo/5a802b55e/92295588/5a802b55ed2149818b37b7bb82c6d11e.png",
+  "https://media.rightmove.co.uk/property-photo/8a8afb4d8/92295588/8a8afb4d800bf05f3798f188d696593f.png",
+  "https://media.rightmove.co.uk/property-photo/0c541681d/92295588/0c541681dace4ff7c1e06c25be172264.png",
+  "https://media.rightmove.co.uk/property-photo/a292e0e89/92295588/a292e0e8977c0eae33af1c9d9bc7e707.png"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "St James Station",
+   "miles": 0.17408160185568475,
+   "types": [
+    "LIGHT_RAILWAY"
+   ]
+  },
+  {
+   "name": "Newcastle Central Station",
+   "miles": 0.5142481869246843,
+   "types": [
+    "NATIONAL_TRAIN",
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Manors Station",
+   "miles": 0.5457763088560519,
+   "types": [
+    "NATIONAL_TRAIN",
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Hunters, Newcastle",
+ "city": "Newcastle",
+ "sourceOutcode": "NE1",
+ "scrapedAt": "2026-08-31T15:03:25.573Z"
+}

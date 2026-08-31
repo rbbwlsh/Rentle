@@ -1,0 +1,84 @@
+{
+ "id": "92020812",
+ "mode": "buy",
+ "displayAddress": "Mont Le Grand, Exeter, Devon, EX1",
+ "outcode": "EX1",
+ "incode": "2PD",
+ "latitude": 50.724221,
+ "longitude": -3.510672,
+ "priceAmount": 160000,
+ "priceLabel": "£160,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92020812",
+ "area": "Exeter, Devon",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 14/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Property Description\n\nMont Le Grand is a spacious one bedroom lower ground floor apartment, forming part of an attractive grade II listed period building and enjoying a particularly convenient position close to the heart of Exeter.\n\nThe property offers unusually generous accommodation for a one bedroom apartment and, while it would now benefit from some updating, provides an excellent opportunity for a purchaser to improve and personalise the property to their own taste.\n\nSitting Room\n\nThe generous sitting room measures approximately 14'10\" x 11'2\" and provides plenty of space for both seating and additional furniture. A large sash style window brings natural light into the room and enjoys a pleasant outlook towards the surrounding greenery, while a fireplace provides a focal point.\n\nKitchen\n\nThe separate kitchen is another particularly good sized room, measuring about 15'9\" x 9'2\". The existing kitchen provides storage and worktop space together with room for appliances and informal dining.\n\nThe room offers excellent potential for a purchaser wishing to update the kitchen and create a more contemporary space.\n\nBedroom\n\nThe bedroom measures approximately 14'9\" x 8'11\" and provides a comfortable double room with space for additional bedroom furniture. A large sash style window provides natural light and an outlook towards the gardens.\n\nBathroom\n\nThe bathroom is unusually generous for a one bedroom apartment, measuring approximately 11'6\" x 6'8\", and is fitted with a bath, WC and wash basin.\n\nOutside\n\nA particular feature of Mont Le Grand is the established communal garden, providing residents with an attractive and surprisingly generous area of green space.\n\nPredominantly laid to lawn and surrounded by mature trees, shrubs and planting, the gardens provide a pleasant place to sit outside and enjoy the surroundings, adding considerably to the appeal of the property.\n\nA garage is also available by separate negotiation.\n\nLocation\n\nMont Le Grand occupies a sought after and established position close to the heart of Exeter, combining a surprisingly green setting with excellent access to the city centre.\n\nThe property is particularly well placed for everyday amenities, with Waitrose just a short distance away, together with the shops and facilities along Heavitree Road. The Royal Devon and Exeter Hospital, Magdalen Road and Exeter city centre are also within easy reach.\n\nDespite its convenient position, Mont Le Grand has a pleasantly leafy and established feel, with mature surroundings and communal gardens providing welcome green space.\n\nWith its generous proportions, communal gardens, convenient location and considerable scope for improvement, Mont Le Grand represents an excellent opportunity for first time buyers, owner occupiers, investors or those seeking a well located Exeter base.\n\nProperty Information\n\nTENURE: Leasehold\n\nLEASE LENGTH: 184 years from and including 25th March 1988\n\nGROUND RENT: £50 paid annually \nEach flat contributes 25% of cost when work is needed\n\nCOUNCIL TAX: Band A\n\nSERVICES: Mains electricity, water and drainage\n\nHEATING: Electric\n\nBROADBAND: Full fibre broadband available\n\nMOBILE: Signal dependent on provider\n\nLISTED: Grade II listed \n\nGARAGE: Available by separate negotiation\n\nPLEASE NOTE.\nOur business is supervised by HMRC for anti-money laundering purposes. If your offer to purchase a property is accepted, you will be required to meet the necessary checks under the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017. This includes ID verification, anti-money laundering compliance, and source of funds checks. A fee of £25 (inc. VAT) will be charged for each verification carried out.",
+ "keyFeatures": [
+  "One Bedroom Lower Ground Floor Apartment",
+  "Generous Accommodation",
+  "Sitting Room",
+  "Separate Kitchen",
+  "Double Bedroom",
+  "Spacious Bathroom",
+  "Communal Gardens",
+  "Sought After Exeter Location",
+  "Close to Waitrose and the City Centre",
+  "Scope for Improvement"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d03a3ec98/92020812/d03a3ec980fbe30c119efe492709a259.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4128f7f56/92020812/4128f7f56f70ef512576ea0929ae3c8b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b158b5dff/92020812/b158b5dffccb7100b738bbbb0043126e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9a1bfd3ea/92020812/9a1bfd3ea783391fffd9b61a1f2cd1bf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/450523add/92020812/450523adde9d74c0ede008da2bfc8b99.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c1120f7a1/92020812/c1120f7a193f442715d480133c6c0900.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a6cf1feca/92020812/a6cf1feca6f43d6f9987caa4644401b7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3089fe03d/92020812/3089fe03d5e2b99dd02196ea56972fe8.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Polsloe Bridge Station",
+   "miles": 0.6189560553520579,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "St James Park Station",
+   "miles": 0.6760932575862739,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Exeter Central Station",
+   "miles": 0.9934681802103299,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Winkworth, Exeter",
+ "city": "Exeter",
+ "sourceOutcode": "EX1",
+ "scrapedAt": "2026-08-31T14:57:06.978Z"
+}

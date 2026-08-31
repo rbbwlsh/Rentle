@@ -1,0 +1,86 @@
+{
+ "id": "91297917",
+ "mode": "buy",
+ "displayAddress": "Cemetery Road, Sharrow, S11 8FQ",
+ "outcode": "S11",
+ "incode": "8FQ",
+ "latitude": 53.370146,
+ "longitude": -1.482665,
+ "priceAmount": 125000,
+ "priceLabel": "£125,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91297917",
+ "area": "Sharrow",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Ground Flat",
+ "details": {
+  "propertyType": "Ground Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 126,
+  "annualGroundRent": 7.8,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 26/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Offered for sale with no onward chain, this well-presented one-bedroom ground floor apartment occupies a convenient position on Cemetery Road, within the popular and well-connected Sharrow area of Sheffield.\n\nThe accommodation includes a bright and comfortable living room with ample space for both seating and dining. A contemporary fitted kitchen provides a practical and attractive workspace, complete with modern units, integrated appliances and generous storage.\n\nThe property also features a spacious double bedroom and a stylish bathroom finished with modern fittings. Its ground floor position makes the apartment easily accessible and particularly well suited to first-time buyers, professionals, couples or investors.\n\nResidents benefit from excellent access to public transport, with regular bus services operating nearby. A wide selection of independent shops, cafés, restaurants and bars can also be found within easy reach, while Sheffield city centre and the surrounding areas are readily accessible.\n\nCombining modern interiors, a convenient location and the advantage of no onward chain, this apartment represents an appealing opportunity for buyers seeking a low-maintenance home in a vibrant and established neighbourhood.\n\nAnti-Money Laundering and Compliance\n\nSuccessful buyers will be required to complete anti-money laundering and proof of funds checks. Our partner, CreditSafe Limited will send a secure link for you to complete the biometric checks electronically. A non-refundable fee of £40 per person will apply for these checks. Once these checks have been completed, Staves will issue a memorandum of sale to all relevant parties.",
+ "keyFeatures": [
+  "One-bedroom ground floor apartment",
+  "Offered with no onward chain",
+  "Spacious double bedroom",
+  "Bright and welcoming living room",
+  "Modern fitted kitchen",
+  "Contemporary bathroom",
+  "Excellent public transport links",
+  "Close to shops, cafés and restaurants",
+  "Easy access to Sheffield city centre",
+  "Ideal for first-time buyers or investors"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c3912caee/91297917/c3912caee60fdde78e67036163e16449.jpeg",
+  "https://media.rightmove.co.uk/property-photo/38a9cdddd/91297917/38a9cdddd9e476bf64f06c041833e442.jpeg",
+  "https://media.rightmove.co.uk/property-photo/18d971895/91297917/18d971895526df8a5d43fcd11900b112.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8bc9fca35/91297917/8bc9fca3592cf0af70c196ba5b48624d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1dbc909e5/91297917/1dbc909e5e541398cb9fffb3fdd47181.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ae5e3778/91297917/8ae5e3778f60c7849ef337876f1b5bbc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/35c28fd96/91297917/35c28fd96db7481467a2961700dae488.jpeg",
+  "https://media.rightmove.co.uk/property-photo/070674cbd/91297917/070674cbdf5a5bbb3b74e15c65dce390.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3f58663fd/91297917/3f58663fdfd80b60bec8bbf077c3f9a3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d56f585ad/91297917/d56f585adc439b1f83df7988ad0ffa84.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "University of Sheffield Tram Stop",
+   "miles": 0.7278729905801126,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "West Street Tram Stop",
+   "miles": 0.7472059001742515,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "City Hall Tram Stop",
+   "miles": 0.8981070538200979,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Staves Estate Agents, Banner Cross",
+ "city": "Sheffield",
+ "sourceOutcode": "S11",
+ "scrapedAt": "2026-08-31T15:03:49.994Z"
+}

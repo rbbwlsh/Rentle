@@ -37,7 +37,11 @@ function toComparable(candidate, target, imagesFor) {
   const station = (candidate.nearestStations || [])[0] || null;
   return {
     price: candidate.priceAmount,
-    priceLabel: candidate.priceLabel || `£${candidate.priceAmount} pcm`,
+    priceLabel:
+      candidate.priceLabel ||
+      (candidate.mode === 'buy'
+        ? `£${candidate.priceAmount}`
+        : `£${candidate.priceAmount} pcm`),
     bedrooms: candidate.bedrooms ?? null,
     bathrooms: candidate.bathrooms ?? null,
     propertySubType: candidate.propertySubType || 'Property',
@@ -49,6 +53,7 @@ function toComparable(candidate, target, imagesFor) {
     sizeSqFt: candidate.sizeSqFt ?? null,
     furnishType: d.furnishType || null,
     letType: d.letType || null,
+    tenureType: d.tenureType || null,
     councilTaxBand: d.councilTaxBand || null,
     nearestStation: station
       ? { name: station.name, miles: station.miles, types: station.types || [] }
@@ -76,25 +81,38 @@ function toComparable(candidate, target, imagesFor) {
 export function pickComparables(target, candidates, { limit = 2, imagesFor } = {}) {
   if (target.latitude == null || target.longitude == null) return [];
 
-  const pool = candidates
-    .filter(
-      (c) =>
-        c.id !== target.id &&
-        c.city === target.city &&
-        c.priceAmount != null &&
-        c.latitude != null &&
-        c.longitude != null
-    )
-    .map((c) => toComparable(c, target, imagesFor));
-
+  const pool = candidates.filter(
+    (c) =>
+      c.id !== target.id &&
+      c.city === target.city &&
+      c.priceAmount != null &&
+      c.latitude != null &&
+      c.longitude != null
+  );
   if (!pool.length) return [];
 
   const bedDiff = (c) =>
     target.bedrooms == null || c.bedrooms == null
       ? 0
       : Math.abs(c.bedrooms - target.bedrooms);
-  pool.sort((a, b) => bedDiff(a) - bedDiff(b) || a.distanceMiles - b.distanceMiles);
+  // Same outcode beats merely-nearby. On the buy side the corpus is a UK-wide
+  // sample of ~12 homes per town, so "closest in the same town" can still be
+  // across a price boundary; the outcode is the tightest honest bracket there
+  // is without a denser scrape.
+  const sameOutcode = (c) =>
+    c.sourceOutcode && c.sourceOutcode === target.sourceOutcode ? 0 : 1;
 
-  const near = pool.filter((c) => c.distanceMiles <= 1.0);
-  return (near.length >= limit ? near : pool).slice(0, limit);
+  const ranked = pool
+    .map((c) => ({
+      c,
+      bed: bedDiff(c),
+      outcode: sameOutcode(c),
+      miles: haversineMiles(target.latitude, target.longitude, c.latitude, c.longitude),
+    }))
+    .sort((a, b) => a.bed - b.bed || a.outcode - b.outcode || a.miles - b.miles);
+
+  const near = ranked.filter((r) => r.miles <= 1.0);
+  return (near.length >= limit ? near : ranked)
+    .slice(0, limit)
+    .map((r) => toComparable(r.c, target, imagesFor));
 }

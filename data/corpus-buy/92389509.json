@@ -1,0 +1,84 @@
+{
+ "id": "92389509",
+ "mode": "buy",
+ "displayAddress": "The Milliners, St. Thomas Street, Redcliff, Bristol, BS1",
+ "outcode": "BS1",
+ "incode": "6WT",
+ "latitude": 51.452377,
+ "longitude": -2.588926,
+ "priceAmount": 165000,
+ "priceLabel": "£165,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92389509",
+ "area": "Redcliff, Bristol",
+ "bedrooms": 0,
+ "bathrooms": null,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 0,
+  "bathrooms": null,
+  "sizeSqFt": 334,
+  "sizeSqM": 31,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 239,
+  "annualGroundRent": 200,
+  "annualServiceCharge": 1517.48,
+  "councilTaxBand": "B",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 25/08/2026"
+ },
+ "sizeSqFt": 334,
+ "sizeSqM": 31,
+ "description": "A beautifully presented first-floor studio apartment extending to approximately 334 sq ft, situated within the highly regarded The Milliners development in Redcliffe, Bristol.\r\n\r\nOverview\r\n\r\nA beautifully presented first-floor studio apartment extending to approximately 334 sq ft, situated within the highly regarded The Milliners development in Redcliffe, Bristol.\r\n\r\nThe apartment has been thoughtfully designed to make the most of its generous open-plan layout, creating a stylish and highly practical home with a clear distinction between the living, sleeping and kitchen areas. The quality of finish throughout is a particular feature, with a contemporary interior that is both smart and easy to maintain.\r\n\r\nThe well-appointed kitchen incorporates sleek fitted cabinetry, complementary work surfaces and integrated appliances, creating a streamlined and sophisticated finish. The contemporary bathroom is equally impressive, featuring modern sanitaryware, quality fittings and stylish tiling, providing a clean and luxurious feel.\r\n\r\nA standout feature of the apartment is the bespoke TV and storage display, which cleverly divides the living and sleeping areas without compromising the sense of space. The integrated television can rotate 180 degrees, allowing it to be viewed comfortably from either the living or sleeping area. Generous built-in storage further enhances the functionality of this cleverly designed feature.\r\n\r\nThe property would make an excellent first-time purchase, city base or investment opportunity, offering a particularly well-finished and cleverly designed home in a popular central Bristol development.\r\n\r\n\r\nLocation\r\n\r\nLocated on Victoria Street in BS1, The Milliners positions you perfectly to enjoy everything Bristol has to offer. Bristol Temple Meads Station is just a short walk away, offering excellent rail links. The vibrant Finzels Reach, Cabot Circus, and the historic Harbourside are all within easy walking distance, putting top-tier restaurants, bars, and shopping right on your doorstep.\r\n\r\n\r\nMaterial information (provided by owner) \r\n\r\nCouncil tax band B, 239 years remaining on lease, £1,517.48pa service charge",
+ "keyFeatures": [
+  "First-floor studio apartment",
+  "Light-filled kitchen, living, and dining area, perfect for entertaining",
+  "Contemporary bathroom",
+  "Popular Redcliffe location",
+  "Excellent access to Bristol city centre and Temple Meads",
+  "Suitable for owner occupation or investment",
+  "No onward chain for a swift, straightforward purchase",
+  "Valid EWS-1"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d9b418b90/92389509/d9b418b906d58949c823807263b45ca5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/177a9bb29/92389509/177a9bb29785150d700d8263ff7917b9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/829bf19ac/92389509/829bf19acfc1ca8efb9d9d8e52353b1d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6c0302096/92389509/6c0302096ca984395fa60bd9d69493ff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9d9848619/92389509/9d9848619e38d5cd38bfcd9dc7db9bb9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f83536974/92389509/f8353697483892fbdca91b29c0c33465.jpeg",
+  "https://media.rightmove.co.uk/property-photo/20a6123c9/92389509/20a6123c9c0a358b70f4c74374a8e41e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b9057427a/92389509/b9057427a834e1cf87520d42a4ad07b4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9176c2772/92389509/9176c27724c8dda80c783812530d9810.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f969945f9/92389509/f969945f9186374801833c711365de6e.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 0.396193711860479,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bedminster Station",
+   "miles": 0.8866548837742125,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Montpelier Station",
+   "miles": 1.104503882113012,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Ocean, Clifton",
+ "city": "Bristol",
+ "sourceOutcode": "BS1",
+ "scrapedAt": "2026-08-31T14:51:36.101Z"
+}

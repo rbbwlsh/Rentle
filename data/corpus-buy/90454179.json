@@ -1,0 +1,104 @@
+{
+ "id": "90454179",
+ "mode": "buy",
+ "displayAddress": "North Fourteenth Street, Milton Keynes, Buckinghamshire",
+ "outcode": "MK9",
+ "incode": "3NP",
+ "latitude": 52.047677,
+ "longitude": -0.75211,
+ "priceAmount": 450000,
+ "priceLabel": "£450,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90454179",
+ "area": "Milton Keynes, Buckinghamshire",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "SHARE_OF_FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": 2948,
+  "councilTaxBand": "TBC",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 03/07/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This incredibly spacious, executive home is located in the heart of Central Milton Keynes, directly opposite Campbell Park and walking distance of the theatre district, shopping and CMK Rail Station. Set over three floors and boasting a double garage, large living room with spacious dual aspect terraces, a beautifully maintained private rear garden, en suite to master bedroom plus a downstairs cloakroom. The ideal choice for families looking for a peaceful but central location with lush greenery on their doorstep!",
+ "keyFeatures": [
+  "Chain Free",
+  "Spacious living room",
+  "Large dual-aspect terraces",
+  "Double garage",
+  "En suite to master bedroom",
+  "Downstairs Cloakroom",
+  "Hidden location next to Campbell Park",
+  "South Facing Private Garden"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/98539342d/90454179/98539342d5a591762359111e7406314c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/284415e56/90454179/284415e565019e85fa5dd33eab520d0b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5b2191bd1/90454179/5b2191bd11b18071b1a5376db95394da.jpeg",
+  "https://media.rightmove.co.uk/property-photo/00e4882b4/90454179/00e4882b4820e7ee825304c1335bdd93.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a584fcd91/90454179/a584fcd915803edfe885552eaa0ac7a1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/848f3d8e2/90454179/848f3d8e2e2365b8157da9fdcc6fa576.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0bff36319/90454179/0bff363192ae2a3971590d5fce1d784f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f947e9b4b/90454179/f947e9b4b4001c8122bdf9f30d233b25.jpeg",
+  "https://media.rightmove.co.uk/property-photo/316fc45a8/90454179/316fc45a820c5702975c77b6ea1ba443.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a1d3c5049/90454179/a1d3c5049af447f7d01d20fd15c706e6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4f777d7a6/90454179/4f777d7a6b2954c5a512ed28a55fa59b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7ad8603d6/90454179/7ad8603d616f6814d2825f9320547b98.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b7871c4e8/90454179/b7871c4e8f41fe1f4d6bad24743e2976.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4437875c0/90454179/4437875c06b1682f037e6094aeed5295.jpeg",
+  "https://media.rightmove.co.uk/property-photo/326b5f77a/90454179/326b5f77a95602b42032b0ebc20384be.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aaa8d58fc/90454179/aaa8d58fcce38d7452d918247dafaa07.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c2a3d07b3/90454179/c2a3d07b3340a7f8544a696f3041b54e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f51cc1fbc/90454179/f51cc1fbc58981628e8aac024dc48423.jpeg",
+  "https://media.rightmove.co.uk/property-photo/31ba098e5/90454179/31ba098e52628e380176d51d8f960a32.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ce62b7c37/90454179/ce62b7c37380447c6109224917be0601.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e161de20a/90454179/e161de20ac20adc0bb84cf2053786ba0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eced3b98b/90454179/eced3b98b7911347a30c534388b25ff3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a387557de/90454179/a387557de747dcc266e022cc0d97d709.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0cebcc9da/90454179/0cebcc9da0cf75eb74bc73526e5937fa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e59a5ab1c/90454179/e59a5ab1c4ecb41a039b2be75517e092.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b39c481bd/90454179/b39c481bdbec87fc9180d212427058b2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a6ce79f29/90454179/a6ce79f293fe08f44a5ec26e169c30fa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d1e0a0cb2/90454179/d1e0a0cb26626498ce44d3c6c5afc16d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/43af0825f/90454179/43af0825f51b0b1ce1e5d7ec4d6405b1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/335e4750b/90454179/335e4750bf3404ed5d502a59d7766b32.jpeg"
+ ],
+ "imageCount": 30,
+ "nearestStations": [
+  {
+   "name": "Milton Keynes Central Station",
+   "miles": 1.270441216761225,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Wolverton Station",
+   "miles": 2.5104175496686043,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Fenny Stratford Station",
+   "miles": 3.6032454339865887,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Leaders together with Alan Francis, Milton Keynes",
+ "city": "Milton Keynes",
+ "sourceOutcode": "MK9",
+ "scrapedAt": "2026-08-31T16:54:58.583Z"
+}

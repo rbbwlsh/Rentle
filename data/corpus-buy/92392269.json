@@ -1,0 +1,84 @@
+{
+ "id": "92392269",
+ "mode": "buy",
+ "displayAddress": "Lethbridge Close, Leicester, LE1",
+ "outcode": "LE1",
+ "incode": "2EB",
+ "latitude": 52.639982,
+ "longitude": -1.125275,
+ "priceAmount": 200000,
+ "priceLabel": "£200,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92392269",
+ "area": "Leicester",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Added on 25/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A STUNNING AND SUPERBLY REFURBISHED DUPLEX FLAT WITH NEWLY FITTED KITCHEN, UPGRADED SHOWER ROOM, GAS CENTRAL HEATING AND BALCONY. A PERFECT FIRST OR INVESTMENT OPPORTUNITY.\n\nFurther benefits include three double bedrooms, large living/dining room with balcony, gas central heating, UPVC double glazing and no onward chain.\n\nThe property is located close to the city centre with mosques and parks in the immediate vicinity.\n\nArrange to view 24/7 via our website yopa.co.uk or by calling our team on the contact number shown\n\nDisclaimer\n\nWhilst we make enquiries with the Seller to ensure the information provided is accurate, Yopa makes no representations or warranties of any kind with respect to the statements contained in the particulars which should not be relied upon as representations of fact. All representations contained in the particulars are based on details supplied by the Seller. Your Conveyancer is legally responsible for ensuring any purchase agreement fully protects your position. Please inform us if you become aware of any information being inaccurate.\n\nMoney Laundering Regulations\n\nShould a purchaser(s) have an offer accepted on a property marketed by Yopa, they will need to undertake an identification check and asked to provide information on the source and proof of funds. This is done to meet our obligation under Anti Money Laundering Regulations (AML) and is a legal requirement.  We use a specialist third party service together with an in-house compliance team to verify your information. The cost of these checks is £82.50 +VAT per purchase, which is paid in advance, when an offer is agreed and prior to a sales memorandum being issued. This charge is non-refundable under any circumstances.",
+ "keyFeatures": [
+  "Large Living/Dining Room with Balcony",
+  "Upgraded Shower Room",
+  "Newly Fitted Kitchen",
+  "Three Bedrooms",
+  "Fully Refurbished Throughout",
+  "Stunning Duplex Apartment"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a88449238/92392269/a88449238413fd05538539d95c703365.jpeg",
+  "https://media.rightmove.co.uk/property-photo/49085e636/92392269/49085e6362a09f92877574b9573387fb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7ec4a1202/92392269/7ec4a1202ccd44916ed53113e2045d2d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bf87346be/92392269/bf87346be77748776d590b913c7df52a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/19abac826/92392269/19abac8269a82d8d2b1b899ac335b9f5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f5937a37/92392269/5f5937a371bf2b30281ee7da96669fe7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5750db010/92392269/5750db010ae2ea3e4001358c9eb16483.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6232b805a/92392269/6232b805a36631096978cf3e4ba51ec4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/86b8567f8/92392269/86b8567f8e373c5c71a071ed2ae7802b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/14c00b45b/92392269/14c00b45b8c390345fadb9b745cc4cd6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8dc3298de/92392269/8dc3298deca2a4a78f494efa46876b88.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b06b44a76/92392269/b06b44a76dc59802b4b8e0ff36c58e77.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Leicester Station",
+   "miles": 0.5577688858014553,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "South Wigston Station",
+   "miles": 4.005801639296891,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Syston Station",
+   "miles": 4.152158817044785,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Yopa, East Midlands & Yorkshire",
+ "city": "Leicester",
+ "sourceOutcode": "LE1",
+ "scrapedAt": "2026-08-31T16:52:48.548Z"
+}

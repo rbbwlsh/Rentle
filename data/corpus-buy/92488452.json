@@ -1,0 +1,87 @@
+{
+ "id": "92488452",
+ "mode": "buy",
+ "displayAddress": "Hulatt Road, Cambridge, CB1",
+ "outcode": "CB1",
+ "incode": "8TH",
+ "latitude": 52.182102,
+ "longitude": 0.151164,
+ "priceAmount": 500000,
+ "priceLabel": "£500,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92488452",
+ "area": "Cambridge",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "End of Terrace",
+ "details": {
+  "propertyType": "End of Terrace",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 825,
+  "sizeSqM": 77,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "D",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": 825,
+ "sizeSqM": 77,
+ "description": "A much improved former 3 bedroom home of 825 sqft / 77sqm, plus a garage. The property has a lovely south-facing garden and enjoys a peaceful, near central city location just off Mowbray Road.\n\nPurchased as a renovation project over 6 years ago, this beautiful home has been transformed into a superb starter home, and has been thoughtfully designed with modern living in mind.  \n\nOn the ground floor is an entrance hall with access to the reception room and a refitted cloakroom W.C. with a bespoke copper sink unit, complemented by attractive tiling and a heated towel rail. There is a large open-plan living / dining room, finished with herringbone wooden floors, with oak and glass balustrade stairs leading up to the first floor. Sliding doors from the dining area lead to a sheltered outdoor seating area. The kitchen has been fitted with a stylish range of units and has various integrated appliances. \n\nUpstairs are 2 double bedrooms and a stylish refitted shower room. \n\nOutside is an open-plan front garden with gated side access to the south-facing rear garden which offers a superb degree of privacy. A single garage and a small drive are located just beyond the rear fence. A pathway from the terrace leads down to a reinforced concrete base which was built to house a stone baked pizza oven. \n\nHulatt Road sits just off Mowbray Road on the South side of the city, ideally placed for access to Addenbrooke's Hospital and the Bio Medical Campus which is only about a 15-minute walk.\n\nThere are a good range of local shops on Cherry Hinton Road and Wulfstan Way as well as a major Sainsbury's supermarket a little over a mile away on Brooks Road. The bustling independent shops, cafes and pubs of Mill Road and Romsey are also just over a mile from the property. The green spaces of Cherry Hinton Hall, Coldhams Common and Nightingale rec are all nearby.\n\nThere are good schools in both the public and private sectors within walking distance.",
+ "keyFeatures": [
+  "Private south-facing garden",
+  "Refitted kitchen and bathrooms",
+  "Garage and parking to the rear",
+  "Former 3-bedroom home of 825 sqft / 77 sqm",
+  "Close to hospital (1mile) and station (1.5 miles)",
+  "End-of-terrace house"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/30d1086fb/92488452/30d1086fb509afd2a05cbcf6720a0fbb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/46ea03445/92488452/46ea03445e92290c16d9d59723644d47.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3552da33e/92488452/3552da33e74ec6b275a510130201eb70.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ddd85140d/92488452/ddd85140d4256dc040e1cc2f3728243f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/059f19c7a/92488452/059f19c7ae8a4e767269f5fb389b76d4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/590712365/92488452/590712365a52cc9be6c6c3b5d345d76a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/166f2440d/92488452/166f2440df493e13afae04cf169298e1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bd7f04425/92488452/bd7f04425fb28e1d887516019270ac8f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2f5c1119d/92488452/2f5c1119de54d547c6e3faa4ab26f1f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a4aa3daa6/92488452/a4aa3daa64060441281fd5883a44db1c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a7a16a72c/92488452/a7a16a72c410eade7a2a85bc7ec7cb20.jpeg",
+  "https://media.rightmove.co.uk/property-photo/93d4168db/92488452/93d4168db0b140f6c73382b3380f7dbb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e987edffb/92488452/e987edffbbdf5523b2a026f2dbebf5b3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0de1bb7ac/92488452/0de1bb7ac26fb7f3617bebada7649923.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ecfa5eed9/92488452/ecfa5eed92a4391489d5a5c095d72482.jpeg"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Cambridge Station",
+   "miles": 0.9914247202709697,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Shelford Station",
+   "miles": 2.3434896726496897,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cambridge North",
+   "miles": 2.909128095669242,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Gray & Toynbee, Cambridge South",
+ "city": "Cambridge",
+ "sourceOutcode": "CB1",
+ "scrapedAt": "2026-08-31T15:01:07.244Z"
+}

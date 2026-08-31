@@ -1,0 +1,90 @@
+{
+ "id": "92467812",
+ "mode": "buy",
+ "displayAddress": "Admiralty Road, Portsmouth",
+ "outcode": "PO1",
+ "incode": "3GT",
+ "latitude": 50.800491,
+ "longitude": -1.104388,
+ "priceAmount": 170000,
+ "priceLabel": "£170,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92467812",
+ "area": "Portsmouth",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 410,
+  "sizeSqM": 38,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 107,
+  "annualGroundRent": 150,
+  "annualServiceCharge": 2404.98,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Added on 27/08/2026"
+ },
+ "sizeSqFt": 410,
+ "sizeSqM": 38,
+ "description": "Situated on sought-after Admiralty Road, this well-presented one-bedroom apartment offers an outstanding investment opportunity with a tenant already in situ, generating an impressive £1,070 per calendar month from day one.\n\nBuilt in 2008, this modern purpose-built apartment extends to approximately 409 sq ft and has been thoughtfully designed to maximise both space and comfort. The property is presented in excellent condition throughout, offering a bright and contemporary living environment that continues to appeal to tenants seeking quality accommodation in a highly convenient location.\n\nThe accommodation comprises a spacious reception room, a well-proportioned double bedroom, a modern fitted kitchen, and a stylish bathroom, all finished to a good standard. The property also benefits from an allocated parking space, a highly desirable feature that further enhances its rental appeal.\n\nLocated within easy reach of Portsmouth's city centre, transport links, waterfront attractions, and major employers, the flat occupies a prime position in an area that enjoys consistent tenant demand. Its modern construction, low-maintenance nature, and attractive presentation make it an easy-to-let investment with broad appeal to professional tenants.\n\nOffered with no onward chain and a tenant already in place, this is a turnkey investment opportunity providing immediate rental income and long-term potential in one of Portsmouth's most convenient locations.\n\nLease Details - Lease Remaining - 107 years\nService Charge - £1402.49 every 6 months\nGround Rent - £75 every 6 months",
+ "keyFeatures": [
+  "1 Bedroom Purpose Built Flat",
+  "Tenant in Situ",
+  "7.5% Yield",
+  "Well Presented",
+  "Turn Key Property",
+  "Parking Space Included",
+  "Ideal for Investors",
+  "No Chain",
+  "Excellent Location"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/5167ddf8d/92467812/5167ddf8d8657d421e3b41ea7f508087.jpeg",
+  "https://media.rightmove.co.uk/property-photo/40e3de158/92467812/40e3de158f838675ba14d84ade2f4c81.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b355f3935/92467812/b355f3935db981b9c87b0c1e85488e34.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4479c0ab2/92467812/4479c0ab2283008c7e7923345cdfc016.jpeg",
+  "https://media.rightmove.co.uk/property-photo/139054dec/92467812/139054decc2c2728d0241d5bf3a6e553.jpeg",
+  "https://media.rightmove.co.uk/property-photo/af00c3cae/92467812/af00c3cae3d529d90dac4eb168c882ed.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bbbb86c06/92467812/bbbb86c060dba62dea446b2cebac0c30.png",
+  "https://media.rightmove.co.uk/property-photo/27ad89780/92467812/27ad897800d45c78bd821079efdcb0f4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8eead030d/92467812/8eead030d9f9b86c0c305018d18275bb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/10a8ba2e7/92467812/10a8ba2e726cfedf2bd20a25c4149051.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e0d07a216/92467812/e0d07a2164dc090355d1ec26e978779a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f6ab8989a/92467812/f6ab8989afa9a638d4440c09e34cf557.jpeg",
+  "https://media.rightmove.co.uk/property-photo/02ec9e441/92467812/02ec9e441c8ff524497a525a72d5f936.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0266f2b19/92467812/0266f2b19e403f4cb4785f6aa6b29419.png",
+  "https://media.rightmove.co.uk/property-photo/b8848af24/92467812/b8848af24a1ef79b93b827bec7a0578b.png"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Portsmouth Harbour Station",
+   "miles": 0.2617950536514307,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Portsmouth & Southsea Station",
+   "miles": 0.6290877589831404,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Fratton Station",
+   "miles": 1.3642687891595728,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "ROK Marsh Sales & Lettings, Portsmouth",
+ "city": "Portsmouth",
+ "sourceOutcode": "PO1",
+ "scrapedAt": "2026-08-31T14:57:36.687Z"
+}

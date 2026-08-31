@@ -1,0 +1,86 @@
+{
+ "id": "89755593",
+ "mode": "buy",
+ "displayAddress": "Pembroke Street, Plymouth, City Of Plymouth",
+ "outcode": "PL1",
+ "incode": "4JU",
+ "latitude": 50.368127,
+ "longitude": -4.175158,
+ "priceAmount": 95000,
+ "priceLabel": "£95,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89755593",
+ "area": "Plymouth, City Of Plymouth",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": 914,
+  "sizeSqM": 85,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 26/08/2026"
+ },
+ "sizeSqFt": 914,
+ "sizeSqM": 85,
+ "description": "Our latest listing is a 3-bedroom flat located in Plymouth. It is in close proximity to valuable amenities, is able to generate rewarding rental returns and has a tenant currently situated.\n\nFor investors looking to expand their portfolio, this is a fantastic opportunity!\n\nThis well-kept home features 3 bedrooms, a well-equipped kitchen, a three-piece bathroom, and a shared garden (front and back).\n\nIt currently produces an annual gross income of £9,000 with tenants currently situated. Considering the purchase price and the potential rental income that could be earned in future years, this will make for a worthwhile addition to an investors property portfolio.\n\nFor greater detail on this property's investment potential, please see the Let Property Pack linked below.\n\nIf you are interested, please call us.\n\nTenancy Details\n\nThere are tenants that currently reside in the property and have consistently paid their rent for the duration of their stay. They do not have any intentions to move out so hope to remain in the property.\n\nWe are committed to facilitating a smooth transaction process between buyer and seller. To allow for maximum commitment to the sale from both parties, a Buyers Premium will apply in order to secure a property.",
+ "keyFeatures": [
+  "Shared Private Parking",
+  "Shared Garden (front and back)",
+  "Buy-to-Let Opportunity",
+  "Tenant Currently Situated",
+  "Likely to attract enquiries from Serious Investors &amp; Developers",
+  "INVESTMENT POTENTIAL DETAILED BELOW (Let Property Pack)",
+  "RICS Level 2 Survey Available Upon Enquiry",
+  "Cash Buyers Only"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/143d73723/89755593/143d73723c7fd417495fefafa1b51e5c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e00e71a2f/89755593/e00e71a2f88f2272bc9cd5095704bd44.jpeg",
+  "https://media.rightmove.co.uk/property-photo/52e7d4127/89755593/52e7d412776128b0940f5295046ede18.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f0336f388/89755593/f0336f388bb5110c8da57b567b810d5e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/70baca56f/89755593/70baca56fc7a9357a14d035d797233f8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d6a22b61d/89755593/d6a22b61da2390203418df83e73ee2ec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c0bdaa469/89755593/c0bdaa469175db46c284b971bfaf831e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c3af4a976/89755593/c3af4a9760da8c2801282eef627709d8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/83f083080/89755593/83f0830806e5b2ed5f9129eb45b53b95.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8041e38c9/89755593/8041e38c99b477eea31351f97dbc6e0a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6730a99ef/89755593/6730a99ef9baf34f9da138869c2754df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/96eadd252/89755593/96eadd252b56b6dfb23b015f2bec6508.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Devonport Station",
+   "miles": 0.7438021567568792,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Dockyard Station",
+   "miles": 0.9898126139399273,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Keyham Station",
+   "miles": 1.527250599431816,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Let Property Sales & Management, Glasgow",
+ "city": "Plymouth",
+ "sourceOutcode": "PL1",
+ "scrapedAt": "2026-08-31T16:53:52.153Z"
+}

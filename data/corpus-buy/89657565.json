@@ -1,0 +1,96 @@
+{
+ "id": "89657565",
+ "mode": "buy",
+ "displayAddress": "Temple Works, Hackney, E8",
+ "outcode": "E8",
+ "incode": "1JR",
+ "latitude": 51.54823,
+ "longitude": -0.056502,
+ "priceAmount": 950000,
+ "priceLabel": "£950,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89657565",
+ "area": "Temple Works, Hackney",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": 1185,
+  "sizeSqM": 110,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 1000,
+  "annualGroundRent": null,
+  "annualServiceCharge": 3157.25,
+  "councilTaxBand": "D",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 12/06/2026"
+ },
+ "sizeSqFt": 1185,
+ "sizeSqM": 110,
+ "description": "A unique 3-bedroom, 2-bathroom penthouse loft conversion residing atop an Edwardian Warehouse conversion in Hackney, E8.\r\n \r\nTucked away behind secure gates on the charming cobbled Brett Passage, this exceptional 3-bedroom penthouse forms part of an exclusive development of just 8 individually designed apartments in Hackney, E8.\r\n \r\nPositioned above a converted warehouse, the penthouse offers a striking blend of contemporary architecture and industrial-inspired design. Flooded with natural light through dramatic angled glazing and multiple rooflights, the impressive open-plan living space features exposed brickwork, engineered timber flooring and a series of bespoke design details that give the apartment a character rarely found in modern developments.\r\n \r\n At the heart of the home is a beautifully crafted kitchen centred around a substantial granite island with integrated gas hob, complemented by stone worktops, integrated appliances and extensive storage.\r\n \r\nThe principal bedroom benefits from a stylish ensuite shower room with walk-in rainfall shower, while the main bathroom is finished with micro cement walls and flooring, incorporating a freestanding bath, a separate walk-in shower, and sculptural stone-effect wash basins. Two further double bedrooms, and utility room with excellent storage complete the accommodation.\r\n \r\nA cast-iron staircase provides access to the roof, where there is the exciting prospect of potentially creating a private roof terrace, subject to the necessary planning permissions and consents, presenting an exciting opportunity for a purchaser to further enhance an already distinctive home. An added bonus is the rare opportunity to purchase a secure parking via separate negotiation with a guide price of £35,000. \r\n \r\nBrett Passage was once part of the historic Mermaid Pleasure Gardens and today provides a peaceful, gated setting moments from the energy of Mare Street. Hackney Central Station is just 2-minutes’ walk away, with Hackney Downs, London Fields and Broadway Market all within easy walking distance.",
+ "keyFeatures": [
+  "Modern penthouse above warehouse conversion",
+  "Sold with no onward chain",
+  "Potential to add roof terrace STTP",
+  "Air conditioning",
+  "Secure gated development",
+  "Parking space for sale by separate negotiation",
+  "Immediate proximity to Hackney Central station",
+  "Private and discrete location"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/bdd054277/89657565/bdd054277ca5da9a3f2ff0e6cc3880d3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/90b5c1eb2/89657565/90b5c1eb2485876976b9de755cfec420.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8958af88c/89657565/8958af88ce7b90046466fe111ac769ec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c460b6539/89657565/c460b6539ed0ff3bc432853bed141648.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e42fee049/89657565/e42fee049f939a58029eccb49d2585d4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/27e6e2df7/89657565/27e6e2df758f86cc387dde5078a4382c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4b3aa6d45/89657565/4b3aa6d457d065a73f8feb8cba0a3097.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8021d9adb/89657565/8021d9adb0e59a8bd0d914b8d9ea607e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6fa87d2b8/89657565/6fa87d2b88dd92eed016cea7a0e4fac2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d866fc45d/89657565/d866fc45d4981ec15a346d4533e0749a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/575d06887/89657565/575d06887b9feb88ec81ae6402079cab.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4d0c168d1/89657565/4d0c168d1e7d1e81e8163935de0f55a2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9e9933d49/89657565/9e9933d49401486839ea07510e3d5254.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7ce8616a8/89657565/7ce8616a818034e485270822dc176eac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f507f0d84/89657565/f507f0d8411c1271f15f46d56a8f2e3c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9daaa27fb/89657565/9daaa27fb0cf361140bb41baedb5d9ce.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3a1cada21/89657565/3a1cada21bf532505fc23e736b137a59.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5d02148d0/89657565/5d02148d0ab3c87835f3874cfeeb80c7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/190060f06/89657565/190060f064ed9d642cf388859839049b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eb7449251/89657565/eb744925143d9f52b26df00974a3c4eb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/09b3e2845/89657565/09b3e284595b79f7ef0ba2db975aef75.jpeg",
+  "https://media.rightmove.co.uk/property-photo/35990c4c2/89657565/35990c4c20f70044aca6e196eee10400.jpeg"
+ ],
+ "imageCount": 22,
+ "nearestStations": [
+  {
+   "name": "Hackney Central Station",
+   "miles": 0.09066727609713077,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Hackney Downs Station",
+   "miles": 0.15907057040493497,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "London Fields Station",
+   "miles": 0.5297789509649218,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Fyfe McDade Limited, Shoreditch",
+ "city": "London",
+ "sourceOutcode": "E8",
+ "scrapedAt": "2026-08-31T16:59:19.933Z"
+}

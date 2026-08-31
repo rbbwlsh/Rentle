@@ -1,0 +1,88 @@
+{
+ "id": "87638040",
+ "mode": "buy",
+ "displayAddress": "Burleigh Road, Portsmouth, PO1",
+ "outcode": "PO1",
+ "incode": "5RL",
+ "latitude": 50.808546,
+ "longitude": -1.07042,
+ "priceAmount": 240000,
+ "priceLabel": "£240,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/87638040",
+ "area": "Portsmouth",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": 797,
+  "sizeSqM": 74,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": 797,
+ "sizeSqM": 74,
+ "description": "This charming three-bedroom home, with no forward chain,  is ideally located in a central area with excellent access to local shops, amenities, and transport links. To the front of the property, a paved courtyard welcomes you into a bright, airy hallway with attractive laminate flooring.\n\nAt the front of the house is a spacious main living room featuring a large bay window, combining tasteful modern touches with lovely retained period features — the perfect space for relaxing or entertaining. Further along the hallway, under-stair storage has been cleverly integrated, and a half-glazed door provides access to the rear garden.\n\nThe dining room is a bright and modern space with a side-facing window and laminate flooring, ideal for family meals or entertaining. The adjoining kitchen is well-appointed with a built-in oven and hob, generous worktop space, and room for appliances. A door from the kitchen leads out into the rear garden.\n\nUpstairs, the landing leads to the spacious main bedroom at the front of the property, which includes a built-in wardrobe and ample space for additional furniture. The family bathroom is finished to a high standard with a modern suite, shower over bath, and stylish grey tiling.\n\nTwo further well-sized bedrooms are situated at the rear, both retaining attractive period fireplaces and one with built-in storage. The rear garden includes a fenced patio and a lawned area with great potential to create a peaceful outdoor retreat.\n\nThis well-presented property is ready to move into and offers a rare blend of character and convenience. Early viewing is highly recommended.\n\nMaterial Information • Tenure: Freehold • Council Tax: Band B • Electricity: Mains Supply • Heating: Gas• Water Supply: Mains supply • Sewage: Mains Supply • Broadband: Standard, Superfast and Ultrafast Fibre are all available in this area • Parking: On Street • Mobile: Ofcom official website checker states that EE, Vodafone, O2 and Three available in the area • Flood Risk: Low risk",
+ "keyFeatures": [
+  "WEST FACING GARDEN",
+  "3 BEDROOMS",
+  "UPSTAIRS BATHROOM",
+  "GREAT FIRST TIME PURCHASE",
+  "PERIOD FEATURES",
+  "CENTRALLY LOCATED"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/0ffac3074/87638040/0ffac30743bc630a9248dab5cc613663.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3ad4d7fdb/87638040/3ad4d7fdb495d48eefdf2570fc5634e8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dcd290109/87638040/dcd2901098f43fe63a02730d743fc685.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8c0ce42a3/87638040/8c0ce42a32702781d5a3ea20e495176e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f89ef6d2f/87638040/f89ef6d2fac5e498735f48642a07cc51.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c99eb2b50/87638040/c99eb2b50c44be6277abeff781b33a13.jpeg",
+  "https://media.rightmove.co.uk/property-photo/90fa6fc23/87638040/90fa6fc23b585541f520c37c563c618c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/705c3e4e5/87638040/705c3e4e5c199a0999b868d6e4036f48.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ebe6fda0c/87638040/ebe6fda0cd6e047e3cad077561007bdf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9ed196bbe/87638040/9ed196bbe7e9c398700aa74a04c8cdff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9c56446bd/87638040/9c56446bd558157935bd8dd14ca58f18.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c86f90214/87638040/c86f90214885e4c3744a41b176023dcd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/af44fe81b/87638040/af44fe81beff51d23432533fa9b73010.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5a9800193/87638040/5a9800193ca926488ef57c1daa1e4e68.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0558fb506/87638040/0558fb506048c40572a9deba8a4f249f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/534259a35/87638040/534259a35aa0ebc7a243dfa8038cc594.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Fratton Station",
+   "miles": 0.8643219688556599,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Portsmouth & Southsea Station",
+   "miles": 1.120033134072709,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Hilsea Station",
+   "miles": 1.4460800011271688,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Chinneck Shaw, Chinneck Shaw",
+ "city": "Portsmouth",
+ "sourceOutcode": "PO1",
+ "scrapedAt": "2026-08-31T16:54:37.705Z"
+}

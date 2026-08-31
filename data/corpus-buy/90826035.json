@@ -1,0 +1,81 @@
+{
+ "id": "90826035",
+ "mode": "buy",
+ "displayAddress": "East Parade, Bradford, West Yorkshire, BD1",
+ "outcode": "BD1",
+ "incode": "5HT",
+ "latitude": 53.794153,
+ "longitude": -1.7446,
+ "priceAmount": 60000,
+ "priceLabel": "£60,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90826035",
+ "area": "Bradford, West Yorkshire",
+ "bedrooms": 0,
+ "bathrooms": null,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 0,
+  "bathrooms": null,
+  "sizeSqFt": 269,
+  "sizeSqM": 25,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 247,
+  "annualGroundRent": null,
+  "annualServiceCharge": 850,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 13/07/2026"
+ },
+ "sizeSqFt": 269,
+ "sizeSqM": 25,
+ "description": "CASH INVESTOR BUYERS ONLY (size limits mortgage) SOLD WITH TENANT IN-SITU - Currently let at £600 PCM. Third floor studio flat forming part of this former office block within the historic area of Little Germany, within easy reach of city centre amenities. Contact Robert Watts to arrange YOUR VIEWING today.",
+ "keyFeatures": [
+  "REASONS WHY WE LOVE THIS APARTMENT",
+  "Ready made - income producing invesment",
+  "Part of this recently converted office block",
+  "Forming part of the historic Little Germany area",
+  "Easy access to city centre amenities",
+  "Handy for the ring road"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/4a621215b/90826035/4a621215b18543a3022bb979dc8a5681.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f257a1224/90826035/f257a1224c045130e41c954da3cbc67e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/538577273/90826035/53857727388ee38c184ce7d13a59638e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8b955aff8/90826035/8b955aff89c030a830932b313c2c62b2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b9084f7f2/90826035/b9084f7f217616bb5aa4bffd0dd0cf0e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b119e3f12/90826035/b119e3f120919315ceada8eae06ba77b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9cc0a26c8/90826035/9cc0a26c8dbd34723d31b27d3da19811.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ec89ca75d/90826035/ec89ca75d154e3534330ff4896d71a7a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c37be8129/90826035/c37be812987329731723f0fd07543eac.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Bradford Interchange Station",
+   "miles": 0.31497022226504706,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bradford Forster Square Station",
+   "miles": 0.3976270530556489,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Frizinghall Station",
+   "miles": 2.0381570593118763,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Robert Watts, Bradford",
+ "city": "Bradford",
+ "sourceOutcode": "BD1",
+ "scrapedAt": "2026-08-31T14:48:00.852Z"
+}

@@ -1,0 +1,94 @@
+{
+ "id": "87268203",
+ "mode": "buy",
+ "displayAddress": "Cecil Street, Adamsdown",
+ "outcode": "CF24",
+ "incode": "1NW",
+ "latitude": 51.48672,
+ "longitude": -3.15357,
+ "priceAmount": 225000,
+ "priceLabel": "£225,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/87268203",
+ "area": "Adamsdown",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": 0,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "**GENEROUS THREE DOUBLE BEDROOM HOME OFFERED WITH NO CHAIN** Martin & Co are delighted to offer this mid terraced house. Situated in Roath, a stones throw from the city centre, local amenities and great transport links. The ground floor boasts two reception rooms, separate kitchen/diner and downstairs bathroom. Leading to the suntrap rear garden. The first floor benefits from three double bedrooms and a bathroom. The property would make the ideal first time purchase or investment. Further offering on road parking. Council tax band D \n\nLIVING ROOM 11' 1\" x 12' 9\" (3.4m x 3.9m) MAX  \n\nRECEPTION ROOM 10' 11\" x 12' 2\" (3.33m x 3.71m) MAX  \n\nKITCHEN/DINER 8' 6\" x 11' 3\" (2.6m x 3.43m) MAX  \n\nBATHROOM 9' 1\" x 8' 7\" (2.77m x 2.63m) MAX  \n\nMASTER BEDROOM 11' 1\" x 10' 9\" (3.38m x 3.28m) MAX  \n\nBEDROOM TWO 12' 2\" x 10' 11\" (3.73m x 3.33m) MAX  \n\nBEDROOM THREE 8' 10\" x 11' 3\" (2.7m x 3.44m) MAX  \n\nBATHROOM 11' 2\" x 5' 5\" (3.41m x 1.66m) MAX  \n\n  AML\n\nPlease note: A non-refundable administration fee of £30 including VAT is payable per buyer to carry out the required AML verification checks once an offer has been accepted. The sale cannot proceed until these checks have been satisfactorily completed. This is on acceptance of offer only\n\n''Please note that an AML fee is chargeable to the buyer once an offer is accepted to cover the cost of carrying out the required identity and anti-money laundering checks. Once these checks have been completed, the fee cannot be refunded, even if the property purchase does not go ahead.\"",
+ "keyFeatures": [
+  "THREE DOUBLE BEDROOM HOME",
+  "MID TERRACED",
+  "OFFERED WITH NO CHAIN",
+  "TWO RECEPTION ROOMS",
+  "OPEN PLAN KITCHEN/DINER",
+  "TWO BATHROOMS",
+  "ON ROAD PARKING",
+  "SUNTRAP REAR GARDEN",
+  "MARTIN &amp; CO",
+  "COUNCIL TAX BAND D"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/0623815d1/87268203/0623815d19f0a2a6fc0cb46916be41dd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/736ad6f8b/87268203/736ad6f8b671ceeba78487216c870286.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5b13dffe0/87268203/5b13dffe0ccba8509d5e02deed49b822.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8d93a5f77/87268203/8d93a5f77fef7a6a400ffb873bd161e4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bded457aa/87268203/bded457aa3a67986ac5d9a9aa8a77871.jpeg",
+  "https://media.rightmove.co.uk/property-photo/565585926/87268203/565585926661b2624475e1066a04c51c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/33ec1f3c9/87268203/33ec1f3c91bc120825a2f808734eab94.jpeg",
+  "https://media.rightmove.co.uk/property-photo/33d44574e/87268203/33d44574eea4453826fa0fea5175a20c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/754273eb4/87268203/754273eb4a04368fdad5e6ed8471ed60.jpeg",
+  "https://media.rightmove.co.uk/property-photo/74d2c98b0/87268203/74d2c98b053d78264fc1a1b59bdc87bd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/23c3df4c4/87268203/23c3df4c40492f37c1a18773b2388f9e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7b9144f99/87268203/7b9144f99717cd9da43c89fc99d09059.jpeg",
+  "https://media.rightmove.co.uk/property-photo/09142eed6/87268203/09142eed64dba030ed7d0e24ddacedda.jpeg",
+  "https://media.rightmove.co.uk/property-photo/63f1d004a/87268203/63f1d004ab6b6193f358622ea36aee96.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d609368b7/87268203/d609368b7d6749190e92f82c7d2645b6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d071aa037/87268203/d071aa037c3cf226d7fce824c8cd3cfc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8a8caad57/87268203/8a8caad57800d11086df578c5173ecfe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dfb433d67/87268203/dfb433d677e352fb605e242ca084105f.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "Cardiff Queen Street Station",
+   "miles": 0.8015312893908499,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cathays Station",
+   "miles": 1.1272602130801503,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cardiff Central Station",
+   "miles": 1.3143955303326036,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Martin & Co, Cardiff",
+ "city": "Cardiff",
+ "sourceOutcode": "CF24",
+ "scrapedAt": "2026-08-31T16:58:41.737Z"
+}

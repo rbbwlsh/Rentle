@@ -1,0 +1,83 @@
+{
+ "id": "92300133",
+ "mode": "buy",
+ "displayAddress": "Osbourne House, Queen Victoria Road, Coventry, CV1 3JD",
+ "outcode": "CV1",
+ "incode": "3JD",
+ "latitude": 52.404916,
+ "longitude": -1.516404,
+ "priceAmount": 130000,
+ "priceLabel": "£130,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92300133",
+ "area": "Osbourne House, Coventry",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 710,
+  "sizeSqM": 66,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 976,
+  "annualGroundRent": 100,
+  "annualServiceCharge": 1842,
+  "councilTaxBand": "C",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 22/08/2026"
+ },
+ "sizeSqFt": 710,
+ "sizeSqM": 66,
+ "description": "This well-presented two bedroom apartment offers an excellent opportunity for buyers seeking a stylish city centre home with the added benefit of no onward chain. \n\nSituated on the third floor of a modern development, the apartment is accessible via lift and includes secure allocated parking. \n\nThe property features two generous double bedrooms, each providing ample space for furnishings and storage. The open plan living room and kitchen create a welcoming and versatile space, ideal for relaxing or entertaining guests. The kitchen area is fitted with contemporary units and integrated appliances, ensuring a practical and attractive cooking environment. \n\nNeutral décor throughout enhances the bright and airy feel of the apartment, while large windows allow for plenty of natural light. The location places you within easy reach of the city’s vibrant shopping, dining and cultural attractions, as well as excellent transport links for commuting further afield. \n\nAdditional features include a modern bathroom suite, double glazing and electric heating (ensuring comfort throughout the year). With its combination of convenience, security and modern living, this third floor apartment is perfect for professionals, first-time buyers or investors looking for a centrally located property. \n\nEarly viewing is highly recommended to appreciate all that this exceptional flat has to offer.\nEPC Rating: C",
+ "keyFeatures": [
+  "No Chain",
+  "Third Floor Apartment",
+  "Two Double Bedrooms",
+  "Open Plan Living Room/Kitchen",
+  "Lift Access &amp; Secure Parking",
+  "City Centre Location"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/8fb9b6c46/92300133/8fb9b6c46ec071e388b01ecedce3f53f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f886cb370/92300133/f886cb3703dd9244c5cb5931ea8f974b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f5a8f61fd/92300133/f5a8f61fd8eea1e7483ce9920911f527.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2579b113b/92300133/2579b113bef9e8a3917bd0676a524a9f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5ef7ac6ff/92300133/5ef7ac6ff6265df98d521c15ecbb5e85.jpeg",
+  "https://media.rightmove.co.uk/property-photo/763c2d2f3/92300133/763c2d2f39e7e9a272e5751654e77144.jpeg",
+  "https://media.rightmove.co.uk/property-photo/546362557/92300133/546362557e098b8e4415a5a1e75d48e0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1c4e0c0e1/92300133/1c4e0c0e1ccf3c5cc50d7ac1b93835f8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e3a0e132d/92300133/e3a0e132dad40ba631d3dcd536592b32.jpeg",
+  "https://media.rightmove.co.uk/property-photo/20dbcb1cc/92300133/20dbcb1ccf42500896aa53a4a5e3b935.jpeg",
+  "https://media.rightmove.co.uk/property-photo/26f51b5bf/92300133/26f51b5bf5009a2c413c8eef910fe976.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Coventry Station",
+   "miles": 0.2983500099883668,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Canley Station",
+   "miles": 1.3816098619931236,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Coventry Arena Station",
+   "miles": 3.032035625209205,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Fearn Malone, Coventry",
+ "city": "Coventry",
+ "sourceOutcode": "CV1",
+ "scrapedAt": "2026-08-31T15:00:12.269Z"
+}

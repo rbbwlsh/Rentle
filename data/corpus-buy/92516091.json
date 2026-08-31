@@ -1,0 +1,92 @@
+{
+ "id": "92516091",
+ "mode": "buy",
+ "displayAddress": "Mersey Road, Manchester, M20",
+ "outcode": "M20",
+ "incode": "2QA",
+ "latitude": 53.42093,
+ "longitude": -2.247321,
+ "priceAmount": 95000,
+ "priceLabel": "£95,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92516091",
+ "area": "Manchester",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A well-presented studio apartment set within popular block in West Didsbury with generous wooded communal gardens, residents/visitors parking, and plenty of local shops, amenities and transport links into the surrounding areas and into Manchester City Centre.\n\nADDITIONAL INFORMATION:\n\nCouncil Tax Band: A\n\nLocal Authority: Manchester\n\nLease Term: 999 years from 25 March 1979\n\nGround Rent: £45 per annum\n\nService Charges: £1680 per annum\n\n*This information is based on information obtained via Land Registry and/or the vendor at the point of listing and will therefore need to be confirmed by a solicitor*\n\nLEGAL DISCLAIMER:\n\nThese particulars, whilst believed to be accurate are set out as a general guideline and do not constitute any part of an offer or contract. Intending Purchasers should not rely on them as statements of representation of fact, but must satisfy themselves by inspection or otherwise as to their accuracy. Please note that we have not tested any apparatus, equipment, fixtures, fittings or services including heating and so cannot verify they are in working order or fit for their purpose. Furthermore, Solicitors should confirm moveable items described in the sales particulars and, in fact, included in the sale since circumstances do change during the marketing or negotiations. Although we try to ensure accuracy, if measurements are used in this listing, they may be approximate. Therefore if intending Purchasers need accurate measurements to order carpeting or to ensure existing furniture will fit, they should take such measurements themselves. Photographs are reproduced general information and it must not be inferred that any item is included for sale with the property.\n\nTENURE\n\nTo be confirmed by the Vendor’s Solicitors\n\nPOSSESSION\n\nVacant possession upon completion\n\nVIEWING\n\nViewing strictly by appointment through The Express Estate Agency",
+ "keyFeatures": [
+  "*Guide Price £110,000 - £95,000*",
+  "Bright &amp; Spacious Living Space/Bedroom",
+  "Well-Appointed Modern Fitted Kitchen",
+  "Stylish Bathroom with Shower Over Bath",
+  "Entrance Hall with Ample Storage",
+  "Beautifully Maintained Communal Gardens",
+  "Off-Road Parking for Residents &amp; Visitors",
+  "Ideal for First Time Buyers &amp; Rental Investors",
+  "Long Lease - 952 Years Remaining",
+  "Close to Shops, Amenities &amp; Road/Transport Links"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c133a3274/92516091/c133a3274e9788e95a3ec8d9601be2db.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1ec34701f/92516091/1ec34701ff794ab7e36bfcbb9e14182e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4cea6acb3/92516091/4cea6acb316e888f367751ad75014808.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ae3f0442d/92516091/ae3f0442d1eba4ed98d676628b6231c3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b22ad5522/92516091/b22ad5522d63386b005e9275b292e064.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c15d93579/92516091/c15d93579f855221f5cfd3ae314eaf72.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9b75504b9/92516091/9b75504b94efcbb90a104c4690fdd55d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/befed9a02/92516091/befed9a023b8441ac29fc8f27b3f2d26.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3c5c70085/92516091/3c5c7008575ad4d6b56ef3aeedc2e429.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d7d12ec67/92516091/d7d12ec675fdeddd3791cbd2567d301e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/957c18145/92516091/957c18145ca3c49f5a82f50cda11ab08.jpeg",
+  "https://media.rightmove.co.uk/property-photo/caefe0a83/92516091/caefe0a83e7297efa1fbfec5082f751f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e85fbbb9b/92516091/e85fbbb9bd6dded46aec0320649a8763.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2c07e9aff/92516091/2c07e9aff8b1cf13fc39dc79392f5de1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa8762f6f/92516091/aa8762f6f83b71dd3d88b864419dc196.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b1c30e009/92516091/b1c30e00967f6462c5dbf7b485683040.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 0.522892912939089,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 0.6319564390399511,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Withington Tram Stop",
+   "miles": 0.8185495692409609,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Express Estate Agency, Nationwide",
+ "city": "Manchester",
+ "sourceOutcode": "M20",
+ "scrapedAt": "2026-08-31T14:44:26.961Z"
+}

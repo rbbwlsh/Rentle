@@ -1,0 +1,88 @@
+{
+ "id": "88116711",
+ "mode": "buy",
+ "displayAddress": "Mitchell St, Glasgow - G1",
+ "outcode": "G1",
+ "incode": "3LA",
+ "latitude": 55.859272,
+ "longitude": -4.255991,
+ "priceAmount": 120000,
+ "priceLabel": "£120,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/88116711",
+ "area": "Mitchell St",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": null,
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 06/05/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Set in an enviable position which could arguably be described as one of the most central locations available in Glasgow City Centre. The apartment has been very cleverly designed to offer an abundance of free-flowing space.\r\n\r\nThe building is accessed via a security controlled front gate with a lift leading to all levels and the development is within a section of the Vienna Apartments Development, completed around 2009 by Burrell Homes.\r\n\r\nThe accommodation comprises long hallway leading to all rooms. The bedroom benefits from laminate flooring and fitted wardrobe. The open plan living room/kitchen offers plentiful natural light from the floor to ceiling windows and benefits from its own private balcony looking out on to Mitchell Street.\r\nThe modern fitted kitchen houses an integrated fridge freezer and dishwasher and the bathroom is spacious with a mains shower over the bath.\r\n\r\nThe property further benefits from double glazing, electric heating and a large hall storage cupboard housing a washer dryer and hot water tank.\r\n\r\nParking permits are available at nearby Mitchell Street NCP or the Q-Park in Jamaica Street.\r\n\r\nWe have a current EWS 1 form which details that no remedial works to the cladding are required.\r\n\r\nMitchell Street is in the heart of Glasgow City Centre and the location offers unquestionably one of the most envied and prominent social locations Glasgow has to offer with a wealth of amenities including both general and specialist shopping, wine bars and many highly acclaimed restaurants.\r\nIt is also conveniently located for access to the Merchant City and is in close proximity to Strathclyde & Caledonian Universities and the Glasgow School of Art.\r\n\r\nThe area benefits from frequent public transport with easy access to Central and Queen Street Train Stations, and St Enoch subway stations. Public transport and road links are exceptional.\r\n\r\nEnergy Efficiency Rating - C",
+ "keyFeatures": [
+  "Great city centre location",
+  "Secure entry with lift",
+  "Balcony",
+  "Energy Efficiency Rating C"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/63568322b/88116711/63568322b0a8816bd2dcf69eed15a65b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d162454b/88116711/6d162454ba378ce7c40d23ab9ca63cfb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6dace7eef/88116711/6dace7eef163e09b2449b68e8266b463.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d71674751/88116711/d71674751d7ab2f2c779941bb2e2bec0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5210b5712/88116711/5210b571202ff20ba2f298b0ace43ea6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f46f8293b/88116711/f46f8293b03686d6e244158708010a98.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2904b4d78/88116711/2904b4d78f3e203414331c7e1783bbf0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/249d43ba7/88116711/249d43ba7e0adf236dd9eb9634766e1b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6b105bf70/88116711/6b105bf706098984646c75f7a3245ea5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d2ae7ceb/88116711/6d2ae7ceb993beff55bd6f59577ff524.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6b105bf70/88116711/6b105bf706098984646c75f7a3245ea5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8cd717524/88116711/8cd717524318a5c0d0d9b9ee85f4e2e7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d8472ba8/88116711/6d8472ba8496c1bf27caa0a98937a6e7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6448d1e54/88116711/6448d1e545973e562f470fd12f3467b2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e3447eb97/88116711/e3447eb97e1d0ec4c333fb9d7425a7d1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eacfa87ef/88116711/eacfa87ef26ea47d21dc006ae241c281.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e3447eb97/88116711/e3447eb97e1d0ec4c333fb9d7425a7d1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/743ee5b2f/88116711/743ee5b2f905a203e122e3a8650efd37.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "Glasgow Central Station",
+   "miles": 0.09595582538451883,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "St. Enoch Station",
+   "miles": 0.16528872927569047,
+   "types": [
+    "LIGHT_RAILWAY"
+   ]
+  },
+  {
+   "name": "Argyle Street Station",
+   "miles": 0.24851876353916294,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Cityscape Property, Glasgow",
+ "city": "Glasgow",
+ "sourceOutcode": "G1",
+ "scrapedAt": "2026-08-31T15:03:08.585Z"
+}

@@ -1,0 +1,89 @@
+{
+ "id": "175052216",
+ "mode": "buy",
+ "displayAddress": "Moorland Road, Didsbury, Manchester, M20",
+ "outcode": "M20",
+ "incode": "6AZ",
+ "latitude": 53.418725,
+ "longitude": -2.230543,
+ "priceAmount": 244950,
+ "priceLabel": "£244,950",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/175052216",
+ "area": "Didsbury, Manchester",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 600,
+  "sizeSqM": 56,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 972,
+  "annualGroundRent": null,
+  "annualServiceCharge": 1560,
+  "councilTaxBand": "D",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": 600,
+ "sizeSqM": 56,
+ "description": "A WELL-PESENTED TWO BEDROOM GROUND FLOOR GARDEN APARTMENT with BRIGHT accommodation throughout and  ALLOCATED PARKING. Conveniently located centrally within Didsbury village, with a range of shops, bars and restaurants within easy reach, along with the Metrolink station and Didsbury park. Offered for sale with NO ONWARD CHAIN. 600 Sq.Ft\n\n\rThe accommodation opens into a welcoming entrance hallway, providing access to all principal rooms. To the front of the property is a bright and spacious open-plan living and dining room, offering ample space for both relaxing and entertaining. Patio doors open directly onto the south-westerly facing shared gardens, allowing an abundance of natural light to fill the room.\n\nThe contemporary kitchen is well-appointed with a range of wall and base units, complemented by integrated appliances.\n\nThere are two generous double bedrooms, with the principal bedroom benefiting from fitted wardrobes and a stylish en-suite shower room.\n\nThe apartment is completed by a modern three-piece bathroom.\n\nExternally, the property is approached via a gated pathway with attractive landscaped gardens to the front. To the rear, is the south westerly facing shared garden, which is mainly laid to lawn and bordered with mature shrubs and trees.\n\nThe development is accessed via secure communal entrances, with lift access available to all floors. There is an allocated, secure parking space within the ground, accessed via gates.\n\nLeasehold/999 Years From January 2000\nApprox. 600 Sq Ft\nCouncil Tax Band: D\nService Charge: £130 pcm\nGround Rent: £338.79 pa",
+ "keyFeatures": [
+  "Ground Floor Apartment",
+  "Two Bedrooms",
+  "Two Bathrooms",
+  "Didsbury Village Location",
+  "Allocated Gated Parking",
+  "Approx. 600 Sq.Ft"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/05025b6d5/175052216/05025b6d5345566d11f7db5ebaa9cad0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2138e349e/175052216/2138e349e11c0625ed69d5499c86b856.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cd0d7eaf5/175052216/cd0d7eaf55d182f9d01a57885e8f1dda.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c99032259/175052216/c99032259e52213891e59b8829a27dde.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7f2968638/175052216/7f29686386565f36eebc06f85c72c31a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0479ebc6a/175052216/0479ebc6a2efb8b00f455a71c1d7149c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3808ed46f/175052216/3808ed46f48631e273f2ecace22559a0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/da327a25a/175052216/da327a25a30f46f9b9030ce3b3044cd9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/71292241d/175052216/71292241de7484296e6b3c7b38a14621.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3cc303c43/175052216/3cc303c4380ddefcf888bbaf8566dd5a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7db7f8ebc/175052216/7db7f8ebc4030cdbffa5831f525aa4d2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e385b92a5/175052216/e385b92a593cb575806f3ca7a4542efd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/06ff9bf5b/175052216/06ff9bf5b68779e1d1c884af10bee50f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0bd8bd0ba/175052216/0bd8bd0ba8c37c8fb484e4b62e313fb6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/93d1bb7ab/175052216/93d1bb7ab69d7d04ee2d199a4491d881.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7befc86c2/175052216/7befc86c2e6b3de34e0df1cc06afe0b4.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Didsbury Village Station",
+   "miles": 0.16285216558474644,
+   "types": [
+    "TRAM",
+    "LIGHT_RAILWAY"
+   ]
+  },
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 0.466817068748133,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Burnage Station",
+   "miles": 0.6674165590793009,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Philip James Kennedy, Didsbury",
+ "city": "Manchester",
+ "sourceOutcode": "M20",
+ "scrapedAt": "2026-08-31T14:45:44.533Z"
+}

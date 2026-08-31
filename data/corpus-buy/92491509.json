@@ -1,0 +1,88 @@
+{
+ "id": "92491509",
+ "mode": "buy",
+ "displayAddress": "King Street, Leicester, Leicestershire, LE1",
+ "outcode": "LE1",
+ "incode": "6RN",
+ "latitude": 52.630685,
+ "longitude": -1.132486,
+ "priceAmount": 220000,
+ "priceLabel": "£220,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92491509",
+ "area": "Leicester, Leicestershire",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Penthouse",
+ "details": {
+  "propertyType": "Penthouse",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 100,
+  "annualGroundRent": null,
+  "annualServiceCharge": 2232.12,
+  "councilTaxBand": "D",
+  "priceQualifier": "Offers in Region of",
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This two-bedroom apartment is for sale in Leicester city centre, offering accommodation in good condition with a large open plan kitchen/living area. The layout suits buyers seeking practical city living within easy reach of amenities.\n\nSituated in Leicester, the property is well placed for access to the city’s shopping streets, restaurants and cafés, including those around the Highcross and Haymarket areas. Green space can be enjoyed at nearby Castle Gardens and along the River Soar.\n\nPublic transport connections are convenient, with Leicester railway station within reach, providing direct services to London St Pancras in around 1 hour 10 minutes, as well as routes to Nottingham, Derby and Birmingham. Local bus routes offer frequent services across the city and surrounding areas.\n\nThis apartment may appeal to purchasers looking for a well-located base in Leicester with straightforward access to both the city centre and wider regional transport links.\n\n\rIMPORTANT NOTE TO POTENTIAL PURCHASERS & TENANTS:\n We endeavour to make our particulars accurate and reliable, however, they do not constitute or form part of an offer or any contract and none is to be relied upon as statements of representation or fact. The services, systems and appliances listed in this specification have not been tested by us and no guarantee as to their operating ability or efficiency is given. All photographs and measurements have been taken as a guide only and are not precise. Floor plans where included are not to scale and accuracy is not guaranteed. If you require clarification or further information on any points, please contact us, especially if you are traveling some distance to view. POTENTIAL PURCHASERS: Fixtures and fittings other than those mentioned are to be agreed with the seller. POTENTIAL TENANTS: All properties are available for a minimum length of time, with the exception of short term accommodation. Please contact the branch for details. A security deposit of at least one month’s rent is required. Rent is to be paid one month in advance. It is the tenant’s responsibility to insure any personal possessions. Payment of all utilities including water rates or metered supply and Council Tax is the responsibility of the tenant in most cases. \n\nLEC260328/2",
+ "keyFeatures": [
+  "Central Leicester city location",
+  "Two double bedrooms apartment",
+  "Close to Highcross shopping centre",
+  "Near cafés, restaurants and amenities",
+  "Walkable to Leicester railway station",
+  "Direct trains to London St Pancras",
+  "Good links to Nottingham, Derby, Birmingham",
+  "Ideal low-maintenance city base"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/ae0c3a839/92491509/ae0c3a83980810509b0ba387e3b315e1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/14eb3e53d/92491509/14eb3e53de9a27221f9e0745def1dac1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b18998dc4/92491509/b18998dc4e617594f607f677dd8b91cf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/60d59da48/92491509/60d59da486f328bafc2e7b59cd448ad1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2149fa777/92491509/2149fa77716e60959d13b7916d8271ed.jpeg",
+  "https://media.rightmove.co.uk/property-photo/71b5ebeed/92491509/71b5ebeed658426b13ef95e829a0f704.jpeg",
+  "https://media.rightmove.co.uk/property-photo/68c1adb48/92491509/68c1adb48cdb1da9a6d82bb9f5f8c157.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b36b5cf59/92491509/b36b5cf5927f573c7bb8c99052a85472.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b470b9c9b/92491509/b470b9c9b01323d59f973a837b07b667.jpeg",
+  "https://media.rightmove.co.uk/property-photo/43e2d5486/92491509/43e2d54862ed119092e23eca34f80d61.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ff6430b20/92491509/ff6430b20b678b3077315333aed3ade4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fb5487d28/92491509/fb5487d286dc4b1a269222929bb519ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8c407c72d/92491509/8c407c72db32c4f0bdf72f6b68f4b636.jpeg",
+  "https://media.rightmove.co.uk/property-photo/24089e650/92491509/24089e650b45b1d8be7644103db8ed97.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Leicester Station",
+   "miles": 0.3643883405340302,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "South Wigston Station",
+   "miles": 3.346300326755362,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Syston Station",
+   "miles": 4.863128475850983,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Your Move, Leicester",
+ "city": "Leicester",
+ "sourceOutcode": "LE1",
+ "scrapedAt": "2026-08-31T15:00:36.164Z"
+}

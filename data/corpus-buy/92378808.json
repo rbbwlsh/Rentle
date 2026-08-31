@@ -1,0 +1,87 @@
+{
+ "id": "92378808",
+ "mode": "buy",
+ "displayAddress": "23 Westbourne Gardens, Dowanhill, G12",
+ "outcode": "G12",
+ "incode": "9PE",
+ "latitude": 55.880285,
+ "longitude": -4.30036,
+ "priceAmount": 400000,
+ "priceLabel": "£400,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92378808",
+ "area": "Dowanhill",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 1033,
+  "sizeSqM": 96,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "E",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 25/08/2026"
+ },
+ "sizeSqFt": 1033,
+ "sizeSqM": 96,
+ "description": "Westbourne Gardens has long been one of the West End’s most sought-after addresses. Tucked away from Hyndland Road, its handsome sandstone terraces overlook beautifully kept residents’ gardens, giving it a distinctly residential feel despite being only a few minutes’ walk from the cafés, restaurants and shops of Hyndland.\n\nOccupying the first floor of number 23, this particularly spacious two-bedroom apartment is a lovely example of why these properties remain so popular. The proportions are generous, the ceilings are high and much of the original character has been carefully retained, while a series of thoughtful improvements by the current owners have made it an exceptionally comfortable home.\n\nThe living room is undoubtedly one of its highlights. A broad bay window draws in plenty of natural light and has been fitted with a bespoke window seat, creating a rather good place to sit and watch Westbourne Gardens go by. Original flooring, detailed cornicing and a handsome fireplace give the room its character, while its sheer scale allows for substantial furniture without ever feeling crowded.\n\nThe principal bedroom is an unusually generous room, with two tall windows, beautiful proportions and plenty of space for freestanding furniture. The second bedroom is equally useful and is currently arranged as a dining room, though its size makes it a very comfortable double bedroom, home office or guest room.\n\nThe kitchen sits to the rear and has been neatly fitted with a good range of cabinetry and worktop space, while the bathroom, which just has been entirely renewed by the current owners in May of this year, with contemporary tiling, a bath and overhead shower, fixtures and fittings all from Porcelanosa.\n\nThroughout their ownership, considerable attention has also been given to the details. Every room has been redecorated, all of the windows have been refurbished and draught-proofed with renewed raising and lowering mechanisms, electric blinds have been installed throughout, and new lighting has been introduced, including discreet LED lighting at picture-rail level in the two front rooms and new downlights within the hallway.\n\nPerhaps what works particularly well here is the balance. It still feels every inch a traditional West End apartment, with high ceilings, tall windows, original flooring and handsome period detailing, but the work carried out has made it considerably easier to live in.\n\nAnd then, of course, there is Westbourne Gardens itself. The address places you within easy walking distance of both Hyndland Road and Byres Road, yet the setting feels remarkably removed from either. The beautiful central residents’ gardens form the heart of the street and give the whole address a leafy, settled character that is difficult to replicate elsewhere in the West End.\n\nWhilst every effort is made by Yates Hellier to ensure the accuracy of these details, it should be noted that measurements are approximate and all information including service charges, parking, ground ownership and school catchment has been provided by the vendor and their accuracy cannot be guaranteed and should be verified through your solicitor and local council.\n\nEPC Rating: D\nAgency Registration Number: 1812011",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/24218a50b/92378808/24218a50bfec95a54c855d6a903e4430.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8c639a59a/92378808/8c639a59ab182cf1e0c8ae9084d2c381.jpeg",
+  "https://media.rightmove.co.uk/property-photo/91e80ee23/92378808/91e80ee23bc7260098aae6fc66a150dc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a3eed034a/92378808/a3eed034aa86c51653ccc511a3027878.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1d3fd7c70/92378808/1d3fd7c70d51192becb0112e7d862987.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ae41ff57c/92378808/ae41ff57c95798fdd0a1587bc8e87d2c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f4941023e/92378808/f4941023eac12b64235195c2a80e0017.jpeg",
+  "https://media.rightmove.co.uk/property-photo/519f0e175/92378808/519f0e175dfd65fcf314543eac9aaa68.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9125fca20/92378808/9125fca2080dbf44ef0544de6803248e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6f7afe73d/92378808/6f7afe73d94a05bad42285e23126e649.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b9be13df2/92378808/b9be13df29d87042a7c7213cf620ca5b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b8edb97aa/92378808/b8edb97aab52b476c0e5d9eb0f9f4569.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b03c438ff/92378808/b03c438ffbdaccb4ec21aa1b191617b8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/751f2e790/92378808/751f2e79022c1d44990e498f64ded02e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/67da7247b/92378808/67da7247ba220ef69019d32a60bed3e8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/19b3e78a1/92378808/19b3e78a121c69706330e12eb69acbd0.png",
+  "https://media.rightmove.co.uk/property-photo/c9afcc7fa/92378808/c9afcc7fa8f6be023db5e936ef46ba5d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7abd01b74/92378808/7abd01b74fd7255564bb5955b326c31e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a5219cb23/92378808/a5219cb236ffc66a30d458b91ca98c74.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ba27b2c61/92378808/ba27b2c615aab8df54a2030efe4d035b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4c13c58b6/92378808/4c13c58b634b19f2bd9055a13fd5ef46.jpeg",
+  "https://media.rightmove.co.uk/property-photo/abaa9d614/92378808/abaa9d614b251cbdc560024d3b38ddab.jpeg"
+ ],
+ "imageCount": 22,
+ "nearestStations": [
+  {
+   "name": "Hillhead Station",
+   "miles": 0.44482770015309725,
+   "types": [
+    "LIGHT_RAILWAY"
+   ]
+  },
+  {
+   "name": "Hyndland Station",
+   "miles": 0.5077077996936713,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Kelvinhall Station",
+   "miles": 0.6591118765248342,
+   "types": [
+    "LIGHT_RAILWAY"
+   ]
+  }
+ ],
+ "agent": "Yates Hellier, Glasgow",
+ "city": "Glasgow",
+ "sourceOutcode": "G12",
+ "scrapedAt": "2026-08-31T16:57:02.868Z"
+}

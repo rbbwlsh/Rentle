@@ -1,0 +1,77 @@
+{
+ "id": "90708153",
+ "mode": "buy",
+ "displayAddress": "College Road, Bath, Somerset, BA1",
+ "outcode": "BA1",
+ "incode": "5RY",
+ "latitude": 51.395746,
+ "longitude": -2.37096,
+ "priceAmount": 445000,
+ "priceLabel": "£445,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90708153",
+ "area": "Bath, Somerset",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 836,
+  "sizeSqM": 78,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 963,
+  "annualGroundRent": 10,
+  "annualServiceCharge": 2820,
+  "councilTaxBand": "D",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 27/08/2026"
+ },
+ "sizeSqFt": 836,
+ "sizeSqM": 78,
+ "description": "Communal reception hall • Private hall • Living room • Kitchen/breakfast room • Two bedrooms • Bathroom • Store room • Communal south facing gardens • Secure gated parking\n\nA lovely two bedroom first floor apartment within this grand period residence on the northern slopes of Lansdown. A substantial and welcoming communal reception hall meets you with grand arches, tiled flooring and a wide open staircase flooded with light from the large sash windows. The apartment is accessed off the first floor landing, leading into the private reception hall which leads to all of the rooms. Ahead of you is the large living room with three sash windows in the bowed exterior wall enjoying the amazing southerly elevated views across Bath. There are two good bedrooms, a bathroom and a kitchen/Breakfast Room, off which is a large store room. \nA large gateway leads into the parking area at the front of the building and access leads around to the large and well maintained communal south facing gardens.\n\nSituation \nLaggan House, College Road, sits off Lansdown Road, on the northern side of the city, surrounded by excellent schools and amenities and having good access straight into the city centre and to the M4 motorway to the north. Lansdown Tennis club is nearby with excellent tennis, squash, and croquet facilities as well as a large and active bar and restaurant. A regular bus service is just outside the property and there are excellent walks on your doorstep to Charlcombe and up to Beckford Tower. The Hare & Hounds pub is a short walk up the hill and offers excellent gastropub food and stunning views.\nThe World Heritage City of Bath is renowned for its cultural, sporting and leisure amenities including an ample selection of shops, bars, restaurants, Bath Thermae Spa and The Theatre Royal as well as the excellent University Campus Sports Centre at Claverton Down. The city centre is within easy reach on foot or regular bus services. Junction 18 (M4) giving access to London, North Bristol, the South West, Wales and Midlands (via the M5) is within 7 miles. High speed rail links to London Paddington (approximately 90 minutes) are available from Bath Spa Station and also links to Bristol Temple Meads and the West Country rail network.\n\nAdditional Information\nTenure: Leasehold (999 years from 1 January 1991)\nService Charge: £2,820 per annum\nGround Rent: £10 per annum\nPlanning: The property is not subject to a listing\nServices: All mains services are connected\nLocal Authority: Bath & North East Somerset Council\nCouncil Tax: Band D\nEPC: Band D\nViewings: Strictly by appointment with Carter Jonas",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/4e9e011c8/90708153/4e9e011c81fcb061c8e3fb038d28b5f8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/958c4e91e/90708153/958c4e91e051a7aafa721e4c17cf458c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/395f0ada9/90708153/395f0ada9d160a1a5f9f3d1fcc1ce98f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a45c137cb/90708153/a45c137cbb9f3afa0d2f102d8816c147.jpeg",
+  "https://media.rightmove.co.uk/property-photo/123590fe5/90708153/123590fe57cc9eca58f070310ffa4707.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ecf53f4ec/90708153/ecf53f4ec86e0554c41c31edc6fe0e35.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ed1c5bf50/90708153/ed1c5bf5045a7f4cbd6bbdeb6cd68058.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0390cc30f/90708153/0390cc30ff4679bdbfd939be46c53262.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d93098093/90708153/d930980934c40a88caa7b45a68551710.jpeg",
+  "https://media.rightmove.co.uk/property-photo/39b7f4ef2/90708153/39b7f4ef2980655c137fab3a361e0265.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cc211bd87/90708153/cc211bd87120326e1b4d474a01876c64.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b63705ab6/90708153/b63705ab61a2661fc1651d0ebfcdac1b.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Oldfield Park Station",
+   "miles": 1.2252134751353565,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bath Spa Station",
+   "miles": 1.3863441074332266,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Freshford Station",
+   "miles": 4.792809293489333,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Carter Jonas, Bath",
+ "city": "Bath",
+ "sourceOutcode": "BA1",
+ "scrapedAt": "2026-08-31T15:02:01.031Z"
+}

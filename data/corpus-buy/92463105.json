@@ -1,0 +1,80 @@
+{
+ "id": "92463105",
+ "mode": "buy",
+ "displayAddress": "Clifton Street, Middlesbrough",
+ "outcode": "TS1",
+ "incode": "4BY",
+ "latitude": 54.56977,
+ "longitude": -1.241526,
+ "priceAmount": 90000,
+ "priceLabel": "£90,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92463105",
+ "area": "Middlesbrough",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": 1012,
+  "sizeSqM": 94,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Added on 27/08/2026"
+ },
+ "sizeSqFt": 1012,
+ "sizeSqM": 94,
+ "description": "A WELL SIZED THREE BEDROOM TWO RECEPTION ROOM INNER TERRACED LOCATED WITHIN A MATTER OF MINUTES FROM THE UNIVERSITY OF TEESSIDE BEING OFFERED FOR SALE WITH TENANTS IN SITU ON A STANDARD SINGLE 'AST' LEASE GENERATING A MONTHLY INCOME OF £800PCM NOT INCLUDING BILLS. THIS GENERATES AN ANNUAL INCOME OF £9600 THUS CREATING A GROSS YIELD OF OVER 10% AT ASKING PRICE. THE PROPERTY OFFERS WELL PRESENTED MODERN FIXTURES AND FITTINGS THROUGHOUT AND BEING LET ON A FURNISHED BASIS ALL FURNISHINGS ARE INCLUDED IN THE SALE. THE PROPERTY HAS A LONG HISTORY OF BEING LET THUS MAKING IT A SECURE INVESTMENT. WE FEEL THIS WILL BE A SHREWD INVESTMENT FOR ANY INVESTOR THEREFORE ENCOURAGE A VIEWING AT THE EARLIEST OPPORTUNITY. \nThe accommodation in brief comprises a entrance hall, a downstairs Bedroom (formerly a second reception room), a communal Lounge, Kitchen, rear Lobby and a downstairs Bathroom. To the first floor are three Bedrooms.",
+ "keyFeatures": [
+  "UPVC double glazing throughout",
+  "Recently installed gas combi boiler (approximately 12 months old as of August 2026)",
+  "Recently renewed consumer unit (inside of 2 years from the same date)",
+  "EPC Rating 'C' - 72 / 85"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/bcc588235/92463105/bcc588235f111f1010cd728eb08c1474.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bd4799cbc/92463105/bd4799cbc8c98d781d3f7cdb9f4179d2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/97beb1dc3/92463105/97beb1dc3bb526c1f597c3b2ea7040aa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a74e0a57c/92463105/a74e0a57cf41c72ca934adcd3aeed187.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9c8a21047/92463105/9c8a21047924f5060026d5ae45468cd5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f230dbdb6/92463105/f230dbdb6f5a5c2c1e21e8471fd4b11a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8fd0cbb9d/92463105/8fd0cbb9d83af8ba596a5c74e553592e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0cdca73e7/92463105/0cdca73e7c81b731f6ce07b86964397b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/401c19ae5/92463105/401c19ae57d5eb529d70fed6eef825dc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/86b796661/92463105/86b796661a5fd9e3780c31ff6ac6d667.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Middlesbrough Station",
+   "miles": 0.699475585226954,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Thornaby Station",
+   "miles": 2.5000544082534053,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Marton Station",
+   "miles": 2.5160886359554167,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Progression Property, Middlesbrough",
+ "city": "Middlesbrough",
+ "sourceOutcode": "TS1",
+ "scrapedAt": "2026-08-31T15:03:39.070Z"
+}

@@ -1,0 +1,77 @@
+{
+ "id": "173042543",
+ "mode": "buy",
+ "displayAddress": "The Co Operative, Corporation Street, Coventry",
+ "outcode": "CV1",
+ "incode": "1GF",
+ "latitude": 52.409488,
+ "longitude": -1.513598,
+ "priceAmount": 145000,
+ "priceLabel": "£145,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/173042543",
+ "area": "The Co Operative, Coventry",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 119,
+  "annualGroundRent": 149.95,
+  "annualServiceCharge": 1704,
+  "councilTaxBand": "B",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 27/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Situated in the vibrant heart of Coventry City Centre, this exquisite one-bedroom apartment on the first floor presents a unique opportunity for modern living. Just a short stroll from the University, this property is ideal for those seeking a blend of convenience and style.\n\nThe apartment is fully furnished to a high standard, featuring an open-plan lounge and kitchen that creates a spacious and inviting atmosphere. The double bedroom offers a comfortable retreat, while the fully fitted bathroom ensures all your needs are met. \n\nResidents of this remarkable development will enjoy exclusive access to a range of amenities designed to enhance their living experience. A residents' lounge provides a perfect space for socialising, while the stunning rooftop terrace offers breathtaking views of the city. For those who appreciate fitness, the exercise areas are readily available, promoting a healthy lifestyle.\n\nOne of the standout features of this property is the professionally landscaped garden space, accessible via a secure lift from the reception area. This tranquil outdoor setting is exclusively for residents, providing a peaceful escape from the hustle and bustle of city life. Additionally, the private indoor park, sheltered by a glass roof, is a unique offering in the Midlands, allowing residents to enjoy nature year-round.\n\nWith its bespoke layouts and designer specifications, this apartment not only meets but exceeds expectations for contemporary living. Whether you are a student, a professional, or simply seeking a stylish city abode, this property is a must-see. Embrace the luxury and convenience of city living in this stunning apartment.\n\nExpiry date of the Lease: 2132\nCurrent Ground Rent: £149.95\nCurrent Service/Maintenance Charge: £1704 annually \n\nPLEASE NOTE THAT LEASE  DETAILS ARE FOR GUIDANCE  PURPOSES  ONLY  AND WE WOULD RESPECTFULLY  REQUEST THAT YOU SEEK CLARIFICATION OF THE EXACT TERMS OF THE LEASE VIA YOUR SOLICITOR",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/e371211d8/173042543/e371211d8728a256476065c3bac32907.jpeg",
+  "https://media.rightmove.co.uk/property-photo/633e449dc/173042543/633e449dc1f06f5ba8cf0fda6e23b5e5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e2c4de909/173042543/e2c4de909b4432e00a9c78fc36fbf07c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/86ce6d229/173042543/86ce6d229ababa12ba6692dd9eef00a2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bae9d3bc6/173042543/bae9d3bc6eff851e1b681b772827a5b4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e122a78c9/173042543/e122a78c92eba444c35adebf17f1ebe9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/721e52e51/173042543/721e52e51ea05746fe45888fca8f0f7d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3a9fd8774/173042543/3a9fd87749106f6b1c70c4c009c92d87.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dd831f1e8/173042543/dd831f1e8df05e040d5fb51bb304e096.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0a8e30f45/173042543/0a8e30f45ec294ae20467ec7c11b61d8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4eeadac5e/173042543/4eeadac5efa13fdd6584ed4aca966748.jpeg",
+  "https://media.rightmove.co.uk/property-photo/85abc8a84/173042543/85abc8a8442aabea77a7e5a40bc02c3e.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Coventry Station",
+   "miles": 0.5999832949451452,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Canley Station",
+   "miles": 1.6079153017828034,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Coventry Arena Station",
+   "miles": 2.694904790311868,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Shortland Horne, Coventry",
+ "city": "Coventry",
+ "sourceOutcode": "CV1",
+ "scrapedAt": "2026-08-31T14:55:59.580Z"
+}

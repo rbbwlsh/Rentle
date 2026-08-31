@@ -1,0 +1,93 @@
+{
+ "id": "92488419",
+ "mode": "buy",
+ "displayAddress": "Raglan Road, Plymouth",
+ "outcode": "PL1",
+ "incode": "4NQ",
+ "latitude": 50.372149,
+ "longitude": -4.172571,
+ "priceAmount": 170000,
+ "priceLabel": "£170,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92488419",
+ "area": "Plymouth",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Maisonette",
+ "details": {
+  "propertyType": "Maisonette",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 959,
+  "annualGroundRent": null,
+  "annualServiceCharge": 2200,
+  "councilTaxBand": null,
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Tucked away in a quiet and sought after residential development, this beautifully presented three bedroom duplex apartment offers a perfect blend of space, comfort and convenience. It is ideal for modern family living or for a professional couple looking for a move in ready home.\n\nSet across two well planned floors, the property welcomes you with a bright and spacious lounge, complete with direct access to a private balcony. This is an ideal spot for morning coffee or evening relaxation. The adjacent kitchen diner provides a stylish and practical space for cooking and entertaining, with ample storage and room for a dining table. A convenient downstairs WC completes the lower floor.\n\nUpstairs, you will find three generously sized double bedrooms, each benefitting from built in wardrobes to maximise space and organisation. The beautiful décor and abundance of natural light throughout create a calm and inviting atmosphere in every room.\n\nOutside, residents enjoy access to beautifully maintained communal gardens, perfect for enjoying the outdoors without the upkeep. The property also includes a large private storage shed, ideal for bikes, tools or seasonal items, and a private allocated parking space for added convenience. Allocated parking space is located close by.\n\nLocated close to local amenities, transport links and schools, this superb property is truly ready to move into and offers a rare opportunity to enjoy low maintenance living in a quiet and well cared for setting.",
+ "keyFeatures": [
+  "Stunning First Floor Maisonette",
+  "Three Generous Bedrooms",
+  "Beautifully Presented Throughout",
+  "High Specification Kitchen/Diner",
+  "Spacious Living Room",
+  "Balcony with Views",
+  "Modern Bathroom Suite",
+  "Allocated Parking Space"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/e9ce82280/92488419/e9ce82280d312e3757e129ec06f2259e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fa2a1ba77/92488419/fa2a1ba7707307e544b40e3b0be41ccd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/165131bc6/92488419/165131bc6eff175d4204c702b7311d61.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3196896bb/92488419/3196896bb855b1cb6a2daa5c89f132c5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/807a32d72/92488419/807a32d72f0aaff788575b5fdd7e6a19.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb07ff63b/92488419/bb07ff63bc244697f13fc67de05fe6e7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/54d102ead/92488419/54d102ead76b95955bec69ed3c312e34.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b9e09bda5/92488419/b9e09bda5e7aed6a040b98dca1b277cc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ce628ac90/92488419/ce628ac90b95d8c08941591f3a263363.jpeg",
+  "https://media.rightmove.co.uk/property-photo/43a9ea95c/92488419/43a9ea95c956c747806c3dec78627d35.jpeg",
+  "https://media.rightmove.co.uk/property-photo/804d52afe/92488419/804d52afe0fcbbb37f6942b0928f4472.jpeg",
+  "https://media.rightmove.co.uk/property-photo/45d4d20da/92488419/45d4d20da5143664fe9a69c122160a0e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/20ca3dc40/92488419/20ca3dc4094973aea262e3c8008c4694.jpeg",
+  "https://media.rightmove.co.uk/property-photo/32bd29f54/92488419/32bd29f542d67447ab7df4d4761c863c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4e8846779/92488419/4e88467797df8c32993f7529587cc1de.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3fbc6254e/92488419/3fbc6254ebe8fd842d4994c2d907cf4e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3f36ee89c/92488419/3f36ee89cc9fcd5c11df2338845d20a5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f83429d03/92488419/f83429d033c7c1e185cedd098a6ccfa8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e1e5f61eb/92488419/e1e5f61eb76c31e3a76a686fbac1a904.jpeg"
+ ],
+ "imageCount": 19,
+ "nearestStations": [
+  {
+   "name": "Devonport Station",
+   "miles": 0.44525512489990443,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Dockyard Station",
+   "miles": 0.7282597225960921,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Keyham Station",
+   "miles": 1.276484139089699,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "haart, Plymouth",
+ "city": "Plymouth",
+ "sourceOutcode": "PL1",
+ "scrapedAt": "2026-08-31T16:53:49.119Z"
+}

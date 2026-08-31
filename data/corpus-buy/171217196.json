@@ -1,0 +1,86 @@
+{
+ "id": "171217196",
+ "mode": "buy",
+ "displayAddress": "Phoenix Square, Burton Street, Leicester",
+ "outcode": "LE1",
+ "incode": "1TL",
+ "latitude": 52.636177,
+ "longitude": -1.124472,
+ "priceAmount": 125000,
+ "priceLabel": "£125,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/171217196",
+ "area": "Leicester",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 434,
+  "sizeSqM": 40,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 140,
+  "annualGroundRent": 150,
+  "annualServiceCharge": 2800,
+  "councilTaxBand": "B",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 21/08/2026"
+ },
+ "sizeSqFt": 434,
+ "sizeSqM": 40,
+ "description": "An immaculately presented, one bedroom, one bathroom apartment located on the top floor of this truly unique building in the heart of the Cultural Quarter, suitable for both first time buyers and investors alike.\n\nLocation - Phoenix Square sits right in the heart of Leicester's vibrant Cultural Quarter, close to Curve Theatre giving excellent access to the city centre with its professional quarters and mainline railway station, trendy bars, restaurants and shopping facilities.\n\nAccommodation - The building is entered via a communal entrance hall housing the stairs and lifts to all floors. The apartment itself is entered via a solid wood front door into a hallway housing a utility and storage area with the washing machine, plumbing, fuseboard and the water tank. The stunning open plan living/dining area/kitchen is a lovely light area, having carpeted flooring in the living area and a sliding door to a Juliet balcony providing city skyline views. The kitchen boasts a good range of eye and base level units and ample preparation surfaces, a stainless steel sink and drainer unit, integrated appliances include a CDA dishwasher, CDA oven, CDA microwave and a fridge freezer, inset ceiling spotlights and tiled flooring.\n\nThe double bedroom is a good size with a window enjoying skyline views, carpeted flooring and space for a wardrobe and dressing table. The bathroom provides a three piece suite comprising a bath with shower over, WC and wash hand basin, heated towel rail, part tiled walls and tiled floor.\n\nParking - Whilst no parking is available with the apartment, there may be spaces available to rent from Metro PM at a cost.\n\nLease Details - Please be advised that whilst we make every effort to ensure that these lease details are correct, these are subject to change, must not be relied upon and MUST be verified by any potential Purchaser's Solicitor. \n\nTenure: Leasehold\nLease Term: 140 years from 2012.\nService Charge: £2,800 per annum (including water rates).\nGround Rent: £150 per annum\nManagement Company: Metro PM\n\nOther Information - Local Authority: Leicester City Council\nTax Band: B\nListed Status: None. \nConservation Area: None.\nServices: Offered to the market with all mains services and gas-fired central heating.\nBroadband delivered to the property: Fibre, speed unknown.\nWayleaves, Rights of Way & Covenants: None out of the ordinary for an apartment block.\nFlooding issues in the last 5 years: None our Clients are aware of.\n\nNote To Prospective Purchasers - As a regulated profession, and in accordance with the Anti-Money Laundering Regulations, we are legally required to carry out due diligence checks on all purchasers to verify their identity. A non-refundable administration fee of £60 plus VAT per purchaser is payable upon an offer being accepted. This fee covers the cost of compliance procedures, including Anti-Money Laundering and identity verification checks. These checks are completed to meet our obligations under Anti Money Laundering Regulations (AML) and are a legal requirement.",
+ "keyFeatures": [
+  "Communal entrance hall",
+  "private entrance hall",
+  "open plan living/dining/kitchen area",
+  "Juliet balcony",
+  "double bedroom",
+  "bathroom",
+  "sustainably sourced building materials",
+  "energy efficient solar hot water system",
+  "Leasehold",
+  "EPC - B"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f7914ffb4/171217196/f7914ffb4d9a30f2a8a1780a9db03636.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3b7910b99/171217196/3b7910b99619d93bfdd78fd3ecc061df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7243048d5/171217196/7243048d5cd0f8826975ad782ce91388.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4902512ca/171217196/4902512cae990d2d3e0b0490d6eda428.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e96345186/171217196/e96345186707befa58cd2e6732e1df1b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d1e7ea44f/171217196/d1e7ea44fadb7e280002f65b9abe8285.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7b0dd2a43/171217196/7b0dd2a439f3b13ca26fbd1cc2469411.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8517cdea1/171217196/8517cdea18dbf203abdb5e6941f310d9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/134fd5c74/171217196/134fd5c74004f4ec7a149d658577b9f6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cf64beefa/171217196/cf64beefa91f7abe16f19192425ec8a0.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Leicester Station",
+   "miles": 0.29280671710022654,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "South Wigston Station",
+   "miles": 3.747353987489915,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Syston Station",
+   "miles": 4.377274045639436,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "James Sellicks Estate Agents, Leicester",
+ "city": "Leicester",
+ "sourceOutcode": "LE1",
+ "scrapedAt": "2026-08-31T14:56:17.113Z"
+}

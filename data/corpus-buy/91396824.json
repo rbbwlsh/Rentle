@@ -1,0 +1,89 @@
+{
+ "id": "91396824",
+ "mode": "buy",
+ "displayAddress": "Flat 8, Pembroke Buildings, Cambrian Place",
+ "outcode": "SA1",
+ "incode": "1RY",
+ "latitude": 51.618388,
+ "longitude": -3.93623,
+ "priceAmount": 87995,
+ "priceLabel": "£87,995",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91396824",
+ "area": "Pembroke Buildings",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 999,
+  "annualGroundRent": null,
+  "annualServiceCharge": 2200,
+  "councilTaxBand": "C",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 28/07/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "An ideal opportunity for investors and first time buyers, this well presented one bedroom flat is located in the highly sought after Swansea City Centre. The property is currently achieving a competitive rental income of £700 pcm and benefits from a 999 year lease, offering long term security and excellent value.\n\nThe flat can be sold with tenants in situ for a ready made investment, or with vacant possession for buyers looking to occupy the property themselves.\n\nThe property features a modern and practical shower room, a well appointed double bedroom, and a spacious open plan kitchen and living area, making it an ideal home for students and professionals seeking comfort and convenience in Swansea City Centre.\n\nThe property is offered with no ongoing chain, operates on electric-only heating, and benefits from a £2,200 annual service charge, covering building maintenance and communal facilities.\n\nCouncil Tax Band: C\nTenure: Leasehold (999 years)\nService Charge: £2,200 per year",
+ "keyFeatures": [
+  "1 Bedroom",
+  "999 Year Lease",
+  "Chain free",
+  "Close Links to M4",
+  "Close proximity to local school, shops and amenities",
+  "Ideal first time buy",
+  "Investment opportunity",
+  "Situated in Swansea City Centre",
+  "£2200 per Annum Service Charge ",
+  "Potential Rental Income of £750pcm"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/97151cfdb/91396824/97151cfdb397e5b5416aded01c75148e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a52fe3fe9/91396824/a52fe3fe997967a2801422e2cc0205bb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/486479c76/91396824/486479c76352054a28773e964677872d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ed3a1f47d/91396824/ed3a1f47d623dd92e3c68f180d87e26b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/93b89e456/91396824/93b89e4562d24575ad3934253981d4d8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a91bf0e10/91396824/a91bf0e1023eb4e16ac220a80d77d295.jpeg",
+  "https://media.rightmove.co.uk/property-photo/13a8527c9/91396824/13a8527c971935cb31286ba49359a68b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3fffa0f9f/91396824/3fffa0f9f332fc698d92af74a451dcc0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eab4835c1/91396824/eab4835c13713bffae7dc01aea09e39a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/151d1b61b/91396824/151d1b61bc4bbfb11fedc4ed0914dac6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/471a29499/91396824/471a294991e60dcbb996a861c829b255.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ef559e0ce/91396824/ef559e0ce2a989f0cb0c4fc23a213aa5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/da38db3ca/91396824/da38db3ca0c5dc5fb6e9d7c7acb245e3.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Swansea Station",
+   "miles": 0.5158654287270924,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Llansamlet Station",
+   "miles": 3.7068709752988185,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Gowerton Station",
+   "miles": 4.7506306803428835,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Wisemove, Neath",
+ "city": "Swansea",
+ "sourceOutcode": "SA1",
+ "scrapedAt": "2026-08-31T14:58:06.753Z"
+}

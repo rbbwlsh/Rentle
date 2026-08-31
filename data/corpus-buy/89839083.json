@@ -1,0 +1,87 @@
+{
+ "id": "89839083",
+ "mode": "buy",
+ "displayAddress": "Lee Street, London, E8",
+ "outcode": "E8",
+ "incode": "4HQ",
+ "latitude": 51.538322,
+ "longitude": -0.074327,
+ "priceAmount": 441000,
+ "priceLabel": "£441,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89839083",
+ "area": "London",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 573,
+  "sizeSqM": 53,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 97,
+  "annualGroundRent": 9,
+  "annualServiceCharge": 2317,
+  "councilTaxBand": "B",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": 573,
+ "sizeSqM": 53,
+ "description": "Stylish one-bedroom apartment renovated to high standard and arranged over 573Sqft\n\n\rDescription\n\nEntered via a well-maintained communal entrance with both lift and stair access, the apartment occupies the third floor of this development.\n\nThe front door opens into a welcoming entrance hall with generous built-in storage, providing excellent practicality and a strong sense of arrival. From here, each room is accessed independently, creating a well-balanced and highly functional layout.\n\nPositioned at the rear of the apartment, the reception room is a bright and inviting space centred around south-facing French doors opening onto a Juliet balcony. The room comfortably accommodates distinct seating and dining areas, while bespoke cabinetry and shelving provide attractive and practical storage.\n\nThe separate kitchen is well arranged with a range of fitted cabinetry, generous work surfaces and integrated appliances. A large window enjoys a leafy outlook, bringing natural light into the space and enhancing the sense of openness.\n\nThe bedroom is exceptionally well proportioned and benefits from a full wall of built-in wardrobes, providing extensive storage without compromising floor space. South-facing glazing ensures the room enjoys excellent natural light throughout the day.\n\nCompleting the accommodation is a contemporary bathroom and a separate WC, a practical arrangement that enhances day-to-day living, while further storage cupboards are thoughtfully positioned off the hallway.\n\nThe apartment has been carefully maintained and offers bright, well-proportioned accommodation throughout, with an abundance of built-in storage and an efficient layout ideally suited to modern living.\n\nLocation\n\nPositioned in one of East London's most sought-after neighbourhoods, the apartment enjoys an exceptional setting between Haggerston, London Fields and Broadway Market. Stonebridge Gardens borders the development, while the Regent's Canal is approximately 0.1 miles away, providing a picturesque waterside route towards Victoria Park to the east and Angel to the west.\n\nBroadway Market, approximately 0.4 miles away, is one of East London's best-known destinations, with a vibrant mix of neighbourhood cafés, specialist food retailers, design-led shops and acclaimed dining. Adjacent is London Fields offering an expansive green space, tennis courts and the popular heated lido.\n\nThe surrounding streets are home to some of London's most highly regarded culinary destinations, including Café Cecilia, Sune, Planque, Towpath Café, Toconoco and The Dusty Knuckle. Kingsland Road,  provides a lively mix of cocktail bars, wine bars and late-night venues, while Hackney City Farm and Columbia Road, with its renowned Sunday flower market and independent retailers, are both within approximately 0.8 miles.\n\nTransport connections are excellent. Haggerston Overground Station is approximately 0.1 miles away, providing direct services on the Windrush Line, while numerous bus routes offer convenient access to the City, Shoreditch, Canary Wharf and the West End.\n\nSquare Footage: 573 sq ft\n\rLeasehold with approximately 97 years remaining.",
+ "keyFeatures": [
+  "Spacious one bedroom apartment.",
+  "Offered chain free",
+  "Renovated recently to a high standard",
+  "New wiring &amp; plumbing",
+  "Hardwood flooring",
+  "EPC Rating = C"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/78956ff77/89839083/78956ff77f6601b41d4003d272f950f8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/87140a0d7/89839083/87140a0d78b52859c5b92d385650247f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5abe6f0ee/89839083/5abe6f0ee716172821dc5c2648bcb8f8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a2d6d7954/89839083/a2d6d79544e920bf9416b16fac955053.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1337dfa8f/89839083/1337dfa8fa1cd511e74af5d0029374e8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/265543dae/89839083/265543daecc09fbf47e0cc97f1d341b4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9d64b5517/89839083/9d64b55178ecea55d8cbbfb28f4593b3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/00ba0de04/89839083/00ba0de049efdb721a335464e21f2f80.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b82874f9f/89839083/b82874f9f77fe60837c7d832193cb3f1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7fd7a74b0/89839083/7fd7a74b05467a5b334a116d4df70e92.jpeg",
+  "https://media.rightmove.co.uk/property-photo/99ca563b4/89839083/99ca563b4c8c03596ff60b6dcf1f2a30.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f4555b8f/89839083/5f4555b8fe12b0dbd64befd952fcc10d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7c1d5277a/89839083/7c1d5277a61b579dfda30fbb3158a29d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b6405a4ba/89839083/b6405a4ba028ba8c1edeecb3a0be2ae7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/39e346734/89839083/39e346734fa7112dfe491ebf5040a832.jpeg"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Haggerston Station",
+   "miles": 0.13959080347003608,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Hoxton Station",
+   "miles": 0.48396175413864884,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Dalston Junction Station",
+   "miles": 0.5407771370085227,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  }
+ ],
+ "agent": "Savills, Hackney",
+ "city": "London",
+ "sourceOutcode": "E8",
+ "scrapedAt": "2026-08-31T16:55:29.831Z"
+}

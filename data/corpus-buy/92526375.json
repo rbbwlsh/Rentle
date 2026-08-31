@@ -1,0 +1,84 @@
+{
+ "id": "92526375",
+ "mode": "buy",
+ "displayAddress": "Claremont Road, Portsmouth",
+ "outcode": "PO1",
+ "incode": "5AP",
+ "latitude": 50.796775,
+ "longitude": -1.076114,
+ "priceAmount": 110000,
+ "priceLabel": "£110,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92526375",
+ "area": "Portsmouth",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 105,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 1151.5,
+  "councilTaxBand": null,
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "We are pleased to bring to the sales market this one bedroom, first floor apartment situated within walking distance to local shops and transport links. \n\nThis apartment benefits from one double bedroom, modern open planned living and the bathroom. It was perfect for both, first time buyers and investors and being offered with no onward chain. \n\nTo arrange your viewing on this property, please contact the Portsmouth Branch on  .\n\nEntrance Hall - \n\nKitchen/Living Area - 4.13 x 3.46 (13'6\" x 11'4\") - \n\nBedroom - 3.68 x 2.47 (12'0\" x 8'1\") - \n\nBathroom - 2.47 x 2.08 (8'1\" x 6'9\") - \n\nCouncil Tax - The local authority is Portsmouth city Council.\n\nBAND : A – £1,320.51\n\nLeasehold Inforamtion - Lease Length :  105 years\nGround Rent : £0\nService Charge : £1151.50\n\nPlease note Bernard's Estate agents have not checked or verified the leases, the information provided is what we have been provided with from the sellers. Your solicitor will check all of the above during the conveyancing process.\n\nConveyancing - Choosing the right conveyancing solicitor is extremely important to ensure that you obtain an effective yet cost-efficient solution. The lure of supposedly cheaper on-line \"conveyancing warehouse\" style services can be very difficult to ignore but this is a route fraught with problems that we strongly urge you to avoid. A local, established and experienced conveyance will safeguard your interests and get the job done in a timely manner. Bernards can recommend several local firms of solicitors who have the necessary local knowledge and will provide a personable service. Please ask a member of our sales team for further details.\n\nMortgage Advisor - We offer financial services here at Bernards. If you would like to review your current Agreement In Principle or are yet to source a lender, we have a number of experienced Financial Advisors who will be happy to help.\n\nOffer Check Procedure - If you are considering making an offer for this or any other property Bernards Estate Agents are marketing, please make contact with your local office so we can verify/check your financial/Mortgage situation.",
+ "keyFeatures": [
+  "FIRST FLOOR FLAT",
+  "ONE DOUBLE BEDROOM",
+  "OPEN PLANNED LIVING",
+  "MODERN APARTMENT",
+  "LONG LEASE REMAINING",
+  "IDEAL FIRST TIME PURCHASE",
+  "GOOD BUY TO LET",
+  "CLOSE TO TRANSPORT LINKS",
+  "SHOPS IN WALKING DISTANCE",
+  "CALL TO ARRANGE VIEWING"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/fd5cd0ab4/92526375/fd5cd0ab482e2cc9a671df16a584b62d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ffdcd4db3/92526375/ffdcd4db38f923a0bca27a3e788cf36f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bd527b4b5/92526375/bd527b4b502ce91b78556b62d421ff45.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4fcee6564/92526375/4fcee65648531126a1488de4fe5b80f6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/95e980ab2/92526375/95e980ab27dd81b3132e5b294031fd1c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ca31912df/92526375/ca31912dfcf5f6e210973cac2de6564a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/961173478/92526375/961173478efc10a48196bf921243de38.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c8a03614c/92526375/c8a03614cf7632e2cea4e582e18eaa95.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Fratton Station",
+   "miles": 0.10030696726963963,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Portsmouth & Southsea Station",
+   "miles": 0.6364760527341868,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Portsmouth Harbour Station",
+   "miles": 1.361054453136106,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Bernards Estate and Lettings Agents, Portsmouth Office",
+ "city": "Portsmouth",
+ "sourceOutcode": "PO1",
+ "scrapedAt": "2026-08-31T14:57:35.469Z"
+}

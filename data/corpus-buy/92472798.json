@@ -1,0 +1,87 @@
+{
+ "id": "92472798",
+ "mode": "buy",
+ "displayAddress": "Sandport Street, Edinburgh, EH6",
+ "outcode": "EH6",
+ "incode": "6EP",
+ "latitude": 55.976151,
+ "longitude": -3.172151,
+ "priceAmount": 225000,
+ "priceLabel": "£225,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92472798",
+ "area": "Edinburgh",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 861,
+  "sizeSqM": 80,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "C",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 27/08/2026"
+ },
+ "sizeSqFt": 861,
+ "sizeSqM": 80,
+ "description": "A beautifully presented and exceptionally charming Category B Listed traditional maindoor flat, ideally positioned in the heart of Leith’s sought-after Shore area. The property enjoys an enviable location close to the Water of Leith walkways and cycle paths, an excellent array of independent cafés, restaurants, bars, shops and everyday amenities.\n\nThe accommodation is both stylish and versatile, comprising a spacious open-plan lounge / dining area with a recently renovated contemporary kitchen, a generous double bedroom and recently renovated bathroom. A particular feature of the property is the extensive basement, currently arranged as a walk-in wardrobe, which offers excellent additional space and could equally lend itself to a home office, guest bedroom, second sitting room or other flexible use.\n\nThe double bedroom benefits from timber-framed double-glazed French doors with shutters, providing direct access to the private rear garden. The garden features a paved area, creating an attractive and easily maintained outdoor space. Further benefits include gas central heating, double glazing and excellent storage provision.\n\nOffering an appealing blend of period character, contemporary upgrades and versatile accommodation, this is an impressive home with considerable charm and individuality, perfectly placed to enjoy all that this vibrant and increasingly popular part of Leith has to offer.",
+ "keyFeatures": [
+  "Highly sought-after Leith Shore location",
+  "Rarely available main door property with private rear garden",
+  "Recently renovated kitchen and bathroom",
+  "Easy access to Edinburgh City Centre"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/70d9fce83/92472798/70d9fce8385b8de2879a4ea3c22e16ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/846e1cc5c/92472798/846e1cc5cd9d56dcfba8d989cae1eef2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/15bdfc84f/92472798/15bdfc84f32abbd48ad75f0e76d95315.jpeg",
+  "https://media.rightmove.co.uk/property-photo/841f95734/92472798/841f95734297fff395ed48110a6ac4cb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5e4aa3193/92472798/5e4aa31933fa0157c3bd9238e1a48aaa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5a11659df/92472798/5a11659df5658725d80da1db7d579342.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8bdfc716f/92472798/8bdfc716f095b1967bd5d5067e05ae71.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8c653bfb1/92472798/8c653bfb18132da0d4d75d345a0f1eec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5e9946bd4/92472798/5e9946bd42033a7ac536c2087a2332a7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4975fda77/92472798/4975fda77d4770d567219ec4e0431aa5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9083c14cc/92472798/9083c14cc252431c929b60954c97ea6d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9ced353c0/92472798/9ced353c0d17af51c56d1f25f4d26623.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d388dee77/92472798/d388dee774c930849a5b6bf44b2c934c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3dc9cd352/92472798/3dc9cd3523c8d1636b289e3271d05a58.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f14723f0c/92472798/f14723f0c93f471702e5e85bcdee5643.jpeg",
+  "https://media.rightmove.co.uk/property-photo/584402acd/92472798/584402acdcb39ee89874f1eb02122840.jpeg",
+  "https://media.rightmove.co.uk/property-photo/040d7677f/92472798/040d7677f37282db563848f21bd5c7fc.jpeg"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 1.8051813197298467,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 2.7791818752862185,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Brunstane Station",
+   "miles": 3.6167520439142518,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Niksen Property, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH6",
+ "scrapedAt": "2026-08-31T16:55:15.932Z"
+}

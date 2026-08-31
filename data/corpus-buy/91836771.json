@@ -1,0 +1,74 @@
+{
+ "id": "91836771",
+ "mode": "buy",
+ "displayAddress": "Opto Student Newcastle, City Road, Newcastle Upon Tyne",
+ "outcode": "NE1",
+ "incode": "2AQ",
+ "latitude": 54.972435,
+ "longitude": -1.598137,
+ "priceAmount": 85000,
+ "priceLabel": "£85,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91836771",
+ "area": "Opto Student Newcastle, Newcastle Upon Tyne",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": 249,
+  "sizeSqM": 23,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": 380,
+  "annualServiceCharge": 2500,
+  "councilTaxBand": null,
+  "priceQualifier": "Fixed Price",
+  "listingUpdate": "Added on 10/08/2026"
+ },
+ "sizeSqFt": 249,
+ "sizeSqM": 23,
+ "description": "Opto Student Newcastle is a high-yielding UK Student Accommodation Investment located in one of the country's most undersupplied markets. Designed to address the lack of available high-quality student rooms, Opto Student Newcastle is strategically positioned to cater for Newcastle University and Northumbria University students and offers city centre, waterfront accommodation.\n\nWith a selection of highly desirable on-site facilities, Opto Student Newcastle is one of the most desirable student accommodation buildings in the city, yielding £175 per week in rental income.\n\n- City Centre location\n\n- Excellent transport links and walking distance to all local attractions and amenities.\n\n- Newcastle University Approx. 10-15 min walk from the development.\n\n- Northumbria University 5 min walk from the development.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/20add34d7/91836771/20add34d7804de649a6658571a64c951.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7e63264c6/91836771/7e63264c6b7869aed87b3578785e8233.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c7aa31066/91836771/c7aa31066e65c43dfc387ba48cc37c8a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b6dd4f13d/91836771/b6dd4f13d4f0ee8c50d8c30c9335189b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/20add34d7/91836771/20add34d7804de649a6658571a64c951.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c7aa31066/91836771/c7aa31066e65c43dfc387ba48cc37c8a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/61625f931/91836771/61625f9319e5295c156dc45e9dc1de8d.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Manors Station",
+   "miles": 0.2879805076069344,
+   "types": [
+    "NATIONAL_TRAIN",
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Jesmond Metro Station",
+   "miles": 0.6971439971552422,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Newcastle Central Station",
+   "miles": 0.8012523773694531,
+   "types": [
+    "NATIONAL_TRAIN",
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Opulent Invest, Brentford",
+ "city": "Newcastle",
+ "sourceOutcode": "NE1",
+ "scrapedAt": "2026-08-31T14:46:06.886Z"
+}

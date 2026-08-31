@@ -1,0 +1,89 @@
+{
+ "id": "92515704",
+ "mode": "buy",
+ "displayAddress": "Penfield Close, Manchester, M1",
+ "outcode": "M1",
+ "incode": "7JL",
+ "latitude": 53.472439,
+ "longitude": -2.231664,
+ "priceAmount": 270000,
+ "priceLabel": "£270,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92515704",
+ "area": "Manchester",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "The Property\n***Join us for an exclusive Open House on Saturday 24th May between 12pm and 1pm to explore this fantastic property in person. By appointment only*** \n\nWelcome to 19 Penfield Close, a well-presented three-bedroom mid-terrace home ideally situated in a popular residential area of Manchester city centre. This spacious property offers comfortable living accommodation across two floors and is perfect for first-time buyers, families, or investors alike.\n\nTo the ground floor, the home comprises a welcoming entrance hall, a modern fitted kitchen, a convenient downstairs WC, and a generously sized open-plan living room with direct access to the private rear garden, ideal for relaxing or entertaining. Upstairs, you’ll find three well-proportioned bedrooms—two doubles and a good-sized single—along with a modern family bathroom.\n\nThe property also benefits from both front and rear gardens, providing outdoor space at both ends of the home.\n\nProperty Description DisclaimerThis is a general description of the property only, and is not intended to constitute part of an offer or contract. It has been verified by the seller(s), unless marked as \"draft\". Purplebricks conducts some valuations online and some of our customers prepare their own property descriptions, so if you decide to proceed with a viewing or an offer, please note this information may have been provided solely by the vendor, and we may not have been able to visit the property to confirm it. If you require clarification on any point then please contact us, especially if you’re traveling some distance to view. All information should be checked by your solicitor prior to exchange of contracts.\n\nSuccessful buyers will be required to complete anti-money laundering and proof of funds checks. The current non-refundable cost is £80 inc. VAT per offer. You’ll need to pay this to Purplebricks and complete all checks before we can issue a memorandum of sale. The cost includes obtaining relevant data and any manual checks and monitoring which might be required.",
+ "keyFeatures": [
+  "Three Bedrooms",
+  "Private Garden",
+  "Close To Local Amenities ",
+  "Double Glazing",
+  "Good Transport Links",
+  "Downstairs W.C",
+  "Modern Kitchen",
+  "Gas Central Heating"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/06c410e70/92515704/06c410e705cbf5f568e53e33a75d4790.jpeg",
+  "https://media.rightmove.co.uk/property-photo/024972b3b/92515704/024972b3b6e8f27def8df761579336f6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/302a0dcc0/92515704/302a0dcc096e5daf5ca3a0a7088240c4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f855f7b77/92515704/f855f7b775fd618cafa9800739b7fced.jpeg",
+  "https://media.rightmove.co.uk/property-photo/481be22f7/92515704/481be22f7f4c1f9cbd7888d5db533fca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dc26299cf/92515704/dc26299cf1d1ccbfc233530c40904cce.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c64021f5c/92515704/c64021f5cf4becd78b0a433609ea673c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cb19c6fc9/92515704/cb19c6fc9d11fb8ce70cdc2c4a1122c5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9c4a12348/92515704/9c4a12348220ec9c8c7ef8f926ad92e3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/73e93ad86/92515704/73e93ad86541ca172f97526f65657289.jpeg",
+  "https://media.rightmove.co.uk/property-photo/341a24b29/92515704/341a24b29a092ad2b9353078ad174090.jpeg",
+  "https://media.rightmove.co.uk/property-photo/076483f2d/92515704/076483f2d0455e0e306739665502cdb9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1f2696d68/92515704/1f2696d687745c920ab8e7b00d84d5d4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/61da1d32c/92515704/61da1d32cbddcd5bbfff05d3b343b446.jpeg",
+  "https://media.rightmove.co.uk/property-photo/21c904097/92515704/21c90409768d42815b58836c05b871fb.jpeg"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Manchester Piccadilly Station",
+   "miles": 0.32125911242580724,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Manchester Oxford Road Station",
+   "miles": 0.44704221589036347,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Piccadilly Gardens Tram Stop",
+   "miles": 0.5637546698685009,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Purplebricks, covering Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M1",
+ "scrapedAt": "2026-08-31T16:57:21.744Z"
+}

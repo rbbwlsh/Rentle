@@ -1,0 +1,85 @@
+{
+ "id": "92564526",
+ "mode": "buy",
+ "displayAddress": "Heol Glan Rheidol, Cardiff",
+ "outcode": "CF10",
+ "incode": "5NX",
+ "latitude": 51.46755,
+ "longitude": -3.17396,
+ "priceAmount": 135000,
+ "priceLabel": "£135,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92564526",
+ "area": "Heol Glan Rheidol, Cardiff",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 974,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "D",
+  "priceQualifier": null,
+  "listingUpdate": "Added today"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "SUMMARY\nStylish one-bedroom ground floor apartment in the heart of Cardiff Bay, offering modern living with exclusive on-site leisure facilities including a swimming pool, gym, sauna and Jacuzzi. Perfect for first-time buyers, investors, or those seeking a vibrant waterside lifestyle.\n\nDESCRIPTION\nSituated in the heart of the ever-popular Cardiff Bay, this beautifully presented one-bedroom ground floor apartment offers modern waterfront living with excellent amenities and convenient access to local attractions, restaurants, and transport links.\n\nThe accommodation briefly comprises an entrance hallway, a spacious open-plan living and dining area, a fitted kitchen, a generous double bedroom, and a contemporary bathroom. \nBenefiting from a ground floor position, the property provides easy access and would make an ideal first-time purchase, investment opportunity, or city pad.\n\nResidents can enjoy exclusive access to excellent on-site leisure facilities, including a swimming pool, gym, sauna, and Jacuzzi, adding to the lifestyle appeal of this sought-after development.\n\nCardiff Bay offers a vibrant mix of waterside cafés, bars, shops, and recreational facilities, all within easy reach, while Cardiff City Centre is just a short distance away.\n\nLease details are currently being compiled.  For further information please contact the branch.  Please note additional fees could be incurred for items such as leasehold packs.\n\n1. MONEY LAUNDERING REGULATIONS: Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale.\r\n2. General: While we endeavour to make our sales particulars fair, accurate and reliable, they are only a general guide to the property and, accordingly, if there is any point which is of particular importance to you, please contact the office and we will be pleased to check the position for you, especially if you are contemplating travelling some distance to view the property.\r\n3. The measurements indicated are supplied for guidance only and as such must be considered incorrect.\r\n4. Services: Please note we have not tested the services or any of the equipment or appliances in this property, accordingly we strongly advise prospective buyers to commission their own survey or service reports before finalising their offer to purchase.\r\n5. THESE PARTICULARS ARE ISSUED IN GOOD FAITH BUT DO NOT CONSTITUTE REPRESENTATIONS OF FACT OR FORM PART OF ANY OFFER OR CONTRACT. THE MATTERS REFERRED TO IN THESE PARTICULARS SHOULD BE INDEPENDENTLY VERIFIED BY PROSPECTIVE BUYERS OR TENANTS. NEITHER PETER ALAN NOR ANY OF ITS EMPLOYEES OR AGENTS HAS ANY AUTHORITY TO MAKE OR GIVE ANY REPRESENTATION OR WARRANTY WHATEVER IN RELATION TO THIS PROPERTY.",
+ "keyFeatures": [
+  "Ground Floor Apartment",
+  "One Bedroom ",
+  "Move In Ready",
+  "Great First Time Buy",
+  "EPC - TBC"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/422e53701/92564526/422e537010ce975be96dbefc09e9b800.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8af3289a4/92564526/8af3289a4c34b5ad7a57788bda8b322c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/62c3505b1/92564526/62c3505b1dd28cd43b23dbcd64e9e004.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fdcc9b666/92564526/fdcc9b6660d14028f9f3f9201aab2005.jpeg",
+  "https://media.rightmove.co.uk/property-photo/24ce3ec5d/92564526/24ce3ec5d8deaf29980d9ba6ffb03b7e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dd21d3f09/92564526/dd21d3f093859b6258398242253389ca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee3edf2a4/92564526/ee3edf2a4bd4cc671ad1458da32ea921.jpeg",
+  "https://media.rightmove.co.uk/property-photo/95f185c74/92564526/95f185c7464234bac2b68c0a6f324711.jpeg",
+  "https://media.rightmove.co.uk/property-photo/88d2baa31/92564526/88d2baa31707060297f516222f2f321e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e7e5161f6/92564526/e7e5161f616ce4cc123491f72db4631f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1cdf6c7f2/92564526/1cdf6c7f2967191cd939cb108e89c12e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9893b0bea/92564526/9893b0bea7f9fae9a4e751059c608d68.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a0fb0f75e/92564526/a0fb0f75ec5680500ec95bc8d007a332.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cc08fd88d/92564526/cc08fd88d1f2dc4f212242ebd35ea74b.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Cardiff Bay Station",
+   "miles": 0.325539457440803,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cardiff Central Station",
+   "miles": 0.5721314207309667,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Grangetown Station",
+   "miles": 0.6836922328968729,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Peter Alan, Canton",
+ "city": "Cardiff",
+ "sourceOutcode": "CF10",
+ "scrapedAt": "2026-08-31T15:02:51.717Z"
+}

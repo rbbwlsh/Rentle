@@ -1,0 +1,85 @@
+{
+ "id": "91297779",
+ "mode": "buy",
+ "displayAddress": "Southampton Street, Reading, Berkshire, RG1",
+ "outcode": "RG1",
+ "incode": "2RB",
+ "latitude": 51.447032,
+ "longitude": -0.966745,
+ "priceAmount": 300000,
+ "priceLabel": "£300,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91297779",
+ "area": "Reading, Berkshire",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "C",
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Reduced on 27/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Offered to the market with no onward chain is this three bedroom family home. Situated within a short walk of the Oracle shopping centre, mainline railway station and the Kennet and River Thames, this house is ideal for first time buyers and investment buyers alike.\n\n\rThe property offers light and spacious accommodation comprising: entrance hallway living room, dining room, kitchen and a family bathroom  whilst upstairs there are three double bedrooms. \n\nExternally, there is a good-sized garden whilst to the front there is on-street permit parking. Viewing is recommended. \n\nCouncil Tax Band C (Reading Borough Council)",
+ "keyFeatures": [
+  "Three Bedrooms",
+  "No Onward Chain",
+  "Town Centre Location",
+  "Enclosed Rear Garden",
+  "On-Street Permit Parking",
+  "Two Reception Rooms"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f881c0eec/91297779/f881c0eec00f42e4cf17af18613eb35c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/56db35ce3/91297779/56db35ce3fd837a818f620c9be3b1546.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ef4c97508/91297779/ef4c9750884cf7e57ee823c2960542fe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5808bf8c6/91297779/5808bf8c6a877803f294431a33e3ef9e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/778188c44/91297779/778188c4471fe6b1774ed39a60374629.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cf4ab88e9/91297779/cf4ab88e916abb552c2f5ce532c650f0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3b345e1ab/91297779/3b345e1ab51e8481a78a9ec4a0bcede8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8655c85ba/91297779/8655c85bac9b02fdd940b739cc1bba59.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8068cf020/91297779/8068cf02099e8015b0c02d057119128e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9dec78452/91297779/9dec784527d11cd5da60b485a1a8ce93.jpeg",
+  "https://media.rightmove.co.uk/property-photo/609b10dd4/91297779/609b10dd479d04dfba961cb6148edd6e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/18eaa0427/91297779/18eaa042748a9a6a8b538624bc2dff50.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f4bc816eb/91297779/f4bc816eb95f168a76b9ae399f7e2912.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Reading Station",
+   "miles": 0.857176601376071,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Reading West Station",
+   "miles": 1.1714276459047173,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Reading Green Park Station",
+   "miles": 2.024514842685852,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Parkers, Reading",
+ "city": "Reading",
+ "sourceOutcode": "RG1",
+ "scrapedAt": "2026-08-31T16:54:46.615Z"
+}

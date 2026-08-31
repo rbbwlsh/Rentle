@@ -1,0 +1,81 @@
+{
+ "id": "88176102",
+ "mode": "buy",
+ "displayAddress": "Dean Park Road, Bournemouth, BH1",
+ "outcode": "BH1",
+ "incode": "1HY",
+ "latitude": 50.724699,
+ "longitude": -1.872175,
+ "priceAmount": 70000,
+ "priceLabel": "£70,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/88176102",
+ "area": "Bournemouth",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 258,
+  "sizeSqM": 24,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 27/08/2026"
+ },
+ "sizeSqFt": 258,
+ "sizeSqM": 24,
+ "description": "**NO FORWARD CHAIN**LEASE - 108 YEARS REMAINING**\nLocated in the sought after area of Dean Park, BH1 conveniently positioned within easy reach of Bournemouth Town Centre, Train/Bus Station & Charminster High Street providing an array of shops, bars and restaurants.\nThis first floor studio flat does REQUIRES MODERNISATION. Situated on the first floor the property consists of OPEN PLAN BEDROOM, LOUNGE, KITCHEN with separate family bathroom suite.\nOutside provides an ALLOCATED OFF ROAD PARKING SPACE set with well maintained communal grounds.\n\nLeasehold - 108 Years Remaining\nService Charge - £1900 Per Year\nGround Rent - TBC\n\nEPC Rating: D",
+ "keyFeatures": [
+  "No Forward Chain",
+  "Requires Some Modernisation",
+  "First Floor Studio Apartment",
+  "Family Bathroom Suite",
+  "Open Plan Bedroom, Lounge &amp; Kitchen",
+  "Allocated Off Road Parking Space",
+  "Lease - 108 Years Remaining",
+  "Ideally Located To Town Centre, Train/Bus Station &amp; Amenities",
+  "Easy Reach To Charminster High Street, University &amp; Award Winning Beaches",
+  "Service Charge - &amp; Ground Rent - TBC"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/487419f3b/88176102/487419f3bc07df77601c0c76fa5cb16b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/220624653/88176102/2206246531ff931b3b0dd8dd8bf029db.jpeg",
+  "https://media.rightmove.co.uk/property-photo/70eebc34d/88176102/70eebc34d6f0637a033483a84787e2c0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/88e2ec7fe/88176102/88e2ec7feec2893c6a79c2dc5bc72fcb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e67353f23/88176102/e67353f23e3c0f9ea1553f7649419d82.jpeg"
+ ],
+ "imageCount": 5,
+ "nearestStations": [
+  {
+   "name": "Bournemouth Station",
+   "miles": 0.4218637989139262,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Branksome Station",
+   "miles": 2.0693194868856195,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Pokesdown Station",
+   "miles": 2.1052097149679403,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "MK Estates, Bournemouth",
+ "city": "Bournemouth",
+ "sourceOutcode": "BH1",
+ "scrapedAt": "2026-08-31T14:57:11.167Z"
+}

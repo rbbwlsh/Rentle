@@ -1,0 +1,73 @@
+{
+ "id": "92294037",
+ "mode": "buy",
+ "displayAddress": "Marquis Street, Leicester",
+ "outcode": "LE1",
+ "incode": "6RS",
+ "latitude": 52.629944,
+ "longitude": -1.132076,
+ "priceAmount": 90000,
+ "priceLabel": "£90,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92294037",
+ "area": "Leicester",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Added on 22/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Fantastic Investment Opportunity – Stylish One-Bedroom Loft-Style Apartment with Panoramic City Views\n\nA fantastic opportunity to purchase this beautifully presented one-bedroom loft-style apartment, ideally situated in the heart of Leicester city centre. Offering panoramic views across the city skyline, this contemporary apartment combines modern living with a superb central location, making it an ideal investment purchase or city home.\n\nThe apartment features a bright and spacious open-plan living and dining area with large windows that maximise natural light while showcasing the impressive city views. The modern fitted kitchen is thoughtfully designed with ample storage and workspace, creating a practical and stylish living environment.\n\nThe generously proportioned double bedroom provides comfortable accommodation, while the well-appointed bathroom is finished in a contemporary style. The loft-inspired design, with its open feel and character, adds to the apartment's appeal.\n\nLocated in the centre of Leicester, the property is perfectly positioned for easy access to an excellent range of amenities, including Highcross Shopping Centre, an array of restaurants, cafés and bars, and excellent transport connections. Leicester Mainline Railway Station is within walking distance, offering direct services to London and other major cities, making the apartment particularly attractive to commuters and professionals.\n\nThe property is also conveniently located close to Leicester's professional business district, the vibrant Cultural Quarter, Curve Theatre, Phoenix Cinema & Art Centre, and both the University of Leicester and De Montfort University. With everything the city has to offer on the doorstep, this apartment represents an outstanding lifestyle and investment opportunity.\n\nWhether you are a first-time buyer looking for a stylish city-centre home or an investor seeking a property in a consistently popular rental location, this superb apartment is not to be missed.\n\nViewing is highly recommended to fully appreciate the accommodation, location and spectacular city views on offer.",
+ "keyFeatures": [
+  "Ideal Investment",
+  "Ideal for FTB",
+  "Fantastic Location",
+  "City Centre",
+  "Loft Style",
+  "Close to amenities"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/2ad958af9/92294037/2ad958af92182e2b91888741acc30edd.jpeg"
+ ],
+ "imageCount": 1,
+ "nearestStations": [
+  {
+   "name": "Leicester Station",
+   "miles": 0.3639589699475505,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "South Wigston Station",
+   "miles": 3.2954596672969,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Syston Station",
+   "miles": 4.902075018334274,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "haart, Leicester",
+ "city": "Leicester",
+ "sourceOutcode": "LE1",
+ "scrapedAt": "2026-08-31T14:56:14.382Z"
+}

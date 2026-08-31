@@ -1,0 +1,85 @@
+{
+ "id": "89287623",
+ "mode": "buy",
+ "displayAddress": "Ethel Road, Portsmouth, Hampshire, PO1",
+ "outcode": "PO1",
+ "incode": "5JH",
+ "latitude": 50.801555,
+ "longitude": -1.075742,
+ "priceAmount": 245000,
+ "priceLabel": "£245,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89287623",
+ "area": "Portsmouth, Hampshire",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 27/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Located in the heart of vibrant Portsmouth, this charming three-bedroom home offers an ideal blend of comfort, convenience, and practicality. Perfectly positioned close to Fratton Train Station, the property provides excellent transport links for commuters and easy access to the city centre, seafront, and surrounding areas. A wide range of local amenities are just moments away, including shops, cafés, supermarkets, schools, and leisure facilities, making it an excellent choice for families and professionals alike.\n\n\rThe property features spacious and well-proportioned accommodation across two floors, including a welcoming sitting room, separate dining room, fitted kitchen, and family bathroom. Upstairs offers three good-sized bedrooms with plenty of natural light throughout. \n\nExternally, the property benefits from a side entrance and a detached garage, offering secure parking and valuable additional storage space. Situated within a cul-de-sac, this is an excellent opportunity to acquire a well-positioned home in one of Portsmouth’s most convenient and highly desirable residential locations.\n\nADDITIONAL INFORMATION\n\nMaterials used in construction: ASK AGENT \n\nFor further information on broadband and mobile coverage, please refer to the Ofcom Checker online\n\nShould a purchaser(s) have an offer accepted on a property marketed by Charters Estate Agents, they will need to undertake an identification check. This is done to meet our obligation under Anti Money Laundering Regulations (AML) and is a legal requirement. We use a specialist third party service to verify your identity. The cost of these checks is £60 inc. VAT per purchaser, which is paid in advance, when an offer is agreed and prior to a sales memorandum being issued. This charge is non-refundable under any circumstances.\n\nPortsmouth is a vibrant coastal city on England’s south coast, renowned for its rich maritime heritage, excellent waterfront attractions, and strong transport connections. The city offers a diverse range of shopping, dining, and leisure facilities, including the popular Gunwharf Quays outlet centre, historic dockyard, and picturesque seafront.\n\nThe property is conveniently situated within easy reach of local amenities, well-regarded schools, and a variety of recreational facilities. Portsmouth benefits from excellent road and rail links, with direct train services to London Waterloo and easy access to the A3(M) and M27 motorway networks, connecting to Southampton, Chichester, and beyond.\n\nThe city’s waterfront setting provides an attractive lifestyle, with miles of coastal walks, sailing opportunities, and open green spaces. Combining urban convenience with seaside living, Portsmouth continues to be a highly desirable location for both families and professionals alike.",
+ "keyFeatures": [
+  "Central Portsmouth location",
+  "Three well-sized bedrooms",
+  "Close to Fratton Station",
+  "Separate lounge and dining room",
+  "Detached garage and storage",
+  "Near shops, schools, and amenities"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/522d97c2e/89287623/522d97c2e617e3ab24c0a9572636caf6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5c5dc3f55/89287623/5c5dc3f557f346a7270ece2150b446a4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8cdb271b2/89287623/8cdb271b2e7d42280865f8900fe00f48.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a35b5eca4/89287623/a35b5eca45248e8a99a6488dcee34d40.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1910cef7f/89287623/1910cef7fb6b14397a3324c4a1c73e5c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ef388e5ae/89287623/ef388e5aeb2a51f6e91df2a7fe7e2496.jpeg",
+  "https://media.rightmove.co.uk/property-photo/65a95ef50/89287623/65a95ef50d2d7db0fd3b97604e79aca0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/836ef5736/89287623/836ef57367be70687b460ef44db1696a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/119197467/89287623/1191974676f7722079c83316eca7757f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7594ec74d/89287623/7594ec74dc52f12f607091233cb56b34.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a8c00a2b2/89287623/a8c00a2b2c9a13b8b187d21e33d55297.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fcd203191/89287623/fcd203191ca7865919eb01e8afda11e2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b7f6e51e2/89287623/b7f6e51e2818c1dc63db765c8dd54c31.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Fratton Station",
+   "miles": 0.3748190574545012,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Portsmouth & Southsea Station",
+   "miles": 0.677394999569439,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Portsmouth Harbour Station",
+   "miles": 1.4104768212398628,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Charters, Portsmouth",
+ "city": "Portsmouth",
+ "sourceOutcode": "PO1",
+ "scrapedAt": "2026-08-31T16:54:39.196Z"
+}

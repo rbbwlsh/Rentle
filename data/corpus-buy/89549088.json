@@ -1,0 +1,84 @@
+{
+ "id": "89549088",
+ "mode": "buy",
+ "displayAddress": "Llansannor Drive, Cardiff Bay, Cardiff",
+ "outcode": "CF10",
+ "incode": "4BW",
+ "latitude": 51.474668,
+ "longitude": -3.16746,
+ "priceAmount": 325000,
+ "priceLabel": "£325,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89549088",
+ "area": "Cardiff Bay, Cardiff",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "End of Terrace",
+ "details": {
+  "propertyType": "End of Terrace",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": 1058,
+  "sizeSqM": 98,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 976,
+  "annualGroundRent": null,
+  "annualServiceCharge": 876.52,
+  "councilTaxBand": "E",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 29/08/2026"
+ },
+ "sizeSqFt": 1058,
+ "sizeSqM": 98,
+ "description": "This three-bedroom end of terrace house is for sale in the popular Atlantic Wharf area of Cardiff, offering good condition accommodation with one reception room, one kitchen, two bathrooms, parking and a garden.\n\nThe ground floor provides a practical layout with a reception room suitable for both living and dining purposes, alongside a kitchen that serves as the main cooking and preparation area. The property includes two double bedrooms and large double bedroom, making it suitable for families or first-time buyers seeking flexible sleeping and working space. Two bathrooms add day-to-day convenience.\n\nOutside, the property benefits from a garden, providing private outdoor space, and parking, which is a valuable feature in this central location.\n\nAtlantic Wharf is well placed for access to Cardiff city centre, with its wide range of shopping, dining and cultural facilities, including St David’s shopping centre and the Principality Stadium. Cardiff Bay is also within easy reach, offering waterfront restaurants, cafés and the Wales Millennium Centre.\n\nPublic transport links are strong, with Cardiff Bay and Cardiff Central stations accessible for services to destinations such as Newport, Bristol and London. Typical journey times to London Paddington from Cardiff Central are from around two hours by train. Local bus routes further enhance connectivity across the city.\n\nNearby green spaces and local amenities support everyday family living, while the wider Cardiff area provides a choice of schools and recreational facilities. This property presents a well-located option in a sought after part of the city.",
+ "keyFeatures": [
+  "Sought-after Atlantic Wharf location",
+  "Walking distance to Cardiff centre",
+  "Close to Cardiff Bay waterfront",
+  "Three bedrooms, two bathrooms",
+  "Private garden for outdoor space",
+  "Allocated parking",
+  "Ideal for families or first-time buyers",
+  "Good condition, ready to move in",
+  "Excellent rail and bus connections"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/61ffdbafb/89549088/61ffdbafb89e345639b9be8b903d39d7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/73b2ccea5/89549088/73b2ccea534b3b9544a3617c64ce96dc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/666165dbd/89549088/666165dbd4c31b2af3fb953596c3545a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/205d34237/89549088/205d34237cc3195856fce0547df642f3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/87fba0683/89549088/87fba0683e1dc7195d7fe1acf89d2857.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a19f1a819/89549088/a19f1a819e5b811879a686d72b134486.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2e2a624df/89549088/2e2a624dfefcc1d35f22f3913e13ee23.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2ac72c597/89549088/2ac72c59751177ec2a6e2f8bed03afb0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b076b9255/89549088/b076b9255593d3d690acbd35a2549565.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Cardiff Central Station",
+   "miles": 0.4602350370253618,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cardiff Queen Street Station",
+   "miles": 0.5150199634238357,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cardiff Bay Station",
+   "miles": 0.5264604852687415,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Moginie James, Pontcanna",
+ "city": "Cardiff",
+ "sourceOutcode": "CF10",
+ "scrapedAt": "2026-08-31T16:57:47.968Z"
+}

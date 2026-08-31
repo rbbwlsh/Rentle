@@ -1,0 +1,86 @@
+{
+ "id": "91611063",
+ "mode": "buy",
+ "displayAddress": "Madoc Road, Cardiff",
+ "outcode": "CF24",
+ "incode": "2SY",
+ "latitude": 51.484715,
+ "longitude": -3.140785,
+ "priceAmount": 220000,
+ "priceLabel": "£220,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91611063",
+ "area": "Cardiff",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "C",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 04/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Welcome to 31 Madoc Road, Tremorfa, a lovely home that has been thoughtfully cared for and provides comfortable accommodation for families, couples, or those looking for extra space.\n\nThe property features two spacious double bedrooms and a further single bedroom, making it versatile for family living, guests, or a home office. The ground floor offers a welcoming layout with a convenient downstairs WC and a bright, practical kitchen extension providing additional space for everyday living and entertaining.\n\nOutside, the property benefits from an ample garden, perfect for relaxing, enjoying outdoor dining, or providing a safe space for children and pets. The private driveway provides off road parking for two vehicles, adding valuable convenience.\n\nSituated on a peaceful residential street, this well presented home combines comfort, practicality, and outdoor space. With its extended kitchen, generous garden, and excellent parking provision, 31 Madoc Road is ready to welcome its next owners and offers the ideal setting for modern family life.\n\nDon’t miss the opportunity to view this wonderful three bedroom home. Contact us today to arrange your viewing of 31 Madoc Road, Tremorfa.",
+ "keyFeatures": [
+  "2 car drive",
+  "Well maintained property",
+  "3 bedrooms",
+  "Large rear garden",
+  "Kitchen extension",
+  "Residential road"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1707322c1/91611063/1707322c19889a8fe528aca21cd0ba3e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1312bc3ef/91611063/1312bc3ef0835d4cb3054f2141720611.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a602f3b80/91611063/a602f3b803758ad328a9e6a7b650b300.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f1884b7fd/91611063/f1884b7fd3ad0139a24bb96159b642cd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ada4a41d4/91611063/ada4a41d40eff15e3d2fc974988bc130.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bc333e6ad/91611063/bc333e6ad51777f11e15051c56e148e9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d0c856339/91611063/d0c856339a75bf6739d5f2297629b59a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8087c9824/91611063/8087c982485508e682063039d0a28606.jpeg",
+  "https://media.rightmove.co.uk/property-photo/81be3be6d/91611063/81be3be6d30ca4f990025f52813bf0f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0cdf9ec4d/91611063/0cdf9ec4d80b678b66abaabf01a65508.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e4db2780a/91611063/e4db2780a7bbf531097b59721833103e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7d5e1f7c3/91611063/7d5e1f7c3bee1f6d0c405608b3fbed29.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0f3b80b57/91611063/0f3b80b574e86e70376a259287076324.jpeg",
+  "https://media.rightmove.co.uk/property-photo/09cfd88b6/91611063/09cfd88b6ac33d48e8896bfa5cedf6be.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Cardiff Queen Street Station",
+   "miles": 1.2952258305608766,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cardiff Bay Station",
+   "miles": 1.6480490359955084,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cardiff Central Station",
+   "miles": 1.732590005779208,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Darlows, Albany Road",
+ "city": "Cardiff",
+ "sourceOutcode": "CF24",
+ "scrapedAt": "2026-08-31T16:58:40.172Z"
+}

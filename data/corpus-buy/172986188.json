@@ -1,0 +1,84 @@
+{
+ "id": "172986188",
+ "mode": "buy",
+ "displayAddress": "Norwich, NR1",
+ "outcode": "NR1",
+ "incode": "2JF",
+ "latitude": 52.612728,
+ "longitude": 1.303092,
+ "priceAmount": 150000,
+ "priceLabel": "£150,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/172986188",
+ "area": "Norwich",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 713,
+  "sizeSqM": 66,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 100,
+  "annualGroundRent": 10,
+  "annualServiceCharge": 400,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": 713,
+ "sizeSqM": 66,
+ "description": "abbotFox presents this spacious two bedroom apartment, which offers light filled accommodation ideal for first time buyers, professionals, or investors alike.\n\nThe property comprises an entrance hall which leads through to the principal living accommodation. The sitting room provides a bright and comfortable space for both relaxing and entertaining, with ample room for a dining area. The adjoining kitchen has been thoughtfully arranged with a range of fitted units, providing practical storage and workspace for modern living.\n\nBoth bedrooms are well proportioned, offering flexible accommodation whether utilised as comfortable sleeping quarters, guest space, or a home office. The apartment is completed by a well-appointed bathroom. Externally, residents benefit from communal ground, enhancing the convenience. Offered to the market with no onward chain, an internal viewing comes highly recommended",
+ "keyFeatures": [
+  "Two bedroom apartment",
+  "Spacious lounge diner",
+  "Convenient location",
+  "Ideal first time buy",
+  "No onward chain",
+  "Viewing advised"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/e936888bb/172986188/e936888bb5d9e8b20acfc1c613328ab6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/85da76ae9/172986188/85da76ae97a2190f97f3e001ca64146d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/24229c159/172986188/24229c1591471db3e093169f8ff7e1c7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8eccd8b6d/172986188/8eccd8b6d1af00eb24f432980e99f0cf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/570680b4f/172986188/570680b4f10e1188e39539f92341c0c9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1d4ecd582/172986188/1d4ecd5824a278707e0bcb0590d7ab7b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c5291e884/172986188/c5291e8842c7dac0a6a69eaf295ef1cb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2ee9401e8/172986188/2ee9401e88b4731847cacc9547886409.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b31565f5f/172986188/b31565f5ffbcc43ea9c3161f63f2e83b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b9d70c5c9/172986188/b9d70c5c9e032425addf0400dcc5dfb3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e33082f60/172986188/e33082f603e61765558d77c23da7617f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e334a1b7c/172986188/e334a1b7ca79407dd2c5f875a4d772cc.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Norwich Station",
+   "miles": 0.9982790040854856,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Brundall Gardens Station",
+   "miles": 4.910741740844432,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Salhouse Station",
+   "miles": 5.661790700586058,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "abbotFox, Norwich",
+ "city": "Norwich",
+ "sourceOutcode": "NR1",
+ "scrapedAt": "2026-08-31T15:00:57.971Z"
+}

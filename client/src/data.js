@@ -1,7 +1,11 @@
 // Loads the static corpus the build baked into /data/. This replaces the old
 // api.js — the "backend" is now JSON files on the CDN.
 
-let indexPromise = null;
+import { modeOf } from './engine/modes.js';
+
+// One cache per mode: the rent and buy corpora are separate data sets that
+// happen to share a loader.
+const indexPromises = new Map();
 const listingCache = new Map();
 
 async function fetchJson(path) {
@@ -21,23 +25,30 @@ async function fetchJson(path) {
   return res.json();
 }
 
-// { builtAt, order: [ids], listings: [{id, city, area, ...}] } — price-free.
-export function loadIndex() {
-  if (!indexPromise) {
-    indexPromise = fetchJson('/data/index.json').catch((err) => {
-      indexPromise = null; // allow a retry after a transient failure
-      throw err;
-    });
+// { mode, builtAt, order: [ids], listings: [{id, city, area, ...}] } — price-free.
+export function loadIndex(modeKey) {
+  const mode = modeOf(modeKey);
+  if (!indexPromises.has(mode.key)) {
+    indexPromises.set(
+      mode.key,
+      fetchJson(`${mode.dataDir}/index.json`).catch((err) => {
+        indexPromises.delete(mode.key); // allow a retry after a transient failure
+        throw err;
+      })
+    );
   }
-  return indexPromise;
+  return indexPromises.get(mode.key);
 }
 
 // The full listing chunk with the base64 `secret` (price, address, Rightmove
 // URL) decoded into an `answer` object, kept separate from the public fields.
-export async function loadListing(id) {
-  const key = String(id);
+export async function loadListing(modeKey, id) {
+  const mode = modeOf(modeKey);
+  const key = `${mode.key}:${id}`;
   if (listingCache.has(key)) return listingCache.get(key);
-  const chunk = await fetchJson(`/data/listings/${encodeURIComponent(key)}.json`);
+  const chunk = await fetchJson(
+    `${mode.dataDir}/listings/${encodeURIComponent(String(id))}.json`
+  );
   const { secret, ...listing } = chunk;
   const answer = decodeSecret(secret);
   const loaded = { listing, answer };

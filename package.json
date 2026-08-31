@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "seed": "node tools/seed.js",
+    "seed:buy": "node tools/seed.js --mode buy",
     "images": "node tools/images.js",
     "corpus": "node tools/build-corpus.js",
     "dev": "npm run corpus && npm --prefix client run dev",

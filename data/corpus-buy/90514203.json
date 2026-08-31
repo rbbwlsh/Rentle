@@ -1,0 +1,101 @@
+{
+ "id": "90514203",
+ "mode": "buy",
+ "displayAddress": "Lockyer Street, Plymouth, PL1",
+ "outcode": "PL1",
+ "incode": "2QD",
+ "latitude": 50.367625,
+ "longitude": -4.143395,
+ "priceAmount": 350000,
+ "priceLabel": "£350,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90514203",
+ "area": "Plymouth",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": 1787,
+  "sizeSqM": 166,
+  "tenureType": "SHARE_OF_FREEHOLD",
+  "yearsRemainingOnLease": 153,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 3000,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 27/08/2026"
+ },
+ "sizeSqFt": 1787,
+ "sizeSqM": 166,
+ "description": "Occupying the lower ground floor of an impressive Grade II Listed period building, this exceptionally spacious three-bedroom apartment effortlessly blends timeless character with stylish contemporary improvements. Boasting generous room proportions, original parquet flooring, an outstanding refitted bathroom and private outside space, this is a truly unique home in one of Plymouth's most sought-after waterfront locations.\n\nThe apartment benefits from two private entrances. Accessed via a secure gated entrance from Windsor Place, a private pathway leads to the main entrance, which opens into the welcoming hallway. Alternatively, a second private entrance leads directly into the rear porch, creating an ideal boot room or practical everyday entrance for coats, shoes and outdoor equipment.\n\nThe rear porch opens into a versatile reception area, offering a practical and flexible space that could be used as a formal dining area, home office or study. This central area showcases beautifully preserved original parquet flooring, which continues seamlessly into the sitting room and all three bedrooms.\n\nThe sitting room offers a warm and inviting living space with high ceilings, original parquet flooring and attractive period detailing, creating a wonderful room for both relaxing and entertaining.\n\nThe kitchen/breakfast room is fitted with an excellent range of solid wood cabinetry complemented by generous work surfaces and ample storage. There is plenty of space for informal dining while a rear-facing window enjoys views towards the sheltered courtyard.\n\nThe apartment offers three genuine double bedrooms, each enjoying generous proportions, high ceilings and beautiful parquet flooring, providing flexible accommodation for families, guests or those working from home.\n\nA real highlight of the home is the stunning family bathroom. Expertly designed, this luxurious space combines modern fittings with the property's historic architecture. A freestanding roll-top bath, contemporary walk-in rainfall shower positioned beneath an impressive vaulted and mosaic-tiled ceiling, WC and wash hand basin create a truly exceptional space that feels more akin to a boutique hotel than a traditional apartment bathroom.\n\nOutside, a private covered courtyard provides a sheltered seating area, perfect for enjoying throughout the seasons. Leading directly from the courtyard is a highly practical utility room, offering space and plumbing for both a washing machine and tumble dryer, together with plentiful storage. The utility room also incorporates a separate WC, making it an extremely useful extension of the living accommodation.\n\nRich in character throughout, the apartment benefits from elegant period features including high ceilings, original parquet flooring, decorative archways and spacious room proportions, all sympathetically complemented by tasteful modern improvements.",
+ "keyFeatures": [
+  "Beautiful Grade II Listed period apartment",
+  "Three double bedrooms",
+  "Exceptional spa-inspired bathroom with vaulted ceiling",
+  "Original parquet flooring throughout much of the property",
+  "Private covered courtyard",
+  "Secure gated rear access"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a5b6bec48/90514203/a5b6bec48e6fbef7baab2bc550bcb5bc.png",
+  "https://media.rightmove.co.uk/property-photo/3db1866bd/90514203/3db1866bd76ea3740725dc8f362426b6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/450fb1c5a/90514203/450fb1c5a6c41f329f86467f853e8f1a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8e3ae0ff6/90514203/8e3ae0ff6b8ab44933e5061e04c70d49.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6c6cd91ae/90514203/6c6cd91aeafe815f4befa615cd2429c6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7f3e1c69d/90514203/7f3e1c69d779cdf9524df30e49117ff8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b4a52fec5/90514203/b4a52fec575ae9c8a01e47c09c9fbf7c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/901e35aaa/90514203/901e35aaa65f76c418c22ada6d50960e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ad4e0299a/90514203/ad4e0299a54888cc6979de5347e177ed.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1d6b9c04a/90514203/1d6b9c04ad7b250692860d555c241495.jpeg",
+  "https://media.rightmove.co.uk/property-photo/adcf1f233/90514203/adcf1f233088ba1a6a70bb76481b95f5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f8cc6692e/90514203/f8cc6692ec9d8f13c04ba0e0215fedac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4cf7cb6c3/90514203/4cf7cb6c32bdbe0ab86783ca7eec17c5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d8fc9d8ea/90514203/d8fc9d8eae2e0352a7e1d7ba32786635.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f4dd76a31/90514203/f4dd76a31bd05ff6c83ce2e45094b747.jpeg",
+  "https://media.rightmove.co.uk/property-photo/96a8b039d/90514203/96a8b039db917f5e75cb366712ebe4c3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/70dd86386/90514203/70dd86386805be0b41e38adb44f8566b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3bf774e12/90514203/3bf774e12af1877c4d7b3d45b2fe774a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f84df9c32/90514203/f84df9c3206fb3037aa68a0b59ca75dd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cee4b893c/90514203/cee4b893ccfa02621e1c1f21b881f686.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3d5d54007/90514203/3d5d54007383a1b0497b00377070bfb0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/890b6a830/90514203/890b6a830b23685f8af8809d3cd60b3d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5ccda02df/90514203/5ccda02df2493c55ce85264ac4d0008f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e427baf23/90514203/e427baf238cff01dc1d3c0de4896cba9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1e6e487c2/90514203/1e6e487c2534342b9559f4f1ca3dc17f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/23a27d577/90514203/23a27d577971dea556e7523fb4b41342.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1f3f5caa6/90514203/1f3f5caa63543ec2baa93a2fcfd7dddf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/946395578/90514203/9463955787eaa0c224ab656d5f702525.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7c9c404fc/90514203/7c9c404fc6e5301a882386bc765b4d15.jpeg"
+ ],
+ "imageCount": 29,
+ "nearestStations": [
+  {
+   "name": "Plymouth Station",
+   "miles": 0.6994642307807676,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Devonport Station",
+   "miles": 1.4005505276340624,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Dockyard Station",
+   "miles": 1.7737048023691036,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Atwell Martin, Plymouth",
+ "city": "Plymouth",
+ "sourceOutcode": "PL1",
+ "scrapedAt": "2026-08-31T16:53:50.663Z"
+}

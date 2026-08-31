@@ -1,0 +1,80 @@
+{
+ "id": "92492073",
+ "mode": "buy",
+ "displayAddress": "Chesterman Street, Reading, Berkshire, RG1",
+ "outcode": "RG1",
+ "incode": "2PR",
+ "latitude": 51.4468,
+ "longitude": -0.9696,
+ "priceAmount": 260000,
+ "priceLabel": "£260,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92492073",
+ "area": "Reading, Berkshire",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "TBC",
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Lansley - This three-bedroom terraced house is offered for sale in Reading and provides well-proportioned accommodation arranged over three floors. The property includes two reception rooms, a fitted kitchen and a bathroom, together with a private garden offering outdoor space for relaxation or entertaining.\n\nLocated close to Reading town centre, the house benefits from convenient access to a wide range of amenities. The Oracle shopping centre, riverside restaurants and cafés along the Kennet are all within easy reach.\n\nPublic transport connections are a strong feature of this location. Reading Station is easily accessible and provides frequent mainline services to London Paddington, typically from around 25 minutes on the fastest services.\n\nSold with no onward chain.",
+ "keyFeatures": [
+  "Three bedrooms",
+  "Two seperate reception rooms",
+  "Kitchen diner",
+  "Excellent location",
+  "No onward chain"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/aaf6822ab/92492073/aaf6822ab72cad322f400f1dfe2ef070.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9ca7a8079/92492073/9ca7a807997fcb941a7e0435bd02b3a7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6bc1fd27b/92492073/6bc1fd27ba76b3ff2e25457a714e3408.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a94d22127/92492073/a94d2212757971b190a6b5abc408d8c2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b271b5116/92492073/b271b511684bd5ebfeeee16b7d13d994.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1e4dd7cc3/92492073/1e4dd7cc3ecb882884bd2f1ccf06c059.jpeg",
+  "https://media.rightmove.co.uk/property-photo/28a5a268e/92492073/28a5a268e4af45346bc65ead72e43f88.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bf4061573/92492073/bf40615736d3e5479f82ca6945a27842.jpeg",
+  "https://media.rightmove.co.uk/property-photo/265b605d6/92492073/265b605d6fa87519927e9303579fba76.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Reading Station",
+   "miles": 0.8472695991602062,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Reading West Station",
+   "miles": 1.0728177610578875,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Reading Green Park Station",
+   "miles": 1.923977194374576,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "AH Lansley Residential, Reading",
+ "city": "Reading",
+ "sourceOutcode": "RG1",
+ "scrapedAt": "2026-08-31T16:54:45.153Z"
+}

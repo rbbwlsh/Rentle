@@ -1,0 +1,82 @@
+{
+ "id": "90893343",
+ "mode": "buy",
+ "displayAddress": "Hunsaker, Alfred Street, Reading",
+ "outcode": "RG1",
+ "incode": "7AU",
+ "latitude": 51.45622,
+ "longitude": -0.97966,
+ "priceAmount": 177000,
+ "priceLabel": "£177,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90893343",
+ "area": "Hunsaker, Reading",
+ "bedrooms": 0,
+ "bathrooms": null,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 0,
+  "bathrooms": null,
+  "sizeSqFt": 559,
+  "sizeSqM": 52,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "C",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 18/08/2026"
+ },
+ "sizeSqFt": 559,
+ "sizeSqM": 52,
+ "description": "Our latest listing is a 1-bedroom flat located in Reading. It is in close proximity to valuable amenities, is able to generate rewarding rental returns and has a tenant currently situated.\n\nFor investors looking to expand their portfolio, this is a fantastic opportunity!\n\nThis well-kept home features 1 bedroom, a three-piece bathroom, and a well-equipped kitchen.\n\nInvestment details\n\nIt currently produces an annual gross income of £16,200 with tenants currently situated. Considering the purchase price and the potential rental income that could be earned in future years, this will make for a worthwhile addition to an investors property portfolio.\n\nFor greater detail on this property's investment potential, please see the Let Property Pack linked below.\n\nIf you are interested, please call us.\n\nTenancy Details\n\nThere are tenants that currently reside in the property and have consistently paid their rent for the duration of their stay. They do not have any intentions to move out so hope to remain in the property.\n\nWe are committed to facilitating a smooth transaction process between buyer and seller. To allow for maximum commitment to the sale from both parties, a Buyers Premium will apply in order to secure a property.",
+ "keyFeatures": [
+  "Buy-to-Let Opportunity",
+  "Tenant Currently Situated",
+  "Likely to attract enquiries from Serious Investors &amp; Developers",
+  "INVESTMENT POTENTIAL DETAILED BELOW (Let Property Pack)"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/886afe5a0/90893343/886afe5a0dc726297961f68007834a69.jpeg",
+  "https://media.rightmove.co.uk/property-photo/753fd4cfa/90893343/753fd4cfac64e6fd14e1c55c7de08647.jpeg",
+  "https://media.rightmove.co.uk/property-photo/19ecc3ab2/90893343/19ecc3ab2a9a24ee82591f6e48555f94.jpeg",
+  "https://media.rightmove.co.uk/property-photo/74f6b3b35/90893343/74f6b3b35534b8426d863627ad3c147b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/380028e9c/90893343/380028e9ca784da34768b1f7677bdce6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/544e921e3/90893343/544e921e3ba0b0c00737f7fe09f67946.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5c0543ce0/90893343/5c0543ce048c349cd85d9eea3397e816.jpeg",
+  "https://media.rightmove.co.uk/property-photo/623e307e7/90893343/623e307e7ec6101f50060e0799711eff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9263174bc/90893343/9263174bc60338a5907daf1ce3ed8f94.jpeg",
+  "https://media.rightmove.co.uk/property-photo/25d6914ca/90893343/25d6914ca673c42bd02caf7436861d97.jpeg",
+  "https://media.rightmove.co.uk/property-photo/85555a621/90893343/85555a621e6b22f55e692ad43f9cf286.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8bdef4907/90893343/8bdef4907c51b5cfa2a5d7a7d585dc6f.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Reading Station",
+   "miles": 0.37088775490280734,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Reading West Station",
+   "miles": 0.4807539483527425,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Reading Green Park Station",
+   "miles": 2.2096211125835614,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Let Property Sales & Management, Glasgow",
+ "city": "Reading",
+ "sourceOutcode": "RG1",
+ "scrapedAt": "2026-08-31T14:53:03.700Z"
+}

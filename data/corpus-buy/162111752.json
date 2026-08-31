@@ -1,0 +1,90 @@
+{
+ "id": "162111752",
+ "mode": "buy",
+ "displayAddress": "Albion Street, Wolverhampton, West Midlands, WV1",
+ "outcode": "WV1",
+ "incode": "3ED",
+ "latitude": 52.58587,
+ "longitude": -2.11833,
+ "priceAmount": 120000,
+ "priceLabel": "£120,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/162111752",
+ "area": "Wolverhampton, West Midlands",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "TBC",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 11/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "*RENTED UNTIL NOV WITH TENANT PAYING £740/MONTH*** \nNestled in the heart of Wolverhampton, this superbly appointed third-floor apartment is part of a striking conversion of a 19th-century flour mill, showcasing the perfect blend of historic charm and modern luxury. This unique residence is located within a Grade II listed building, originally constructed in the 1830s and meticulously transformed by Redrow Homes into a contemporary living space.\n\nUpon entering the apartment, you are greeted by a welcoming entrance hall leading to a spacious open-plan living area. This room seamlessly integrates a dining space and a modern kitchen, which boasts high-quality finishes and fittings. The apartment has retained many original features, including exposed beam ceilings and distinctive mill holdings, adding a touch of character and elegance to the space.\n\nThe accommodation comprises a generous double bedroom with an ensuite bathroom, ensuring comfort and privacy. The thoughtful design and attention to detail throughout the apartment make it an inviting and sophisticated home.\n\nExternally, residents benefit from a secure gated entrance, an allocated parking space, and access to communal grounds. Additionally, there is a personal lock-up storage cage in the basement, providing ample storage solutions. \n\nThe location of this apartment is ideal for those who prioritize commuting convenience. It is within walking distance of Wolverhampton Train Station and tram services, offering easy access to Birmingham City Centre. The property is also a short drive from major motorway links, including the M6, M54, and M5, making it a dream for commuters.\n\nThis unique and luxurious apartment offers a rare opportunity to live in a beautifully converted historic building, perfectly positioned for city living and commuting. To experience this exceptional property firsthand, arrange a viewing today and secure your place in this distinctive and desirable residence.",
+ "keyFeatures": [
+  "Luxurious third-floor apartment in a converted 19th-century flour mill",
+  "Located in a Grade II listed building with historic charm",
+  "Spacious open-plan living, dining, and kitchen area with high-quality finishes",
+  "Retains original features, including exposed beam ceilings and mill holdings",
+  "Double bedroom with ensuite bathroom",
+  "Secure gated entrance with allocated parking space",
+  "Personal lock-up storage cage in the basement",
+  "Excellent proximity to Wolverhampton Train Station, tram services, and major motorways"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/df57874b2/162111752/df57874b2ee1313335938e46e75de4d6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/accefae19/162111752/accefae191818105a9aab8cf9ce1c8a1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1070c3f64/162111752/1070c3f64a028295e569436d1ddeca7b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/216c13f01/162111752/216c13f019e013a7210b965dc7607e86.jpeg",
+  "https://media.rightmove.co.uk/property-photo/418d8a2a7/162111752/418d8a2a7dc3272aa8d2bd11d8243825.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4a12a996f/162111752/4a12a996f2fbf9e4a436ce705c5d3c71.jpeg",
+  "https://media.rightmove.co.uk/property-photo/03bab6f3d/162111752/03bab6f3d849f0b6628f379af6d35543.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ba54d0bcf/162111752/ba54d0bcfac007129a9f6c6b194451f3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dcbe47a53/162111752/dcbe47a53fde4805812383376ce4181e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7afb59aee/162111752/7afb59aeeee6be93970b1204f14c35dc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bf0d16387/162111752/bf0d163875f3ca4cc777fd5b66e35ca0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb55ed096/162111752/bb55ed096b11ae925c2aa7eccffa8d65.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6b0d146f6/162111752/6b0d146f60b1cfa47226acdca2464154.jpeg",
+  "https://media.rightmove.co.uk/property-photo/51dea9631/162111752/51dea963167b2367376955257b1b7b59.jpeg",
+  "https://media.rightmove.co.uk/property-photo/da3ad3d98/162111752/da3ad3d987143c93ecf5924a11b7dbcc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c7d85da32/162111752/c7d85da32ebe56826b9af7d6dea297b2.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Wolverhampton Station",
+   "miles": 0.13400470822207636,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Wolverhampton St George's Tram Stop",
+   "miles": 0.28356185767193715,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "The Royal Tram Stop",
+   "miles": 0.31224463244226053,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Dixons, Wolverhampton",
+ "city": "Wolverhampton",
+ "sourceOutcode": "WV1",
+ "scrapedAt": "2026-08-31T14:56:05.358Z"
+}

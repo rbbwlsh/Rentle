@@ -1,0 +1,88 @@
+{
+ "id": "89907744",
+ "mode": "buy",
+ "displayAddress": "North Ninth Street, Central Milton Keynes, Milton Keynes, Buckinghamshire, MK9",
+ "outcode": "MK9",
+ "incode": "3AW",
+ "latitude": 52.044165,
+ "longitude": -0.759048,
+ "priceAmount": 140000,
+ "priceLabel": "£140,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89907744",
+ "area": "Milton Keynes, Buckinghamshire",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 89,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 1781,
+  "councilTaxBand": "A",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 24/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Aztec Sales & Lettings are delighted to offer this two bedroom apartment for sale in Central Milton Keynes.\n\nNeutrally decorated throughout with magnolia / green painted walls, and laminate flooring.\n\nBriefly comprising of entrance hall, two bedrooms, bathroom, open plan lounge / diner, and kitchen. Also benefiting from gas central heating which is included in the service charge same as the hot water, and uPVC double glazed windows.\n\nMilton Keynes has become one of the sought-after areas to live in the UK, with many job opportunities and great schooling. It is characterised by plenty of green space for all to enjoy. Milton Keynes has everything you need from a large shopping centre, cinemas, football stadium, leisure facilities, bars, restaurants, the famous historic Bletchley Park and much more.\n\nContact Aztec today to arrange a viewing to not miss out on this opportunity!",
+ "keyFeatures": [
+  "uPVC double glazed windows",
+  "Heating and hot water included in the service charge",
+  "Central location",
+  "One parking space available for £25 per year.",
+  "Great investment opportunity",
+  "No ground rent",
+  "Walking distance to the shopping centre",
+  "Communal garden",
+  "Available for quick sale with no chain",
+  "Amazing gross rental yield"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/674ecdf9b/89907744/674ecdf9b1a2340b8a62892aaf1d9e53.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ebc574079/89907744/ebc57407914b5dc11717dc393b754520.jpeg",
+  "https://media.rightmove.co.uk/property-photo/48627a8b0/89907744/48627a8b09b3b1275d4797aff0cfe9ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eb3976a60/89907744/eb3976a60f40acf1c3c7f2b40f977916.jpeg",
+  "https://media.rightmove.co.uk/property-photo/caf5f9002/89907744/caf5f9002bbd8e3aa3ad89f95419cbbe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/894997b3c/89907744/894997b3c840e2b287ad32217f081165.jpeg",
+  "https://media.rightmove.co.uk/property-photo/398eb8345/89907744/398eb8345f076a4172efd179d1c15eb6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/054e7d75f/89907744/054e7d75fc01d056519223a5b4755b0d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/28612e4ea/89907744/28612e4ead49ac07cd48d8266d9e9a14.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a1c74ec86/89907744/a1c74ec861dcbfc541f977eb21b74b3c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/73ce9c440/89907744/73ce9c440c958ac487961e894554a564.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a7917a1d1/89907744/a7917a1d1651a33b67f5a3d471cf029d.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Milton Keynes Central Station",
+   "miles": 0.890498220751826,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Wolverton Station",
+   "miles": 2.395909423752347,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Fenny Stratford Station",
+   "miles": 3.5194717009426433,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Aztec Sales and Lettings Ltd, Milton Keynes",
+ "city": "Milton Keynes",
+ "sourceOutcode": "MK9",
+ "scrapedAt": "2026-08-31T15:02:42.711Z"
+}

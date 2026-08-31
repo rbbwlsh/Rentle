@@ -1,0 +1,67 @@
+{
+ "id": "92491821",
+ "mode": "buy",
+ "displayAddress": "Hazelwood Road, Northampton, NN1",
+ "outcode": "NN1",
+ "incode": "1LQ",
+ "latitude": 52.236797,
+ "longitude": -0.890883,
+ "priceAmount": 120000,
+ "priceLabel": "£120,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92491821",
+ "area": "Northampton",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 407,
+  "sizeSqM": 38,
+  "tenureType": "SHARE_OF_FREEHOLD",
+  "yearsRemainingOnLease": 988,
+  "annualGroundRent": null,
+  "annualServiceCharge": 1140,
+  "councilTaxBand": "A",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": 407,
+ "sizeSqM": 38,
+ "description": "An immaculately presented first floor apartment conveniently situated in the town centre and cultural quarter of Northampton offering an ideal investment opportunity with an anticipated rental income of £775 pcm, share of the freehold and vacant possession.\n\nLocation - Hazelwood Road is situated in a central Northampton location, within the NN1 postcode district and the Castle ward.  The immediate surroundings include Castilian Street, Castilian Terrace, Derngate, St Giles Street and Spring Gardens, placing Hazelwood Road within a well-established central urban neighbourhood.\n\nA key advantage of the location is its proximity to Northampton town centre, providing convenient access to shops, restaurants, cafés, leisure facilities and employment opportunities. The area also benefits from being close to Northampton General Hospital and the University of Northampton, making it attractive to both professionals and students. Overall, Hazelwood Road can be described as a well-connected town-centre residential location, offering good access to Northampton's central amenities and major local institutions.\n\nAccommodation- First Floor - The Bauhaus was converted from Victorian town house in 2015, comprising of seven apartment in the town centre, a communal hall serves all apartments with an intercom entry system.The apartment has a hall which has a useful store cupboard and modern wood flooring which continue to all rooms apart from the shower room which is tiled.\n\nThe lounge has a sash window to the front aspect and incorporates the kitchen which comes with a range of modern cabinets, timber work tops incorporating a sink unit, hob and oven with extractor hood, further more there is a built in fridge and recently installed freestanding washer/dryer and feature exposed brickwork.\n \nThe bedroom overlooks the rear and has a walk in wardrobe, a stylish shower room is completely tiled and has a shower cubical, wash hand basin and wc.\n\nFurthermore, there is a useful store cupboard on the half landing.\n\nLeasehold Details - Each apartment enjoys a share of the freehold and a lease term of 999 years from 2015  with a monthly service charge of £95.\n\nLocal Authority - West Northamptonshire Council\nAngel Street\nNorthampton\nTel:0300-126700\n\nCouncil Tax Band - A\n\nViewing - Strictly by prior appointment via the selling agents. Contact Tel:01604-823456.\n\nFixtures And Fittings - Only those items in the nature of fixtures and fittings mentioned in these particulars are included in the sale. Other items are specifically excluded. None of the appliances have been tested by the agents and they are not certified or warranted in any way.\n\nServices - None of the services have been tested and purchasers should note that it is their specific responsibility to make their own enquiries of the appropriate authorities as to the location, adequacy and availability of mains water, electricity, gas and drainage services.\n\nAgents Note - Additional information about the property, including details of utility providers, is available upon request. Please contact the agent for further details.\n\nFloorplan - Howkins and Harrison provide these plans for reference only - they are not to scale.\n\nImportant Notice - Every care has been taken with the preparation of these Sales Particulars, but complete accuracy cannot be guaranteed. In all cases, buyers should verify matters for themselves. Where property alterations have been undertaken buyers should check that relevant permissions have been obtained. If there is any point, which is of particular importance let us know and we will verify it for you. These Particulars do not constitute a contract or part of a contract. All measurements are approximate. The Fixtures, Fittings, Services & Appliances have not been tested and therefore no guarantee can be given that they are in working order. Photographs are provided for general information and it cannot be inferred that any item shown is included in the sale. Plans are provided for general guidance and are not to scale.",
+ "keyFeatures": [
+  "Town centre apartment",
+  "Lounge/kitchen",
+  "Bedroom",
+  "Shower room",
+  "Share of the freehold",
+  "Key turn investment or first time buy",
+  "Close to local amenities",
+  "Cultural quarter location",
+  "Energy Rating- D"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/373c34b21/92491821/373c34b21ef21e2f752abbf7ae4d80f0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5069c96ac/92491821/5069c96acd15331ebe39cfa204a6850f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/93eace3e1/92491821/93eace3e15c6bf185ed1981aeac635f2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1195c8089/92491821/1195c80898eebedcda7887a0dcad66f6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f7b606db9/92491821/f7b606db95025efaf584a9c8dea22243.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b760776c4/92491821/b760776c438b74e81b75ac01adbac8c2.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Northampton Station",
+   "miles": 0.7005462183639555,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Howkins & Harrison LLP, Northampton",
+ "city": "Northampton",
+ "sourceOutcode": "NN1",
+ "scrapedAt": "2026-08-31T14:56:26.250Z"
+}

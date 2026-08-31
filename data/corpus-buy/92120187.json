@@ -1,0 +1,77 @@
+{
+ "id": "92120187",
+ "mode": "buy",
+ "displayAddress": "Percy Street, Middlesbrough, TS1",
+ "outcode": "TS1",
+ "incode": "4DD",
+ "latitude": 54.570745,
+ "longitude": -1.240832,
+ "priceAmount": 100000,
+ "priceLabel": "£100,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92120187",
+ "area": "Middlesbrough",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": null,
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 18/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A well-presented and improved 3-bedroom, 1-reception rooms, period terraced house boasting stylish interiors and well-maintained features and attic storage. Conveniently located with easy access to amenities and transport links. Ideal for first-time buyers or investors looking for a characterful property in a sought-after location. The property has been rented out as a four bedroom dwelling and could be again with the necessarry permissions. Viewing highly recommended.\n\n\rIntroducing this charming period terraced house, boasting two bedrooms and two reception rooms. This stylish property has been meticulously maintained, offering a perfect blend of traditional features and modern conveniences. The spacious living room is ideal for relaxing or entertaining guests, while the well-appointed kitchen is a chef's delight with ample storage and worktop space. Upstairs, the two bedrooms provide comfortable accommodation, with the master bedroom benefiting from generous built-in wardrobes. Outside situated in a sought-after location, this property is within easy reach of local amenities, schools, and transport links. Don't miss the opportunity to make this lovely house your new home.\n\n General Information \n\nThe information provided on this website and in our marketing materials is intended for general guidance only. While we strive to ensure the accuracy and reliability of the content, Oakwood North Limited makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the properties listed. \n\n Property Details \nAll property details, including but not limited to dimensions, floor plans, and photographs, are provided by the sellers, landlords, or third-party sources and have not been verified by Oakwood North Limited.\nProspective buyers or tenants should not rely solely on these details and should conduct their own due diligence.\nProperties may be subject to changes or withdrawal without prior notice.\n\n Viewing and Inspections \nViewings and inspections are subject to prior arrangement and availability.\nOakwood North Limited does not accept any responsibility for any errors or omissions or any loss or damage resulting from reliance on the property descriptions. \n\n Legal and Financial Advice \nOakwood North Limited does not offer legal or financial advice. Buyers and tenants are encouraged to seek professional advice before making any decisions related to property transactions.\nInformation regarding the financial performance of investment properties is illustrative and should not be construed as a guarantee of future performance. \n\n Third-Party Links \nThis website may contain links to third-party websites. Oakwood North Limited does not endorse or assume responsibility for the content or practices of any third-party websites. \n\n  Liability \nOakwood North Limited, its employees, and agents shall not be liable for any direct, indirect, or consequential loss or damage arising from the use of this website or reliance on its content. \n\n Amendments \nOakwood North Limited reserves the right to amend this disclaimer at any time without notice. \nBy using this website or engaging in any property transactions through Oakwood North Limited, you acknowledge and agree to this disclaimer. \n\n Contact Us:  For any questions or concerns regarding this disclaimer or our services.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/cf0719917/92120187/cf0719917f73e7e63e8e02d5c559c134.jpeg",
+  "https://media.rightmove.co.uk/property-photo/538478ee2/92120187/538478ee2426552ac153857646adaf13.jpeg",
+  "https://media.rightmove.co.uk/property-photo/484b9099e/92120187/484b9099eb8d5dcb5f0592fe7afe2436.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d0baf0d6e/92120187/d0baf0d6e8a4d8e1993ffbf70ceba958.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4980550fe/92120187/4980550fecf665d0fa69fac4d5b3e160.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d71089171/92120187/d71089171c640af791c0017866d56a48.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ecb366c12/92120187/ecb366c121f8d9218ba45bafbea42b0b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6e98ff672/92120187/6e98ff6727ee3f9033d3b5d894a9ec86.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cae2fa50b/92120187/cae2fa50b097d4f20a0c1118ee294008.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e6215a58f/92120187/e6215a58f9630dea4ea655b6a30eb557.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8d101cfcb/92120187/8d101cfcb252a5f9e0200a3803ae8b0c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f5d50f874/92120187/f5d50f874c47553ccbb516ac8d14dafe.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Middlesbrough Station",
+   "miles": 0.6264825611307323,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Marton Station",
+   "miles": 2.5455915356081213,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Thornaby Station",
+   "miles": 2.5469483689351646,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Oakwood North, Middlesborough",
+ "city": "Middlesbrough",
+ "sourceOutcode": "TS1",
+ "scrapedAt": "2026-08-31T15:03:37.525Z"
+}

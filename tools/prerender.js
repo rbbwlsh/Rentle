@@ -1,8 +1,9 @@
 // Prerender per-listing share pages after `vite build`.
 //
 // A static host can't inject Open Graph tags per request the way the old
-// Express server did, so this writes client/dist/p/<id>/index.html for every
-// playable listing: the built index.html with its <!--META_START/END--> block
+// Express server did, so this writes an index.html for every playable listing
+// in every mode — client/dist/p/<id>/ for the rent game, client/dist/buy/p/<id>/
+// for the buy one: the built index.html with its <!--META_START/END--> block
 // replaced by listing-specific, answer-free tags. Netlify serves these real
 // files ahead of the SPA fallback, so shared links unfurl with the property
 // photo while every other path still hits the app shell.
@@ -14,10 +15,10 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { MODES } from './config/modes.js';
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
 const DIST = path.join(ROOT, 'client', 'dist');
-const DATA = path.join(ROOT, 'client', 'public', 'data');
 
 const siteConfig = JSON.parse(
   fs.readFileSync(path.join(ROOT, 'tools', 'config', 'site.json'), 'utf8')
@@ -32,8 +33,9 @@ const esc = (s) =>
     .replace(/"/g, '&quot;');
 
 function describe(card) {
-  const beds = card.bedrooms != null ? `${card.bedrooms}-bed ` : '';
   const type = (card.propertySubType || 'property').toLowerCase();
+  if (card.bedrooms === 0) return `studio ${type} in ${card.area}`;
+  const beds = card.bedrooms != null ? `${card.bedrooms}-bed ` : '';
   return `${beds}${type} in ${card.area}`;
 }
 
@@ -57,41 +59,79 @@ function metaTags(m) {
 const inject = (template, meta) =>
   template.replace(/<!--META_START-->[\s\S]*?<!--META_END-->/, metaTags(meta));
 
-function main() {
-  const template = fs.readFileSync(path.join(DIST, 'index.html'), 'utf8');
-  const index = JSON.parse(fs.readFileSync(path.join(DATA, 'index.json'), 'utf8'));
+function writePage(relPath, template, meta) {
+  const dir = path.join(DIST, relPath);
+  fs.mkdirSync(dir, { recursive: true });
+  fs.writeFileSync(path.join(dir, 'index.html'), inject(template, meta));
+}
 
-  const defaults = {
+// Per-mode share copy. Neither variant names a price — the card has to be
+// safe to unfurl in a group chat before anyone has guessed.
+const COPY = {
+  rent: {
     title: 'Rentle — Guess the Rent',
     description:
       'The daily guess-the-rent game on real UK listings. Five guesses, real hints — can you read the market?',
-    image: `${SITE_URL}/og.png`,
-    url: `${SITE_URL}/`,
-  };
+    listingTitle: (card) => `Guess the rent — ${card.area}`,
+    listingDescription: (card) => `How much is this ${describe(card)}? Take a guess on Rentle.`,
+  },
+  buy: {
+    title: 'Rentle Buy — Guess the Asking Price',
+    description:
+      'The daily guess-the-asking-price game on real UK homes for sale. Five guesses, real hints — can you read the market?',
+    listingTitle: (card) => `Guess the asking price — ${card.area}`,
+    listingDescription: (card) =>
+      `What's this ${describe(card)} on the market for? Take a guess on Rentle.`,
+  },
+};
 
-  // Root + browse pages get the default card with absolute URLs.
-  fs.writeFileSync(path.join(DIST, 'index.html'), inject(template, defaults));
-  fs.mkdirSync(path.join(DIST, 'browse'), { recursive: true });
-  fs.writeFileSync(
-    path.join(DIST, 'browse', 'index.html'),
-    inject(template, { ...defaults, url: `${SITE_URL}/browse` })
-  );
+function main() {
+  const template = fs.readFileSync(path.join(DIST, 'index.html'), 'utf8');
+  let total = 0;
 
-  for (const card of index.listings) {
-    const meta = {
-      title: `Guess the rent — ${card.area}`,
-      description: `How much is this ${describe(card)}? Take a guess on Rentle.`,
-      image: `${SITE_URL}${card.thumb}`,
-      url: `${SITE_URL}/p/${card.id}`,
+  for (const mode of Object.values(MODES)) {
+    const indexPath = path.join(ROOT, mode.outDir, 'index.json');
+    if (!fs.existsSync(indexPath)) {
+      console.log(`[${mode.key}] no built index — skipping.`);
+      continue;
+    }
+    const index = JSON.parse(fs.readFileSync(indexPath, 'utf8'));
+    const copy = COPY[mode.key];
+
+    const defaults = {
+      title: copy.title,
+      description: copy.description,
+      image: `${SITE_URL}/og.png`,
+      url: `${SITE_URL}${mode.homePath}`,
     };
-    const dir = path.join(DIST, 'p', card.id);
-    fs.mkdirSync(dir, { recursive: true });
-    fs.writeFileSync(path.join(dir, 'index.html'), inject(template, meta));
+
+    // The rent game owns the root document; every other entry point gets its
+    // own real file so its link preview is right.
+    if (mode.homePath === '/') {
+      fs.writeFileSync(path.join(DIST, 'index.html'), inject(template, defaults));
+    } else {
+      writePage(mode.homePath, template, defaults);
+    }
+    writePage(mode.browsePath, template, {
+      ...defaults,
+      url: `${SITE_URL}${mode.browsePath}`,
+    });
+
+    for (const card of index.listings) {
+      writePage(`${mode.routePrefix}/${card.id}`, template, {
+        title: copy.listingTitle(card),
+        description: copy.listingDescription(card),
+        image: `${SITE_URL}${card.thumb}`,
+        url: `${SITE_URL}${mode.routePrefix}/${card.id}`,
+      });
+    }
+    total += index.listings.length;
+    console.log(
+      `[${mode.key}] prerendered ${index.listings.length} share pages under ${mode.routePrefix}/.`
+    );
   }
 
-  console.log(
-    `Prerendered ${index.listings.length} share pages under /p/ (origin ${SITE_URL}).`
-  );
+  console.log(`${total} share pages in total (origin ${SITE_URL}).`);
 }
 
 main();

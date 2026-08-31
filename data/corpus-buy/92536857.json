@@ -1,0 +1,88 @@
+{
+ "id": "92536857",
+ "mode": "buy",
+ "displayAddress": "Manor Road, Bournemouth, BH1 3EJ",
+ "outcode": "BH1",
+ "incode": "3EJ",
+ "latitude": 50.720352,
+ "longitude": -1.855117,
+ "priceAmount": 350000,
+ "priceLabel": "£350,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92536857",
+ "area": "Bournemouth",
+ "bedrooms": 3,
+ "bathrooms": 3,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "sizeSqFt": 1404,
+  "sizeSqM": 130,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 976,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 0,
+  "councilTaxBand": "E",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 29/08/2026"
+ },
+ "sizeSqFt": 1404,
+ "sizeSqM": 130,
+ "description": "Please Quote OR1409 For All Enquiries\n\nDiscover this stunning three-bedroom apartment offering spacious living, modern amenities, and the convenience of off-street parking, ideally located in the heart of Bournemouth.\n\nThis well-presented apartment provides comfortable and adaptable accommodation. The property features a generous reception room, offering a versatile space for relaxation and entertaining. The design seamlessly integrates modern living with practical functionality.\n\nThe apartment boasts three well-proportioned bedrooms, ensuring ample personal space. Complementing these are three thoughtfully designed bathrooms, providing convenience and comfort for residents and guests alike.\n\nFurther enhancing this attractive home is a private enclosed balcony, with stunning views across purbecks. There are further extensive lawns to the rear of the property that is for private residents use. The inclusion of off-street, underground, allocated parking adds significant value and ease for vehicle owners.\n\nSituated in the desirable BH1 3EJ postcode, this apartment benefits from excellent access to Bournemouth's vibrant town centre, its diverse range of shops, restaurants, and entertainment options. The award-winning beaches and beautiful parks are also within easy reach, providing a superb lifestyle opportunity.\n\nCombining the stunning design, practical features, and a prime central location, this apartment is perfect for those seeking a convenient and comfortable urban living experience. We encourage a viewing to fully appreciate all that this excellent property has to offer.",
+ "keyFeatures": [
+  "Direct Sea Views",
+  "8th Floor Property",
+  "24 Hour Porter",
+  "Off Street, Underground Allocated Parking",
+  "Gas, Electric, Water and Sewage Included in Service Charge"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1c3136f0e/92536857/1c3136f0e498e2562626b7210bdcccad.jpeg",
+  "https://media.rightmove.co.uk/property-photo/21eec7d9d/92536857/21eec7d9d1c5a972da8167ba7851e757.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bdb92572e/92536857/bdb92572ecb2b28a34a7f93bbd453fca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/23d74aa62/92536857/23d74aa620a9fe7870e5c8734c4bddd2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ac70f1d47/92536857/ac70f1d477553a38854b9d0a221c8a13.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3ffaf5499/92536857/3ffaf5499460e789a18e5cee2cd75e07.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6c90fcaf0/92536857/6c90fcaf0457df9ba008bc08d230e356.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4c9cb5394/92536857/4c9cb53948cdcace1613a00f57d5500a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5734a6791/92536857/5734a67917307d34ecc7a481f5292f9a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/364ade8f0/92536857/364ade8f00b77ac1c11b3a8d7c7043ee.jpeg",
+  "https://media.rightmove.co.uk/property-photo/55e62539c/92536857/55e62539c9885b0001e342261ceabc3b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/933604b41/92536857/933604b4182157101c2f24179c99d7df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/574de95d5/92536857/574de95d5bfa0787e6016a07f58e095b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c6d4da674/92536857/c6d4da67455c236a48b32b29edacd160.jpeg",
+  "https://media.rightmove.co.uk/property-photo/79d726b94/92536857/79d726b947395172f81e8d0ba177874f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/da94f6762/92536857/da94f6762df56697a4668ff741056092.jpeg",
+  "https://media.rightmove.co.uk/property-photo/67ab53142/92536857/67ab53142cd5a00baef1e7109e51734b.jpeg"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "Bournemouth Station",
+   "miles": 0.6584759636708397,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Pokesdown Station",
+   "miles": 1.5036871020056972,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Branksome Station",
+   "miles": 2.8545360805161906,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "eXp UK, London",
+ "city": "Bournemouth",
+ "sourceOutcode": "BH1",
+ "scrapedAt": "2026-08-31T16:54:04.455Z"
+}

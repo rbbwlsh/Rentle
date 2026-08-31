@@ -1,0 +1,94 @@
+{
+ "id": "167482547",
+ "mode": "buy",
+ "displayAddress": "Cavendish Lodge, Cavendish Road, Bath, BA1",
+ "outcode": "BA1",
+ "incode": "2UD",
+ "latitude": 51.391852,
+ "longitude": -2.368582,
+ "priceAmount": 725000,
+ "priceLabel": "£725,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/167482547",
+ "area": "Cavendish Lodge, Bath",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 1021,
+  "sizeSqM": 95,
+  "tenureType": "SHARE_OF_FREEHOLD",
+  "yearsRemainingOnLease": 969,
+  "annualGroundRent": null,
+  "annualServiceCharge": 5316,
+  "councilTaxBand": "G",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": 1021,
+ "sizeSqM": 95,
+ "description": "A beautiful two bedroom apartment with lift access located in a desirable gated setting.\n\n\rDescription\n\nCavendish Lodge was built over 25 years ago and has become one of the most sought-after purpose-built apartment complexes in Bath. The building is approached via remote-controlled, ornate security gates and a sweeping driveway, surrounded by manicured communal gardens. This third floor apartment is accessed through an imposing stone-floored reception hall. Leading from here are the lifts, staircases, as well as the private stores and utility areas.\n \nApartment 15 occupies a prime position within the building. It has elegant proportions, high ceilings and is freshly decorated. A well-fitted storage room and further cupboard complement the inviting hallway. The kitchen is thoughtfully designed with attractive cabinetry, stone worktops and quality appliances.\n \nThe standout feature of this unique home is the triple-aspect reception room which is flooded all day with natural light. Principally south-facing with large traditional sliding sash windows, there are open views over Bath. Its generous proportions easily allow for dining and entertaining. A feature fireplace and cabinetry add character.\n \nThe main bedroom enjoys sweeping views over the Approach Golf Course. It benefits from bespoke cabinetry, wardrobes and an en-suite shower room. The second double bedroom is ideal for guests or as a home study. It benefits from the bathroom located across the hall which doubles as a guest cloakroom.\n \nThe apartment has a private store on the ground floor. It also benefits from a water softener.\n \nOutside\n \nThe communal gardens and grounds extend to approximately four acres, comprising mature trees, lawned areas, flower beds, herb garden and wooded copse sections, all interlinked via gravel pathways. There is a terrace at the front of the building, which enjoys afternoon sunshine.\n \nThe apartment has a private allocated parking space and there are visitor parking spaces.\n\nLocation\n\nCavendish Lodge is in a prime central Bath location on Cavendish Road, adjacent to the open spaces of Victoria Park, its elevated position connecting it easily to the Cotswold Way and its countryside walks, hills and woodlands. Close by, St James's Square has a delicatessen, newsagent, chemist, hairdresser, greengrocers and florist.\n\nBath city centre is within walking distance of approx. 0.8 miles, providing excellent cultural and leisure amenities including many fine restaurants, bars and entertainment facilities, as well as its cultural attractions. There is also a huge range of sporting opportunities in and around Bath including golf, cricket, horse racing and rugby. A number of good state and independent schools are within easy reach, including Kingswood and The Royal High School.\n\nSquare Footage: 1,021 sq ft",
+ "keyFeatures": [
+  "Highly desirable apartment building",
+  "Stunning views over Georgian Bath",
+  "Recently refurbished apartment",
+  "Lift access",
+  "Beautiful communal grounds",
+  "Parking &amp; Private storage",
+  "EPC Rating = C"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/85cc3f4b4/167482547/85cc3f4b4fa82abe87c0829562f059e1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8804795d6/167482547/8804795d6fc9db9acb53c15e56bbe2c0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d1f81eb2/167482547/6d1f81eb2db35c3edcd6532547e35743.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b613d3ede/167482547/b613d3edeb639c923a172ca51ba05cbf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c74e3f139/167482547/c74e3f1391b5bda660b5c06869343085.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0fb9b5d6a/167482547/0fb9b5d6aca17933c0fffe53f48329ef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2868f2ef0/167482547/2868f2ef0dfe7dd994b24e530fabd8fd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/540a130d0/167482547/540a130d04f8cd158c26d6868f0ef208.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0f9a6ca77/167482547/0f9a6ca773b070e7e68b608873c86545.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f265b1d3d/167482547/f265b1d3d304de3d21fe4f3b983c839a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5fd4ae48f/167482547/5fd4ae48fe766b4ebf6722b306a27ce1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ea8c05764/167482547/ea8c0576467a3033a420f09049e80fa8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5dc809427/167482547/5dc8094279b99c56e7642f032b09327f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f7b353129/167482547/f7b353129f4d303f9cf9175a37adb169.jpeg",
+  "https://media.rightmove.co.uk/property-photo/12aab7784/167482547/12aab7784e378994bb2f54982943020e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0868d5bd8/167482547/0868d5bd8b9dcbd8f4b26bfcf6879fcf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/25e86565a/167482547/25e86565a01dfc8e336bff46339f570e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ea9a5f650/167482547/ea9a5f65099a5df3266acf00e26158fb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/56a811e3c/167482547/56a811e3cc7018893314f1716832946d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d345b7ae7/167482547/d345b7ae7172a9ac2d4c3520354cc4bf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1f505e7c1/167482547/1f505e7c1c5aedb5d8d8ac1f49a02834.jpeg"
+ ],
+ "imageCount": 21,
+ "nearestStations": [
+  {
+   "name": "Oldfield Park Station",
+   "miles": 1.0254740653874408,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bath Spa Station",
+   "miles": 1.0993136155757626,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Freshford Station",
+   "miles": 4.519887591179552,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Savills, Bath",
+ "city": "Bath",
+ "sourceOutcode": "BA1",
+ "scrapedAt": "2026-08-31T15:01:59.763Z"
+}

@@ -1,0 +1,88 @@
+{
+ "id": "92469852",
+ "mode": "buy",
+ "displayAddress": "Deans Road, East Park, Wolverhampton, WV1",
+ "outcode": "WV1",
+ "incode": "2AD",
+ "latitude": 52.59155,
+ "longitude": -2.09945,
+ "priceAmount": 195000,
+ "priceLabel": "£195,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92469852",
+ "area": "East Park, Wolverhampton",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Semi-Detached",
+ "details": {
+  "propertyType": "Semi-Detached",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": 721,
+  "sizeSqM": 67,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 0,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers in Region of",
+  "listingUpdate": "Added on 27/08/2026"
+ },
+ "sizeSqFt": 721,
+ "sizeSqM": 67,
+ "description": "Call us 9AM - 9PM - 7 days a week, 365 days a year! \n\n \n\nOffered to the market with no onward purchasing chain and providing an excellent opportunity for first-time buyers, growing families and investors alike, this three-bedroom semi-detached home on Deans Road occupies a convenient position within easy reach of Wolverhampton city centre. Offering a traditional and well-proportioned layout, off-road parking and a private rear garden, the property would particularly suit a purchaser looking for a home they can modernise and place their own stamp upon!\n\n \n\nThe property is currently occupied by tenants, who have been served notice to vacate in December, with any onward purchase therefore intended to proceed with vacant possession upon completion. While the home would benefit from a programme of cosmetic updating, it offers a fantastic foundation for improvement, with generous accommodation and plenty of scope for a new owner to personalise the property to their own tastes and requirements.\n\n \n\nInternally, the ground floor accommodation begins with an entrance hallway, providing access through to the principal living spaces and incorporating useful understairs storage. There are two separate reception rooms in the form of a living room and dining room, offering versatility for everyday family life, entertaining or potentially creating a dedicated home-working area. A separate kitchen completes the ground-floor arrangement.\n\n \n\nAscending to the first-floor landing, the property offers three bedrooms, comprising two well-proportioned double rooms alongside a smaller, box-room-style third bedroom. While more compact in size, the third room remains usable as a bedroom and could equally lend itself to use as a nursery, study or home office depending upon the requirements of the eventual purchaser. The family bathroom completes the first-floor accommodation.\n\n \n\nExternally, the home benefits from practical outside space to both the front and rear. To the frontage is a small lawned garden alongside a private driveway, providing tandem off-road parking for approximately two vehicles. Side access leads through to the rear garden, which has been designed with ease of maintenance in mind and is predominantly paved. The garden is enclosed and enjoys a pleasing degree of privacy, providing a useful outdoor space without the upkeep associated with a larger lawned garden.\n\n \n\nLocation is another key strength of the property, with Deans Road providing convenient access to Wolverhampton city centreand a wide variety of everyday amenities. Local shops, schooling, public transport links and regular bus routes are all readily accessible, while the wider road network makes the property well placed for those travelling throughout Wolverhampton and the surrounding areas.\n\n \n\nWith its combination of three-bedroom accommodation, two reception rooms, driveway parking, private rear garden and no onward chain, the property represents an appealing opportunity for buyers prepared to undertake some cosmetic improvement. It could make an excellent first-time purchase or family home, while investors may also be attracted by an anticipated rental income in the region of £1,000 per calendar month, subject to market conditions and the eventual specification of the property.\n\n \n\nEarly viewing is highly recommended to appreciate the accommodation, potential and convenient location on offer!\n\n \n\n EPC rating: C. Tenure: Freehold,",
+ "keyFeatures": [
+  "No onward chain!",
+  "Three bedrooms",
+  "Semi-detached family home",
+  "Sitting close to Wolverhampton City centre",
+  "Driveway",
+  "A perfect first time buy",
+  "Ideal investment",
+  "Low maintenance garden",
+  "Easy access to a range of local amenities, schools and transport links",
+  "A genuine must-see!"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/32f19e1f4/92469852/32f19e1f4318209c117c1655d8d5ca29.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0952ebac5/92469852/0952ebac5523eff0db5e1b8f54d8c6b8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9d32d0496/92469852/9d32d049667949834b1fe35e172c7a98.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4c1912732/92469852/4c191273295aa8b2d565a8e4f4948d59.jpeg",
+  "https://media.rightmove.co.uk/property-photo/44dd89fd0/92469852/44dd89fd088d54a66be747270b242659.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ac562c736/92469852/ac562c7367d280f827fd1435522aa380.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5707bc790/92469852/5707bc790de92e3ff71089d171f302f5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bc7cc74cc/92469852/bc7cc74cc1c777393ca0fda364b7d620.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e0f27427c/92469852/e0f27427ce3a8b51a9e4c6ae2eb2bb4d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aee828e6f/92469852/aee828e6ffcdbc3f004ac214fcaf49dd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5bf4b2be3/92469852/5bf4b2be3f9c478d7dc6cf29bfb57446.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6b995f24a/92469852/6b995f24ae7420ce61f921c7b0d777ab.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Wolverhampton Station",
+   "miles": 0.9142051718489976,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "The Royal Tram Stop",
+   "miles": 1.0433676092934727,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Wolverhampton St George's Tram Stop",
+   "miles": 1.1705468337352167,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Belvoir, Wolverhampton",
+ "city": "Wolverhampton",
+ "sourceOutcode": "WV1",
+ "scrapedAt": "2026-08-31T16:52:30.587Z"
+}

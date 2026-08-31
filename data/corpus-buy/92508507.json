@@ -1,0 +1,83 @@
+{
+ "id": "92508507",
+ "mode": "buy",
+ "displayAddress": "Barrington Road, N8",
+ "outcode": "N8",
+ "incode": "8QT",
+ "latitude": 51.584354,
+ "longitude": -0.127472,
+ "priceAmount": 650000,
+ "priceLabel": "£650,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92508507",
+ "area": "Barrington Road",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 775,
+  "sizeSqM": 72,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 99,
+  "annualGroundRent": 100,
+  "annualServiceCharge": 661.75,
+  "councilTaxBand": "D",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": 775,
+ "sizeSqM": 72,
+ "description": "Set on the ground floor of this period residence is this charming two bedroom converted flat.  Currently laid out as a one bedroom, two reception room and situated on a favoured residential turning within a short walk of Crouch End’s vibrant Broadway with its array of retailers and eateries.  \n\nFurther comprising modern three-piece bathroom suite and kitchen leading to own private patio garden.  Situated within a moments stroll of the entrance to the green open space of Priory Park and transport is provided by a plethora of local bus routes to Finsbury Park and beyond. \n\nLease: 125 years from 24/06/1999 (99 years remaining)\nCurrent Service/Maintenance Charge: £661.75 per annum\nGround Rent: £100.00 per annum",
+ "keyFeatures": [
+  "Two bedroom converted flat",
+  "Kitchen leading to own private patio garden",
+  "Modern three-piece bathroom suite",
+  "Short stroll of the entrance to the green open space of Priory Park",
+  "Transport via a plethora of local bus routes to Finsbury Park"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/ce0ea6a6b/92508507/ce0ea6a6bdb01c55b2f80ccca5b2e56d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa7179b39/92508507/aa7179b397a80ea0f534e981fb8e9c13.jpeg",
+  "https://media.rightmove.co.uk/property-photo/465449c5d/92508507/465449c5df77e5c114e3dc893085db3b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/07e1094a9/92508507/07e1094a9466c28fa37230402c2a6c83.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d9bdeac29/92508507/d9bdeac29031daf65cc167654234a2e3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d15535c93/92508507/d15535c934b515a0d496f1bacda5bb59.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f62d365dd/92508507/f62d365dd2d1773ddd5c6c2956e84c66.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2415922d9/92508507/2415922d918da31a182e73b2bbd40a1c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/416ca6faf/92508507/416ca6faf2b5354455c37361b08fe028.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7937fa9c1/92508507/7937fa9c188880141891b8d15f3b656a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ae5cc14a1/92508507/ae5cc14a15ce2a0d41fb43f745939425.jpeg",
+  "https://media.rightmove.co.uk/property-photo/504402df6/92508507/504402df68be438f66dc1f69fd8a47d7.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Hornsey Station",
+   "miles": 0.6985499824333155,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Highgate Station",
+   "miles": 0.9515916065367057,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Crouch Hill Station",
+   "miles": 1.0018286864180055,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  }
+ ],
+ "agent": "Castles Estate Agents, Crouch End",
+ "city": "London",
+ "sourceOutcode": "N8",
+ "scrapedAt": "2026-08-31T16:59:03.964Z"
+}

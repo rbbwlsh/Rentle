@@ -1,20 +1,34 @@
 # Rentle — working notes for Claude
 
-Daily guess-the-rent game on real UK Rightmove listings. **Fully static**: a
-pre-scraped corpus is baked in at build time, the engine runs client-side,
-stats live in localStorage. No backend. See README.md for the full picture —
-this file is the operational stuff that isn't obvious from the code.
+Two daily games on real UK Rightmove listings, behind one toggle: guess the
+**rent** (six cities), or guess the **asking price** (a UK-wide sample, studios
+through 3-beds). **Fully static**: pre-scraped corpora are baked in at build
+time, the engine runs client-side, stats live in localStorage. No backend. See
+README.md for the full picture — this file is the operational stuff that isn't
+obvious from the code.
+
+The two games share the board, the engine, the photo store and the image
+manifest. They do NOT share corpora, daily order, puzzle numbering or streaks.
+Everything mode-shaped is a table entry, not a branch: `tools/config/modes.js`
+build-side, `client/src/engine/modes.js` player-side.
 
 ## Commands
 
 ```bash
 npm install          # root + client deps (postinstall handles client/)
-npm test             # 31 unit tests, no network — run before every push
+npm test             # unit tests, no network — run before every push
 npm run dev          # corpus build + vite dev on :5173
 npm run build        # corpus -> vite build -> prerender, into client/dist
 npm run preview      # serve the real build on :4173
+npm run seed         # scrape the RENT corpus (tools/config/outcodes.json)
+npm run seed:buy     # scrape the BUY corpus (tools/config/outcodes.buy.json)
+npm run images       # photos for every mode's corpus, into one shared store
 netlify deploy --prod
 ```
+
+`npm run corpus` and `npm run images` both walk **every** mode in
+`tools/config/modes.js` — there is no per-mode build or image command, and
+adding a mode needs no change to either.
 
 ## The two rules that matter
 
@@ -43,37 +57,82 @@ download is a no-op, and the regenerated manifest should match the committed
 one; check `git diff data/images-manifest.json` afterwards and treat a
 non-empty diff as real news (a listing's photos went 404 on Rightmove).
 
-`npm run images` takes ~30 min for ~500 listings at 300ms/photo. It's
-resumable — interrupt and re-run.
+`npm run images` takes ~30 min per ~500 listings at 300ms/photo, and it now
+walks both corpora — budget roughly double for a cold start. It's resumable —
+interrupt and re-run.
 
 ## Data: committed vs not
 
 | Committed | Not committed |
 |---|---|
-| `data/corpus/*.json` — 500 scraped listings | `client/public/img/` — photo binaries |
-| `data/images-manifest.json` — what was processed | `client/public/data/` — built corpus |
-| `data/order.json` — append-only daily order | `data/state/` — scrape caches |
+| `data/corpus/*.json` — scraped rent listings | `client/public/img/` — photo binaries |
+| `data/corpus-buy/*.json` — scraped sale listings | `client/public/data/` — built corpora |
+| `data/images-manifest.json` — what was processed | `data/state/` — scrape caches |
+| `data/order.json`, `data/order-buy.json` — daily order | |
 
-`data/order.json` is **append-only on purpose**: it fixes which listing is
-"today's" puzzle. Never reorder or rewrite it, or every player's day shifts.
+Both order files are **append-only on purpose**: they fix which listing is
+"today's" puzzle. Never reorder or rewrite them, or every player's day shifts.
+`data/order.json` in particular must keep its name and contents — it predates
+the buy mode and carries the live rent game's schedule.
+
+The image manifest and `client/public/img/` are **shared** across modes:
+Rightmove ids are globally unique, so one photo store serves both corpora.
 
 ## Layout
 
 ```
-tools/seed.js          scrape -> data/corpus/<id>.json
-tools/images.js        photos -> client/public/img/<id>/*.webp
-tools/build-corpus.js  corpus -> client/public/data/ (price-free index +
-                       per-listing chunks, answer base64'd)
-tools/prerender.js     /p/<id>/ share pages w/ OG tags, absolute URLs from
-                       tools/config/site.json
-client/src/engine/     engine.js picker.js share.js stats.js
+tools/config/modes.js  the mode table: corpus dir, order file, output dir,
+                       search channel, routes. Everything else reads it.
+tools/seed.js          scrape -> data/corpus[-buy]/<id>.json  (--mode buy)
+tools/lib/redact.js    strips price-revealing copy at build time
+tools/images.js        photos -> client/public/img/<id>/*.webp (all modes)
+tools/build-corpus.js  corpus -> client/public/data/<mode>/ (price-free index
+                       + per-listing chunks, answer base64'd)
+tools/prerender.js     /p/<id>/ and /buy/p/<id>/ share pages w/ OG tags,
+                       absolute URLs from tools/config/site.json
+client/src/engine/     engine.js picker.js share.js stats.js modes.js
 ```
+
+Routes: the rent game keeps the bare paths it launched with (`/`, `/browse`,
+`/p/<id>`) so share links already in the wild still resolve; the buy game lives
+under `/buy`. The header toggle switches between them.
+
+## The buy channel, specifically
+
+Sale pages are not lettings pages with a different number on them:
+
+- **There is no numeric `prices.price` on a sale detail page** — only the
+  search rows carry one. The asking price is parsed out of the formatted
+  `prices.primaryPrice` string ("£340,000").
+- `prices.pricePerSqFt` must never reach the client. The floor area is on the
+  card, so it multiplies straight back into the answer.
+- Four categories have a headline number that isn't an asking price and are
+  rejected: shared ownership (the figure is a 25–40% share), auction lots,
+  retirement units, and new-home developments quoting "from £X". The search
+  filter `dontShow=retirement,sharedOwnership,newHome` kills most (verified
+  live: an M1 2-bed search fell 351 -> 258 results and every `development` row
+  went), but a studio search still returned an auction lot with it applied, so
+  `normalize` re-checks every listing against its detail page.
+- Investment and development ads put **marketing copy where the address goes**
+  ("Fully Furnished Homes in Manchester City Centre"). Those make terrible
+  rounds — no street, no tenure, no floor area — and are rejected by
+  `looksLikeAddress`. In a live M1 smoke run they were 3 of the first 6 hits.
+- Real studios often report `bedrooms: null` even when the search that found
+  them filtered on 0 beds, so seed passes the stratum's bed count as
+  `bedsHint`.
+- The buy config is **clustered by town, not scattered**. Price per sq ft
+  varies ~10x across the UK, so a comparable hint is only honest if it comes
+  from the same town — and `pickComparables` ranks same-outcode ahead of merely
+  nearby for the same reason.
+- Great Britain only. The city picker draws a GB coastline, so a Northern
+  Irish town would render as a pin floating in the Irish Sea.
 
 ## Scraping etiquette
 
 Rightmove's ToS prohibits scraping; this project does it deliberately and
 gently. Keep the ~1s seed delay and 300ms image delay, don't run `seed` on a
-schedule, and don't parallelise the fetches. Datacenter IPs get blocked at
+schedule, and don't parallelise the fetches. Two corpora is twice the traffic —
+the buy run alone is ~1,000 requests once outcode ids are cached. Datacenter IPs get blocked at
 volume — `npm run seed -- --check` is the preflight. (This Codespace's IP
 reached the media CDN fine as of Aug 2026.)
 

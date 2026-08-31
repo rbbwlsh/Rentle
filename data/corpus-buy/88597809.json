@@ -1,0 +1,92 @@
+{
+ "id": "88597809",
+ "mode": "buy",
+ "displayAddress": "Petersfield Green, Milton Keynes, MK9",
+ "outcode": "MK9",
+ "incode": "2FT",
+ "latitude": 52.035228,
+ "longitude": -0.760832,
+ "priceAmount": 260000,
+ "priceLabel": "£260,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/88597809",
+ "area": "Milton Keynes",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Maisonette",
+ "details": {
+  "propertyType": "Maisonette",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 785,
+  "sizeSqM": 73,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 131,
+  "annualGroundRent": 100,
+  "annualServiceCharge": 3152,
+  "councilTaxBand": "C",
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Added on 22/08/2026"
+ },
+ "sizeSqFt": 785,
+ "sizeSqM": 73,
+ "description": "Located in Petersfield Green, this maisonette presents a unique opportunity for those looking to settle in central Milton Keynes at an affordable price. The area is well-regarded for its accessibility to local amenities and public transport, making daily commutes straightforward. The property is leasehold, with a build area of 72.93 square metres, providing ample space for comfortable living.\n\nThe maisonette features two bedrooms, including a master bedroom with an en-suite bathroom. The layout is designed for convenience and functionality, with two bathrooms to accommodate the needs of residents. Double glazing and gas central heating contribute to a cosy environment, while the balcony offers a pleasant outdoor space to enjoy.\n\nResidence permit parking is available, adding to the convenience of this home. With fantastic views and a top floor position, this property stands out as a great choice for buyers looking for value in a sought-after location. Act quickly to secure this move-in ready maisonette in Milton Keynes.\n\nProperty & Services information: \nMobile Coverage: 4G/5G coverage is available in the area - please check with your provider\nBroadband Availability: Superfast broadband (FTTC/FTTP) is available in the area\nUtilities: Mains gas, electricity, mains water, and broadband are connected.\n\n \n \n\nTenure - Leasehold - 131 Years on Lease \nEPC Rating: B \nCouncil Tax Band: C \nGround Rent - £100 (£50 Bi-Annually) \nService Charge £788 Quarterly",
+ "keyFeatures": [
+  "No Chain!",
+  "Top Floor Duplex Maisonette",
+  "Great Move in Ready Condition",
+  "Sought After Central Location",
+  "En-Suite to Master",
+  "Residence Permit Parking",
+  "Fantastic Views",
+  "Leasehold",
+  "EPC rating B",
+  "Council Tax Band C"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/746c7976b/88597809/746c7976bde396df6ed518a849ba5f04.jpeg",
+  "https://media.rightmove.co.uk/property-photo/969441b06/88597809/969441b06ef327b4ca4538858f971117.jpeg",
+  "https://media.rightmove.co.uk/property-photo/00ae2fd19/88597809/00ae2fd19e76696a29fe931ec98fc615.jpeg",
+  "https://media.rightmove.co.uk/property-photo/58e3963ce/88597809/58e3963cefc950914452d3cd226a018a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d047858d5/88597809/d047858d5fdd544cecadf56179f13d78.jpeg",
+  "https://media.rightmove.co.uk/property-photo/26ee72ade/88597809/26ee72adea980cf271412bdf6d6532cd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/510f21793/88597809/510f21793d7a0341900afabe025f544c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/05d7e1f6c/88597809/05d7e1f6cbcae98f196c2d21b8d6ad87.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d70a9e7a1/88597809/d70a9e7a10a603af8a843b6e59854175.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e6122064d/88597809/e6122064d0c4bcc9267bcc2702e19409.jpeg",
+  "https://media.rightmove.co.uk/property-photo/03e32f962/88597809/03e32f962e16c2f1457b4c36facafd09.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6baaa6026/88597809/6baaa602653b4e4ffb2297af13960eed.jpeg",
+  "https://media.rightmove.co.uk/property-photo/260d5b6c2/88597809/260d5b6c28a60f166a6f5eb8ed8a80eb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/515aadd05/88597809/515aadd05d83ce8e423a428e23cd003b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/52f890a41/88597809/52f890a417b0652e6642993b7a7e79c0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/17cfeefda/88597809/17cfeefda18adb63cb8531f11bd96e4a.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Milton Keynes Central Station",
+   "miles": 0.5248131057877351,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Wolverton Station",
+   "miles": 2.7645678637433146,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bletchley Station",
+   "miles": 2.9789800212771245,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "The Property Experts, London",
+ "city": "Milton Keynes",
+ "sourceOutcode": "MK9",
+ "scrapedAt": "2026-08-31T15:02:44.118Z"
+}

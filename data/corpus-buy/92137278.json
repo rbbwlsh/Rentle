@@ -1,0 +1,79 @@
+{
+ "id": "92137278",
+ "mode": "buy",
+ "displayAddress": "Wharf Approach, Leeds",
+ "outcode": "LS1",
+ "incode": "4GJ",
+ "latitude": 53.792739,
+ "longitude": -1.550981,
+ "priceAmount": 167500,
+ "priceLabel": "£167,500",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92137278",
+ "area": "Leeds",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 559,
+  "sizeSqM": 52,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 232,
+  "annualGroundRent": 275,
+  "annualServiceCharge": 2385,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Added on 18/08/2026"
+ },
+ "sizeSqFt": 559,
+ "sizeSqM": 52,
+ "description": "CityRise are delighted to present this modern one-bedroom apartment in Leeds city centre, presenting an ideal opportunity for investors seeking a turnkey rental property. \n\nWith a tenant already in situ, this property generates immediate income, currently rented at £1,100 per calendar month. The apartment offers a sleek, open-plan kitchen/living space, a spacious double bedroom with built-in wardrobe, and a stylish bathroom. Additional features include high-spec integrated appliances and access to the building’s stunning rooftop terrace with panoramic city views.\n\nLocated just moments from Leeds Train Station, it is perfectly positioned for professional tenants working in and around the city.\n\nWhether you're expanding your portfolio or looking for a strong first investment, this is an opportunity not to be missed.\n\nRef No: 10017",
+ "keyFeatures": [
+  "Ideal for buy-to-let investors",
+  "1 Bed, 1 Bath Apartment",
+  "Prime city centre location with excellent transport links",
+  "Secure, well-managed building with rooftop terrace",
+  "Tenant in situ",
+  "High demand rental area",
+  "Walking distance to Leeds Station, bars, restaurants, and shopping",
+  "INVESTORS ONLY"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/ef6277e4f/92137278/ef6277e4fe13d5881a61eec2591d28c8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/63427574c/92137278/63427574ccc07cc72461716ecb678366.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c6415193e/92137278/c6415193e2a274706740abfd27fcaefb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a3c8713b6/92137278/a3c8713b6c8818fac35737cc298667f9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1ffe62388/92137278/1ffe623885a77fd571904c391804ea19.jpeg"
+ ],
+ "imageCount": 5,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 0.17990591479394266,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 1.7326135346601135,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cottingley Station",
+   "miles": 2.2908190955368553,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "CityRise, Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS1",
+ "scrapedAt": "2026-08-31T14:59:07.949Z"
+}

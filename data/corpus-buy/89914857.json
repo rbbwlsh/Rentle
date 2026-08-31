@@ -1,0 +1,85 @@
+{
+ "id": "89914857",
+ "mode": "buy",
+ "displayAddress": "Talfourd Road, London",
+ "outcode": "SE15",
+ "incode": "5PA",
+ "latitude": 51.472312,
+ "longitude": -0.07735,
+ "priceAmount": 600000,
+ "priceLabel": "£600,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89914857",
+ "area": "London",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Ground Flat",
+ "details": {
+  "propertyType": "Ground Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "SHARE_OF_FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "C",
+  "priceQualifier": "Offers in Region of",
+  "listingUpdate": "Reduced on 29/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A beautifully presented two double-bedroom garden apartment with a private entrance, private rear garden, and a share of the freehold, forming part of an attractive period conversion.\n\nAccessed via its own front door, the property opens into an exceptionally spacious entrance hall, providing excellent storage and an immediate sense of space. The elegant reception room features bespoke plantation shutters, a charming feature fireplace, and tasteful neutral décor, creating a warm and inviting atmosphere.\n\nThe generous principal bedroom benefits from floor-to-ceiling fitted wardrobes, while the second bedroom is of a similarly impressive size and is currently arranged as a home office. It comfortably accommodates a double bed and additional bedroom furniture, making it an ideal guest room, or workspace.\n\nThe contemporary bathroom is finished with classic white metro tiling and comprises a full-sized bath with overhead shower.\n\nTo the rear of the property, the well-appointed L-shaped kitchen offers ample preparation and storage space, featuring wooden worktops, sleek gloss cabinetry, and a stylish tiled splashback. There is also room for a dining table and chairs, creating a sociable kitchen-dining space.\n\nThe rear door leads directly to the private rear garden, sunny, secluded, and designed for low-maintenance enjoyment, it provides the perfect setting for outdoor dining, entertaining, or simply relaxing in the warmer months.\n\nSet within a vibrant community, the local area offers all the essentials within easy reach, with the added benefit of proximity to central London.\n\nCamberwell is brimming with activities and dining options. Every Saturday, you can explore the Camberwell Farmers Market, featuring fresh local produce and artisanal crafts. Art and culture enthusiasts will appreciate the South London Gallery, which hosts exhibitions, tours, workshops, and performances.\n\nA beloved spot for coffee and treats is Toad Bakery, while Gladwell’s Grocery & Deli, hidden in a 19th-century Grade II listed bank, offers wine tastings in its vault.\n\nFood lovers will be spoiled for choice. Theo’s is a must-visit for pizza, while independent gastropubs like Camberwell Arms serve a seasonal menu. On Camberwell Church Road, you’ll find international cuisine from Noko’s Asian street food to the Kurdish delights of Nadine. For a refined pub experience, Little Cellars serves wine and tapas.\n\nNearby Peckham’s Bellenden Road is home to local favourites like Flock & Herd butchery, Artusi restaurant, The General Store, and FIKA. Rye Lane features the Bussey Building, Frank’s Bar during the summer, and Peckham Plex cinema.\n\nNature lovers will appreciate the neighbourhood's abundant green spaces, from the serene William Griggs Gardens and Warwick Gardens to the expansive Peckham Rye Park and Common, which comes alive with festivals in the summer. Fitness enthusiasts can make the most of Reformer Pilates sessions at Level Out on Bellenden Road, access personal training sessions and a variety of fitness classes over at Milo and the Bull on Copeland Road or wind down with some Yoga with Yogarise at the Bussey building. Tennis players will find excellent courts at The Butterfly Tennis Club, while Zen Yoga Studio on Camberwell Grove offers a peaceful retreat.\n\nAnd when adventure calls, Peckham Rye Station-just a short walk away-keeps you well-connected to the rest of London, with quick links to London Bridge, Shoreditch, Victoria, Blackfriars, Kings Cross and Clapham Junction, making city exploration effortless.\n\nShare of freehold - 968 years\nService charge - £600\nCouncil tax band - C",
+ "keyFeatures": [
+  "Share of freehold",
+  "Private garden",
+  "Two double bedrooms",
+  "Own front door &amp; private secure porch",
+  "Short walk to Peckham Rye station",
+  "Victorian conversion",
+  "Good condition throughout",
+  "Separate kitchen"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/5f151d42a/89914857/5f151d42a409acc13abc19f40d479f44.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee33f1ed9/89914857/ee33f1ed98279bb8198fbf8bfd4eefbc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/316d6dfaa/89914857/316d6dfaac733d6540373d44869963c6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/589e2b286/89914857/589e2b2863e18759ea0a5157840bb484.jpeg",
+  "https://media.rightmove.co.uk/property-photo/19cef5965/89914857/19cef59659fa7aa99879702d9f5616bd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/02c3e4d07/89914857/02c3e4d0717e2e53a1c699c06b188a12.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0de46b60e/89914857/0de46b60e7a9ee2848ba7c326782af3d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dbd314706/89914857/dbd31470611c9b2375341dbe225d2120.jpeg",
+  "https://media.rightmove.co.uk/property-photo/beb8cd0af/89914857/beb8cd0af0e3baa650ddc8989f506eea.jpeg",
+  "https://media.rightmove.co.uk/property-photo/037442d71/89914857/037442d7175ef9e623ed93e0093faae6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/42944359b/89914857/42944359b118f59f3f5d722905cc5693.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Peckham Rye Station",
+   "miles": 0.39915024969685603,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Denmark Hill Station",
+   "miles": 0.593851703371162,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "East Dulwich Station",
+   "miles": 0.753835432995803,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Gareth James Property, South East London",
+ "city": "London",
+ "sourceOutcode": "SE15",
+ "scrapedAt": "2026-08-31T16:59:08.917Z"
+}

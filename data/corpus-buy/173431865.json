@@ -1,0 +1,76 @@
+{
+ "id": "173431865",
+ "mode": "buy",
+ "displayAddress": "Ruth Bagnall Court, Cambridge",
+ "outcode": "CB1",
+ "incode": "3NU",
+ "latitude": 52.196098,
+ "longitude": 0.1479,
+ "priceAmount": 180000,
+ "priceLabel": "£180,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/173431865",
+ "area": "Cambridge",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": 323,
+  "sizeSqM": 30,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 15/07/2026"
+ },
+ "sizeSqFt": 323,
+ "sizeSqM": 30,
+ "description": "This is your chance to purchase this second floor luxury studio apartment boasting contemporary styling and interior design. This property is set within a superb development located close to the railway station (Station Road) and enjoying proximity to the city centre. It comprises a separate shower room and an open plan living area with fully fitted kitchen with plumbing. There is a covered cycle store, secure gated underground parking and communal grounds included with the property. \n\nThe surrounding streets have some of the most interesting, tucked-away pubs in Cambridge. The area is within easy reach of Cambridge's historic centre, major shops and green spaces. Everything you need is just a bike ride or walk away, from schools to supermarkets, gyms to art galleries with the city's main central station not far away.",
+ "keyFeatures": [
+  "CB1",
+  "Central Location",
+  "Underground Parking",
+  "Communal Gardens"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c54543fcb/173431865/c54543fcb512be9a3da0a660683cf678.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7ac8c5c22/173431865/7ac8c5c22b0d16fc9c5cf6ff3fb8999b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/04febfd1c/173431865/04febfd1c195dbcd3228617cb692b08a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4e3d362f0/173431865/4e3d362f056ae0bde823394074a0118f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3e44b7589/173431865/3e44b7589d335c8d0e894cbe8f7d10ad.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e26b128a6/173431865/e26b128a684dddcc6e88ac378b11a5bb.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Cambridge Station",
+   "miles": 0.4484788369219482,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cambridge North",
+   "miles": 1.9753780464022495,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Shelford Station",
+   "miles": 3.2795977829951375,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Leaders Sales, Cambridge",
+ "city": "Cambridge",
+ "sourceOutcode": "CB1",
+ "scrapedAt": "2026-08-31T14:50:52.991Z"
+}

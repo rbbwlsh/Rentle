@@ -1,0 +1,89 @@
+{
+ "id": "167407187",
+ "mode": "buy",
+ "displayAddress": "87 Norfolk House 2, 42 Simpson Street, Liverpool, L1",
+ "outcode": "L1",
+ "incode": "0AZ",
+ "latitude": 53.395992,
+ "longitude": -2.982121,
+ "priceAmount": 62000,
+ "priceLabel": "£62,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/167407187",
+ "area": "Liverpool",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 0,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 26/05/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "PRIME INVESTMENT OPPORTUNITY – HIGH YIELD STUDIO\n\nStudio 87 is currently let at £750pcm, delivering an approximate 8.5% yield. Offered with tenants in situ, this is a ready-made investment opportunity in one of Liverpool’s most desirable city centre locations.\n\nSituated in the heart of the Baltic Triangle, the property benefits from exceptional access to Liverpool’s key lifestyle and employment hubs. Liverpool ONE shopping district is within easy walking distance, while the historic Albert Dock is just moments away. In the opposite direction, the area is surrounded by a wide selection of bars, restaurants, and leisure venues including Ghetto Golf, Baltic Market, and popular entertainment spots, placing the development at the centre of Liverpool’s most vibrant district.\n\nThis location remains highly popular with students and young professionals, supporting strong and consistent rental demand and helping to minimise void periods.\n\nWhat’s included:\nThe studio is fully furnished and includes:\n\n• Double bed\n• Wardrobe\n• Study desk and chair\n• 3-piece bathroom suite\n• Kitchenette with fridge/freezer, hob and extractor fan\n• Dining table and seating\n\nUtility bills including electricity, water and WiFi are included, offering a convenient all-inclusive rental setup.\n\nResidents benefit from on-site concierge and management services, alongside secure communal facilities including a launderette and bicycle storage, available 24 hours.\n\nThe Baltic Triangle – Location Overview\n\nOnce an industrial docklands area, the Baltic Triangle has transformed into one of Liverpool’s most dynamic and creative districts. It is now home to independent businesses, start-ups, artists, and hospitality venues, creating a vibrant mixed-use community that continues to attract strong inward investment and regeneration.\n\nLiverpool’s property market continues to demonstrate resilience and growth, supported by major regeneration projects and strong demand fundamentals. The city remains significantly more affordable than other major UK cities—approximately 44% cheaper than the wider UK average, 30% cheaper than Manchester, and up to 65% cheaper than London.\n\nThe waterfront regeneration alone represents multi-billion-pound investment, delivering new residential neighbourhoods, commercial space, leisure facilities, and improved infrastructure - further strengthening long-term demand for city centre living.\n\nInvestment Highlights:\n\n• Approx. 8.5% yield\n• £750pcm rental income\n• Tenants in situ\n• City centre Baltic Triangle location\n• Strong student and young professional demand\n• Major regeneration pipeline\n• All-inclusive rental model",
+ "keyFeatures": [
+  "Fully Managed By Collective Property Co",
+  "Balcony",
+  "Modern Furnishings",
+  "Popular Rental Accommodation",
+  "City Centre Location",
+  "Cash Only",
+  "Residential and Student Accommodation",
+  "High Occupancy Rates"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/846587fea/167407187/846587fea64ae1213d36406e6bd375db.png",
+  "https://media.rightmove.co.uk/property-photo/6163cfe8c/167407187/6163cfe8c34a00a59e0849379ab4f999.png",
+  "https://media.rightmove.co.uk/property-photo/62d7069b9/167407187/62d7069b9238029774af403d48567c11.png",
+  "https://media.rightmove.co.uk/property-photo/3e7766b0a/167407187/3e7766b0a626cdf621200d71ca8996f7.png",
+  "https://media.rightmove.co.uk/property-photo/51fbd57e8/167407187/51fbd57e8899ee953368b8a7e32c12d9.png",
+  "https://media.rightmove.co.uk/property-photo/0890b90d4/167407187/0890b90d453391cb6cf81bf707cd117e.png",
+  "https://media.rightmove.co.uk/property-photo/991a695a5/167407187/991a695a5674cae6bce425ecd1c4ccab.png",
+  "https://media.rightmove.co.uk/property-photo/2cca54430/167407187/2cca544304ea1da965db3e526100adf0.png",
+  "https://media.rightmove.co.uk/property-photo/fe11f3836/167407187/fe11f38366ce814dd2262601d9cdc736.png",
+  "https://media.rightmove.co.uk/property-photo/af27d6597/167407187/af27d659725520d61047d8be237f6582.png",
+  "https://media.rightmove.co.uk/property-photo/de9c7c2d8/167407187/de9c7c2d839adc50ba368c7ec6d5a7f2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/882158c7d/167407187/882158c7d9afc2447130b868c5d57aa5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1a89b8581/167407187/1a89b8581637ebd1fdd34fb294207679.jpeg",
+  "https://media.rightmove.co.uk/property-photo/457cc3b46/167407187/457cc3b4671071a1e93cb322226ff9bb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c9e66295d/167407187/c9e66295dd0d3eab7c68844382c5bfdc.jpeg"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Liverpool Central Station",
+   "miles": 0.6065659668581722,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "James Street Station",
+   "miles": 0.7440351657651899,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Liverpool Lime Street Station",
+   "miles": 0.8036794525148776,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Collective Property Co, Liverpool",
+ "city": "Liverpool",
+ "sourceOutcode": "L1",
+ "scrapedAt": "2026-08-31T14:48:17.406Z"
+}

@@ -1,0 +1,78 @@
+{
+ "id": "91554591",
+ "mode": "buy",
+ "displayAddress": "Trafalgar Street, Norwich",
+ "outcode": "NR1",
+ "incode": "3HN",
+ "latitude": 52.619947,
+ "longitude": 1.295888,
+ "priceAmount": 130000,
+ "priceLabel": "£130,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91554591",
+ "area": "Norwich",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 538,
+  "sizeSqM": 50,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 94,
+  "annualGroundRent": 30,
+  "annualServiceCharge": 400,
+  "councilTaxBand": "A",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 03/08/2026"
+ },
+ "sizeSqFt": 538,
+ "sizeSqM": 50,
+ "description": "Tucked away in a peaceful location south of the city, this well-presented one-bedroom ground-floor flat offers an excellent opportunity for first-time buyers or buy-to-let investors alike.\nAccessed via a secure communal entrance with an intercom entry system, the property also benefits from a private brick-built storage/cycle shed within the communal area. Upon entering the apartment, the welcoming hallway provides ample built-in storage and leads to all principal rooms.\nThe generous lounge/dining room is situated at the end of the hallway, creating a bright and comfortable living space. The fitted kitchen overlooks the communal gardens to the rear and offers a range of fitted units, space for appliances, and a wall-mounted gas central heating boiler. The accommodation is completed by a spacious double bedroom and a bathroom fitted with an electric shower.\nFurther benefits include double glazing, gas central heating, on-road permit parking, and well-maintained communal gardens, which are predominantly laid to lawn. Conveniently positioned within walking distance of a wide range of local amenities, this is a superb home in a sought-after and tranquil setting.\n\nLocation\nTrafalgar Square is a quiet and friendly area in a popular part of south Norwich, just under a mile from the city centre. It`s ideal for anyone who wants to be close to everything the city has to offer while still enjoying a peaceful neighbourhood setting.\nThe area is well served by local shops and supermarkets, including a nearby Sainsbury`s for everyday essentials. For larger shopping trips and dining out, Chantry Place shopping centre is just a short walk or drive away, offering a wide range of high street stores, cafés, and restaurants. The Riverside complex is also close by, with a cinema, gym, restaurants, and more, making it perfect for evenings out or weekend plans.\nThe area is conveniently located for getting around. Regular bus routes serve the neighbourhood, and Norwich Railway Station is just over a mile away, with direct services to London and other major cities. The A47 is also easily accessible, making travel by car quick and straightforward.\nWith excellent local amenities, green spaces such as Earlham Park and Chapelfield Gardens nearby, and superb transport links, the area offers a great balance of peaceful living and city convenience. It`s a lovely place to settle down and feel at home.\n\nAnti Money Laundering\nBy law, we are required to conduct anti-money laundering checks on all potential buyers and sellers, and we take this responsibility very seriously. In line with HMRC guidelines, our trusted partner, Coadjute, will securely manage these checks on our behalf. Once an offer is accepted (subject to contract), Coadjute will send a secure link for you to complete the biometric checks electronically. A non-refundable fee of £45+ VAT per person will apply for these checks, and Coadjute will handle the payment for this service. These anti-money laundering checks must be completed before we can send the memorandum of sale to the solicitors to confirm the sale.\n\nDisclaimer\nPlease note that we have not tested any apparatus, equipment, fixtures, fittings or services and as so cannot verify that they are in working order or fit for their purpose. Pymm & Co cannot guarantee the accuracy of the information provided. This is provided as a guide to the property and an inspection of the property is recommended.\n\nInformation regarding broadband options and phone signal can be obtained from the Ofcom broadband and mobile coverage checker.\n\nNotice\nPlease note that we have not tested any apparatus, equipment, fixtures, fittings or services and as so cannot verify that they are in working order or fit for their purpose. Pymm & Co cannot guarantee the accuracy of the information provided. This is provided as a guide to the property and an inspection of the property is recommended.",
+ "keyFeatures": [
+  "Spacious one-bedroom ground floor flat",
+  "Peaceful location south of the city",
+  "Within walking distance to a wide range of local amenities",
+  "Offered with No Onward Chain",
+  "Double bedroom and bathroom",
+  "Fitted kitchen",
+  "Double glazing and gas central heating",
+  "Communal gardens and an individual brick-built storage shed",
+  "An ideal first-time purchase",
+  "On road permit parking"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/bdf734733/91554591/bdf7347337726306d2651361311aacb3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee8ca8fe4/91554591/ee8ca8fe41e070d0003b11642c5b5a5b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/453822768/91554591/4538227682ecdb3f15f71521a81e517f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1be0c0622/91554591/1be0c0622e0663f9f4b9e0f1033106a9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f3fdcb497/91554591/f3fdcb497a9b5a24a17af61a2dcf05e6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ce00a88ab/91554591/ce00a88ab5dc2494c0606f761dadd464.jpeg",
+  "https://media.rightmove.co.uk/property-photo/66f528e07/91554591/66f528e07f7ed0c321f9097addd57a65.jpeg",
+  "https://media.rightmove.co.uk/property-photo/50c23c497/91554591/50c23c497d58f8dcd6526e5f955c4884.jpeg",
+  "https://media.rightmove.co.uk/property-photo/33b056a85/91554591/33b056a85f5d6f4f17bad0a76e2d434a.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Norwich Station",
+   "miles": 0.6728164344223317,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Salhouse Station",
+   "miles": 5.505859247085167,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Pymm & Co, Norwich",
+ "city": "Norwich",
+ "sourceOutcode": "NR1",
+ "scrapedAt": "2026-08-31T14:56:33.082Z"
+}

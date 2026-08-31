@@ -1,0 +1,80 @@
+{
+ "id": "92500512",
+ "mode": "buy",
+ "displayAddress": "Queens Dock Avenue, Hull",
+ "outcode": "HU1",
+ "incode": "3DR",
+ "latitude": 53.745662,
+ "longitude": -0.335279,
+ "priceAmount": 129500,
+ "priceLabel": "£129,500",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92500512",
+ "area": "Hull",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 993,
+  "annualGroundRent": 300,
+  "annualServiceCharge": 2147,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "***Great investment opportunity for cash buyer*** \n\nThis incredible apartment is being sold as a buy to let investment with a tenant in situ.\n\nSituated in the iconic BBC Hull building. With the benefit of secure parking, two step out balconies overlooking The Queens Gardens, great transport links and good road connections to all parts of the city and beyond via A63/M62 motorway link.\n\nThis development offers the ultimate in city living, easy access to a wide range of local amenities including many restaurants, bars and shops within walking distance. \n\nEPC - \nCouncil Tax Band - C\n\nRef: 10008\n\nAbout CityRise\n\nCityRise has continued with the same ethos it was founded upon; tailor-making the best property investment solutions across the UK to suit our client’s investment goals. As a company, we adopt an authentic and personal approach whilst guiding you to the right investment. Regardless of whether you are adding to an existing portfolio, or are a first-time investor, our team of experts will be with you from start to finish. You will receive independent, professional advice whilst we search the market for the property that best suits your strategy and goals.\n\nCityRise continuously keeps one eye on the latest market developments and the second on the best property opportunities available across the UK. You can therefore rest with the knowledge that when working with CityRise you will be in capable hands.",
+ "keyFeatures": [
+  "Incredible Investment Opportunity",
+  "Buy With Tenants in Situ",
+  "7% Yields",
+  "Cash Buyer only",
+  "Central Location",
+  "Secure and Allocated Parking",
+  "Views Over Queens Gardens",
+  "Great Transport Link",
+  "Situated in Hull's Iconic BBC Building"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/17cf2cdf5/92500512/17cf2cdf539610ef5813be5dad1c5cd4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1576f44f5/92500512/1576f44f5d79d439d17dbe7f56b6699f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b95643742/92500512/b95643742704743abc078c5a413ff41b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/19051d5db/92500512/19051d5db7dfa55bfae68253cf429da3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e81fc2ce5/92500512/e81fc2ce5654a4aee549570b25e7bc6b.jpeg"
+ ],
+ "imageCount": 5,
+ "nearestStations": [
+  {
+   "name": "Hull Station",
+   "miles": 0.46632281166549444,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "New Holland Station",
+   "miles": 3.192004161824983,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cottingham Station",
+   "miles": 3.7952070820018435,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "CityRise, Leeds",
+ "city": "Hull",
+ "sourceOutcode": "HU1",
+ "scrapedAt": "2026-08-31T14:55:17.631Z"
+}

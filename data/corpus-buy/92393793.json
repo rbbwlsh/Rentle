@@ -1,0 +1,83 @@
+{
+ "id": "92393793",
+ "mode": "buy",
+ "displayAddress": "Wharfside Street, Birmingham, West Midlands, B1",
+ "outcode": "B1",
+ "incode": "1RG",
+ "latitude": 52.47586,
+ "longitude": -1.90588,
+ "priceAmount": 135000,
+ "priceLabel": "£135,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92393793",
+ "area": "Birmingham, West Midlands",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 100,
+  "annualGroundRent": null,
+  "annualServiceCharge": 4132,
+  "councilTaxBand": "TBC",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 05/06/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "*CASH ONLY*\n\nLuxury One-Bedroom Apartment | Prestigious City Centre Development with Secure Parking\n\nThis exceptional one-bedroom luxury apartment is situated within one of Birmingham City Centre’s most prestigious developments, offering an unrivalled standard of modern urban living.\n\nFinished to a high specification throughout, the apartment features a spacious open-plan living and dining area, complemented by sleek contemporary fittings and floor-to-ceiling windows that flood the space with natural light. The stylish kitchen is fully integrated with appliances, while the generously sized bedroom offers comfort and elegance. A beautifully appointed bathroom completes the accommodation.\n\nResidents benefit from an array of exclusive on-site amenities, including a professional concierge service and a fully equipped residents’ gym. The property further advantages from secure, allocated parking, providing both convenience and peace of mind.\n\nIdeally located in the heart of Birmingham, the development is within walking distance of a wide range of shops, restaurants, bars, and cultural attractions, as well as excellent transport links, making it perfect for professionals seeking luxury city living.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/602b03df7/92393793/602b03df73eb31b573c36883aa0493c0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dc37b9978/92393793/dc37b99784053d9618839758cfc3f71d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a1ce20bd4/92393793/a1ce20bd41bde27861644c62cf4e154e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb59c65d9/92393793/bb59c65d91564aea5b3fda43c0727884.jpeg",
+  "https://media.rightmove.co.uk/property-photo/61a98391d/92393793/61a98391dd132a75f59879e50ab3bcbc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa2b0de20/92393793/aa2b0de20698ebb39e065ad7ed36bf3c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f4f71e1e7/92393793/f4f71e1e770add2f095d9f23747a3299.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ae7818f25/92393793/ae7818f257b1403685bdade00ac36f34.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d7e856c2c/92393793/d7e856c2cc1c7a90e3e7d566d4a263ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3cf99929a/92393793/3cf99929a262355d13a06a8b03310b9b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d758f4c66/92393793/d758f4c667d17fe4558fbc880255a3ca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2833cb6d9/92393793/2833cb6d9078ed1a944297fa3309fe8f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6b0f04a6a/92393793/6b0f04a6afa2f71904c98460b67d0811.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee5dc97cd/92393793/ee5dc97cd12ff749bde03e54b4aacd0d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f8322c336/92393793/f8322c336d4931beb49c43af17efea75.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4153d178e/92393793/4153d178e0dd39c77b242ce74053dc46.jpeg",
+  "https://media.rightmove.co.uk/property-photo/14986a8f4/92393793/14986a8f4fccd8381755f9298349d1ee.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b83ee52cc/92393793/b83ee52cca8e88e81fbb40b0f3f4d1c7.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 0.31994760353816126,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Five Ways Station",
+   "miles": 0.5115993314344104,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Snow Hill Station",
+   "miles": 0.5680097029195098,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Dixons, Birmingham City Centre",
+ "city": "Birmingham",
+ "sourceOutcode": "B1",
+ "scrapedAt": "2026-08-31T15:00:03.311Z"
+}

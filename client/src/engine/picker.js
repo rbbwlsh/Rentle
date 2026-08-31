@@ -30,11 +30,13 @@ export function pickDaily(order, dateStr = londonDate()) {
   return order[fnv1a(dateStr) % order.length];
 }
 
-// "Rentle #N" — puzzle 1 is launch day, counted in London days.
+// "Rentle #N" — puzzle 1 is launch day, counted in London days. Each mode
+// carries its own epoch, so a mode added later starts at #1 on ITS launch day
+// rather than inheriting a number from a game it wasn't part of.
 const EPOCH = '2026-08-31';
-export function dailyNumber(dateStr = londonDate()) {
+export function dailyNumber(dateStr = londonDate(), epoch = EPOCH) {
   const days = Math.round(
-    (Date.parse(`${dateStr}T12:00:00Z`) - Date.parse(`${EPOCH}T12:00:00Z`)) / 86400000
+    (Date.parse(`${dateStr}T12:00:00Z`) - Date.parse(`${epoch}T12:00:00Z`)) / 86400000
   );
   return days + 1;
 }

@@ -1,0 +1,98 @@
+{
+ "id": "92469102",
+ "mode": "buy",
+ "displayAddress": "Ryedale House, York, YO1",
+ "outcode": "YO1",
+ "incode": "9NX",
+ "latitude": 53.95589,
+ "longitude": -1.077338,
+ "priceAmount": 600000,
+ "priceLabel": "£600,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92469102",
+ "area": "Ryedale House, York",
+ "bedrooms": 3,
+ "bathrooms": 3,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 994,
+  "annualGroundRent": 250,
+  "annualServiceCharge": 4000,
+  "councilTaxBand": "G",
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Added on 27/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This large three bedroom, second floor apartment offers 1292 sq ft (120 sq m) approx of living space, making it an ideal city centre home or investment property.\r\n\r\nThe apartment boasts stunning views of York’s vibrant city centre, ensuring you are at the heart of York’s many attractions.\r\n\r\nRyedale House features a secure door entry system, ensuring safety and peace of mind, leading into a spacious and grand foyer, with the benefit of a concierge service.\r\n\r\nAccess to the apartment is facilitated by two lifts, plus a service lift, and additional staircase access, leading to spacious, well-lit, and impeccably presented communal hallways.\r\n\r\nSituated with no apartment above, the apartment enjoys unparalleled privacy and tranquility.\r\n\r\nThe apartments private entrance opens into a welcoming and spacious hallway, with\r\nengineered oak flooring, providing access to all rooms.\r\n\r\nWithin the hallway is a large fitted storage / cloakroom cupboard, and a large utility\r\ncupboard. The communal hallway also offers access to a further good sized private storage space for the apartment together with a communal refuse shoot for general household and recycling waste. \r\n\r\nThe sophisticated and contemporary living space offers seamless open plan living, creating a perfect space for entertaining. The stylish kitchen comes fully fitted with modern integrated appliances and boasts a large breakfast bar island. The dual aspect glass-to-glass corners offer wide scale views.\r\n\r\nThe master and second bedroom both feature fitted wardrobes and luxurious en-suite bathrooms. A third bedroom, also a generous double, offers flexibility for guests or a home office.\r\n\r\nThis apartment has the luxury of a further family bathroom. All bathrooms are fully tiled and fitted to a high standard, with automatic soft lighting.\r\n\r\nThe apartment benefits from an allocated undercover parking space in the secure gated car park, together with access to a secure communal bike store and external refuse area.\r\n\r\nThis exceptional property in Ryedale House offers spacious modern living at its finest, combining luxurious finishes such as underfloor heating, Envirovent ventilation and a sophisticated alarm system, with practical features to ensure a comfortable and secure lifestyle within the City Walls.",
+ "keyFeatures": [
+  "Luxury Unique City Center Apartment with Concierge Service",
+  "Situated within the City Walls",
+  "Three Double Bedrooms &amp; Open Plan Living",
+  "Allocated Undercover Parking in Secure Gated Car Park",
+  "Ideal Home or Investment Property",
+  "Holiday Lets Permitted",
+  "Two En-Suite Shower Rooms &amp; Additional Family Bathroom",
+  "Service Charge £1000 per quarter",
+  "Ground Rent £250 per annum",
+  "994 Year Lease Remaining"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a5745fa90/92469102/a5745fa90ccc5d9bbf6896c396219c2f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6e9139949/92469102/6e91399491c4ce4701ae4c74f0df29f5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f6fd9ce49/92469102/f6fd9ce49cdff0c59055fb24bb17f6b5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f4ff90c7/92469102/5f4ff90c7566c736518b9fc350bef713.jpeg",
+  "https://media.rightmove.co.uk/property-photo/228093dbf/92469102/228093dbf0601432df25660b7cb20a90.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1cf2dc3e8/92469102/1cf2dc3e851dae5eeba06c1fd4328b79.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f3e943e0b/92469102/f3e943e0bea7fff7be34ac8c9b480d2a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/658cd7528/92469102/658cd75281091062a230e3b3b58d656d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e526ad409/92469102/e526ad409a44a6ed59e7defa2c75b5a7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4fa7a2937/92469102/4fa7a293751127208158fdba02cc0781.jpeg",
+  "https://media.rightmove.co.uk/property-photo/51047353a/92469102/51047353a69886426c52e12066ba8322.jpeg",
+  "https://media.rightmove.co.uk/property-photo/03376dd9e/92469102/03376dd9eb5e8ae08a9e9d1716534e33.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4d6c3ccff/92469102/4d6c3ccff463ae13f3a2d6be15a3f524.jpeg",
+  "https://media.rightmove.co.uk/property-photo/047ee2440/92469102/047ee24408fbaf2496f0037e15d4cbb7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/52576525a/92469102/52576525adfe124828b7c4e2a94bcf38.jpeg",
+  "https://media.rightmove.co.uk/property-photo/53d85c913/92469102/53d85c913206edf16c72db89cd0d5711.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7a3f97aed/92469102/7a3f97aed28731c95f40c18c9bd3d1af.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ca5851a29/92469102/ca5851a292a015bcd42cb6ee2013f02f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/01f39e312/92469102/01f39e31237d38734f8d608c6a849a20.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a0d70b874/92469102/a0d70b874bbcac11220ee808d98370c6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9e8d30079/92469102/9e8d30079a84f18f524b4823a0676551.jpeg",
+  "https://media.rightmove.co.uk/property-photo/02de8f493/92469102/02de8f4934f03bea8bf6d038eb872adb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/617b626bc/92469102/617b626bc2f72370ca68ebd80fd027b1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b439b47b6/92469102/b439b47b64375175735817e66d1982d0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/466717b31/92469102/466717b313360506792d363ea3d45853.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3815f1595/92469102/3815f1595af9ecfcfe1324af3a4ebb13.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ed64da735/92469102/ed64da735a0bcf4bb8dbfcfefe39fdef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/19bc3ca32/92469102/19bc3ca32452f1e3d0a48edaf5f9395a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/329cde527/92469102/329cde5274fc0c6615246316ff63c1a7.jpeg"
+ ],
+ "imageCount": 29,
+ "nearestStations": [
+  {
+   "name": "York Station",
+   "miles": 0.6619893519728212,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Poppleton Station",
+   "miles": 3.20775452003087,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Preston Baker, York",
+ "city": "York",
+ "sourceOutcode": "YO1",
+ "scrapedAt": "2026-08-31T15:03:53.037Z"
+}

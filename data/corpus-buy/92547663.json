@@ -1,0 +1,77 @@
+{
+ "id": "92547663",
+ "mode": "buy",
+ "displayAddress": "The Kingsway, City Centre, Swansea, SA1",
+ "outcode": "SA1",
+ "incode": "5HN",
+ "latitude": 51.62049,
+ "longitude": -3.94583,
+ "priceAmount": 60000,
+ "priceLabel": "£60,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92547663",
+ "area": "City Centre, Swansea",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": 100,
+  "annualServiceCharge": 2507.74,
+  "councilTaxBand": "B",
+  "priceQualifier": "Offers in Region of",
+  "listingUpdate": "Added on 29/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "One of the Largest Studio Apartments in Portland House | 5-Year Tenant in Situ | 14.1% Gross Yield\n\nAn excellent investment opportunity to acquire one of the largest studio apartments within the sought-after Portland House development on The Kingsway, Swansea City Centre.\n\nThe property is currently let to a tenant who has been in occupation for approximately 5 years, paying £725 pcm (£8,700 per annum), providing an established rental income from day one and making this an ideal investment for a landlord seeking a property with a strong rental history.\n\nBased on the current purchase price, the property offers an attractive 14.1% gross rental yield before ground rent, making it a particularly appealing investment opportunity.\n\nSituated on the second floor, the spacious studio offers a generous open-plan living and sleeping area, contemporary fitted kitchen with integrated appliances and a modern shower room. Further benefits include gas central heating, double glazing, secure intercom entry and communal laundry facilities.\n\nIdeally located in the heart of Swansea City Centre, within easy walking distance of shops, restaurants, Swansea Marina, the waterfront and excellent transport links.\n\nA rare opportunity to acquire one of the larger studios in Portland House with a long-standing tenant and strong rental return. 979 years remaining on the lease\n\n EPC rating: C. Tenure: Leasehold, Service charge description: Bi annually £1253.87,",
+ "keyFeatures": [
+  "City Centre Location",
+  "Investment Property",
+  "Tenant in situ",
+  "Long Term Tenant - 5 Years",
+  "Large Studio Apartment"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/971f22d2f/92547663/971f22d2f2a12b8d744d02ad009e0042.jpeg",
+  "https://media.rightmove.co.uk/property-photo/641e9c67a/92547663/641e9c67acd2211eccafb191349fc5ba.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d7496fcfa/92547663/d7496fcfada20566d2f6871124df784c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/282c90110/92547663/282c901100324925d2ef3c8295904fc4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ad992edb0/92547663/ad992edb01effedfe410b8915455992d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa52efd6b/92547663/aa52efd6bd1cc58cb03c7876afac3bab.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Swansea Station",
+   "miles": 0.38941007856820675,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Llansamlet Station",
+   "miles": 3.859323961761969,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Gowerton Station",
+   "miles": 4.315959033241417,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Belvoir, Mumbles",
+ "city": "Swansea",
+ "sourceOutcode": "SA1",
+ "scrapedAt": "2026-08-31T14:53:50.588Z"
+}

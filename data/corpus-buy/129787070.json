@@ -1,0 +1,73 @@
+{
+ "id": "129787070",
+ "mode": "buy",
+ "displayAddress": "Parisienne Hotel, 240-244 North Promenade, Blackpool, Lancashire, FY1 1RZ",
+ "outcode": "FY1",
+ "incode": "1RZ",
+ "latitude": 53.823753,
+ "longitude": -3.055226,
+ "priceAmount": 475000,
+ "priceLabel": "£475,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/129787070",
+ "area": "Blackpool, Lancashire",
+ "bedrooms": 0,
+ "bathrooms": null,
+ "propertySubType": "House",
+ "details": {
+  "propertyType": "House",
+  "bedrooms": 0,
+  "bathrooms": null,
+  "sizeSqFt": 5687,
+  "sizeSqM": 528,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": "Offers in Region of",
+  "listingUpdate": "Added on 06/12/2022"
+ },
+ "sizeSqFt": 5687,
+ "sizeSqM": 528,
+ "description": "The property consists of a substantial 62 bedroom hotel within a three block five storey sea front property\noccupying a prominent position in North Shore Blackpool. The hotel has not been trading for a number of years and \nrequires extensive refurbishment which is reflected in the low asking price for a property of this size.  There are no trading accounts available.  There is a small car park to the front providing parking for 4 motor vehicles for guests. Small yard area to the rear.",
+ "keyFeatures": [
+  "Substantial 3 block 5 storey 62 bedroom hotel (all en-suite).",
+  "Situated on the prestigious north promenade.",
+  "Currently not trading and in need of renovation.",
+  "Car parking for 4 motor vehicles."
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/79cc50176/129787070/79cc50176f3eaa2994f89207c1a1d584.jpeg",
+  "https://media.rightmove.co.uk/property-photo/183cc2346/129787070/183cc23466054a18c0192820d9ca92e7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/83d8df807/129787070/83d8df807991ef54875da9f80c6a51b8.jpeg"
+ ],
+ "imageCount": 3,
+ "nearestStations": [
+  {
+   "name": "Blackpool North Station",
+   "miles": 0.2796518179678309,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Layton Station",
+   "miles": 1.2704357139343117,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Blackpool South Station",
+   "miles": 1.7830615374190681,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "BTG Eddisons, Bradford",
+ "city": "Blackpool",
+ "sourceOutcode": "FY1",
+ "scrapedAt": "2026-08-31T14:48:51.663Z"
+}

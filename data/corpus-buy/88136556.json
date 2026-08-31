@@ -1,0 +1,95 @@
+{
+ "id": "88136556",
+ "mode": "buy",
+ "displayAddress": "Woods Road, London",
+ "outcode": "SE15",
+ "incode": "2PX",
+ "latitude": 51.473165,
+ "longitude": -0.062284,
+ "priceAmount": 350000,
+ "priceLabel": "£350,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/88136556",
+ "area": "London",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 239,
+  "annualGroundRent": 300,
+  "annualServiceCharge": 2400,
+  "councilTaxBand": "C",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 29/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "** Guide Price £350,000-£375,000 **\n\nDiscover this beautifully designed one-bedroom apartment, perfectly positioned in a peaceful spot just off Queens Road and surrounded by lush greenery.\n\nEnjoy rare, unobstructed views of the sky and treetops, with cleaner air away from busy roads, and a calming environment. Ideal for young professionals or couples, seeking tranquility alongside convenience - with fantastic amenities and quick access to Central London.\n\nLocation Highlights:\n• Just 6 minutes’ walk to Queens Road Peckham station and 10 minutes to Peckham Rye station for excellent transport links\n• A quiet location surrounded by greenery, with cleaner air compared to main road flats\n• Walking distance to vibrant cafés, restaurants, shops, and more\n\nAdditional Perks:\n• Built-in storage room in the hallway\n• Long lease, NHBC warranty until 2027\n• ESW1 fire safety certificate for peace of mind\n• Communal landscaped gardens, secure bike storage & optional car parking space\n• Hyper-Optic broadband ready\n\nThis home offers the perfect balance of peace and convenience. With great transport connections and green surroundings proven to boost well-being, this is a rare opportunity to enjoy London.\n\nSchedule a viewing today.\n\nLease - 250 years from 1st January 2016 (240 years remaining)\nService Charge - £2,400 PA\nGround Rent - £300 PA\nSouthwark Council - Council Tax Band - C\nEnergy Efficiency Rating - B",
+ "keyFeatures": [
+  "Modern Apartment",
+  "One Bedroom",
+  "Communal Gardens",
+  "Built in Storage",
+  "Long Lease",
+  "Close to Transport Links",
+  "Close to Local Amenities",
+  "Energy Efficiency Rating - B"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/047162c56/88136556/047162c565dccf93ccd57174832e3b35.jpeg",
+  "https://media.rightmove.co.uk/property-photo/489bb7aa0/88136556/489bb7aa0532f568ae568492dd0ea5f1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b5b4b9679/88136556/b5b4b9679647a3a777c769fe83fca05b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fe0e1a9a3/88136556/fe0e1a9a359578e76c838807b70c4738.jpeg",
+  "https://media.rightmove.co.uk/property-photo/851d3db0f/88136556/851d3db0fa6bf9fbb77a3f17a90f58eb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a91907ce4/88136556/a91907ce465e4391d4ac2b5cdfc0ec98.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b396e632d/88136556/b396e632dec065bdd43b31b376cc385e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1adf71ee3/88136556/1adf71ee39605c0b5c00bd01812df7dc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa8b771d0/88136556/aa8b771d006f305c264f6a3d71ee7a93.jpeg",
+  "https://media.rightmove.co.uk/property-photo/81d098b22/88136556/81d098b2286bf2bd43cc5d81c27ea0d6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b093534b8/88136556/b093534b8195a6eac1a2cab8e02e63d1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/97a52f2b6/88136556/97a52f2b66505d7f78eb0eb5f8e18b44.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d47c74d2/88136556/6d47c74d2a41644c7404636a41d6c0b1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/762715f6c/88136556/762715f6c96eaaadcb27bcce9a2459c8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/abbd72ffd/88136556/abbd72ffdf831847313ed7011a698d31.jpeg",
+  "https://media.rightmove.co.uk/property-photo/922dd8130/88136556/922dd8130c63374d9abd62891f15ac27.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5885c04fe/88136556/5885c04fe4db820d75e9d660da7336e7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c89d3c402/88136556/c89d3c402198b4b713320c7d0a44fdd8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c2df6eb8f/88136556/c2df6eb8f43c59eb3f21737c5e23a106.jpeg",
+  "https://media.rightmove.co.uk/property-photo/efedbff1b/88136556/efedbff1b894df0dd67cd3b301e6090e.jpeg"
+ ],
+ "imageCount": 20,
+ "nearestStations": [
+  {
+   "name": "Queens Road Peckham Station",
+   "miles": 0.21576001367477365,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Peckham Rye Station",
+   "miles": 0.3693344415681138,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Nunhead Station",
+   "miles": 0.5869771773196347,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Acorn, Peckham Rye",
+ "city": "London",
+ "sourceOutcode": "SE15",
+ "scrapedAt": "2026-08-31T16:57:09.271Z"
+}

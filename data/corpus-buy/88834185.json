@@ -1,0 +1,101 @@
+{
+ "id": "88834185",
+ "mode": "buy",
+ "displayAddress": "Cottrill Gardens, Marcon Place, London E8",
+ "outcode": "E8",
+ "incode": "1NY",
+ "latitude": 51.547628,
+ "longitude": -0.061481,
+ "priceAmount": 400000,
+ "priceLabel": "£400,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/88834185",
+ "area": "Marcon Place",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 128,
+  "annualGroundRent": 311.01,
+  "annualServiceCharge": 2756,
+  "councilTaxBand": null,
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Reduced on 11/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Situated on the fourth floor, this well-presented one-bedroom apartment offers 568 sq ft of internal living space with a bright and spacious open-plan kitchen, reception and dining area. The property benefits from a generously sized double bedroom, modern bathroom, ample storage and a private balcony, perfect for relaxing or entertaining. The unique layout and large windows allow for plenty of natural light throughout, creating a bright and welcoming home ideal for first-time buyers or investors alike.\n\nCottrill Gardens is ideally positioned in the heart of Hackney, surrounded by an excellent selection of local amenities. Residents can enjoy the vibrant cafés, restaurants, bars and independent boutiques of Mare Street, Broadway Market and London Fields, all within easy reach. There are also several supermarkets, gyms and green open spaces nearby, including Haggerston Park and London Fields, offering a fantastic balance of city living and outdoor lifestyle.\n\nTransport links are excellent, with both Hackney Downs and Hackney Central stations just a short walk away, providing swift and convenient access into the City and beyond. A number of well-connected bus routes also run along Dalston Lane, Amhurst Road and Pembury Road, allowing easy access across East London and into Central London.",
+ "keyFeatures": [
+  "Private Balcony",
+  "Chain Free",
+  "Excellent Location",
+  "Open-Plan Living",
+  "Secure Development",
+  "Close to Amenities"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/b79d1037c/88834185/b79d1037ccc1080357a0cf7d6f2b2ba8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3e1fe1908/88834185/3e1fe190852f3a5cb8f9aa9f27dd20dc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1b556acd3/88834185/1b556acd3e29238f634d27bf127c5803.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2cfc656da/88834185/2cfc656da5d3eb4d4a5f7c7bfe4c1a24.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dde91158e/88834185/dde91158e8a2fc62cc0eac3c91d05198.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ad9ad05fc/88834185/ad9ad05fc090141329b746a46f817afa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/14d9d03fb/88834185/14d9d03fb4604d490e930ff7853a2e13.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5b5ca83d3/88834185/5b5ca83d3d0c19ee63e7112ea791026e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0b5a6745a/88834185/0b5a6745a61347209158ee3109c2da6f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d35bd1833/88834185/d35bd1833a3856747f6550307b940fc3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b8725a818/88834185/b8725a818b84ad43883eead3bf194846.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d8a70fe1f/88834185/d8a70fe1f7703c083318f778b4054b12.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb511526b/88834185/bb511526b41f2076290f393fd2071950.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4f9069b6d/88834185/4f9069b6d9c6987f129976234e34f9a3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/61bf85807/88834185/61bf8580721f96bd028fb808149c3457.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ece1a4bc/88834185/8ece1a4bcba3fb2db3ee3ede0e927163.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4164ba415/88834185/4164ba4159940b00817fad00028be63b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/42722c32c/88834185/42722c32c5d2521984e670e88d1349c5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/810b8404c/88834185/810b8404cd7add3f693fda306bbe0254.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c5100edbc/88834185/c5100edbc3898d2612d1ef771f7b7a24.jpeg",
+  "https://media.rightmove.co.uk/property-photo/36817184d/88834185/36817184d86a9d98138264f0291d3c8a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3e70bdff7/88834185/3e70bdff7ebc8c7b4d7d1680c8ec43d7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6538929f5/88834185/6538929f536e8122be04439eb77ab339.jpeg",
+  "https://media.rightmove.co.uk/property-photo/db0dd3248/88834185/db0dd3248a6dacbd8294ee785d089991.jpeg",
+  "https://media.rightmove.co.uk/property-photo/28b3fa469/88834185/28b3fa4694b0b8d2b5ed90b9fa64ad52.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3719e4be5/88834185/3719e4be5c44625caaddd1b5ad0a543f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fed036da3/88834185/fed036da36f9d5dc6682474155bda171.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c0a3bc7e2/88834185/c0a3bc7e24e274589a5e48559ddbf484.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7451a1692/88834185/7451a1692f7162b7ca47752812cf0f80.jpeg"
+ ],
+ "imageCount": 29,
+ "nearestStations": [
+  {
+   "name": "Hackney Downs Station",
+   "miles": 0.07250525725360646,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Hackney Central Station",
+   "miles": 0.2440298591724702,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "London Fields Station",
+   "miles": 0.5108410415309905,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Felicity J Lord, Hackney",
+ "city": "London",
+ "sourceOutcode": "E8",
+ "scrapedAt": "2026-08-31T16:55:28.432Z"
+}

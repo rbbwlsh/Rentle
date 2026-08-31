@@ -1,0 +1,83 @@
+{
+ "id": "174518369",
+ "mode": "buy",
+ "displayAddress": "Dewsbury Court, York",
+ "outcode": "YO1",
+ "incode": "6LH",
+ "latitude": 53.955993,
+ "longitude": -1.089887,
+ "priceAmount": 425000,
+ "priceLabel": "£425,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/174518369",
+ "area": "York",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Town House",
+ "details": {
+  "propertyType": "Town House",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": 1276,
+  "sizeSqM": 119,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "E",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 07/07/2026"
+ },
+ "sizeSqFt": 1276,
+ "sizeSqM": 119,
+ "description": "A spacious three/ four bedroom townhouse set within this small and select development, quietly positioned in the heart of Bishophill and within the city walls. Tucked away from the main streets yet only a short walk from York city centre, the property offers an excellent balance of privacy and convenience.\n\nThe accommodation is arranged over four floors and offers well proportioned and flexible living throughout. To the ground floor is an entrance hallway with access through to the integral garage, which includes a washing machine, alongside a useful study space and a cloakroom with WC.\n\nThe first floor provides the main living space, featuring a generous open plan lounge with fitted media unit and storage, flowing through to a fitted kitchen complete with integrated appliances, creating a practical and sociable layout.\n\nTo the second floor is the principal bedroom with en suite shower room, along with a further double bedroom. The top floor offers an additional double bedroom and a three piece bathroom, ideal for guests or family living.\n\nExternally, the property benefits from a private enclosed courtyard to the rear, along with a garage and an additional allocated parking space, a rare advantage for a city centre home.\n\nService charge of £250 in 2026.\n\n* Please note a selection of rooms have been dressed using AI for illustrative purposes.*\n\nAnti-Money Laundering Compliance - We are legally required to conduct Anti Money Laundering checks on all purchasers, sellers, and giftors. These checks become mandatory when a seller accepts a purchaser's offer on a property. Anti-Money Laundering checks are valid for 6 months from the date they are completed. If your purchase does not proceed and you make an offer on another property more than 6 months later, or if your checks are more than 6 months old when making a new offer, you will need to complete and pay for new checks. We use a partner supplier MoveButler, to carry out these checks on our behalf. They will contact you directly once your offer has been accepted (subject to contract) to complete the electronic verification process securely. There is a non-refundable charge of £30 + VAT per purchaser and per giftor for these checks.. This fee must be paid before we can issue a memorandum of sale to solicitors and is non-refundable under any circumstances. Ashtons receive a portion of this fee from MoveButler as compensation for facilitating these checks and our administrative role in the compliance process.",
+ "keyFeatures": [
+  "Modern Townhouse",
+  "No Onward Chain",
+  "Three Bedrooms And A Study",
+  "Two Bathrooms",
+  "Integral Garage",
+  "Within York City Walls",
+  "EPC C"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/b559258e0/174518369/b559258e030f8a5551752a43bab958ea.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0dcc4d314/174518369/0dcc4d314759d2cdcde33fe97a4207f9.png",
+  "https://media.rightmove.co.uk/property-photo/66d697570/174518369/66d697570aa35bc887b6b136dcae1dd4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/895cbd1e0/174518369/895cbd1e01829d88a7e5185054b158a5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c2ee6a84f/174518369/c2ee6a84fe929e1734495f9b80a405ba.png",
+  "https://media.rightmove.co.uk/property-photo/1cf4b22c6/174518369/1cf4b22c66ebb67ba1a196c9a130450d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/24ed82fc7/174518369/24ed82fc71cc65884e050fbe6b1d1e97.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7dbc4e9e7/174518369/7dbc4e9e735f4c102882bbfb0f91f04d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/343c4e80c/174518369/343c4e80c0febf5ac284089aa2e74097.jpeg",
+  "https://media.rightmove.co.uk/property-photo/19cdaa285/174518369/19cdaa2858646a229d42cc146e63a27b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/659d73a34/174518369/659d73a34fc7206afd708ba2b3033a59.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bbb85c351/174518369/bbb85c351efde7ad06dea8c322b9643c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b7125d69c/174518369/b7125d69c472eaeeee388edbf2069f99.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f0a571f33/174518369/f0a571f33e8aa6878cc90409b7990aa3.png",
+  "https://media.rightmove.co.uk/property-photo/c8685c40a/174518369/c8685c40ae1bc51d6e47c22777eb40e4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0dc1ea621/174518369/0dc1ea621066bd6bd013d22a5d1af894.jpeg",
+  "https://media.rightmove.co.uk/property-photo/64f83500a/174518369/64f83500abfe9990cf0bfd4fa0bd41a0.jpeg"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "York Station",
+   "miles": 0.19121671047327424,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Poppleton Station",
+   "miles": 2.7512376286901845,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Ashtons Estate Agents, York",
+ "city": "York",
+ "sourceOutcode": "YO1",
+ "scrapedAt": "2026-08-31T15:03:57.134Z"
+}

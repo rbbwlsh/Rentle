@@ -1,0 +1,93 @@
+{
+ "id": "91612317",
+ "mode": "buy",
+ "displayAddress": "Bethell Road, Stoke-on-Trent, ST1",
+ "outcode": "ST1",
+ "incode": "6XL",
+ "latitude": 53.042302,
+ "longitude": -2.172331,
+ "priceAmount": 155000,
+ "priceLabel": "£155,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91612317",
+ "area": "Stoke-on-Trent",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Semi-Detached",
+ "details": {
+  "propertyType": "Semi-Detached",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This spacious semi-detached home is ideally located in a popular residential area close to local amenities, shops and excellent transport links. The well-presented accommodation comprises an entrance hall with cloakroom/WC, a lounge/dining room with feature gas fire, fitted kitchen, and a conservatory. Upstairs are three bedrooms, and a contemporary family bathroom. Externally, the property benefits from attractive front and rear gardens, a block-paved driveway providing off-road parking, and a detached single garage with power and lighting.\n\nADDITIONAL INFORMATION:\n\nCouncil Tax Band: C\n\nLocal Authority: Stoke-on-trent\n\nLEGAL DISCLAIMER:\n\nThese particulars, whilst believed to be accurate are set out as a general guideline and do not constitute any part of an offer or contract. Intending Purchasers should not rely on them as statements of representation of fact, but must satisfy themselves by inspection or otherwise as to their accuracy. Please note that we have not tested any apparatus, equipment, fixtures, fittings or services including gas central heating and so cannot verify they are in working order or fit for their purpose. Furthermore, Solicitors should confirm moveable items described in the sales particulars and, in fact, included in the sale since circumstances do change during the marketing or negotiations. Although we try to ensure accuracy, if measurements are used in this listing, they may be approximate. Therefore if intending Purchasers need accurate measurements to order carpeting or to ensure existing furniture will fit, they should take such measurements themselves. Photographs are reproduced general information and it must not be inferred that any item is included for sale with the property.\n\nTENURE\n\nTo be confirmed by the Vendor’s Solicitors\n\nPOSSESSION\n\nVacant possession upon completion\n\nVIEWING\n\nViewing strictly by appointment through The Express Estate Agency",
+ "keyFeatures": [
+  "*Guide Price £155,000 - £165,000*",
+  "Three Bedroom Semi-Detached House",
+  "Offered To The Market With No Onward Chain - Ample Potential For Further Development",
+  "Ideal For First Time Buyers, Investors &amp; Expanding Families",
+  "Two Bright &amp; Spacious Reception Rooms Including A Conservatory",
+  "Fitted Kitchen With Some Integrated Appliances",
+  "Family Bathroom &amp; Additional WC",
+  "Generously Sized Front &amp; Rear Gardens With A Driveway &amp; Garage - Off Road Parking",
+  "Situated In A Popular Residential Area",
+  "Close Proximity To Local Amenities, Schools, Shops &amp; Excellent Transport Links"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/44968aa9b/91612317/44968aa9b9dbe7dcf39a2682cc8affa5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dd01ab355/91612317/dd01ab355bb563c78d7699ed805a22b5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/34e953f85/91612317/34e953f85f178a032edf25df72474b30.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5a36e4f20/91612317/5a36e4f203ccf85e62693bf95e648f2b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/722794910/91612317/722794910260f94e06e78303c26a9bab.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3bc0dc5ae/91612317/3bc0dc5ae1c556bfa9a9e93a4129328b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bd6988121/91612317/bd6988121cc2e96e1ce9fbbba81a1b42.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9bd9185c7/91612317/9bd9185c7075fadb138d223a8e3bce6f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7beab517c/91612317/7beab517c3dbff69e2b45c57dc0f90c9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/33368d6df/91612317/33368d6df3b86a4ac6058514d0a7972d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7408e59c3/91612317/7408e59c3479b69b7cd4782c6fea4553.jpeg",
+  "https://media.rightmove.co.uk/property-photo/168e2c9d0/91612317/168e2c9d0dca407f336067b6e4afc0b4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/584e6c550/91612317/584e6c550d10e5feca2c5152be7ed3c6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2f38ce2de/91612317/2f38ce2de928ff40d0bc155da38e4fb3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c33a0f80a/91612317/c33a0f80af28571482b159e61b98980c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/66b24dc81/91612317/66b24dc81139e78c8860e660a6862ec8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/181672529/91612317/1816725294080ebd24b7dcfa0c31b314.jpeg"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "Longport Station",
+   "miles": 1.8238680765601045,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Stoke-on-Trent Station",
+   "miles": 2.398709624881266,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Longton Station",
+   "miles": 3.92605721594069,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Express Estate Agency, Nationwide",
+ "city": "Stoke-on-Trent",
+ "sourceOutcode": "ST1",
+ "scrapedAt": "2026-08-31T16:52:39.367Z"
+}

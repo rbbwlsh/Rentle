@@ -1,0 +1,82 @@
+{
+ "id": "92001501",
+ "mode": "buy",
+ "displayAddress": "Weston Lane, Bath, Somerset, BA1",
+ "outcode": "BA1",
+ "incode": "4AB",
+ "latitude": 51.39139,
+ "longitude": -2.38482,
+ "priceAmount": 425000,
+ "priceLabel": "£425,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92001501",
+ "area": "Bath, Somerset",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": 946,
+  "sizeSqM": 88,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 996,
+  "annualGroundRent": 250,
+  "annualServiceCharge": 2321,
+  "councilTaxBand": "D",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 14/08/2026"
+ },
+ "sizeSqFt": 946,
+ "sizeSqM": 88,
+ "description": "Entrance Hall, Sitting Room, Kitchen/Dining Room, Principal Bedroom, Double Bedroom, Single Bedroom/Study, Bathroom, Balcony, Allocated Parking, Communal Gardens\n\nDescription\n\nFlat 6 Suffolk House is a generously proportioned three-bedroom apartment occupying a first-floor position within a handsome period building. The property offers bright and airy accommodation with high ceilings and large windows. The impressive sitting room is spacious and benefits from an attractive fireplace together with pleasant views over the surrounding area. Adjacent is the functional kitchen and ample space for dining. French doors open directly onto a balcony, an ideal spot to enjoy the outlook. The entrance hall provides access to all bedrooms. There are two well-proportioned double bedrooms and a third bedroom which would also make an excellent home office, nursery or study. The accommodation is served by a family bathroom fitted with a bath and shower over. Externally, residents benefit from allocated parking and access to communal gardens which surround the building, providing a lovely setting.\n\nThis property is vacant and being sold with no onward chain. \n\nSituation \n\nSuffolk House occupies a convenient position on Weston Lane, to the north-west of Bath city centre. The property is ideally placed for access to a range of local amenities in Weston Village, including independent shops, cafés, a convenience store, pharmacy and doctor's surgery. The Royal United Hospital is within easy reach, making the property particularly attractive to medical professionals and nearby parks are excellent too. Bath city centre is approximately 1.5 miles away and provides an extensive range of cultural, leisure and retail facilities, including the Theatre Royal, Thermae Bath Spa and a wide selection of restaurants and cafés. Transport links are excellent, with regular bus services nearby, Bath Spa railway station providing high-speed services to London Paddington, and convenient road access to Bristol and the M4.\n\nAdditional Information\n\nTenure: Leasehold \nServices: All mains’ services connected\nLocal Authority: Bath and North East Somerset Council\nCouncil Tax: Band D\nEPC: Band C\nViewing: Strictly by appointment with\n Carter Jonas.",
+ "keyFeatures": [
+  "Spacious three-bedroom apartment in period conversion.",
+  "Private balcony with pleasant open outlook.",
+  "Allocated parking and communal gardens.",
+  "Bright rooms with high ceilings throughout.",
+  "Close to Bath city centre amenities.",
+  "Vacant possession with no onward chain."
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/22ec13606/92001501/22ec1360668ed49a114a83a6ae9d7d1a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/45cea0966/92001501/45cea0966c5d088668e339402121ba0f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ffa80a311/92001501/ffa80a311481bfe7534fc11d1fc2394d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e70363acd/92001501/e70363acd94ab7fd91947a09812385fa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6363ad684/92001501/6363ad684f780afd9d6999f470e616be.jpeg",
+  "https://media.rightmove.co.uk/property-photo/190c4877b/92001501/190c4877ba24bd6a279f0db96de809d0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/be89076e4/92001501/be89076e4cbf674ed1db8d3feda0e150.jpeg",
+  "https://media.rightmove.co.uk/property-photo/22ee6ad12/92001501/22ee6ad12187e29ba7ba9985ac75deb8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/64688d339/92001501/64688d339355bfd18c7d55c5189d129f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/61d59342a/92001501/61d59342a46481a9ee23d39070802c4b.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Oldfield Park Station",
+   "miles": 0.8675310228009279,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bath Spa Station",
+   "miles": 1.5286046789068808,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Freshford Station",
+   "miles": 4.980630067172001,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Carter Jonas, Bath",
+ "city": "Bath",
+ "sourceOutcode": "BA1",
+ "scrapedAt": "2026-08-31T16:54:10.668Z"
+}

@@ -1,0 +1,89 @@
+{
+ "id": "92011572",
+ "mode": "buy",
+ "displayAddress": "Adam and Eve Street, Cambridge",
+ "outcode": "CB1",
+ "incode": "1DW",
+ "latitude": 52.204128,
+ "longitude": 0.132094,
+ "priceAmount": 250000,
+ "priceLabel": "£250,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92011572",
+ "area": "Cambridge",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": 350,
+  "sizeSqM": 33,
+  "tenureType": "SHARE_OF_FREEHOLD",
+  "yearsRemainingOnLease": 104,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 1436.36,
+  "councilTaxBand": "A",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 14/08/2026"
+ },
+ "sizeSqFt": 350,
+ "sizeSqM": 33,
+ "description": "A stylish and contemporary, top floor studio apartment forming part of a modern development in this fantastic central location, just moments from Parker's Piece and historic city centre. No onward chain.\n\n12 Garden Court is a stylish top floor studio apartment within a modern block of similar properties offering spacious and light filled accommodation. \n\nThe living/dining room is large and impressive with a vaulted ceiling, large feature window and a fold up double bed. The kitchen area provides a range of modern units and drawers, worksurface space and a range of appliances including an electric hob with an oven under, an extractor fan, a dishwasher, a fridge and a washer/dryer. The entrance hall with video entry phone system provides useful storage space and leads to the shower room, which is fitted with a three-piece suite including a walk-in shower, a vanity unit with countertop wash basin, a WC with concealed cistern and a heated towel rail. \n\nThe property is accessed via a neat communal foyer with a lift and there is ample covered bicycle storage available to the rear of the property. We understand that car parking is not available for this property.\n\nLocation - Garden Court is located on Adam and Eve Street, which forms part of a popular and established area known as ‘The Kite’ which is situated close to the Grafton Centre and is within walking distance of the city centre and many other facilities offered by the University. There is an excellent range of local shopping and other facilities in the immediate area such as Parkside Pool and Kelsey Kerridge Sports Centre with open spaces of Parker's Piece, Christ Pieces and Midsummer Common nearby. Schooling is available at Parkside Community College and for commuters, Cambridge Station is within walking/cycling distance.\n\nTenure - Leasehold with Share of Freehold.\nLease is 125 years from 1st January 2006. \nService Charge is £1436.36 per annum. This is reviewed annually and adjusted according to associated costs..\n\nServices - Main services connected include: water, electricity and mains drainage.\n\nStatutory Authorities - Cambridge City Council.\nCouncil Tax Band - A\n\nFixtures And Fittings - Everything within the property is included in the sale of the leasehold interest.\n\nViewing - Strictly by appointment through the vendor’s sole agents, Redmayne Arnold and Harris.",
+ "keyFeatures": [
+  "Superb, top floor, studio apartment",
+  "Built in 2007",
+  "350 sqft / 33 sqm",
+  "Stylish and contemporary interior",
+  "Entrance foyer to main building",
+  "Stylish 3-piece shower room",
+  "Superb, central city location",
+  "Well-appointed kitchen",
+  "Electric underfloor heating",
+  "Secure cycle store."
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/e3e2169d1/92011572/e3e2169d1913487d1d15938fc9208cca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/26c030396/92011572/26c0303966463b423a0fec5381214d49.jpeg",
+  "https://media.rightmove.co.uk/property-photo/49acfc803/92011572/49acfc803bd1401ce5451a71dda4a861.jpeg",
+  "https://media.rightmove.co.uk/property-photo/03577f426/92011572/03577f42631a168f83087da79f45dfd9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0da8097e2/92011572/0da8097e27345ba69ac71962ffa3975f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/774afa2f9/92011572/774afa2f9f29cd5b2d9202a3081cdf02.jpeg",
+  "https://media.rightmove.co.uk/property-photo/93ffdcb06/92011572/93ffdcb06e7ccd3f661a0e7636f8b1b0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a665aec5d/92011572/a665aec5d58d2f0bbf96f7be8cc84a62.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7600f20dc/92011572/7600f20dc7443f9ee840f6f12b9feb6e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/471151263/92011572/4711512636d90ee592f77dc253d1e745.jpeg",
+  "https://media.rightmove.co.uk/property-photo/10d9489d9/92011572/10d9489d98a0ab8117351e1b8e8ae94f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fbc86d017/92011572/fbc86d01750bcf79dddb4895cb4787c2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/09bd0bf58/92011572/09bd0bf5851187308b4cd3eb31250d61.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Cambridge Station",
+   "miles": 0.7486558089244177,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cambridge North",
+   "miles": 1.7650866534471508,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Shelford Station",
+   "miles": 3.8316281145749462,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Redmayne Arnold & Harris, Cambridge",
+ "city": "Cambridge",
+ "sourceOutcode": "CB1",
+ "scrapedAt": "2026-08-31T14:50:51.612Z"
+}

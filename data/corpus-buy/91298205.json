@@ -1,0 +1,85 @@
+{
+ "id": "91298205",
+ "mode": "buy",
+ "displayAddress": "Highdene Road, Cambridge",
+ "outcode": "CB1",
+ "incode": "9YD",
+ "latitude": 52.18984,
+ "longitude": 0.181559,
+ "priceAmount": 280000,
+ "priceLabel": "£280,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91298205",
+ "area": "Cambridge",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 90,
+  "annualGroundRent": 10,
+  "annualServiceCharge": 672,
+  "councilTaxBand": "B",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 24/07/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "The property welcomes you into a generous entrance hall, where two sizeable storage cupboards provide an abundance of practical space –a highly valuable feature in apartment living. The bright and spacious living/dining room offers plenty of room for both comfortable seating and a dining set, making it an ideal space for relaxing or entertaining.\n\nUnlike many modern apartments, the kitchen is separate from the main living area, creating a practical layout for everyday living. It is well appointed with a range of modern units, integrated appliances and the added benefit of a useful pantry cupboard, providing further storage.\n\nThere are two well-proportioned double bedrooms, both offering comfortable accommodation with space for additional furniture. The contemporary bathroom is finished to a modern standard and serves the property well.\n\nOutside, residents benefit from on-street parking.\n\nHighdene Road is located off Fulbourn Old Drift, close to the heart of Cherry Hinton to the South East of Cambridge and benefits from many local facilities. As a self-contained village there are a wide range of shops and services, primary and nursery schooling, a library and the nearby Cherry Hinton Hall. Access is also convenient to Addenbrookes Hospital, the A10 and A14 with a regular bus service to the City Centre. An established Tesco Superstore is a short distance away.",
+ "keyFeatures": [
+  "Chain Free",
+  "Two Bedrooms",
+  "Modern Kitchen With Integrated Appliances",
+  "Spacious Living Diner",
+  "Contemporary Bathroom",
+  "On-Street Parking",
+  "Well-positioned for Addenbrooke's Hospital",
+  "Good Commuter Links"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f367c4501/91298205/f367c4501c5d0de5141305f607051e29.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fbbceac44/91298205/fbbceac44b56fb4db23f3581a74ec5c3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9f481dca9/91298205/9f481dca964da026a28a82da2005d9f2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8c3cc7c12/91298205/8c3cc7c12a6c0021094c67c06f7f3a14.jpeg",
+  "https://media.rightmove.co.uk/property-photo/409d29aca/91298205/409d29aca480e181938fafb94b8d0c4e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a7b0dea50/91298205/a7b0dea501f1cd2587e5ec1c8f0666ee.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1f566cc69/91298205/1f566cc69d0142b42db67b3c30702bf8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7b152fcc6/91298205/7b152fcc6eebb3b55e763404aea9c559.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3db36fe0e/91298205/3db36fe0e3ce3d564bc152fa8d8c3e0b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/72d719044/91298205/72d7190449710f8a430f0c9a029ab26e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d4eb68763/91298205/d4eb687630f0470d8e18758d237f6d97.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Cambridge Station",
+   "miles": 1.8743564689416923,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cambridge North",
+   "miles": 2.5570488240104385,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Shelford Station",
+   "miles": 3.337964226518187,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "haart, Cambridge",
+ "city": "Cambridge",
+ "sourceOutcode": "CB1",
+ "scrapedAt": "2026-08-31T15:01:04.100Z"
+}

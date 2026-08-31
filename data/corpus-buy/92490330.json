@@ -1,0 +1,78 @@
+{
+ "id": "92490330",
+ "mode": "buy",
+ "displayAddress": "Cullingham Road, Ipswich, Suffolk, IP1",
+ "outcode": "IP1",
+ "incode": "2EG",
+ "latitude": 52.056663,
+ "longitude": 1.13836,
+ "priceAmount": 120000,
+ "priceLabel": "£120,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92490330",
+ "area": "Ipswich, Suffolk",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Maisonette",
+ "details": {
+  "propertyType": "Maisonette",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Located on the outskirts of Ipswich town centre is this one bedroom first floor maisonette. The property has electric heating, double glazing and parking.\n\n\r\rAlong with being in close proximity to Ipswich town centre and Ipswich mainline railway station the property offers good access to the A12/A14.\n\nThe property is accessed via a private entrance which has stairs to the first floor.\n\nThe sitting/dining room has three windows to the front and a hallway to the rear providing access to all further rooms.\n\nThe kitchen has a window to the rear and has a range of base and eye-level units, work surfaces, space for appliances including a washing machine and fridge/freezer. There is a built-in oven with electric hob and extractor.\n\nThe bathroom comprises a bath with shower over, basin and WC.\n\nThe bedroom has a Juliet balcony to the rear and a storage cupboard.\n\nOutside\nThe front of the property is accessed via a private entrance with a low level brick wall and there is parking to the rear of the property. \n\n\r\r\r\n\nDirections\n\nPlease use a Sat Nav with the postcode IP1 2EG.\r\n\nImportant Information\n\nCouncil tax band – A\nServices – Mains water, drainage and electricity are connected\nTenure – Leasehold\nEPC rating - D\n\nLease information\nLength of lease – 88 years remaining on the lease\nService charge – £1,571.90 per annum\nGround rent – £150 per annum\nSubject to confirmation from the management company and these charges are for the current year and maybe subject to change.",
+ "keyFeatures": [
+  "First floor maisonette",
+  "Double glazing",
+  "Electric heating",
+  "Parking",
+  "Town centre location",
+  "Good access to A12/A14 and Mainline railway station",
+  "Suitable for first time buyers or investors"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/ac738729e/92490330/ac738729e50e918e576e9b0b376f4ea4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d170db260/92490330/d170db260edd69edc05d5daba4fa0efd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/64137b5f2/92490330/64137b5f2baf53dd0f1ad26524bcab98.jpeg",
+  "https://media.rightmove.co.uk/property-photo/65f2c7e19/92490330/65f2c7e198322e34918edfe41b50cc37.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6a2577cb0/92490330/6a2577cb01819c99f53058adecb6f47c.jpeg"
+ ],
+ "imageCount": 5,
+ "nearestStations": [
+  {
+   "name": "Ipswich Station",
+   "miles": 0.4694992506978443,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Derby Road Station",
+   "miles": 1.9418747823064908,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Westerfield Station",
+   "miles": 2.050964971296991,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Fenn Wright, Ipswich",
+ "city": "Ipswich",
+ "sourceOutcode": "IP1",
+ "scrapedAt": "2026-08-31T14:56:44.907Z"
+}

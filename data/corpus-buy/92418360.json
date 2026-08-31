@@ -1,0 +1,93 @@
+{
+ "id": "92418360",
+ "mode": "buy",
+ "displayAddress": "Vincent Street, Northwood, ST1 6PW",
+ "outcode": "ST1",
+ "incode": "6PW",
+ "latitude": 53.030585,
+ "longitude": -2.161354,
+ "priceAmount": 160000,
+ "priceLabel": "£160,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92418360",
+ "area": "Northwood",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Detached",
+ "details": {
+  "propertyType": "Detached",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 26/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This impressive three-bedroom detached home offers spacious and versatile accommodation arranged over three floors, making it an ideal choice for families or buyers looking for a property with plenty of living space.\n\nUpon entering, the ground floor comprises a modern kitchen positioned to the front of the property, while to the rear is a generous living room featuring French doors opening directly onto the rear garden. The garden is arranged over two levels, with a paved area closest to the property providing an ideal space for outdoor seating and entertaining, leading down to a further lawned area.\n\nTo the first floor, there are two well-proportioned bedrooms, including a large bedroom positioned to the rear, together with a family shower room.\n\nThe second floor is dedicated to a further double bedroom, which benefits from its own en-suite facilities and a built-in storage cupboard, providing a private and practical space away from the main living accommodation.\n\nSituated in Stoke-on-Trent, the property is conveniently placed for a range of local amenities, with shops, supermarkets and everyday facilities within easy reach. Hanley town centre and Festival Park provide a wider selection of retail, leisure, dining and entertainment options, while excellent transport links offer access across Stoke-on-Trent and the surrounding areas.\n\nThe property is also well placed for a selection of local schools, including Waterside Primary School, Hanley St Luke's Church of England Academy, St Mark's CofE Primary School, Forest Park Primary School and Co-op Academy Grove, with further primary and secondary education available nearby. School catchment areas and admissions should be checked directly with the relevant authority.",
+ "keyFeatures": [
+  "Three-bedroom detached home",
+  "Accommodation arranged over three floors",
+  "Spacious rear living room",
+  "French doors opening onto the garden",
+  "Two-level rear garden with paved and lawned areas",
+  "Two bedrooms to the first floor",
+  "Family shower room",
+  "En-suite to second-floor bedroom",
+  "Convenient location for local amenities, schools and transport links"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/3d94d9c8d/92418360/3d94d9c8d46bd1bae459e783ed22a229.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c2f686545/92418360/c2f6865456197bee424a149e70273728.jpeg",
+  "https://media.rightmove.co.uk/property-photo/657f5b3ac/92418360/657f5b3ac4dba06cb8b66fcdff7abc3e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1399aba41/92418360/1399aba4132e85fa83169ca89bc1abef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d941656dc/92418360/d941656dcb9116c0f7079fed36ac60e9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/98dc7fe0a/92418360/98dc7fe0ae6abfae811ac5a7b7c831ad.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fe5f77e8e/92418360/fe5f77e8ee96cbc9de3653495d654f46.jpeg",
+  "https://media.rightmove.co.uk/property-photo/42331f836/92418360/42331f8368b628f5a6e23331029ace44.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f3d836234/92418360/f3d836234ca6e969d874f21f1e61530e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3e619bdfa/92418360/3e619bdfa1d192def8a574727bce9c71.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bbe007f66/92418360/bbe007f665ac6178ae224652309140df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/403e930a9/92418360/403e930a93557d392fc66919a83fe291.jpeg",
+  "https://media.rightmove.co.uk/property-photo/670911037/92418360/670911037ebd3856488f9d610f85e76a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/edb39119d/92418360/edb39119d274fb52b75ee58d0a2cce70.jpeg",
+  "https://media.rightmove.co.uk/property-photo/58278c984/92418360/58278c9849c82f8d08d0f2d8a1445739.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0808692ff/92418360/0808692fff896eff575366f56cbe5cf7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b29f25317/92418360/b29f25317d79d79a1b69633d0e9f4283.jpeg",
+  "https://media.rightmove.co.uk/property-photo/554c999bb/92418360/554c999bb78cae55fa189bb39c2addef.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "Stoke-on-Trent Station",
+   "miles": 1.7633092622060078,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Longport Station",
+   "miles": 2.412974472488642,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Longton Station",
+   "miles": 3.0057838427358305,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Butters John Bee, Hanley",
+ "city": "Stoke-on-Trent",
+ "sourceOutcode": "ST1",
+ "scrapedAt": "2026-08-31T16:52:37.865Z"
+}

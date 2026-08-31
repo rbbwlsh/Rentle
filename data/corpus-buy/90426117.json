@@ -1,0 +1,79 @@
+{
+ "id": "90426117",
+ "mode": "buy",
+ "displayAddress": "Pease Court, High Street, Hull, North Humberside, HU1",
+ "outcode": "HU1",
+ "incode": "1NG",
+ "latitude": 53.744789,
+ "longitude": -0.328769,
+ "priceAmount": 59950,
+ "priceLabel": "£59,950",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90426117",
+ "area": "Hull, North Humberside",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 0,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers in Region of",
+  "listingUpdate": "Reduced on 05/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Tenant in Situ | Approx. 10.5% Gross Yield | Grade II Listed Waterfront Apartment\nPease Court, High Street, Hull, HU1\nAn outstanding opportunity to acquire a fully let investment property within one of Hulls most distinctive Grade II Listed waterfront developments.\n\nFor August only, this superb investment is available at the special price of £59,950.\n\nSituated within the highly sought-after Pease Court, a beautifully converted 18th Century warehouse overlooking the River Hull, this well-presented apartment is sold with a tenant in situ, currently generating £525 PCM (£6,300 per annum), providing an attractive gross rental yield of approximately 10.5% based on the promotional asking price.\n\nOffering approximately 24m² (258 sq ft) of well-designed accommodation, the apartment features a bright open-plan living space with characterful exposed beams, a modern fitted kitchen and a contemporary shower room. The development also benefits from beautifully maintained communal gardens, creating a peaceful setting in the heart of Hulls historic Old Town.\n\nWith a share of the freehold, approximately 987 years remaining on the lease, no ground rent, and an established tenant already in place, this property offers investors immediate rental income from completion.\n\nKey Features\n  August Special Offer – Reduced to £59,950 (Limited Time Only)\n\n  Tenant in Situ – Immediate Rental Income\n\n  Current Rent: £525 PCM (£6,300 per annum)\n\n  Approximate Gross Yield: 10.5%\n\n  Grade II Listed 18th Century Warehouse Conversion\n\n  Share of the Freehold\n\n  Approximately 987-Year Lease\n\n  No Ground Rent\n\n  River Views\n\n  Beautifully Maintained Communal Gardens\n\n  Modern Kitchen & Shower Room\n\n  Service Charge: £1,172.64 per annum\n\n  Resident Parking Permits Available (currently £20 per annum, with visitor permits available, subject to the relevant parking scheme)\n\n  EPC Rating: C\n\n  Council Tax Band: A\n\nLocation\nPerfectly positioned on Hulls historic High Street, Pease Court enjoys a prime waterfront setting just a short stroll from the vibrant Fruit Market, Hull Marina, Humber Street and the Museums Quarter. The area offers an excellent selection of independent cafés, restaurants, galleries and bars, while Hull Paragon Interchange, St Stephens Shopping Centre and Hull city centre are all within easy walking distance.\n\nThis sought-after location continues to attract strong rental demand, making it an excellent choice for investors seeking a low-maintenance city centre investment.\n\nInvestment Opportunity\nWhether youre an experienced landlord looking to expand your portfolio or purchasing your first buy-to-let property, this ready-made investment offers immediate rental income, excellent lease terms and an enviable waterfront location.\n\nWith the August Special Offer available for a limited time only, early viewing is highly recommended. Contact HPC today to arrange your viewing or request further information.",
+ "keyFeatures": [
+  "River view",
+  "Communal Garden",
+  "Chain Free",
+  "Must be viewed",
+  "Investment opportunity",
+  "City Centre location"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/66c7158a4/90426117/66c7158a480465e8e2477a8c092a24c3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb3bcb2db/90426117/bb3bcb2db09d41a3efa12b506736b249.jpeg",
+  "https://media.rightmove.co.uk/property-photo/20a2978da/90426117/20a2978daeb6356c98d6c1e7e92f6963.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4a7876ee8/90426117/4a7876ee86ab25aa14b31f3459c62386.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f27518c60/90426117/f27518c602f5a2ecbd8e3a9e97b21b73.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e0505dac3/90426117/e0505dac34b4cf254c381aafa9ebd00d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f0f1ad7bc/90426117/f0f1ad7bc740d84d63588b9b8bbad4c6.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Hull Station",
+   "miles": 0.7131924088057503,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "New Holland Station",
+   "miles": 3.2313288607643864,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cottingham Station",
+   "miles": 4.038110992209103,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "HPC, Hull",
+ "city": "Hull",
+ "sourceOutcode": "HU1",
+ "scrapedAt": "2026-08-31T14:47:45.696Z"
+}

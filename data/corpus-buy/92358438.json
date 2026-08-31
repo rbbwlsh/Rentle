@@ -1,0 +1,93 @@
+{
+ "id": "92358438",
+ "mode": "buy",
+ "displayAddress": "St. Pauls Road, Little Chester",
+ "outcode": "DE1",
+ "incode": "3RS",
+ "latitude": 52.930258,
+ "longitude": -1.473459,
+ "priceAmount": 270000,
+ "priceLabel": "£270,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92358438",
+ "area": "Little Chester",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Added on 25/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Located in the beautiful area of Little Chester, directly over-looking pleasant parkland and green space, this three-bedroom period property offers a generous lounge with feature period style fireplace, separate dining room opening through to a modern and stylish fitted kitchen, three well-proportioned bedrooms, separate additional study/potential bedroom four and a modern fitted shower room. With a neat, enclosed garden space and gated access to the rear offering the potential for off road parking, it must be viewed.\r\n\r\nBenefitting from double glazing to the rear and feature sash windows to the front elevation, along with gas central heating, the accommodation in brief comprises: Spacious lounge with feature wood flooring, central period style fireplace and views over the beautiful parkland; inner hall with door giving access to a useful under stairs store cupboard; spacious separate dining room with feature wood flooring and revealed brick fireplace; modern and well-appointed fitted kitchen with tile flooring, feature lighting and integrated appliances; first floor landing; double first floor bedroom with views over the beautiful parking land; additional study/potential bedroom four with feature cast iron fireplace; modern and well-appointed fitted bathroom; second floor landing and two well-proportioned second floor bedrooms.\r\n\r\nTo the rear of the property is a neat, enclosed garden space with brick store and additional brick-built cloakroom with W.C. To the rear of the garden space are double gates opening to the rear and providing vehicular access.\r\n\r\nSt. Pauls Road is conveniently situated close to local shops, well-regarded schools, public transport routes and amenities. The property also benefits from excellent road links into Derby City Centre and out towards the A38, A52 and A61 road networks. \r\n\r\nChester Green became a conservation area in 1991 in recognition of its historic character and townscape value. Once the site of a Roman town, it has rich heritage, from Roman, through the Victorian age, to recent times.",
+ "keyFeatures": [
+  "Spacious Three/Four Bedroom Period Home",
+  "Full of Charm &amp; Character",
+  "Over Looking Beautiful Parkland &amp; Picturesque Church",
+  "Freehold &amp; Standard Construction",
+  "EPC Rating C",
+  "Council Tax Band C",
+  "Rear Parking",
+  "Lounge, Dining Room &amp; Modern Stylish Kitchen",
+  "Modern Fitted Shower Room",
+  "Enclosed Garden Space With Store &amp; W.C"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/677440ef8/92358438/677440ef8adfe3808d82062a4b92f3f1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/01db0b539/92358438/01db0b539ba80623c13e15db9acaa8a9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cf0b21dbb/92358438/cf0b21dbb4bdaa951d48431bbc652ea2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/da3846eca/92358438/da3846ecaa1dd306f523304494e9ea03.jpeg",
+  "https://media.rightmove.co.uk/property-photo/31ebab223/92358438/31ebab223a178e9055595a3eba850a39.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8dc617ba8/92358438/8dc617ba8bb2fde66a7c9020f09fd5ed.jpeg",
+  "https://media.rightmove.co.uk/property-photo/261f4770c/92358438/261f4770ca652e65e1e9bcc8c0ff9175.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c71fbc410/92358438/c71fbc410caf83147bdce02061980c98.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c1979373a/92358438/c1979373a21d0fc5b573f9a304669343.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa1411999/92358438/aa14119993440e632baaf02a4db64d6b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6fb80e4d9/92358438/6fb80e4d925ca3c9fc745ca1cfa73a6b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ea831e611/92358438/ea831e611775b11b14b6a7a3f7a2fd23.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ed67251c1/92358438/ed67251c1c176e5987540ce6ca3e7a93.jpeg",
+  "https://media.rightmove.co.uk/property-photo/29e34bae9/92358438/29e34bae938f178314676e0eced6ba76.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2d0c21f49/92358438/2d0c21f49f82e65a1bddae132cd4d0b2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8c9859211/92358438/8c9859211955984ea62203059070e20b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0411f5d1e/92358438/0411f5d1efc572d474b1ff1cef1e9b1c.jpeg"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "Derby Station",
+   "miles": 1.0677503375027753,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Peartree Station",
+   "miles": 2.2345883441575003,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Spondon Station",
+   "miles": 2.9176549251889594,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Hannells Estate Agents, Allestree",
+ "city": "Derby",
+ "sourceOutcode": "DE1",
+ "scrapedAt": "2026-08-31T16:53:02.401Z"
+}

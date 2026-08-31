@@ -1,0 +1,76 @@
+{
+ "id": "92181954",
+ "mode": "buy",
+ "displayAddress": "Meadenvale, Peterborough, Cambridgeshire, PE1",
+ "outcode": "PE1",
+ "incode": "5PN",
+ "latitude": 52.58872,
+ "longitude": -0.20722,
+ "priceAmount": 140000,
+ "priceLabel": "£140,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92181954",
+ "area": "Peterborough, Cambridgeshire",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Semi-Detached",
+ "details": {
+  "propertyType": "Semi-Detached",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "TBC",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 27/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "An attractive one-bedroom semi-detached house situated in a popular residential area of Peterborough. Offering modern and versatile living accommodation, this well-planned home is an ideal choice for a first-time buyer, professional, couple or investor. \n\nAdditional features include gas central heating and a gas-fired hot water system, providing comfort and efficiency year-round.\n\nThe property features a bright and welcoming open-plan living space, creating a sociable and contemporary environment with plenty of flexibility for both relaxing and entertaining. The accommodation also includes a well-appointed kitchen area, a comfortable double bedroom and a modern bathroom.\n\nTo the rear, the property benefits from a private rear garden, providing a pleasant outdoor space for enjoying the warmer months, gardening or entertaining guests.\nFurther benefits include an allocated parking space, adding valuable convenience for residents and visitors.\n\nLocated in Meadenvale, the property is well positioned for access to local amenities, shops, schools and transport links, with Peterborough city centre and its extensive range of shopping, leisure and dining facilities within easy reach.\n\nPlease note: An Anti-Money Laundering (AML) fee is payable by the purchaser upon acceptance of an offer to cover the cost of the required identity and AML checks. Once these checks have been completed, the fee is non-refundable, regardless of whether the purchase subsequently proceeds.",
+ "keyFeatures": [
+  "One-bedroom semi-detached house",
+  "Open-plan living accommodation",
+  "Modern and versatile layout",
+  "Private rear garden",
+  "Allocated parking space",
+  "Ideal first-time purchase or investment",
+  "Popular residential location",
+  "Convenient access to local amenities and transport links",
+  "Gas Central Heating"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c11f9868f/92181954/c11f9868f978f321bbf78b0f12359724.jpeg",
+  "https://media.rightmove.co.uk/property-photo/05da1de72/92181954/05da1de728be696ccfa9dc2ca32dee82.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c85faa0ce/92181954/c85faa0ce724d1e0d3bd52436b993eda.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aec74fe1c/92181954/aec74fe1c754debb57843bf005c90d5e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b5154c056/92181954/b5154c056162a9b548e88f7ee4477552.jpeg",
+  "https://media.rightmove.co.uk/property-photo/397d4446a/92181954/397d4446a24b2411ba23223746a2201c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/927ba8d04/92181954/927ba8d04a7efe95ed99379c268768e5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ed75ebbde/92181954/ed75ebbde8ac1109a65fe69fe7d2c647.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Peterborough Station",
+   "miles": 2.0540365918464043,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Whittlesea Station",
+   "miles": 4.610085018430361,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Bairstow Eves, Peterborough",
+ "city": "Peterborough",
+ "sourceOutcode": "PE1",
+ "scrapedAt": "2026-08-31T14:56:49.752Z"
+}

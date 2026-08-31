@@ -1,0 +1,88 @@
+{
+ "id": "92522886",
+ "mode": "buy",
+ "displayAddress": "Tyssen Street, London, E8",
+ "outcode": "E8",
+ "incode": "2FE",
+ "latitude": 51.547131,
+ "longitude": -0.071901,
+ "priceAmount": 600000,
+ "priceLabel": "£600,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92522886",
+ "area": "London",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 851,
+  "sizeSqM": 79,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 108,
+  "annualGroundRent": 300,
+  "annualServiceCharge": 5300,
+  "councilTaxBand": "D",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": 851,
+ "sizeSqM": 79,
+ "description": "An extremely spacious two bedroom apartment arranged over approx. 851sqft.\n\n\rDescription\n\nThis exceptionally spacious two-bedroom apartment, extending to approximately 851 sq ft, has been thoughtfully designed to provide wheelchair-accessible accommodation throughout, offering a rare combination of generous living space and practical, inclusive design. Situated on the fourth floor of this modern development, the apartment has been configured to allow ease of movement and comfortable day-to-day living, while the well-proportioned layout provides versatility for a wide range of buyers.\n\nThe apartment centres around an impressive open-plan kitchen and reception room, with the reception area measuring over 21 ft in length. The space benefits from a fitted kitchen and direct access to a private balcony, creating a seamless connection between indoor and outdoor living.\n\nBoth bedrooms are well proportioned and benefit from built-in storage and their own en-suite bathrooms, providing convenience, privacy and flexibility for occupants and guests.\n\nThe property is further enhanced by access to a shared communal roof terrace and outdoor space, both accessed via the building's shared entrances. These offer city views and space to relax, socialise or entertain.\n\nCombining wheelchair accessibility, a practical layout, private outdoor space, excellent storage and two en-suite bedrooms, this is a rare opportunity to acquire a sizeable two-bedroom apartment within a modern development.\n\nLocation\n\nTyssen Street is ideally positioned within the heart of Dalston, an area renowned for its vibrant mix of independent restaurants, cafés, bars and cultural venues. Dalston Junction and Dalston Kingsland Overground stations are both approximately 0.2 miles away, providing connections across East London and beyond, while Hackney Downs station is approximately 0.5 miles away.\n\nThe immediate neighbourhood offers an excellent choice of places to eat and drink, with Angelina, Little Duck The Picklery  and Allpress all located on Dalston Lane, less than 0.1 miles away. The area is also home to the much-loved Dusty Knuckle Bakery on Abbot Street, approximately 0.3 miles away, known for its freshly baked bread, pastries and sandwiches.\n\nFor green space, London Fields is approximately 0.6 miles away, with its extensive parkland, tennis courts, lido and the ever popular Broadway Market. \n\nWith its combination of excellent transport links, independent dining and a distinctly energetic East London atmosphere, the location is particularly well suited to those looking to enjoy the best of Dalston and the wider Hackney area.\n\nSource: Google.\n\nSquare Footage: 851 sq ft\n\rLeasehold with approximately 108 years remaining.\n\r \r\n\nAdditional Info\n\nThere is an EWS1 form with a rating of B2 for this property; further information will be provided upon enquiry.",
+ "keyFeatures": [
+  "Offered Chain Free",
+  "Approx. 851 Square Feet",
+  "Two Large Double Bedrooms",
+  "Two En-Suite Bathrooms",
+  "Private Balcony and Large Communal Roof Terrace with City Views.",
+  "EPC Rating = C"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c72097f19/92522886/c72097f19103defb990b65c0bbd29bbb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/655c39ee3/92522886/655c39ee3b1e7d1bc7592e5de3e60993.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d3d0b08c1/92522886/d3d0b08c14e5ede767ac3ced2a49db7f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d8b36da6d/92522886/d8b36da6d5c5b36f03b0cadd300c4567.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fa7d9beca/92522886/fa7d9beca284d67a3e0af33239339918.jpeg",
+  "https://media.rightmove.co.uk/property-photo/62133f680/92522886/62133f68034c0a050d28afba10b0c424.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e3875d456/92522886/e3875d456a248b56636b60e991a4e284.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4b70b3dfe/92522886/4b70b3dfe493b427e233d0d29a85d04a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ec941bfb8/92522886/ec941bfb836cbc7be1b03622347cc458.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9acdd2fad/92522886/9acdd2fad05f497681d7e1f3bc1a6607.jpeg",
+  "https://media.rightmove.co.uk/property-photo/85c1069db/92522886/85c1069dbcb5882804ad1c33523dc46a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/acd5ad208/92522886/acd5ad20831a9562a3b9b77f9c91fa43.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d2d73790d/92522886/d2d73790d174cd4e9d6542e22a444e65.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7f5a8bfdb/92522886/7f5a8bfdb1347eb34d7b2820073b5f5d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/572966298/92522886/572966298f01716e11d522720653fdde.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4c04a0b73/92522886/4c04a0b73e0db2a3932463c58be60e91.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Dalston Junction Station",
+   "miles": 0.1615858998884044,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Dalston Kingsland Station",
+   "miles": 0.20340339789236025,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Hackney Downs Station",
+   "miles": 0.5113201119539799,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Savills, Hackney",
+ "city": "London",
+ "sourceOutcode": "E8",
+ "scrapedAt": "2026-08-31T16:58:59.574Z"
+}

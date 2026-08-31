@@ -1,0 +1,81 @@
+{
+ "id": "87902871",
+ "mode": "buy",
+ "displayAddress": "Scoresby Street, Bradford, West Yorkshire, BD1",
+ "outcode": "BD1",
+ "incode": "5EN",
+ "latitude": 53.794676,
+ "longitude": -1.744322,
+ "priceAmount": 50000,
+ "priceLabel": "£50,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/87902871",
+ "area": "Bradford, West Yorkshire",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 75,
+  "annualGroundRent": 200,
+  "annualServiceCharge": 3244.8,
+  "councilTaxBand": "TBC",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 03/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A two bedroom fifth floor penthouse apartment of character offering stylish, well planned accommodation with many attractive features throughout. Sold with tenant in situ.\n\n\rSpacious penthouse apartment with two double bedrooms and stunning views in the sought after area of Little Germany.\n\nThe flat is located in Acton House in Little Germany and is on the top floor. It benefits from a wraparound balcony which runs the full length of the flat and has access from the lounge and bedroom.\n\nThe flat is in an excellent location and is just a short walk to the City Centre.",
+ "keyFeatures": [
+  "Spacious Penthouse Flat",
+  "Balcony with Stunning Views",
+  "Excellent Location for City Centre",
+  "Two Double Bedrooms",
+  "Council Tax Band: A",
+  "EPC Rating: C"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/0b7615612/87902871/0b7615612c06468fccbefe4e6af00489.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8b594f2ac/87902871/8b594f2ac5baa31995858a8911061034.jpeg",
+  "https://media.rightmove.co.uk/property-photo/226583002/87902871/22658300240b946744bdc266e45a201b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/26ce220a6/87902871/26ce220a6692612eb9ff83fdcf5d2484.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0ee4aaa60/87902871/0ee4aaa60fd8a9480ceac2c149ece94b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/45dc2b7cf/87902871/45dc2b7cf2508356deeb378e83d73510.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ebef59653/87902871/ebef59653de40c1798b5fd9482fe4c73.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c02ae2c9d/87902871/c02ae2c9dd69503db8351dc6f59f4e8e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/204b84041/87902871/204b840412342b9f34dcf995e3ddd3a0.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Bradford Interchange Station",
+   "miles": 0.3478411576367665,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bradford Forster Square Station",
+   "miles": 0.3919581040605631,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Frizinghall Station",
+   "miles": 2.012145628103066,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Whitegates, Bradford",
+ "city": "Bradford",
+ "sourceOutcode": "BD1",
+ "scrapedAt": "2026-08-31T14:59:34.987Z"
+}

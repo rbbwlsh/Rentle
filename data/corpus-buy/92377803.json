@@ -1,0 +1,90 @@
+{
+ "id": "92377803",
+ "mode": "buy",
+ "displayAddress": "Abingdon Road, Oxford, Oxfordshire",
+ "outcode": "OX1",
+ "incode": "4TJ",
+ "latitude": 51.734052,
+ "longitude": -1.249716,
+ "priceAmount": 385000,
+ "priceLabel": "£385,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92377803",
+ "area": "Oxford, Oxfordshire",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 1044,
+  "sizeSqM": 97,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 113,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "D",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 25/08/2026"
+ },
+ "sizeSqFt": 1044,
+ "sizeSqM": 97,
+ "description": "Stylish First Floor Apartment in a Prime Oxford Location\n\nThis exceptional first floor apartment offers over 1,000 sq ft (97 sq m) of beautifully designed living space, blending contemporary New York loft-style aesthetics with refined European elegance, all within easy reach of Oxford city centre.\n\nFinished to an impressive specification throughout, the property features high quality fittings, a sophisticated open-plan layout, and a generous private covered balcony. Subject to the necessary consents, the balcony presents an exciting opportunity to be enclosed, potentially increasing the internal living space.\n\nAt the heart of the home is a striking open-plan kitchen/reception room extending to almost 400 sq ft (37 sq m). This versatile space is ideal for both everyday living and entertaining, with double doors opening directly onto the balcony, creating a seamless indoor-outdoor feel.\n\nThe apartment features two spacious double bedrooms, both with fitted wardrobes. The principal bedroom benefits from a sleek en suite shower room, complemented by a well appointed separate family bathroom.\n\nExternally, residents enjoy access to a gated communal garden located at the rear of the building, along with the rare advantage of two allocated off street parking spaces.\n\nPerfectly positioned for convenient access into Oxford, the property also offers excellent connectivity via the ring road to the Oxford Science and Business Parks. A wide range of local amenities are within easy reach, including a Tesco Express, as well as an array of pubs and restaurants. The ever-popular Hinksey Park, with its outdoor swimming pool and tennis courts, is also nearby, along with the Redbridge Park & Ride, providing convenient transport links into the city and beyond. The property is also within close proximity to beautiful riverside walks, offering a peaceful setting for outdoor leisure.\n\nPlease contact the office for further information or to arrange a viewing.",
+ "keyFeatures": [
+  "High Specification Interiors",
+  "Two Double Bedrooms",
+  "Fashionable Open Plan Living",
+  "Two Allocated Parking Spaces",
+  "Large Private Balcony",
+  "Communal Garden",
+  "EPC Rating C | Council Tax Band D",
+  "Service Charge £312 PCM | Ground rent £200 PA | 114 Lease Years Remaining"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/cf5437976/92377803/cf54379765da326a11fa92962baebbd2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6bb7911f7/92377803/6bb7911f7acbeaaec729940d84afeff2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fb889d762/92377803/fb889d762c6885c73a7da00a25b29c69.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7c902f2fc/92377803/7c902f2fcd24264296ba84e296443b64.jpeg",
+  "https://media.rightmove.co.uk/property-photo/441d1ba41/92377803/441d1ba410f6f0c18b6faa3a099b685f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/678095525/92377803/678095525e36cc69cf02fe88ca8b6a3b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bc94f36ff/92377803/bc94f36ff98260852deb10937b6a44ed.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9a2da817f/92377803/9a2da817fe8214813a9f5a01d5d49c51.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b9a2f6606/92377803/b9a2f6606ec9ce4060b0fa697f12ee72.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3f369ea3a/92377803/3f369ea3a39a8e22be85bc98c5708ca7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/38942d5aa/92377803/38942d5aa3a5839d8310808fa510a6d2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/07aed4cf7/92377803/07aed4cf7f89a56bd28c8a60bb206ae8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f39fc13a0/92377803/f39fc13a00ec6f98e3d21628d335becd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ec0fe2653/92377803/ec0fe265355c4a63f05f69090d00ef38.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6dc27c278/92377803/6dc27c278fa727f7df9f39b1c905ff75.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cbef9cefb/92377803/cbef9cefbda71f41fa2e727d9959eb66.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Oxford Station",
+   "miles": 1.6057358284447527,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Radley Station",
+   "miles": 3.35179126774694,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Oxford Parkway Station",
+   "miles": 4.961297787894765,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Scottfraser, East Oxford",
+ "city": "Oxford",
+ "sourceOutcode": "OX1",
+ "scrapedAt": "2026-08-31T15:02:39.144Z"
+}

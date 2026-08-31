@@ -18,6 +18,12 @@ export function formatGbp(amount) {
   return gbp.format(Math.round(amount));
 }
 
+// The headline price in whichever mode is being played: "£2,250 pcm" for a
+// rent, "£425,000" for an asking price.
+export function formatPrice(amount, mode) {
+  return mode?.unit ? `${formatGbp(amount)} ${mode.unit}` : formatGbp(amount);
+}
+
 // e.g. 0.12 -> "0.1 mi away", 0.25 -> "0.25 mi away"
 export function formatDistance(miles) {
   if (miles == null || Number.isNaN(miles)) return '';

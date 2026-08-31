@@ -1,0 +1,81 @@
+{
+ "id": "89254965",
+ "mode": "buy",
+ "displayAddress": "Rillaton Walk, Milton Keynes, MK9",
+ "outcode": "MK9",
+ "incode": "2BX",
+ "latitude": 52.037486,
+ "longitude": -0.762833,
+ "priceAmount": 140000,
+ "priceLabel": "£140,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89254965",
+ "area": "Milton Keynes",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": 344,
+  "sizeSqM": 32,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 107,
+  "annualGroundRent": 125,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 03/06/2026"
+ },
+ "sizeSqFt": 344,
+ "sizeSqM": 32,
+ "description": "A modern studio apartment located on the 2nd floor of the sought-after Hub development in Central Milton Keynes.\n\nOffered with tenant in situ, this well-presented property enjoys direct views over the vibrant Hub piazza with its mix of restaurants, cafés and bars, and is just a short walk to Milton Keynes Central Station.\n\nThe accommodation comprises:\n\nEntrance hallway with utility/storage cupboard\n\nBright open-plan lounge/bedroom/kitchen area with floor-to-ceiling windows overlooking the plaza\n\nModern fitted kitchen with integrated appliances\n\nContemporary bathroom suite\n\nThis property represents an excellent investment opportunity, ideally positioned for city living with outstanding transport connections and doorstep amenities.",
+ "keyFeatures": [
+  "Second Floor Studio Apartment",
+  "Tenant in Situ",
+  "Intercom Entry System",
+  "Views Over The Hub Plaza",
+  "Utility Cupboard",
+  "Open Plan Lounge/Bedroom/Kitchen Area",
+  "Underground Parking"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/fce0a5be4/89254965/fce0a5be47c0305655612bfa21e3d82d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/15c826af0/89254965/15c826af07883ca6b304cd3f3fde77df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f13164597/89254965/f13164597dcc4a3cdb6368efa2183981.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fa9c02681/89254965/fa9c0268146a383716e2386ffd22ebc0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ed8174b8/89254965/8ed8174b88708649a5d50151f4c45ad6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c0ce6ca94/89254965/c0ce6ca949e7163de2d4c70c3ff5ad82.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d9955085a/89254965/d9955085ad52be8b8ca2944861f98aa0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2bbca7219/89254965/2bbca7219c7cef18934836e148eccf29.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Milton Keynes Central Station",
+   "miles": 0.4800773655595208,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Wolverton Station",
+   "miles": 2.59121710312818,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bletchley Station",
+   "miles": 3.155358488950728,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Taylor Walsh, Milton Keynes",
+ "city": "Milton Keynes",
+ "sourceOutcode": "MK9",
+ "scrapedAt": "2026-08-31T14:53:29.618Z"
+}

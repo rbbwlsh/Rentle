@@ -1,0 +1,82 @@
+{
+ "id": "164963606",
+ "mode": "buy",
+ "displayAddress": "Central Road, West Didsbury, M20",
+ "outcode": "M20",
+ "incode": "4YE",
+ "latitude": 53.428706,
+ "longitude": -2.238501,
+ "priceAmount": 200000,
+ "priceLabel": "£200,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/164963606",
+ "area": "West Didsbury",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 570,
+  "sizeSqM": 53,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 992,
+  "annualGroundRent": null,
+  "annualServiceCharge": 900,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 24/08/2026"
+ },
+ "sizeSqFt": 570,
+ "sizeSqM": 53,
+ "description": "An IMPRESSIVELY PROPORTIONED and WELL PRESENTED one bedroom apartment occupying a FIRST FLOOR position within this ATTRACTIVE PERIOD CONVERSION, located CENTRALLY within fashionable WEST DIDSBURY village with a wide range of shops, bars and restaurants within easy reach, along with Burton Road Metrolink station. 570 Sq.Ft\n\n\rThe accommodation reveals; an entrance hall providing access to all principal rooms. \n\nThere is a spacious living room bathed in natural light from the large bay window. There is ample space for living and dining furniture, ideal for day-today living. \nAn opening from the living room, leads through to the contemporary fitted kitchen.  \n\nAccessed from the hallway is the well-proportioned double bedroom with ample space for freestanding furniture.\n\nThe property is served by the well-appointed bathroom.  \n\nLeasehold / 999 Years From January 2020\nService Charge/ £75 pcm \nGround Rent/ Included Within The Service Charge  \nCouncil Tax Band: A\nApprox. 570 Sq Ft",
+ "keyFeatures": [
+  "One Bedroom Apartment",
+  "Period Conversion",
+  "First Floor Approx. 570 Sq.Ft",
+  "Central West Didsbury Location",
+  "Well-Proportioned Throughout",
+  "Short Stroll To Trendy Burton Road",
+  "Well-Presentedd Throughout"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/dad010d71/164963606/dad010d716ff8db00cc8b3c8e3ea6812.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2b249efe3/164963606/2b249efe3c8ef932c578e633e2baa3e1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f352d028a/164963606/f352d028af8ee8522562718d19c81d57.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d824814e5/164963606/d824814e55e25e455d06d68e3e8fa6cd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa6f25737/164963606/aa6f2573718982c92fd9cdd46a047904.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0227a9a86/164963606/0227a9a86581827fe9fe4ec29f1e0681.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cd39d8c0e/164963606/cd39d8c0e5cdf207d06e7e475740efeb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2e47f2f3b/164963606/2e47f2f3b619ca82fc6cad6f66a10efd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5d4b77a6e/164963606/5d4b77a6ea70fee45f1df1b3ac53eab7.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Burton Road Tram Stop",
+   "miles": 0.09215240760578355,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 0.30186455348418106,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Withington Tram Stop",
+   "miles": 0.5219283001304251,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Philip James Kennedy, Didsbury",
+ "city": "Manchester",
+ "sourceOutcode": "M20",
+ "scrapedAt": "2026-08-31T14:44:34.501Z"
+}

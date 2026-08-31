@@ -1,0 +1,85 @@
+{
+ "id": "90923739",
+ "mode": "buy",
+ "displayAddress": "Church Street News, Church Street, Preston,",
+ "outcode": "PR1",
+ "incode": "3BT",
+ "latitude": 53.758956,
+ "longitude": -2.695585,
+ "priceAmount": 525000,
+ "priceLabel": "£525,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90923739",
+ "area": "Preston",
+ "bedrooms": 0,
+ "bathrooms": null,
+ "propertySubType": "House",
+ "details": {
+  "propertyType": "House",
+  "bedrooms": 0,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 19/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Guildhall Sales and Lettings are excited to welcome Church Street News to the market. Located in the heart of Preston! \n\nThis property is not just a building; it's a fantastic development opportunity waiting for the right buyer. Situated in a prime city centre location, this property offers the best of both worlds - a mix of residential and commercial space.\n\nThis property comes with planning permission for 15 apartments, each with en-suites. Imagine the potential this holds, especially for those looking to invest in student housing. With an estimated monthly income of £9,000, this property is not only a smart investment but also a lucrative one.\n\nThis opportunity has the added benefit of having a fully operating shop maximising the monthly  income. \n\nWhether you're looking to expand your property portfolio or start a new venture, this property on Church Street is a gem waiting to be discovered. Don't miss out on this incredible opportunity to own a piece of prime property in Preston. \n\nFor further information or to arrange a viewing, please call the team on  .",
+ "keyFeatures": [
+  "Fantastic Development Opportunity",
+  "Planning Permission for 15 Apartments, Each with En-suites.",
+  "Estimated Monthly Income of £9,000",
+  "Perfect for Student Accommodation",
+  "Fully Operating Shop",
+  "Mix of Residential and Commercial Space.",
+  "Prime City Centre Location"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/2342958db/90923739/2342958db3103f62e68a55969b7f665e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9efc76f5a/90923739/9efc76f5a74aa414e84b9185dc301610.jpeg",
+  "https://media.rightmove.co.uk/property-photo/92f12e478/90923739/92f12e4786e4de9aeeaf0b382967fd70.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4f1115cd2/90923739/4f1115cd29176187df1377dcf70d227f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/872c3cc8e/90923739/872c3cc8eaebfee49b160d3cc9e5d904.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9a2a2dad6/90923739/9a2a2dad6b46e2bc6b302a69156fbedd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7df487d2e/90923739/7df487d2e6d62588fb965adaf2672eb7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b8b2108a8/90923739/b8b2108a85f8e9d3a0a41d007df047ee.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4c004af22/90923739/4c004af22dfbe6329b8241f155456e03.jpeg",
+  "https://media.rightmove.co.uk/property-photo/124995fb7/90923739/124995fb77d98df67137cbd2b2ca3a97.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5176c687a/90923739/5176c687ab9376b2da0c49ed4a545749.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fc644a6c5/90923739/fc644a6c5558a68e40f0f57b324ad8ba.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Preston Station",
+   "miles": 0.5237230921754119,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Lostock Hall Station",
+   "miles": 2.4477286088073242,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bamber Bridge Station",
+   "miles": 2.6274809221007698,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Guildhall Residential Sales, Preston",
+ "city": "Preston",
+ "sourceOutcode": "PR1",
+ "scrapedAt": "2026-08-31T14:48:31.900Z"
+}

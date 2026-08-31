@@ -1,0 +1,86 @@
+{
+ "id": "92515119",
+ "mode": "buy",
+ "displayAddress": "Hamilton Street, Landore, Swansea, West Glamorgan, SA1 2QJ",
+ "outcode": "SA1",
+ "incode": "2QJ",
+ "latitude": 51.642018,
+ "longitude": -3.940335,
+ "priceAmount": 99950,
+ "priceLabel": "£99,950",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92515119",
+ "area": "Swansea, West Glamorgan",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers in Region of",
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Offering immense potential for first-time buyers eager to infuse their personal style or for investors seeking a valuable addition to their portfolio. This home is available with early completion and no onward chain, facilitating a straightforward acquisition for those ready to embark on a significant refurbishment journey.\nSituated in a highly convenient location, this home provides excellent access to local amenities. Morfa Retail Park is within easy reach for shopping needs, and the Liberty Stadium is nearby for sports enthusiasts. Swansea City Centre, with its diverse array of shops, restaurants, and entertainment options, is also just a short distance away, offering a vibrant urban lifestyle. This position combines the benefits of residential living with unparalleled access to essential services and leisure activities.\nThe lounge/diner offers a functional layout and the space provides a foundation for creating a comfortable living and dining area tailored to contemporary tastes. Adjacent to this is the fitted kitchen, offering a light and airy feel with plenty of natural light. \nUpstairs, the two double bedrooms offer generous proportions. These rooms provide a solid base for creating comfortable sleeping quarters once updated. The family bathroom features a four-piece suite, including a walk-in shower and a separate bath. \nExternally, the enclosed tiered rear garden offers an outdoor space that, with attention and landscaping, could become a pleasant area for relaxation. \nEntrance Entered via an obscure uPVC double glazed door into:\nPorchWall mounted consumer unit and fuse box, door into:\nLounge/Diner 4.74 into alcoves x 6.95uPVC double glazed windows x2, radiator x2, cupboards to alcoves, stairs to understairs storage cupboard, doors to:\nKitchen 2.03 x 3.37Fitted with a range of matching wall and base units with work surface over, stainless steel sink with drainer and mixer tap, plumbing for washing machine, uPVC double glazed window x 2, part tiled walls, vinyl flooring, uPVC double glazed door.\nLanding Access to lift, radiator, doors to:\nBathroom 2.02 x 3.36Fitted with a three piece suite comprising of bath, walk in shower, wash hand basin and w.c, vinyl flooring, chrome heated towel warmer, o secure uPVC double glazed window, panelling to bath and shower.\nBedroom Teo 3.48 x 2.66uPVC double glazed window, radiator, cupboard housing gas combination boiler. \nBedroom One 4.73 into alcoves x 3.05uPVC double glazed window, radiator.\nExternal Tiered rear garden with patio areas.",
+ "keyFeatures": [
+  "A two bedroom terraced home",
+  "Close to Morfa Retail Park, Swansea City Centre Centre and the Liberty Stadium",
+  "Lounge/diner",
+  "Fitted Kitchen",
+  "Four piece bathroom suite with walk in shower and separate bath",
+  "Two double bedrooms",
+  "Enclosed tiered rear garden",
+  "Available with early completion and no onward chain",
+  "Great investment or first time buy"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/8be9d4c6b/92515119/8be9d4c6bcafb332e9243a41c017adcf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7ed1ea89f/92515119/7ed1ea89f595215a0b0dae2e5f48beae.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dc31624e5/92515119/dc31624e547a07c8e58d9ceacd80e390.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4fdfaf77c/92515119/4fdfaf77ca32b1ba755bf3c8b43d82fb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/453a62241/92515119/453a62241c9275fc3057eb0dd8124d42.jpeg",
+  "https://media.rightmove.co.uk/property-photo/247c38ec4/92515119/247c38ec410803abca74dda28cd5ee86.jpeg",
+  "https://media.rightmove.co.uk/property-photo/64220977d/92515119/64220977dcb9fcd0369e7bf074ce3652.jpeg",
+  "https://media.rightmove.co.uk/property-photo/719b5f6c1/92515119/719b5f6c1bb52546cad0566b1f060385.jpeg",
+  "https://media.rightmove.co.uk/property-photo/46c6aa161/92515119/46c6aa161a703c0fa3478de5a296b31b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/791719ad5/92515119/791719ad5c492cec4da829d824b836de.jpeg",
+  "https://media.rightmove.co.uk/property-photo/de44a41ae/92515119/de44a41ae2905562632f9d56e7be76b9.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Swansea Station",
+   "miles": 1.1604999106053302,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Llansamlet Station",
+   "miles": 2.738295356802381,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Gowerton Station",
+   "miles": 4.113128332738447,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "No. 86 Estate Agency, Swansea",
+ "city": "Swansea",
+ "sourceOutcode": "SA1",
+ "scrapedAt": "2026-08-31T15:02:59.121Z"
+}

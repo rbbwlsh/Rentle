@@ -1,0 +1,112 @@
+{
+ "id": "92231991",
+ "mode": "buy",
+ "displayAddress": "West Nile Street, Glasgow City",
+ "outcode": "G1",
+ "incode": "2QA",
+ "latitude": 55.862875,
+ "longitude": -4.254676,
+ "priceAmount": 435000,
+ "priceLabel": "£435,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92231991",
+ "area": "Glasgow City",
+ "bedrooms": 3,
+ "bathrooms": 3,
+ "propertySubType": "Penthouse",
+ "details": {
+  "propertyType": "Penthouse",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "sizeSqFt": 1141,
+  "sizeSqM": 106,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "G",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 20/08/2026"
+ },
+ "sizeSqFt": 1141,
+ "sizeSqM": 106,
+ "description": "This duplex penthouse within the Buchanan Gardens development is an ‘oasis in the city’. Extending to over 1130 sq ft, this truly fabulous three-bedroom, duplex apartment boasts two west facing balconies, its own private terrace of over 350 sq ft, and arguably the best views the building has to offer, being situated above the junction of West Nile Street and viewing west over West Regent Street towards Blythswood Hill and beyond. The property offers contemporary living, while the sky garden creates a haven of peace and tranquillity. Catering to modern day living, notable highlights include the generous main living space with 19ft balcony, high-quality finishes which include American walnut wood doors, surrounds and flooring, a luxury kitchen with engineered stonework surfaces and integrated AEG appliances, a utility cupboard, Laufen bathroom, en suite shower room and cloaks w.c. with Domus tiling, underfloor heating and an abundance of highly coveted outside space. \n\nAccessed via a secure video entry to communal lobby, the building boasts resident’s gym, private lounge, locker storage facility, multiple cycle storage and both lift and stair access to the lush and bio-diverse residents ‘sky garden’ and walkway to the property’s generous private terrace The internal accommodation comprises of a welcoming reception hallway with quality wood flooring offering access to all main apartments, a utility cupboard housing washer dryer and shelved storage, a cloaks w.c. and large understairs cupboard. Opening out to an impressive and generous living/dining room with a wall of windows showering the room with natural light incorporating patio doors leading to a west facing balcony running the full length of the living space, the kitchen is set back from the living space, it has a window overlooking the terrace and gardens and is complete with a range of base and wall mounted units with refitted doors, stone worktop and integrated appliances to include oven, hob, microwave, dishwasher and fridge freezer. Upstairs has carpeted floor coverings, principal double bedroom one has fitted wardrobes, a window facing east and overlooking the apartments private terrace and luxury en-suite shower room, bedroom two has fitted wardrobes and a balcony facing west, bedroom three is currently utilised as a nursery and has full height patio doors to Juliet style glass balcony, there is a spacious and luxurious three-piece bathroom complete with tiled floor and wall coverings and a further storage cupboard housing the gas combi boiler.\n \nBuchanan Gardens is a luxury development comprising 49 apartments completed circa 2014 to an exacting standard and offering access from both 110 West Nile Street and 7 Bath Street. The apartment is served by Hyperoptic high speed internet and it is ventilated via a fresh air system that includes a heat exchanger and filters. As the development is an eco-home project it has high level insulation for both sound and climate. \n\nParking options available are season tickets within the Concert Square or Bath Street Q-Park, both located only 0.2 miles walk from the development.\n\nSituation:\n\nOffering one of the most envied and prominent social locations in Glasgow with wealth of amenities including both general and specialist shopping on the nearby ‘Style mile’, a great selection of wine bars, highly acclaimed restaurants and is convenient for access to the Merchant City. The property is central for Strathclyde & Caledonian Universities, the Glasgow School of Art, the SEC, The Clyde Auditorium and benefits from frequent and exceptional transport links with easy access to Queen Street and Glasgow Central Train Stations, and Buchanan Street subway stations. \n\nEPC Rating: B\nCouncil Tax Band: G",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/8d41816bb/92231991/8d41816bbd292134f52a0ffa27d08792.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1ecdd7b9c/92231991/1ecdd7b9ced01a73d01eff8f6a3f018c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/916f9dcb9/92231991/916f9dcb969ef9c1a20d5b96eca15e7c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ec45efbc4/92231991/ec45efbc4dfe820c03ba4f27510ebdaa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1794f158f/92231991/1794f158ff2997484c477f1ce3a08563.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8fd5c07bb/92231991/8fd5c07bb237fb88536aa89189aa2c94.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c87e2f395/92231991/c87e2f395d39a9a6ea6c56c6ea856302.jpeg",
+  "https://media.rightmove.co.uk/property-photo/03c80052e/92231991/03c80052e34cc0ce2baa9eaf35ea691c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0dd1dfd29/92231991/0dd1dfd290525fdbb57127275bb4324b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/98ceb1816/92231991/98ceb1816d723e5ce970ca955c9e714c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/083ee6564/92231991/083ee6564157a5d40839011aa7d35811.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa6f3af72/92231991/aa6f3af72e5b4062638d5ca79ff0e52a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/67b0cd663/92231991/67b0cd6630f53d4a774a9c769840bdc5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a920c6177/92231991/a920c6177a29ec47a6fe6d8b9184c5e6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/99bc129ac/92231991/99bc129acd4b4209a948bc34004bb302.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e3b804ae0/92231991/e3b804ae0dc340dfeecc01c670cebda9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/36e9bf12f/92231991/36e9bf12f8ec17fa05b1b9417f216a8f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e7d80bde7/92231991/e7d80bde75c0b078d496955c4c7a4cef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/650361a34/92231991/650361a347e864802a81bac6d22b4d77.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c65eb4b8c/92231991/c65eb4b8c7f8be33d99965a5fe47a573.jpeg",
+  "https://media.rightmove.co.uk/property-photo/46a6e4c42/92231991/46a6e4c42302c8462e71372990b71a6b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c7401d29b/92231991/c7401d29b3228c381f8403ccd7abdd04.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7680052a4/92231991/7680052a4903562430404d9f70142b09.jpeg",
+  "https://media.rightmove.co.uk/property-photo/710b03a77/92231991/710b03a77ff2e83dbdea7b6df67fa87c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9736a9a00/92231991/9736a9a00df40b522a4b342076bbdd58.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0e091664a/92231991/0e091664ac9b917ea792e1f472e6b11f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/49b423a86/92231991/49b423a86a8b28deed667d5864f191b8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/975da001c/92231991/975da001ceaa2f601cfc93eedfe31ce8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/59b8e645d/92231991/59b8e645d1f9cd99f92907a2254b5851.jpeg",
+  "https://media.rightmove.co.uk/property-photo/33f011962/92231991/33f011962e4fc4588f6a9682931b6a6e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/131f656ff/92231991/131f656ffda6bae353fcb05d7c2b3e26.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b07903978/92231991/b079039787851d305f72b7b1c1edde8a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a933bd44f/92231991/a933bd44fd5dbf6bb172124dd9921c5f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c080a52b6/92231991/c080a52b6de02a602da6d8502daefb95.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ce29d3de6/92231991/ce29d3de69d6e796afa7095a9039cb24.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4b917ca83/92231991/4b917ca83bcd46b79b05513020718f26.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e55ddac4a/92231991/e55ddac4a9ec2a612dc6fcf5c17383f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3fc716b66/92231991/3fc716b6693d62a8309eb64b19d3b8ea.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f0a7c9cb6/92231991/f0a7c9cb6389c80cfe247870d59528e4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b2e3a0a99/92231991/b2e3a0a99b8a58f990a5814da01ddcaf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/88c87dc03/92231991/88c87dc03d5e96fea34483683025b67c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/05f433b1f/92231991/05f433b1f9ae5bad44d4584056321a77.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eb907c077/92231991/eb907c077ed928f4bd2e688312874d30.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2fef3b617/92231991/2fef3b6179c884122201305cb6337fc2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ec5d5335/92231991/8ec5d5335899a54e04fd7b33765fd555.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c2402608d/92231991/c2402608d87f47bcfb7bd40f326c6bb3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ba0ebef56/92231991/ba0ebef56fdbb32c407e3777c01f0901.jpeg"
+ ],
+ "imageCount": 47,
+ "nearestStations": [
+  {
+   "name": "Glasgow Queen Street Station",
+   "miles": 0.14124104966304482,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Buchanan Street Station",
+   "miles": 0.2947076621777579,
+   "types": [
+    "LIGHT_RAILWAY"
+   ]
+  },
+  {
+   "name": "Glasgow Central Station",
+   "miles": 0.33292988631541603,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Rettie, Glasgow City",
+ "city": "Glasgow",
+ "sourceOutcode": "G1",
+ "scrapedAt": "2026-08-31T16:57:56.151Z"
+}

@@ -1,0 +1,85 @@
+{
+ "id": "165113096",
+ "mode": "buy",
+ "displayAddress": "Silwood Place, Brighton",
+ "outcode": "BN1",
+ "incode": "2ND",
+ "latitude": 50.82362,
+ "longitude": -0.15342,
+ "priceAmount": 190000,
+ "priceLabel": "£190,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/165113096",
+ "area": "Brighton",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 958,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 0,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Whitlock & Heaps are delighted to present to market this one double bedroom flat forming part of the fourth floor of this purpose built block. Benefitting from a good size bedroom and living room with views.\n\nBus routes operate locally making public transport across the city simple. Brighton seafront is situated very close by as well as Western Road with its vast array of shopping facilities, eateries and cafés. This flat is brought to market with no onward chain.  \n\nENTRANCE HALL  Electrics, cupboard space housing stopcock, intercom, separate storage cupboard. \n\nBEDROOM  UPVC double glazed window with sea view, fitted wardrobes, radiator.  \n\nKITCHEN  Stainless steel bowl sink with mixer taps and drainer with tiled splashback, vinyl work surfaces with cupboards below with matching eye level cupboards, space for freestanding oven. \n\nLIVING ROOM  Door to westerly facing balcony, radiator.   \n\nBATHROOM  Comprising panelled bath with shower over being mostly tiled, wash hand basin, low level w.c. \n\nOUTSIDE  Westerly facing balcony. \nSecure underground parking.  \n\nOUTGOINGS  Leasehold\n958 years remaining\nService charge - £2,760 per annum\nGround rent - nil",
+ "keyFeatures": [
+  "DOUBLE BEDROOM",
+  "WESTERLY FACING BALCONY",
+  "LIFT IN BUILDING",
+  "HOT WATER AND HEATING INCLUDED",
+  "CLOSE TO AMENITIES",
+  "SECURE UNDERGROUND PARKING",
+  "MODERNISATION REQUIRED",
+  "NO ONWARD CHAIN"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/55bebfafe/165113096/55bebfafed62ecc7c3a28650dbe5c9ff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b01253511/165113096/b01253511aa68c1fb75da95404a24235.jpeg",
+  "https://media.rightmove.co.uk/property-photo/92d0fe04d/165113096/92d0fe04dcb0377f2f323f99cc3f0ca7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/016211826/165113096/0162118266215c6bea20a53a332a53a2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d75ed1a6f/165113096/d75ed1a6f900d74ed96606637ba6b3bb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/42029d486/165113096/42029d48645b415a1d335405817e0cf0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/752a91e00/165113096/752a91e002f18c847f1a42538107ea0f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0f7a4bf9b/165113096/0f7a4bf9b5c5c76023d87d1389beeace.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6f2ddb93f/165113096/6f2ddb93f1e8002bfceac72e7dcb1705.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1d59d8d2e/165113096/1d59d8d2e588a9d2c8e39efb796a8a5d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e7fbe1ab8/165113096/e7fbe1ab8d725beed47635bc06e25871.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Brighton Station",
+   "miles": 0.6430623286372573,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Hove Station",
+   "miles": 1.1079331783151172,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "London Road (Brighton) Station",
+   "miles": 1.1688853919397506,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Whitlock and Heaps, Hove",
+ "city": "Brighton",
+ "sourceOutcode": "BN1",
+ "scrapedAt": "2026-08-31T14:57:26.670Z"
+}

@@ -1,0 +1,82 @@
+{
+ "id": "90218136",
+ "mode": "buy",
+ "displayAddress": "Milnacre, Bonnington, Edinburgh, EH6",
+ "outcode": "EH6",
+ "incode": "5TD",
+ "latitude": 55.971132,
+ "longitude": -3.18902,
+ "priceAmount": 240000,
+ "priceLabel": "£240,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90218136",
+ "area": "Bonnington, Edinburgh",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "D",
+  "priceQualifier": "Fixed Price",
+  "listingUpdate": "Added on 27/06/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Situated within a peaceful development close to the Water of Leith, this is a well proportioned upper villa located in the popular area of Bonnington.  Ideally positioned for easy access into the City Centre and close to excellent amenities, the property would now benefit from some modernisation, offering the opportunity for a new owner to create a stylish home in a sought after location.  In brief the accommodation comprises; upper hall with hatch to attic, good sized sitting room/dining room, fitted kitchen with window to the front, principal double bedroom with built in mirrored wardrobes, second double bedroom with built in mirrored wardrobes, and shower room.  The property benefits from an external store cupboard and residents parking.\nPlease note that no warranty will be given for the systems and appliances – they are sold as seen.\n\nViewing by appointment contact Lindsay  \n\nEPC C\nCouncil Tax Band D",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/7f8b52d39/90218136/7f8b52d3949fc719d5c0c40f5c4f14a0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d0f2a355f/90218136/d0f2a355f488c1653a430626d1a21d2b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fd90c2303/90218136/fd90c2303beeb6cc583435729e75664c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e223add4e/90218136/e223add4e15aea83aac9907eb76e6ce0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fd29633b4/90218136/fd29633b4626b72c348b3da7a6487ca0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/056da9546/90218136/056da9546a6da431c9cfdb2994a74327.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2161c01c3/90218136/2161c01c37de2e976d7858208b696e6e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/931646ad8/90218136/931646ad89e0574fdb52d6edd3b55fc6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a778f67f6/90218136/a778f67f6671bb4e0b6f28a89aa65d96.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1b921c530/90218136/1b921c5302e6b34123f23c9d1d6de67e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1f00772a1/90218136/1f00772a1f5803f11cf98c96e53c9c1a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/adf8b634e/90218136/adf8b634e4e6c84aa3bed69972a009a5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aad21b4ce/90218136/aad21b4ce5033d4002be10be55f93176.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f54dedf3b/90218136/f54dedf3bc8077b263e37402300a24a1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/403e59b0e/90218136/403e59b0eea46f02aa512d6621bd6822.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e401a5977/90218136/e401a59775e6235cc3b020037a26decb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/51164c9ae/90218136/51164c9ae398b5fcc5032ccc1c2e8e6a.jpeg"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 1.322895065566606,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 2.1110606739751727,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 3.7366615529559932,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Lindsays, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH6",
+ "scrapedAt": "2026-08-31T16:56:58.150Z"
+}

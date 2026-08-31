@@ -1,0 +1,79 @@
+{
+ "id": "164785250",
+ "mode": "buy",
+ "displayAddress": "Colston Avenue, Bristol",
+ "outcode": "BS1",
+ "incode": "4TB",
+ "latitude": 51.455884,
+ "longitude": -2.595724,
+ "priceAmount": 280000,
+ "priceLabel": "£280,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/164785250",
+ "area": "Bristol",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": "Offers in Region of",
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Experience vibrant city living in this modern 1-bedroom flat, ideally located right in the heart of Bristol. Situated within walking distance of Park Street, Broadmead, and Cabot Circus, this property offers unbeatable access to the city's top shopping, dining, and entertainment destinations.\n\nThe apartment features a sleek and contemporary design throughout, including a fully fitted modern kitchen—perfect for city professionals or couples seeking comfort and convenience. The open-plan living space is both bright and welcoming, ideal for relaxing after a day in the city.\n\nResidents benefit from a concierge reception within the building, offering added security and ease of living. With excellent public transport links nearby, including buses and Bristol Temple Meads station within easy reach, commuting in and out of the city is a breeze.",
+ "keyFeatures": [
+  "Prime Bristol city centre location",
+  "Walking distance to Cabot Circus &amp; Park Street",
+  "Sleek, modern kitchen design",
+  "Secure concierge reception",
+  "Excellent public transport links",
+  "Perfect for vibrant city living"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/8dfb41490/164785250/8dfb414908d7774d0377c9d6efef7b91.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f0ffd3ffe/164785250/f0ffd3ffecacd3a6151c004670b07155.jpeg",
+  "https://media.rightmove.co.uk/property-photo/333520c17/164785250/333520c17581aa5f6f27c42352ee397f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a89c16779/164785250/a89c16779c39dcb5edfb2ea044d1c713.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e762d0ba5/164785250/e762d0ba523a4310479c839eefb73489.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a0e14d3ae/164785250/a0e14d3aebdeeac54548e11328a45ea7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6033af12d/164785250/6033af12dd233b2cec0d05239ae5ed63.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Bristol Temple Meads Station",
+   "miles": 0.7765648308558678,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.872483858643726,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.8919710606938155,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "haart, Bristol",
+ "city": "Bristol",
+ "sourceOutcode": "BS1",
+ "scrapedAt": "2026-08-31T15:01:29.285Z"
+}

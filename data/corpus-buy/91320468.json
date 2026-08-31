@@ -1,0 +1,84 @@
+{
+ "id": "91320468",
+ "mode": "buy",
+ "displayAddress": "North Ninth Street, Central Milton Keynes, Milton Keynes, Buckinghamshire, MK9 3AN",
+ "outcode": "MK9",
+ "incode": "3AN",
+ "latitude": 52.04457,
+ "longitude": -0.75941,
+ "priceAmount": 125000,
+ "priceLabel": "£125,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91320468",
+ "area": "Milton Keynes, Buckinghamshire",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 89,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 29/07/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "*CENTRAL MILTON KEYNES* *STUDIO APARTMENT* *FULLY REFURBISHED TO A HIGH STANDARD*  *MODERN KITCHEN* *MODERN BATHROOM* *UPVC DOUBLE GLAZING*  *WALKING DISTANCE TO TRAIN STATION* * GOOD PUBLIC TRANSPORT LINKS* *CLOSE TO LOCAL AMENITIES* *OFFERED WITH NO CHAIN*\n\nReynolds Estate And Letting Agents are delighted to of been instructed on this immaculately presented fully refurbished first floor Studio apartment located in central Milton Keynes. \n\nEntrance into building is through a security-controlled door intercom entry system leading into the communal area of the block. Stairs to the first floor.\n\nEntrance: Entry is through a wooden door into the entrance hall, doors to lounge, Bathroom and Kitchen. (Entrance door is being changed to a modern fire door)\n\nLiving Area: 14'9\" x 11'7\" UPVC double glazed windows to front aspect, tile flooring and a radiator. Built in sliding door cupboard.\n\nKitchen: 6'8\" x 4'9\" Mixed eye and base level units with work surfaces over and splash back, sink with draining board, cooker with electric hob and extractor fan over, the vendor will leave all white goods in the property, washing machine and fridge-freezer, tile flooring.\n\nBathroom: 7'3\" x 4'6\"Low level WC, sink in a vanity unit, panel bath with shower over, tiled walls and flooring, wall mounted heated towel rail. \n\nParking: Resident Permit can be purchased from MK Council.",
+ "keyFeatures": [
+  "*CENTRAL MILTON KEYNES*",
+  "*STUDIO APARTMENT*",
+  "*FULLY REFURBISHED TO A HIGH STANDARD*",
+  "*MODERN KITCHEN*",
+  "*MODERN BATHROOM*",
+  "*UPVC DOUBLE GLAZING*",
+  "*WALKING DISTANCE TO TRAIN STATION*",
+  "*GOOD PUBLIC TRANSPORT LINKS*",
+  "*CLOSE TO LOCAL AMENITIES*",
+  "*OFFERED WITH NO CHAIN*"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d9357acea/91320468/d9357acea6843704f93159c038746d06.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3018f49a0/91320468/3018f49a09bcdb05934b2756c3c8b76f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/78c3e232d/91320468/78c3e232d7fcb30c2a47196287666543.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ac773e28a/91320468/ac773e28af551aea66ebb1f2b9efff4b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/72cecb39b/91320468/72cecb39b323a4adb167f97b8c182b16.jpeg",
+  "https://media.rightmove.co.uk/property-photo/efcd42bfe/91320468/efcd42bfe62415b1a38fb17a2441fefd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/901ae633e/91320468/901ae633e0013db0af211d09528532a0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/12e4499e4/91320468/12e4499e48fbb84dcc480cfc50591090.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Milton Keynes Central Station",
+   "miles": 0.9013323393387226,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Wolverton Station",
+   "miles": 2.366642347994332,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Fenny Stratford Station",
+   "miles": 3.551447114429001,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Reynolds Estate And Letting Agents, Milton Keynes",
+ "city": "Milton Keynes",
+ "sourceOutcode": "MK9",
+ "scrapedAt": "2026-08-31T14:53:28.050Z"
+}

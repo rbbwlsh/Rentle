@@ -1,0 +1,91 @@
+{
+ "id": "92330895",
+ "mode": "buy",
+ "displayAddress": "Belmont Road, St. Andrews, Bristol",
+ "outcode": "BS6",
+ "incode": "5AS",
+ "latitude": 51.470774,
+ "longitude": -2.590819,
+ "priceAmount": 275000,
+ "priceLabel": "£275,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92330895",
+ "area": "Bristol",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 484,
+  "sizeSqM": 45,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 843,
+  "annualGroundRent": 15,
+  "annualServiceCharge": 1980.33,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 24/08/2026"
+ },
+ "sizeSqFt": 484,
+ "sizeSqM": 45,
+ "description": "A spacious garden apartment with a private entrance, occupying a fine position in the popular St Andrews area - being offered with no chain.\r\n\r\nOverview\r\n\r\nUpon entering the property, you are welcomed by a hallway, with the large full-width living room leading off from here. The hallway also provides access to the bedroom and bathroom whilst the fitted kitchen leads from the lounge. \r\n\r\nThe interior is a blank canvas and, with no onward chain, gives the new owners the chance to make it their own.\r\n\r\nOutside\r\n\r\nThe rear private garden is mainly laid to lawn, with some mature planting. The adjacent gardens are also a great size, giving a greater sense of privacy.\r\n\r\nLocation\r\n\r\nA short walk to the Gloucester Road with its variety of shops and café's, St Andrews Park and easy access to the city centre makes this Victorian conversion an ideal first purchase or investment property.\r\n\r\nWe think...\r\n\r\nThis property is sure to be popular due to the combination of a private entrance, private garden and the opportunity to add your own stamp.\r\n\r\nMaterial information (provided by owner) \r\n\r\nTenure - Leasehold (843 years remaining)\r\nService Charge £1,980.33 per annum (2026 accounts)\r\nGround Rent - £15 per annum\r\nEPC - C\r\nCouncil Tax - A",
+ "keyFeatures": [
+  "St Andrews",
+  "Victorian conversion",
+  "Garden apartment",
+  "Private entrance",
+  "Private rear garden",
+  "Spacious living room",
+  "EPC - C",
+  "Generous bedroom"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/388bc4a10/92330895/388bc4a104eb85a463def84795af3adb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2eb96d3bd/92330895/2eb96d3bd12680f949b8d2d5e995a90f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d3edf4124/92330895/d3edf412412f537250622849a43d85ec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/20fc8beac/92330895/20fc8beac1ab1747981d781ff1a4a6e5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e524df3a3/92330895/e524df3a3accbacef9b81afc5013b6b9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/819f4d45c/92330895/819f4d45cd2b3349d5cd5ae6ee266a52.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7a10d662e/92330895/7a10d662e86671ca4df72ae5af030394.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d9da1a068/92330895/d9da1a068ca994e284e1e8d3f69757be.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fe5527308/92330895/fe55273080fc291c01c72f525939327e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c0500a971/92330895/c0500a97137125f81de0f342f975b359.jpeg",
+  "https://media.rightmove.co.uk/property-photo/95cf32bec/92330895/95cf32bec7d512511aa00d34624cebf7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/411f7f7ce/92330895/411f7f7cecd552141302853e0e896e7a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bc142158e/92330895/bc142158ed8562be916e3e1e26701107.jpeg",
+  "https://media.rightmove.co.uk/property-photo/43e16e458/92330895/43e16e458db6ed55f9aa8560083ea036.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cb09f8e61/92330895/cb09f8e611cf895eb1738c33e4b98355.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fa29ac9a8/92330895/fa29ac9a8b496182d2e7b55e6f7a169d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e3ee7b2fa/92330895/e3ee7b2fa3a3a1495733a0fb8b60a3f8.jpeg"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "Montpelier Station",
+   "miles": 0.18973831741688682,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Redland Station",
+   "miles": 0.40884345710444786,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Clifton Down Station",
+   "miles": 0.9728178001844224,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Ocean, Bishopston",
+ "city": "Bristol",
+ "sourceOutcode": "BS6",
+ "scrapedAt": "2026-08-31T16:53:44.443Z"
+}

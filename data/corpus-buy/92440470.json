@@ -1,0 +1,82 @@
+{
+ "id": "92440470",
+ "mode": "buy",
+ "displayAddress": "Alliance Court, Hills Avenue, Cambridge",
+ "outcode": "CB1",
+ "incode": "7XE",
+ "latitude": 52.183019,
+ "longitude": 0.140203,
+ "priceAmount": 350000,
+ "priceLabel": "£350,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92440470",
+ "area": "Cambridge",
+ "bedrooms": 2,
+ "bathrooms": null,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 994,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 2247,
+  "councilTaxBand": "C",
+  "priceQualifier": "Offers in Region of",
+  "listingUpdate": "Added on 27/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Alliance court, which is located just off Hills Road, is very well placed for the city centre, central railway station and access to all major routes. Local shopping at the junction of Cherry Hinton and Hills Road is close by, along with Morley Memorial Primary School. Both state and independent schools are also located on the south side of the city along with Long Road and Hills Road sixth form colleges. The property is within easy cycling distance of Addenbrooke's hospital and Biomedical Campus\n\nEntrance hall\n\nWith radiator, shelved cupboard, open to inner hall with further storage cupboard.\n\nKitchen\n\nWith range of modern wall and base units with extensive work tops, inset sink and mixer tap, range of fitted appliances including fridge/freezer, electric oven, four ring gas hob, cooker hood, plumbing for washing machine, wall mounted Vaillant central heating boiler, double glazed window to front, radiator.\n\nLiving room\n\nWith double glazed windows to both front and side, radiator.\n\nBedroom 1\n\nWith double glazed window to rear, radiator.\n\nBedroom 2\n\nWith double glazed window to rear, radiator, built in double wardrobe.\n\nBathroom\n\nWith three piece white suite, panelled bath with tiled surround and fitted shower screen, mixer tap and shower attachment, low level wc, pedestal wash handbasin, double glazed window to rear, radiator.\n\nOutside\n\nWith well tended communal grounds with a selection of mature trees and communal car parking.\n\nServices\n\nAll mains services.\n\nTenure\n\nThe property is Leasehold - 999 years from November 2021. \r\n\r\nService charge: £2247 p/a\r\nGround rent: No ground rent payable\r\n\r\nThere is a garage available to rent for approximately £300 p.a\n\nCouncil tax\n\nBand C\n\nViewing\n\nBy arrangement with Pocock + Shaw",
+ "keyFeatures": [
+  "2 double bedrooms",
+  "ground floor apartment",
+  "Offered with no onward chain",
+  "Large living room",
+  "Refitted kitchen",
+  "Prime residential location",
+  "Garage available to rent"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/37ff1a73f/92440470/37ff1a73f6ee6ead2f78fb506da600ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e9ea1f537/92440470/e9ea1f5378145c3b3e88cbfbe87151ae.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d66b32653/92440470/d66b3265324b1618f3ed24b2df4978f0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e64f3e8bc/92440470/e64f3e8bc29a6c826d8bf98eda466d1e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/48ac9d8f2/92440470/48ac9d8f21491cc42bd298b4edf849cf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dead3a5fa/92440470/dead3a5fa48f5c0a41ee9f3f0079cc3d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e67cfcf1c/92440470/e67cfcf1c180eea5b6253964d2264063.jpeg",
+  "https://media.rightmove.co.uk/property-photo/12ce72243/92440470/12ce72243f23382cb0fb5458484ff622.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2038c42c8/92440470/2038c42c8adfd7af3b84a8c2698f5916.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Cambridge Station",
+   "miles": 0.7598667453898946,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Shelford Station",
+   "miles": 2.357462331562031,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cambridge North",
+   "miles": 2.932408475140358,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Pocock & Shaw, Cambridge",
+ "city": "Cambridge",
+ "sourceOutcode": "CB1",
+ "scrapedAt": "2026-08-31T15:01:08.650Z"
+}

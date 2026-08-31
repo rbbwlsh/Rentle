@@ -1,0 +1,82 @@
+{
+ "id": "92460006",
+ "mode": "buy",
+ "displayAddress": "Stanleyfield Road,  Preston, PR1",
+ "outcode": "PR1",
+ "incode": "1QL",
+ "latitude": 53.76471,
+ "longitude": -2.692996,
+ "priceAmount": 120000,
+ "priceLabel": "£120,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92460006",
+ "area": "Preston",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": null,
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 0,
+  "councilTaxBand": null,
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 27/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "An excellent opportunity to acquire this attractive two-bedroom terraced home, ideally situated in a popular residential area of Preston. Offering spacious accommodation throughout, two generous reception rooms and excellent access to local schools, amenities and transport links, this property is perfectly suited to first-time buyers, owner-occupiers and investors alike. The property is currently tenanted, providing an immediate rental income opportunity for landlords, whilst also being available with vacant possession if required.\n\nUpon entering, you are welcomed by a vestibule leading into a spacious entrance hallway, providing access to the ground floor accommodation and staircase to the first floor. To the front of the property, the inviting lounge offers a comfortable setting for everyday living, while the second, larger reception room provides a versatile space ideal for dining, entertaining or use as an additional family room. A useful under-stairs storage cupboard further enhances the practicality of the ground floor layout.\n\nTo the rear, the well-proportioned kitchen has been thoughtfully designed to maximise both storage and workspace, with ample natural light creating a bright and welcoming environment. The kitchen also enjoys views over the enclosed rear yard.\n\nTo the first floor, the property offers two generously sized bedrooms and a family bathroom. The spacious master bedroom is situated to the rear of the property, providing a peaceful retreat with plenty of space for freestanding furniture. The second bedroom is located at the front of the home and is a well-proportioned room, ideal as a guest bedroom, childrens room or home office.\n\nCompleting the accommodation is the sizeable family bathroom, fitted with a bath and overhead shower.\n\nOffering spacious living accommodation, excellent versatility and the flexibility to be purchased as either an investment property or owner-occupied home, this fantastic property presents an opportunity not to be missed.\n\nThis is a freehold property.\n\nCouncil tax band- A\n\nEPC rating- D\n\nFor all viewings please call to arrange.\n\nPlease contact Kingswood.\n\nFulwood Office:  \n\n77 Watling Street Road, Fulwood, Preston, PR2 8EA\n\nmailto: \n \n\nDisclaimer:\nThese particulars, whilst believed to be correct, do not form any part of an offer or contract. Intending purchasers should not rely on them as statements or representation of fact. No person in this firms employment has the authority to make or give any representation or warranty in respect of the property. All measurements quoted are approximate. Although these particulars are thought to be materially correct their accuracy cannot be guaranteed and they do not form part of any contract.Disclaimer:\nThese particulars, whilst believed to be correct, do not form any part of an offer or contract. Intending purchasers should not rely on them as statements or representation of fact. No person in this firm's employment has the authority to make or give any representation or warranty in respect of the property. All measurements quoted are approximate. Although these particulars are thought to be materially correct their accuracy cannot be guaranteed and they do not form part of any contract.\n\nAnti-Money Laundering (AML) and Identity Verification Checks In accordance with our regulatory obligations, all applicants will be required to complete Anti-Money Laundering (AML) and Identity Verification checks. A non-refundable fee of £45.00 plus VAT per applicant will be payable to cover the cost of these checks. We use Vorensys to carry out these verification processes. Applicants will be contacted directly by Vorensys to provide the necessary information and documentation. Once the checks have been successfully completed and approved, we will be notified and will proceed with the application accordingly. Please note that the AML and Identity Verification fee is non-refundable, regardless of the outcome of the application or verification process.",
+ "keyFeatures": [
+  "Chain Free ",
+  "Attn: First Time Buyers",
+  "Ideal Investment Opportunity ",
+  "Shops And Amenities Nearby",
+  " Close To Schools And Motorways",
+  "Close To Public Transport",
+  "End Terrace House",
+  "2 Bedrooms",
+  "2 Reception Rooms"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/bb010ea65/92460006/bb010ea655f9a08a24c5e6c3f8ab98c4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9c3fb1e59/92460006/9c3fb1e59f34783d8763ceb285ee5152.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8c1649439/92460006/8c16494390c1c88a37b426082e015e11.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8bd20c257/92460006/8bd20c257924561c8211b80b3ab6526e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1aca2696d/92460006/1aca2696d6a1273239ae6d0414bd9ca6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/af0172a04/92460006/af0172a0489a631ac140d81ac4f9fca6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6ac421fbd/92460006/6ac421fbd7c7c667a06631f50d23f0d7.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Preston Station",
+   "miles": 0.8423363024767391,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Lostock Hall Station",
+   "miles": 2.831238403148979,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bamber Bridge Station",
+   "miles": 2.9214926085376303,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Kingswood, Fulwood",
+ "city": "Preston",
+ "sourceOutcode": "PR1",
+ "scrapedAt": "2026-08-31T14:59:51.269Z"
+}

@@ -1,0 +1,80 @@
+{
+ "id": "157056155",
+ "mode": "buy",
+ "displayAddress": "The Quad, Highcross Street, Leicester",
+ "outcode": "LE1",
+ "incode": "4PG",
+ "latitude": 52.636341,
+ "longitude": -1.139119,
+ "priceAmount": 89000,
+ "priceLabel": "£89,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/157056155",
+ "area": "The Quad, Leicester",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 108,
+  "annualGroundRent": 200,
+  "annualServiceCharge": 1800,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 30/06/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Nestled in the heart of Leicester, this luxurious studio apartment in The Quad Development offers a perfect blend of modern living and urban convenience. Located on Highcross Street, this property is ideally situated for those who wish to immerse themselves in the vibrant city life. \n\nThe apartment features a well-designed reception room that seamlessly integrates with the sleeping area, creating a spacious and inviting atmosphere. The contemporary bathroom is equipped with modern fixtures, ensuring comfort and style. This studio is not only an ideal city home for individuals or couples but also presents a fantastic investment opportunity, potential to achieve a rental income of £900 per month.\n\nWith its prime location in Leicester City Centre, residents will enjoy easy access to a plethora of shops, restaurants, and entertainment options, making it a desirable choice for both living and investment. The Quad Development is known for its high-quality finishes and contemporary design, making this apartment a standout option in the market.\n\nWhether you are looking to make a home in the city or seeking a lucrative investment, this studio apartment is a remarkable choice. Do not miss the chance to own a piece of luxury in one of Leicester's most sought-after developments. For further details, please contact Set To Let Estate Agents.\n\n12 Yield at £900.00pcm rent \n£200.00 - Ground rent per annum \n£1800.00 - Service charge per annum\n108 Years remaining on lease (approximately)",
+ "keyFeatures": [
+  "The Quad Highcross LE1",
+  "Investment Opportunity",
+  "Leicester City Centre",
+  "Secure Development",
+  "Call Set To Let",
+  "With Balcony",
+  "12% YIELD"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/53462ef1b/157056155/53462ef1b33f0f4e5358889b1d0449eb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/878a368c2/157056155/878a368c2f02caeb562686a02da29b7c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f0ce20da3/157056155/f0ce20da3c1fea64aed878b50afb4122.jpeg",
+  "https://media.rightmove.co.uk/property-photo/29f68c527/157056155/29f68c527ec4193671dffc0067fa39f0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/45f6f9c46/157056155/45f6f9c46db584bd21118e43c7854ecd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6ae8d10da/157056155/6ae8d10da1941970a8ceaa6bf852f205.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f7295dfd2/157056155/f7295dfd26de89beac9e779686fbfece.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Leicester Station",
+   "miles": 0.701906033286526,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "South Wigston Station",
+   "miles": 3.7428168073445245,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Syston Station",
+   "miles": 4.64954162071262,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Set To Let, Leicester",
+ "city": "Leicester",
+ "sourceOutcode": "LE1",
+ "scrapedAt": "2026-08-31T14:49:54.227Z"
+}

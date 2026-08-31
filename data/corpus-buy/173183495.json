@@ -1,0 +1,87 @@
+{
+ "id": "173183495",
+ "mode": "buy",
+ "displayAddress": "Leander Way, Oxford",
+ "outcode": "OX1",
+ "incode": "4XR",
+ "latitude": 51.7329,
+ "longitude": -1.2473,
+ "priceAmount": 290000,
+ "priceLabel": "£290,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/173183495",
+ "area": "Oxford",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "D",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 07/07/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A stylish purpose built apartment with allocated parking located on this popular development set in attractive communal grounds enjoying riverside views.\r\n Comment from the seller - “I've absolutely loved living in this flat. It has such great natural light, even in winter. The location has been fantastic: the surroundings are peaceful, green and leafy, yet you can be in town in 20 minutes”.\n\n\rConstructed in 2004 this top floor property offers a pleasing dual aspect living/dining room with French doors and Juliet balcony providing an airy feel complimented by natural light. In addition there is a modern fitted kitchen with a range of base units and matching eye level wall cupboards, a built in oven and washing machine. There are 2 double bedrooms, the master benefitting from a built in wardrobe, both served by a family bathroom with white suite and ceramic tiling.\n\n\rLeander Way is positioned off the Abingdon Road approx. 1.5 miles from the city centre with many regular and direct bus services to its superb range of shops, restaurants and bars. The River Thames and Iffley Meadows are a short distance away, with a towpath leading right into the centre of Oxford. For those who need access out of town, the ring road is just a few minutes drive providing links to Birmingham and London via the M40.\n\n\rLeasehold - 125 years starting 1 Jan 2004 \nService Charge: c. £1,500 pa \nGround Rent: £275 pa\nCouncil Tax Band: D",
+ "keyFeatures": [
+  "2 Bedrooms",
+  "Purpose Built Apartment",
+  "Dual Aspect 19 Ft (max) Living Room with Juliet Balcony",
+  "Allocated Parking",
+  "White Bathroom",
+  "Primary Bedroom with Built in Wardrobes",
+  "Desirable South Oxford Location with Excellent Transport Links"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/0f2f9dc78/173183495/0f2f9dc7877cfa71d6de846be15d4b86.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cd33f1663/173183495/cd33f1663bb6053586ef70ac9aa311ba.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cafdff92c/173183495/cafdff92cc607cd4526e19a695f538f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4ece0341f/173183495/4ece0341f185a6009f8fc94553f8bef4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fab37a21b/173183495/fab37a21bfc11a5e7b56f9350d1d096b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f4de2c0ad/173183495/f4de2c0ad34d65410fb6d9fcc4084f47.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7a049a0d6/173183495/7a049a0d644709877fd2fb733e3f5300.jpeg",
+  "https://media.rightmove.co.uk/property-photo/01164b0c4/173183495/01164b0c429b90e1e6750829a76026b3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e7a71e376/173183495/e7a71e376919dffdad5443ed4dd35200.jpeg",
+  "https://media.rightmove.co.uk/property-photo/be6890d74/173183495/be6890d7426ff004758fae15353494a8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9a39450bd/173183495/9a39450bd086ef8309df23474eb4a6f5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dadff0d9b/173183495/dadff0d9b104fa32a393957c2526a9ae.jpeg",
+  "https://media.rightmove.co.uk/property-photo/41446a146/173183495/41446a146d98aa5fd15b2d74bb6bf35e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ef774f397/173183495/ef774f397453b958200ba8412430d429.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Oxford Station",
+   "miles": 1.7299839643212964,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Radley Station",
+   "miles": 3.261278129128649,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Oxford Parkway Station",
+   "miles": 5.0620331026216006,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Chamberlain Evans, Oxford",
+ "city": "Oxford",
+ "sourceOutcode": "OX1",
+ "scrapedAt": "2026-08-31T15:02:34.771Z"
+}

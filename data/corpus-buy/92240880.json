@@ -1,0 +1,90 @@
+{
+ "id": "92240880",
+ "mode": "buy",
+ "displayAddress": "130 Sunbridge Road Bradford BD1 2PF",
+ "outcode": "BD1",
+ "incode": "2PF",
+ "latitude": 53.794509,
+ "longitude": -1.760477,
+ "priceAmount": 60000,
+ "priceLabel": "£60,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92240880",
+ "area": "BD1 area",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 239,
+  "annualGroundRent": 250,
+  "annualServiceCharge": 2000,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers in Region of",
+  "listingUpdate": "Added on 21/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Introducing this contemporary ground floor flat, perfectly positioned in the heart of BD1. This neutrally decorated apartment offers a bright and airy ambiance, ideal for both first time buyers and investors seeking a stylish residence in an urban setting.\n\nThe property comprises a spacious open-plan reception room and kitchen, providing a versatile living and entertaining space. The modern kitchen is seamlessly integrated, making it perfect for relaxing evenings or hosting guests. Both bedrooms are generously sized doubles, ensuring ample space and comfort. The primary bedroom benefits from a convenient en-suite, adding an extra touch of privacy and luxury, while the second double bedroom offers flexibility for guests or additional family members. There is a second bathroom, providing further convenience for residents and visitors alike.\n\nResidents will appreciate strong public transport links, allowing for easy commuting and access to the surrounding area, as well as the array of local amenities, shops, and eateries nearby – everything you need is within easy reach.\n\nThe ground floor location ensures easy access and added convenience, making this apartment a practical choice for anyone seeking a blend of modern living and accessibility. Its open-plan design and neutral finish create a welcoming environment ready for you to add your personal touch.\n\nWhether you are looking to step onto the property ladder or searching for a promising investment opportunity, this apartment presents a fantastic chance to secure a home in a sought-after urban area. Arrange a viewing today to fully appreciate everything this two bedroom, two bathroom flat has to offer..\n\nKitchen/ Diner - 4.60 x 3.73 (15'1\" x 12'2\") - \n\nBedroom One - 2.58 x 2.90 (8'5\" x 9'6\") - \n\nEn Suite - 1.55 x 1.56 (5'1\" x 5'1\") - \n\nHallway - \n\nBedroom Two - 3.74 x 2.18 (12'3\" x 7'1\") - \n\nShower Room - 1.60 x 1.57 (5'2\" x 5'1\") -",
+ "keyFeatures": [
+  "TWO DOUBLE -BEDROOM APARTMENT",
+  "GROUND FLOOR",
+  "ENSUITE TO MASTER BEDROOM",
+  "OPEN PLAN LIVING AREA",
+  "CENTRAL LOCATION",
+  "NEUTRAL DECOR",
+  "EXCELLENT PUBLIC TRANSPORT LINK",
+  "IDEAL INVESTMENT PROPERTY",
+  "IDEAL FOR FIRST TIME BUYER / INVESTOR",
+  "COUNCIL TAX BAND A -  EPC TBC"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/3b071ef78/92240880/3b071ef7885380a4a242e8822fd2436d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/808b461eb/92240880/808b461eb0456199ea1ceaaadd4b7bac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/47cda1fe1/92240880/47cda1fe1c0673725540a4cd9dc98ef8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5d28990e0/92240880/5d28990e0f18297c84e9b10f23b27f56.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa541e7a4/92240880/aa541e7a48f3ce514a213fddfd0de8be.jpeg",
+  "https://media.rightmove.co.uk/property-photo/76d373c3b/92240880/76d373c3b3e3ad617758950ffb17c6ce.jpeg",
+  "https://media.rightmove.co.uk/property-photo/010fd838e/92240880/010fd838eadfab4565a8175ae9b87b9a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/12baa1eb1/92240880/12baa1eb1a9438ef6f049f42e7123577.jpeg",
+  "https://media.rightmove.co.uk/property-photo/30eddd7e6/92240880/30eddd7e698cc83b6ae386c051441972.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6858c0cd1/92240880/6858c0cd1d9f5d924debbe66d0c0f852.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4344a04e9/92240880/4344a04e9f6c3ffb1e615eb3ada2e121.jpeg",
+  "https://media.rightmove.co.uk/property-photo/255983440/92240880/2559834409328e1eba5e0f5ddd2c66e4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e34ede26f/92240880/e34ede26ff961a5aa12b9b2313a219f1.png",
+  "https://media.rightmove.co.uk/property-photo/516ecc907/92240880/516ecc90747e98951bc6fc9dcd5a7458.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Bradford Forster Square Station",
+   "miles": 0.3447418095500004,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bradford Interchange Station",
+   "miles": 0.47260645564257425,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Frizinghall Station",
+   "miles": 1.7918455182926296,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Hunters, Bradford",
+ "city": "Bradford",
+ "sourceOutcode": "BD1",
+ "scrapedAt": "2026-08-31T14:59:33.542Z"
+}

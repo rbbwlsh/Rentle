@@ -1,0 +1,81 @@
+{
+ "id": "89672712",
+ "mode": "buy",
+ "displayAddress": "Leeds Road, Bradford",
+ "outcode": "BD1",
+ "incode": "5AF",
+ "latitude": 53.7935,
+ "longitude": -1.74706,
+ "priceAmount": 29000,
+ "priceLabel": "£29,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89672712",
+ "area": "Bradford",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 953,
+  "annualGroundRent": 1,
+  "annualServiceCharge": 2700,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 25/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "SUMMARY\nPerfect for commuters, this beautifully presented first-floor flat on Leeds Road (BD1) sits just outside Bradford city centre near excellent public transport links. The turn-key property features one bedroom, a fitted kitchen, and a modern bathroom.\n\nDESCRIPTION\nLocated on the vibrant Leeds Road (BD1), this beautifully presented first-floor flat offers the perfect balance of edge-of-city convenience and modern comfort. Just a short walk from Bradford city centre, the property boasts exceptional access to local bus routes and public transport links, and only a five minute walk to both train stations, making it an ideal choice for first-time buyers or commuting professionals. Inside, the flat features a bright, well-proportioned bedroom, a modern fitted kitchen ready for immediate use, and a clean, contemporary bathroom. Maintained to a high standard throughout, fully furnished (if needed) this charming home is completely turn-key and ready for its next owner to move straight in.\n\nHallway \nWith access to front entrance door.\n\nLounge 14' 2\" x 7' 8\" ( 4.32m x 2.34m )\nWith window to the side. Open plan living into the kitchen.\n\nKitchen 12' 4\" x 5' 5\" ( 3.76m x 1.65m )\nFully fitted kitchen with a range of wall and base units. With open plan living into the lounge.\n\nBedroom 16' 9\" x 8' 5\" ( 5.11m x 2.57m )\nWith window to the side.\n\nBathroom \nFitted bathroom comprising of a panel bath, wash hand basin and W/C.\n\nWe currently hold lease details as displayed above, should you require further information please contact the branch.  Please note additional fees could be incurred for items such as leasehold packs.\n\n1. MONEY LAUNDERING REGULATIONS: Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale.\r\n2. General: While we endeavour to make our sales particulars fair, accurate and reliable, they are only a general guide to the property and, accordingly, if there is any point which is of particular importance to you, please contact the office and we will be pleased to check the position for you, especially if you are contemplating travelling some distance to view the property.\r\n3. The measurements indicated are supplied for guidance only and as such must be considered incorrect.\r\n4. Services: Please note we have not tested the services or any of the equipment or appliances in this property, accordingly we strongly advise prospective buyers to commission their own survey or service reports before finalising their offer to purchase.\r\n5. THESE PARTICULARS ARE ISSUED IN GOOD FAITH BUT DO NOT CONSTITUTE REPRESENTATIONS OF FACT OR FORM PART OF ANY OFFER OR CONTRACT. THE MATTERS REFERRED TO IN THESE PARTICULARS SHOULD BE INDEPENDENTLY VERIFIED BY PROSPECTIVE BUYERS OR TENANTS. NEITHER SEQUENCE (UK) LIMITED NOR ANY OF ITS EMPLOYEES OR AGENTS HAS ANY AUTHORITY TO MAKE OR GIVE ANY REPRESENTATION OR WARRANTY WHATEVER IN RELATION TO THIS PROPERTY.",
+ "keyFeatures": [
+  "Prime location",
+  "Excellent transport links",
+  "Cash Buyers &amp; Investors Only ",
+  "No Chain",
+  "£29,000"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1ff7ba76c/89672712/1ff7ba76c675f069d1a8fe6ed00256e7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d20745004/89672712/d20745004c3592bc1abae9f0aa6bd990.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4928617cf/89672712/4928617cf22f5d5bbce4e10a6847e4d1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/31a7cd6ee/89672712/31a7cd6eee465aa11b5e06ef8c6f93a8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/97bf81f34/89672712/97bf81f34c4b72f1ae931bef2af8a0b5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9a9caf8dd/89672712/9a9caf8dd16f83d16d79f09338b6dfd2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c818b4239/89672712/c818b42393c1f659e1c22e0130fbfb2e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/02bc43dc0/89672712/02bc43dc0e4992e1ce90e662212a13d6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/73b2b7812/89672712/73b2b7812f5e728f52d4a1b82805a70c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e4b38e891/89672712/e4b38e89116dda22c04e3366c940fe03.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Bradford Interchange Station",
+   "miles": 0.21166990449114914,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bradford Forster Square Station",
+   "miles": 0.3425827390476215,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Frizinghall Station",
+   "miles": 2.0321031726066083,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "William H. Brown, Wibsey",
+ "city": "Bradford",
+ "sourceOutcode": "BD1",
+ "scrapedAt": "2026-08-31T14:55:25.168Z"
+}

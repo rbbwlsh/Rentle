@@ -1,0 +1,81 @@
+{
+ "id": "172810427",
+ "mode": "buy",
+ "displayAddress": "Old Park Avenue, Exeter",
+ "outcode": "EX1",
+ "incode": "3WD",
+ "latitude": 50.747377,
+ "longitude": -3.466024,
+ "priceAmount": 150000,
+ "priceLabel": "£150,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/172810427",
+ "area": "Exeter",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 678,
+  "sizeSqM": 63,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 142,
+  "annualGroundRent": 236,
+  "annualServiceCharge": 1300,
+  "councilTaxBand": "B",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 27/08/2026"
+ },
+ "sizeSqFt": 678,
+ "sizeSqM": 63,
+ "description": "GUIDE PRICE £150,000-£160,000 / NO ONWARD CHAIN\n\nOld Park Avenue is located in the highly popular and extremely convenient location of West Clyst, offering easy access to all major road networks, excellent local transport links and plenty of amenities close by. \n\nThis top floor apartment is being sold with no onward chain and is ready for immediate occupation. Internally, the apartment is neutrally decorated throughout and boasts a wonderful amount of natural light.\nWith a well presented, modern fitted kitchen, generous living/dining room and two double bedrooms, master benefitting from stylish en-suite shower room. \nThere is a further contemporary family bathroom and ample storage.\nOutside, the property offers one allocated parking space.\n\n*Agency Notes* \nPlease note that the property has been virtually staged using AI.\n\nCouncil Tax Band: B\nTenure: Leasehold (142 years)\nGround Rent: £236 per year\nService Charge: £1,300 per year\nGreen Square Estates",
+ "keyFeatures": [
+  " Two Double Bedrooms",
+  "Allocated Parking Space",
+  "Extremely Convenient Location",
+  "Light And Airy Accommodation Throughout",
+  "Master En Suite",
+  "Modern Fitted Kitchen and Bathroom",
+  "No Onward Chain",
+  "Top Floor Apartment"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1a114d0d6/172810427/1a114d0d67ee844973cc466871dd5cc0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0e7e3dcd9/172810427/0e7e3dcd9a292fcacd24604f2b4334cc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d28adb487/172810427/d28adb48754576e10ed71e59c9a5d6f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7a87026e9/172810427/7a87026e9de6719e79f84e85b73cb5be.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eb9619045/172810427/eb9619045fdca172d4c4322d635bdc8f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0f3293554/172810427/0f329355495da685745e7210ff25c8ad.jpeg",
+  "https://media.rightmove.co.uk/property-photo/483287d6a/172810427/483287d6a8ef6ec528255fefd1e212e2.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Pinhoe Station",
+   "miles": 0.6958607554604502,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Polsloe Bridge Station",
+   "miles": 1.9274774512625552,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cranbrook Station",
+   "miles": 2.014057543267639,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Butt Estates, Exeter",
+ "city": "Exeter",
+ "sourceOutcode": "EX1",
+ "scrapedAt": "2026-08-31T15:01:42.619Z"
+}

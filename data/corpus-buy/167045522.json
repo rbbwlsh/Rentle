@@ -1,0 +1,78 @@
+{
+ "id": "167045522",
+ "mode": "buy",
+ "displayAddress": "George Hudson Street, York",
+ "outcode": "YO1",
+ "incode": "6LP",
+ "latitude": 53.957931,
+ "longitude": -1.086948,
+ "priceAmount": 55000,
+ "priceLabel": "£55,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/167045522",
+ "area": "York",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": 198,
+  "sizeSqM": 18,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 241,
+  "annualGroundRent": 290.86,
+  "annualServiceCharge": 2746.96,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 19/06/2026"
+ },
+ "sizeSqFt": 198,
+ "sizeSqM": 18,
+ "description": "Situated in the heart of York, Rathmell Hall is a sought-after student development offering exceptional on-site facilities and strong rental returns.\n\nFully refurbished in 2015 to an impressive specification, the building provides a superb student living experience with a range of premium amenities, including a private gym, cinema room, communal lounge and dedicated study spaces. These facilities, combined with an unbeatable city centre location surrounded by shops, bars, restaurants, and essential amenities, make it a top choice for students in York.\n\nBoth the University of York and York St John University are within easy reach, either on foot or via the city’s excellent public transport links.\n\nGross income : £8,510 per annum\n\nLeasehold\nLength of lease- 241 years remaining \nGround rent - £290.85 per annum \nService Charge- £2,746.96 per annum\n\nCouncil Tax Band- A\n\nANTI-MONEY LAUNDERING COMPLIANCE\n\nWe are legally required to conduct Anti Money Laundering checks on all purchasers and sellers. These checks become mandatory when a seller accepts a purchaser's offer on a property. Anti-Money Laundering checks are valid for 6 months from the date they are completed. If your purchase does not proceed and you make an offer on another property more than 6 months later, or if your checks are more than 6 months old when making a new offer, you will need to complete and pay for new checks. We use a partner supplier MoveButler, to carry out these checks on our behalf. They will contact you directly once your offer has been accepted (subject to contract) to complete the electronic verification process securely. There is a non-refundable charge of £30 + VAT per purchaser for these checks. This fee must be paid before we can issue a memorandum of sale to solicitors and is non-refundable under any circumstances. Ashtons receive a portion of this fee from Movebutler as compensation for facilitating these checks and our administrative role in the compliance process.",
+ "keyFeatures": [
+  "Studio Apartment",
+  "Prime Central York Location",
+  "Attractive Yields With Consistent Rental Demand",
+  "Student Let Investment",
+  "No Onward Chain",
+  "Wealth Of Amenities",
+  "Utilities Included In Service Charge",
+  "EPC D"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/aa223a809/167045522/aa223a809c934a24eb50d3b8b86e8bf0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2a33e22fc/167045522/2a33e22fce272a9674fd8bc52c2eea4d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0b5862569/167045522/0b58625698d76edc83848e2fcf1e85d7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9b8fd1b45/167045522/9b8fd1b45f6044b36c6bc40f9a9f38be.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3e1da50e9/167045522/3e1da50e904cb9718c18c8603bc914b6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7c247e023/167045522/7c247e0233b50bc260818498039c281c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5eabe1c68/167045522/5eabe1c688887863c56197c42010925c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0fd058ab5/167045522/0fd058ab580419b704e5ed5d7ee48e11.jpeg",
+  "https://media.rightmove.co.uk/property-photo/92f04f48a/167045522/92f04f48a0faac309124fee2fd172bb3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cfc0759ed/167045522/cfc0759ed4b4e6676f3a32e10c705d64.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8033f0f06/167045522/8033f0f065055630d11e34f7b6d40f30.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "York Station",
+   "miles": 0.2542527922944777,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Poppleton Station",
+   "miles": 2.7934675326848937,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Ashtons Estate Agents, York",
+ "city": "York",
+ "sourceOutcode": "YO1",
+ "scrapedAt": "2026-08-31T14:47:29.741Z"
+}

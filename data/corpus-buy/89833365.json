@@ -1,0 +1,90 @@
+{
+ "id": "89833365",
+ "mode": "buy",
+ "displayAddress": "Church Street, Sheffield, S1",
+ "outcode": "S1",
+ "incode": "2PU",
+ "latitude": 53.382331,
+ "longitude": -1.468723,
+ "priceAmount": 110000,
+ "priceLabel": "£110,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89833365",
+ "area": "Sheffield",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 419,
+  "sizeSqM": 39,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 26/08/2026"
+ },
+ "sizeSqFt": 419,
+ "sizeSqM": 39,
+ "description": "This is a 1 bedroom flat located in Sheffield. With valuable amenities in close proximity, rewarding rental returns and a tenant currently situated, this is a fantastic opportunity for investors looking to expand their portfolio!\n\nThe flat features 1 bedroom, 3 piece bathroom, lounge and kitchen.\n\nInvestment details\n\nIt currently produces an annual gross income of £9600 with tenants currently situated. \n\nConsidering the purchase price and the potential rental income that could be earned in future years, this will make for a worthwhile addition to an investors property portfolio.\n\nFor greater detail on this property's investment potential, please see the Let Property Pack linked below.\n\nIf you are interested, please call us.\n\nTenancy Details\n\nThere are tenants that currently reside in the property and have consistently paid their rent for the duration of their stay. They do not have any intentions to move out so hope to remain in the property.\n\nWe are committed to facilitating a smooth transaction process between buyer and seller. To allow for maximum commitment to the sale from both parties, a Buyers Premium will apply in order to secure a property.",
+ "keyFeatures": [
+  "Buy-to-Let Opportunity",
+  "Tenant Currently Situated",
+  "Likely to attract enquiries from Serious Investors &amp; Developers",
+  "INVESTMENT POTENTIAL DETAILED BELOW (Let Property Pack) ",
+  "Cash Buyers Only"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/9ba5a8f89/89833365/9ba5a8f89e7ff056849696bf1c82b30d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c892ff962/89833365/c892ff9622949d5be3044fe548048ca3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2ca8f4e01/89833365/2ca8f4e0128ab88dd4ce76dd70eab045.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0f996d776/89833365/0f996d7762df39470e3633840f4a4474.jpeg",
+  "https://media.rightmove.co.uk/property-photo/114c1ee98/89833365/114c1ee9877a8ff2c550390fcd66d5a8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f0af9dcaa/89833365/f0af9dcaabc0a20c3c0a4ac9c582edde.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a0250d51b/89833365/a0250d51b2d2437595501932ec031eb2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8a580c6eb/89833365/8a580c6eb9a51bffd6e6085d828686a9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/39f17b76d/89833365/39f17b76dee78470b4999a9392761959.jpeg",
+  "https://media.rightmove.co.uk/property-photo/98cbaec8e/89833365/98cbaec8e7b42a17c621a124a564b27e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dceee29f2/89833365/dceee29f293779da07571c5d20c6403a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e977ddb9a/89833365/e977ddb9af7487867a58a81f8aeb4162.jpeg",
+  "https://media.rightmove.co.uk/property-photo/638943ae2/89833365/638943ae237ce4048788226dbdf239d2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d82dd8147/89833365/d82dd814751649f7b958fdc82f218dcc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/186f8c670/89833365/186f8c6706e3ebbbce08142ca2c34f94.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8826fc4b8/89833365/8826fc4b8ead85da5a2976565bb9f2d6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a4ae4497c/89833365/a4ae4497cbab9b260f77297d747001bc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/49c3403b6/89833365/49c3403b63574175bd15f83d12524adf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/028271462/89833365/0282714622b6493107dd8bf4b193a52a.jpeg"
+ ],
+ "imageCount": 19,
+ "nearestStations": [
+  {
+   "name": "Cathedral Tram Stop",
+   "miles": 0.02187588585477754,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Castle Square Tram Stop",
+   "miles": 0.11924924801480355,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "City Hall Tram Stop",
+   "miles": 0.17711591925760856,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Let Property Sales & Management, Glasgow",
+ "city": "Sheffield",
+ "sourceOutcode": "S1",
+ "scrapedAt": "2026-08-31T14:59:13.950Z"
+}

@@ -1,0 +1,71 @@
+{
+ "id": "90285630",
+ "mode": "buy",
+ "displayAddress": "Cadogan Street, Middlesbrough, TS1",
+ "outcode": "TS1",
+ "incode": "4JT",
+ "latitude": 54.568876,
+ "longitude": -1.245317,
+ "priceAmount": 60000,
+ "priceLabel": "£60,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90285630",
+ "area": "Middlesbrough",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 26/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Cadogan Street, Middlesbrough – Versatile Two-Bedroom Terrace | No Chain | Fantastic Investment or Home Opportunity\n\nLocated in the heart of Middlesbrough, this well-presented two-bedroom terraced home offers an excellent opportunity for a wide range of buyers. Available with no onward chain, the property is ready for its next owner to make the most of its impressive versatility.\n\nWhether you're searching for a comfortable first home, a traditional residential buy-to-let investment, or a property with strong short-term letting potential, this home provides a wealth of possibilities. Its convenient location also makes it an attractive option for those looking to secure accommodation for professionals, with excellent access to local amenities, transport links, and major employers.\n\nThe accommodation offers well-proportioned living space, two generous bedrooms, and a practical layout that is perfectly suited to modern living. With plenty of scope to personalise or simply let out immediately, this is a property that can adapt to a variety of investment strategies or owner-occupier needs.\n\nSituated within easy reach of the town centre, local shops, schools, and transport connections, the property enjoys a highly convenient setting with strong rental appeal and excellent accessibility.\n\nOffering flexibility, location, and outstanding potential, this is an opportunity not to be missed. Whether you're an investor looking to expand your portfolio or a buyer seeking an affordable home in a central location, Cadogan Street is well worth viewing.\n\nEarly viewing is highly recommended to appreciate the many possibilities this property has to offer.\n\nDisclaimer\n\nWhilst we make enquiries with the Seller to ensure the information provided is accurate, Yopa makes no representations or warranties of any kind with respect to the statements contained in the particulars which should not be relied upon as representations of fact. All representations contained in the particulars are based on details supplied by the Seller. Your Conveyancer is legally responsible for ensuring any purchase agreement fully protects your position. Please inform us if you become aware of any information being inaccurate.\n\nMoney Laundering Regulations\n\nShould a purchaser(s) have an offer accepted on a property marketed by Yopa, they will need to undertake an identification check and asked to provide information on the source and proof of funds. This is done to meet our obligation under Anti Money Laundering Regulations (AML) and is a legal requirement.  We use a specialist third party service together with an in-house compliance team to verify your information. The cost of these checks is £82.50 +VAT per purchase, which is paid in advance, when an offer is agreed and prior to a sales memorandum being issued. This charge is non-refundable under any circumstances.",
+ "keyFeatures": [
+  "Perfect home or business opportunity",
+  "Ideal TS1 location",
+  "No chain",
+  "Two bedroom terrace"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/39013e75d/90285630/39013e75d1966594ebc82836dcf8ab16.jpeg"
+ ],
+ "imageCount": 1,
+ "nearestStations": [
+  {
+   "name": "Middlesbrough Station",
+   "miles": 0.8238313540153909,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Thornaby Station",
+   "miles": 2.3363230682751457,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Marton Station",
+   "miles": 2.58313855779977,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Yopa, Scotland & The North",
+ "city": "Middlesbrough",
+ "sourceOutcode": "TS1",
+ "scrapedAt": "2026-08-31T14:59:01.913Z"
+}

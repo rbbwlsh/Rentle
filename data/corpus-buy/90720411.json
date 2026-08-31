@@ -1,0 +1,79 @@
+{
+ "id": "90720411",
+ "mode": "buy",
+ "displayAddress": "Broadway, Bradford, West Yorkshire, BD1",
+ "outcode": "BD1",
+ "incode": "1JB",
+ "latitude": 53.793206,
+ "longitude": -1.752122,
+ "priceAmount": 46000,
+ "priceLabel": "£46,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90720411",
+ "area": "Bradford, West Yorkshire",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": 150,
+  "annualServiceCharge": 2358.41,
+  "councilTaxBand": "B",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 22/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This two-bedroom 4th floor apartment in Landmark House, central Bradford, will appeal to those looking to add to a buy to let portfolio. The property is ideally placed opposite City Park and the Broadway shopping centre and train station are both within walking distance.\n\n\rThe apartment benefits from a generous living kitchen, two bedrooms and bathroom. There is an intercom system, a lift to all floors and a concierge. The property does require some modernisation throughout but similar units in the development have rented for £640 per month meaning the property has the potential to achieve a gross rental yield of 24% based on the guide price.\n\nLocated in the city centre which provides an abundance of amenities also having two train stations, making your commute to Leeds and other areas so much easier.",
+ "keyFeatures": [
+  "Two Bedrooms",
+  "Forth Floor Apartment",
+  "Ideal FTB or Investment",
+  "City Centre",
+  "Council Tax Band: B",
+  "EPC Rating: C"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f0b53f254/90720411/f0b53f2540666683ccc991127e7113f6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2d0f710b5/90720411/2d0f710b5bcb65cdb6014127e03df844.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fedaf421a/90720411/fedaf421aba94f0b1547dec7cd6a1b6a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6276ae15a/90720411/6276ae15a55ff689b580f1b900f1c1fc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0a958bddd/90720411/0a958bddd60f097b583d9284a6496d56.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1b2c41545/90720411/1b2c41545449458600cc05918d31f0a6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/033f00c4a/90720411/033f00c4aee5663cb24089e006248845.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Bradford Interchange Station",
+   "miles": 0.15732888764778388,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bradford Forster Square Station",
+   "miles": 0.260079777102071,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Frizinghall Station",
+   "miles": 1.9701132374560815,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Whitegates, Bradford",
+ "city": "Bradford",
+ "sourceOutcode": "BD1",
+ "scrapedAt": "2026-08-31T14:59:32.091Z"
+}

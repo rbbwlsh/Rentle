@@ -1,0 +1,87 @@
+{
+ "id": "92325468",
+ "mode": "buy",
+ "displayAddress": "Smiths Drive, Pentrechwyth, Swansea, SA1",
+ "outcode": "SA1",
+ "incode": "7GB",
+ "latitude": 51.64254,
+ "longitude": -3.92321,
+ "priceAmount": 190000,
+ "priceLabel": "£190,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92325468",
+ "area": "Pentrechwyth, Swansea",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 0,
+  "councilTaxBand": "C",
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Added on 24/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Beautifully Presented Two-Bedroom Home in Pentrechwyth\n\nA beautifully presented and thoughtfully designed two-bedroom terraced home, ideally positioned on the edge of this popular development, offering a wonderful sense of privacy and a particularly appealing rear garden.\n\nPerfect for first-time buyers, couples or those looking for a modern, low-maintenance home, the property offers stylish and well-planned accommodation across two floors, with excellent access to Morfa Retail Park, the Stadium, local amenities, schools and transport links.\n\nUpon entering, the welcoming hallway provides access to the main living accommodation and a convenient downstairs WC. The lounge offers a comfortable and inviting space to relax, while the impressive modern kitchen/diner provides the perfect heart to the home. With ample space for dining and entertaining, French doors open directly onto the rear garden, creating a lovely connection between the indoor and outdoor living spaces.\n\nUpstairs, there are two generously sized double bedrooms, both offering excellent proportions and flexibility for couples, families or those working from home. The floor is completed by a modern three-piece family bathroom and useful storage space.\n\nExternally, one of the property's standout features is its generous rear garden. Being situated on the edge of the development means the garden benefits from a greater degree of privacy than many similar properties, providing an ideal space for relaxing, entertaining or enjoying outdoor family life. The property has a driveway and provides ample off-road parking.\n\nThe location is equally impressive, with the property being conveniently situated for a range of everyday amenities, schools, transport links and popular retail and leisure destinations, including Morfa Retail Park and the Stadium.\n\n Tenure: Freehold,",
+ "keyFeatures": [
+  "New Build",
+  "Popular Location",
+  "Private Garden",
+  "Downstairs Toilet"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/7ac8f9199/92325468/7ac8f9199140277c96b08cc15ef04ae1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6ded86b27/92325468/6ded86b27ef9f7555be97042ccf118c9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5034a455d/92325468/5034a455d1fd92bcbf1e214c9e86bf4a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/74fc1b46c/92325468/74fc1b46c850728cf24f368517e31a98.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ec9620353/92325468/ec9620353447af42d147b636e155b98c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6ccf65850/92325468/6ccf658506f119d59720ee4c947856df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/80ae1532e/92325468/80ae1532ea3bdcaee04d66e064fe9425.jpeg",
+  "https://media.rightmove.co.uk/property-photo/db2efc6f7/92325468/db2efc6f71d57261059df9dbefd4ad74.jpeg",
+  "https://media.rightmove.co.uk/property-photo/87a6760cb/92325468/87a6760cbfb0e0ca585df565b243c80a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d2303a9a/92325468/6d2303a9a1371cdbfa1b0fccd336e0b6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bd2acb49c/92325468/bd2acb49ccea7b4204249802cf48ef04.jpeg",
+  "https://media.rightmove.co.uk/property-photo/06e86e61f/92325468/06e86e61f46c07357b1df7f3a930d878.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a422cc659/92325468/a422cc659f725a38ad2d215fefe689c9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/894a2289d/92325468/894a2289d3868bef21fefad4b8176c89.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d8c1ffaf7/92325468/d8c1ffaf7eee9231170d706176f3bd57.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b95268e51/92325468/b95268e518bb5d02b19989e13e2c2880.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1923bb11d/92325468/1923bb11dd8e6556a5b7930ca0947b6d.jpeg"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "Swansea Station",
+   "miles": 1.4195489209411383,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Llansamlet Station",
+   "miles": 2.1042791217943866,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Skewen Station",
+   "miles": 3.5394388130444177,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Belvoir, Mumbles",
+ "city": "Swansea",
+ "sourceOutcode": "SA1",
+ "scrapedAt": "2026-08-31T15:02:54.840Z"
+}

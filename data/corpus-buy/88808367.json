@@ -1,0 +1,78 @@
+{
+ "id": "88808367",
+ "mode": "buy",
+ "displayAddress": "Derby Street, Nottingham City Centre",
+ "outcode": "NG1",
+ "incode": "5FF",
+ "latitude": 52.955181,
+ "longitude": -1.157714,
+ "priceAmount": 80000,
+ "priceLabel": "£80,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/88808367",
+ "area": "Nottingham City Centre",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 103,
+  "annualGroundRent": 175,
+  "annualServiceCharge": 1800,
+  "councilTaxBand": "A",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 03/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "GUIDE PRICE £80,000 - £90,000 APARTMENT WITH TWO PARKING SPACES!! Fantastic opportunity to acquire a well-presented top floor apartment in the heart of Nottingham City Centre, offered with no onward chain and the rare benefit of allocated undercover parking.\n\nEntering through the welcoming entrance hall, the apartment opens into a bright and comfortable lounge. The fitted kitchen is thoughtfully designed with ample storage and workspace. The double bedroom offers a spacious retreat and a modern fitted bathroom serves the home. Externally, the property further benefits from an allocated undercover parking space, adding valuable convenience in this highly sought-after central location.\n\nThis apartment enjoys easy access to everything Nottingham City Centre has to offer. A wide range of shops, cafés, bars and restaurants are all within walking distance, alongside excellent transport links including tram, bus and rail services. Nottingham Trent University is also nearby, making this an appealing purchase for professionals, students or investors alike. Offering low-maintenance living in a prime location, this is a home perfectly suited to modern city lifestyles.\n\nProperties in this location are always in strong demand. Contact haart today to arrange your viewing and see everything this city apartment has to offer.\n\nLeasehold Information:\nYears Remaining: 103\nAnnual Service Charge: £1800\nAnnual Ground Rent: £175",
+ "keyFeatures": [
+  "TOP FLOOR APARTMENT",
+  "ONE DOUBLE BEDROOM",
+  "ALLOCATED COVERED PARKING",
+  "CLOSE TO AMENITIES",
+  "EXCELLENT TRANSPORT LINKS",
+  "GRADE II LISTED BUILDING"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/e8aa779ba/88808367/e8aa779ba1f78a940e59b008864c85af.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aaee9a43a/88808367/aaee9a43a7cafb18a0a8270e5c8dec0c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e867f411b/88808367/e867f411b5cae3f6d7773f6453fbf6ad.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1756de3ac/88808367/1756de3ac3fbe7106f1ce718b11a1ec8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/72ffd2353/88808367/72ffd235308a8a6931dbd41dee1ae67a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9a05e0275/88808367/9a05e02751f4e9179f57e79feacacf15.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Nottingham Trent University Tram Stop",
+   "miles": 0.21774980915806855,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Royal Centre Tram Stop",
+   "miles": 0.22827691029622885,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Old Market Square Tram Stop",
+   "miles": 0.3454901160025177,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "haart, Nottingham",
+ "city": "Nottingham",
+ "sourceOutcode": "NG1",
+ "scrapedAt": "2026-08-31T15:00:30.103Z"
+}

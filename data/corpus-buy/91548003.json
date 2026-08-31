@@ -1,0 +1,87 @@
+{
+ "id": "91548003",
+ "mode": "buy",
+ "displayAddress": "Toft Green, York, North Yorkshire, YO1",
+ "outcode": "YO1",
+ "incode": "6AD",
+ "latitude": 53.957762,
+ "longitude": -1.086603,
+ "priceAmount": 600000,
+ "priceLabel": "£600,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91548003",
+ "area": "York, North Yorkshire",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Penthouse",
+ "details": {
+  "propertyType": "Penthouse",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": 1233,
+  "sizeSqM": 115,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 219,
+  "annualGroundRent": 250,
+  "annualServiceCharge": 5056,
+  "councilTaxBand": "G",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 02/08/2026"
+ },
+ "sizeSqFt": 1233,
+ "sizeSqM": 115,
+ "description": "A stunning three-bedroom penthouse within the sought-after Hudson Quarter development. Perfectly positioned in the heart of York, just moments from the train station, this residence offers the perfect blend of urban living within a peaceful oasis. With sleek, contemporary architecture and the benefit of a seven-day on-site concierge, Hudson Quarter defines modern luxury living in the centre of York.\n\nLocated on the fifth floor, the wide entrance hall, finished in engineered wood flooring, sets the tone for what is to come. All three double bedrooms are bright and generous and come with built-in storage, whilst the principal offers a sleek en-suite shower room as well. The family bathroom mirrors this elegant design, boasting a full-sized bath, rain shower, and sophisticated neutral tiling for a calming, spa-like feel.\n\nThe true highlight awaits in the open-plan living, dining, and kitchen space. Bathed in natural light from floor-to-ceiling windows, this is a home built for both relaxation and entertaining. The sleek, handleless kitchen features built-in appliances, an instant hot water tap, and a striking quartz-topped island, whilst the living area opens onto a private roof terrace with views of York’s historic city walls. Smart home technology, including app-controlled blinds, adds a layer of effortless sophistication. Offered with secure underground parking, by separate negotiation, this is contemporary city living at its finest.",
+ "keyFeatures": [
+  "Stunning three-bedroom penthouse apartment in the prestigious Hudson Quarter development.",
+  "Prime city centre location, just moments from York Railway Station and local amenities.",
+  "Situated on the fifth floor, offering privacy and elevated views.",
+  "Spacious entrance hall with high-quality engineered wood flooring throughout.",
+  "Three generous double bedrooms, all featuring built-in storage.",
+  "Principal bedroom benefits from a stylish en-suite shower room.",
+  "Luxury family bathroom with a full-sized bath and rainfall shower.",
+  "Bright and spacious open-plan living, dining and kitchen area.",
+  "Floor-to-ceiling windows flooding the home with natural light.",
+  "Contemporary handleless kitchen with integrated appliances and premium finishes."
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/12b90bfe0/91548003/12b90bfe0802b58d78d8832674bafbd2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/99d2d2f98/91548003/99d2d2f988f388fd2bd4848b8d0af707.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e9aa6e602/91548003/e9aa6e602a1d06ee3b01c7e646cc194e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/df890c47f/91548003/df890c47fe6607b449acc3db9eb22b90.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9242f7ea2/91548003/9242f7ea28395f1c17557c32c2024411.jpeg",
+  "https://media.rightmove.co.uk/property-photo/217f89e4b/91548003/217f89e4b550ea26fe0e9ff69cd2251b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d546a5895/91548003/d546a5895e3be11e5dd3b335010f862e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/68b1df537/91548003/68b1df537eb617df01a7b34d763ae2d5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c2b1f84e8/91548003/c2b1f84e83f74ca2413f64eb74cd4dd7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0df6ac320/91548003/0df6ac320ea975944e4a9ef3f328cd3b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1a9a66d96/91548003/1a9a66d96ab0feb9f664aa8eb0f9c946.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b5ac382ff/91548003/b5ac382ff798e2e21ed6e42a6f9b3448.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fbeb5ed7c/91548003/fbeb5ed7c0205f19297a27347f841801.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0d4dca175/91548003/0d4dca175f4f896b885863c2de5f4e66.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d0253e037/91548003/d0253e037c8199e5dc3b8649c0d44583.jpeg",
+  "https://media.rightmove.co.uk/property-photo/db01adfe4/91548003/db01adfe429b69af668619bfcabe18bb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f19df6294/91548003/f19df6294531647cdb043aeee600fb75.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ec4ffc611/91548003/ec4ffc6118717f7d74804be98becf531.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "York Station",
+   "miles": 0.26866963506534614,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Poppleton Station",
+   "miles": 2.8112781036762207,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Carter Jonas, York",
+ "city": "York",
+ "sourceOutcode": "YO1",
+ "scrapedAt": "2026-08-31T15:03:54.454Z"
+}

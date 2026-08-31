@@ -1,0 +1,78 @@
+{
+ "id": "92163867",
+ "mode": "buy",
+ "displayAddress": "Meadenvale, Peterborough",
+ "outcode": "PE1",
+ "incode": "5PN",
+ "latitude": 52.588722,
+ "longitude": -0.205808,
+ "priceAmount": 140000,
+ "priceLabel": "£140,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92163867",
+ "area": "Meadenvale, Peterborough",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Semi-Detached",
+ "details": {
+  "propertyType": "Semi-Detached",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 27/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "** Semi Detached House | No Upward Chain | Open Plan Living | Re-Fitted Kitchen | Off Road Parking | Ideal First Time Home | Enclosed Rear Garden | Cul-De-Sac Location | Close to Local Amenities | Popular Location | Viewing Advised\n\n** Offering NO UPWARD CHAIN & nestled in a cul-de-sac location within Parnwell is this well presented semi detached home, conveniently located near to local amenities with good transport links nearby and in brief the property comprises. From the front, into an open plan living kitchen space with dual aspect windows with stairs leading to the first floor. Kitchen benefits from a re-fitted range of wall and floor level units with a built in oven with fitted hob and plumbing for washing machine. First floor provides access to a double bedroom with built in wardrobe and a three piece family bathroom. Outside, graveled front garden and an enclosed garden to the side, there is off road parking to side of the property. \n\nTenure: Freehold\nCouncil Tax Band: A\n\nOpen Plan Living: - 4.64m x 4.46m (15'2\" x 14'7\") - \n\nFirst Floor & Landing: - \n\nBedroom: - 2.72m x 3.44m (8'11\" x 11'3\") - \n\nBathroom: -",
+ "keyFeatures": [
+  "Semi Detached Home",
+  "One Double Bedroom",
+  "No Upward Chain",
+  "Ideal First Time Buy/Investment",
+  "Re-Fitted Kitchen",
+  "Open Plan Living",
+  "Enclosed Garden",
+  "Off Road Parking",
+  "Viewing Advised",
+  "Mortgage Advice Available in Branch"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/6c2f3c707/92163867/6c2f3c707a13fb31ab9f8bfca0b7bdc3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f53dec24d/92163867/f53dec24d0da2bbb987898566634e30b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f414ea3c5/92163867/f414ea3c5be6ae35aaab393b20f0aa57.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2b1773b81/92163867/2b1773b81faa18a1771c8b2df80705ef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2ec9944f8/92163867/2ec9944f873e09298e0cb8dadc4c3172.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bae5d6fdd/92163867/bae5d6fdd86553c03de9a285fabf4333.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ad2c9b286/92163867/ad2c9b286c235db1c54a6a17581d830c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/db96d2a33/92163867/db96d2a339ed9d6a90d75f9ee3ee0cd8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/29e25d27a/92163867/29e25d27a94a0af1a4c5647b18956011.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Peterborough Station",
+   "miles": 2.106831020620081,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Whittlesea Station",
+   "miles": 4.561901747824422,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Firmin & Co, Orton Waterville",
+ "city": "Peterborough",
+ "sourceOutcode": "PE1",
+ "scrapedAt": "2026-08-31T14:56:51.362Z"
+}

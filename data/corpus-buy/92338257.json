@@ -1,0 +1,86 @@
+{
+ "id": "92338257",
+ "mode": "buy",
+ "displayAddress": "Drapers Fields, Canal Basin, Coventry",
+ "outcode": "CV1",
+ "incode": "4RB",
+ "latitude": 52.41468,
+ "longitude": -1.511201,
+ "priceAmount": 110000,
+ "priceLabel": "£110,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92338257",
+ "area": "Canal Basin, Coventry",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 495,
+  "sizeSqM": 46,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 160,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 1260,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 24/08/2026"
+ },
+ "sizeSqFt": 495,
+ "sizeSqM": 46,
+ "description": "**VACANT POSSESSION - CHAIN FREE ** This modern one bedroom top floor apartment is within walking distance to Coventry City Centre along with an abundance of local amenities and benefits from double-glazing and electric storage heating. Theres is a spacious lounge with dual aspect windows making it feel light & airy , the modern fitted kitchen comes with a range of wall and base units, a generous size storage cupboard and an integrated electric oven & hob and the part tiled bathroom has a white suite with a corner shower cubicle. Other features include allocated parking, secure entry phone system and pleasant views over the Coventry canal & the city skyline. Drapers Fields is a very popular modern development with both investors and first time buyers and is situated just outside the ring road offering a short walk into Coventry City Centre, local shops and has great transport links by both public transport and by car directly onto the ring road.\n\nHallway - 2.82m x 1.73m (9'3\" x 5'8\") - Entrance hallway with two built in storage cupboards.\n\nBathroom - 1.86m x 1.70m (6'1\" x 5'7\") - Part tiled bathroom with white suite to include shower cubicle, W/C and hand wash basin.\n\nKitchen - 3.63m x 2.38m (11'11\" x 7'10\") - Double glazed window to rear, range of wall and base units with integrated electric hob and oven. Also benefits from built in pantry cupboard.\n\nBedroom - 2.82m x 3.46m (9'3\" x 11'4\") - Double glazed window to side, double room with carpet.\n\nLounge - 3.63m x 4.61m (11'11\" x 15'1\") - Dual aspect double glazed windows, spacious lounge with carpet.\n\nTenure - Leasehold - The agent has been informed that the property is offered leasehold however any interested party should obtain confirmation of this, along with any ongoing associated costs such as ground rent and service charges, via their own solicitor or legal representative. Any costs stated in these particulars have been provided by the vendor and have not been verified by the agent.\n\nViewings - Viewings are strictly by appointment only via Archer Bassett.\n\nAgent Notes - 1. Anti-Money Laundering (AML) Regulations – All named purchasers and anyone gifting funds will be asked to produce identification documentation before proceeding to instruction of solicitors and we would ask for your co-operation in order to proceed to agreeing the sale as soon as possible.\n2. Source of Funds - All named purchasers and anyone gifting funds will be asked to produce evidence of the source of their funds before proceeding to instruction of solicitors.\n3. These particulars do not constitute part or all of an offer or contract.\n4. Any measurements indicated are intended for guidance only and as such must not be relied upon and any interested parties are advised to confirm any measurements before committing to any offer.\n5. Archer Bassett has not tested any equipment, appliances, fixtures, fittings or services.\n\nLeasehold Information - 160 years on the lease. \nGround Rent is Zero\nService charge is is £105pcm (£1260pa)",
+ "keyFeatures": [
+  "VACANT POSSESSION - NO ONWARD CHAIN",
+  "LONG LEASE - 160 YEARS LEASE",
+  "SERVICE CHARGE £105PCM  (£1260 PA)  &amp; ZERO GROUND RENT",
+  "PREVIOUSLY LET AT  £9540 PA",
+  "SUPERB ONE BEDROOM TOP FLOOR APARTMENT - CLOSE TO THE CITY CENTRE",
+  "MODERN FITTED KITCHEN",
+  "SPACIOUS LOUNGE",
+  "BATHROOM WITH CORNER SHOWER",
+  "ALLOCATED PARKING",
+  "SECURE ENTRY PHONE SYSTEM"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/e82eede7e/92338257/e82eede7e02f3dce9c2ed463796bb8bf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/02d286813/92338257/02d28681388a919c270c8f6230af0954.jpeg",
+  "https://media.rightmove.co.uk/property-photo/48f74ce91/92338257/48f74ce91accddfb5eb997b1139a9ef0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb8c9346f/92338257/bb8c9346fe126f12aa7a06bef55c06d0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/529c9e0df/92338257/529c9e0df7ff854921d417dc3d802188.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2ec4b2f12/92338257/2ec4b2f128446754ea96d68f0d251405.jpeg",
+  "https://media.rightmove.co.uk/property-photo/861e4d44c/92338257/861e4d44c86bed01b9c11b74e2ecc972.jpeg",
+  "https://media.rightmove.co.uk/property-photo/021b9f64e/92338257/021b9f64e43722fa94bef198cf4efc5c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3b01f42e9/92338257/3b01f42e9e4fbb96423f66b6d85547af.jpeg",
+  "https://media.rightmove.co.uk/property-photo/33620ab6e/92338257/33620ab6e85b9a879411b368a6221a36.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Coventry Station",
+   "miles": 0.9668293969653049,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Canley Station",
+   "miles": 1.8777517764684788,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Coventry Arena Station",
+   "miles": 2.3218952179332843,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Archer Bassett, Coventry",
+ "city": "Coventry",
+ "sourceOutcode": "CV1",
+ "scrapedAt": "2026-08-31T14:55:56.463Z"
+}

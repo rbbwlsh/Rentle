@@ -1,0 +1,89 @@
+{
+ "id": "88134912",
+ "mode": "buy",
+ "displayAddress": "Kettleworks, Pope Street, Birmingham",
+ "outcode": "B1",
+ "incode": "3DU",
+ "latitude": 52.4853,
+ "longitude": -1.91764,
+ "priceAmount": 95000,
+ "priceLabel": "£95,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/88134912",
+ "area": "Kettleworks, Birmingham",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": 592,
+  "sizeSqM": 55,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "C",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 20/08/2026"
+ },
+ "sizeSqFt": 592,
+ "sizeSqM": 55,
+ "description": "Our latest listing is a Studio flat located in Birmingham. It is in close proximity to valuable amenities, is able to generate rewarding rental returns and has a tenant currently situated.\n\nFor investors looking to expand their portfolio, this is a fantastic opportunity!\n\nThis well-kept home features Studio Flat, lounge, bathroom and kitchen.\n\nInvestment details\n\nIt currently produces an annual gross income of £10,800 with tenants currently situated. Considering the purchase price and the potential rental income that could be earned in future years, this will make for a worthwhile addition to an investors property portfolio.\n\nFor greater detail on this property's investment potential, please see the Let Property Pack linked below.\n\nIf you are interested, please call us.\n\nTenancy Details\n\nThere are tenants that currently reside in the property and have consistently paid their rent for the duration of their stay. They do not have any intentions to move out so hope to remain in the property.\n\nWe are committed to facilitating a smooth transaction process between buyer and seller. To allow for maximum commitment to the sale from both parties, a Buyers Premium will apply in order to secure a property.",
+ "keyFeatures": [
+  "Spacious Living Spaces",
+  "Easy Access to Local Amenities",
+  "Buy-to-Let Opportunity",
+  "Tenant Currently Situated",
+  "Likely to attract enquiries from Serious Investors &amp; Developers",
+  "INVESTMENT POTENTIAL DETAILED BELOW (Let Property Pack)",
+  "Cash Buyers Only",
+  "RICS Level 2 Survey Available Upon Enquiry"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c794ae5c8/88134912/c794ae5c88ebcd36c337e063b1a5d1a4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9aa543ff8/88134912/9aa543ff8adcc9af4701f1768931d777.jpeg",
+  "https://media.rightmove.co.uk/property-photo/af4409441/88134912/af4409441fabf1d281ea82f8656b6efa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/29493e025/88134912/29493e02511b2f634ee2f3f4b702e3c4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/81b792bf1/88134912/81b792bf1c522b514eca7856e4f0eb19.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e83a70beb/88134912/e83a70beb3d88b79a91a0d8fc139aff9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/41254ecfa/88134912/41254ecfa22037bf100119f3b563b5d0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/324d1b4a1/88134912/324d1b4a1994b9efc85ae4ea87301ee1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d3d81afcb/88134912/d3d81afcbd148bb48b0d6b8b7dd7ea2b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2006d27a3/88134912/2006d27a3efea322b60a35707b652d98.jpeg",
+  "https://media.rightmove.co.uk/property-photo/38680c742/88134912/38680c7428abbc8a634e2b461b10da65.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eb9bcc0d5/88134912/eb9bcc0d58ae158e1ca75493f5fd762e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2a8114e1b/88134912/2a8114e1b0fd5dd4cdfef3d3d1470995.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b1629b448/88134912/b1629b44816475edc5b3e334e43cd884.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bd14bf242/88134912/bd14bf242dbad8ce50e07bced312b2f5.jpeg"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Jewellery Quarter Tram Stop",
+   "miles": 0.35189196216980606,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "St. Paul's Tram Stop",
+   "miles": 0.5926783557539712,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Birmingham Snow Hill Tram Stop",
+   "miles": 0.7233602879776357,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Let Property Sales & Management, Glasgow",
+ "city": "Birmingham",
+ "sourceOutcode": "B1",
+ "scrapedAt": "2026-08-31T14:48:54.661Z"
+}

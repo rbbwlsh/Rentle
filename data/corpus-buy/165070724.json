@@ -1,0 +1,92 @@
+{
+ "id": "165070724",
+ "mode": "buy",
+ "displayAddress": "Flat 18, Royal Standard House, Standard Hill, Nottingham",
+ "outcode": "NG1",
+ "incode": "6FX",
+ "latitude": 52.950788,
+ "longitude": -1.156049,
+ "priceAmount": 350000,
+ "priceLabel": "£350,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/165070724",
+ "area": "Royal Standard House, Nottingham",
+ "bedrooms": 3,
+ "bathrooms": 3,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 970,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "TBC",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Welcome to Royal Standard House...\n\nLeaders Estate Agents are delighted to welcome to the sale market this impressively spacious THREE bedroom, THREE bath/shower room apartment located in the desirable Royal Standard House in Nottingham. \n\nThis immaculately presented apartment provides an abundance of space, character and style. \n\nThe apartment of offer briefly comprises of: Impressive communal entrance hall, THREE DOUBLE bedrooms with built in wardrobes, three bath/shower rooms, lounge with double doors to a spacious dining kitchen fitted with a modern range of units and appliances. In addition to this, residents have full use of the communal gymnasium as well as a gated parking space.\n\nRoyal Standard House is situated in the heart of Nottingham's vibrant city centre, an area recognised for its vibrant atmosphere and rich history. This location provides easy access to superb shopping, boutique stores, delis, cafes and restaurants catering to a wide audience. The close proximity to the exclusive Park Estate and The Arboretum adds a green and tranquil escape amongst the hustle and bustle of city life. \n\nWe are certain it will attract strong positive interest so contact the Nottingham Sales office at your earliest convenience to avoid disappointment on   or email Nottingham.",
+ "keyFeatures": [
+  "Immaculately Presented Throughout",
+  "Impressive Communal Entrance Hall",
+  "Opposite Nottingham Castle",
+  "Communal Lift &amp; Stairway",
+  "Three Double Bedrooms",
+  "Three Bath/Shower rooms",
+  "Spacious Open Plan Lounge/Kitchen/Diner",
+  "Communal Gymnasium",
+  "Secure Gated Community",
+  "Viewing Highly Recommended"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/b58328c6e/165070724/b58328c6eb749c8fd8202b956cf5611f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/114d5ed09/165070724/114d5ed09a9268d4de095623ae8d70dc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f2f797a9a/165070724/f2f797a9acbc13c81590ea85ef7f019a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/118069698/165070724/118069698ca5651f931ae02cc22752b0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b690d2857/165070724/b690d2857d830325116d90503fdb338a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/738c8bb6a/165070724/738c8bb6a6777d31d40d3bd024dd25c7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/88b7d1d1a/165070724/88b7d1d1a632efaa82c0ec4a1a0d71df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/992d46ad5/165070724/992d46ad50428c84da8ce004601e280e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a11f679e3/165070724/a11f679e30ff1216e75694efbf232821.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0351db83d/165070724/0351db83d4e5d75c234761c90ed9eafa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/55c095e58/165070724/55c095e589552aba38551dd69f9ebdd2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/703b9564b/165070724/703b9564bd6a1ca7cf9612ec355fa786.jpeg",
+  "https://media.rightmove.co.uk/property-photo/84e306c26/165070724/84e306c26bd3c176e4f8494615ff01a9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/340a3599a/165070724/340a3599a95543819215557d6542d254.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d1761747a/165070724/d1761747a236b47699d88b8fdb795031.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5b97fa6f5/165070724/5b97fa6f5dd8fb56e8738aab232dc835.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Old Market Square Tram Stop",
+   "miles": 0.29089794398707863,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Royal Centre Tram Stop",
+   "miles": 0.34702039757558384,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Station St Tram Stop",
+   "miles": 0.4594004122505053,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Leaders Sales, Nottingham",
+ "city": "Nottingham",
+ "sourceOutcode": "NG1",
+ "scrapedAt": "2026-08-31T16:57:37.098Z"
+}

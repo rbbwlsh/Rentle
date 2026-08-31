@@ -1,0 +1,78 @@
+{
+ "id": "91846947",
+ "mode": "buy",
+ "displayAddress": "The Towpath, Hythe Bridge Street, OX1",
+ "outcode": "OX1",
+ "incode": "2TA",
+ "latitude": 51.754166,
+ "longitude": -1.265405,
+ "priceAmount": 75000,
+ "priceLabel": "£75,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91846947",
+ "area": "The Towpath",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Not Specified",
+ "details": {
+  "propertyType": "Not Specified",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "TBC",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 10/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A delightful houseboat moored in a fantastic central Oxford location.\n\n\rThe interior blends contemporary comfort with traditional character, featuring beautifully hand-crafted solid wood fittings, including a bespoke ship-style kitchen and cleverly designed self-assembly sofa beds. Practical storage is provided through hanging space, bookshelves and a fitted cupboard.\n\nOutside, the deck offers a wonderful spot to relax and watch life unfold along the towpath or enjoy peaceful views towards the trees of Worcester College. It is a tranquil setting with a timeless atmosphere, where passing walkers and boaters often stop for a friendly chat.\n\nThoughtfully designed to make the most of the available space, the accommodation includes a well-equipped handcrafted kitchen with a gas cooker and electric fridge, along with a Fired Earth tiled bathroom featuring hot water and a caravan-style Porta Potti. While entirely practical and functional, the bathroom retains the authentic character of life aboard a historic narrowboat.\n\nDating back to 1877, this remarkable boat is full of charm, character and individuality. It offers a unique experience that is comfortable yet delightfully simple.\n\nThe sale includes the permanent mooring which is transferable and can be sold at a future date.\n\n*** Please note that this narrowboat is not mortgageable, so any buyer will need to have cash funds ready and available ***",
+ "keyFeatures": [
+  "House Boat &amp; Mooring",
+  "Wood Burner in Reception",
+  "Popular Location",
+  "Cash Buyers (Non-Mortgageable)"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d5f695dcc/91846947/d5f695dcc6eeaca35cb29b8620e6996b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d656b82cd/91846947/d656b82cd7b0d22f12d0fbde142c3d64.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cfd6b3e7e/91846947/cfd6b3e7e415876c3e4b8eb18b8dbde7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/62c483055/91846947/62c483055ded5ba7edb35097c67130c6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7888f689c/91846947/7888f689c6b2fe9b53bb9188cdc7fb2a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2fc0d4772/91846947/2fc0d477212f998770836adc661f3df3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6507c539b/91846947/6507c539b6c2353c1f0c4d6ac82534d4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/873dde6e0/91846947/873dde6e0a7f97acc40f4c12d7df4427.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Oxford Station",
+   "miles": 0.22081969485234657,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Oxford Parkway Station",
+   "miles": 3.477038311383301,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Radley Station",
+   "miles": 4.840708165281502,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Penny & Sinclair, Summertown",
+ "city": "Oxford",
+ "sourceOutcode": "OX1",
+ "scrapedAt": "2026-08-31T14:57:47.120Z"
+}

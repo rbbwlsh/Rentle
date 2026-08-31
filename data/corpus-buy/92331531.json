@@ -1,0 +1,81 @@
+{
+ "id": "92331531",
+ "mode": "buy",
+ "displayAddress": "Howard Street, City Centre, Glasgow, G1",
+ "outcode": "G1",
+ "incode": "5HH",
+ "latitude": 55.855235,
+ "longitude": -4.249359,
+ "priceAmount": 190000,
+ "priceLabel": "£190,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92331531",
+ "area": "City Centre, Glasgow",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": 797,
+  "sizeSqM": 74,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "F",
+  "priceQualifier": "Fixed Price",
+  "listingUpdate": "Reduced on 06/05/2026"
+ },
+ "sizeSqFt": 797,
+ "sizeSqM": 74,
+ "description": "Conveniently placed for all local amenities, this fully renovated, bright and spacious three bedroom apartment offers bright and spacious accommodation and will appeal to a broad spectrum of buyers, in particular buy to let investors looking for a healthy return. The location of this fabulous flat is particularly handy for city centre amenities plus Strathclyde and Caledonian Universities, the City of Glasgow College and the Merchant City with a host of bars, restaurants and cafes only a short walk away. Argyle Street, Glasgow Central and Queen Street Train Station are all within 5 minute walk, plus St Enoch Square Subway station is a stone's throw away. Buchanan Street shopping is right on your doorstep along with plenty of easily accessed travel links to motorways.\n\n\rThe building is accessed via a secure entry intercom system for added security. The attached photographs, floor plan and HD video tour will give an idea to the size and layout of the flat. However, in brief the accommodation extends to; welcoming entrance hallway with large cupboard off, spacious living/dining room with the kitchen benefitting from base and wall mounted units, tiled splash back and appliances. There are three bedrooms, with the principal room also benefits from built in storage. The accommodation is completed by a stunning, fully tiled bathroom with three piece suite and shower over the bath. The property also benefits from access to a secure gym, which the owners can access via a fob.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1ffd605fb/92331531/1ffd605fb809e7d31c641cda73182ebd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f840a5639/92331531/f840a5639f7f71639e5c503386dd84b8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9c6e3162b/92331531/9c6e3162bc35420a33b5437d1df415c7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6b5ae5d4b/92331531/6b5ae5d4b3e9c24d29c5869ffc6e530f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7b973fc93/92331531/7b973fc93b30f8b698e29c0c4e5aca2b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/577e07339/92331531/577e0733995eab0b1d76c55202ba49ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ad0fe1629/92331531/ad0fe1629d3052f210d726450a48910c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fc5afd615/92331531/fc5afd6150608c23bce0d1ea7575345d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3637991ae/92331531/3637991ae7487fc0270e7b4162eace92.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ec159a117/92331531/ec159a117dea5c4d6ed9f4737cf244df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fabd21051/92331531/fabd2105151d175aed76a60c3d7dae07.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c1a3e3199/92331531/c1a3e31998c7eda3bce02ed74b2c3e38.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b28591f3d/92331531/b28591f3d1514bf8d5a11af28a4006e5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/103f89d00/92331531/103f89d005d6d486f204869a55a88cf5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/572b9add3/92331531/572b9add3915d9d4f3f13377f9d23e99.jpeg",
+  "https://media.rightmove.co.uk/property-photo/892c597ea/92331531/892c597ea34700bbddbe65a27c2e140f.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Argyle Street Station",
+   "miles": 0.1364412563713418,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "St. Enoch Station",
+   "miles": 0.21996371591181604,
+   "types": [
+    "LIGHT_RAILWAY"
+   ]
+  },
+  {
+   "name": "Glasgow Central Station",
+   "miles": 0.4008497837063887,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Clyde Property, Westend",
+ "city": "Glasgow",
+ "sourceOutcode": "G1",
+ "scrapedAt": "2026-08-31T16:57:57.769Z"
+}

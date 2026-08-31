@@ -1,0 +1,83 @@
+{
+ "id": "174964970",
+ "mode": "buy",
+ "displayAddress": "Horwood Close, Cardiff",
+ "outcode": "CF24",
+ "incode": "2LY",
+ "latitude": 51.490107,
+ "longitude": -3.146583,
+ "priceAmount": 155000,
+ "priceLabel": "£155,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/174964970",
+ "area": "Cardiff",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "End of Terrace",
+ "details": {
+  "propertyType": "End of Terrace",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "With off-road parking and a welcoming front garden, the home immediately makes a warm first impression. Step inside and you’re greeted by a bright, open-plan living room and kitchen, flooded with natural light — the perfect space for relaxing or entertaining. Upstairs, you’ll find a well-proportioned double bedroom complete with ample storage, alongside a family bathroom, with a recently fitted shower as well as boiler.\n\nWhile the property would benefit from some modernisation, it presents the ideal canvas for anyone eager to put their own stamp on a home, however is perfectly livable as is. The generously sized rear garden, with convenient side access, adds to the appeal — offering fantastic potential for outdoor enjoyment or future enhancement, with the added benefit of newly installed fencing and shed. Positioned on a quiet dead-end street, the home enjoys a sense of privacy while still being within easy reach of local amenities, being just a mile to the city centre, and excellent transport links.\n\nIf you're searching for a home with potential in a well-connected yet peaceful location, this could be the perfect opportunity. Ideal for first time buyers & those looking to downsize. Get in touch today to arrange your viewing and start imagining the possibilities.",
+ "keyFeatures": [
+  "Perfect First Time Buy",
+  "Quiet Dead End Street",
+  "Off Road Parking",
+  "Great Sized Back Garden",
+  "Open Plan Living",
+  "Close to Local Amenities"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/607d3a7b9/174964970/607d3a7b9ea0dd9eb7f37e25fbe372ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f30e61ad1/174964970/f30e61ad18843ead59dc18d83f26cf73.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3d9832d68/174964970/3d9832d68e15c63e1c7075748b779b51.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a978acb9b/174964970/a978acb9b9b0b6feb6ba9389566d3121.jpeg",
+  "https://media.rightmove.co.uk/property-photo/582f59bfd/174964970/582f59bfd1ebc7707439e8d3068d6176.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f4cf56e93/174964970/f4cf56e9332840405b8ed048e59c53c6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/40d81cd13/174964970/40d81cd130a64f2bfe75ba836ec5ef34.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9d72af0c3/174964970/9d72af0c3d02b48e6d79d8c84e808a61.jpeg",
+  "https://media.rightmove.co.uk/property-photo/be185275c/174964970/be185275c5cd006d19b26640fa3f8ae6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee152463b/174964970/ee152463b4575a64c760d109016e80fb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9e2269ed6/174964970/9e2269ed67ad5de17072c9e60da973c8.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Cardiff Queen Street Station",
+   "miles": 1.1765893852216005,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cathays Station",
+   "miles": 1.4188690971684408,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cardiff Central Station",
+   "miles": 1.696180148568949,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Darlows, Albany Road",
+ "city": "Cardiff",
+ "sourceOutcode": "CF24",
+ "scrapedAt": "2026-08-31T16:55:04.944Z"
+}

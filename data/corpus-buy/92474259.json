@@ -1,0 +1,78 @@
+{
+ "id": "92474259",
+ "mode": "buy",
+ "displayAddress": "Forth Banks, Newcastle Upon Tyne",
+ "outcode": "NE1",
+ "incode": "3PN",
+ "latitude": 54.965385,
+ "longitude": -1.615825,
+ "priceAmount": 100000,
+ "priceLabel": "£100,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92474259",
+ "area": "Forth Banks, Newcastle Upon Tyne",
+ "bedrooms": 0,
+ "bathrooms": null,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 0,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "C",
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Added on 27/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "For sale: a well-presented two-bedroom flat within Forth Banks Tower, ideally placed on the edge of Newcastle city centre and the Quayside.\r\n\r\nThe property offers a bright open-plan reception room and kitchen, with full-height windows running the length of the living space, providing excellent natural light and wide city views. The kitchen is fitted with contemporary wood-effect units, contrasting worktops and a breakfast bar, as well as integrated hob and oven and tiled splashbacks, creating a practical space for everyday cooking and entertaining.\r\n\r\nBoth bedrooms are doubles. The main bedroom benefits from floor-to-ceiling glazing and built-in storage, while the second bedroom is currently arranged as a flexible study/guest room. The bathroom is finished with neutral tiling and includes a white suite with shower over bath and glass screen.\r\n\r\nForth Banks Tower enjoys a central Newcastle location, a short walk from the Quayside, Riverside walkways and the amenities of the city centre, including Eldon Square and the surrounding shops, restaurants and bars. Nearby green spaces include Leazes Park and the Town Moor, both easily accessible on foot or by bicycle.\r\n\r\nTransport links are strong: Newcastle Central Station is approximately 10 minutes’ walk, offering mainline services to London, Edinburgh, Leeds and Manchester, as well as Tyne & Wear Metro connections across Tyneside and to Newcastle International Airport. Regular bus services operate from the surrounding streets, and the A1 and A19 are readily reached for regional commuting.\r\n\r\nThis two-bedroom flat will appeal to owner-occupiers and investors seeking a modern city-centre home with excellent connectivity.",
+ "keyFeatures": [
+  "Two bed apartment on 11th Floor of purpose built development",
+  "Immaculate city living with access to Quayside and City Centre",
+  "125 years from 27 November 2006 - 105 years remaining "
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/efa8207af/92474259/efa8207af949ba71a6b5ed9ad93038fd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/249ad64c2/92474259/249ad64c23bdb0accc816ef55ffa4c77.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d7e15cba1/92474259/d7e15cba1755f6191c4539550fce59ae.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8343928f4/92474259/8343928f4c32e419ae6e4b016391459f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3bb13da60/92474259/3bb13da603b7a924faaca85ea578a0c9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/50a31dc1e/92474259/50a31dc1e3618172af4a4f6d5f735f00.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1a3b3aeae/92474259/1a3b3aeae12444068a34f25fa03c54cc.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Newcastle Central Station",
+   "miles": 0.22698520155018556,
+   "types": [
+    "NATIONAL_TRAIN",
+    "TRAM"
+   ]
+  },
+  {
+   "name": "St James Station",
+   "miles": 0.6427925439232081,
+   "types": [
+    "LIGHT_RAILWAY"
+   ]
+  },
+  {
+   "name": "Manors Station",
+   "miles": 0.7341409909921839,
+   "types": [
+    "NATIONAL_TRAIN",
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Rook Matthews Sayer, Jesmond",
+ "city": "Newcastle",
+ "sourceOutcode": "NE1",
+ "scrapedAt": "2026-08-31T14:46:05.419Z"
+}

@@ -1,0 +1,85 @@
+{
+ "id": "89999703",
+ "mode": "buy",
+ "displayAddress": "St Matthew's Gardens, Cambridge, Cambridge, CB1",
+ "outcode": "CB1",
+ "incode": "2PH",
+ "latitude": 52.20744,
+ "longitude": 0.14139,
+ "priceAmount": 200000,
+ "priceLabel": "£200,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89999703",
+ "area": "Cambridge, Cambridge",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": 250,
+  "annualServiceCharge": 3631.93,
+  "councilTaxBand": "C",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 21/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Belvoir are pleased to present this property is offered in immaculate condition in the sought-after St Matthew’s Gardens development in central Cambridge, for which an underground parking space is included. With high ceilings throughout and a Juliette balcony in the living area, the accommodation feels bright and generously proportioned. The property has been finished to a high standard and benefits from an EPC rating of C and Council Tax Band C.\n\nSt Matthew’s Gardens is well positioned for access to Cambridge city centre, with an extensive range of shops, restaurants, cafés and cultural attractions. Nearby green spaces, including Parker’s Piece, Midsummer Common and the riverside walks along the Cam, provide attractive walking and cycling routes.\n\nThe location offers excellent public transport links. Cambridge railway station is within easy reach, providing regular services to London King’s Cross and London Liverpool Street, as well as connections to Ely, Peterborough and Stansted Airport. Local bus routes connect the area with key employment hubs and retail areas across the city.\n\nCyclists benefit from established cycle routes into the historic core of Cambridge and towards the university colleges and science parks. Everyday amenities, including supermarkets, local shops and cafés, are located within convenient distance, adding to the practicality of this central position.\n\nOverall, this is a well-presented Cambridge property in a highly accessible location, combining modern accommodation, secure underground parking and strong transport connections.\n\n EPC rating: C. Tenure: Leasehold, Length of lease (remaining): 100 years 4 months,  Known building safety issues or planned/required works: None at the time of listing.  Planning permissions: None at the time of listing.  Mobile signal information: Please see under EPC section.",
+ "keyFeatures": [
+  "Immaculate one bedroom flat",
+  "Double bedroom with built-in wardrobes",
+  "Underground parking",
+  "Shared green space",
+  "Sought-after central Cambridge location",
+  "Bright lounge with Juliet balcony",
+  "Near parks, walking and cycling routes",
+  "Excellent public transport connections",
+  "Access to Cambridge railway station",
+  "First floor apartment"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c088e48be/89999703/c088e48bee025836fc7bbdc030e3971f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/671fe41bf/89999703/671fe41bf8c268bfada105a59076d5ad.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4831758d2/89999703/4831758d2f53abcde63781f873a508d2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8369c4af4/89999703/8369c4af4c7b4c659420a316d095f0ca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/86c75be46/89999703/86c75be4623909ee716a93d61dc60e00.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ec1f79014/89999703/ec1f7901453768298332a6047a437bcc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0750f779b/89999703/0750f779be04be155d9060d65e870917.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f52a0d97f/89999703/f52a0d97fdb3e272acad46b4f596ae48.jpeg",
+  "https://media.rightmove.co.uk/property-photo/00e306630/89999703/00e3066309424dc427493317c3906115.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Cambridge Station",
+   "miles": 0.9462739173363901,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cambridge North",
+   "miles": 1.3481065446774418,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Shelford Station",
+   "miles": 4.04676728046908,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Belvoir, Cambridge",
+ "city": "Cambridge",
+ "sourceOutcode": "CB1",
+ "scrapedAt": "2026-08-31T14:56:37.516Z"
+}

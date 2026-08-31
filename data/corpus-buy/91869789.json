@@ -1,0 +1,87 @@
+{
+ "id": "91869789",
+ "mode": "buy",
+ "displayAddress": "Telephone House, High Street, SO14",
+ "outcode": "SO14",
+ "incode": "2NW",
+ "latitude": 50.89767,
+ "longitude": -1.403682,
+ "priceAmount": 250000,
+ "priceLabel": "£250,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91869789",
+ "area": "Telephone House",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 104,
+  "annualGroundRent": 200,
+  "annualServiceCharge": 3149,
+  "councilTaxBand": "C",
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Added on 11/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Located on High Street in the heart of Southampton, this well-presented three-bedroom apartment offers spacious and versatile accommodation, ideal for families, professional couples or sharers seeking a home in a central and well-connected location.\n\nThe property features a generous reception room providing ample space for both living and dining, alongside a modern fitted kitchen designed for everyday convenience. There are three well-proportioned bedrooms and two contemporary bathrooms, offering comfortable accommodation with a practical layout suited to modern living.\n\nPositioned within easy reach of Southampton city centre, the apartment benefits from an excellent range of local amenities, including shops, restaurants, cafés, leisure facilities and supermarkets. Excellent public transport links and nearby road connections provide convenient access throughout the city and beyond.\n\nLeasehold Years remaining on lease; 104yrs\nAnnual Service Charge Amount £3,148.36\nGround Rent Amount Per Annum £200.0\nCouncil Tax Banding; Banding C\n\nAml - Agents are required by law to conduct anti-money laundering checks on all those buying a property. \n\nWe outsource the initial checks to partner suppliers Coadjute who will contact you once you have had an offer accepted on a property you wish to buy. \n\nThe cost of these checks is £54inc vat per person. This is a non-refundable fee. \n\nThese charges cover the cost of obtaining relevant data, any manual checks and monitoring which might be required. \n\nThis fee will need to be paid and the checks completed in advance of the office issuing a memorandum of sale on the property you would like to buy.\n\nMaterial Information - Southampton - Leasehold Years remaining on lease; 104yrs\nAnnual Service Charge Amount £3,148.36\nGround Rent Amount Per Annum £200.0\nCouncil Tax Banding; Banding C",
+ "keyFeatures": [
+  "Three-bedroom apartment",
+  "Spacious reception room",
+  "Modern fitted kitchen",
+  "Two contemporary bathrooms",
+  "Well-proportioned accommodation throughout",
+  "Two allocated parking spaces",
+  "Central Southampton location",
+  "Close to shops, restaurants and local amenities",
+  "Excellent transport and road links nearby",
+  "Suitable for families, professionals or sharers"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/445424124/91869789/4454241246a107a9db161b1891be5db5.png",
+  "https://media.rightmove.co.uk/property-photo/126ec6580/91869789/126ec65800a2d352c8b93f78c053f345.png",
+  "https://media.rightmove.co.uk/property-photo/509f49f83/91869789/509f49f83b73d1acadb335981f301b4a.png",
+  "https://media.rightmove.co.uk/property-photo/5320a6908/91869789/5320a6908340dd209b9e380fbc4821dc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a9ebfb944/91869789/a9ebfb9446cfb5e75345655730667eaa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6b643d963/91869789/6b643d96346366d49bd64fa75c35b901.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4fa66164d/91869789/4fa66164d5680959e269f79ec1c7166e.png",
+  "https://media.rightmove.co.uk/property-photo/ac55cfc30/91869789/ac55cfc3023cc8cde9e6604f1091c68c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/48b49f55a/91869789/48b49f55a6136535e80fa492b01807ab.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d998d4741/91869789/d998d4741e7d67baa81df4d636162884.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5249319e1/91869789/5249319e11d19d7ae456483bcafdf901.png"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Southampton Central Station",
+   "miles": 0.8151982091117891,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Woolston Station",
+   "miles": 1.1653439250153366,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Millbrook Station",
+   "miles": 1.6525334023592761,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Hunters, Southampton",
+ "city": "Southampton",
+ "sourceOutcode": "SO14",
+ "scrapedAt": "2026-08-31T16:54:31.267Z"
+}

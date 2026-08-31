@@ -1,0 +1,82 @@
+{
+ "id": "91289589",
+ "mode": "buy",
+ "displayAddress": "Edward Street, Derby",
+ "outcode": "DE1",
+ "incode": "3BN",
+ "latitude": 52.928379,
+ "longitude": -1.479455,
+ "priceAmount": 55000,
+ "priceLabel": "£55,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91289589",
+ "area": "Derby",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Maisonette",
+ "details": {
+  "propertyType": "Maisonette",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": 268,
+  "sizeSqM": 25,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 956,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers in Region of",
+  "listingUpdate": "Added on 24/07/2026"
+ },
+ "sizeSqFt": 268,
+ "sizeSqM": 25,
+ "description": "A realistically priced, one bedroom maisonette within the popular Strutts Park conservation area of Derby. \n\nSold with the benefit of no upper chain the property features an entrance hall with staircase and private entrance door with further staircase to a small landing area with open plan lounge/bedroom/kitchen and shower room. The property does require some modernisation but would be a good first time buyer or investment property. The property has electric heating and furniture is available within the price.\n\nThe property is set within a small, low maintenance courtyard.\n\nThe Location - Strutts Park conservation area is positioned just north of the city centre, close to the Cathedral Quarter, Friar Gate and a full range of amenities in the city itself. Attractive Darley Park is also close by with pathways running into the city centre.\n\nAccommodation - \n\nEntrance Hall - An entrance door provides access to a hallway (which is shared with one other apartment) with staircase to first floor. On the first floor there is a further door providing access to private staircase to upper floor.\n\nPrivate Staircase - Providing access to upper floor.\n\nLounge/Bedroom With Kitchen Off - 5.21 x 3.86 (17'1\" x 12'7\") - \n\nLounge/Bedroom Area - With electric heaters, storage cupboard, window to front and two double glazed Velux windows to side.\n\nKitchen Area - Comprising worktops with tiled surrounds, stainless steel sink unit, fitted base cupboards and drawers, appliance space suitable for electric cooker, washing machine and fridge.\n\nShower Room - 2.41 x 0.92 (7'10\" x 3'0\") - Appointed with a low flush WC, pedestal wash handbasin, shower cubicle and electric towel rail.\n\nAttic Room - Accessed via a ladder from the lounge/bedroom area.\n\nOutside - The property is set within a shared courtyard.\n\nTenure - Please note the property is leasehold with 956 years remaining.\n\nThe ground rent is a bi annual charge of £71.83 and the service charge is a bi annual charge of £849.65. Buildings insurance is an additional annual charge of £513.84.\n\nCouncil Tax Band A -",
+ "keyFeatures": [
+  "Ideal Investment or First Time Buy",
+  "No Upper Chain",
+  "Shared Entrance Hall (With One Other)",
+  "Private Staircase to Second Floor",
+  "Hall",
+  "Open Plan Lounge/Kitchen/Bedroom",
+  "Shower Room",
+  "Courtyard Setting",
+  "Close to City Centre &amp; Within Easy Reach of Darley Park",
+  "Realistically Priced"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d31dc11be/91289589/d31dc11be48cd6fa8ab961a1bb119d63.jpeg",
+  "https://media.rightmove.co.uk/property-photo/184bf0659/91289589/184bf065952cf0e963e01686827ed0f4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/365c16eeb/91289589/365c16eeb73cb69055bdb0059b180bd7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5bb7a26ee/91289589/5bb7a26ee5d7959137a8249e832ff0b7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/54ed6ec05/91289589/54ed6ec0559d7c5c86e501f2a0a804b9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/92167d3bc/91289589/92167d3bcfc95600a2c05aed86ee93b6.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Derby Station",
+   "miles": 1.0843131303048055,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Peartree Station",
+   "miles": 2.121135889297592,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Spondon Station",
+   "miles": 3.094867475748392,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Fletcher & Company, Derby",
+ "city": "Derby",
+ "sourceOutcode": "DE1",
+ "scrapedAt": "2026-08-31T14:50:05.382Z"
+}

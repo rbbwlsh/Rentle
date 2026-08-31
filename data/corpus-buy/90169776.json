@@ -1,0 +1,75 @@
+{
+ "id": "90169776",
+ "mode": "buy",
+ "displayAddress": "Granville Square, Birmingham, West Midlands, B15",
+ "outcode": "B15",
+ "incode": "1UJ",
+ "latitude": 52.47514,
+ "longitude": -1.91059,
+ "priceAmount": 125000,
+ "priceLabel": "£125,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90169776",
+ "area": "Birmingham, West Midlands",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": 10,
+  "annualServiceCharge": 1260,
+  "councilTaxBand": "TBC",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Dixons are delighted to present this superb one-bedroom apartment, ideally positioned in the heart of Birmingham City Centre\nPerfectly located just a two-minute walk from the vibrant Broad Street and Brindleyplace, this property offers the very best of city living right on your doorstep, with an array of restaurants, bars, and entertainment venues to enjoy.\nThe apartment itself is well-presented and thoughtfully laid out, comprising a welcoming entrance hallway, a spacious double bedroom with fitted wardrobes, a modern bathroom, and a bright and airy lounge/dining area, leading through to a well-equipped kitchen—ideal for both relaxing and entertaining.\nFurther benefits include central heating, double glazing, and the rare advantage of two allocated parking spaces within a secure gated development—a true asset in this prime location.\nThe seller has advised that the property carries a monthly service charge of £105 and an annual ground rent of £10. In addition, the lease is currently being extended to an impressive 140 years, offering peace of mind for future owners.\nAn ideal opportunity for first-time buyers, professionals, or investors—early viewing is highly recommended!",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/bb2fbf0be/90169776/bb2fbf0be89817fbb6ebd6aeeaef572d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d74e25794/90169776/d74e25794f1484e28bfd5f05ef3f365f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c6d4bd147/90169776/c6d4bd147f9bdd973fa49fa0e8f1bbdc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b9a54d67e/90169776/b9a54d67e55c74b232697bea70583d7b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ed262661a/90169776/ed262661ac2c5709e471cef9768078de.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f60dd8f20/90169776/f60dd8f20955e4b71e336322e2503655.jpeg",
+  "https://media.rightmove.co.uk/property-photo/252f7ed7e/90169776/252f7ed7ee7113537d08bfae40719ea7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3b659aa86/90169776/3b659aa86ee457140939b4af95a0e9ee.jpeg",
+  "https://media.rightmove.co.uk/property-photo/538fd7a38/90169776/538fd7a38ebfba0b6bb7e2220dd21fea.jpeg",
+  "https://media.rightmove.co.uk/property-photo/07469e261/90169776/07469e261d1b186f06d1c823b3019560.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Five Ways Station",
+   "miles": 0.37624978738988074,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham New Street Station",
+   "miles": 0.5231653109508653,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Birmingham Snow Hill Station",
+   "miles": 0.7263282961764492,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Dixons, Birmingham City Centre",
+ "city": "Birmingham",
+ "sourceOutcode": "B15",
+ "scrapedAt": "2026-08-31T16:52:19.502Z"
+}

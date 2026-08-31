@@ -1,0 +1,82 @@
+{
+ "id": "92419578",
+ "mode": "buy",
+ "displayAddress": "The Chatham, Thorn Walk, Reading, RG1 7BJ",
+ "outcode": "RG1",
+ "incode": "7BJ",
+ "latitude": 51.45747,
+ "longitude": -0.97829,
+ "priceAmount": 200000,
+ "priceLabel": "£200,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92419578",
+ "area": "The Chatham, Reading",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": null,
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Added on 26/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "yieldit are pleased to offer to the market this well-presented one-bedroom apartment within the popular Chatham development, ideally positioned in the heart of Reading. The property comprises a well-proportioned reception room with an open-plan kitchen, a comfortable double bedroom and a modern bathroom. Further benefits include an allocated parking space and Juliet balcony.\r\n\r\nThorn Walk is conveniently located within a 10-minute walk of Reading town centre, offering a wide range of shops, restaurants, cafés and leisure facilities. The Oracle shopping and leisure complex provides an excellent selection of retail and dining options, as well as a cinema, bars and clubs. Reading Museum and the historic ruins of Reading Abbey are also within easy walking distance.\r\n\r\nThe nearby Kennet & Avon Canal provides a scenic walking and cycling route from the town centre, while Reading's status as an established university city adds to its vibrant atmosphere and strong appeal.\r\n\r\nReading mainline station is within walking distance, providing fast and frequent services to London Paddington and other major destinations, making the property particularly attractive to commuters. The town's established bus network provides further transport options.\r\n\r\nReading continues to benefit from significant regeneration and investment, with ongoing development across the town centre and surrounding areas. Improvements to retail, leisure, residential and transport infrastructure are helping to enhance the town's long-term appeal as a place to live, work and invest. The property's central location places it well to benefit from this continued investment and the ongoing evolution of Reading town centre.\n\nFinancial Breakdown\n\nGross Rent: £15,000.00\nNet income: £11,361.00\nGross yield: 7.5%\nNet yield: 5.68%\nPlease contact agent for full financial breakdown.\n\nIMPORTANT NOTE TO PURCHASERS: These particulars, whilst believed to be accurate are set out as a general outline only for guidance, and do not constitute any part of an offer or contract. Neither yieldit nor the vendor or lessor accept any responsibility in respect of these particulars, which are not intended to be statements or representations of fact and any intending purchaser or lessee must satisfy himself by inspection or otherwise as to the correctness of each of the statements contained in these particulars.\n\nyieldit ref: YL-08629",
+ "keyFeatures": [
+  "Tenanted Investment Opportunity",
+  "Larger Than Average One Bedroom Apartment",
+  "Excellent Location",
+  "Close By To Local Amenities",
+  "Open Plan",
+  "Allocated Parking Space",
+  "2nd Floor",
+  "Well Presented",
+  "Fully Managed",
+  "Enquire for Video Tour"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/cd8559645/92419578/cd8559645c131632470afa43039c24b6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/372442e25/92419578/372442e253624d3847a71771f4c9984c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4c4220bd6/92419578/4c4220bd6addd4c4df16761a3e6eb299.jpeg",
+  "https://media.rightmove.co.uk/property-photo/189a28a2f/92419578/189a28a2fd87b27a54730a669713e8b3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/945a8f0fe/92419578/945a8f0fe5374f609f4e7036c568503d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/37b4e6802/92419578/37b4e680252f0fd623177fbb4a755418.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Reading Station",
+   "miles": 0.27960804153762725,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Reading West Station",
+   "miles": 0.5587206933926058,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Reading Green Park Station",
+   "miles": 2.313047467950069,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "yieldit, Manchester",
+ "city": "Reading",
+ "sourceOutcode": "RG1",
+ "scrapedAt": "2026-08-31T14:57:42.566Z"
+}

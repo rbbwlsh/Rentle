@@ -1,0 +1,76 @@
+{
+ "id": "175012919",
+ "mode": "buy",
+ "displayAddress": "The Kingsway, City Centre, Swansea, SA1",
+ "outcode": "SA1",
+ "incode": "5HN",
+ "latitude": 51.62049,
+ "longitude": -3.94583,
+ "priceAmount": 58000,
+ "priceLabel": "£58,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/175012919",
+ "area": "City Centre, Swansea",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 2507.74,
+  "councilTaxBand": "B",
+  "priceQualifier": "Offers in Region of",
+  "listingUpdate": "Added on 29/07/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "One of the Largest Studio Apartments in Portland House – Vacant Possession & Ready to Occupy or Let\n\nAn outstanding opportunity to acquire one of the largest studio apartments within the highly sought-after Portland House development, ideally located on The Kingsway in the heart of Swansea City Centre. Offered with vacant possession, this impressive property provides complete flexibility for both owner-occupiers and investors, with the option to move straight in or secure a tenant immediately at current market rental levels.\n\nSituated on the second floor, the apartment is accessed via a secure communal entrance with an intercom entry system, leading to well-maintained communal areas and residents' mailboxes.\n\nInternally, the property offers a spacious open-plan living and sleeping area, providing significantly more floor space than many comparable studio apartments within the development. The generous layout comfortably accommodates both lounge and bedroom furniture, creating a bright, modern, and versatile living space.\n\nThe contemporary fitted kitchen is well appointed with a range of integrated appliances, including an oven and hob, microwave, dishwasher, and fridge freezer. The stylish shower room comprises a modern shower enclosure, WC, and wash hand basin.\n\nAdditional benefits include gas central heating, double glazing throughout, and access to communal laundry facilities within the building.\n\nPerfectly positioned in the centre of Swansea, Portland House is just a short walk from an excellent selection of shops, cafés, restaurants, Swansea Marina, and the city's vibrant waterfront. Excellent transport links are close at hand, while Swansea University's Singleton and Bay Campuses, together with the University of Wales Trinity Saint David (UWTSD), are all easily accessible, making the property particularly appealing to students, graduates, young professionals, and city centre workers.\n\nWhether you are looking for a high-yield buy-to-let investment, a convenient city centre home, or your first property purchase, this spacious studio apartment represents an excellent opportunity. The vacant status allows the new owner to either let the property immediately or move in without delay, while its generous proportions, modern specification, and prime central location make it one of the most desirable studio apartments available within Portland House.\n\nAnnual service charge: £2,507.74.\n\n EPC rating: C. Tenure: Leasehold, Service charge description: Bi annually £1253.87,",
+ "keyFeatures": [
+  "Investment Property",
+  "Vacant",
+  "City Centre Location"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/971f22d2f/175012919/971f22d2f2a12b8d744d02ad009e0042.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9967153e6/175012919/9967153e64eda25664d32fa9bd84b7b0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/097dc788a/175012919/097dc788a5535896edcf383bfae6f3e7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a3a1259fd/175012919/a3a1259fd78b333f180df83cb90a4f45.jpeg",
+  "https://media.rightmove.co.uk/property-photo/954a78ba5/175012919/954a78ba55be74061dbf6b06ea108412.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa52efd6b/175012919/aa52efd6bd1cc58cb03c7876afac3bab.jpeg",
+  "https://media.rightmove.co.uk/property-photo/05db9952e/175012919/05db9952e99c3ad2ea910f692f5cb1c9.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Swansea Station",
+   "miles": 0.38941007856820675,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Llansamlet Station",
+   "miles": 3.859323961761969,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Gowerton Station",
+   "miles": 4.315959033241417,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Belvoir, Mumbles",
+ "city": "Swansea",
+ "sourceOutcode": "SA1",
+ "scrapedAt": "2026-08-31T14:53:51.806Z"
+}

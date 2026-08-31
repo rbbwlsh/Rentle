@@ -1,0 +1,87 @@
+{
+ "id": "92542224",
+ "mode": "buy",
+ "displayAddress": "124/Candle House, Leeds",
+ "outcode": "LS1",
+ "incode": "4GJ",
+ "latitude": 53.793086,
+ "longitude": -1.549308,
+ "priceAmount": 260000,
+ "priceLabel": "£260,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92542224",
+ "area": "Leeds",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": null,
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "D",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 29/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Stylish two bedroom apartment available at Candle House; a striking cylindrical tower at Granary Wharf, a popular Waterside development only moments from the train station. Granary Wharf consists of two residential buildings, a hotel and a number of amenities including shops, bars and restaurants. This well presented high specification 16th floor two bedroom apartment benefits from a well-designed kitchen including fridge/freezer, microwave and dishwasher, with a washer/dryer situated in the utility room off the hallway. There is a South facing balcony off the living area with stunning views of the canal and Leeds city centre. Residents also have exclusive use of the 21st floor communal roof terrace which provides 360 degree views over Leeds. The apartment is in pristine condition and furnished to a high standard, the master bedroom benefits from a walk in dressing room providing ample storage, second double bedroom and stylish house Bathroom with shower over bath. The rent includes water rates. This apartment must be viewed! Furnished. Bond £1,525. Available Now! EPC rating -B, council tax band D.\nCommunal Hallway  \nStairs and lift to all floors.\nLounge  \nLight and airy lounge with views across the City, doors opening to a south facing balcony, open plan to kitchen.\nKitchen \nA range of wall and base units with worktops over, electric oven and hob, sink with mixer tap. integrated appliances including dishwasher.  \nBedroom 1 \nCarpeted double bedroom with floor to ceiling windows.\nBedroom 2  \nCarpeted double bedroom with floor to ceiling windows.\nBathroom  \nFitted with a three piece bathroom suite with shower over bath, shower screen, w/c and hand wash basin, large mirror.\nHolding Fee  \nPlease note, a holding fee equivalent to one week rent is payable upon application and this will be part of the first month rental.\nHome Information  \nCOUNCIL TAX BAND: D\nEPC Rating B\n\nLeasehold property\n\nBroadband: \nStandard 16 Mbps 1 Mbps Good\nSuperfast --Not available --Not available Unlikely\nUltrafast 11,2501,2501,250 Mbps 11,2501,2501,250 Mbps \nMobile availability: EE Likely \nThree likely\nO2 Likely Likely\nVodafone Limited\n\nUtilities: Water supplied on standard meters. Electric mains supplied on standard meters. \nLease Details  \nLease - £274 Per annum - 250 Years from 1st January 2007.\nService Charge - £3,449.54p Per annum \nBuilding Insurance £355.69 Per annnum.",
+ "keyFeatures": [
+  "16th Floor Apartment ",
+  "Two Double Bedrooms",
+  "Stunning Views",
+  "Popular Development",
+  "High Specification",
+  "Sought After Location",
+  "Water Rates Included",
+  "Available Now",
+  "Council Tax Band D",
+  "EPC Rating B"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/e2d044d76/92542224/e2d044d767003db423c14b7f021f3ba1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4b52b749d/92542224/4b52b749d8207da8d6f724d6b1d328ed.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0a8b7c208/92542224/0a8b7c208a71a4b037499f49df2930e8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d4a5e993b/92542224/d4a5e993b14c987b295fb15354f63bad.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0510126e6/92542224/0510126e655cdd4a2655e62e58f21289.jpeg",
+  "https://media.rightmove.co.uk/property-photo/454db0a75/92542224/454db0a75b2c0422a86c95ed3ad6fe40.jpeg",
+  "https://media.rightmove.co.uk/property-photo/099361a4b/92542224/099361a4b1eaf47aaf889860604f0969.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6089d0bb7/92542224/6089d0bb75cb90ee34b53b34b4cbed2b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d56499143/92542224/d56499143f7081ee613be255ea21958a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c150ac7d6/92542224/c150ac7d6b69af5c943725e0a5aa3920.jpeg",
+  "https://media.rightmove.co.uk/property-photo/69377f02d/92542224/69377f02d5852923e56f88274d8836f0.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Leeds Station",
+   "miles": 0.10893963541782084,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burley Park Station",
+   "miles": 1.7593446670240696,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cottingley Station",
+   "miles": 2.354260996059633,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Adair Paxton, Leeds City Centre",
+ "city": "Leeds",
+ "sourceOutcode": "LS1",
+ "scrapedAt": "2026-08-31T16:55:34.436Z"
+}

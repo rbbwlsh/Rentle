@@ -1,0 +1,96 @@
+{
+ "id": "92209191",
+ "mode": "buy",
+ "displayAddress": "Vauxhall Street, Coventry",
+ "outcode": "CV1",
+ "incode": "5LD",
+ "latitude": 52.410839,
+ "longitude": -1.49534,
+ "priceAmount": 190000,
+ "priceLabel": "£190,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92209191",
+ "area": "Coventry",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 20/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Built in 1900, this lovely mid-terrace property would make an excellent family home or exciting First Time Buyer opportunity. Well cared for and recently refurbished, it is presented in move-in ready condition.\n\nThe ground floor opens into a hallway, with a front reception to your left and opens into the second reception room with fireplace and kitchen access. The stairs are situated in a private adjoining hall, with a separate door between the two reception rooms. The rear garden is accessed via the kitchen, with a full bathroom suite (shower over bath) to the rear.\n\nThe first floor offers two large double bedrooms. The rear bedroom enjoys garden views, while the front bedroom benefits from ample built-in storage. The second floor provides a private hallway leading to a further bathroom with walk-in shower, built-in storage with boiler access, and a third large double bedroom with Velux window.\n\nThe property has most recently been successfully let as a family home and was previously a licensed HMO. Investors should make their own enquiries regarding current registration and planning requirements for HMO use. The property is fitted with self-closing fire doors, thumb locks, in-date fire escape signage and detectors.",
+ "keyFeatures": [
+  "2 Reception Rooms",
+  "Large Fully Fitted Kitchen",
+  "Generous  Low Maintenance Garden",
+  "3 Good Size Double Bedrooms",
+  "2 Bathrooms",
+  "Ample Storage",
+  "Recently Refurbished",
+  "Spacious &amp; Light"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a42c289f1/92209191/a42c289f12d226b4e595da3125cefcc4.png",
+  "https://media.rightmove.co.uk/property-photo/c54d939f9/92209191/c54d939f932cb9311b5b0a3e13046bff.png",
+  "https://media.rightmove.co.uk/property-photo/2fa0d893b/92209191/2fa0d893b0598e553ccc2d7daa570767.png",
+  "https://media.rightmove.co.uk/property-photo/ba2b611b9/92209191/ba2b611b9cba5173f67465002a5a12db.png",
+  "https://media.rightmove.co.uk/property-photo/7502ad950/92209191/7502ad950022ff989fe10190e396488d.png",
+  "https://media.rightmove.co.uk/property-photo/dc3cd2bed/92209191/dc3cd2bed9eed0b8f68dff676861a96e.png",
+  "https://media.rightmove.co.uk/property-photo/e0cecb9c0/92209191/e0cecb9c086e264dc58633d21f8c3ce8.png",
+  "https://media.rightmove.co.uk/property-photo/81f914df2/92209191/81f914df291c637cb43ad1e05d938aee.png",
+  "https://media.rightmove.co.uk/property-photo/c2ce969f7/92209191/c2ce969f763ffcbf73a312954da21800.png",
+  "https://media.rightmove.co.uk/property-photo/bc89c05b4/92209191/bc89c05b45c15221d83d556adf07d917.png",
+  "https://media.rightmove.co.uk/property-photo/4942466fa/92209191/4942466faa518031e2d92240edf6d260.png",
+  "https://media.rightmove.co.uk/property-photo/80aab5724/92209191/80aab5724fb9d370337e9e7c76050d65.png",
+  "https://media.rightmove.co.uk/property-photo/1f233ebe2/92209191/1f233ebe2bfcec88bae0424d19499629.png",
+  "https://media.rightmove.co.uk/property-photo/9b50bcbf2/92209191/9b50bcbf2ff5101e5a5f9e92538a0082.png",
+  "https://media.rightmove.co.uk/property-photo/5226413df/92209191/5226413df7586276d81d7a240c748b55.png",
+  "https://media.rightmove.co.uk/property-photo/d112617da/92209191/d112617dad5b84713201025f238c34a9.png",
+  "https://media.rightmove.co.uk/property-photo/69abcaac8/92209191/69abcaac894596f445b09ff5264eb226.png",
+  "https://media.rightmove.co.uk/property-photo/8cce04258/92209191/8cce0425882f5d433c741e3d62781580.png",
+  "https://media.rightmove.co.uk/property-photo/5eef7bf66/92209191/5eef7bf6678f09b3bd5618aecb2f82ab.png",
+  "https://media.rightmove.co.uk/property-photo/5a095b5cf/92209191/5a095b5cf40f39dff613d68f5dad8a59.png",
+  "https://media.rightmove.co.uk/property-photo/730e4fd90/92209191/730e4fd901b50008e79161089b37d350.png",
+  "https://media.rightmove.co.uk/property-photo/1aa3e38d3/92209191/1aa3e38d3d921a8283e365c4f2dc8073.png"
+ ],
+ "imageCount": 22,
+ "nearestStations": [
+  {
+   "name": "Coventry Station",
+   "miles": 1.0563018458330689,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Canley Station",
+   "miles": 2.3562815974151867,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Coventry Arena Station",
+   "miles": 2.4842719832068,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "GLB Property Services Limited, Coventry",
+ "city": "Coventry",
+ "sourceOutcode": "CV1",
+ "scrapedAt": "2026-08-31T16:52:26.045Z"
+}

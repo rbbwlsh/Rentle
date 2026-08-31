@@ -1,0 +1,83 @@
+{
+ "id": "92563638",
+ "mode": "buy",
+ "displayAddress": "Piccadilly, Bradford, West Yorkshire, BD1",
+ "outcode": "BD1",
+ "incode": "3NN",
+ "latitude": 53.796404,
+ "longitude": -1.754377,
+ "priceAmount": 29950,
+ "priceLabel": "£29,950",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92563638",
+ "area": "Bradford, West Yorkshire",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 104,
+  "annualGroundRent": 168.5,
+  "annualServiceCharge": 2124,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced today"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "***A FIRST FLOOR ONE BEDROOM APARTMENT SITUATED IN A CONVERTED APARTMENT BLOCK AT THE HEART OF BRADFORD CITY CENTRE*** \nAvailable with sitting tenants paying £550.00 P/M making this an ideal Investment Opportunity!!\n\n\rAn exceptional chance to purchase this investment opportunity. Situated to the first floor of this converted apartment block.\n\nThis impressive apartment comprises; Entrance Hall, open plan lounge/kitchen with a range of base and wall units in a maple effect with integrated, fridge/freezer, dishwasher, oven hob and hood. Double bedroom and bathroom with three-piece white suite with complimentary tiling and shower over bath. \n\nBeing situated in the heart of Bradford City boasting excellent access to city centre amenities and Train Station, this is a quite superb opportunity for the discerning investor. \n\nViewings By Appointment Only.",
+ "keyFeatures": [
+  "One Bedroom Apartment",
+  "First Floor",
+  "INVESTMENT OPPORTUNITY",
+  "SITTING TENANT PAYING £550.00 P/M",
+  "Lounge Open To Kitchen",
+  "City Centre Location",
+  "Council Tax Band: A",
+  "EPC Rating: D"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/74e464bdc/92563638/74e464bdce735a103de9a04c9b4ee98f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d200648d/92563638/6d200648d50d53420996ea0261bc8931.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d4fa27d20/92563638/d4fa27d207a3025da23f551e01ba06c5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/febe627a2/92563638/febe627a24e6f45d3e7fba5bc620c9d2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2d8107156/92563638/2d810715655f09253f32bc9e346287e5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f19decafd/92563638/f19decafde05a85b113ed1fd4f92ccc2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/87fbb9019/92563638/87fbb9019323245b2df587176d5d814d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e62af745d/92563638/e62af745dfc9f30d4743a4527a58b12f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/37c14070c/92563638/37c14070c335c33129c3a7c964f834c9.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Bradford Forster Square Station",
+   "miles": 0.06298004490139726,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bradford Interchange Station",
+   "miles": 0.39684228119634424,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Frizinghall Station",
+   "miles": 1.7306737516728439,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Whitegates, Bradford",
+ "city": "Bradford",
+ "sourceOutcode": "BD1",
+ "scrapedAt": "2026-08-31T14:55:23.802Z"
+}

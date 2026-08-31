@@ -1,0 +1,73 @@
+{
+ "id": "92433867",
+ "mode": "buy",
+ "displayAddress": "Hammonds Drive, Peterborough",
+ "outcode": "PE1",
+ "incode": "5AA",
+ "latitude": 52.56972,
+ "longitude": -0.22939,
+ "priceAmount": 140000,
+ "priceLabel": "£140,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92433867",
+ "area": "Peterborough",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 980,
+  "annualGroundRent": 145,
+  "annualServiceCharge": 3200,
+  "councilTaxBand": "B",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 26/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "SUMMARY\nSituated within a well-established residential area, Hammonds Drive offers excellent convenience for day-to-day living. Residents benefit from easy access to a range of local shops, supermarkets, schools, and Peterborough Train Station.\n\nDESCRIPTION\n*** No Onward Chain ***\n\nNestled in a popular residential location, this beautifully presented two-bedroom ground floor apartment has been thoughtfully renovated throughout and is offered in genuine move-in-ready condition, making it an ideal purchase for first-time buyers, downsizers, or investors alike.\n\nThe accommodation comprises a spacious and welcoming lounge, a modern fitted kitchen, two well-proportioned bedrooms, with the principal bedroom benefitting from its own en-suite shower room, alongside a stylish family bathroom. The recent renovations create a fresh and contemporary feel throughout, allowing any prospective buyer to simply unpack and enjoy their new home.\n\nConveniently situated close to local amenities, transport links, and everyday conveniences, this attractive home offers comfortable and low-maintenance living in a sought-after setting.\n\nWe currently hold lease details as displayed above, should you require further information please contact the branch.  Please note additional fees could be incurred for items such as leasehold packs.\n\n1. MONEY LAUNDERING REGULATIONS: Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale.\r\n2. General: While we endeavour to make our sales particulars fair, accurate and reliable, they are only a general guide to the property and, accordingly, if there is any point which is of particular importance to you, please contact the office and we will be pleased to check the position for you, especially if you are contemplating travelling some distance to view the property.\r\n3. The measurements indicated are supplied for guidance only and as such must be considered incorrect.\r\n4. Services: Please note we have not tested the services or any of the equipment or appliances in this property, accordingly we strongly advise prospective buyers to commission their own survey or service reports before finalising their offer to purchase.\r\n5. THESE PARTICULARS ARE ISSUED IN GOOD FAITH BUT DO NOT CONSTITUTE REPRESENTATIONS OF FACT OR FORM PART OF ANY OFFER OR CONTRACT. THE MATTERS REFERRED TO IN THESE PARTICULARS SHOULD BE INDEPENDENTLY VERIFIED BY PROSPECTIVE BUYERS OR TENANTS. NEITHER SEQUENCE (UK) LIMITED NOR ANY OF ITS EMPLOYEES OR AGENTS HAS ANY AUTHORITY TO MAKE OR GIVE ANY REPRESENTATION OR WARRANTY WHATEVER IN RELATION TO THIS PROPERTY.",
+ "keyFeatures": [
+  "Renovated throughout to a high standard",
+  "Two-bedroom",
+  "Move-in-ready condition",
+  "En-suite",
+  "Ideal first-time buy or investment opportunity",
+  "No Onward Chain"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/46fb188e1/92433867/46fb188e191af9e9d9f084caf046afaa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8cecafadb/92433867/8cecafadbbf9d6bf8bffdb32fb6fb178.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c22f38a07/92433867/c22f38a0741cf7fcb001f91b0b11618e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6deaffd48/92433867/6deaffd48a7d7d533fbaa42ca0fe42e8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/36e5beb74/92433867/36e5beb74f2783ee01d442cf8542ef31.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c1313931f/92433867/c1313931f4cd0518f5fb353f28fdf3a3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/90eebcf80/92433867/90eebcf80a2a7481015ab176fb3b1f39.jpeg",
+  "https://media.rightmove.co.uk/property-photo/24c6c1619/92433867/24c6c16193ef4579879acf42e60d948d.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Peterborough Station",
+   "miles": 0.9481620931065812,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Whittlesea Station",
+   "miles": 4.88051845241984,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "William H. Brown, Peterborough",
+ "city": "Peterborough",
+ "sourceOutcode": "PE1",
+ "scrapedAt": "2026-08-31T15:01:24.942Z"
+}

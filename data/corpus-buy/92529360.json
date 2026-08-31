@@ -1,0 +1,85 @@
+{
+ "id": "92529360",
+ "mode": "buy",
+ "displayAddress": "Francis Street, Reading",
+ "outcode": "RG1",
+ "incode": "2QB",
+ "latitude": 51.448164,
+ "longitude": -0.971713,
+ "priceAmount": 330000,
+ "priceLabel": "£330,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92529360",
+ "area": "Reading",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": 904,
+  "sizeSqM": 84,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": 904,
+ "sizeSqM": 84,
+ "description": "Thames Valley Estates are delighted to present this well-proportioned three-bedroom terraced house, ideally located within easy reach of Reading town centre.\n\nArranged over three floors, this attractive family home offers spacious and versatile accommodation throughout, making it an excellent choice for families, first-time buyers or investors.\n\nThe ground floor features two separate reception rooms, providing excellent flexibility for both living and dining, along with a fitted kitchen with access to the private rear garden. The garden offers a pleasant outdoor space.\n\nThe property benefits from three well-sized bedrooms arranged over the upper floors.\n\nSituated in a convenient and popular location, the property is close to Reading town centre, with a wide selection of shops, restaurants, cafés and everyday amenities nearby. The Oracle Shopping Centre and the riverside restaurants and leisure facilities along the River Kennet are also within easy reach.\n\nExcellent transport links further enhance the appeal, with Reading Station providing frequent mainline services to London Paddington, with the fastest services taking approximately 25 minutes.\n\nNotice\nPlease note we have not tested any apparatus, fixtures, fittings, or services. Interested parties must undertake their own investigation into the working order of these items. All measurements are approximate and photographs provided for guidance only.",
+ "keyFeatures": [
+  "Three-bedroom terraced house",
+  "Two reception rooms",
+  "Fitted kitchen",
+  "Family bathroom",
+  "Close to Reading town centre",
+  "Excellent transport links",
+  "Ideal for families, first-time buyers or investors"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/dd249705a/92529360/dd249705ac3f81f61572b6866c8cd3e8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7308d8d7e/92529360/7308d8d7e8ad5b09a7d20a7cb8b47a12.jpeg",
+  "https://media.rightmove.co.uk/property-photo/885b3f3aa/92529360/885b3f3aa41082b8dcfdb3b805017280.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2db310b12/92529360/2db310b12ee14d8bcd14a28da3c993b5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/24cbd42d8/92529360/24cbd42d812d0e4abe345e2c424859fb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3b0d7e9d4/92529360/3b0d7e9d45f86eac5363209e9098d49e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/91110e166/92529360/91110e166a11f8411ce9baca6f5220eb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f0bb990f1/92529360/f0bb990f1be4c49dae3d8af92dc2b31f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/68dd630b0/92529360/68dd630b06235cb05d2a55994612e9a4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9bc6bee98/92529360/9bc6bee988b3a1c2896dd86c7ebbf4a1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d2b8225a8/92529360/d2b8225a8c2db3473910629f73bb2253.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cf9f3ef42/92529360/cf9f3ef42ae414fdb598d8125dd25eb6.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Reading Station",
+   "miles": 0.7454988470914232,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Reading West Station",
+   "miles": 0.9458608168707885,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Reading Green Park Station",
+   "miles": 1.9295913782645642,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Thames Valley Estates, Reading",
+ "city": "Reading",
+ "sourceOutcode": "RG1",
+ "scrapedAt": "2026-08-31T16:54:43.599Z"
+}

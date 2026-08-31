@@ -1,0 +1,66 @@
+{
+ "id": "91890471",
+ "mode": "buy",
+ "displayAddress": "Hazelwood Road, Town Centre, Northampton NN1",
+ "outcode": "NN1",
+ "incode": "1LN",
+ "latitude": 52.236404,
+ "longitude": -0.891074,
+ "priceAmount": 94950,
+ "priceLabel": "£94,950",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91890471",
+ "area": "Town Centre",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 398,
+  "sizeSqM": 37,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 134,
+  "annualGroundRent": null,
+  "annualServiceCharge": 1000,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 25/08/2026"
+ },
+ "sizeSqFt": 398,
+ "sizeSqM": 37,
+ "description": "This modern first floor one bedroom apartment is offered for sale situated in the towns cultural quarter and within walking distance of the train station.  The accommodation comprises communal entry, entrance hall, open plan sitting/kitchen/dining room with integrated cooking appliances, one double bedroom and a three piece family bathroom. Benefits include double glazing and electric heating. (B/398/-)\n\nLeasehold Information:\n\n* Lease Remaining - 134 years (as of 2026)\n* Ground Rent - N/A\n* Service Charge - £1000 per annum to include buildings insurance.\n\n* TENURE - Leasehold\n* COUNCIL TAX BAND - A\n\nEntrance Hall - \n\nKitchen/Sitting/Dining Room - 5.23m x 4.47m (17'2 x 14'8) - \n\nBedroom - 4.17m x 2.49m (13'8 x 8'2) - \n\nBathroom -",
+ "keyFeatures": [
+  "Town house converted to four individual apartments",
+  "One bedroom first floor apartment",
+  "Open plan sitting/kitchen/dining room",
+  "Electric heating",
+  "Close to town centre and train station",
+  "Ideal first time buy or buy-to-let investment"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/436c954b6/91890471/436c954b6e132daf5187a2bb77c61225.jpeg",
+  "https://media.rightmove.co.uk/property-photo/681826c28/91890471/681826c2806050e2f14132f59a37ada7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/162930d7c/91890471/162930d7c8dc7608670a3c775baff70e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9568d9784/91890471/9568d97844bdbba6045c3ee4517a06a8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/87102df6d/91890471/87102df6df51dce9d9c50dc7f19a4aee.jpeg",
+  "https://media.rightmove.co.uk/property-photo/18768471c/91890471/18768471c481fcddb8d115c302a92bcc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1b8072ef6/91890471/1b8072ef6e517177aa13fa4d18048892.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4332c3f04/91890471/4332c3f0403509075e30d1eed09575c9.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Northampton Station",
+   "miles": 0.6970152457999207,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "O'Riordan Bond, Far Cotton",
+ "city": "Northampton",
+ "sourceOutcode": "NN1",
+ "scrapedAt": "2026-08-31T14:56:27.697Z"
+}

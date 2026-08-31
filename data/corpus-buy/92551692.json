@@ -1,0 +1,83 @@
+{
+ "id": "92551692",
+ "mode": "buy",
+ "displayAddress": "Colbourne Terrace, Waun Wen, Swansea",
+ "outcode": "SA1",
+ "incode": "6FW",
+ "latitude": 51.630581,
+ "longitude": -3.948122,
+ "priceAmount": 140000,
+ "priceLabel": "£140,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92551692",
+ "area": "Waun Wen, Swansea",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": 937,
+  "sizeSqM": 87,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 29/08/2026"
+ },
+ "sizeSqFt": 937,
+ "sizeSqM": 87,
+ "description": "Discover this beautifully modernised three-bedroom mid-terrace house, perfectly situated in Waun Wen. This home is in a fantastic location that is within walking distance of Swansea City Centre, local schools and public transport routes. Ideal for first-time buyers or as an investment opportunity. The property benefits from brand new UPVC double glazed windows with 20 year guarantee, the roof has been refelted and new battens with the original tiles, and modernised kitchen and bathroom with gas central heating throughout. No onward chain.\n\nViewing recommended. \n\nGROUND FLOOR\n\nEntrance Hallway\nUpvc double glazed door to front. Vinyl flooring.\n\nLiving/Dining Room (4.55m x 6.43m / 14'11\" x 21'1\")\nDual-aspect open-plan space. uPVC double-glazed windows to the front and rear. Vinyl flooring in the dining area and carpet to the lounge. Two double radiators. Under-stairs storage.\n\nKitchen (2.46m x 3.25m / 8'0\" x 10'7\")\nModern fitted kitchen, fitted with a range of wall and base units incorporating stainless-steel sink with an integrated dishwasher. Built-in electric oven with electric hob and stainless-steel extractor chimney. Vinyl flooring. uPVC double-glazed window above the sink and a uPVC double-glazed door providing garden access.\n\nBathroom (2.45m x 2.03m / 8'0\" x 6'7\")\nModern bathroom suite comprising a low-level WC, vanity wash hand basin and a bath with a mixer tap and an electric shower over. Tiled walls. Chrome towel radiator. Vinyl flooring. uPVC double-glazed frosted window to the rear.\n\nFIRST FLOOR\n\nLanding\nThe landing provides loft access via a hatch and is fitted with new soft grey carpet, enhancing the fresh feel of the upper floor.\n\nMaster Bedroom (4.57m x 3.03m / 14'11\" x 9'11\")\n\nuPVC double-glazed window to the front. Radiator.\n\nBedroom Two (3.02m x 3.56m / 9'11\" x 11'8\")\nuPVC double-glazed window to rear. Radiator. Built-in airing cupboard housing gas combination boiler.\n\nBedroom Three (2.96m x 3.24m / 9'8\" x 10'7\")\nuPVC double-glazed window to the front. Radiator.\n\n \n\nEXTERNAL\n\nParking\n\nOn road parking to front.\n\nGardens\n\nThe property benefits from a low-maintenance front garden with artificial grass and steps leading to the front door. The rear garden features steps ascending to a gravelled area, offering further potential. with additional land beyond the fence ready to be cultivated.\n\nGENERAL INFORMATION\n\nTenure: Freehold\n\nCouncil Tax: Band A\n\nEPC: Band D\n\nViewings strictly by appointment via Sullivans Sales & Lettings.",
+ "keyFeatures": [
+  "Mid Terrace house",
+  "Three Bedrooms",
+  "Modern Fitted Kitchen",
+  "Ideal First time Buy",
+  "Open plan Living area."
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/18a3766ed/92551692/18a3766ed3a4116715fee18c1afe658b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b8498c08e/92551692/b8498c08eb996808b2ff7ce83c4096bb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/46109252e/92551692/46109252e5da8d920306cc943ed2ada0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/79ad05c28/92551692/79ad05c280ae438a76145b70ff0a3711.jpeg",
+  "https://media.rightmove.co.uk/property-photo/454cdb9ed/92551692/454cdb9ed0ca60fd45291094e37c2218.jpeg",
+  "https://media.rightmove.co.uk/property-photo/accb10b30/92551692/accb10b30d45f168ab8fbb5dbe080fc4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/41b934982/92551692/41b934982417a6830c3386bf1f63c654.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ed95fd87b/92551692/ed95fd87ba209a3594bf6ebb329180e4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/06de80e95/92551692/06de80e953109da285103e09c4ab81f5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/543682777/92551692/543682777afd8238dc57dc3c05ec4059.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e592c2e95/92551692/e592c2e95cfe6dd12466afe1c1f40bc4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/268534e2c/92551692/268534e2c451f9a71b2e82b948c54891.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Swansea Station",
+   "miles": 0.48076950715962075,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Llansamlet Station",
+   "miles": 3.4580533287090947,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Gowerton Station",
+   "miles": 3.9553337961369475,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Sullivans, Powered by eXp, Birchgrove",
+ "city": "Swansea",
+ "sourceOutcode": "SA1",
+ "scrapedAt": "2026-08-31T16:55:09.711Z"
+}

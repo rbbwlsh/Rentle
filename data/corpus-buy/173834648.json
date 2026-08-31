@@ -1,0 +1,83 @@
+{
+ "id": "173834648",
+ "mode": "buy",
+ "displayAddress": "22 Duke Street, Leith Links, Edinburgh, EH6 8HQ",
+ "outcode": "EH6",
+ "incode": "8HQ",
+ "latitude": 55.97027,
+ "longitude": -3.171009,
+ "priceAmount": 170000,
+ "priceLabel": "£170,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/173834648",
+ "area": "Leith Links, Edinburgh",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": 538,
+  "sizeSqM": 50,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 0,
+  "councilTaxBand": "B",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 28/03/2026"
+ },
+ "sizeSqFt": 538,
+ "sizeSqM": 50,
+ "description": "This beautifully presented 1 of 5 available contemporary loft-style apartments offers an impressive blend of space, light, and modern living. Featuring double-height ceilings and a striking mezzanine level, the property provides a unique and stylish home ideally suited for professionals, first-time buyers, or investors looking for turn-key, ready to let units.\n\nThe internal door welcomes you into a bright and spacious open-plan living area, finished with modern flooring and recessed ceiling lighting throughout. Large windows flood the space with natural light, creating an airy and inviting environment perfect for both relaxing and entertaining. The hallway also allows access to a tiled shower room with mains fed shower, the white tiled shower room offers a neutral and modern three piece suite.\n\nTo the rear the modern fitted kitchen is thoughtfully designed with sleek cabinetry, integrated appliances such as fridge/freezer, built under oven and electric hob, ample worktop space, and a stylish breakfast bar, seamlessly connecting with the main living area to create a practical and sociable layout. A staircase leads to the impressive mezzanine-level bedroom, overlooking the living space below.\n\nThis area benefits from fitted mirrored wardrobes, providing excellent storage while enhancing the sense of space and light. The mezzanine design creates a distinctive loft-style atmosphere rarely found in conventional apartments. Finished in neutral tones throughout, the property offers a move-in-ready home with a modern and minimalist aesthetic. \n\nLocation: The residential area of Leith Links is well served by an excellent selection of local amenities which comprise of a variety of everyday shops, including a Tesco store two minutes walk from the property. There are further facilities available at the nearby Meadowbank Retail outlet where there is a large Sainsburys Supermarket. The property is also well placed for good recreational pursuits including Craigentinny Golf course, Meadowbank Sports Stadium and Arthurs Seat, Holyrood Park and the open green space of Leith Links offer many pleasant walks. There are a number of highly regarded restaurants, cafes and bars nearby at the Shore area and Ocean Terminal Shopping Centre is only a short drive away and includes a cinema, gym and a wide variety of high street retailers. There are also good schools within the local catchment area from Nursery level through to High School. Regular public transport services operate close by, including a tram stop, a minutes walk from the property, providing easy access to and from the city centre and surrounding areas.",
+ "keyFeatures": [
+  "Mezzanine",
+  "No onward chain - ideal investment or first time buy",
+  "Secondary Glazing",
+  "Electric Heating",
+  "EPC: Band D",
+  "Council tax band: B",
+  "Conservation area"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/cecffc0b7/173834648/cecffc0b7bfc2f8b93eb6791aa13d861.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0e3c98c59/173834648/0e3c98c59c3bfa7cd21d0ddd02b0c5ee.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4b5cf636e/173834648/4b5cf636efab85be88d80616fa79f09f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f8a005081/173834648/f8a0050812f787147bcef52d26b4f597.jpeg",
+  "https://media.rightmove.co.uk/property-photo/94b7139bb/173834648/94b7139bb44e470a2bf20dc4864445d1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9f0db1545/173834648/9f0db15454c2dddceba6f07661a3e487.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b9138e88c/173834648/b9138e88ca770874b0286800fe038ee7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fa2ff3df5/173834648/fa2ff3df5c9070b6cab7374ba6439a3d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0e1dec8de/173834648/0e1dec8de332a9a9697d73368a1811d8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6580866c3/173834648/6580866c3c46185c1d3d843c0986c2de.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 1.4587735567163955,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 2.513148281553158,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Brunstane Station",
+   "miles": 3.3323929847048928,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Sturrock, Armstrong and Thomson, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH6",
+ "scrapedAt": "2026-08-31T14:58:21.044Z"
+}

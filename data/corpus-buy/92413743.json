@@ -1,0 +1,83 @@
+{
+ "id": "92413743",
+ "mode": "buy",
+ "displayAddress": "Poplar Grove, Oxford, OX1",
+ "outcode": "OX1",
+ "incode": "5QT",
+ "latitude": 51.707626,
+ "longitude": -1.240337,
+ "priceAmount": 600000,
+ "priceLabel": "£600,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92413743",
+ "area": "Oxford",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Bungalow",
+ "details": {
+  "propertyType": "Bungalow",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Added on 26/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "An extremely well located detached three bedroom bungalow, offering huge scope to substantially extend and improve, benefitting from beautiful large rear garden, garage and generous accommodation within this highly sought after and extremely well serviced Oxfordshire village.\n\nPoplar Grove is well-situated in an established location within the heart of this very popular village, offering easy access to many nearby amenities including schools, shops, church and public house. There is an excellent bus service from Oxford city (circa. 2 miles) and the nearby town of Abingdon (circa. 5 miles) and the A34 offers many road links both north and south.\n\nDisclaimer\n\nWhilst we make enquiries with the Seller to ensure the information provided is accurate, Yopa makes no representations or warranties of any kind with respect to the statements contained in the particulars which should not be relied upon as representations of fact. All representations contained in the particulars are based on details supplied by the Seller. Your Conveyancer is legally responsible for ensuring any purchase agreement fully protects your position. Please inform us if you become aware of any information being inaccurate.\n\nMoney Laundering Regulations\n\nShould a purchaser(s) have an offer accepted on a property marketed by Yopa, they will need to undertake an identification check and asked to provide information on the source and proof of funds. This is done to meet our obligation under Anti Money Laundering Regulations (AML) and is a legal requirement.  We use a specialist third party service together with an in-house compliance team to verify your information. The cost of these checks is £82.50 +VAT per purchase, which is paid in advance, when an offer is agreed and prior to a sales memorandum being issued. This charge is non-refundable under any circumstances.",
+ "keyFeatures": [
+  "Close to public transport and shops",
+  "Beautiful large very well maintained garden",
+  "Cul de sac road",
+  "Village location",
+  "Driveway parking",
+  "Garage"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/6e7edb5de/92413743/6e7edb5deb2f86716fa41aa8e6799e65.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e0cd7eeab/92413743/e0cd7eeab8c470d74b3659077a8b9a08.jpeg",
+  "https://media.rightmove.co.uk/property-photo/45051a2b8/92413743/45051a2b8050595611d304e81cf45021.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8d5a9541b/92413743/8d5a9541be8ddffc610d559266e6d51e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/29bff3a7c/92413743/29bff3a7c2d5919b92120e409c36ebe7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/427ddd553/92413743/427ddd5536d7ffafd46f192211e4312d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c6917c5b1/92413743/c6917c5b1f3c72184edf44f37d442267.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4e25d4e20/92413743/4e25d4e20822101f372fef2ea040131b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/65446aa41/92413743/65446aa412cefd864e773acd2f2835b9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0d81a95f7/92413743/0d81a95f7e15d23ba00b5ecfb4f1f7a0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c4aceb69d/92413743/c4aceb69d032fa8ca97d3ed6474c372f.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Radley Station",
+   "miles": 1.4989196914002545,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Oxford Station",
+   "miles": 3.418379987267791,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Culham Station",
+   "miles": 3.7164704334084746,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Yopa, Midlands, South West & Wales",
+ "city": "Oxford",
+ "sourceOutcode": "OX1",
+ "scrapedAt": "2026-08-31T16:54:52.612Z"
+}

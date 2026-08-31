@@ -1,0 +1,90 @@
+{
+ "id": "91934784",
+ "mode": "buy",
+ "displayAddress": "Pilgrim Street, Newcastle, NE1",
+ "outcode": "NE1",
+ "incode": "6BJ",
+ "latitude": 54.971687,
+ "longitude": -1.608779,
+ "priceAmount": 100000,
+ "priceLabel": "£100,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91934784",
+ "area": "Newcastle",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 624,
+  "sizeSqM": 58,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "D",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 27/08/2026"
+ },
+ "sizeSqFt": 624,
+ "sizeSqM": 58,
+ "description": "Our latest listing is a 1 bedroom flat located in Newcastle. It is in close proximity to valuable amenities, is able to generate rewarding rental returns and has a tenant currently situated.\n\nFor investors looking to expand their portfolio, this is a fantastic opportunity!\n\nThis well-kept home features 1 bedroom, lounge, dining room, kitchen, bathroom, and shared private parking.\n\nInvestment details\n\nIt currently produces an annual gross income of £12,000 with tenants currently situated. Considering the purchase price and the potential rental income that could be earned in future years, this will make for a worthwhile addition to an investors property portfolio.\n\nFor greater detail on this property's investment potential, please see the Let Property Pack linked below.\n\nIf you are interested, please call us.\n\nTenancy Details\n\nThere are tenants that currently reside in the property and have consistently paid their rent for the duration of their stay. They do not have any intentions to move out so hope to remain in the property.\n\nWe are committed to facilitating a smooth transaction process between buyer and seller. To allow for maximum commitment to the sale from both parties, a Buyers Premium will apply in order to secure a property.",
+ "keyFeatures": [
+  "Shared Private Parking",
+  "Buy-to-Let Opportunity",
+  " Tenant Currently Situated",
+  "Likely to attract enquiries from Serious Investors &amp; Developers",
+  "INVESTMENT POTENTIAL DETAILED BELOW (Let Property Pack)",
+  "RICS Level 2 Survey Available Upon Enquiry",
+  "Cash Buyers Only"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f75b99465/91934784/f75b9946567694923896bc637e714dbf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fd7a26a50/91934784/fd7a26a5082906785c3360e48237433f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b5c88485b/91934784/b5c88485bdb1c02420ff1ce641c3a353.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6c24ac919/91934784/6c24ac9199a922a49d43a9c1c76e8f1e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/534b9db01/91934784/534b9db01e24ed38934d1e192666bcba.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a9e99d164/91934784/a9e99d16422f57d0e76d8faecccd81f3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/da236756d/91934784/da236756d2ca3583937330689c5c8cec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee0909c99/91934784/ee0909c999401ddf20849d9977676eba.jpeg",
+  "https://media.rightmove.co.uk/property-photo/76dd05662/91934784/76dd0566203999bcab0f089324ff3ace.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2d8d2c7f3/91934784/2d8d2c7f32eeb86b8eb750bceec19b73.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2cf8240b1/91934784/2cf8240b16905eeb0d8ca596a93a38cb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/247962849/91934784/2479628492cbf853f6cbb32e3ad2e23d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ebfa1b48f/91934784/ebfa1b48f104a78b51bb13c8f652e0bc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/53511ee27/91934784/53511ee27ecc52f4d1072e16af5b7671.jpeg",
+  "https://media.rightmove.co.uk/property-photo/310d3dbd4/91934784/310d3dbd407b138aa61e5a4579fa6560.jpeg"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Manors Station",
+   "miles": 0.2191808794215691,
+   "types": [
+    "NATIONAL_TRAIN",
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Newcastle Central Station",
+   "miles": 0.3955092984535258,
+   "types": [
+    "NATIONAL_TRAIN",
+    "TRAM"
+   ]
+  },
+  {
+   "name": "St James Station",
+   "miles": 0.5204892616772385,
+   "types": [
+    "LIGHT_RAILWAY"
+   ]
+  }
+ ],
+ "agent": "Let Property Sales & Management, Glasgow",
+ "city": "Newcastle",
+ "sourceOutcode": "NE1",
+ "scrapedAt": "2026-08-31T14:54:36.888Z"
+}

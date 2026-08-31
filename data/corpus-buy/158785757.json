@@ -1,0 +1,84 @@
+{
+ "id": "158785757",
+ "mode": "buy",
+ "displayAddress": "Earl Street, Sheffield, S1",
+ "outcode": "S1",
+ "incode": "4WH",
+ "latitude": 53.375534,
+ "longitude": -1.470892,
+ "priceAmount": 38000,
+ "priceLabel": "£38,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/158785757",
+ "area": "Sheffield",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "EPC band: C\n\nStarting Bid £38,000\n\nWe are delighted to present this attractively appointed flat for sale, ideally suited for first-time buyers, university accommodation, or investors. Situated in a sought-after city centre location, this property boasts of excellent public transport links, local amenities, green spaces, nearby parks, historical features, and well-known walking and cycling routes.\n\nThe flat is in good condition, offering an open-plan layout that effortlessly combines the lounge and bedroom into a tastefully designed space. Large windows in the reception room allow for an abundance of natural light, enhancing the appeal of the wood floors. The room is versatile, doubling up as a comfortable bedroom, making it a perfect fit for a student accommodation or a first-time home.\n\nThe property features a single kitchen that is also open-plan, providing ample dining space. The kitchen, while compact, is optimally utilised and well-appointed. The neutrally decorated bathroom is complete with a heated towel rail, three-piece suite, and a shower, offering all the comforts of a modern home.\n\nThis property is categorised under Council Tax Band A and has an EPC rating of C, indicating a high level of energy efficiency, which could potentially result in lower utility bills.\n\nOverall, this flat is an excellent investment opportunity given its central location and potential to cater to a wide range of occupants. It is a must-see property that combines comfort, convenience, and affordability in the heart of the city.\n\nYIELDS OVER 5%\nON-SITE GYM\nABUNDANCE OF LOCAL AMENITIES\nHIGH TENANT DEMAND\n\nTENURE  \nThis property has 191 years remaining on the lease, with service charge of £2400 per annum and ground rent charge of £300 per annum.\n\nLease term: 195 years from 1 January 2020\n\nDisclaimer\n\nWhilst we make enquiries with the Seller to ensure the information provided is accurate, Yopa makes no representations or warranties of any kind with respect to the statements contained in the particulars which should not be relied upon as representations of fact. All representations contained in the particulars are based on details supplied by the Seller. Your Conveyancer is legally responsible for ensuring any purchase agreement fully protects your position. Please inform us if you become aware of any information being inaccurate.\n\nMoney Laundering Regulations\n\nShould a purchaser(s) have an offer accepted on a property marketed by Yopa, they will need to undertake an identification check and asked to provide information on the source and proof of funds. This is done to meet our obligation under Anti Money Laundering Regulations (AML) and is a legal requirement.  We use a specialist third party service together with an in-house compliance team to verify your information. The cost of these checks is £82.50 +VAT per purchase, which is paid in advance, when an offer is agreed and prior to a sales memorandum being issued. This charge is non-refundable under any circumstances.",
+ "keyFeatures": [
+  "Start Bid £38,000",
+  "Current rental income of £650pcm",
+  "Studio Flat",
+  "Perfect university accommodation",
+  "Bathroom",
+  "Kitchen",
+  "Open plan"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/ec283b307/158785757/ec283b30744bc3b1d4d273178034ddec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2203569a4/158785757/2203569a44d57e1610de40c59b3728b6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b27907018/158785757/b279070188a3cfce0fdcdc1592de59ed.jpeg",
+  "https://media.rightmove.co.uk/property-photo/28c0bc891/158785757/28c0bc891314f2d92bd1ba2979d7afb2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5dc1aa6e7/158785757/5dc1aa6e7f3cc5a9a1fa9a2e66be9adf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c8619e2ae/158785757/c8619e2ae09ae7a5773630b055c44358.jpeg",
+  "https://media.rightmove.co.uk/property-photo/665fe1b10/158785757/665fe1b103c6eb4c7d3926d0295116ce.jpeg",
+  "https://media.rightmove.co.uk/property-photo/371f144da/158785757/371f144da17157bdd4e5373d89450925.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1b76457a3/158785757/1b76457a3305f776715b638698d2ef12.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eb9088d29/158785757/eb9088d29f36d6b58aa164b5e903faa2.png",
+  "https://media.rightmove.co.uk/property-photo/3b48b6331/158785757/3b48b6331cf31dc0f14698a3869ee974.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Granville Road/The Sheffield College Tram Stop",
+   "miles": 0.4010989369032316,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "City Hall Tram Stop",
+   "miles": 0.4371464932391177,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "West Street Tram Stop",
+   "miles": 0.4413098826813717,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Yopa, East Midlands & Yorkshire",
+ "city": "Sheffield",
+ "sourceOutcode": "S1",
+ "scrapedAt": "2026-08-31T14:47:02.161Z"
+}

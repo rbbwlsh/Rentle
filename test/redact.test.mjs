@@ -93,3 +93,32 @@ test('removing a cell takes its separator with it — no dangling "D |"', () => 
   const headline = '| 2 Double Bedroom | Allocated Parking | Furnished |';
   assert.equal(redactText(headline), headline);
 });
+
+test('sale ads name the price in their own idiom, with or without a £', () => {
+  // The bare £ rule covers most sale copy; these are the phrasings that give
+  // the asking price away without one.
+  for (const line of [
+    'Guide Price 425,000 for this superb family home.',
+    'Offers in excess of 300,000 invited.',
+    'OIRO 250,000 — no onward chain.',
+    'Asking price 189,950, ready to move into.',
+  ]) {
+    assert.equal(revealsPrice(line), true, `should reveal: ${line}`);
+  }
+  // And the ordinary sale sentence that mentions no money survives.
+  assert.equal(
+    revealsPrice('A three-bedroom semi with a south-facing garden and no chain.'),
+    false
+  );
+});
+
+test('a sale description keeps its prose and loses only the price sentence', () => {
+  const text =
+    'A beautifully presented two-bedroom apartment. Guide Price £340,000. ' +
+    'The living room opens onto a private balcony.';
+  const out = redactText(text);
+  assert.ok(out.includes('beautifully presented'));
+  assert.ok(out.includes('private balcony'));
+  assert.ok(!out.includes('340,000'));
+  assert.ok(!/guide price/i.test(out));
+});

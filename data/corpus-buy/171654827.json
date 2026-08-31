@@ -1,0 +1,82 @@
+{
+ "id": "171654827",
+ "mode": "buy",
+ "displayAddress": "Richard Hawthorn House, Geoffrey Watling Way",
+ "outcode": "NR1",
+ "incode": "1GS",
+ "latitude": 52.619801,
+ "longitude": 1.3122,
+ "priceAmount": 250000,
+ "priceLabel": "£250,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/171654827",
+ "area": "Richard Hawthorn House",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "C",
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Reduced on 27/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Two bedroom Ground floor Apartment in Richard Hawthorn House down by the River!\n\nLeaders are delighted to present this stunning two bedroom ground floor apartment with a private terrace in one of Riversides newest developments! The is an ideal buy for both home buyers and investors.\n\nAs you enter this light and airy apartment you come into the main hallway, with storage to both your left and right you'll never be short of space. The modern three piece bathroom is round the corner with a shower over bath, basin, sink and towel rail. \n\nBoth bedrooms are to the rear overlooking the terrace and communal garden. The main living area is an open plan style kitchen diner with sliding doors to the private terrace. The fitted kitchen has integrated appliances being an oven, hobs, extractor, fridge/freezer and washing machine. The apartment is currently being offered part furnished. \n\nRichard Hawthorn House has the added benefit of a spacious garden terrace. The apartment has parking available at an additional cost. \n\nIf you would like more information, or to book a viewing, please call:  .",
+ "keyFeatures": [
+  "Stunning waterside views",
+  "En-suite master bedroom",
+  "Spacious double bedrooms",
+  "Rare garden space in city centre",
+  "Modern kitchen appliances",
+  "Parking available at an additional cost of £85 per month."
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/5e44943fb/171654827/5e44943fb2d12ecad47f576316c3d5f4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d7ad4bfa8/171654827/d7ad4bfa83cc0fe386b72391e1656c03.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b4042a17a/171654827/b4042a17a7488907b0f9ac6f6a003722.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3e02acb11/171654827/3e02acb112d144b740083131f407df14.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d5fa0e907/171654827/d5fa0e9078c9b8e158b1b8f4884d45e1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/260656c70/171654827/260656c700063070744d89f4f3767c06.jpeg",
+  "https://media.rightmove.co.uk/property-photo/efa9a9892/171654827/efa9a9892990af2475e310f252da8f84.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9cd668c60/171654827/9cd668c6071add1ef19f7dbf1431a9ef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b87a23053/171654827/b87a2305317dbfe703f2349667a1edb9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6fce2c45d/171654827/6fce2c45dc6da29427d74b5c32555968.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Norwich Station",
+   "miles": 0.542820003585748,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Brundall Gardens Station",
+   "miles": 4.477869320817005,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Salhouse Station",
+   "miles": 5.040830531540437,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Leaders Sales, Norwich",
+ "city": "Norwich",
+ "sourceOutcode": "NR1",
+ "scrapedAt": "2026-08-31T15:00:59.357Z"
+}

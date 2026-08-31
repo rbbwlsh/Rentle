@@ -1,0 +1,88 @@
+{
+ "id": "92352600",
+ "mode": "buy",
+ "displayAddress": "Hope Place, Lansdown Road",
+ "outcode": "BA1",
+ "incode": "5DL",
+ "latitude": 51.39037,
+ "longitude": -2.364632,
+ "priceAmount": 335000,
+ "priceLabel": "£335,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92352600",
+ "area": "Lansdown Road",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Added on 25/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "THE PROPERTY\nAllen Residential are pleased to offer for sale within the prestigious gated grounds of Hope House on the lower slopes of Lansdown, this beautifully presented one-bedroom ground floor apartment offers stylish contemporary living in one of Bath’s most desirable settings. Forming part of Acorn’s recently completed development, the property enjoys access to approximately six acres of landscaped parkland, with residents benefiting from the use of beautifully maintained communal gardens and tennis courts.\nThe apartment is approached via a private entrance, opening into a welcoming central hallway that leads through to a superb open-plan living space. Designed with modern living in mind, the sitting, dining and kitchen area is finished with engineered wood flooring and features a sleek, fully fitted kitchen with matt painted cabinetry, granite worktops and a range of integrated Miele appliances, including an induction hob, microwave oven, electric oven, dishwasher and fridge/freezer. The double bedroom is a generous and peaceful retreat, complemented by a contemporary shower room fitted with a large walk-in shower, vanity unit, WC and heated towel rail.\nHope House occupies a particularly convenient position, combining a tranquil parkland setting with excellent access to the city. Bath Spa railway station is approximately one mile away on foot, while Junction 18 of the M4 is around nine miles distant, making the property well suited to both owner-occupiers and those seeking a well-connected Bath base.\nADDITIONAL INFORMATION\nLease: 999 years from 24 June 2018 (approximately 992 years remaining)Service charge (2025/26): £578.22 per quarterGround rent: £250 per annumManagement company: Principle Estate ManagementCouncil tax Band C",
+ "keyFeatures": [
+  "PRESTIGIOUS GATED HOPE HOUSE DEVELOPMENT",
+  "STYLISH ONE-BEDROOM CONTEMPORARY APARTMENT",
+  "PRIVATE ENTRANCE AND OPEN-PLAN LIVING SPACE",
+  "HIGH-QUALITY MIELE INTEGRATED APPLIANCES",
+  "ACCESS TO SIX ACRES OF PARKLAND, COMMUNAL GARDENS AND TENNIS COURTS",
+  "EXCELLENT ACCESS TO BATH CITY CENTRE AND TRANSPORT LINKS",
+  "GROUND FLOOR AND PRIVATE ACCESS DOORWAY"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/44ae734a7/92352600/44ae734a7a5201d8fc758a3a8679e579.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a195735f9/92352600/a195735f99816ad90dfee317b1f74941.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6ec09595d/92352600/6ec09595d071035bd09b44e36e9144fd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5a3d5ff50/92352600/5a3d5ff5023cf6c53696329b0a6f0058.jpeg",
+  "https://media.rightmove.co.uk/property-photo/727bd1e52/92352600/727bd1e5282b033396c7edef7f59ce42.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4bb2ba97c/92352600/4bb2ba97c72896e2698d0b536a96c977.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d97aa1fa4/92352600/d97aa1fa43de9d3357783e960faf7957.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eb1239fb6/92352600/eb1239fb62d709c021fdbd167816b1b0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8f4febe75/92352600/8f4febe759a2bf874e16958909f8741f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ba101eb07/92352600/ba101eb0783cf25b675bd62e1f52a217.jpeg",
+  "https://media.rightmove.co.uk/property-photo/29d65919e/92352600/29d65919ea30020ba37c258fd1262756.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7ee7e05bb/92352600/7ee7e05bb7caa95de41fb515f41b94fc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/463bc1347/92352600/463bc1347a6f506fcef3b49b2947d646.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b283ece03/92352600/b283ece03dba6bd49ea4d947027bd11d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/adf4c958b/92352600/adf4c958b255226ca139325570af4541.jpeg"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Bath Spa Station",
+   "miles": 0.9368691162008185,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Oldfield Park Station",
+   "miles": 1.0440783256855053,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Freshford Station",
+   "miles": 4.331748027834175,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Allen Residential, Paulton",
+ "city": "Bath",
+ "sourceOutcode": "BA1",
+ "scrapedAt": "2026-08-31T14:57:20.384Z"
+}

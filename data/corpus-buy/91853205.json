@@ -1,0 +1,87 @@
+{
+ "id": "91853205",
+ "mode": "buy",
+ "displayAddress": "Thorpe Road, Norwich",
+ "outcode": "NR1",
+ "incode": "1RT",
+ "latitude": 52.62635,
+ "longitude": 1.313015,
+ "priceAmount": 175000,
+ "priceLabel": "£175,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91853205",
+ "area": "Norwich",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 532,
+  "sizeSqM": 49,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 989,
+  "annualGroundRent": 250,
+  "annualServiceCharge": 1960,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 26/08/2026"
+ },
+ "sizeSqFt": 532,
+ "sizeSqM": 49,
+ "description": "This contemporary one-bedroom apartment is perfectly positioned just a short walk from Norwich city centre and Norwich Train Station. Set within an attractive Victorian conversion of just 18 apartments, this stylish home beautifully combines character features, including high ceilings and restored sash windows, with modern open-plan living. Offering a bright and spacious interior, a generous double bedroom, contemporary kitchen and bathroom, and the added benefit of parking within the development, this property presents an ideal opportunity for first-time buyers, investors, or those seeking a well-connected city residence with excellent transport links and amenities close at hand.\n\nThe Location\n\nSituated within easy walking distance of Norwich city centre, this property enjoys an excellent position in the heart of East Anglia's vibrant county capital. Norwich offers an extensive range of amenities including independent shops, cafés, bars, restaurants, cultural attractions, and retail destinations such as Chantry Place and Castle Quarter.\n\nThe property is conveniently located close to a selection of state, faith, and independent schools, supermarkets, public houses, parks, and leisure facilities. The University of East Anglia and Norfolk and Norwich University Hospital are also within easy reach. Norwich Train Station is just a short walk away, providing direct rail links, while regular bus services operate throughout the city and surrounding areas.\n\nTibbenham House\n\nUpon entering the apartment, you are welcomed into a bright and spacious open-plan living environment, thoughtfully designed to maximise both comfort and practicality.\n\nHigh ceilings and large restored sash windows enhance the sense of space, allowing natural light to flow throughout the accommodation and creating an inviting atmosphere.\n\nThe open-plan living area seamlessly incorporates a contemporary fitted kitchen complete with integrated appliances, providing a stylish and functional space for both everyday living and entertaining.\n\nThe apartment benefits from a generously sized double bedroom, offering comfortable accommodation with ample space for furnishings. A modern three-piece bathroom suite completes the internal accommodation, featuring quality fixtures and fittings.\n\nFurther enhancing the appeal of the property, the vendor advises that residents benefit from access to a shared car park, with one allocated parking space per apartment and additional visitor parking available within the development.\n\nCombining character, convenience, and contemporary style, this attractive apartment presents an excellent opportunity to enjoy city living with outstanding connectivity and everyday amenities close at hand.\n\nAgent’s Note\n\nThe property will be sold leasehold with approximately 989 years remaining on the lease.\n\nConnected to mains water, electricity, and drainage.\n\nGround Rent: £250 per annum.\n\nService Charge/Maintenance: £1,960 per annum.\n\nParking: Lease documentation confirms one allocated parking space per apartment within the shared car park. Purchasers should satisfy themselves as to the existence and extent of any parking rights through their legal representative.\n\nThe property is currently subject to a tenancy agreement. Buyers should take this into consideration when discussing and agreeing completion timescales.\n\nEPC Rating: D Disclaimer \n\n Minors and Brady (M&B) along with their representatives, are not authorised to provide assurances about the property, whether on their own behalf or on behalf of their client. We don’t take responsibility for any statements made in these particulars, which don’t constitute part of any offer or contract. To comply with AML regulations, £52 is charged to each buyer which covers the cost of the digital ID check. It’s recommended to verify leasehold charges provided by the seller through legal representation. All mentioned areas, measurements, and distances are approximate, and the information, including text, photographs, and plans, serves as guidance and may not cover all aspects comprehensively. It shouldn’t be assumed that the property has all necessary planning, building regulations, or other consents. Services, equipment, and facilities haven’t been tested by M&B, and prospective purchasers are advised to verify the information to their satisfaction through inspection or other means.",
+ "keyFeatures": [
+  "Contemporary one-bedroom apartment within a Victorian conversion",
+  "Fantastic location just mins from the city centre &amp; train station",
+  "One large double bedroom",
+  "Modern three piece suite bathroom",
+  "Ideal for professionals",
+  "Open plan lounge/kitchen",
+  "A parking space is available within the development, as referenced within the lease documentation",
+  "989 years remaining on the lease",
+  "Situated within a development of just 18 apartments",
+  "Excellent transport links and access to local amenities"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/ef0530101/91853205/ef053010176e34b79b0f18fa40d77f27.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa383e584/91853205/aa383e5841b7eec0255709c7035a7869.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8211f64da/91853205/8211f64da5094e25035d0b8f05630e33.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fae580fa9/91853205/fae580fa954db59b70fd621ce36cb6be.jpeg",
+  "https://media.rightmove.co.uk/property-photo/48f5f60a3/91853205/48f5f60a3319face71ce116eebf8ee0f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/222c1d094/91853205/222c1d0947ae22edea9b17b679538253.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2f6c20648/91853205/2f6c206487d6be2784d46be64350a671.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b534661a4/91853205/b534661a4d079d656b7a6e7487414af8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/81fabc62e/91853205/81fabc62ed52c439855ce3758a8070f5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dcbd3d46c/91853205/dcbd3d46c37a0409e49a5296d3c4c4fe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/80d560d48/91853205/80d560d48fcba7f5053dd569dbe44ec9.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Norwich Station",
+   "miles": 0.2588227255293376,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Brundall Gardens Station",
+   "miles": 4.440719702171204,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Salhouse Station",
+   "miles": 4.682665254757683,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Minors & Brady, Unthank Road, Norwich",
+ "city": "Norwich",
+ "sourceOutcode": "NR1",
+ "scrapedAt": "2026-08-31T14:56:31.796Z"
+}

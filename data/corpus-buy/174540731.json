@@ -1,0 +1,76 @@
+{
+ "id": "174540731",
+ "mode": "buy",
+ "displayAddress": "Cambridge Road,  Blackpool, FY1",
+ "outcode": "FY1",
+ "incode": "3QQ",
+ "latitude": 53.81946,
+ "longitude": -3.03986,
+ "priceAmount": 38000,
+ "priceLabel": "£38,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/174540731",
+ "area": "Blackpool",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 0,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 25/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "** SOLD WITH TENANT IN SITU ** One bedroom first floor apartment for sale on Cambridge Road in Blackpool. The property is ideally located for amenities, close to Blackpool Victoria Hospital, Blackpool town centre and offers a fitted kitchen and spacious lounge. Accommodation briefly comprising; entrance to the rear of the property into the kitchen, hallway, bathroom, bedroom, lounge, rear yard. CALL TO VIEW.\n\nENTRANCE\nUPVC Entrance door to the rear of the property straight into the kitchen;\n\nKITCHEN\n13'1' x 9'7' (3.98m x 2.93m)\nUPVC Double glazed window to the rear of the property, a range of fitted wall and base units with complimentary work surface, space for cooker, plumbed for washing machine, space for freestanding fridge/freezer, stainless steel sink and drainer, cupboard housing central heating boiler, central heating radiator.\n\nHALLWAY\nCentral heating radiator\n\nBATHROOM\n6'6' x 6'0' 1.97m x 1.84m)\nUPVC Double glazed window to the side aspect, three piece suite comprising of; panelled bath with electric shower overhead, pedestal wash hand basin, low flush W.C, central heating radiator.\n\nBEDROOM ONE\n13'3' x 9'5' (4.04m x 2.87m)\nUPVC Double glazed window to the rear aspect, central heating radiator.\n\nLOUNGE\n14'5' x 13'5' (4.39m x 4.08m)\nUPVC Double glazed windows to the front aspect, central heating radiator.\n\nEXTERNAL\n\nFRONT \nOn street parking \n\nREAR\nShared yard stairs to the entrance door, with gated access to the rear alley,\n\nTENURE\nWe have been informed that the property is Leasehold; 999 years with a peppercorn ground rent of £5.00 per annum; prospective purchasers should seek clarification of this from their solicitors. \n\nVIEWINGS \nViewings are strictly by appointment through the agents office.\n\nAll measurements are approximate and for illustrative purposes only. Digital images are reproduced for general information only and must not be inferred that any item shown is included for sale with the property. We have been unable to confirm if services / items in the property are in full working order. The property is offered for sale on this basis. Prospective purchasers are advised to seek expert advice where appropriate.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c614b6cbb/174540731/c614b6cbbadd444c2bf67400a5a6b9a5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/56f8c5b90/174540731/56f8c5b90c83ad48401f0f0e70440b77.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fb59950fb/174540731/fb59950fb8a510846b27d41c119ef12d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f76a4d12c/174540731/f76a4d12c5f6f7d6c30faedeb11639f1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b6ee426b7/174540731/b6ee426b76ba11f6a22287aeb095b875.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1e65a6e1d/174540731/1e65a6e1d436e62e7b6d9e028359325f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0df16244e/174540731/0df16244e9d5dbf1ba6098a9cd55b831.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4af2b09c4/174540731/4af2b09c4140ecca8810b18b3e9b2553.jpeg",
+  "https://media.rightmove.co.uk/property-photo/44bc10464/174540731/44bc1046482253771fb2c1fc0419b348.jpeg",
+  "https://media.rightmove.co.uk/property-photo/17c1cc454/174540731/17c1cc454aee672b7bff7edf046c03f1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8c549c7ee/174540731/8c549c7ee1d60c97640f3be1ddf13975.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Blackpool North Station",
+   "miles": 0.41769443400974743,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Layton Station",
+   "miles": 1.1382107937779655,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Blackpool South Station",
+   "miles": 1.513150072428561,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "The Square Room, Fylde Coast",
+ "city": "Blackpool",
+ "sourceOutcode": "FY1",
+ "scrapedAt": "2026-08-31T14:55:48.928Z"
+}

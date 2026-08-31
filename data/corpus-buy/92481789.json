@@ -1,0 +1,80 @@
+{
+ "id": "92481789",
+ "mode": "buy",
+ "displayAddress": "Albany Street, Middlesbrough",
+ "outcode": "TS1",
+ "incode": "4DB",
+ "latitude": 54.570374,
+ "longitude": -1.241373,
+ "priceAmount": 90000,
+ "priceLabel": "£90,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92481789",
+ "area": "Middlesbrough",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 27/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Chain free sale! Ideal for investors and first time buyers this two bedroom mid terrace home offers a modern kitchen, stylish shower room and has a loft room which is accessible via a staircase on the landing (not up to building regs)",
+ "keyFeatures": [
+  "Chain Free Sale!",
+  "Ideal For Investors And First Time Buyers",
+  "Modern Kitchen And Shower Room",
+  "Loft Room Which Is Accessible Via A Staircase On The Landing (Not Up To Building Regs)",
+  "Two Reception Rooms"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/b32a45d9c/92481789/b32a45d9c93adfddaca31f4ddc0d7625.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f6cb47020/92481789/f6cb47020b9d38710337369a3244a01c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/558886ac2/92481789/558886ac2f261bb3f84c3ec5be9bf0ce.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5201ff3ea/92481789/5201ff3eadb08e2fb406b59143fbd969.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e1af50bf9/92481789/e1af50bf96baa9109479fc4b88738983.jpeg",
+  "https://media.rightmove.co.uk/property-photo/383bd3865/92481789/383bd3865cafb0e6ed3accaef4ad6eb0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4acc68f71/92481789/4acc68f71a81055604ec9c0fd868e3ad.jpeg",
+  "https://media.rightmove.co.uk/property-photo/01ee205ea/92481789/01ee205ea86c1977361b2147198fad07.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3a292366f/92481789/3a292366f9b6ba962156b3e4fad683db.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Middlesbrough Station",
+   "miles": 0.6586557565464665,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Thornaby Station",
+   "miles": 2.51835438037681,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Marton Station",
+   "miles": 2.541834329824992,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Michael Poole, Middlesbrough",
+ "city": "Middlesbrough",
+ "sourceOutcode": "TS1",
+ "scrapedAt": "2026-08-31T14:58:58.972Z"
+}

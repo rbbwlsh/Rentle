@@ -1,0 +1,87 @@
+{
+ "id": "91319529",
+ "mode": "buy",
+ "displayAddress": "Hanover Mill, Hanover Street, Newcastle Upon Tyne, NE1",
+ "outcode": "NE1",
+ "incode": "3AB",
+ "latitude": 54.966439,
+ "longitude": -1.613706,
+ "priceAmount": 118000,
+ "priceLabel": "£118,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91319529",
+ "area": "Hanover Mill, Newcastle Upon Tyne",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": null,
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "TBC",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 22/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Occupying an enviable position within the iconic Hanover Mill on Newcastle's vibrant Quayside, this charming one-bedroom apartment effortlessly combines the character of a historic mill conversion with the convenience of modern city living. The property presents an excellent opportunity for first-time buyers, professionals or investors seeking a well-appointed home in one of the city's most sought-after locations.\n\nAccessed via a secure fob-entry system, the apartment opens into a welcoming entrance hall with a useful storage cupboard. The heart of the home is the impressive open-plan living space, where a traditional arched window floods the room with natural light while framing attractive views over surrounding foliage and greenery, creating a peaceful outlook rarely found within such a central city setting. The well-equipped kitchen is fitted with a range of contemporary wall and base units, integrated appliances and ample worktop space, creating a practical yet stylish area for everyday living and entertaining.\n\nThe generous double bedroom enjoys the same attractive arched window, providing a bright and comfortable retreat with a pleasant outlook over the mature greenery beyond. There is ample space for freestanding furniture, while the leafy aspect adds to the sense of calm and privacy. Completing the accommodation is a well-appointed bathroom fitted with a panelled bath and shower over, WC and wash hand basin.\n\nA particular feature of the property is the substantial storage room, offering exceptional versatility with plumbing for a washing machine and additional space for storage, helping to keep the main living accommodation clutter-free.\n\nHanover Mill occupies an enviable position on Newcastle's prestigious Quayside, where historic architecture meets contemporary city living.\n\nSurrounded by award-winning restaurants, fashionable bars, independent cafés and picturesque riverside walks, the location offers an unrivalled lifestyle in the heart of the city. The nearby Ouseburn Valley, renowned for its vibrant arts scene and boutique venues, further enhances the area's appeal, while Newcastle Central Station, excellent road links and the city's world-class shopping, universities and business district are all within easy reach.\n\nCombining heritage, convenience and an exceptional waterside setting, Hanover Mill remains one of Newcastle's most sought-after residential addresses.\n\nEPC- B\n\nCouncil Tax- B\n\nTenure- Leasehold\n\nIn line with UK Money Laundering Regulations and HMRC supervision, buyers must complete identity verification using a Government-approved digital verification service. An administrative charge is payable to cover compliance costs, charged at £25 + VAT (£30) for each purchaser. Verification is required following offer acceptance and prior to the property being marked Sold Subject to Contract.",
+ "keyFeatures": [
+  "Stylish one-bedroom apartment in the heart of Newcastle Quayside",
+  "Impressive open-plan living and entertaining space",
+  "Characterful arched windows with leafy outlooks",
+  "Substantial separate storage room with utility space",
+  "Moments from riverside walks, Ouseburn and Newcastle city centre"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/e4d439898/91319529/e4d4398986411cecc88f16662b6092e7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/04a5e314d/91319529/04a5e314dc96cfb939582a31ecc2f9fa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/377522c24/91319529/377522c244eb8569ad7f09c9fc76cca0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b897a4b2c/91319529/b897a4b2c1b5195e80be1ad3baf8bc12.jpeg",
+  "https://media.rightmove.co.uk/property-photo/298661d47/91319529/298661d476b5b18e614bcb9979e4b957.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8d5a290c6/91319529/8d5a290c6aca64b84a75c680300596a1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7abf2dd80/91319529/7abf2dd8033f2c1fdc9ec11d78c4803a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f1239702f/91319529/f1239702f5f1b63b1eb42f7c0cd1499a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/69ab2d094/91319529/69ab2d094067b3d9af066890a996f3ed.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2be76ed71/91319529/2be76ed71425acc89f4f086d59346182.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e8d5db44f/91319529/e8d5db44fab4eef2792e682cfff1c04b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/568937483/91319529/568937483190fc089b7294b30145a119.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2eb3ca013/91319529/2eb3ca0135711a799f0083a14e125509.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7273dab5a/91319529/7273dab5ab01ed6651de2fcb7f0a275b.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Newcastle Central Station",
+   "miles": 0.20102173054394773,
+   "types": [
+    "NATIONAL_TRAIN",
+    "TRAM"
+   ]
+  },
+  {
+   "name": "St James Station",
+   "miles": 0.6104767900726475,
+   "types": [
+    "LIGHT_RAILWAY"
+   ]
+  },
+  {
+   "name": "Manors Station",
+   "miles": 0.6258967722998215,
+   "types": [
+    "NATIONAL_TRAIN",
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Bradley Hall, Gosforth",
+ "city": "Newcastle",
+ "sourceOutcode": "NE1",
+ "scrapedAt": "2026-08-31T14:54:38.210Z"
+}

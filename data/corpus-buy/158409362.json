@@ -1,0 +1,96 @@
+{
+ "id": "158409362",
+ "mode": "buy",
+ "displayAddress": "Cathedral View, Full Street, Derby",
+ "outcode": "DE1",
+ "incode": "3AF",
+ "latitude": 52.924425,
+ "longitude": -1.475155,
+ "priceAmount": 105000,
+ "priceLabel": "£105,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/158409362",
+ "area": "Derby",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 495,
+  "sizeSqM": 46,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 26/08/2026"
+ },
+ "sizeSqFt": 495,
+ "sizeSqM": 46,
+ "description": "****TENANTS IN SITU CURRENTLY PAYING £775PCM***\n** TO BE SOLD FULLY FURNISHED**\n** SECURE GATED ENTRY ***\nA luxury one double bedroomed apartment in the prestigious Cathedral View development.  The apartment has the benefit of double glazing, spacious living accommodation. In brief the property comprises of entrance hallway, spacious lounge, dining and kitchen areas with double doors leading to the outside patio area, double bedroom and bathroom. The property offers secure living with a gated access. The apartment is located within a moments walk to Derby City Centre and the cosmopolitan Sadler Gate area of Derby with a range of bars, restaurants and cafes and offering good access to both the A52 and A38 road networks. NO UPWARD CHAIN.  Ideal for a buy to let investor or first time buyer.",
+ "keyFeatures": [
+  "To Be Sold Fully Furnished",
+  "Secure Gated Entry",
+  "Outside Patio Area",
+  "Open Plan Living Dining Area",
+  "Close to City Centre",
+  "No Upward Chain",
+  "Council Tax Band A"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/62f2cf4ca/158409362/62f2cf4ca82a51a8d0bd157fb69bf1bf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bde166b1c/158409362/bde166b1c318113a479a0f8997674812.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8dc5064df/158409362/8dc5064df3a706cd9931e9a8500316fd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ab862d3cc/158409362/ab862d3ccc6223b73dea02dbec0b5710.jpeg",
+  "https://media.rightmove.co.uk/property-photo/146072c29/158409362/146072c2970a7933bb104077226e4991.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dfcc14769/158409362/dfcc1476945998dcf9d93ad72ed67a9f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/04f9c37ad/158409362/04f9c37ad0ecded0f89edbb1a4525458.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8f2cd5779/158409362/8f2cd5779d031912bee8a2ca07fd93c4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/10dd66b6e/158409362/10dd66b6e679b0d35dfb9d44d54719b0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c43ba649c/158409362/c43ba649cdda3161e5c156d39d590125.jpeg",
+  "https://media.rightmove.co.uk/property-photo/556eb8179/158409362/556eb8179e3be1b8e27c4bd81939c687.jpeg",
+  "https://media.rightmove.co.uk/property-photo/db6720eda/158409362/db6720edaf589bd6f58ef749e243a29b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c110ab58f/158409362/c110ab58f13e872063ba8fd9a108e690.jpeg",
+  "https://media.rightmove.co.uk/property-photo/851bfb5e0/158409362/851bfb5e0e8317b8a67c42f64faa1876.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2ebf5eb71/158409362/2ebf5eb713f96f565e712fdb0d7368ff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4085f7327/158409362/4085f7327e099b56d6b22788560e52bd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ff5d93e68/158409362/ff5d93e688f586b22b261df7cf4e5930.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8a5f9a597/158409362/8a5f9a597a8e7a783c669d15ed8a90dc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/68a94e1c3/158409362/68a94e1c3327514493c75186a000c51f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/10153cf48/158409362/10153cf489c509c14a298095b6d0dd15.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8c68c08f0/158409362/8c68c08f00f385733c893b6591ad2c71.jpeg",
+  "https://media.rightmove.co.uk/property-photo/08662bf00/158409362/08662bf00799ef4d9416faa258b3c5bb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a6b983781/158409362/a6b98378108919c793478ef02f545fb1.jpeg"
+ ],
+ "imageCount": 23,
+ "nearestStations": [
+  {
+   "name": "Derby Station",
+   "miles": 0.7588186756973109,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Peartree Station",
+   "miles": 1.8330687487125776,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Spondon Station",
+   "miles": 2.8332023186415496,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Leaders Sales, Derby Borrowash",
+ "city": "Derby",
+ "sourceOutcode": "DE1",
+ "scrapedAt": "2026-08-31T14:56:21.451Z"
+}

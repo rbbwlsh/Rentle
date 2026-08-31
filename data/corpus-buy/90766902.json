@@ -1,0 +1,78 @@
+{
+ "id": "90766902",
+ "mode": "buy",
+ "displayAddress": "James Street, Bradford, West Yorkshire, BD1",
+ "outcode": "BD1",
+ "incode": "3QG",
+ "latitude": 53.795146,
+ "longitude": -1.756072,
+ "priceAmount": 39999,
+ "priceLabel": "£39,999",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90766902",
+ "area": "Bradford, West Yorkshire",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 242,
+  "annualGroundRent": 200,
+  "annualServiceCharge": 1446,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 14/03/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This recently renovated studio apartment is situated in the centre of Bradford and is available with no chain. Fantastic investment opportunity, potentially achieving rent of £500.00PCM, giving a gross yield of 15%.\n\n\rA first floor studio apartment in this renovated city centre complex. With laminate floors throughout, electric heating, double glazing along with security intercom to the main entrance. The kitchen included electric hob, integrated fridge and washer/dryer. The bathroom is finished in a contemporary white suite with part tiled walls, step-in shower, wash hand basin and w/c.",
+ "keyFeatures": [
+  "City Centre Studio Flat",
+  "Potential Rent: £500 Per Calendar Month",
+  "Council Tax Band: A",
+  "EPC Rating: D",
+  "No Chain",
+  "Close to Local Amenities"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/62dcc5d95/90766902/62dcc5d95d69d3359be659ca3715e687.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d43843663/90766902/d438436636d0a100eeb6c1529fd925cd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bae44ed10/90766902/bae44ed10233610281d80eeb83c95f14.jpeg",
+  "https://media.rightmove.co.uk/property-photo/587bd2e81/90766902/587bd2e81f8018c25ae439aa5c8c5598.jpeg",
+  "https://media.rightmove.co.uk/property-photo/94cb197a3/90766902/94cb197a3aa99006ba57daaee94f3064.jpeg",
+  "https://media.rightmove.co.uk/property-photo/09ae45bd2/90766902/09ae45bd22af694da05db37dac9e59d5.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Bradford Forster Square Station",
+   "miles": 0.17255275459526645,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bradford Interchange Station",
+   "miles": 0.35975389788122836,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Frizinghall Station",
+   "miles": 1.7917271463197098,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Whitegates, Bradford",
+ "city": "Bradford",
+ "sourceOutcode": "BD1",
+ "scrapedAt": "2026-08-31T14:48:02.353Z"
+}

@@ -1,0 +1,86 @@
+{
+ "id": "92403060",
+ "mode": "buy",
+ "displayAddress": "Parr Street, Exeter",
+ "outcode": "EX1",
+ "incode": "2BD",
+ "latitude": 50.726939,
+ "longitude": -3.52027,
+ "priceAmount": 240000,
+ "priceLabel": "£240,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92403060",
+ "area": "Exeter",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 68,
+  "sizeSqM": 6,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 26/08/2026"
+ },
+ "sizeSqFt": 68,
+ "sizeSqM": 6,
+ "description": "GUIDE PRICE £240,000-£250,000 / NO ONWARD CHAIN\n\nParr Street is conveniently situated on the fringes of the City Centre, just a stones throw from a superb variety of amenities, as well as Exeter bus station, St James and St David's train station, St Sidwell's Leisure Centre and much more.\n\nThis charming home has been tastefully refurbished throughout, with a gorgeous living room to front, with wood-burner and stylish panelling.\nTo the rear you will find a beautifully designed kitchen with integrated appliances and breakfast bar.\n\nUpstairs hosts a generous principle bedroom with fitted wardrobes and feature fireplace along with further single room with contemporary shower room with large walk-in shower.\n\nOutside, the property enjoys a low maintenance rear garden with large shed. There is also direct access to a rear car park with permits available via the council.\n\nCouncil Tax Band: B\nTenure: Freehold",
+ "keyFeatures": [
+  "Beautifully Refurbished Throughout By Current Owners",
+  "Contemporary Shower Room",
+  "Low Maintenance Courtyard ",
+  "Newly Fitted Kitchen",
+  "No Onward Chain",
+  "Permit Parking Available ",
+  "Two Bedroom Terraced Home ",
+  "Walking Distance to Central and St James Train Station"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/ef92362e8/92403060/ef92362e8443ec17fdc73f485935787f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cdcbcf228/92403060/cdcbcf228b10cc8d13ba63a648d13abd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/52102658e/92403060/52102658e6bb6f9b6cc2eb86354c05fb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bffdd13f1/92403060/bffdd13f183000fd0361f9a595c34e7d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6778efda5/92403060/6778efda52c300d9935b3d505655d19f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ed4eefc77/92403060/ed4eefc7709e8326e534a52ed0182788.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d040211ea/92403060/d040211ea625f2b6022aa66f8e9a5dc9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6dc3e300c/92403060/6dc3e300ce5a2b28344829eb0336cd37.jpeg",
+  "https://media.rightmove.co.uk/property-photo/570c16c1b/92403060/570c16c1bb0702e52a002a46f01ed1f2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2b9d8f689/92403060/2b9d8f689844b0fbcf3c52dd8a33feea.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4a2f0d4a6/92403060/4a2f0d4a6c9e8de08a292a7ef5ba9f1c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a5cf5867d/92403060/a5cf5867d301acb878fa70e2b6e36eac.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "St James Park Station",
+   "miles": 0.26639878487662455,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Exeter Central Station",
+   "miles": 0.5627516177692344,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Polsloe Bridge Station",
+   "miles": 0.8630861088523584,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Butt Estates, Exeter",
+ "city": "Exeter",
+ "sourceOutcode": "EX1",
+ "scrapedAt": "2026-08-31T15:01:43.966Z"
+}

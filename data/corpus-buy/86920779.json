@@ -1,0 +1,87 @@
+{
+ "id": "86920779",
+ "mode": "buy",
+ "displayAddress": "Eustace Building, 372 Queenstown Road, London, SW11",
+ "outcode": "SW11",
+ "incode": "8PL",
+ "latitude": 51.482037,
+ "longitude": -0.14899,
+ "priceAmount": 370000,
+ "priceLabel": "£370,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/86920779",
+ "area": "Eustace Building, London",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": 348,
+  "sizeSqM": 32,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 972,
+  "annualGroundRent": 125,
+  "annualServiceCharge": 3000,
+  "councilTaxBand": "TBC",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 16/03/2026"
+ },
+ "sizeSqFt": 348,
+ "sizeSqM": 32,
+ "description": "Experience prime riverside living with this exceptionally presented studio apartment in the prestigious Eustace Building at Chelsea Bridge Wharf. Benefiting from a sought-after west-facing position, the property boasts a remarkably large private terrace with open views toward Battersea Park. The interior features a bright open-plan layout that flows effortlessly outdoors, an ideal setting for al fresco dining or enjoying golden evening sunsets, complemented by a fully integrated contemporary kitchen, a stylish, full-sized bathroom, and generous built-in storage.\n\nChelsea Bridge Wharf is renowned for its iconic modern architecture and tranquil atmosphere, centered around award-winning, manicured water gardens. Positioned directly on the banks of the River Thames and adjacent to 200 acres of green space at Battersea Park, the development offers a peaceful retreat right in central London. Residents enjoy exceptional five-star amenities, including a dedicated 24-hour concierge service, climate control, and secure underground parking (available by separate arrangement).\n\nThe location seamlessly connects parkside quiet with the energy of the city. Located moments from Sloane Square, King’s Road, and the vibrant Battersea Power Station neighborhood, world-class shopping and dining are right on your doorstep. Excellent transport links, including the Zone 1 Northern Line extension, provide swift access across the West End and the City, making this rare park-facing home an outstanding choice for an owner-occupier, pied-à-terre, or investment.",
+ "keyFeatures": [
+  "Studio",
+  "348sqft",
+  "Balcony with Park Views",
+  "Leasehold - 975 Years",
+  "Access to 24hr Concierge",
+  "Ground Rent - £250pa",
+  "Service Charge - Approx £3,000pa"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/8d3fd4e9e/86920779/8d3fd4e9efec1d1bce2da44f3ab07772.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cb97c6dcd/86920779/cb97c6dcd622ffe0090281ffe95c653b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c164d14f0/86920779/c164d14f07edab41d3cc2b2f1f614216.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b4845db5f/86920779/b4845db5fd9382c5bbd3f30e806e8872.jpeg",
+  "https://media.rightmove.co.uk/property-photo/088aa1e44/86920779/088aa1e4434a922fa1b0e55afa031b56.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee42a8d7c/86920779/ee42a8d7ca5b26b9ef1b9a6e407fe324.jpeg",
+  "https://media.rightmove.co.uk/property-photo/002fb32be/86920779/002fb32be3a6805dcdb3452847a41733.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ced0970a4/86920779/ced0970a4165e3080147ebfdcd1a331d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/73f019d92/86920779/73f019d92784e8d955d2dc2ca235e6fe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f86fe0ea2/86920779/f86fe0ea215b37030d10162bb6bc9702.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3dc0e357c/86920779/3dc0e357c338b62766eb58ca3979b8be.jpeg",
+  "https://media.rightmove.co.uk/property-photo/451910a68/86920779/451910a68506f28c3e657e0c4e55fcf9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c4fa1d99e/86920779/c4fa1d99edf0ae09ff9ce90d9641120b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/96ec636cb/86920779/96ec636cb699a5a83d449ec48c35de56.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Battersea Park Station",
+   "miles": 0.2940667621321167,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Battersea Power Underground Station",
+   "miles": 0.3289160330995632,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Queenstown Road (Battersea) Station",
+   "miles": 0.5075711514781786,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Garton Jones, London",
+ "city": "London",
+ "sourceOutcode": "SW11",
+ "scrapedAt": "2026-08-31T15:03:22.535Z"
+}

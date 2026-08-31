@@ -1,0 +1,83 @@
+{
+ "id": "174746051",
+ "mode": "buy",
+ "displayAddress": "Patna Place, Plymouth",
+ "outcode": "PL1",
+ "incode": "5AY",
+ "latitude": 50.37549,
+ "longitude": -4.14856,
+ "priceAmount": 70000,
+ "priceLabel": "£70,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/174746051",
+ "area": "Plymouth",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Ground Flat",
+ "details": {
+  "propertyType": "Ground Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 26/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "SUMMARY\n**INVESTMENT OPPORTUNITY** An exciting investment opportunity to acquire this one bedroom converted flat, situated in a prime central location. Benefiting from one double bedroom, kitchen, lounge and shower room.\n\nDESCRIPTION\nAn exciting investment opportunity to acquire this one bedroom converted flat, situated in a prime central location. Benefiting from one double bedroom, kitchen, lounge and shower room.\n\nLocated in the heart of the city, close to a host of local amenities such as an array of shops and restaurants, whilst being a stone's through from the city centre, Plymouth University, the historic Barbican and main transport links.\n\nThe accommodation comprises, a spacious lounge, kitchen, a good-sized double bedroom and shower room.\n\nThis property offers an attractive opportunity to add value with a potential strong return.\n\nBOOK YOUR VIEWINGS NOW!\n\nLounge 14' 8\" maximum x 10' 11\" maximum ( 4.47m maximum x 3.33m maximum )\n\nKitchen 15' 10\" maximum x 7' 7\" maximum ( 4.83m maximum x 2.31m maximum )\n\nBedroom 12' 1\" maximum x 9' 5\" maximum ( 3.68m maximum x 2.87m maximum )\n\nShower Room \n\nLease details are currently being compiled.  For further information please contact the branch.  Please note additional fees could be incurred for items such as leasehold packs.\n\n1. MONEY LAUNDERING REGULATIONS - Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale.\r\n2: These particulars do not constitute part or all of an offer or contract.\r\n3: The measurements indicated are supplied for guidance only and as such must be considered incorrect.\r\n4: Potential buyers are advised to recheck the measurements before committing to any expense.\r\n5: Connells has not tested any apparatus, equipment, fixtures, fittings or services and it is the buyers interests to check the working condition of any appliances.\r\n6: Connells has not sought to verify the legal title of the property and the buyers must obtain verification from their solicitor.",
+ "keyFeatures": [
+  "PRIME CENTRAL LOCATION",
+  "CONVERTED FLAT",
+  "ONE DOUBLE BEDROOM",
+  "INVESTMENT OPPORTUNITY",
+  "NO CHAIN ",
+  "CLOSE TO AMENITIES"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f685a3091/174746051/f685a30910540e3399124d2a4ad8f634.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a8424ce57/174746051/a8424ce5713319f22fd89c739985856c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/085f3436e/174746051/085f3436ef10d45724abf118102ed6e7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b0c8f92ee/174746051/b0c8f92ee8c33d8656c9089f08e22ae4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3bdf8cccd/174746051/3bdf8cccd5e3d6e16d1e445726066ad1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ed4516067/174746051/ed45160678392882b839b4981dd981f4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/014e646c2/174746051/014e646c23f825c0be144384094bab28.jpeg",
+  "https://media.rightmove.co.uk/property-photo/86b92cf1c/174746051/86b92cf1c3b8f254c06af5ad84c88b3b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a5fac6282/174746051/a5fac6282d455be7a4a2e4a3886210b9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c45c9ed8c/174746051/c45c9ed8c3d21085b2758a86f918df8d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/adc1d381a/174746051/adc1d381a87af381d6852d7aeeabc2e2.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Plymouth Station",
+   "miles": 0.2893987834173606,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Devonport Station",
+   "miles": 0.9781994682102875,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Dockyard Station",
+   "miles": 1.3110829127223693,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Connells, Plymouth",
+ "city": "Plymouth",
+ "sourceOutcode": "PL1",
+ "scrapedAt": "2026-08-31T14:57:01.122Z"
+}

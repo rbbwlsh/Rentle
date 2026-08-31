@@ -1,0 +1,90 @@
+{
+ "id": "92427813",
+ "mode": "buy",
+ "displayAddress": "Alexandra House, Rutland Street, Leicester, LE1",
+ "outcode": "LE1",
+ "incode": "1SE",
+ "latitude": 52.63575,
+ "longitude": -1.126777,
+ "priceAmount": 145000,
+ "priceLabel": "£145,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92427813",
+ "area": "Alexandra House, Leicester",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 893,
+  "sizeSqM": 83,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "C",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 27/08/2026"
+ },
+ "sizeSqFt": 893,
+ "sizeSqM": 83,
+ "description": "Our latest listing is a 2 bedroom flat located in Leicester. It is in close proximity to valuable amenities, is able to generate rewarding rental returns and has a tenant currently situated.\n\nFor investors looking to expand their portfolio, this is a fantastic opportunity!\n\nThis well-kept home features 2 bedrooms, a spacious lounge, a kitchen, an ensuite, a separate bathroom, and private underground parking.\n\nInvestment details\n\nIt currently produces an annual gross income of £14,400 with tenants currently situated. Considering the purchase price and the potential rental income that could be earned in future years, this will make for a worthwhile addition to an investors property portfolio.\n\nFor greater detail on this property's investment potential, please see the Let Property Pack linked below.\n\nIf you are interested, please call us.\n\nTenancy Details\n\nThere are tenants that currently reside in the property and have consistently paid their rent for the duration of their stay. They do not have any intentions to move out so hope to remain in the property.\n\nWe are committed to facilitating a smooth transaction process between buyer and seller. To allow for maximum commitment to the sale from both parties, a Buyers Premium will apply in order to secure a property.",
+ "keyFeatures": [
+  "Private Underground Parking",
+  "Buy-to-Let Opportunity",
+  "Tenant Currently Situated",
+  "Likely to attract enquiries from Serious Investors &amp; Developers",
+  "INVESTMENT POTENTIAL DETAILED BELOW (Let Property Pack) "
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/636b5398f/92427813/636b5398fb0a3df039fedf573c43795e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3e2b6ddc0/92427813/3e2b6ddc0ab639a6eb195ca4063eb0e3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d994516b8/92427813/d994516b87b0a45cceeeadb43fef181a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/861dd072c/92427813/861dd072c6def69015f34f1380764bab.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e5a7af659/92427813/e5a7af659b21600da02c515a744f34b6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0c883f35d/92427813/0c883f35d22dcfce623f2023eb867d8e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/262bafb6f/92427813/262bafb6f124b6e8febef6f3987d2f0c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c4eaf5b2c/92427813/c4eaf5b2ced2ef997d034c7f69cbb0ef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/042fc4145/92427813/042fc4145e03666f77286447f715274e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4c3fd2aac/92427813/4c3fd2aac739566fd1cd77bb6cd530e8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/76bfdca0e/92427813/76bfdca0e455fc24b025c47b0a7a52b8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dd41595db/92427813/dd41595dba4a957d51ee0f151c580202.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e249516f7/92427813/e249516f7d5bdd954d0e03ab75e1c99b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5357ff81a/92427813/5357ff81ab7cbe8a147e78e0170625af.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1e7aed666/92427813/1e7aed666100208cdc71d55673b7be28.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee1eb3330/92427813/ee1eb33307c4eaee42220febef7f4730.jpeg",
+  "https://media.rightmove.co.uk/property-photo/21e570b07/92427813/21e570b07de5c3f104132d1d54d1e8f9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/754d716f3/92427813/754d716f3f47a065dfbc79761c686cd6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/633d6a10e/92427813/633d6a10e8acbc05d6b8dfc6cae7ad17.jpeg"
+ ],
+ "imageCount": 19,
+ "nearestStations": [
+  {
+   "name": "Leicester Station",
+   "miles": 0.28626562735903344,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "South Wigston Station",
+   "miles": 3.7086929729406837,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Syston Station",
+   "miles": 4.443971658304867,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Let Property Sales & Management, Glasgow",
+ "city": "Leicester",
+ "sourceOutcode": "LE1",
+ "scrapedAt": "2026-08-31T15:00:39.153Z"
+}

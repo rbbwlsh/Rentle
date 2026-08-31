@@ -1,0 +1,95 @@
+{
+ "id": "92340585",
+ "mode": "buy",
+ "displayAddress": "Hermitage Road, Birmingham, West Midlands, B15",
+ "outcode": "B15",
+ "incode": "3US",
+ "latitude": 52.470603,
+ "longitude": -1.950525,
+ "priceAmount": 200000,
+ "priceLabel": "£200,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92340585",
+ "area": "Birmingham, West Midlands",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "C",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 24/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A beautifully presented two-bedroom second-floor apartment with lift access, situated in the highly sought-after B15 location. Recently refurbished to a high standard throughout, the property offers well-appointed accommodation and benefits from off-street parking, a private garage, balcony, bathroom and separate shower room. An excellent opportunity for buyers seeking a stylish and conveniently located apartment in Edgbaston.\n\nLocation\n\nSituated on Hermitage Road in Edgbaston, the property is ideally positioned within the popular B15 area. The location offers easy access to Birmingham city centre, the University of Birmingham, Queen Elizabeth Hospital and a wide range of local shops, restaurants and leisure facilities. Excellent transport links provide convenient access to the surrounding areas, making this an ideal location for both city and commuter living.\n\nCall Oakmans today!\n\nAnti-money Laundering Checks (AML)\nRegulations require us to conduct identity and AML checks and gather information about every buyer's financial circumstances. These checks are essential in fulfilling our Customer Due Diligence obligations, which must be done before any property can be marked as sold subject to contract. The rules are set by law and enforced by trading standards.\n\nWe will start these checks once you have made a provisionally agreeable offer on a property. The cost is £100 (plus VAT). This fee covers the expense of obtaining relevant data and any necessary manual checks and monitoring. It's paid in advance via our onboarding system, Kotini, and is non-refundable.",
+ "keyFeatures": [
+  "Second Floor With Lift Access",
+  "Beautifully Presented Two Bedroom Apartment",
+  "Sought After B15 Location",
+  "Recently Refurbed To A High Standard Throughout",
+  "Off Street Parking",
+  "Garage",
+  "Bathroom &amp; Shower Room",
+  "Balcony"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a0f9d6c4f/92340585/a0f9d6c4f002a39ba457396fec500d18.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6b00ca132/92340585/6b00ca13290b7e5928dd0a1a40210766.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eab9423fc/92340585/eab9423fc2f9c2cc2c29f1f54c3db01c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cb86e85bc/92340585/cb86e85bc3e3a651dba77c88fc80110a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/087b6f958/92340585/087b6f9588cca8a3c8c18cebda92b4bb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/175cf67b0/92340585/175cf67b021f4d2ce46b3ff694a5f7ca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cc92acafe/92340585/cc92acafee5c2ce2ace9731977367605.jpeg",
+  "https://media.rightmove.co.uk/property-photo/110fe3186/92340585/110fe318602506f2a4c3416101b407da.jpeg",
+  "https://media.rightmove.co.uk/property-photo/090513654/92340585/09051365427f3371737d052f8ec323ed.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9ef5f1b3c/92340585/9ef5f1b3c2d7126481244466be9df0d0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/618f78f4b/92340585/618f78f4b4f1794fbe1428fb08eb2428.jpeg",
+  "https://media.rightmove.co.uk/property-photo/734788b7d/92340585/734788b7d2447601494272c7a429d540.jpeg",
+  "https://media.rightmove.co.uk/property-photo/417407100/92340585/4174071009dc9ddf95dde1ce86f61839.jpeg",
+  "https://media.rightmove.co.uk/property-photo/70ebc36a6/92340585/70ebc36a6d6029677e16539bf796f7f4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/15bf5b82f/92340585/15bf5b82f9df3972f2e9684d3cdbccc1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/46428238a/92340585/46428238a4fc148f380407d7909a226d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c0908d979/92340585/c0908d979b345eaa121ef293c4c35401.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8bf11a34e/92340585/8bf11a34e531e34b70040b995ae9b62a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eb334c32d/92340585/eb334c32d508c06509091b07071f9a46.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8c41845c2/92340585/8c41845c2225a5684cf1883aab6f0411.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c4480174f/92340585/c4480174f4b57ce81d595de357f8a1f9.jpeg"
+ ],
+ "imageCount": 21,
+ "nearestStations": [
+  {
+   "name": "University Station",
+   "miles": 1.488262245308233,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Five Ways Station",
+   "miles": 1.581348865817777,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Smethwick Galton Bridge Tram Stop",
+   "miles": 1.7163357237826622,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Oakmans Estate Agents, Harborne",
+ "city": "Birmingham",
+ "sourceOutcode": "B15",
+ "scrapedAt": "2026-08-31T16:56:40.529Z"
+}

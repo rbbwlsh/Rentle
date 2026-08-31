@@ -1,0 +1,92 @@
+{
+ "id": "92509197",
+ "mode": "buy",
+ "displayAddress": "New Road, Oxford, OX1",
+ "outcode": "OX1",
+ "incode": "1AY",
+ "latitude": 51.751113,
+ "longitude": -1.261659,
+ "priceAmount": 695000,
+ "priceLabel": "£695,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92509197",
+ "area": "Oxford",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 993,
+  "sizeSqM": 92,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 103,
+  "annualGroundRent": 200,
+  "annualServiceCharge": 5000,
+  "councilTaxBand": "E",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": 993,
+ "sizeSqM": 92,
+ "description": "Set across the third and fourth floors, this exceptional duplex apartment brings space, light and architectural drama to the very heart of Oxford. A secure communal entrance and lift provide an effortless arrival, before the apartment opens into a generous reception hall with useful storage and a cloakroom.\r\n\r\nThe centrepiece is the impressive 26 ft open-plan kitchen, dining and sitting room. Its soaring double-height ceiling and high-level glazing give the space an uplifting sense of volume, while warm timber flooring creates a natural flow between cooking, dining and relaxing. The contemporary fitted kitchen keeps everything sociable, whether hosting friends before dinner in the Castle Quarter or enjoying a quiet morning coffee. Full-height glazed doors open to two private balconies, extending daily life outdoors and framing lively views across the city.\r\n\r\nUpstairs, the open gallery enhances the apartment’s distinctive design. Two comfortable double bedrooms offer calm, private retreats with fitted storage, complemented by a particularly spacious bathroom arranged with a bath, separate shower and contemporary sanitaryware. With approximately 993 sq ft arranged over two levels, this is a rare city home that combines the proportions of a house with the ease and energy of apartment living—ideal as an Oxford base, stylish full-time home or long-term investment.\n\nOutside\n\nTwo private balconies create valuable outdoor space above the city—perfect for morning coffee, evening drinks and watching Oxford move below. Beyond the apartment, riverside and canal paths lead towards Christ Church Meadow and Port Meadow, offering wide-open space for walking, running and dog walks within easy reach of the historic centre.\n\nSituation\n\nOxford Castle Quarter places restaurants, cafés and bars on the doorstep, with Westgate, colleges, theatres and museums moments away. Oxford station is about a seven-minute walk, with fastest trains to London Paddington from 52 minutes. The city offers renowned schools including Magdalen College School, Oxford High, Headington Rye and The Dragon.  Property Ref Number:  \n\nHAM-64455\n\nAdditional Information\n\nFor broadband availability and mobile service coverage, please check the Ofcom mobile and broadband checker online.\r\n\r\nLeasehold information \r\nCurrent service charge P/A : £5,000\r\nManagement Company : Savills \r\nGround rent P/A : £200\r\nGround rent reviews: First increase from 2030",
+ "keyFeatures": [
+  "Exceptional Two-Bedroom Duplex Apartment",
+  "Approx. 993 Sq Ft Over Two Floors",
+  "Dramatic Double-Height Open-Plan Living Space",
+  "Two Private Balconies With City Views",
+  "Two Double Bedrooms With Fitted Storage",
+  "Spacious Bathroom And Separate Cloakroom",
+  "Secure Entry And Lift Access",
+  "Oxford Castle Quarter Restaurants On The Doorstep",
+  "Westgate And University Colleges Moments Away",
+  "Oxford Station a few minutes."
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/74adf2bfd/92509197/74adf2bfd8685b855b66423e2edcabca.png",
+  "https://media.rightmove.co.uk/property-photo/32dfe8ae7/92509197/32dfe8ae7212f1cce4e7818b0241206f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/219f0707b/92509197/219f0707b0d1f825dc61600a00806ec7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0207410f0/92509197/0207410f0910a9671046abd5ba703ba1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5d4207108/92509197/5d4207108fc26187e3603348e12814cd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/399a0e0e7/92509197/399a0e0e7d6b2b3713d8d7d0f8d9c038.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c6c7538f6/92509197/c6c7538f6b5657834b66617c4d7922aa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c2c755efb/92509197/c2c755efbaa707b1d597ca1863f61919.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2c7a6f017/92509197/2c7a6f01774fb071f59068b2d5b1024a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3e45795af/92509197/3e45795afef1d39efbbf07edb7182818.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b36249618/92509197/b36249618680d1cb5cae8791ff26781b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/201428206/92509197/2014282061a056616e83638b3701e45c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d95f07c1a/92509197/d95f07c1afdbad7926b9162fd62e3e87.jpeg",
+  "https://media.rightmove.co.uk/property-photo/10df24d30/92509197/10df24d304db5ffcb94a444abd57fe20.png",
+  "https://media.rightmove.co.uk/property-photo/b43bc74d5/92509197/b43bc74d5bd9d578fedbc574923f2ef9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/02fc91569/92509197/02fc91569227c49c5be292059360c8ba.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Oxford Station",
+   "miles": 0.4071250669920062,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Oxford Parkway Station",
+   "miles": 3.7073616965998992,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Radley Station",
+   "miles": 4.6001667972135225,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Hamptons, Oxford",
+ "city": "Oxford",
+ "sourceOutcode": "OX1",
+ "scrapedAt": "2026-08-31T15:02:36.272Z"
+}

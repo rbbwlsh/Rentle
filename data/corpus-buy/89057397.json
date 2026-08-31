@@ -1,0 +1,86 @@
+{
+ "id": "89057397",
+ "mode": "buy",
+ "displayAddress": "Battersea Church Road, \nBattersea Park, SW11",
+ "outcode": "SW11",
+ "incode": "3NA",
+ "latitude": 51.478899,
+ "longitude": -0.171227,
+ "priceAmount": 575000,
+ "priceLabel": "£575,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89057397",
+ "area": "Battersea Park",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 726,
+  "sizeSqM": 67,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 172,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 2151.17,
+  "councilTaxBand": "F",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 29/08/2026"
+ },
+ "sizeSqFt": 726,
+ "sizeSqM": 67,
+ "description": "A bright and spacious two-bedroom, one-bathroom first-floor apartment with a private wraparound balcony and secure underground parking.\n\nBeautifully presented throughout, this impressive flat offers over 720 ft2 of well-designed living space. The generous reception room features sliding doors opening onto a private south-east-facing wraparound balcony, creating an abundance of natural light and an excellent indoor-outdoor feel.\n\nThe separate kitchen is thoughtfully laid out with ample worktop space and extensive storage. There are two well-proportioned bedrooms, including a particularly spacious principal double bedroom. The second bedroom offers excellent versatility and could equally function as a guest room, home office, or nursery.\n\nThe apartment is served by a stylish family bathroom complete with both a separate walk-in shower and bathtub. Further benefits include hardwood flooring throughout and a secure parking space within the development’s underground car park.\n\nBuilt in 1986, the property forms part of the highly regarded Morgan’s Walk development, ideally positioned between Battersea Bridge and the iconic Richard Rogers-designed Montevetro building. Battersea Park, with its 200 acres of green open space and superb leisure facilities, is less than 500 metres away, while the vibrant King’s Road in Chelsea is just a short walk across the bridge.\n\nThe area also offers excellent access to riverside walks, local shops, cafés, and restaurants. Transport links are superb, with convenient bus routes, nearby Underground stations, and mainline rail services from Clapham Junction and Victoria providing fast connections across London.\n\nSelling your property in Battersea Church Road? Trying to find your perfect home to buy? Register with Chestertons Battersea Park to get the full picture from the experts in the Battersea Park market. \n\nOur China Desk is here for you, if Chinese is your preferred language, please get in touch via WeChat (S-ChestertonsAPAC)",
+ "keyFeatures": [
+  "Two bedrooms",
+  "Wrap around balcony",
+  "Moments from the river Thames and Battersea Park",
+  "Chain free",
+  "Parking space"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/7953a9d9b/89057397/7953a9d9b5224e5aa2bfee19d845017d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/04c2ccf6e/89057397/04c2ccf6e11cdb8f38f758e4e3e2c6df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/58cd98db9/89057397/58cd98db93a0304d9bf894b7723d546b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ac928f569/89057397/ac928f5699e6dfe18ff7a0adcd485b4a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a73ec47a8/89057397/a73ec47a8e31194030bcbf89ffddac27.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9b1a836fe/89057397/9b1a836fef079cc070de3e34fe9f9ce9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a010c8135/89057397/a010c8135088fa5099b18b37732d57ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bf03794e0/89057397/bf03794e0145ac3d520d9bb6b938a813.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fd77022e9/89057397/fd77022e936169a277053aeeadc22982.jpeg",
+  "https://media.rightmove.co.uk/property-photo/61ca0d564/89057397/61ca0d564df282093ea16425f76fb938.jpeg",
+  "https://media.rightmove.co.uk/property-photo/228196a05/89057397/228196a0507d22d655f8413effcacaa5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/986240d06/89057397/986240d06763aec2cb5e1bd847d49ccf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/22fc84eaa/89057397/22fc84eaa951c2799820852048f050b5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2b1335cd3/89057397/2b1335cd3acd244a92a342204bf8bc8b.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Imperial Wharf Station",
+   "miles": 0.5742182000652237,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Fulham Broadway Station",
+   "miles": 1.0318899532569945,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Clapham Junction Station",
+   "miles": 1.065735064268814,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_OVERGROUND"
+   ]
+  }
+ ],
+ "agent": "Chestertons, Battersea Park",
+ "city": "London",
+ "sourceOutcode": "SW11",
+ "scrapedAt": "2026-08-31T16:59:12.096Z"
+}

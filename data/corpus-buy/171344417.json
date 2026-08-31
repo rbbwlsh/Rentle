@@ -1,0 +1,74 @@
+{
+ "id": "171344417",
+ "mode": "buy",
+ "displayAddress": "Bela Grove, Blackpool",
+ "outcode": "FY1",
+ "incode": "5PR",
+ "latitude": 53.807567,
+ "longitude": -3.039564,
+ "priceAmount": 110000,
+ "priceLabel": "£110,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/171344417",
+ "area": "Blackpool",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Not Specified",
+ "details": {
+  "propertyType": "Not Specified",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 13/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "**MID TERRACED HOUSE ARRANGED AS TWO TENANTED FLATS, IN A GREAT AREA WITH NO ONWARD CHAIN** Tenanted Mid Terraced House arranged as Two Flats; Ground Floor Flat comprising; Lounge, Kitchen, Bedroom, Bathroom, Enclosed Rear Garden. First Floor Flat comprises Landing, Lounge, Kitchen, Bedroom, Bathroom, No Onward Chain Involved, Both Flats are Tenanted with an 11% ROI & are Council Tax Band A\n\nEntrance Hallway - Communal Entrance for both flats\n\nFlat 1 - \n\nBedroom 1 - 3.48m x 4.75m (11'5 x 15'7) - Double glazed walk in bay window to front, radiator\n\nLounge - 3.71m x 4.06m (12'2 x 13'4) - Double glazed window to rear, radiator\n\nKitchen - 3.05m x 4.45m (10'0 x 14'7) - Fitted base & wall units with round edge worktops, stainless steel sink with mixer taps, electric oven, gas hob with extractor hood over, plumbing for washing machine, vent for dryer, double glazed window to rear, concealed wall mounted gas combination boiler, double glazed door to side\n\nShower Room - 0.84m x 3.02m (2'9 x 9'11) - Fitted with a 3 piece suite comprising low level wc, shower enclosure, pedestal wash hand basin\n\nOutside - Enclosed rear garden, paved patio, gated access to rear\n\nFlat 2 - \n\nLanding - Stairs to First Floor Landing, velux to rear\n\nLounge - 4.67m x 3.71m (15'4 x 12'2) - Teo double glazed windows to front, radiator, electric fire\n\nKitchen - 2.54m x 3.05m (8'4 x 10'0) - Fitted base & wall units with round edge worktops, stainless steel sink with mixer taps & tiled splashbacks, gas cooker, plumbing for washing machine, double glazed window to rear, concealed wall mounted gas combination boiler\n\nBedroom - 2.97m x 4.06m (9'9 x 13'4) - Double glazed window to rear, radiator\n\nBathroom - 2.06m x 1.78m (6'9 x 5'10) - Fitted with a 3 piece suite comprising low level wc, panelled bath with glass screen & shower over, pedestal wash hand basin, double glazed window to rear",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1b28cc7a2/171344417/1b28cc7a2586d15d2c54639df53a9ba7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d9acdc052/171344417/d9acdc052e894dce79f62be9c2d4c26e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/16aa25747/171344417/16aa2574761ded3cfe3ff70e0bf901ae.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9dddb13ce/171344417/9dddb13ce343e7d6a763f1f866fd6fac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/35689ee43/171344417/35689ee43400ae9cfc76c6f152519ca5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/19e8383a9/171344417/19e8383a940193facb862e332d46bb04.jpeg",
+  "https://media.rightmove.co.uk/property-photo/68c236dd4/171344417/68c236dd40db5804f2961377f043f248.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4a315454b/171344417/4a315454bd34e04e35349a7145ea505d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c45b7eeac/171344417/c45b7eeace840a4f66efee85b786477d.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Blackpool South Station",
+   "miles": 0.7493467710885884,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Blackpool North Station",
+   "miles": 1.056865051018006,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Blackpool Pleasure Beach Station",
+   "miles": 1.486890266041223,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Hunters, Blackpool",
+ "city": "Blackpool",
+ "sourceOutcode": "FY1",
+ "scrapedAt": "2026-08-31T14:59:54.500Z"
+}

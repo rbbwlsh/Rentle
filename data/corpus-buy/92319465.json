@@ -1,0 +1,91 @@
+{
+ "id": "92319465",
+ "mode": "buy",
+ "displayAddress": "Amhurst Road, Hackney",
+ "outcode": "E8",
+ "incode": "1JH",
+ "latitude": 51.549022,
+ "longitude": -0.058606,
+ "priceAmount": 210000,
+ "priceLabel": "£210,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92319465",
+ "area": "Hackney",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "SHARE_OF_FREEHOLD",
+  "yearsRemainingOnLease": 900,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 0,
+  "councilTaxBand": null,
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Added on 24/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Occupying the top floor of an attractive three-storey Victorian semi-detached house, this beautifully positioned studio apartment offers a fantastic opportunity to acquire a charming London home in one of Hackney’s most sought-after locations. Bright, well-presented and full of character, the apartment is ideally suited to first-time buyers, investors or those seeking a convenient London base. Situated on the highly desirable Amhurst Road, the property places an exceptional range of independent boutiques, cafés, restaurants and everyday amenities right on the doorstep. Offered CHAIN FREE.\n\nOccupying the top floor of an attractive three-storey Victorian semi-detached house, this beautifully positioned studio apartment offers a fantastic opportunity to acquire a charming London home in one of Hackney’s most sought-after locations.\n\nBright, well-presented and full of character, the apartment is ideally suited to first-time buyers, investors or those seeking a convenient London base. Situated on the highly desirable Amhurst Road, the property places an exceptional range of independent boutiques, cafés, restaurants and everyday amenities right on the doorstep.\n\nFor those who enjoy the outdoors, both London Fields and Hackney Downs are within easy reach, offering expansive green spaces and the perfect escape from the pace of city life.\n\nCommuters are particularly well catered for, with Hackney Downs and Hackney Central stations just a short walk away. Excellent transport connections provide swift access across London, including Liverpool Street and Highbury & Islington, while the nearby Victoria Line further enhances connectivity to the capital’s key destinations.\n\nCombining a prime Hackney location, excellent transport links and strong appeal for both owner-occupiers and investors, this is an exciting opportunity to secure a well-located London property with outstanding lifestyle and investment potential.\n\nOffered to the market with NO ONWARD CHAIN.",
+ "keyFeatures": [
+  "Desirable Amhurst Road in the heart of vibrant Hackney",
+  "Charming Victorian Conversion Studio",
+  "Set within an attractive three-storey Victorian semi-detached house",
+  "Ideal First-Time Buy",
+  "Close to Hackney Downs &amp; Hackney Central Stations",
+  "Easy Access to Central London –",
+  "Convenient connections to Liverpool Street, Highbury &amp; Islington",
+  "No Chain"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/44a690c82/92319465/44a690c82028b526565f9c839a22f67a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0cef5a123/92319465/0cef5a1230cb3ca09e9e00c8da4f2893.jpeg",
+  "https://media.rightmove.co.uk/property-photo/30eb46c6d/92319465/30eb46c6d91b067ea1b198c4cebafa44.jpeg",
+  "https://media.rightmove.co.uk/property-photo/81c51aa64/92319465/81c51aa649c78151c2e69ee7794af950.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9c9e8bc8e/92319465/9c9e8bc8ed49391f5b4b77169b2aa312.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2e9560dd3/92319465/2e9560dd3582d124157dfb219a80c607.jpeg",
+  "https://media.rightmove.co.uk/property-photo/db59befc6/92319465/db59befc6b861c45fbe650a05da3b043.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9b1481c21/92319465/9b1481c219bb6bdbf4ce9db252f99ab5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee5236384/92319465/ee5236384f79b82d1627ec91f5188fea.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3bd1fa2d5/92319465/3bd1fa2d5e18bd4ffbfa156948f71ea7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8e3ae7ad9/92319465/8e3ae7ad93209cf16f56ae008da0aa93.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f572f3fc5/92319465/f572f3fc5ba6072711133e3eea811ac8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f84104986/92319465/f841049864523c2e2b0f05f52505aba0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/289711f52/92319465/289711f5271c952dc6453b3e9f8c04c0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/682aa20f6/92319465/682aa20f6e380e0b2fd89c4b0a55fd92.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e70f21b9d/92319465/e70f21b9d095d6cb5489c81fcdf48de5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b42867b8e/92319465/b42867b8eb7db4b25ae1638ffa218bcd.jpeg"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "Hackney Downs Station",
+   "miles": 0.0845921295417526,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Hackney Central Station",
+   "miles": 0.18314643830087768,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "London Fields Station",
+   "miles": 0.5827598573983732,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Wild & Co., Hackney",
+ "city": "London",
+ "sourceOutcode": "E8",
+ "scrapedAt": "2026-08-31T14:46:02.542Z"
+}

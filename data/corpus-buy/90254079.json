@@ -1,0 +1,90 @@
+{
+ "id": "90254079",
+ "mode": "buy",
+ "displayAddress": "Cambrian Place, Swansea, SA1",
+ "outcode": "SA1",
+ "incode": "1RQ",
+ "latitude": 51.618066,
+ "longitude": -3.935917,
+ "priceAmount": 118000,
+ "priceLabel": "£118,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90254079",
+ "area": "Swansea",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 29/07/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A bright and airy one bedroom ground floor apartment with a parking space located in a Grade II Listed building just a short distance from Swansea City Centre and the Marina. The property has been upgraded and refurbished whilst retaining some character features and benefits from a new kitchen and bathroom, gas central heating and an intercom entry system.\n\nInternally the property comprises a spacious entrance hall with ample built-in storage, a bright lounge/diner with two sash windows and carpeted flooring, a well-appointed refitted kitchen with appliances included, a spacious double sized bedroom with great space for furniture, and a modern refitted bathroom suite with a vanity unit and a fully reconditioned Jacuzzi whirlpool spa bath with a shower above.\n\nExternally the property is set within a quiet courtyard with one allocated parking space.\n\nThe property is located in a convenient position close to Swansea City Centre which is home to a range of local shops, amenities, good schools and both road and public transport links.\n\nEarly viewing is highly recommended due to the property being realistically priced.\n\nADDITIONAL INFORMATION:\n\nCouncil Tax Band: C\n\nLocal Authority: Swansea\n\nLease Term: 99 Years from 26 November 1997\n\n*This information is to be confirmed by the solicitor*\n\nDisclaimer:\n\nThese particulars, whilst believed to be accurate are set out as a general guideline and do not constitute any part of an offer or contract. Intending Purchasers should not rely on them as statements of representation of fact, but must satisfy themselves by inspection or otherwise as to their accuracy. Please note that we have not tested any apparatus, equipment, fixtures, fittings or services including gas central heating and so cannot verify they are in working order or fit for their purpose. Furthermore, Solicitors should confirm moveable items described in the sales particulars and, in fact, included in the sale since circumstances do change during the marketing or negotiations. Although we try to ensure accuracy, if measurements are used in this listing, they may be approximate. Therefore if intending Purchasers need accurate measurements to order carpeting or to ensure existing furniture will fit, they should take such measurements themselves. Photographs are reproduced general information and it must not be inferred that any item is included for sale with the property.\n\nTENURE\n\nTo be confirmed by the Vendor’s Solicitors\n\nPOSSESSION\n\nVacant possession upon completion\n\nVIEWING\n\nViewing strictly by appointment through The Express Estate Agency",
+ "keyFeatures": [
+  "Well-Presented Ground Floor Apartment",
+  "Set Within a Grade II Listed Building",
+  "Modernised with Retained Character Features",
+  "Spacious Double Bedroom",
+  "Bright &amp; Spacious Lounge/Diner",
+  "Well-Appointed Newly Fitted Kitchen",
+  "Modern Bathroom with Fully Reconditioned Whirlpool Spa Bath",
+  "Allocated Parking Space",
+  "Short Distance from Swansea City Centre &amp; The Marina",
+  "Guide Price £118,000 - £125,000"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1f6fe697c/90254079/1f6fe697c2965b8228ba9c85f5a37fd6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4daec584d/90254079/4daec584daee0af2de194c903c737fe2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a5860209f/90254079/a5860209f42c1bb718a6a57efec144d1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cc0df3b62/90254079/cc0df3b621da5de0f7ed46a57c19026e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3da6ade17/90254079/3da6ade1743d03033298d28fc521f51e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8e8360f77/90254079/8e8360f77d2caf70ac032217ad801a87.jpeg",
+  "https://media.rightmove.co.uk/property-photo/80fafdada/90254079/80fafdada11645be0b3049fec40284ef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bc4b40981/90254079/bc4b4098115835f1cfe8bc0ba4b5e415.jpeg",
+  "https://media.rightmove.co.uk/property-photo/07e9a3727/90254079/07e9a3727fa72ca86a41be3e8f180bdd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/884438f87/90254079/884438f87e64fb243c17d98050bfb5e5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bff36acd7/90254079/bff36acd7d724c21e10661e393b1aa22.jpeg",
+  "https://media.rightmove.co.uk/property-photo/17a815fe6/90254079/17a815fe63d16163cbd2479a5bf79fde.jpeg",
+  "https://media.rightmove.co.uk/property-photo/005a4891e/90254079/005a4891e8b06290ce276b623af80008.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ff367c891/90254079/ff367c89160ebeb7940b1cabf1dda800.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Swansea Station",
+   "miles": 0.5416561683568824,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Llansamlet Station",
+   "miles": 3.7167886533240613,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Gowerton Station",
+   "miles": 4.772562209533318,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Express Estate Agency, Nationwide",
+ "city": "Swansea",
+ "sourceOutcode": "SA1",
+ "scrapedAt": "2026-08-31T14:58:11.083Z"
+}

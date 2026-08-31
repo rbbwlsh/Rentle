@@ -1,0 +1,83 @@
+{
+ "id": "92539161",
+ "mode": "buy",
+ "displayAddress": "St. Marys Road, Bournemouth",
+ "outcode": "BH1",
+ "incode": "4QP",
+ "latitude": 50.73264,
+ "longitude": -1.84831,
+ "priceAmount": 160000,
+ "priceLabel": "£160,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92539161",
+ "area": "Bournemouth",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Ground Flat",
+ "details": {
+  "propertyType": "Ground Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 146,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 2935,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 29/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "SUMMARY\nConnells are pleased to bring to market this refurbished one bedroom ground floor apartment, offering modern accommodation, allocated parking, and excellent access to Bournemouth Town Centre, transport links, local amenities and Kings Park recreational ground. No forward chain.\n\nDESCRIPTION\nConnells are pleased to bring to market this beautifully refurbished one bedroom ground floor apartment, conveniently located close to Bournemouth Town Centre, Boscombe and Springbourne.\n\nThe property features a bright and spacious lounge/diner, a modern fitted kitchen with ample storage and workspace, a generous double bedroom, and a stylish contemporary bathroom with a three piece suite and shower over bath.\n\n Further benefits include allocated off road parking, \n\nSpringbourne is a popular and convenient Bournemouth suburb, offering an excellent range of local amenities within easy reach. The property is ideally situated close to the local high street, with a variety of shops, cafés, supermarkets and regular bus services, while Bournemouth town centre and the award-winning coastline are both easily accessible.\n\nKings Park is located approximately half a mile away and provides extensive recreational facilities, including open green spaces, an athletics track, cricket ground and leisure amenities. Boscombe Beach is within a mile, offering miles of sandy shoreline and a vibrant seafront with cafés, restaurants and watersports activities.\n\nThe area is also well connected, with Bournemouth Railway Station nearby providing direct services to Southampton, Winchester and London Waterloo, making Springbourne an attractive location for first-time buyers, professionals, investors and those seeking a coastal lifestyle.\n\nApproach \nA driveway leads to a private side access door, opening into the;\n\nHallway \nLarge storage cupboard with plumbing for a washing machine.\n\nSitting Room \nSide aspect UPVC double glazed window, electrical sockets, carpeted flooring, radiator.\n\nKitchen \nSide aspect UPVC double glazed window. Fitted with a range of matching wall and base units with laminate worktops over. Stainless steel sink and drainer unit. Integrated electric oven, electric hob with extractor unit over. Space and plumbing for washing machine. Space for fridge. Radiator. Cupboard housing the gas combination boiler.\n\nBedroom \nSide aspect UPVC double glazed window. Radiator.\n\nBathroom \nSide aspect double glazed window. Modern suite comprising a panelled bath with shower over, wash hand basin, WC , chrome heated towel rail. Extractor fan. Fully tiled walls,\n\nOutside \nAllocated off road parking for multiple cars.\n\nAgent Notes: \nLease: 189 years from 25th March 1983\n\nService Charge: £2,489 per annum \n\nGround Rent: Peppercorn\n\nCouncil Tax - Band A - BCP Council\n\nPlease note that an AML fee is chargeable to the buyer once an offer is accepted to cover the cost of carrying out the required identity and anti-money laundering checks. Once these checks have been completed, the fee cannot be refunded, even if the property purchase does not go ahead.\n\nWe currently hold lease details as displayed above, should you require further information please contact the branch.  Please note additional fees could be incurred for items such as leasehold packs.\n\n1. MONEY LAUNDERING REGULATIONS - Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale.\r\n2: These particulars do not constitute part or all of an offer or contract.\r\n3: The measurements indicated are supplied for guidance only and as such must be considered incorrect.\r\n4: Potential buyers are advised to recheck the measurements before committing to any expense.\r\n5: Connells has not tested any apparatus, equipment, fixtures, fittings or services and it is the buyers interests to check the working condition of any appliances.\r\n6: Connells has not sought to verify the legal title of the property and the buyers must obtain verification from their solicitor.",
+ "keyFeatures": [
+  "Ground Floor Flat - Own Private Entrance",
+  "Newly Refurbished",
+  "One Double Bedroom",
+  "Long Lease",
+  "Ideal for First Time Buyers/Investors",
+  "Off Road Parking",
+  "Offered with Vacant Possession &amp; No Forward Chain",
+  "Half a Mile from Kings Park"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c1f548387/92539161/c1f548387cd4018fb517eb78ecaab8f3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/287700e2e/92539161/287700e2efb36bb7e0cf0481d0b4bd24.jpeg",
+  "https://media.rightmove.co.uk/property-photo/945021bbe/92539161/945021bbeee48c02e9389d6acd4cf2f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/018695c08/92539161/018695c089f37dce4a30ff8370b6f188.jpeg",
+  "https://media.rightmove.co.uk/property-photo/23b775e47/92539161/23b775e4750a5a8b916ba98929e636f1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/28ff7fa94/92539161/28ff7fa94019cd5c555c39f1e07ed0c5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0e6199e44/92539161/0e6199e442eea3d553ccdb26843cb57c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/23b775e47/92539161/23b775e4750a5a8b916ba98929e636f1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f28f4e18/92539161/5f28f4e18cde04f8da4d6e0c1745ad12.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Bournemouth Station",
+   "miles": 0.763030947523629,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Pokesdown Station",
+   "miles": 1.0186226088032488,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Christchurch Station",
+   "miles": 2.797064204148217,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Connells, Southbourne",
+ "city": "Bournemouth",
+ "sourceOutcode": "BH1",
+ "scrapedAt": "2026-08-31T14:57:12.444Z"
+}

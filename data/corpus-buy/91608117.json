@@ -1,0 +1,84 @@
+{
+ "id": "91608117",
+ "mode": "buy",
+ "displayAddress": "Park Street, Nottingham, NG7",
+ "outcode": "NG7",
+ "incode": "1RR",
+ "latitude": 52.949742,
+ "longitude": -1.17136,
+ "priceAmount": 165000,
+ "priceLabel": "£165,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91608117",
+ "area": "Nottingham",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "End of Terrace",
+ "details": {
+  "propertyType": "End of Terrace",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Situated in the popular NG7 area, this well-presented two-bedroom end-terrace property offers an excellent opportunity for first-time buyers, investors, or those looking to downsize.\n\nThe accommodation begins with a welcoming entrance hallway, with a fitted kitchen to the left featuring white units, providing ample storage and workspace. Leading through the kitchen is the bright and comfortable living room, which enjoys direct access to the enclosed rear garden, creating an ideal space for relaxing or entertaining.\n\nTo the first floor, the property offers a spacious double bedroom, a well-proportioned single bedroom, and a family bathroom fitted with a white suite and a shower over the bath.\n\nExternally, the property benefits from an enclosed rear garden, together with the added convenience of a driveway providing off-road parking and a garage, offering additional storage or secure parking.\n\nConveniently located close to local amenities, transport links, and Nottingham City Centre, this attractive home combines practical living with a sought-after location. Early viewing is highly recommended.\n\nEPC Rating: C",
+ "keyFeatures": [
+  "Two Bedroom End Terrace",
+  "Driveway",
+  "Garage offering additional storage or parking",
+  "Ideal for first-time buyer or investors",
+  "Convenient location close to local amenities and transport links"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/de975125b/91608117/de975125b0d6825d896b4200ab49fddc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4bedd19a6/91608117/4bedd19a675d9bc7a5c37d5331ff6ccc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/361ce4936/91608117/361ce4936996c7fde63b3c0d222e98c2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/65712af8c/91608117/65712af8c520722024deff775578fa83.jpeg",
+  "https://media.rightmove.co.uk/property-photo/519736ebe/91608117/519736ebe645b427a1d22acd88f9a026.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cd1c11429/91608117/cd1c114297949edea2a779dc7efd69d4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c4e2eff3e/91608117/c4e2eff3ea5c6d42bd582432d325377a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9cda5987d/91608117/9cda5987d07c3d15c3cd8c8566d9906e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b576242ab/91608117/b576242ab235ee2a2c223c6c86beb27b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1a94052fd/91608117/1a94052fd30fe33e7cbdd7bc8911a168.jpeg",
+  "https://media.rightmove.co.uk/property-photo/93e890e36/91608117/93e890e36de81d3d8b85adec19c3be6c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0e3213c7a/91608117/0e3213c7a82e1d0b20816a781be13f45.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2f8860245/91608117/2f886024539a758ffff4624b2e1b79c2.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Nottingham Trent University Tram Stop",
+   "miles": 0.8843581538526503,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Royal Centre Tram Stop",
+   "miles": 0.8845038542120288,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Old Market Square Tram Stop",
+   "miles": 0.9131633343976109,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Fairview Estates, Nottingham",
+ "city": "Nottingham",
+ "sourceOutcode": "NG7",
+ "scrapedAt": "2026-08-31T16:56:45.549Z"
+}

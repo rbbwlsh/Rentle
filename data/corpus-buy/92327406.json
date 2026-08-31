@@ -1,0 +1,83 @@
+{
+ "id": "92327406",
+ "mode": "buy",
+ "displayAddress": "Manor Chare, Quayside, Newcastle upon Tyne",
+ "outcode": "NE1",
+ "incode": "2EQ",
+ "latitude": 54.970791,
+ "longitude": -1.606465,
+ "priceAmount": 169950,
+ "priceLabel": "£169,950",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92327406",
+ "area": "Quayside, Newcastle upon Tyne",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 103,
+  "annualGroundRent": 250,
+  "annualServiceCharge": 3051.04,
+  "councilTaxBand": "D",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 24/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A well presented two bedroom corner apartment, located on the 2nd floor of the popular Manor Chare, with two balconies with lovely views over the surrounding greenery. The apartment, a successful let for many years and ideal for investors and first time buyers, benefits from secure allocated underground car parking space, a private balcony with views, and double glazing - offered with no upward chain.\r\n\r\nManor Chare is ideally located on the Quayside for access to all the bars, restaurants and cafes that are close by, as well as offering good accessibility into Newcastle City Centre with its shops and excellent transport links throughout the region.\r\n\r\nThe accommodation comprises: Communal entrance hallway with lift and stair access to all floors | Private entrance on the 2nd floor | Entrance hallway | Open plan kitchen/diner with lovely dual aspect views and a balcony with lovely views. The kitchen is well equipped with fairly modern cabinetry and worktops, as well as integrated appliances | Bedroom one with ensuite shower room WC and further external balcony | Bedroom two | Family bathroom with three piece suite | Underground car parking space.\r\n\r\nRental income is £1200 pcm, which is £14,400 PA equivalent to 8.5% gross yield, subject to service charges at £3051 PA and £250 ground rent PA.\r\n \r\nServices: Mains electric, water and drainage | Tenure: Leasehold | Lease Remaining: 103 Years | Service Charge: £3051.04 per annum | Ground Rent: £250 per annum | Council Tax: Band D | Energy Performance Certificate: Rating C",
+ "keyFeatures": [
+  "Two Bedroom Second Floor Corner Apartment",
+  "Two Balconies with Lovely Views",
+  "Ideal For First Time Investors or Investors",
+  "Currently A Successful Rental"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a6a155be1/92327406/a6a155be1128d2f9c899eee730440ea3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/49d955dc4/92327406/49d955dc4f91f143a2a6f749d3e38683.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e8e60d8f3/92327406/e8e60d8f3fa204204107f6ea2b73a3b6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9ae9a201c/92327406/9ae9a201c1b9a5ee387929c4986be376.jpeg",
+  "https://media.rightmove.co.uk/property-photo/118223203/92327406/11822320385ce89d6138584e112a3b31.jpeg",
+  "https://media.rightmove.co.uk/property-photo/19f72350a/92327406/19f72350ae0926779a51aa53eacaeb0f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/75ae968c1/92327406/75ae968c10db312ba1511586abfecd94.jpeg",
+  "https://media.rightmove.co.uk/property-photo/39d7648fa/92327406/39d7648fa86e296fd9b0f0e97eb9bd18.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4911d99c5/92327406/4911d99c5b34b66fc69f63aa017cbfbe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fbbf7f422/92327406/fbbf7f422ca6a7ef0f571ad451ce1d4d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/108f01fad/92327406/108f01fad7f227747d0596388b917aac.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Manors Station",
+   "miles": 0.22604566680645388,
+   "types": [
+    "NATIONAL_TRAIN",
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Newcastle Central Station",
+   "miles": 0.4508424981445026,
+   "types": [
+    "NATIONAL_TRAIN",
+    "TRAM"
+   ]
+  },
+  {
+   "name": "St James Station",
+   "miles": 0.6284877195203643,
+   "types": [
+    "LIGHT_RAILWAY"
+   ]
+  }
+ ],
+ "agent": "Sanderson Young, Gosforth",
+ "city": "Newcastle",
+ "sourceOutcode": "NE1",
+ "scrapedAt": "2026-08-31T14:58:42.697Z"
+}

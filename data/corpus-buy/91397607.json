@@ -1,0 +1,88 @@
+{
+ "id": "91397607",
+ "mode": "buy",
+ "displayAddress": "Westbury Grange, Lansdowne Road, Bournemouth, Bournemouth Christchurch Poole",
+ "outcode": "BH1",
+ "incode": "1RT",
+ "latitude": 50.730092,
+ "longitude": -1.871783,
+ "priceAmount": 229950,
+ "priceLabel": "£229,950",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91397607",
+ "area": "Bournemouth, Bournemouth Christchurch Poole",
+ "bedrooms": 0,
+ "bathrooms": null,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 0,
+  "bathrooms": null,
+  "sizeSqFt": 791,
+  "sizeSqM": 73,
+  "tenureType": "SHARE_OF_FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "D",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 05/08/2026"
+ },
+ "sizeSqFt": 791,
+ "sizeSqM": 73,
+ "description": "Avenue Estates are pleased to offer for sale this spacious two double bedroom first floor apartment situated within the sought-after Westbury Grange development. Offered with a share of freehold, no onward chain, this well-proportioned home presents an excellent opportunity for first-time buyers, downsizers or buy-to-let investors looking for a property in a desirable and convenient location.\n\nThe apartment offers generous accommodation throughout, beginning with a welcoming entrance hall providing access to all principal rooms. The impressive living/dining room is a real highlight, measuring over 21 feet in length and offering plenty of space for both lounge and dining furniture. Single Doors lead directly onto a private balcony, providing the perfect spot to enjoy a morning coffee or unwind at the end of the day.\n\nThe separate kitchen is well laid out with an excellent range of fitted wall and base units, ample worktop space and room for a breakfast table, making it ideal for everyday living.\n\nThere are two well-proportioned double bedrooms, with the principal bedroom benefiting from the convenience of an en-suite WC. A spacious family bathroom serves the remainder of the apartment and completes the internal accommodation.\n\nExternally, the property benefits from One Allocated off-road parking space, well-maintained communal grounds and a private balcony, adding to the appeal of this fantastic apartment.\n\nWestbury Grange is a popular residential development known for its attractive surroundings and convenient location. Residents benefit from easy access to local shops, amenities and excellent transport links, while nearby parks and open spaces provide pleasant areas for walking and recreation.\n\nThe property is offered with a share of freehold, with a service charge of approximately £2,110 per annum, and is available with no onward chain, making it an ideal purchase for buyers seeking a straightforward move.\n\nContact Avenue Estates today to arrange your viewing.",
+ "keyFeatures": [
+  "Spacious Two Bedroom Apartment",
+  "Double Glazed With Gas Central Heating",
+  "No Onward Chain",
+  "Share Of Freehold",
+  "Maintenance Charge Of £2110 Per Annum",
+  "No Ground Rent",
+  "Double Glazed With Gas Central Heating",
+  "Off-Road Parking and Secure Gated Entrance",
+  "Contact Us Today To Arrange A Viewing"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/4c7769c91/91397607/4c7769c91ce7632dcdf1d52fb59a4441.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a1efb1a45/91397607/a1efb1a45f01910390f55abccaaa70e0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d82394454/91397607/d823944541f27fbe5d9b6c41011906dc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c89986f51/91397607/c89986f5147b98ab3146653a0cd4e4bc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/042dfa13f/91397607/042dfa13f224e2e102cc95535961d524.jpeg",
+  "https://media.rightmove.co.uk/property-photo/90c2dd8df/91397607/90c2dd8df9c4a8f211315e7efb55ab52.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b02c86fb0/91397607/b02c86fb040ba95b1dda6b3ad5b1f16b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d838614d/91397607/6d838614d41a697c08d48a3830180b4b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee01cc312/91397607/ee01cc312bcb8f27053a9d0a2396dd4b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a5b80cb71/91397607/a5b80cb71d9fb58f80f357b78e313ad6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/72cf6f815/91397607/72cf6f81599513fff8a1586e57d6e166.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c274a9ac2/91397607/c274a9ac22789c9f28172a30f7570a5b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1ed8e0651/91397607/1ed8e0651a17a698d929d5a9f4458ad0.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Bournemouth Station",
+   "miles": 0.3679382769211613,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Pokesdown Station",
+   "miles": 2.043287714967122,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Branksome Station",
+   "miles": 2.079439994477691,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Avenue Estates, Bournemouth",
+ "city": "Bournemouth",
+ "sourceOutcode": "BH1",
+ "scrapedAt": "2026-08-31T14:52:05.772Z"
+}

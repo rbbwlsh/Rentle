@@ -1,9 +1,9 @@
 // Turn the scraped corpus into the static data the site ships:
 //
-//   client/public/data/index.json          card-level info for every listing —
+//   client/public/data/<mode>/index.json   card-level info for every listing —
 //                                          deliberately price-free, since it's
 //                                          loaded before anyone has guessed
-//   client/public/data/listings/<id>.json  the full listing: details, local
+//   .../<mode>/listings/<id>.json          the full listing: details, local
 //                                          image paths, precomputed comparable
 //                                          hints, and the answer tucked into a
 //                                          base64 `secret` so it at least
@@ -14,21 +14,24 @@
 // build. Listings without a single usable photo are dropped: a photo-less
 // guess-the-rent round isn't a game.
 //
-// The daily-puzzle `order` is a seeded shuffle kept in data/order.json
-// (committed, append-only): re-scrapes add new ids to the end rather than
-// reshuffling, so a redeploy doesn't change which listing is "today's".
+// Every mode in tools/config/modes.js is built, each from its own corpus into
+// its own output directory. The two games share this transform, the photo
+// store and the image manifest, and nothing else.
+//
+// The daily-puzzle `order` is a seeded shuffle kept per mode (committed,
+// append-only): re-scrapes add new ids to the end rather than reshuffling, so
+// a redeploy doesn't change which listing is "today's".
 
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { pickComparables } from './lib/comparables.js';
 import { redactListing } from './lib/redact.js';
+import { MODES } from './config/modes.js';
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
-const CORPUS_DIR = path.join(ROOT, 'data', 'corpus');
 const MANIFEST_PATH = path.join(ROOT, 'data', 'images-manifest.json');
-const ORDER_PATH = path.join(ROOT, 'data', 'order.json');
-const OUT_DIR = path.join(ROOT, 'client', 'public', 'data');
+const OUT_ROOT = path.join(ROOT, 'client', 'public', 'data');
 
 // Deterministic PRNG (mulberry32) so the daily order is stable across machines.
 function seededRandom(seed) {
@@ -79,7 +82,7 @@ function encodeSecret(listing) {
 }
 
 // Pure transform: corpus listings + image manifest -> { index, chunks }.
-export function buildCorpus(listings, manifest, previousOrder = []) {
+export function buildCorpus(listings, manifest, previousOrder = [], { mode = 'rent' } = {}) {
   const usable = listings.filter((l) => (manifest[String(l.id)] || []).length > 0);
 
   // Scrub the ad copy on the way in, before comparables are cut from it: the
@@ -106,6 +109,7 @@ export function buildCorpus(listings, manifest, previousOrder = []) {
       details: l.details,
       sizeSqFt: l.sizeSqFt,
       sizeSqM: l.sizeSqM,
+      mode,
       description: l.description,
       keyFeatures: l.keyFeatures,
       tags: l.tags,
@@ -145,6 +149,7 @@ export function buildCorpus(listings, manifest, previousOrder = []) {
     .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
 
   const index = {
+    mode,
     builtAt: new Date().toISOString(),
     order,
     cities,
@@ -166,47 +171,57 @@ export function buildCorpus(listings, manifest, previousOrder = []) {
   return { index, chunks, dropped: listings.length - usable.length };
 }
 
-function main() {
-  const listings = fs.existsSync(CORPUS_DIR)
+function readJson(file, fallback) {
+  try {
+    return JSON.parse(fs.readFileSync(file, 'utf8'));
+  } catch {
+    return fallback;
+  }
+}
+
+function buildMode(mode, manifest) {
+  const corpusDir = path.join(ROOT, mode.corpusDir);
+  const orderPath = path.join(ROOT, mode.orderPath);
+  const outDir = path.join(ROOT, mode.outDir);
+
+  const listings = fs.existsSync(corpusDir)
     ? fs
-        .readdirSync(CORPUS_DIR)
+        .readdirSync(corpusDir)
         .filter((f) => f.endsWith('.json'))
-        .map((f) => JSON.parse(fs.readFileSync(path.join(CORPUS_DIR, f), 'utf8')))
+        .map((f) => JSON.parse(fs.readFileSync(path.join(corpusDir, f), 'utf8')))
     : [];
-  let manifest = {};
-  try {
-    manifest = JSON.parse(fs.readFileSync(MANIFEST_PATH, 'utf8'));
-  } catch {
-    /* no images processed yet */
-  }
-  let previousOrder = [];
-  try {
-    previousOrder = JSON.parse(fs.readFileSync(ORDER_PATH, 'utf8'));
-  } catch {
-    /* first build */
-  }
 
-  const { index, chunks, dropped } = buildCorpus(listings, manifest, previousOrder);
+  const { index, chunks, dropped } = buildCorpus(listings, manifest, readJson(orderPath, []), {
+    mode: mode.key,
+  });
 
-  fs.rmSync(OUT_DIR, { recursive: true, force: true });
-  fs.mkdirSync(path.join(OUT_DIR, 'listings'), { recursive: true });
-  fs.writeFileSync(path.join(OUT_DIR, 'index.json'), JSON.stringify(index));
+  fs.rmSync(outDir, { recursive: true, force: true });
+  fs.mkdirSync(path.join(outDir, 'listings'), { recursive: true });
+  fs.writeFileSync(path.join(outDir, 'index.json'), JSON.stringify(index));
   for (const [id, chunk] of chunks) {
-    fs.writeFileSync(
-      path.join(OUT_DIR, 'listings', `${id}.json`),
-      JSON.stringify(chunk)
-    );
+    fs.writeFileSync(path.join(outDir, 'listings', `${id}.json`), JSON.stringify(chunk));
   }
-  fs.writeFileSync(ORDER_PATH, JSON.stringify(index.order, null, 1));
+  fs.writeFileSync(orderPath, JSON.stringify(index.order, null, 1));
 
   console.log(
-    `Corpus built: ${chunks.size} playable listings` +
+    `[${mode.key}] ${chunks.size} playable listings` +
       (dropped ? ` (${dropped} dropped — no processed photos)` : '') +
-      ` -> client/public/data/`
+      ` -> ${mode.outDir}/`
   );
-  if (!chunks.size) {
+  return chunks.size;
+}
+
+function main() {
+  // Clear the whole output tree first, not just each mode's subdirectory: a
+  // layout change (or a mode being renamed) would otherwise leave the previous
+  // build's files behind to be served alongside the new ones.
+  fs.rmSync(OUT_ROOT, { recursive: true, force: true });
+  const manifest = readJson(MANIFEST_PATH, {});
+  let total = 0;
+  for (const mode of Object.values(MODES)) total += buildMode(mode, manifest);
+  if (!total) {
     console.log(
-      'The corpus is empty — run `npm run seed` then `npm run images` to fill it.'
+      'Every corpus is empty — run `npm run seed` then `npm run images` to fill them.'
     );
   }
 }

@@ -1,0 +1,83 @@
+{
+ "id": "90864561",
+ "mode": "buy",
+ "displayAddress": "Parrs Wood Road, Withington, M20",
+ "outcode": "M20",
+ "incode": "4SH",
+ "latitude": 53.431014,
+ "longitude": -2.215127,
+ "priceAmount": 190000,
+ "priceLabel": "£190,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90864561",
+ "area": "Withington",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 556,
+  "sizeSqM": 52,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 974,
+  "annualGroundRent": null,
+  "annualServiceCharge": 1316.36,
+  "councilTaxBand": "B",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 27/08/2026"
+ },
+ "sizeSqFt": 556,
+ "sizeSqM": 52,
+ "description": "A CONTEMPORARY TWO BEDROOM GROUND FLOOR APARTMENT with BRIGHT accommodation throughout and SECURE GATED OFF-STREET PARKING, located within striking distance to Withington, Didsbury & West Didsbury villages with their variety of independent shops, bars and restaurants, as well as being close to many excellent transport links. 556 Sq.Ft\n\n\rThe accommodation reveals a welcoming entrance hallway, which provides access to all principal rooms.  There is a bright and spacious contemporary open plan kitchen living area, with an abundance of space for furniture. Incorporated is a stylish kitchen, which is complemented by integrated appliances and ample base/wall units.\n\nThere are two well-proportioned double bedrooms, which offer views over the rear shared courtyard. The principal bedroom also benefits from fitted wardrobes. \n\nThe property is served by a three-piece modern bathroom.\n\nThe property is approached via a gated pathway, with an area of attractive garden frontage. To the rear is the enclosed shared flagstone patio, which is generously sized and the perfect space to enjoy in the warmer months. Accessed via Whimberry Way, is the secure gated parking with the property benefitting from an allocated space, directly outside.  \n\nLeasehold/999 Years From January 2002\nApprox. 556 Sq Ft\nCouncil Tax Band: B\nService Charge: £109.69 pcm\nGround Rent: £0 pa",
+ "keyFeatures": [
+  "Well-Presented Ground Floor Apartment",
+  "Two Bedrooms",
+  "One Bathroom",
+  "Secure Gated Allocated Parking",
+  "Walking Distance to both Didsbury and Withington Village",
+  "Approx. 556 Sq.Ft"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d09eb4ce4/90864561/d09eb4ce4e9263ac55e099808ee0833b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ac60c5eb0/90864561/ac60c5eb0f190d5cae656171e39f9378.jpeg",
+  "https://media.rightmove.co.uk/property-photo/257f504c9/90864561/257f504c96d6cd8ad6e462b126052406.jpeg",
+  "https://media.rightmove.co.uk/property-photo/20ddbb6a4/90864561/20ddbb6a445bbfc328f89f1bb37a137a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/762b828bf/90864561/762b828bf30c62bf87bd5aea9d33b40f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e3cbb03d4/90864561/e3cbb03d44eb4bf96297a4545179dc1b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1f5640d9f/90864561/1f5640d9fb6a74cb2740a43358884333.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f45bf020c/90864561/f45bf020c4928516d8e5a390638af5c2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2a4182ee6/90864561/2a4182ee64672102cc437f33f1b5462c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/63566082c/90864561/63566082c10bd71e325dc2f1b2ebe2c1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8b93ee614/90864561/8b93ee614751df6247400c66aff695e3.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Mauldeth Road Station",
+   "miles": 0.32498603879355886,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Burnage Station",
+   "miles": 0.6304499438492043,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "West Didsbury Tram Stop",
+   "miles": 0.979100371729541,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Philip James Kennedy, Didsbury",
+ "city": "Manchester",
+ "sourceOutcode": "M20",
+ "scrapedAt": "2026-08-31T14:45:42.903Z"
+}

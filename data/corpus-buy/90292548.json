@@ -1,0 +1,86 @@
+{
+ "id": "90292548",
+ "mode": "buy",
+ "displayAddress": "Fairfield Gardens, Crouch End N8",
+ "outcode": "N8",
+ "incode": "9DD",
+ "latitude": 51.58131,
+ "longitude": -0.12143,
+ "priceAmount": 750000,
+ "priceLabel": "£750,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90292548",
+ "area": "Fairfield Gardens",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": 1234,
+  "sizeSqM": 115,
+  "tenureType": "SHARE_OF_FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 0,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Added on 30/06/2026"
+ },
+ "sizeSqFt": 1234,
+ "sizeSqM": 115,
+ "description": "Set within a peaceful cul-de-sac in the heart of Crouch End, this beautifully proportioned split-level three-bedroom maisonette offers an impressive 1,234 sq ft of bright, versatile living space. Ideally positioned just half a mile from Hornsey Station and only 0.1 miles from the highly regarded Rokesly Primary School, it combines a tranquil setting with exceptional convenience.\n\nStep through your own private front door into a wonderfully spacious entrance hall, flooded with natural light and offering ample room for bicycles, buggies and everyday storage. The sense of space continues throughout the home, with well-balanced accommodation arranged over two floors.\n\nThe standout reception room is an elegant and inviting space, where three double-glazed sash windows bathe the room in natural light, creating an uplifting atmosphere throughout the day. Opposite, the generous south-facing kitchen is designed for modern living, with plenty of room to cook, dine and entertain while enjoying sunlight streaming in.\n\nThe accommodation comprises two generous double bedrooms, a well-proportioned third bedroom that also makes an ideal home office or nursery, a bathroom, and a separate WC.\n\nOffering an exceptional blend of light, space and location, this is a superb opportunity for first-time buyers, young families or those seeking a stylish London pied-à-terre. The vibrant village atmosphere of Crouch End is just moments away, with its independent boutiques, cafés, acclaimed restaurants and welcoming pubs all within easy walking distance. Excellent transport connections include the 91 bus to Central London, the W7 to Finsbury Park and Hornsey Station, providing swift access into the City.\n\nTenure: Share of Freehold\nLease: Approximately 972 years remaining (999 years from 1999)\nService Charge: Ad hoc\nCouncil Tax Band: E",
+ "keyFeatures": [
+  "1234 Sq Ft Split Level Maisonette",
+  "Private Entrance",
+  "Share of Freehold",
+  "Large Reception Room",
+  "Eat In Kitchen",
+  "Cul De Sac In Central Crouch End",
+  "Hornsey Station 0.5 Miles",
+  "Rokesly Junior School 0.1 Miles"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/bd143e493/90292548/bd143e493d7e9ac5375ae4ab9d91b4bf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1bc41455a/90292548/1bc41455abc5f5147f6681e984b4a4ae.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3a01b5f08/90292548/3a01b5f0816c2208be595a33889cf96f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/904c51af9/90292548/904c51af900b93a35fb7981c4016983c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/83e0b4dc0/90292548/83e0b4dc0fd0815dfa5fcb53a14592fd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/773f3e873/90292548/773f3e8739d62617fa2d0d84c7607c17.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6bfb1cdfe/90292548/6bfb1cdfec60900f053161e2618492a7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/109d57557/90292548/109d57557819c93fc1ae52cd19299327.jpeg",
+  "https://media.rightmove.co.uk/property-photo/449053f39/90292548/449053f39162541f1c55919d86e243f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b10cbb5cb/90292548/b10cbb5cb5a6295617a9698e12a8d0ff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5efe4b1a7/90292548/5efe4b1a71d7532d0417f23ce4a4a242.jpeg",
+  "https://media.rightmove.co.uk/property-photo/134fadd27/90292548/134fadd279c00343e917fdbbf380fdc6.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Hornsey Station",
+   "miles": 0.5466072034036829,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Crouch Hill Station",
+   "miles": 0.7122012599315279,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Harringay Station",
+   "miles": 0.7561359498090517,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "David Astburys Ltd, Crouch End",
+ "city": "London",
+ "sourceOutcode": "N8",
+ "scrapedAt": "2026-08-31T16:59:24.690Z"
+}

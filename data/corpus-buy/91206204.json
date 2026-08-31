@@ -1,0 +1,84 @@
+{
+ "id": "91206204",
+ "mode": "buy",
+ "displayAddress": "Mackintosh Place, Cardiff, CF24",
+ "outcode": "CF24",
+ "incode": "4RN",
+ "latitude": 51.496313,
+ "longitude": -3.173639,
+ "priceAmount": 90000,
+ "priceLabel": "£90,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91206204",
+ "area": "Cardiff",
+ "bedrooms": 0,
+ "bathrooms": null,
+ "propertySubType": "Not Specified",
+ "details": {
+  "propertyType": "Not Specified",
+  "bedrooms": 0,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": 0,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 22/07/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "** INVESTMENT/DEVELOPMENT OPPORTUNITY ** FULL PLANNING PERMISSION ** MGY are pleased to offer this 0.26 acre parcel of land for sale, with full planning permission (planning no.20/00822/MNR) for the construction of 2 x 1 bedroom apartments within one block, situated on the land to the rear of 133-143 Mackintosh Place, Roath. The land is situated in a popular area within Roath, and offers an ideal investment or development opportunity. All units will benefit from outdoor space. Dual access is via no.135 Mackintosh Place hallway, as well as rear lane vehicular access - the freehold for 135 Mackintosh Place and the subject land will be included as part of the sale. No services have been tested. There is additional land (0.26 acres) available with planning permission for 2 × 1 bedroom apartments adjacent to this site - further information available on request.",
+ "keyFeatures": [
+  "Freehold",
+  "Land For Sale With Planning Permission",
+  "Planning no.20/00822/MNR",
+  "Dual Access via 135 Mackintosh Place &amp; Rear Lane",
+  "Proposed Plans for 2 x Apartments With Outdoor Space, With Additional Land Available"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/5c7e29206/91206204/5c7e2920673123f0fb7f7bb9b74a414f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d52985ca2/91206204/d52985ca27697d8a71035cd6ad844162.jpeg",
+  "https://media.rightmove.co.uk/property-photo/60e6f9be0/91206204/60e6f9be08b185e7309763f7bfde509d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ed4517c42/91206204/ed4517c42dc6e3dcdc667c718d26da52.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2267be7f0/91206204/2267be7f04707aa825f97a0496e0761c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f21b7bae4/91206204/f21b7bae4d02dbfe3c131cd3ff35096e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/992ed08c5/91206204/992ed08c54b6b2a260e8746d441ac411.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee34f6998/91206204/ee34f69980ff31281666879a752c5d00.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b05cd4617/91206204/b05cd4617c9b1c50bf89712bd60933a8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fa4058d38/91206204/fa4058d3845206b20ad26861f8027ce6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e4f6cc472/91206204/e4f6cc472c586b6682ca8573854ffc46.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3c3bb5e26/91206204/3c3bb5e26c0c5fff979324bf63959b01.jpeg",
+  "https://media.rightmove.co.uk/property-photo/36c4f8ea1/91206204/36c4f8ea1f7fdb045ec485d70930d83f.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Cathays Station",
+   "miles": 0.5593612888488981,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cardiff Queen Street Station",
+   "miles": 1.0075083582154951,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Heath Low Level Station",
+   "miles": 1.4022820720197515,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "MGY, Heath",
+ "city": "Cardiff",
+ "sourceOutcode": "CF24",
+ "scrapedAt": "2026-08-31T14:58:03.640Z"
+}

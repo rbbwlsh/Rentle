@@ -1,0 +1,79 @@
+{
+ "id": "92406252",
+ "mode": "buy",
+ "displayAddress": "Elspeth Road, \nClapham Common, SW11",
+ "outcode": "SW11",
+ "incode": "1DP",
+ "latitude": 51.462276,
+ "longitude": -0.160883,
+ "priceAmount": 700000,
+ "priceLabel": "£700,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92406252",
+ "area": "Clapham Common",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Not Specified",
+ "details": {
+  "propertyType": "Not Specified",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": 1211,
+  "sizeSqM": 113,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 95,
+  "annualGroundRent": 196,
+  "annualServiceCharge": null,
+  "councilTaxBand": "C",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 26/08/2026"
+ },
+ "sizeSqFt": 1211,
+ "sizeSqM": 113,
+ "description": "A spacious three bedroom, split level flat situated close to Clapham Junction.\n\nThe property has been neutrally decorated throughout and comprises; three good sized double bedrooms, two bathrooms, bright reception room with bay window and separate fully fitted kitchen with space for dining. The property further benefits from a wealth of period features and an abundance of storage.\n\nElspeth Road is ideally located moments from the green open spaces of Clapham Common and within easy reach of Clapham Junction Station which offers excellent transport links into Central London and The City. The many shops, bars and restaurants of Battersea Rise, Lavender Hill and Northcote Road can also be found close by.\n\nSelling your property in Elspeth Road? Trying to find your perfect home to buy? Register with Chestertons Battersea to get the full picture from the experts in the Clapham Common market. \n\nOur China Desk is here for you, if Chinese is your preferred language, please get in touch via WeChat (S-ChestertonsAPAC)",
+ "keyFeatures": [
+  "Three Bedrooms",
+  "Separate Kitchen",
+  "Split Level",
+  "Close to Clapham Junction"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/9736a52c3/92406252/9736a52c366020633387a5f0855b614e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/79841f1a5/92406252/79841f1a5b9bf579e1cd541a0f6150be.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8fb83eb06/92406252/8fb83eb065ccc60421bc8b9e9294f18f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3c3943bf4/92406252/3c3943bf4ce9bf216f1f614835604327.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d82e42941/92406252/d82e4294147840fcf05263986b3def50.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e27f35732/92406252/e27f35732a438dab908763247460cc18.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e7aa191ee/92406252/e7aa191eeb2366809a528eccf9e28264.jpeg",
+  "https://media.rightmove.co.uk/property-photo/db831faaa/92406252/db831faaadc05a9c657b92a23b02079c.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Clapham Junction Station",
+   "miles": 0.36845336931949185,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Clapham South Station",
+   "miles": 0.8697100840903108,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Clapham Common Station",
+   "miles": 0.9706118744219275,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  }
+ ],
+ "agent": "Chestertons, Battersea",
+ "city": "London",
+ "sourceOutcode": "SW11",
+ "scrapedAt": "2026-08-31T16:59:33.808Z"
+}

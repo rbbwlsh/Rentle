@@ -1,0 +1,78 @@
+{
+ "id": "90766878",
+ "mode": "buy",
+ "displayAddress": "Sunbridge Road, Bradford, West Yorkshire, BD1",
+ "outcode": "BD1",
+ "incode": "2AY",
+ "latitude": 53.793449,
+ "longitude": -1.755016,
+ "priceAmount": 85000,
+ "priceLabel": "£85,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90766878",
+ "area": "Bradford, West Yorkshire",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 130,
+  "annualGroundRent": 200,
+  "annualServiceCharge": 1736.04,
+  "councilTaxBand": "C",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 21/07/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This two-bedroom apartment located in the heart of Bradford city centre, overlooking Sunbridge Road will be of interest to investors and comes with tenants in situ.\n\n\rComprising: Spacious open plan lounge/dining area with laminate flooring. Fully fitted kitchen. Luxury bathroom with shower over the bath. Two bedrooms one with en-suite.\n\nThe apartment is situated on the first floor and benefits from electric heating and double glazing.\nPlease note some of the photographs were taken prior to tenancy.",
+ "keyFeatures": [
+  "First Floor Apartment",
+  "Balcony",
+  "Master with En-Suite",
+  "Tenant in Situ",
+  "Council Tax Band: C",
+  "EPC Rating: C"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a4fd7a6ed/90766878/a4fd7a6ed79185aa79a17aaba2f93e0a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7ad832e66/90766878/7ad832e66fd15d341ebf80d46091b272.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e607b56af/90766878/e607b56af89f985e336b06b0c37e0c1b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5cbee72d5/90766878/5cbee72d5b0e4136ef50778b0f64f44c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ea5df6fa4/90766878/ea5df6fa4ceff0ecb11f7113ca88b832.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3799ca95f/90766878/3799ca95f3cdb4d28c62434b24bb24fd.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Bradford Interchange Station",
+   "miles": 0.24585149806456338,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bradford Forster Square Station",
+   "miles": 0.25247410134644643,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Frizinghall Station",
+   "miles": 1.9166028190380007,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Whitegates, Bradford",
+ "city": "Bradford",
+ "sourceOutcode": "BD1",
+ "scrapedAt": "2026-08-31T14:59:36.553Z"
+}

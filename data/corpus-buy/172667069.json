@@ -1,0 +1,84 @@
+{
+ "id": "172667069",
+ "mode": "buy",
+ "displayAddress": "Neale Close, Cambridge, CB1",
+ "outcode": "CB1",
+ "incode": "3LE",
+ "latitude": 52.193456,
+ "longitude": 0.177444,
+ "priceAmount": 400000,
+ "priceLabel": "£400,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/172667069",
+ "area": "Cambridge",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Semi-Detached",
+ "details": {
+  "propertyType": "Semi-Detached",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "C",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Situated within a quiet residential close to the east of Cambridge, this three-bedroom semi-detached home offers well-balanced accommodation over two floors, together with front and rear gardens, driveway parking and a garage.\n\nThe ground floor is accessed via an entrance hall leading to a bright living room at the front of the property, featuring a bay window that allows excellent natural light. To the rear is a separate dining room, providing an ideal space for family meals and entertaining, with access through to the kitchen. The kitchen overlooks the rear garden and offers a range of fitted units and worktop space.\n\nOn the first floor there are three bedrooms, including two well-proportioned doubles and a further single bedroom, suitable for a child’s room, study or home office. A family bathroom and separate WC are accessed from the landing.\n\nExternally, the property benefits from a front garden and a generous rear garden, both mainly laid to lawn, offering excellent outdoor space for families. There is off-street parking on the driveway and a garage, which would benefit from some improvement.\n\nNeale Close is conveniently located to the east of Cambridge, providing good access to local schools, shops and everyday amenities. The property is well positioned for access to the city centre,  railway stations and the A11/M11, and A14, making it suitable for families and commuters alike.\n\nEPC Rating: C Disclaimer \n\n Important Information These particulars are provided as a guide only. They are prepared using information supplied by the seller and other sources believed to be reliable. Whilst every effort has been made to ensure the information is accurate, buyers should satisfy themselves by inspection, survey and their own legal enquiries before proceeding. All measurements, floorplans, photographs and computer-generated images are for guidance only. Measurements and areas are approximate, and we have not tested any services, systems, appliances or equipment. To comply with the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017, all purchasers must complete identity and source of funds checks before a transaction can proceed. Identity checks are carried out by an independent third-party provider and are subject to a charge of £30 inclusive of VAT. Material information is provided to the best of our knowledge at the time of publication and may be updated if further information becomes available. These particulars do not form part of any offer or contract.",
+ "keyFeatures": [
+  "No Onward Chain",
+  "Three-Bedroom Semi-Detached Home",
+  "Driveway Parking",
+  "Quiet Residential Close",
+  "Front and Rear Gardens",
+  "EPC - C"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/47c2b10af/172667069/47c2b10af5d30b968e0373700d835228.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d2693f360/172667069/d2693f3604c01cd151b3cad75107f9d8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7902f3767/172667069/7902f37676d7caa163949e56bdd549a4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb135f242/172667069/bb135f242290329156df188d29144837.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8c3c740cc/172667069/8c3c740ccbe7f98a29ced9c68da0efdb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4ddcebcaf/172667069/4ddcebcafebafccd1e86ef998b1aa233.jpeg",
+  "https://media.rightmove.co.uk/property-photo/996f1fe89/172667069/996f1fe892771bc94666c71935a8c160.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4a612b933/172667069/4a612b9337c175a7f565b5130318a50f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c2516fa59/172667069/c2516fa59ee729f7e8986d421893b065.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6f3a1919f/172667069/6f3a1919f7004b4738a7ca07d7e5fadb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ca92b1f83/172667069/ca92b1f83e0ead3cb9b545a73444a0f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3b39557a6/172667069/3b39557a6860cf23030fae83298d3cbc.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Cambridge Station",
+   "miles": 1.6783453192058966,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cambridge North",
+   "miles": 2.2597446176710947,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Shelford Station",
+   "miles": 3.468422990042547,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Hockeys, Cambridge",
+ "city": "Cambridge",
+ "sourceOutcode": "CB1",
+ "scrapedAt": "2026-08-31T16:53:23.287Z"
+}

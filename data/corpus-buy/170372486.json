@@ -1,0 +1,82 @@
+{
+ "id": "170372486",
+ "mode": "buy",
+ "displayAddress": "Lumen Court, Preston",
+ "outcode": "PR1",
+ "incode": "2RA",
+ "latitude": 53.762489,
+ "longitude": -2.70229,
+ "priceAmount": 98000,
+ "priceLabel": "£98,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/170372486",
+ "area": "Preston",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers in Region of",
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Situated in City Centre with great access to local amenities and transport network is this purpose built self contained two bedroom third floor apartment which would be ideal as either a first time buyer opportunity or a buy to let option.\r\n\r\nThe property comprises; a large open plan living room/diner/kitchen, two bedrooms, one with en-suite, main bathroom, decked Balcony and parking. \r\n\r\nThere are communal access and hallways, stairs and a lift.\r\nLeasehold information: Ground Rent Payable: Yes\r\nAnnual Ground Rent: £250\r\nService Charge: 640.49 Per quarter \r\nLength of the Lease: 125 years\r\nStart Date of the Lease: 01/01/2008\r\nCouncil Tax Information: Band A\n\nAgent Note\nIn order to purchase a property in the UK, all estate agents are legally required to conduct identity checks on everyone involved in the transaction, in line with anti-money laundering regulations. Farrell Heyworth outsource this process to a trusted third party, and a non-refundable charge will apply. Please contact your local branch for further details.",
+ "keyFeatures": [
+  "**VIRTUAL VIEWING AVAILABLE. CLICK ON THE VIDEO TOUR ABOVE** \t",
+  "Fantastic First Time Buyer or Buy to Let Opportunity",
+  "Situated in the City Centre and Close to University Complex",
+  "Two Bedrooms, Open Plan Living, Bathroom, En Suite &amp; Balcony",
+  "Allocated Parking, Communal Access, Stairs and Lift"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/ec28e4854/170372486/ec28e4854f41ae1fdfe7db40339fcd62.jpeg",
+  "https://media.rightmove.co.uk/property-photo/90982dbb2/170372486/90982dbb23e30ceebcc0475a884d0641.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0319c33ed/170372486/0319c33eda90e68b76afd2ec02e70afe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4a36956a8/170372486/4a36956a875cfb819741fb27f3c57609.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2bd2adc38/170372486/2bd2adc383cc45addb152d1fd061b314.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6969676e7/170372486/6969676e77320b239a7a0d268acb5af3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1a039451d/170372486/1a039451dd251c67bbb00f891c0ed322.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4477cb525/170372486/4477cb5253305573e77ae337faf09455.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e56b234c5/170372486/e56b234c5453606736e5323ff5824a29.jpeg",
+  "https://media.rightmove.co.uk/property-photo/340b95385/170372486/340b95385ef23d19151cdba5acf02990.jpeg",
+  "https://media.rightmove.co.uk/property-photo/51afb25d4/170372486/51afb25d4cf91911f2878f2734993fc1.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Preston Station",
+   "miles": 0.4949281125951444,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Lostock Hall Station",
+   "miles": 2.7390269652611448,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bamber Bridge Station",
+   "miles": 2.9831095462811703,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Farrell Heyworth, Preston & Central Lancashire",
+ "city": "Preston",
+ "sourceOutcode": "PR1",
+ "scrapedAt": "2026-08-31T14:59:49.934Z"
+}

@@ -1,0 +1,91 @@
+{
+ "id": "92092404",
+ "mode": "buy",
+ "displayAddress": "St Andrews Court, St. Andrews Street, Glasgow",
+ "outcode": "G1",
+ "incode": "5PA",
+ "latitude": 55.85572,
+ "longitude": -4.24405,
+ "priceAmount": 40000,
+ "priceLabel": "£40,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92092404",
+ "area": "Glasgow",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": 170,
+  "sizeSqM": 16,
+  "tenureType": null,
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": 170,
+ "sizeSqM": 16,
+ "description": "Our latest listing is a studio flat located in Glasgow. It is in close proximity to valuable amenities, is able to generate rewarding rental returns and has a tenant currently situated.\n\nFor investors looking to expand their portfolio, this is a fantastic opportunity!\n\nThis well-kept studio flat features a well-proportioned living space, 1 bathroom, attractive communal areas, and a fully fitted kitchen with integrated appliances.\n\nInvestment details\n\nIt currently produces an annual gross income of £8,316 with tenants currently situated. Considering the purchase price and the potential rental income that could be earned in future years, this will make for a worthwhile addition to an investors property portfolio.\n\nFor greater detail on this property's investment potential, please see the Let Property Pack linked below.\n\nIf you are interested, please call us.\n\nTenancy Details\n\nThere are tenants that currently reside in the property and have consistently paid their rent for the duration of their stay. They do not have any intentions to move out so hope to remain in the property.\n\nWe are committed to facilitating a smooth transaction process between buyer and seller. To allow for maximum commitment to the sale from both parties, a Buyers Premium will apply in order to secure a property.",
+ "keyFeatures": [
+  "Fully Fitted Kitchen",
+  "Well-Proportioned Living Space",
+  "Tenant Currently Situated",
+  "Likely to attract enquiries from Serious Investors &amp; Developers",
+  "INVESTMENT POTENTIAL DETAILED BELOW (Let Property Pack)",
+  "Cash Buyers Only"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/b658a644f/92092404/b658a644f1d1e8009a317058f7e7a10f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/956e3b317/92092404/956e3b317431b3fb03991abed9b29823.jpeg",
+  "https://media.rightmove.co.uk/property-photo/85c9b927a/92092404/85c9b927a2e5daa1af83430c94bbb50c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/20535fec6/92092404/20535fec6f6d2ba0b52b3201b3e6ffc1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/47becf309/92092404/47becf309d5b6d35b607c505d91e351c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/671613dcd/92092404/671613dcd002e0441c13e8d54ea01e56.jpeg",
+  "https://media.rightmove.co.uk/property-photo/291e5e4f0/92092404/291e5e4f0e1d7141841764180b63df00.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f7c7a737f/92092404/f7c7a737f781abc7c94b7a271de4ae17.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6889ce40b/92092404/6889ce40b5d75e932fdca2365e54b939.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1811133f7/92092404/1811133f7c649a5d63b8fa1794732c8e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0863150aa/92092404/0863150aace040811cbababac99cc286.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a115a561b/92092404/a115a561b7a61a13621a5a834737b94a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/26309bd54/92092404/26309bd54b39409a57be288bcc9cd1f4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dbc5c3a69/92092404/dbc5c3a6933c0a4ab12445fe583eefba.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9ae4fa851/92092404/9ae4fa851bd45371aec927c0648c88ea.jpeg",
+  "https://media.rightmove.co.uk/property-photo/17492d244/92092404/17492d244809d27626510852fe1ffc14.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0ebe5165b/92092404/0ebe5165bdd44ba944a85e89d0962758.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5f6b99dbc/92092404/5f6b99dbc28083c67333ae09191d7149.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e5855d872/92092404/e5855d872fe7f0f626029c9fceb8e542.jpeg"
+ ],
+ "imageCount": 19,
+ "nearestStations": [
+  {
+   "name": "Argyle Street Station",
+   "miles": 0.288746021229764,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "High Street (Glasgow) Station",
+   "miles": 0.3014139296400599,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "St. Enoch Station",
+   "miles": 0.39134775927786536,
+   "types": [
+    "LIGHT_RAILWAY"
+   ]
+  }
+ ],
+ "agent": "Let Property Sales & Management, Glasgow",
+ "city": "Glasgow",
+ "sourceOutcode": "G1",
+ "scrapedAt": "2026-08-31T14:54:09.902Z"
+}

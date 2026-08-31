@@ -1,0 +1,87 @@
+{
+ "id": "162602105",
+ "mode": "buy",
+ "displayAddress": "Porterbrook 2, Pomona Street, S11 8JG",
+ "outcode": "S11",
+ "incode": "8JG",
+ "latitude": 53.371979,
+ "longitude": -1.484419,
+ "priceAmount": 80000,
+ "priceLabel": "£80,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/162602105",
+ "area": "Porterbrook 2",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 182,
+  "annualGroundRent": 150,
+  "annualServiceCharge": 1968.82,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers in Region of",
+  "listingUpdate": "Reduced on 17/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A modern studio apartment offering sleek urban living off Ecclesall Road. Close to shops, bars, and restaurants, with excellent transport links and proximity to parks and the city centre. Features include a fully fitted kitchen, balcony, neutral décor, partitioned sleeping area, and secure key fob entry.\n\nWhy We Love It \nPorterbrook 2 is perfectly positioned for those who want to experience the best of urban living with a touch of nature, thanks to local parks and popular walking spots. Situated just off the bustling Ecclesall Road, this modern studio apartment is surrounded by an array of shops, trendy bars, and diverse restaurants, making it an ideal choice for those who enjoy the convenience of city life.\nThe location is also well-served by excellent transport links, providing easy access to Sheffield's city centre, which is just a short distance away.\n\nWhy You'll Love It\nThe apartment boasts a sleek, fully fitted kitchen that seamlessly integrates with the living space, offering a stylish yet functional environment for both cooking and relaxation. The lounge area is bright and welcoming, featuring doors that lead out onto a private balcony—perfect for enjoying some fresh air. \nA cleverly designed partitioned sleeping area provides privacy and comfort, making the most of the available space. \nThe fully tiled bathroom includes both a shower and a bath, offering a touch of luxury in your daily routine.\nThe interior is decorated in neutral tones, creating a fresh and inviting atmosphere that allows you to easily personalise the space to your taste. The apartment is situated in a secure building with key fob entry, ensuring peace of mind for residents.",
+ "keyFeatures": [
+  "Stylish first-floor studio apartment",
+  "Private balcony",
+  "Neutral Décor Throughout",
+  "Open-plan living area",
+  "Modern fitted kitchen",
+  "Contemporary bathroom",
+  "Secure entry system and lift access",
+  "Located in the heart of Sheffield’s desirable Ecclesall Road area",
+  "Excellent transport links and walking distance to universities",
+  "Ideal for first-time buyers, city professionals, or investors"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/e30eecd63/162602105/e30eecd6346da4c6cd397bc069851970.png",
+  "https://media.rightmove.co.uk/property-photo/1145b0c97/162602105/1145b0c9795407cbf74ea54c0b7b14af.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8def90907/162602105/8def909074ec0cfbe0106c7c7bd53b74.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4c128b7bc/162602105/4c128b7bc01a61fc59c35275c1c4ca5a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1b64ad8fc/162602105/1b64ad8fcee03b1b870162dc1059a267.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7c6b4afd6/162602105/7c6b4afd6c6464cdfb112d6aa3693a35.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2479bc3c2/162602105/2479bc3c2a5e6a2f8e46a31a3a50c629.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8beb32681/162602105/8beb32681a3eb0af469863418bb4aa5f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/06da7ad17/162602105/06da7ad1761e20aeca12f2969563b98a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a3efb84f0/162602105/a3efb84f0b8f6149e23719561931573f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/91ffe4467/162602105/91ffe4467e401f8449b898ac9785ef68.png"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "University of Sheffield Tram Stop",
+   "miles": 0.5984649339977405,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "West Street Tram Stop",
+   "miles": 0.6545623166164536,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "City Hall Tram Stop",
+   "miles": 0.8265824901338684,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "MorfittSmith, Sheffield",
+ "city": "Sheffield",
+ "sourceOutcode": "S11",
+ "scrapedAt": "2026-08-31T14:55:07.707Z"
+}

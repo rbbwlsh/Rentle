@@ -1,0 +1,69 @@
+{
+ "id": "90922494",
+ "mode": "buy",
+ "displayAddress": "Dunster Street, Northampton",
+ "outcode": "NN1",
+ "incode": "3LX",
+ "latitude": 52.241358,
+ "longitude": -0.890722,
+ "priceAmount": 110000,
+ "priceLabel": "£110,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90922494",
+ "area": "Northampton",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 122,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 20/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Set within the beautifully restored Hawkins Court development, this impressive Grade II listed apartment seamlessly blends historic character with modern design, creating a truly unique home in the heart of Northampton.\n\nThe apartment has been thoughtfully finished to a high standard throughout, retaining a wealth of original architectural features including exposed brickwork, impressive timber beams and distinctive factory-style windows, which flood the accommodation with natural light while celebrating the building's industrial past.\n\nThe spacious accommodation comprises a welcoming entrance hall leading through to a superb open-plan living space, incorporating the lounge, contemporary fitted kitchen and bedroom area. The modern kitchen is fitted with a stylish range of units, quality work surfaces and integrated appliances, providing a practical yet elegant space for everyday living. The generous living area offers excellent versatility and perfectly complements the apartment's industrial aesthetic, making it ideal for relaxing or entertaining.\n\nThe property further benefits from a well-appointed bathroom, double glazing where appropriate and a high-quality finish throughout, making it an ideal purchase for first-time buyers, professionals or investors alike.\n\nSituated within Northampton's thriving town centre, Hawkins Court enjoys an enviable location just a short walk from an excellent selection of restaurants, cafés, bars, shops, cultural attractions and transport links, including Northampton Railway Station with direct services to London Euston and Birmingham. The nearby Waterside Campus and major road networks, including the A45 and M1, are also easily accessible.\n\nOffering an exceptional combination of character, style and convenience, this outstanding apartment presents a fantastic opportunity to acquire a distinctive home within one of Northampton's most sought-after converted developments.",
+ "keyFeatures": [
+  "Grade II Listed Factory Conversion",
+  "One Bed Studio",
+  "Open Plan Living",
+  "Modern Finishes Throughout",
+  "Excellent Location",
+  "Walking Distance To Local Shops/Amenities"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/cdcc3876b/90922494/cdcc3876b6ca5f5b9d4298c65da16854.jpeg",
+  "https://media.rightmove.co.uk/property-photo/445ade662/90922494/445ade6625b6dee785021aae211e34b4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/409247ca2/90922494/409247ca2558a73fc7415c4a296aca12.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e7698e9c4/90922494/e7698e9c46d5ee5703b8f6772507a5eb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0ccd586bc/90922494/0ccd586bc9ac9ea9fc142147e92e2b7f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cd2e4c8ba/90922494/cd2e4c8baf331eb5bf721087c8d2d80e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b224c5d18/90922494/b224c5d188daf46028d5d9ede649fcfc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/26a1a6dd5/90922494/26a1a6dd51c3c086c1fc2c1cb9bca1ee.jpeg",
+  "https://media.rightmove.co.uk/property-photo/87924bd3d/90922494/87924bd3dde17bef15916499e532545c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1e9337e76/90922494/1e9337e76c7a1a21343d14225c47fa8d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d8c6eeac0/90922494/d8c6eeac0f07d99f4edb6360570629ee.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Northampton Station",
+   "miles": 0.7320539673425819,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "haart, Northampton",
+ "city": "Northampton",
+ "sourceOutcode": "NN1",
+ "scrapedAt": "2026-08-31T14:50:18.837Z"
+}

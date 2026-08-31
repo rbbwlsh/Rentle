@@ -1,0 +1,81 @@
+{
+ "id": "92493813",
+ "mode": "buy",
+ "displayAddress": "Admirals Court, Rose Kiln Lane, Reading, Berkshire, RG1",
+ "outcode": "RG1",
+ "incode": "6SW",
+ "latitude": 51.446057,
+ "longitude": -0.976351,
+ "priceAmount": 190000,
+ "priceLabel": "£190,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92493813",
+ "area": "Reading, Berkshire",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 960,
+  "annualGroundRent": null,
+  "annualServiceCharge": 1414,
+  "councilTaxBand": "B",
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "NO ONWARD CHAIN\n\nIdeally positioned within easy reach of Reading town centre, Reading mainline railway station and the M4 motorway, this well-presented first-floor apartment offers an excellent opportunity for first-time buyers, professionals, and investors alike.\n\nThe property offers a bright and spacious layout, featuring a welcoming entrance hall with useful storage, two well-proportioned bedrooms, a modern three-piece bathroom suite, and a fitted kitchen. The impressive living room provides excellent space for both relaxing and entertaining, with sliding doors opening directly onto a private balcony, creating a pleasant extension of the living space.\n\nExternally, the property is set within well-maintained communal grounds and benefits from a secure telecom entry system, allocated parking, and additional visitor parking.\n\nWith its combination of generous accommodation, private outdoor space, allocated parking and excellent access to Reading town centre, the mainline station and M4, this is a property that should be viewed to be fully appreciated.",
+ "keyFeatures": [
+  "First Floor",
+  "Private Balcony",
+  "Allocated Parking",
+  "Large Living Room",
+  "Modern Kitchen",
+  "Modern Bathroom",
+  "No Onward Chain",
+  "Local Amenities Nearby"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/338c3a93b/92493813/338c3a93b254d4f74f11a852b58b6591.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d0b7faa8e/92493813/d0b7faa8efab7e09b4d2a5ece7a4e690.jpeg",
+  "https://media.rightmove.co.uk/property-photo/75544ddd7/92493813/75544ddd7e0c9048b282eb044dffd0cf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1d6ee3a7f/92493813/1d6ee3a7f2a683185992c5c946bd5b47.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5bf42d21e/92493813/5bf42d21eaa8a54870516d87263435f0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e240f05e6/92493813/e240f05e6c8fed4d1852816b84d5fdf1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bf9cb6120/92493813/bf9cb612000f64a3e58028cafcabcff3.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Reading West Station",
+   "miles": 0.8759346420237327,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Reading Station",
+   "miles": 0.9081798304026566,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Reading Green Park Station",
+   "miles": 1.688506267241001,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Prospect, Reading",
+ "city": "Reading",
+ "sourceOutcode": "RG1",
+ "scrapedAt": "2026-08-31T15:02:30.358Z"
+}

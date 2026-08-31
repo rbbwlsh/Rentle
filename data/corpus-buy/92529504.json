@@ -1,0 +1,78 @@
+{
+ "id": "92529504",
+ "mode": "buy",
+ "displayAddress": "Damson Drive, Peterborough, PE1",
+ "outcode": "PE1",
+ "incode": "4FS",
+ "latitude": 52.598112,
+ "longitude": -0.231316,
+ "priceAmount": 200000,
+ "priceLabel": "£200,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92529504",
+ "area": "Peterborough",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Semi-Detached",
+ "details": {
+  "propertyType": "Semi-Detached",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 678,
+  "sizeSqM": 63,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": 678,
+ "sizeSqM": 63,
+ "description": "This SEMI-DETACHED FAMILY HOME offers well-proportioned accommodation, featuring TWO DOUBLE BEDROOMS, a modern family bathroom, downstairs WC, kitchen, lounge diner, DRIVEWAY PARKING FOR MULTIPLE VEHICLES & a SOUTH FACING REAR GARDEN. The welcoming entrance hall leads to the contemporary kitchen boasting fitted units, integrated appliances (including oven, hob, and extractor), and practical work surfaces as well as hosting access to the useful downstairs WC and is connected to the spacious lounge diner, providing a versatile area for both relaxing and entertaining, with patio doors leading onto the rear garden. Upstairs both bedrooms are generously sized doubles, offering flexibility for family living or home working, with the main bedroom benefitting from built-in storage and both bedrooms are accompanied by the family bathroom is finished to a high standard, featuring a modern suite with bath and shower over, wash basin, and WC, complemented by quality tiling and fixtures. Outside the property boasts a recently landscaped south facing rear garden which comprises of patio and decking seating space, artificial lawn and shed storage, whilst to the side aspect you will find driveway parking for multiple vehicles.\nEPC Rating: B",
+ "keyFeatures": [
+  "Semi-Detached Family Home",
+  "TWO DOUBLE BEDROOMS",
+  "Family Bathroom &amp; Downstairs WC",
+  "Kitchen &amp; Lounge Diner",
+  "DRIVEWAY PARKING FOR MULTIPLE VEHICLES",
+  "LANDSCAPED SOUTH FACING REAR GARDEN",
+  "NO ONWARD CHAIN",
+  "EPC Rating B"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/7ada1eafd/92529504/7ada1eafdc864ba73e54eda3f10bf047.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c077aef15/92529504/c077aef15c95ccf19e192d719a59488a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/97aa6e144/92529504/97aa6e1444f4838829a0a55384f470b5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bf7668e6e/92529504/bf7668e6eef7d855fc962db000260862.jpeg",
+  "https://media.rightmove.co.uk/property-photo/61aee5da5/92529504/61aee5da53e180e26c90963e271dc6d7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8d60524ad/92529504/8d60524ad1eed36dffe23a5acfabbdbb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/17fd33d92/92529504/17fd33d92a7b5ffda80a5a0fce1f2e10.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c28587ccf/92529504/c28587ccf76142bf8ca7fe43b35bc590.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8abdede06/92529504/8abdede063b20a6aaee4c04315158bec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a96960f5a/92529504/a96960f5abbbdc3de6cc2234d91804f0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/511b4cb60/92529504/511b4cb606fac802058ca953512fe1fa.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Peterborough Station",
+   "miles": 1.7994954385714594,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Whittlesea Station",
+   "miles": 5.8137765534491646,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Newton Fallowell, Peterborough",
+ "city": "Peterborough",
+ "sourceOutcode": "PE1",
+ "scrapedAt": "2026-08-31T15:01:21.871Z"
+}

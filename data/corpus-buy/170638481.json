@@ -1,0 +1,88 @@
+{
+ "id": "170638481",
+ "mode": "buy",
+ "displayAddress": "Pandongate House, City Road, Newcastle Upon Tyne",
+ "outcode": "NE1",
+ "incode": "2AY",
+ "latitude": 54.971489,
+ "longitude": -1.605253,
+ "priceAmount": 195000,
+ "priceLabel": "£195,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/170638481",
+ "area": "Pandongate House, Newcastle Upon Tyne",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": null,
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "D",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 06/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "This immaculate three-bedroom duplex flat is in a sought-after location close to Newcastle Quayside and the city centre, offering convenient access to a wide range of amenities and attractions.\r\n\r\nRecently decorated to provide a neutral canvas, the property features an open-plan kitchen and reception room, creating a flexible living and dining space, enhancing the sense of space and practicality.\r\n\r\nThe flat provides three double bedrooms. The principal bedroom includes an en-suite shower room and built-in wardrobes, while a second double bedroom benefits from a Juliet balcony. The third double bedroom offers further flexibility for guests, home working, or additional family members. The 2nd and 3rd bedroom,  incorporate a Jack & Jill shower room, enhancing everyday usability for occupants.\r\n\r\nLocated near Newcastle’s historic Quayside, the property is well placed for riverside walks, bars, restaurants and cultural venues, as well as the wider amenities of Newcastle city centre, including shopping, cafés and leisure facilities. The area is attractive to both first time buyers and investors.\r\n\r\nPublic transport links are strong, with Newcastle Central Station approximately 10–15 minutes’ walk away, offering mainline services to London, Edinburgh and other major cities. The city’s Metro network is also accessible from Central Station, providing connections across Tyneside and to Newcastle International Airport. Various bus routes operate nearby, connecting to surrounding neighbourhoods.\r\n\r\nThe property has an EPC rating of D and falls within Council Tax Band D.\r\n\r\nPlease note that the AML fee covers the cost of carrying out the required identity and anti-money laundering checks. Once these checks have been completed, the fee cannot be refunded, even if the property purchase does not go ahead.",
+ "keyFeatures": [
+  "Attractive Duplex penthouse apartment close to Newcastle Quayside",
+  "Three double bedrooms",
+  "En-suite shower room and Jack &amp; Jill shower room",
+  "Recently decorated, security entry system and lift access",
+  "No upper chain",
+  "Leasehold - 125 Years (less three days) from 31 March 2004 - 104 years remaining",
+  "EPC rating D",
+  "Council tax band D"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/260b61111/170638481/260b61111359ce8cd1535e7afcde4749.jpeg",
+  "https://media.rightmove.co.uk/property-photo/951d84832/170638481/951d8483259b2d9d1e8668d7afc4ed3a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6dad42098/170638481/6dad4209877a496b4c21bd7b68e54ad1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/46e114551/170638481/46e11455196d3f6e913f1051149fa4a3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/22c1373c6/170638481/22c1373c662ab16d6c6dde2959206f32.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f5f608183/170638481/f5f60818314fd845183c3ecd68250660.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2370c7cd0/170638481/2370c7cd0e929cae5e5f3c251b7351a5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/26805716c/170638481/26805716c4e0bab7cca95e6ba300db9b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/52884dab5/170638481/52884dab50bf87edc5aaeabf8960215c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/89c2494ba/170638481/89c2494ba76b95dbe0e67989b0c9c029.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b7a45a242/170638481/b7a45a24285e44df49783c14e2a6d059.jpeg",
+  "https://media.rightmove.co.uk/property-photo/69631ad75/170638481/69631ad75900d49db2c4d1fd677ac892.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Manors Station",
+   "miles": 0.16950401356616673,
+   "types": [
+    "NATIONAL_TRAIN",
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Newcastle Central Station",
+   "miles": 0.5134268067456876,
+   "types": [
+    "NATIONAL_TRAIN",
+    "TRAM"
+   ]
+  },
+  {
+   "name": "St James Station",
+   "miles": 0.6583648696095249,
+   "types": [
+    "LIGHT_RAILWAY"
+   ]
+  }
+ ],
+ "agent": "Rook Matthews Sayer, Jesmond",
+ "city": "Newcastle",
+ "sourceOutcode": "NE1",
+ "scrapedAt": "2026-08-31T15:03:28.441Z"
+}

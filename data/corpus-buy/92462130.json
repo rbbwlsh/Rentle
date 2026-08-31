@@ -1,0 +1,103 @@
+{
+ "id": "92462130",
+ "mode": "buy",
+ "displayAddress": "35 (3F1) Broughton Street, Edinburgh, EH1 3JU",
+ "outcode": "EH1",
+ "incode": "3JU",
+ "latitude": 55.957175,
+ "longitude": -3.187894,
+ "priceAmount": 510000,
+ "priceLabel": "£510,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92462130",
+ "area": "Edinburgh",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": 1281,
+  "sizeSqM": 119,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 0,
+  "councilTaxBand": "E",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 27/08/2026"
+ },
+ "sizeSqFt": 1281,
+ "sizeSqM": 119,
+ "description": "Situated on the highly desirable Broughton Street, this bright and spacious top floor flat offers beautifully presented accommodation with tasteful décor throughout. Forming part of a traditional tenement, the property benefits from having shared entry with only 1 other property, creating a particularly peaceful and exclusive feel.\n\nThe accommodation comprises a generous sitting room with lovely views towards the Firth of Forth, a well-appointed kitchen/dining room, three bedrooms, including two excellent double bedrooms and a versatile third bedroom/study, along with a stylish bathroom and separate WC.\n\nThe property offers an excellent blend of traditional charm and contemporary comfort, with generous room proportions and excellent natural light throughout. Ideally positioned for the wealth of amenities on Broughton Street and within easy reach of Edinburgh city centre, this is an exceptional home for those seeking spacious city living in a highly sought-after location.\n\nLocation\n\nBroughton is conveniently located to the north-east of the city centre, within easy reach of the main retail and commercial thoroughfares of Princes Street, George Street and St James Quarter. The area offers all the convenience of city centre living combined with the benefit of good local amenities. There is an excellent range of speciality shops, boutiques, fashionable bars and restaurants on Broughton Street and nearby Elm Row is the home to the highly acclaimed delicatessen Valvona & Crolla. Nearby, the Omni Centre has numerous bars and restaurants, a Nuffield Health Fitness & Wellbeing Gym and multi-screen cinema. The delightful open green spaces of the Royal Botanic Gardens, St Mark's Park, Carlton Hill and the impressive Water of Leith Walkway and cycle path are also close by. There is an excellent bus service to the city centre and a tram terminus at York Place.\n\nExtras\n\nTo include all fitted carpets & floor coverings, curtains, curtain poles & blinds in addition to the white goods within the kitchen - oven, hob, extractor hood, fridge, freezer, washing machine & dishwasher. \n\nViewings\n\nContact VMH Solicitors 0131-622-2626 (opt 1)",
+ "keyFeatures": [
+  "Sitting room",
+  "Kitchen/dining room",
+  "2 double bedrooms",
+  "Bedroom 3/study",
+  "Bathroom &amp; separate WC",
+  "Bright &amp; well proportioned",
+  "Secure entryphone system",
+  "Shared entry with 1 other property"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/76f0106df/92462130/76f0106dfc5a2ddd07bf5029944b0dee.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1df69d67c/92462130/1df69d67c82f059b02b41812854bd40f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ea420e228/92462130/ea420e228296763c891d06daab29a452.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b48294d39/92462130/b48294d395b2738a97e784fb690b1609.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2ed4b7706/92462130/2ed4b7706951fdbc40af5499200192b7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2f86fbd70/92462130/2f86fbd7092910128b19d8dc9381cc92.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9f38723ba/92462130/9f38723ba9e6bbfcb400d3ade03d2e34.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f58ec327a/92462130/f58ec327ad137fdb6458a1782c68f6d8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1cb20fdb5/92462130/1cb20fdb553535acdbd592779e46c552.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f9d6b8688/92462130/f9d6b86885b8f9a58f248aa7927ec774.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d1217f7b1/92462130/d1217f7b16921e4b23573f11ba4b5fb2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c6246df11/92462130/c6246df11dec83244f01b98e6cb4cabe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/07505ec9e/92462130/07505ec9e04e94a8444f3738f99784b3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f007aca94/92462130/f007aca944e2389bfa39c00d3b22bea9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a5a6f90ee/92462130/a5a6f90eedb7dae1748edbde1d91457f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1a1012a57/92462130/1a1012a57c58bf6ce35b1fe3340020f0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/afc38e71e/92462130/afc38e71e7d72800270c4891acd4cabd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8a46c065d/92462130/8a46c065d07f5f432bd3bbf43dcf9780.jpeg",
+  "https://media.rightmove.co.uk/property-photo/359b05551/92462130/359b05551a3937c21125bdf3f13860e6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c3cd720a2/92462130/c3cd720a2e36d24b9ca59e8cc25d34cd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7cae96c43/92462130/7cae96c43fd0c94661aa26fa91f4e7dd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3a4e4549d/92462130/3a4e4549d35591152d40e37823b6eb6a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fcd2384b3/92462130/fcd2384b379eaa75e634e1d3a986ee87.jpeg",
+  "https://media.rightmove.co.uk/property-photo/83ad55bdf/92462130/83ad55bdf36135ca2a89bbbd4c47a3a8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dbd438055/92462130/dbd438055f0bbed44bd5d1784484b78c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/36debda77/92462130/36debda777fb8865e12c0799cdd4ea93.jpeg",
+  "https://media.rightmove.co.uk/property-photo/712f524e9/92462130/712f524e9a6793c1f5957b5aa52ed374.jpeg",
+  "https://media.rightmove.co.uk/property-photo/65b155bc7/92462130/65b155bc702aa50b2e0f14541ae15952.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9ea42ab39/92462130/9ea42ab3983998503be61067e9df2e2d.jpeg"
+ ],
+ "imageCount": 29,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.36447262198641306,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 1.4302743225241332,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 3.0218222932613585,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "VMH Solicitors, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH1",
+ "scrapedAt": "2026-08-31T16:57:51.365Z"
+}

@@ -1,0 +1,92 @@
+{
+ "id": "92106525",
+ "mode": "buy",
+ "displayAddress": "St. Helens Road, SWANSEA, West Glamorgan, SA1",
+ "outcode": "SA1",
+ "incode": "3UW",
+ "latitude": 51.61336,
+ "longitude": -3.95838,
+ "priceAmount": 140000,
+ "priceLabel": "£140,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92106525",
+ "area": "SWANSEA, West Glamorgan",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "End of Terrace",
+ "details": {
+  "propertyType": "End of Terrace",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "TBC",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 27/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Situated within easy reach of Swansea Bay Beach and the amenities of St Helens road, this three-bedroom property offers spacious and versatile accommodation, making it an ideal purchase for first-time buyers and those looking to upsize.\n\nThe property combines character and practicality, featuring an  original fireplace that adds charm to the living space. The accommodation briefly comprises three well-proportioned bedrooms, living area and the added convenience of a WC on the second floor.\n\nA standout feature of the home is the useful ground-floor basement, providing flexible additional space that could be utilised as a home office, entertainment room, hobby area, gym or simply as excellent storage.\n\nConveniently positioned for Swansea's beautiful seafront, local amenities, schools and transport links, this fantastic property offers a wonderful opportunity to enjoy coastal living with versatile accommodation throughout.\n\nPlease note that an AML fee is chargeable to the buyer once an offer is accepted to cover the cost of carrying out the required identity and anti-money laundering checks. Once these checks have been completed, the fee cannot be refunded, even if the property purchase does not go ahead.",
+ "keyFeatures": [
+  "Attractive original fireplace feature",
+  "Additional WC on the second floor",
+  "Versatile ground-floor basement",
+  "Convenient access to Swansea Bay Beach",
+  "Close to St.Helens Road and local amenities",
+  "Excellent transport links nearby"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/827a4f0ff/92106525/827a4f0ffa9ab2d4a55328cb43d7672e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/434f8d2b7/92106525/434f8d2b7f2d79dcb84e2ca471380d3d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4670418ee/92106525/4670418ee02aae3e4b4ac614ee23cae1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/61967cedd/92106525/61967ceddcc5b5d6bdefe2d8ad29ed9b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/820167148/92106525/8201671486f6bfa06100a8a3dc2da083.jpeg",
+  "https://media.rightmove.co.uk/property-photo/af5d8b0f9/92106525/af5d8b0f9dbc7351d85748a0a137d8f1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0acb6e7bb/92106525/0acb6e7bb2c1686f6f93f29ca67d71ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/37d24cbc2/92106525/37d24cbc2a87596c1ec1fffc0d8b361c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/59eed56b3/92106525/59eed56b3b80a8bf90bf2eb1bb3fdaaa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1e7b5bc09/92106525/1e7b5bc09ab9cf4e70ebed3168ec64a3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f7ba0db15/92106525/f7ba0db1534afc55f718e0139dc3b721.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f9d4e5e78/92106525/f9d4e5e789ab21fead84c65e8eb4eb08.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c7d637f0e/92106525/c7d637f0e7e8aca65912f1bbdf4429ef.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d851af611/92106525/d851af61122f5f3ea60fef3945eb4f8e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e7ec3460a/92106525/e7ec3460abf5fc35ba4651dd5739c670.jpeg",
+  "https://media.rightmove.co.uk/property-photo/db5498957/92106525/db54989576471c2add65bf1682ffafba.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aef4b8a10/92106525/aef4b8a105667705a915f861b2d83248.jpeg",
+  "https://media.rightmove.co.uk/property-photo/465b81cdd/92106525/465b81cddacea3ac7498fd03f91ab568.jpeg",
+  "https://media.rightmove.co.uk/property-photo/76c193073/92106525/76c193073abe1df68c1a236759c25187.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e994b68e6/92106525/e994b68e6970e71218c5c7851ed6f145.jpeg"
+ ],
+ "imageCount": 20,
+ "nearestStations": [
+  {
+   "name": "Swansea Station",
+   "miles": 1.111959246412933,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Gowerton Station",
+   "miles": 4.113739777584149,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Llansamlet Station",
+   "miles": 4.588562725584091,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "John Francis, Swansea",
+ "city": "Swansea",
+ "sourceOutcode": "SA1",
+ "scrapedAt": "2026-08-31T16:55:12.603Z"
+}

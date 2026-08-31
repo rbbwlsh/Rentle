@@ -1,0 +1,84 @@
+{
+ "id": "90742449",
+ "mode": "buy",
+ "displayAddress": "Rede House, Corporation Road, Middlesbrough",
+ "outcode": "TS1",
+ "incode": "1LY",
+ "latitude": 54.576222,
+ "longitude": -1.231279,
+ "priceAmount": 27500,
+ "priceLabel": "£27,500",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90742449",
+ "area": "Rede House, Middlesbrough",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": "Offers in Region of",
+  "listingUpdate": "Added on 10/07/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "**ATTENTION INVESTORS** \n\n**POTENTIAL NET YIELDS FROM 10% NET YIELD**\n\n**HANDS OFF INVESTMENT**\n\n**FULLY MANAGED**\n\nIntroducing a selection of fully managed student investment studios now available at Rede House, offering attractive net yield returns and an excellent opportunity for investors seeking a truly hands-off investment. Ideally located within easy reach of local universities and the town centre, Rede House is a popular choice with students and benefits from strong occupancy throughout the academic year. Rede House is professionally managed, with the day-to-day running of the building and studios taken care of on your behalf, making it an ideal investment for both experienced and first-time investors looking to generate income with minimal involvement.\n\nStrategically placed within a ten minute walk of Teeside University, its proximity to the university ensures a steady demand from students. Elegant self contained student studios with access to fantastic amenities like a gym, cinema room, laundry room, and common area. These studios offers students convenience and comfort, ensuring steady rental demand and attractive returns\n\nAsk about our reduced management fee offer when you purchase directly with XSell Property!!\n\nImages depicted are for illustrative purposes only. Actual properties may vary in appearance and features. We strive to represent properties accurately, but slight differences may occur. Please discuss this opportunity with one of our property consultants for accurate details.",
+ "keyFeatures": [
+  "Net Yields from 10%+",
+  "Fully Managed",
+  "Hands off Investments",
+  "Great Location",
+  "On Site gym",
+  "Utility Bills Included",
+  "Cash Buyers Only"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/7f64d63d6/90742449/7f64d63d621994981c9e554e515f0dcd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ad1a029e6/90742449/ad1a029e6854fc1e6131cd694c0ee108.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2527562fa/90742449/2527562fa0b24d8e3abe995b33a641a4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9dfeee29c/90742449/9dfeee29ca3ddb31091bbb8b1231ed97.jpeg",
+  "https://media.rightmove.co.uk/property-photo/389774d4c/90742449/389774d4c6a75a48eef2362001da6b90.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a7af82487/90742449/a7af824874da9389a8b3f61b421064de.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b1f3b665e/90742449/b1f3b665e97842802a23e9e0a06fe596.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6a5319b7d/90742449/6a5319b7dda3f1001392fd5727c1f032.jpeg",
+  "https://media.rightmove.co.uk/property-photo/41394892e/90742449/41394892e5ad7c74fa9e29982d1d35b1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/df9075724/90742449/df9075724347b5286b85ef90dbab8f03.jpeg",
+  "https://media.rightmove.co.uk/property-photo/73c55e49c/90742449/73c55e49c1b81f3607591e4c586aa1bd.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Middlesbrough Station",
+   "miles": 0.24324204359712273,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "South Bank Station",
+   "miles": 2.2403038164666405,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Marton Station",
+   "miles": 2.617607907719,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "XSELL PROPERTY LTD, Sale",
+ "city": "Middlesbrough",
+ "sourceOutcode": "TS1",
+ "scrapedAt": "2026-08-31T14:46:35.314Z"
+}

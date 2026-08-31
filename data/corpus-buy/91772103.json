@@ -1,0 +1,90 @@
+{
+ "id": "91772103",
+ "mode": "buy",
+ "displayAddress": "New Inn Hall Street, Oxford",
+ "outcode": "OX1",
+ "incode": "2DE",
+ "latitude": 51.753336,
+ "longitude": -1.260624,
+ "priceAmount": 425000,
+ "priceLabel": "£425,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91772103",
+ "area": "Oxford",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 114,
+  "annualGroundRent": 400,
+  "annualServiceCharge": 2835,
+  "councilTaxBand": "D",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 07/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A unique top-floor apartment offering stylish contemporary living in the heart of Oxford city centre\n\nOne of the standout features of this impressive property is its elevated top-floor position and incredible views, creating a wonderful sense of space and providing an attractive outlook across the surrounding cityscape.\n\nConverted to apartments in 2016, the apartment has had just one owner-occupier since new and has been immaculately maintained throughout, reflecting the exceptional care with which the property has been looked after.\n\nThe apartment features a modern open-plan living area, thoughtfully designed to provide a bright and sociable space for both relaxing and entertaining. Wooden flooring throughout the living area adds warmth and character while complementing the property's clean, contemporary finish.\n\nThe property also benefits from a spacious double bedroom, offering comfortable and well-proportioned accommodation, together with a stylish contemporary bathroom featuring modern fittings and a sleek, understated design.\n\nFurther benefits include residents’ parking, bike storage and lift access, adding valuable convenience to this superb city-centre home.\n\nSituated within a landmark development in the historic city centre, the property offers superb connectivity. Oxford railway station provides regular mainline services to London Paddington in approximately one hour, while nearby Gloucester Green coach station offers frequent routes to London Victoria and major airports including Heathrow, Gatwick, and Stansted. The property is also perfectly placed to enjoy Oxford’s outstanding amenities, including the Westgate Centre, a selection of premium retail outlets, two nearby theatres, and an array of restaurants and bars. The location further benefits from convenient access to the colleges and departments of the University of Oxford, as well as The Ashmolean Museum.",
+ "keyFeatures": [
+  "Exceptional Oxford City Centre Location",
+  "Unique Top-floor Apartment",
+  "Incredible Elevated Views",
+  "Modern Open-Plan Living Space",
+  "Spacious Double Bedroom",
+  "Contemporary Shower Room",
+  "Residents’ Parking",
+  "Convenient Lift Access"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/344f15d70/91772103/344f15d7077b86df2341c031113e7402.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8122b4f1e/91772103/8122b4f1e8f10e2c5fe3fad36876ee63.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c7c310272/91772103/c7c310272bed59c047ade04e2c65a07c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b447fbee8/91772103/b447fbee8208f4d65b1e79144ec698fd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6dbab491a/91772103/6dbab491ab880812811146635447eca6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0f28ac7fb/91772103/0f28ac7fbf7d6f2f8b51249a72330375.jpeg",
+  "https://media.rightmove.co.uk/property-photo/044b5d647/91772103/044b5d647ebf0bac9cae98762a7323f3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b092a621a/91772103/b092a621aa312458bca932690cc8c295.jpeg",
+  "https://media.rightmove.co.uk/property-photo/35a21a832/91772103/35a21a832c7f3c63ca80b928b8e6f881.jpeg",
+  "https://media.rightmove.co.uk/property-photo/423f448b2/91772103/423f448b2b2356a9c91ee112256c7300.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4ed07bee8/91772103/4ed07bee8d9e9263385a568bf26194b4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2c22e2576/91772103/2c22e2576d993294062e38cb7e3b9f33.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2af6542ce/91772103/2af6542ceb934bd89a45f62ca2bc0818.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fa6b24e9a/91772103/fa6b24e9ae5c8f83a1750b416a603d46.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a15530319/91772103/a15530319855a512185c01f809f7c962.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3f07bb456/91772103/3f07bb456c96eb14c2a368fde664f544.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Oxford Station",
+   "miles": 0.4195880789035261,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Oxford Parkway Station",
+   "miles": 3.56257389009486,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Radley Station",
+   "miles": 4.742373906414705,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Scottfraser, Summertown",
+ "city": "Oxford",
+ "sourceOutcode": "OX1",
+ "scrapedAt": "2026-08-31T14:57:48.609Z"
+}

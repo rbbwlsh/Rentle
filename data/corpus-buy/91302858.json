@@ -1,0 +1,88 @@
+{
+ "id": "91302858",
+ "mode": "buy",
+ "displayAddress": "Robinson Row, Hull",
+ "outcode": "HU1",
+ "incode": "2QX",
+ "latitude": 53.741703,
+ "longitude": -0.336921,
+ "priceAmount": 98000,
+ "priceLabel": "£98,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91302858",
+ "area": "Hull",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 60,
+  "annualGroundRent": 10,
+  "annualServiceCharge": 2160,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 14/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Offered for sale with no onward chain is this deceptively spacious first floor apartment in Merchants Warehouse, an historic and grade II listed building, situated in the heart of Hull's historic Old Town on Trinity Square, opposite Hull Minster.\n\nThe property has been redecorated throughout and with new carpets and flooring. Offering ready to move into accommodation, this wonderful property oozes charm and character and briefly comprises; to the ground floor, secure communal entry beautiful atrium with lift and stair access to all levels. The apartment has a private hallway with loft access, modern kitchen, bathroom with three-piece suite,  two double bedrooms with storage cupboard to the main and a large and bright lounge/ dining room.\n\nIdeal for first time buyers, downsizers and investors alike and with plenty of amenities on your doorstep, including Hull Minster, a range of bars and restaurants, popular Humber Street, Trinity Market and the Train Station a short walk away, this great property is sure to be popular. Contact our office to secure your viewing today!\n\nCommunal Entrance - Secure entry with intercom. Communal lobby with stairs and lift access to all floors.\n\nFirst Floor - \n\nEntrance Hallway - Private entrance into the apartment via solid door. With storage cupboard and loft access.\n\nLounge/Diner - 6.65m x 3.35m (21'9\" x 10'11\") - A bright and spacious room with multiple glazed windows flooding the space with natural light. Laminate flooring and electric heater.\n\nKitchen - 1.76m x 3.28m (5'9\" x 10'9\") - With glazed window over looking to the atrium. Fitted with a range of base and wall mounted units, laminated work surfaces, inset stainless sink sink, inset electric hob and extractor over, built in oven below and space for undercounter fridge, freezer and washing machine.\n\nBedroom One - 3.25m x 5.53m (10'7\" x 18'1\") - Generous double bedroom with glazed window, cupboard for storage, carpet flooring and electric heater.\n\nBedroom Two - 4.12m x 2.30m (13'6\" x 7'6\") - Second double bedroom with two glazed windows and additional window overlooking the atrium, carpet flooring and electric heater.\n\nBathroom - 1.78m x 2.02m (5'10\" x 6'7\") - Fitted with a three-piece suite in white, comprising panelled bath with shower over, low level WC and pedestal sink unit.\n\nExternally - Externally, the property benefits from its own allocated parking space to the side of the building and within a secure gated carpark.\n\nCouncil Tax Band - We have been advised the property is council tax band A, payable to Hull City Council.\n\nAdditional Information - Tenure:\nLeasehold - 99 years from 1 April 1986\n\nService Charge:\n£2160 per annum\n\nGround Rent:\n£10 per annum\n\nDisclaimer:\nAny information in relation to the length of lease, service charge, ground rent and council tax has been confirmed by our sellers. We would advise that any buyer make their own enquiries through their solicitors to verify that the information provided is accurate and not been subject to any change.",
+ "keyFeatures": [
+  "First floor apartment",
+  "Two generous double bedrooms",
+  "Modern kitchen",
+  "Bathroom with three-piece suite including bath",
+  "Re-decorated throughout and new carpets",
+  "Large loft space for extra storage - unusual for an apartment",
+  "Allocated parking within gated carpark",
+  "Ideal for first time buyers/ investors",
+  "No onward chain",
+  "Viewing essential"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/af107423e/91302858/af107423e7c1ca2d95d3fa35007ab950.jpeg",
+  "https://media.rightmove.co.uk/property-photo/99f8ea682/91302858/99f8ea68258560dd13bd14aa4d073fba.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa25e3beb/91302858/aa25e3bebc0daeb49f207150f61d2989.jpeg",
+  "https://media.rightmove.co.uk/property-photo/86b26dd25/91302858/86b26dd25c716ba039b2ae0df2bd7b99.jpeg",
+  "https://media.rightmove.co.uk/property-photo/54c110b1b/91302858/54c110b1bf0614bc1c4e0f91b66c8bd7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5ae4982d0/91302858/5ae4982d01ae56d5e86f4d78d7e47a88.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7ab72bc4a/91302858/7ab72bc4a2e04e05be26726de1a0ff7f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7873009fe/91302858/7873009fef3f7707bb8332bce13e15a3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa2ea4fc7/91302858/aa2ea4fc75b4567c716608f4b8089a17.jpeg",
+  "https://media.rightmove.co.uk/property-photo/34412a175/91302858/34412a1758750c48b9f29ea7b2357fe1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/76e7064bc/91302858/76e7064bc48bad03a294103c31b119ba.jpeg",
+  "https://media.rightmove.co.uk/property-photo/782db40de/91302858/782db40de804e50b9faaacc816f82e1c.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Hull Station",
+   "miles": 0.3913868028830898,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "New Holland Station",
+   "miles": 2.9110610076558068,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Barrow Haven Station",
+   "miles": 3.8094500239253826,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Riverside, Hull",
+ "city": "Hull",
+ "sourceOutcode": "HU1",
+ "scrapedAt": "2026-08-31T14:59:25.591Z"
+}

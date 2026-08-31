@@ -1,0 +1,85 @@
+{
+ "id": "91213167",
+ "mode": "buy",
+ "displayAddress": "The Arthouse, George Street, Manchester, M1 4AB",
+ "outcode": "M1",
+ "incode": "4AB",
+ "latitude": 53.4783,
+ "longitude": -2.2411,
+ "priceAmount": 120000,
+ "priceLabel": "£120,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91213167",
+ "area": "The Arthouse, Manchester",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": 354,
+  "sizeSqM": 33,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 103,
+  "annualGroundRent": 200,
+  "annualServiceCharge": 1903,
+  "councilTaxBand": "B",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 26/08/2026"
+ },
+ "sizeSqFt": 354,
+ "sizeSqM": 33,
+ "description": "Julie Twist Properties welcomes to the market this studio apartment located within the beautifully converted Arthouse in the heart of the City Centre. The property is set on the second floor and offers a an open-plan kitchen and living area which also has built-in wardrobe space and a built-in pull-down double bed. Accessed via the hallway is a three-piece bathroom suite, a storage cupboard housing the hot water tank and stairs leading up to the deck area which is perfect for extra storage space. Original features have been retained throughout, including exposed brick walls, large sash windows and wooden beams.\n\nThe Arthouse is a stone's throw from St Peter's Square Metrolink stop, offering easy access around and out of the City Centre. Piccadilly Gardens, Market Street and the Arndale Centre are all within a short walk and there is an abundance of cafes, shops and restaurants nearby for you to enjoy.\n\nGENERAL:\n\nRental Yield: 9% (based on an estimated rental value of £900pcm)\n\nService Charge: £1903 per annum (this includes Building Insurance)\n\nGround Rent: £200 per annum\n\nGround Rent Review Period: Increases every 25 years inline with RPI\n\nLease: 125 years from 29th October 2004\n\nSquare Footage: 354 sq.ft / 32.9 sq.m\n\nCouncil Tax Band: B\n\nManagement Company: Inspired Property Management",
+ "keyFeatures": [
+  "Studio Apartment",
+  "Second Floor Position",
+  "Beautifully Converted Development ",
+  "Original Features Retained Throughout",
+  "Three Piece Bathroom Suite",
+  "Centrally Located",
+  "A Stone's Throw Away From St Peters Square",
+  "Excellent Transport Links Nearby"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/8c13f8064/91213167/8c13f806491c148ac80033a6ab700352.jpeg",
+  "https://media.rightmove.co.uk/property-photo/83ab63a52/91213167/83ab63a52070f9bfd8fd296080a59480.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7ff2c7a40/91213167/7ff2c7a4041f84a0725b51388ba46c4b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/02a4d54d3/91213167/02a4d54d344e6920c93a8b50109e4514.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fba237454/91213167/fba237454e893bd06caa41a636101b08.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d62f500a/91213167/6d62f500a707c498d388b99d23c2b087.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7491f5e16/91213167/7491f5e1609d796b11b9fb08ff65b21b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/826bbd114/91213167/826bbd1140bec69145a01c852068c030.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f41de5326/91213167/f41de53260cede7cb80ca377bef29884.jpeg",
+  "https://media.rightmove.co.uk/property-photo/993aba232/91213167/993aba2321dbcfd04cd9b680321eb637.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8e04c7b85/91213167/8e04c7b85de93739add28d2b3f5f7fe4.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "St Peters Square Tram Stop",
+   "miles": 0.12348341420055803,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Mosley Street Tram Stop",
+   "miles": 0.16252162202525855,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Piccadilly Gardens Tram Stop",
+   "miles": 0.21775537687758684,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Julie Twist Properties, Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M1",
+ "scrapedAt": "2026-08-31T14:45:28.150Z"
+}

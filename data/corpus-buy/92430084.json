@@ -1,0 +1,90 @@
+{
+ "id": "92430084",
+ "mode": "buy",
+ "displayAddress": "Cardwell Street, Northwood, Stoke-on-Trent",
+ "outcode": "ST1",
+ "incode": "6PN",
+ "latitude": 53.031279,
+ "longitude": -2.161267,
+ "priceAmount": 140000,
+ "priceLabel": "£140,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92430084",
+ "area": "Northwood, Stoke-on-Trent",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "End of Terrace",
+ "details": {
+  "propertyType": "End of Terrace",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 850,
+  "sizeSqM": 79,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 26/08/2026"
+ },
+ "sizeSqFt": 850,
+ "sizeSqM": 79,
+ "description": "Heywoods Estate Agents are delighted to welcome to the sales market this charming two-bedroom end town house, situated on Cardwell Street in Northwood. Located in a popular and convenient area, this home is perfect for first-time buyers, professionals, or investors looking for a great opportunity. The property also benefits from brand new air conditioning units fitted to both the lounge and bedroom one, providing added comfort throughout the year.\n\nUpon entering, the spacious lounge and dining area provide a welcoming and airy atmosphere, ideal for both relaxation and entertaining. The lounge benefits from newly installed air conditioning, while the fitted kitchen offers ample storage and workspace, with room for appliances, making it a practical and functional space.\n\nUpstairs, the property boasts two generously sized double bedrooms, both bright and well-proportioned, offering plenty of space for storage and furnishings. Bedroom one also benefits from brand new air conditioning, creating a comfortable and pleasant space throughout the seasons. The home office/study is an added bonus, perfect for those who work from home or need a quiet space for hobbies. A family bathroom serves both bedrooms, featuring a corner bath, wash basin, and W.C.\n\nOutside, the private and enclosed rear garden is an excellent space for enjoying the outdoors, whether it's for relaxing, gardening or providing a safe area for children and pets. On-street parking is available, ensuring convenience for residents and visitors alike.\n\nThis home is ideally located close to local amenities, shops, schools, and excellent transport links, making commuting and daily life hassle-free. With strong rental potential, a move-in-ready interior and the added benefit of newly installed air conditioning, this property presents a fantastic opportunity for both homeowners and investors.\n\nViewing is highly recommended to fully appreciate all that this wonderful home has to offer. Don't miss out – contact us today to arrange a viewing!\n\nEPC Rating: E",
+ "keyFeatures": [
+  "Well Presented End Town House",
+  "Two Double Bedrooms",
+  "Spacious Lounge/Diner",
+  "Popular and Convenient Location",
+  "Fitted Kitchen with Space for Appliances",
+  "Home Office/Study",
+  "Private and Enclosed Rear Garden",
+  "Newly fitted air-conditioning units upstairs and downstairs"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1d924f3e0/92430084/1d924f3e062e2b49662d84699f8e340f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8b088c9bd/92430084/8b088c9bdde4d8903bafa5ea134a91ad.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3ed37b109/92430084/3ed37b109ad657c7b3df0a07eaf84c6d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b13915b3a/92430084/b13915b3a2b69ab398c7707184111dff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1b0a25522/92430084/1b0a25522487327ac9c38174bdc13f5f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f74eb159e/92430084/f74eb159e232d418fde3e4174bb9ae5b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5c649aff0/92430084/5c649aff0cf11957deac8624d961814d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cf5e3af5d/92430084/cf5e3af5d81d0837146185ca5423a007.jpeg",
+  "https://media.rightmove.co.uk/property-photo/81e183d43/92430084/81e183d436de661e4a77abe4e3d542d5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fa690af04/92430084/fa690af04c532523ab90a41c1f018613.jpeg",
+  "https://media.rightmove.co.uk/property-photo/db5999948/92430084/db59999489b3d8f10b613431b4b9c075.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0f649a5b2/92430084/0f649a5b20b0a5d478b5cf48ba28fa9e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/759fc6495/92430084/759fc6495aa231354d86b51e7113162c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ac12be2d/92430084/8ac12be2d20b84ee13e540a8d7a3133b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/df252cf5b/92430084/df252cf5b7ed958ecaf6517d478b0114.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1514e8ebb/92430084/1514e8ebb6df50af8e22a745cb5438c7.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Stoke-on-Trent Station",
+   "miles": 1.8075816954452621,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Longport Station",
+   "miles": 2.401215033463398,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Longton Station",
+   "miles": 3.049838858399366,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Heywoods, Newcastle-under-Lyme",
+ "city": "Stoke-on-Trent",
+ "sourceOutcode": "ST1",
+ "scrapedAt": "2026-08-31T15:00:26.927Z"
+}

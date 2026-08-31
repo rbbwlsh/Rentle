@@ -1,0 +1,91 @@
+{
+ "id": "92403720",
+ "mode": "buy",
+ "displayAddress": "Chilswell Road, Oxford, OX1",
+ "outcode": "OX1",
+ "incode": "4PQ",
+ "latitude": 51.74262,
+ "longitude": -1.257174,
+ "priceAmount": 385000,
+ "priceLabel": "£385,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92403720",
+ "area": "Oxford",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 753,
+  "sizeSqM": 70,
+  "tenureType": "SHARE_OF_FREEHOLD",
+  "yearsRemainingOnLease": 96,
+  "annualGroundRent": 30,
+  "annualServiceCharge": 1600,
+  "councilTaxBand": "D",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 26/08/2026"
+ },
+ "sizeSqFt": 753,
+ "sizeSqM": 70,
+ "description": "A well-presented two bedroom apartment situated in the sought-after area of Grandpont.\n\nThe property benefits from an allocated parking space and the added advantage of a share of the freehold.\n\nThis top-floor apartment comprises a bright and spacious open-plan kitchen, living and dining area, along with two bedrooms and a bathroom.\n\nTo the rear of the property there is a communal garden that is shared between the other four apartments in the building.\n\nChilswell Road is ideally situated for easy access to the train station and city centre, while also benefiting from a range of excellent local amenities. These include the popular Hinksey Park, which features an outdoor swimming pool, a selection of local shops, and highly regarded nursery and primary schools in Grandpont and New Hinksey.\n\nEPC Rating: C",
+ "keyFeatures": [
+  "15 minute walk to city centre",
+  "Top floor apartment",
+  "Allocated parking space",
+  "Communal area",
+  "Share of the freehold",
+  "Located near an array of excellent amenities",
+  "Walking distance to Hinksey Park"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/791cbe966/92403720/791cbe9661855a2096706626ea201edb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8fa4485f7/92403720/8fa4485f7021e113087a5dc8e70337e6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2c16ea684/92403720/2c16ea684c2c1ee1cd0a3b6b4cb9ad5e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cbde7f074/92403720/cbde7f074f53439472bb2964c0240ea2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cb028c4db/92403720/cb028c4dbbfa9029b550838bf6e716b0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1cf3b0fe8/92403720/1cf3b0fe899cd1a0ea066aece710d065.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a26470f72/92403720/a26470f7204cafda72946aaac4591256.jpeg",
+  "https://media.rightmove.co.uk/property-photo/638bcfa9a/92403720/638bcfa9af6437da6351afd77875031c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6bc7c95f5/92403720/6bc7c95f54c30718ec7212989f618169.jpeg",
+  "https://media.rightmove.co.uk/property-photo/082e532cb/92403720/082e532cb403c795025b6d361a5fa453.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb78a1e71/92403720/bb78a1e71a105b5eb1b3c41f4a0aea46.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a38e8a638/92403720/a38e8a63843bd55aee2353058f60e971.jpeg",
+  "https://media.rightmove.co.uk/property-photo/18c8e8768/92403720/18c8e876858f7933824b7a2bd627de94.jpeg",
+  "https://media.rightmove.co.uk/property-photo/068d8752d/92403720/068d8752d42735d3ee3fef86e94b29b4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/95d17a8c4/92403720/95d17a8c4e43d88f95f1e95ad06b8fc3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2a4259b00/92403720/2a4259b0051f91842ea6e8f56d680be1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/80835bdd4/92403720/80835bdd45639b81ea8531840b6f26e0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/448945271/92403720/4489452716661822e2e0b4b9eaf5e36c.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "Oxford Station",
+   "miles": 0.9369951567794612,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Radley Station",
+   "miles": 3.986755770209445,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Oxford Parkway Station",
+   "miles": 4.317969310278931,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Breckon & Breckon, Oxford",
+ "city": "Oxford",
+ "sourceOutcode": "OX1",
+ "scrapedAt": "2026-08-31T15:02:37.556Z"
+}

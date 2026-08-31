@@ -1,0 +1,84 @@
+{
+ "id": "170859272",
+ "mode": "buy",
+ "displayAddress": "Hodges Court, Grandpont, Oxford",
+ "outcode": "OX1",
+ "incode": "4NX",
+ "latitude": 51.743523,
+ "longitude": -1.25784,
+ "priceAmount": 280000,
+ "priceLabel": "£280,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/170859272",
+ "area": "Grandpont, Oxford",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 490,
+  "sizeSqM": 46,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 967,
+  "annualGroundRent": null,
+  "annualServiceCharge": 1600,
+  "councilTaxBand": "D",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 10/07/2026"
+ },
+ "sizeSqFt": 490,
+ "sizeSqM": 46,
+ "description": "A stylish and beautifully maintained one bedroom first floor apartment, complete with allocated parking and sold with no onward chain. An ideal first home, pied-à-terre or investment opportunity in one of Oxford’s most desirable central locations.\n\nSet within a well kept residential block, the apartment offers light and welcoming accommodation throughout. The entrance hall leads to a spacious sitting/dining room flooded with natural light and benefitting from bespoke built-in storage, creating an elegant and practical living space. A well appointed kitchen and modern bathroom complement the layout, alongside a generously sized double bedroom.\n\nTo the rear of the building, residents benefit from a designated private parking space and a secondary entrance directly from the parking area, adding security and day to day convenience.\n\nOccupying a prime position in Grandpont, the property enjoys a wonderful neighbourhood feel with a strong sense of community. Local highlights include a highly regarded primary school and Hinksey Park with its outdoor heated swimming pool and beautiful green spaces. Oxford city centre is an effortless half-mile stroll, placing the Westgate shopping centre, theatres, museums, restaurants and riverside walks all within minutes of the front door.\n\nA rare opportunity to acquire a low-maintenance, centrally located property with superb lifestyle benefits and immediate availability. Early viewing highly recommended.",
+ "keyFeatures": [
+  "Bright &amp; Spacious",
+  "Double Bedroom",
+  "Modern Bathroom",
+  "Allocated Parking Space",
+  "0.5 Miles from City Centre",
+  "No Onward Chain",
+  "999 Year Lease from 1995",
+  "Ground Rent: N/A",
+  "Service Charge: £1,600 PA"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/73f2cc0fb/170859272/73f2cc0fb80facd020b0b6e6984d507d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f5960888e/170859272/f5960888ea63d1fe5207b204f29dbed6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/38be230c1/170859272/38be230c179932d9c57bff85e37e26d1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b3d8ec10c/170859272/b3d8ec10c8e0615e0c40a4824b34b680.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c5f5f8812/170859272/c5f5f8812e1472edb5caccd94b198f22.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7af4e1782/170859272/7af4e178275799e751703839603eae68.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f5e1a780a/170859272/f5e1a780ae6f5e28ea01e6a6a36e79dc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7d78e142e/170859272/7d78e142efbe088e90d43baa39c33d31.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b26420166/170859272/b2642016688050936a380b8819e8c246.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Oxford Station",
+   "miles": 0.870125906612728,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Radley Station",
+   "miles": 4.05342807029837,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Oxford Parkway Station",
+   "miles": 4.251573485363738,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Scottfraser, East Oxford",
+ "city": "Oxford",
+ "sourceOutcode": "OX1",
+ "scrapedAt": "2026-08-31T14:57:50.051Z"
+}

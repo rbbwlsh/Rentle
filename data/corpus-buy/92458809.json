@@ -1,0 +1,82 @@
+{
+ "id": "92458809",
+ "mode": "buy",
+ "displayAddress": "Cross Street, Preston, Lancashire, PR1",
+ "outcode": "PR1",
+ "incode": "3AN",
+ "latitude": 53.756297,
+ "longitude": -2.700281,
+ "priceAmount": 50000,
+ "priceLabel": "£50,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92458809",
+ "area": "Preston, Lancashire",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 27/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "IMPORTANT NOTE TO POTENTIAL PURCHASERS & TENANTS: We endeavour to make our particulars accurate and reliable, however, they do not constitute or form part of an offer or any contract and none is to be relied upon as statements of representation or fact. The services, systems and appliances listed in this specification have not been tested by us and no guarantee as to their operating ability or efficiency is given. All photographs and measurements have been taken as a guide only and are not precise. Floor plans where included are not to scale and accuracy is not guaranteed. If you require clarification or further information on any points, please contact us, especially if you are traveling some distance to view. POTENTIAL PURCHASERS: Fixtures and fittings other than those mentioned are to be agreed with the seller. POTENTIAL TENANTS: All properties are available for a minimum length of time, with the exception of short term accommodation. Please contact the branch for details. A security deposit of at least one month’s rent is required. Rent is to be paid one month in advance. It is the tenant’s responsibility to insure any personal possessions. Payment of all utilities including water rates or metered supply and Council Tax is the responsibility of the tenant in most cases. \n\nPRS260561/2",
+ "keyFeatures": [
+  "Sold by the Modern Method of Sale",
+  "Subject to Terms and Conditions",
+  "Subject to a Reservation Fee",
+  "Investment Opportunity",
+  "City Centre Location",
+  "Modern Flat",
+  "One Bedroom",
+  "Open Plan Living Room",
+  "Viewing Advised!",
+  "No Chain"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c9b57be54/92458809/c9b57be54f90db8b63b1913ac16d4c06.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ec464ca32/92458809/ec464ca320e5e871a70c282db6c87b19.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9b9d233c0/92458809/9b9d233c027d4a5351ff0fc4f0537f48.jpeg",
+  "https://media.rightmove.co.uk/property-photo/77553a882/92458809/77553a882e8350788d4bf759591a20c2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/feea2f1f3/92458809/feea2f1f333d37d00cd81b6f6d442547.jpeg",
+  "https://media.rightmove.co.uk/property-photo/157cb4624/92458809/157cb4624bf4f00ec9fb4466fd16455f.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Preston Station",
+   "miles": 0.29015079378551983,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Lostock Hall Station",
+   "miles": 2.3032648947570515,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bamber Bridge Station",
+   "miles": 2.5894437214585744,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Reeds Rains, Preston",
+ "city": "Preston",
+ "sourceOutcode": "PR1",
+ "scrapedAt": "2026-08-31T14:55:43.199Z"
+}

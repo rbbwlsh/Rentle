@@ -1,0 +1,75 @@
+{
+ "id": "88966965",
+ "mode": "buy",
+ "displayAddress": "Thomas Blake Avenue, SOUTHAMPTON, Hampshire, SO14",
+ "outcode": "SO14",
+ "incode": "5DJ",
+ "latitude": 50.90102,
+ "longitude": -1.38917,
+ "priceAmount": 180000,
+ "priceLabel": "£180,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/88966965",
+ "area": "SOUTHAMPTON, Hampshire",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 119,
+  "annualGroundRent": 250,
+  "annualServiceCharge": 1788.47,
+  "councilTaxBand": "B",
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 26/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Austin & Wyatt are pleased to present this stylish one-bedroom apartment with balcony and parking.\n\nA beautifully presented and contemporary one-bedroom apartment, offering a perfect blend of comfort and convenience, making it an ideal purchase for first-time buyers, investors, or professionals.\n\nThe property features a bright and spacious open-plan living area, finished to a high standard with a sleek, modern feel throughout. Large doors lead out onto a private balcony, providing the perfect space to relax or entertain.\n\nThe kitchen is stylish and well-appointed, offering ample storage and workspace, while the double bedroom is generously sized and filled with natural light. A modern bathroom completes the interior.\n\nFurther benefits include off-street parking, secure entry, and a well-maintained development.\n\nKey Features:\n• Modern one-bedroom apartment\n• Private balcony\n• Off-street parking\n• Open-plan living space\n• Well-presented throughout\n• Ideal first-time buy or investment",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/7f771e9fb/88966965/7f771e9fba4dc4a57a6239cb2503674e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ac21c5e04/88966965/ac21c5e04581430eebbfceafc50e4ad6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a8aa07846/88966965/a8aa07846249007d2cb451ff9dcae4b8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/32ffce06c/88966965/32ffce06cfd026565f48e7fc671fd4a1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e6a6ac796/88966965/e6a6ac79610760ef1d9b35d7ede68f27.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ac2857804/88966965/ac285780413eb3785034a10c7bfdae25.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ca8383d15/88966965/ca8383d157ad969f3b14eaf30ab3606f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6b7a457a0/88966965/6b7a457a0bfbb40e9380833db4105edf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9303afe93/88966965/9303afe93dc21ecb3a60493ac12d97f5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c313aefa3/88966965/c313aefa3344c04d8326744c48615212.jpeg"
+ ],
+ "imageCount": 10,
+ "nearestStations": [
+  {
+   "name": "Woolston Station",
+   "miles": 0.5458241162042321,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Sholing Station",
+   "miles": 1.120397614732469,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Southampton Central Station",
+   "miles": 1.1776202817710109,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Austin & Wyatt, Southampton",
+ "city": "Southampton",
+ "sourceOutcode": "SO14",
+ "scrapedAt": "2026-08-31T14:57:31.253Z"
+}

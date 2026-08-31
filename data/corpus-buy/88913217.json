@@ -1,0 +1,92 @@
+{
+ "id": "88913217",
+ "mode": "buy",
+ "displayAddress": "St Georges Mill, Morledge Street, Leicester",
+ "outcode": "LE1",
+ "incode": "1TA",
+ "latitude": 52.63601,
+ "longitude": -1.12518,
+ "priceAmount": 230000,
+ "priceLabel": "£230,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/88913217",
+ "area": "Leicester",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Penthouse",
+ "details": {
+  "propertyType": "Penthouse",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 104,
+  "annualGroundRent": 150,
+  "annualServiceCharge": 5742,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 24/07/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "FULL DESCRIPTION  Spacious three bedroom apartment in the city centre with access to a parking space \n\nKITCHEN / LIVING AREA 27' 3\" x 27' 1\" (8.31m x 8.25m) Spacious open plan kitchen living area with two large windows \n\nBEDROOM 20' 3\" x 16' 3\" (6.17m x 4.95m) Large master bedroom with large window joining onto ensuite\nFully carpeted \n\nENSUITE 5' 8\" x 7' 2\" (1.73m x 2.18m) Ensuite to master bedroom with shower, sink and toilet \n\nBEDROOM 13' 8\" x 15' 2\" (4.17m x 4.62m) Large bedroom with a large window\nFully carpeted \n\nSHOWER ROOM 5' 9\" x 6' 0\" (1.75m x 1.83m) Shower room with shower toilet and sink \n\nBEDROOM 14' 3\" x 22' 7\" (4.34m x 6.88m) Spacious bedroom fully carpeted \n\nBATHROOM 7' 2\" x 7' 1\" (2.18m x 2.16m) Shower room with sink, shower over the bath and toilet",
+ "keyFeatures": [
+  "Penthouse Duplex ",
+  "Three double bedrooms",
+  "Modern kitchen with appliances",
+  "Two bathrooms ",
+  "Leicester City Council",
+  "EPC-",
+  "Statement windows ",
+  "Open plan lounge/diner",
+  "City Centre",
+  "Private parking "
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/b37f2b0a6/88913217/b37f2b0a6ee50efa6e199020cc3ad523.jpeg",
+  "https://media.rightmove.co.uk/property-photo/85ee01aad/88913217/85ee01aaddb6751d1ceac04d4b72f8a1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1d2703446/88913217/1d27034463a82ee8ed81f5f9e5fb1ad4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/22c4e4924/88913217/22c4e4924b0e12d012135b1223dbee02.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9f2e87ee2/88913217/9f2e87ee2cf788bbf96cf5e2436ec30e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cb3e6d011/88913217/cb3e6d011b058825f7b26156dbe8bf60.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ebc63abf0/88913217/ebc63abf0f455c30cc414a86c072e510.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b6d7291af/88913217/b6d7291af85cdf84854c4598baf41990.jpeg",
+  "https://media.rightmove.co.uk/property-photo/98c8978dc/88913217/98c8978dc993731aa75ce418b56a86f5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2d5edbd7f/88913217/2d5edbd7f770696f3318b82893c6a449.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4ea093085/88913217/4ea09308529949c99fdf1361e0713cf7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a04475bcb/88913217/a04475bcb5efbcffc4acbd71d95e979b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5d9fabc02/88913217/5d9fabc0238d8bd1d1349a97e947efbf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/69bcdf129/88913217/69bcdf1296f6d4c100bedadc9ccfd480.jpeg",
+  "https://media.rightmove.co.uk/property-photo/40a8401f2/88913217/40a8401f2e17383dd6f45546b0c5f39b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3d3fda4c4/88913217/3d3fda4c4e0756583fd635e186019dbb.jpeg"
+ ],
+ "imageCount": 16,
+ "nearestStations": [
+  {
+   "name": "Leicester Station",
+   "miles": 0.2845812601017239,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "South Wigston Station",
+   "miles": 3.7327619918999893,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Syston Station",
+   "miles": 4.3998844431661945,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Martin & Co, Leicester",
+ "city": "Leicester",
+ "sourceOutcode": "LE1",
+ "scrapedAt": "2026-08-31T16:52:50.148Z"
+}

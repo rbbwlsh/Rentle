@@ -1,0 +1,84 @@
+{
+ "id": "91201971",
+ "mode": "buy",
+ "displayAddress": "Lenton Road, The Park, NG7",
+ "outcode": "NG7",
+ "incode": "1DS",
+ "latitude": 52.948633,
+ "longitude": -1.161961,
+ "priceAmount": 115000,
+ "priceLabel": "£115,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91201971",
+ "area": "The Park",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": 323,
+  "sizeSqM": 30,
+  "tenureType": "SHARE_OF_FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": 1138.92,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 22/07/2026"
+ },
+ "sizeSqFt": 323,
+ "sizeSqM": 30,
+ "description": "Situated in the sought-after Park Estate, this mezzanine studio apartment is a great opportunity for investors looking for a ready-made investment. The property features a bright lounge with stairs leading to a mezzanine sleeping area, a compact kitchen with wall and base units, and a three-piece bathroom with a shower over the bath. Residents can enjoy the communal garden at the rear, along with free permit parking on the road. The current tenant is paying £695pcm representing a gross yield of 7.25%.\n\nJust a short walk from Nottingham City Centre and benefiting from excellent rail links to London St Pancras, this property enjoys one of Nottingham's most prestigious residential locations. The Park Estate, once the deer grounds of Nottingham Castle, is now a private, tranquil community known for its friendly atmosphere, professional residents, and amenities, including tennis and squash clubs. A true village within the city!\n\nEPC Rating: E",
+ "keyFeatures": [
+  "Investors Only",
+  "The tenant is paying £695pcm representing a 7.25% gross yield",
+  "Studio Apartment",
+  "Mezzanine Level Bedroom",
+  "Communal Garden",
+  "Walking Distance To City Centre",
+  "Easy access to QMC &amp; University of Nottingham",
+  "Sought After Location",
+  "Furnished Apartment"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/4d2992f66/91201971/4d2992f6639cc338f74b3408f55e83c3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6debd706f/91201971/6debd706f12f1ae460a7945f2d876cfe.jpeg",
+  "https://media.rightmove.co.uk/property-photo/24f647503/91201971/24f6475037471d8f2718a34944b9628e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3a06b39da/91201971/3a06b39dac3d56cd000f00ba0825381f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dd0a52014/91201971/dd0a520146360f1781df74020bc10f2f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7ca78371d/91201971/7ca78371d1a32eb603a7a95b4ad86351.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7d65dd4d7/91201971/7d65dd4d737815f6b2026f500ccc247a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/414a0c4ac/91201971/414a0c4acbb325338c57246e2c7c5ec3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ca01e78c9/91201971/ca01e78c92f0a7c8f54416095be3764f.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Old Market Square Tram Stop",
+   "miles": 0.5792790028704421,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Royal Centre Tram Stop",
+   "miles": 0.611560315696708,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Station St Tram Stop",
+   "miles": 0.6474567415724958,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Comfort Estates, Nottingham",
+ "city": "Nottingham",
+ "sourceOutcode": "NG7",
+ "scrapedAt": "2026-08-31T14:56:11.213Z"
+}

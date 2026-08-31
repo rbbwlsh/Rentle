@@ -1,0 +1,80 @@
+{
+ "id": "90595695",
+ "mode": "buy",
+ "displayAddress": "Friar Gate, Derby, DE1",
+ "outcode": "DE1",
+ "incode": "1HF",
+ "latitude": 52.92355,
+ "longitude": -1.48754,
+ "priceAmount": 86995,
+ "priceLabel": "£86,995",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90595695",
+ "area": "Derby",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 657,
+  "sizeSqM": 61,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": 10,
+  "annualServiceCharge": 2196.36,
+  "councilTaxBand": "A",
+  "priceQualifier": "Fixed Price",
+  "listingUpdate": "Reduced on 27/08/2026"
+ },
+ "sizeSqFt": 657,
+ "sizeSqM": 61,
+ "description": "NOW REDUCED\n\nExceptionally Presented Two-Bedroom Apartment | Friar Gate\n\n \n\nAn excellently presented two-bedroom apartment situated in the highly sought-after and convenient location of Friar Gate – ideal for first-time buyers or investors alike.\n\n \n\nThis leasehold property has 97 years remaining on the lease, with an annual lease charge of £2,196.36. It currently achieves a strong rental income of £800 per calendar month, offering excellent investment potential.\n\n \n\nSet within an established, quiet development, the apartment forms part of a small, well-regarded community of buildings, surrounded by carefully maintained communal gardens and benefiting from excellent on-site parking facilities. The accommodation features a fully fitted kitchen with included appliances – comprising a washing machine and cooker – all of which are included in the asking price.\n\n \n\nOffered for sale with vacant possession and no onward chain, enabling a smooth and timely purchase process.\n\n \n\nConveniently placed for excellent transport links with easy access to the A52 and A38, the location is also perfectly positioned for the University of Derby and Royal Derby Hospital. Within easy reach you will find a wide selection of primary and secondary schools, alongside local shops, services and all everyday amenities.\n\n EPC rating: C. Tenure: Leasehold, Length of lease (remaining): 97 years 9 months,  Mobile signal information: EE\n\nOutstanding\nO2\n\nGood\nThree\n\nOutstanding\nVodafone\n\nGood",
+ "keyFeatures": [
+  "Two Bed Apartment",
+  "Vacant Possession",
+  "Ideal For Investors Or First Time Buyers",
+  "Council Tax Band A EPC Rated C",
+  "Secure Complex With Intercom",
+  "Gas Central Heating"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/433e457da/90595695/433e457da9635f04901c786e68030431.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6cc7fd5c5/90595695/6cc7fd5c52fd1fb9cc3c3705427c34aa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b67a92414/90595695/b67a9241491884b241d8aad843275b83.jpeg",
+  "https://media.rightmove.co.uk/property-photo/887b8af05/90595695/887b8af052e2d4591d2179a147c2b3bd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/89985efdf/90595695/89985efdf7e4a170e61a36c2021a1155.jpeg",
+  "https://media.rightmove.co.uk/property-photo/96f0fc035/90595695/96f0fc0358564f126d6ee633c6c18d30.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5710caf5d/90595695/5710caf5d169250fcccb83a87d07f1b6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6740fb938/90595695/6740fb9380ff7edb4d3000f30a859ada.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Derby Station",
+   "miles": 1.1343892094069012,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Peartree Station",
+   "miles": 1.8703001732110063,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Spondon Station",
+   "miles": 3.31453883712285,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Nicholas Humphreys, Derby",
+ "city": "Derby",
+ "sourceOutcode": "DE1",
+ "scrapedAt": "2026-08-31T15:00:46.198Z"
+}

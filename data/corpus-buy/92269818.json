@@ -1,0 +1,87 @@
+{
+ "id": "92269818",
+ "mode": "buy",
+ "displayAddress": "Lime Square, City Centre, NE1",
+ "outcode": "NE1",
+ "incode": "2BA",
+ "latitude": 54.972938,
+ "longitude": -1.592974,
+ "priceAmount": 150000,
+ "priceLabel": "£150,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92269818",
+ "area": "City Centre",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 936,
+  "sizeSqM": 87,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 103,
+  "annualGroundRent": 150,
+  "annualServiceCharge": 2682.56,
+  "councilTaxBand": "D",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 21/08/2026"
+ },
+ "sizeSqFt": 936,
+ "sizeSqM": 87,
+ "description": "A stunning two-bedroom ground floor, townhouse style apartment, ideally positioned within the gated development of Lime Square on City Road, Newcastle upon Tyne. Set in a highly sought-after location between the vibrant Quayside and the ever-popular Ouseburn Valley, this beautifully presented home offers stylish, contemporary accommodation together with the convenience of allocated parking.\n\nThe property is arranged over two floors and is perfectly suited to modern living. On entering, a spacious entrance hallway provides a welcoming introduction to the home and gives access to the principal living accommodation and bathroom.\n\nAt the heart of the property is the impressive open-plan living space, thoughtfully designed to combine the lounge, dining area and kitchen into one sociable and versatile environment. The well-proportioned lounge provides an ideal space to relax, while the adjoining dining area is perfectly suited to both everyday meals and entertaining guests. The stylish fitted kitchen is complemented by a range of contemporary wall and base units, together with built in cooking appliances.\n\nAlso located on this floor is a modern and well-appointed bathroom, fitted with a white suite comprising a bath, wall-hung WC with concealed cistern and wash hand basin.\n\nTo the first floor are two generously proportioned double bedrooms, both offering comfortable and versatile accommodation with ample space for bedroom furniture. Completing the upper floor is a separate shower room, fitted with a modern shower enclosure, wall-hung WC with concealed cistern and wash hand basin.\n\nExternally, residents benefit from the security and convenience of the gated development, while the property itself comes with an allocated parking space, located within the secure underground car park, a particularly valuable feature in such a central and popular location.\n\nThe location is a major attraction, with Lime Square perfectly placed to enjoy everything Newcastle has to offer. The nearby Quayside provides an exciting mix of riverside walks, restaurants, bars and leisure facilities, while the vibrant Ouseburn Valley is renowned for its independent cafes, restaurants, cultural venues and thriving creative scene. Newcastle City Centre is also within convenient reach, offering an extensive array of shops, eateries, entertainment venues and cultural attractions.\n\nTransport connections further enhance the appeal of this property, with convenient access to Newcastle's rail and bus networks providing commuter links across the city, surrounding areas and further afield.\n\nOffering contemporary accommodation, allocated parking and an enviable city-fringe location, this impressive maisonette is likely to appeal to a wide range of purchasers. Whether you are a first-time buyer looking to take your first step onto the property ladder, a professional seeking a convenient and stylish city base, or someone looking to downsize without compromising on location, style and space, this home is sure to impress.\n\nA must-see, ready-to-move-into home in a highly convenient and sought-after Newcastle location.\n\nEPC Rating: D",
+ "keyFeatures": [
+  "Impressive Two Bedroom Townhouse Style Apartment",
+  "Stylish Kitchen",
+  "Two Modern Bathrooms",
+  "Allocated Parking Bay",
+  "Leasehold",
+  "Council Tax Band D",
+  "EPC Rating D"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/21ffe63fa/92269818/21ffe63fa95dd3565c6eed7b508ff303.jpeg",
+  "https://media.rightmove.co.uk/property-photo/997aa3551/92269818/997aa35517abc012fe3092f0e0d837a7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c74d2d567/92269818/c74d2d5671c1a46d21183c82483348ea.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6f5acd78b/92269818/6f5acd78b1c3a81d1f8195c35dd0c624.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f82d8a9fc/92269818/f82d8a9fc8845c5986221422b822180a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ef985f531/92269818/ef985f531ab34e4b87f47274d8023bc4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aa68990ee/92269818/aa68990ee82abd03fadab0f5baa5681e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/96f96b444/92269818/96f96b4441d22498e58ab24b195b7d68.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4e1b1d85a/92269818/4e1b1d85abfe0c1de173436a1148a458.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3f6f65482/92269818/3f6f6548257832b5604e8cdf9db14da4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e6e95544a/92269818/e6e95544af18456f24c142eca7439dec.png",
+  "https://media.rightmove.co.uk/property-photo/ef95332ee/92269818/ef95332eefedc3fac4ce0ed7445a0832.jpeg",
+  "https://media.rightmove.co.uk/property-photo/08112f7bc/92269818/08112f7bc9e0c875b2d197af2b83c2cf.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Manors Station",
+   "miles": 0.4791842586809357,
+   "types": [
+    "NATIONAL_TRAIN",
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Byker Metro Station",
+   "miles": 0.6971349413334834,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Jesmond Metro Station",
+   "miles": 0.7509230093258091,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Sarah Mains Residential Sales and Lettings, Newcastle",
+ "city": "Newcastle",
+ "sourceOutcode": "NE1",
+ "scrapedAt": "2026-08-31T14:58:45.534Z"
+}

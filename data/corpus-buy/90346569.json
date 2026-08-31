@@ -1,0 +1,83 @@
+{
+ "id": "90346569",
+ "mode": "buy",
+ "displayAddress": "The Squirrel Building, Colton Street, City Centre, Leicester, LE1 1QA",
+ "outcode": "LE1",
+ "incode": "1QA",
+ "latitude": 52.63405,
+ "longitude": -1.12729,
+ "priceAmount": 115000,
+ "priceLabel": "£115,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90346569",
+ "area": "City Centre, Leicester",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 980,
+  "annualGroundRent": 100,
+  "annualServiceCharge": 1800,
+  "councilTaxBand": "A",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 01/07/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "*Investors and First Time Buyer*\n\nThis sleek, modern studio apartment in the vibrant heart of Leicester City Centre offers a superb opportunity for city living at its finest. Located on the first floor of the popular Squirrel Building on Colton Street, this stylish property is perfect for professionals, students, or investors seeking a central location. Thoughtfully designed with contemporary finishes and an open-plan layout, it provides all the essentials for comfortable, low-maintenance living.\n\nKey Features:\n\nPrime City Centre Location – Positioned on Colton Street, with easy access to Leicester's best shops, restaurants, and cultural attractions.\n\nModern Studio Layout – Open-plan design with a smart, functional layout, maximizing space and natural light.\n\nContemporary Kitchen – Fully-fitted kitchen area with integrated appliances and ample storage, ideal for home cooking and entertaining.\n\nStylish Shower Room – Modern bathroom suite with a walk-in shower, sleek tiling, and quality fixtures.\n\nConvenient First Floor Position – Easily accessible, with secure entry to the building.\n\nExcellent Transport Links – Just a short walk to Leicester Train Station and main bus routes, connecting you quickly with the rest of the city and beyond.\n\nInvestment Potential – Desirable location with strong rental demand, ideal for investors seeking attractive returns.\n\nArrange a viewing today to experience this modern, city-centre lifestyle.",
+ "keyFeatures": [
+  "Shops and amenities nearby",
+  "Fitted Kitchen",
+  "Video Entry",
+  "Desirable Location",
+  "Close to City Centre",
+  "Ideal for First Time Buyer",
+  "Chain Free Sale",
+  "Investment Opportunity",
+  "Modernized",
+  "Ideal for Professionals"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/cca7a6b22/90346569/cca7a6b22d2bc741ad719005e9984611.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e3492700e/90346569/e3492700e0fdbc204b3ad5c20f90ccbb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e405341d2/90346569/e405341d29e6cd99001cd1ce2175676e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0aa450881/90346569/0aa450881899473141a3537cbd4d89b9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b45b79078/90346569/b45b79078b752483a49d331ec4290f44.jpeg",
+  "https://media.rightmove.co.uk/property-photo/edb01785c/90346569/edb01785c15eb89832849a85de0bbec4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cdafaf40c/90346569/cdafaf40c4a67fcea3e79a4d7da995f5.jpeg"
+ ],
+ "imageCount": 7,
+ "nearestStations": [
+  {
+   "name": "Leicester Station",
+   "miles": 0.19833991003873902,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "South Wigston Station",
+   "miles": 3.589753870814547,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Syston Station",
+   "miles": 4.55990493094309,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Main Estates, Evington",
+ "city": "Leicester",
+ "sourceOutcode": "LE1",
+ "scrapedAt": "2026-08-31T14:49:52.826Z"
+}

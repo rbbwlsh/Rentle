@@ -1,0 +1,77 @@
+{
+ "id": "89746692",
+ "mode": "buy",
+ "displayAddress": "Echo Building, City Centre, Sunderland, SR1",
+ "outcode": "SR1",
+ "incode": "1XH",
+ "latitude": 54.908981,
+ "longitude": -1.381404,
+ "priceAmount": 39995,
+ "priceLabel": "£39,995",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/89746692",
+ "area": "City Centre, Sunderland",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "C",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 16/06/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "INVESTMENT OPPORTUNITY\n\nModern two bedroomed city facing apartment which enjoys panoramic views across the city centre. The accommodation briefly comprises; reception hall, open plan living room with space for lounge and dining purposes into fitted kitchen, two double bedrooms - one with en-suite shower room/WC, storage facilities and bathroom/WC.\n\nPotential rental income £825 PCM.",
+ "keyFeatures": [
+  "INVESTMENT OPPORTUNITY",
+  "Tenure - Leasehold, Council Tax Band C",
+  "Excellent Central Location"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f7d693b86/89746692/f7d693b86be9e3a31ecf6d07d60ff7cb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b25158eb4/89746692/b25158eb4e989a9ca16b1a7cb9f1da93.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c1d5d691c/89746692/c1d5d691cf4cbe85ebda8aee02671237.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dda35ef8e/89746692/dda35ef8e802814970b1f2cf5edcb2a4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/430afa988/89746692/430afa988d625810d22e183c7e088db2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ba7b8128c/89746692/ba7b8128c3610b2fc48e372814b3fcb1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/248a847e4/89746692/248a847e490345ec3d92a89dfdc0eb0f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/45d2ec55d/89746692/45d2ec55d298834dfdfa572b253ffb7f.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Sunderland Station",
+   "miles": 0.17836769625787283,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "St Peter's Tram Stop",
+   "miles": 0.3006587603397169,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Park Lane Metro Station",
+   "miles": 0.5933800417874107,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Hackett Property, Sunderland",
+ "city": "Sunderland",
+ "sourceOutcode": "SR1",
+ "scrapedAt": "2026-08-31T14:58:55.866Z"
+}

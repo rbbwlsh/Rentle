@@ -1,0 +1,89 @@
+{
+ "id": "91504860",
+ "mode": "buy",
+ "displayAddress": "Longford Street, Middlesbrough",
+ "outcode": "TS1",
+ "incode": "4RR",
+ "latitude": 54.56876,
+ "longitude": -1.250811,
+ "priceAmount": 80000,
+ "priceLabel": "£80,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91504860",
+ "area": "Middlesbrough",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": null,
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 25/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Charming 2-Bedroom Terraced Home – Perfect for First-Time Buyers or Investors. Bright, open-plan layout featuring a cosy fireplace in the main lounge, seamlessly flowing into a spacious dining area complete with French doors opening onto the rear yard. Fully functional kitchen equipped with a practical range of matching base and wall units, offering ample storage and worktop space. Two well-proportioned bedrooms providing comfortable living space or a dedicated home office setup. Generous family bathroom suite complete with both a bath and an integrated shower. Private enclosed rear yard ideal for outdoor seating, situated in the convenient TS1 area close to Middlesbrough town centre, local amenities, and university links.",
+ "keyFeatures": [
+  "No Onward Chain: Offered with vacant possession for a fast, hassle-free purchase",
+  "Open-Plan Living: Spacious double reception room",
+  "Prime TS1 Location: Walking distance to Middlesbrough town centre and Teesside University.",
+  "Investment Potential: Highly sought-after rental area with excellent yield prospects",
+  "Tenure- Freehold ",
+  "Council Tax Band A "
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/4fa749cef/91504860/4fa749cef3d4e56287160be58158676e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c47822dab/91504860/c47822dab06be26ba79759f5def82cd5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f662764f6/91504860/f662764f65ead152812ddd33c826cb23.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9bfe153a6/91504860/9bfe153a673022f0e58793eb9ea6b453.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1b6970e1c/91504860/1b6970e1c7d7f86a58f6167f94292ccc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b59a99cc1/91504860/b59a99cc162f80bb8e424106a5dc56da.jpeg",
+  "https://media.rightmove.co.uk/property-photo/db61bfcde/91504860/db61bfcdecc8e5c887fe9fa35301d7a3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/183b9b591/91504860/183b9b591556936a936c92962e1d520e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0ddc7838b/91504860/0ddc7838bb0e09c2f965329355f72cc3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f61711d56/91504860/f61711d56f82a6c007a74f2262132e76.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ff295e0b5/91504860/ff295e0b5c431e6ef61230646f1ceb49.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f8f785637/91504860/f8f785637e6ca8e2247a304ca4e6cc64.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fc8412be1/91504860/fc8412be12669d014c8bc5909dbb0a1e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/36814767f/91504860/36814767f20ef012c22e2cb1f4d6ad3e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/62a78bc94/91504860/62a78bc946089f6e70bc26cb787ecb31.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ffa799ec5/91504860/ffa799ec5ea4e34c1f4bd30ef04673e8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ad479a35a/91504860/ad479a35a8e9063008b2af6f078fe3da.jpeg"
+ ],
+ "imageCount": 17,
+ "nearestStations": [
+  {
+   "name": "Middlesbrough Station",
+   "miles": 0.9622405227824091,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Thornaby Station",
+   "miles": 2.12300991790261,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Stockton Station",
+   "miles": 2.7209069195371143,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Clarke Munro, Middlesbrough",
+ "city": "Middlesbrough",
+ "sourceOutcode": "TS1",
+ "scrapedAt": "2026-08-31T14:59:03.517Z"
+}

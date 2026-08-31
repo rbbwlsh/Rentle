@@ -1,0 +1,89 @@
+{
+ "id": "88615305",
+ "mode": "buy",
+ "displayAddress": "Singleton Street, Blackpool, FY1",
+ "outcode": "FY1",
+ "incode": "5AX",
+ "latitude": 53.810232,
+ "longitude": -3.05352,
+ "priceAmount": 38000,
+ "priceLabel": "£38,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/88615305",
+ "area": "Blackpool",
+ "bedrooms": 1,
+ "bathrooms": null,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": null,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Reduced on 26/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A well-presented one bedroom apartment located in a central position moments from the seafront and many of the popular attractions. The property is offered to the market with no onward chain and is in good condition with potential for some minor refurbishments if desired, and would ideally suit first time buyers looking to get onto the property ladder or investors looking for a project to re-sell or expand their rental portfolio.\n\nThe property is accessed via a secure fob entry system, comprising an entrance hall with a storage cupboard, a bright and spacious lounge/diner, a well-appointed kitchen with appliances, a spacious double bedroom with a cupboard/wardrobe and a dressing area, and a contemporary shower room suite. There is parking available at a cost of £5 per week.\n\nThere is also another one bedroom apartment in the block available for sale via the same vendor through Express Estate Agency, which can be found here:   #/?channel=RES_BUY\n\nEarly viewing is highly recommended due to the property being realistically priced.\n\nADDITIONAL INFORMATION:\n\nCouncil Tax Band: A\n\nLocal Authority: Blackpool\n\nLease Term: 125 years from 1 January 2005\n\nGround Rent & Service Charges: £232 Per Month plus £62.50 to go to the freeholder \n\n*This information is based on information obtained via Land Registry and/or the vendor at the point of listing and will therefore need to be confirmed by a solicitor.\n\nLEGAL DISCLAIMER:\n\nThese particulars, whilst believed to be accurate are set out as a general guideline and do not constitute any part of an offer or contract. Intending Purchasers should not rely on them as statements of representation of fact, but must satisfy themselves by inspection or otherwise as to their accuracy. Please note that we have not tested any apparatus, equipment, fixtures, fittings or services including heating and so cannot verify they are in working order or fit for their purpose. Furthermore, Solicitors should confirm moveable items described in the sales particulars and, in fact, included in the sale since circumstances do change during the marketing or negotiations. Although we try to ensure accuracy, if measurements are used in this listing, they may be approximate. Therefore if intending Purchasers need accurate measurements to order carpeting or to ensure existing furniture will fit, they should take such measurements themselves. Photographs are reproduced general information and it must not be inferred that any item is included for sale with the property.\n\nTENURE\n\nTo be confirmed by the Vendor’s Solicitors\n\nPOSSESSION\n\nVacant possession upon completion\n\nVIEWING\n\nViewing strictly by appointment through The Express Estate Agency",
+ "keyFeatures": [
+  "*CASH BUYERS ONLY*",
+  "*Guide Price £38,000 - £45,000*",
+  "Offered with No Onward Chain",
+  "Spacious Double Bedroom with Storage Space",
+  "Well-Appointed Kitchen with Appliances",
+  "Secure Fob Entry System &amp; CCTV",
+  "Bright &amp; Spacious Lounge/Diner",
+  "Parking Available for £5 Per Week",
+  "Ideal for First Time Buyers &amp; Investors",
+  "Town Centre Location with Shops, Amenities &amp; Transport Links"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/bc0045909/88615305/bc00459095063299ece35bd9cbf5bcf8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3bd120965/88615305/3bd12096500d7026bde26aee00265c37.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a2be03ded/88615305/a2be03ded2356615f1190dca0170e66f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f468675a8/88615305/f468675a8301865c7d3536ce42a03bb6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/384ba606f/88615305/384ba606f08a99624b4a60beeb0f44cd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5dc49fc40/88615305/5dc49fc4053309c0d158a6dc33e6af19.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b7ddab9e1/88615305/b7ddab9e1c73912049209cd9ab8e44eb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0e4642c20/88615305/0e4642c203b78631eb9566db79db21c6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fc5f89b12/88615305/fc5f89b125e17eacdfb7f6f21d964f79.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb53a04db/88615305/bb53a04db49a321a5cf91c2066688f8e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dde7eda60/88615305/dde7eda607728211ef9794e76812df87.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8c4073c1c/88615305/8c4073c1c4d209204fd31d04b30c16cd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b45d7abea/88615305/b45d7abea62f634c0cebc79b211e1fbb.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Blackpool North Station",
+   "miles": 0.8122981538457028,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Blackpool South Station",
+   "miles": 0.8501598403364443,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Blackpool Pleasure Beach Station",
+   "miles": 1.547055338600205,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Express Estate Agency, Nationwide",
+ "city": "Blackpool",
+ "sourceOutcode": "FY1",
+ "scrapedAt": "2026-08-31T14:55:50.563Z"
+}

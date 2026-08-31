@@ -1,0 +1,77 @@
+{
+ "id": "154928051",
+ "mode": "buy",
+ "displayAddress": "Canterbury Halls, 2 Garstang Road, Preston, PR1",
+ "outcode": "PR1",
+ "incode": "1AL",
+ "latitude": 53.7655,
+ "longitude": -2.69855,
+ "priceAmount": 55000,
+ "priceLabel": "£55,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/154928051",
+ "area": "Canterbury Halls, Preston",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": null,
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 0,
+  "councilTaxBand": null,
+  "priceQualifier": "Offers in Region of",
+  "listingUpdate": "Reduced on 02/04/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "ATTENTION INVESTORS. A studio apartment in a block built just 5 years ago. Offering the student their own study room incorporating a personal shower room and kitchenette and with access to all communal facilities. Close to excellent transport links and within walking distance of UCLan. Call to arrange a viewing before it sells.\n\nA studio apartment in a purpose built student block of apartments within walking distance of UCLan and with superb transport links including bus routes on the doorstep.\n\nThe complex has superb facilities including;\n\nReception area\n\nCommunal cinema room\n\nResident only gym\n\nGarden area\n\nConcierge service desk\n\nCCTV\n\nAll rooms feature a double bed, Smart TV, fitted wardrobe, drawers, study desk, dining table and chairs and include ALL BILLS and high speed broadband.\n\nThe room is currently rented out until the end of the academic year providing a gross income of £8000 and a net income of £4486.\n\nEPC rating = B\n\nHead lease = 125 years\n\nService charge / management fees = Approximately 32% of rental income.\n\nGround rent = £275 per annum\n\nCAN ONLY BE LET TO STUDENTS VIA MANAGEMENT COMPANY.\n\nPlease contact Kingswood.\n\nFulwood Office: \n\n \n\n77 Watling Street Road, Fulwood, Preston, PR2 8EA\n\n \n\n \n\nDisclaimer:\n\nThese particulars, whilst believed to be correct, do not form any part of an offer or contract. Intending purchasers should not rely on them as statements or representation of fact. No person in this firms employment has the authority to make or give any representation or warranty in respect of the property. All measurements quoted are approximate. Although these particulars are thought to be materially correct their accuracy cannot be guaranteed and they do not form part of any contract.",
+ "keyFeatures": [
+  "Chain Free ",
+  "Ideal Investment Opportunity ",
+  "Shops And Amenities Nearby",
+  "Close To Public Transport",
+  "walking distance from Uni Campus",
+  "Studio ",
+  "Luxury Apartment Development ",
+  "Prime Investment Opportunity",
+  "Prime Position",
+  "Must Be Seen"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1b83c5476/154928051/1b83c54766e017b16e5d9793ea467e1f.png"
+ ],
+ "imageCount": 1,
+ "nearestStations": [
+  {
+   "name": "Preston Station",
+   "miles": 0.7500448701374028,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Lostock Hall Station",
+   "miles": 2.9136210858367115,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Bamber Bridge Station",
+   "miles": 3.0775727413840563,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Kingswood, Fulwood",
+ "city": "Preston",
+ "sourceOutcode": "PR1",
+ "scrapedAt": "2026-08-31T14:48:34.664Z"
+}

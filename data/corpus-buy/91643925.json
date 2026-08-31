@@ -1,0 +1,76 @@
+{
+ "id": "91643925",
+ "mode": "buy",
+ "displayAddress": "Gairn Terrace, Aberdeen",
+ "outcode": "AB10",
+ "incode": "6BB",
+ "latitude": 57.133347,
+ "longitude": -2.109783,
+ "priceAmount": 65000,
+ "priceLabel": "£65,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91643925",
+ "area": "Aberdeen",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": 366,
+  "sizeSqM": 34,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 05/08/2026"
+ },
+ "sizeSqFt": 366,
+ "sizeSqM": 34,
+ "description": "A lovely, modern studio apartment, situated in the popular residential area of Ferryhill.\nThis apartment is well presented with a generous lounge/bedroom. Fitted with a double cabinet, fold-down bed. Which can be stored away descreetly when not in use. \n\nThe kitchen is fitted with a selection of base and overhead units, which are in great condition. \nAppliances included:\nFridge\nFreezer\nWashing machine\nElectric cooker\nElectric hob\n\nThe bathroom has a white three piece suite. consisting of a pedestal wash-hand basin, toilet and bath with an overhead shower. \n\nThe apartment has excellent storage solutions with two large walk in cupboards. Benefitting from double glazing and GCH. The building is factored at a cost of £28 p.c.m\n\nLocation\nFerryhill is a lovely area, situated in the heart of Aberdeen. Excellently placed for the Duthie park, riverside walks and access to the old railway line for keen cyclists or walkers. The city centre is a fifteen minute walk from the apartment, where there are a good selection of shops and amenities. Public transport is accessible nearby too, with buses running to RGU and Aberdeen University.\n\nCouncil Tax Band: A (Aberdeen City Council)\nTenure: Freehold",
+ "keyFeatures": [
+  "Double Glazing",
+  "Fitted Bathroom",
+  "Fitted Kitchen",
+  "No Onward Chain"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/545336e8f/91643925/545336e8f256de7365e49cff5cc40961.jpeg",
+  "https://media.rightmove.co.uk/property-photo/25b890e44/91643925/25b890e44daaea6c95673fdc3dafeaee.jpeg",
+  "https://media.rightmove.co.uk/property-photo/41e4fdbf0/91643925/41e4fdbf0f5cb9875b1ab405554f0cd3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/af875b8eb/91643925/af875b8ebb7412a7b1116d3b2b747fa5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ecc1dcb00/91643925/ecc1dcb00b8ab8d58a6274c8e5cd0a9a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c7b3590cd/91643925/c7b3590cdc300f421b488936d230d2df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c713b0e91/91643925/c713b0e915184675dd9fc1ebdae059e9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/113235e30/91643925/113235e30842e402d72e8101d370d1ff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/459e06215/91643925/459e062152a6da07880db3f27cdd7521.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2fbc4edf4/91643925/2fbc4edf4260402e6b52df8094a26b6f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3f6256ccd/91643925/3f6256ccd9810e16d12fe316b651d903.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5cc62ee11/91643925/5cc62ee1168e3ec2348378953e88c4bf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/90c62769d/91643925/90c62769d534b1dd47ae9997412419c5.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Aberdeen Station",
+   "miles": 0.8236599134372411,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Portlethen Station",
+   "miles": 5.055065855552852,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Compass Estates, Livingston",
+ "city": "Aberdeen",
+ "sourceOutcode": "AB10",
+ "scrapedAt": "2026-08-31T14:54:18.692Z"
+}

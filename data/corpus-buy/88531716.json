@@ -1,0 +1,84 @@
+{
+ "id": "88531716",
+ "mode": "buy",
+ "displayAddress": "Goulden House, \nBullen Street, SW11",
+ "outcode": "SW11",
+ "incode": "3HH",
+ "latitude": 51.472277,
+ "longitude": -0.169602,
+ "priceAmount": 500000,
+ "priceLabel": "£500,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/88531716",
+ "area": "Goulden House",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": 868,
+  "sizeSqM": 81,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 84,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "C",
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Reduced on 27/08/2026"
+ },
+ "sizeSqFt": 868,
+ "sizeSqM": 81,
+ "description": "Situated within Goulden House in the heart of Battersea, this well-proportioned second floor apartment extends to approximately 868 ft2 and offers bright accommodation throughout. The property comprises a spacious reception room with direct access to a private balcony, a separate dining room/kitchen, three bedrooms, a family bathroom and an additional guest WC. The principal bedroom is generously sized, with two further bedrooms positioned off the central hallway.\n\nIdeally located for the amenities of Battersea and Clapham Junction, the property is within easy reach of shops, cafés and restaurants along St John’s Road, Northcote Road and Battersea Rise. Clapham Junction Station is approximately 0.6 miles away, providing regular services into London Victoria and Waterloo, while numerous bus routes offer convenient access across central London.\n\nSelling your property in Goulden House? Trying to find your perfect home to buy? Register with Chestertons Battersea Park to get the full picture from the experts in the Battersea Park market. \n\nOur China Desk is here for you, if Chinese is your preferred language, please get in touch via WeChat (S-ChestertonsAPAC)",
+ "keyFeatures": [
+  "3 bedroom apartment ",
+  "2 bathroom ",
+  "Private balcony",
+  "Communal gardens ",
+  "Life Access"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1681c42e0/88531716/1681c42e08f7d774e0b296582e9dae36.jpeg",
+  "https://media.rightmove.co.uk/property-photo/803ae3ed0/88531716/803ae3ed0111a290edd0c6619ee28ea2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/327547670/88531716/327547670bc713ff69addd640929daf2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/58f4bd07e/88531716/58f4bd07e3ae344074169e85cde6b80d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f90f1e2f9/88531716/f90f1e2f9309ce999d78558b12e69409.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3188079c1/88531716/3188079c1175f19494b860e74e2e8543.jpeg",
+  "https://media.rightmove.co.uk/property-photo/519be228e/88531716/519be228e10f0d19476bc2321a778a56.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9a375b499/88531716/9a375b4998d146562efd2187738488cb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ef89e116/88531716/8ef89e1163ed37be248b39605c11a6b9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/37e79c224/88531716/37e79c224cbc59be1a1b48ffe4880320.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8f646f908/88531716/8f646f908b624b8b6f7a33fbf7210e2a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/17f63d29f/88531716/17f63d29f041d16c25a29dc43cf948b8.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Clapham Junction Station",
+   "miles": 0.6044237212026458,
+   "types": [
+    "NATIONAL_TRAIN",
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Imperial Wharf Station",
+   "miles": 0.6065693795464121,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Queenstown Road (Battersea) Station",
+   "miles": 0.9862585356870682,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Chestertons, Battersea Park",
+ "city": "London",
+ "sourceOutcode": "SW11",
+ "scrapedAt": "2026-08-31T16:59:35.305Z"
+}

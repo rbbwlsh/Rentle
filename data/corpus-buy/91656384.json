@@ -1,0 +1,83 @@
+{
+ "id": "91656384",
+ "mode": "buy",
+ "displayAddress": "Springfield Road, Brighton",
+ "outcode": "BN1",
+ "incode": "6DG",
+ "latitude": 50.836921,
+ "longitude": -0.136262,
+ "priceAmount": 275000,
+ "priceLabel": "£275,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91656384",
+ "area": "Brighton",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 88,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "*GUIDE PRICE £275,000 - £325,000*\n\nSituated in the highly sought-after Preston Park area, this bright and spacious two double bedroom first-floor apartment offers well-proportioned accommodation in an excellent location, ideal for first-time buyers, professionals, investors, or those looking to upsize.\n\nThe property features a generous open-plan kitchen and reception room, creating a sociable and versatile living space that's perfect for both everyday living and entertaining. Large bay windows flood the apartment with natural light, enhancing the bright and airy feel throughout.\n\nBoth bedrooms are comfortable doubles, while the spacious family bathroom is well-appointed and serves the property with ease. High ceilings and well-balanced room proportions further contribute to the sense of space on offer.\n\nPerfectly positioned, the apartment is within easy reach of Preston Park, a wide range of local shops, cafés and everyday amenities, as well as highly regarded schools. Excellent transport links are close by, with both London Road and Brighton mainline stations providing convenient connections for commuters, while nearby bus routes offer easy access across the city.\n\nOffering generous accommodation in one of Brighton's most desirable residential locations, this superb apartment presents an excellent opportunity to enjoy city living with everything on your doorstep.",
+ "keyFeatures": [
+  "Two Bedroom First Floor Apartment",
+  "Spacious Open-Plan Kitchen &amp; Reception Room",
+  "Large Family Bathroom",
+  "Bright &amp; Airy Accommodation With Bay Windows",
+  "Sought-After Preston Park Location",
+  "Close to Excellent Schools, Amenities &amp; Mainline Stations"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/0b4a5e7c0/91656384/0b4a5e7c002924b281e19d2c89bb8243.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8d759bb2e/91656384/8d759bb2ecfb0caba3bfb18db53c4e79.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d5029fcdd/91656384/d5029fcddaae7c37a3107a1954c10264.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6f9f72900/91656384/6f9f72900404ad327f8e28cf7fd88d4d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d0aea7507/91656384/d0aea75074bcca1add804b3d560f34d8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/008ea5c68/91656384/008ea5c688da990accb8ff40fb7a0733.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3c50b9e1a/91656384/3c50b9e1a0d5bef9d223db74cb192c0c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c201c406a/91656384/c201c406aedcc237576bda3e49a55390.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3003a4dda/91656384/3003a4dda93eda08443bd76754ff6e1f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2e2bd0f4e/91656384/2e2bd0f4e63405713096251464deb0d4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/01fe4097a/91656384/01fe4097aa142cb25980615bebcf95ae.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "London Road (Brighton) Station",
+   "miles": 0.019486768671740477,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Brighton Station",
+   "miles": 0.6054109882962346,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Moulsecoomb Station",
+   "miles": 0.9984647538054597,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Lextons, Brighton & Hove",
+ "city": "Brighton",
+ "sourceOutcode": "BN1",
+ "scrapedAt": "2026-08-31T15:02:05.309Z"
+}

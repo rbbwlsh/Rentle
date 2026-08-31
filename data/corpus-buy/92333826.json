@@ -1,0 +1,64 @@
+{
+ "id": "92333826",
+ "mode": "buy",
+ "displayAddress": "Vernon Court, Northampton",
+ "outcode": "NN1",
+ "incode": "5HE",
+ "latitude": 52.238796,
+ "longitude": -0.879449,
+ "priceAmount": 129000,
+ "priceLabel": "£129,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92333826",
+ "area": "Northampton",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 963,
+  "annualGroundRent": 150,
+  "annualServiceCharge": 895,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Added on 24/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "CityRise are delighted to present this well-appointed one-bedroom apartment located within the Vernon Court development in Northampton.\n\nThe property features a modern open-plan layout, bringing together the living, dining, and kitchen areas to create a bright and functional living space. The well-proportioned double bedroom is complemented by a contemporary bathroom.\n\nIdeally positioned, Vernon Court benefits from convenient access to Northampton town centre, a wide range of local amenities, and excellent transport links, including Northampton railway station and key road connections. This highly desirable location, combined with consistent rental demand in the area, makes the apartment an attractive opportunity for investors seeking reliable returns.\n\nFor further information, including pricing and investment details, please contact our team today.\n\nRef No: 10017\n\nAbout CityRise\n\nCityRise has continued with the same ethos it was founded upon; tailor-making the best property investment solutions across the UK to suit our client’s investment goals. As a company, we adopt an authentic and personal approach whilst guiding you to the right investment. Regardless of whether you are adding to an existing portfolio, or are a first-time investor, our team of experts will be with you from start to finish. You will receive independent, professional advice whilst we search the market for the property that best suits your strategy and goals.",
+ "keyFeatures": [
+  "***INVESTORS ONLY***",
+  "Well Presented 1-Bedroom Apartment",
+  "Allocated Parking",
+  "Excellent Local Amenities",
+  "High Tenant Demand",
+  "EPC - C",
+  "Council Tax - A"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/5563a1d7d/92333826/5563a1d7d1ed65418390d1e4b9e9a5ce.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f200a9448/92333826/f200a94483eee7865e9da08bea022aad.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4b0d8a627/92333826/4b0d8a627c5aa47cc9da2270350ce5b3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4432b80a0/92333826/4432b80a0c43e904f19f14b810a78e5d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/06fbdcb80/92333826/06fbdcb8096fef8e901cce17ea8b5d2f.jpeg"
+ ],
+ "imageCount": 5,
+ "nearestStations": [
+  {
+   "name": "Northampton Station",
+   "miles": 1.1792156864648458,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "CityRise, Leeds",
+ "city": "Northampton",
+ "sourceOutcode": "NN1",
+ "scrapedAt": "2026-08-31T14:56:28.974Z"
+}

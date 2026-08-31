@@ -1,0 +1,70 @@
+{
+ "id": "92557353",
+ "mode": "buy",
+ "displayAddress": "Echo Building, West Wear Street, Sunderland, SR1",
+ "outcode": "SR1",
+ "incode": "1XH",
+ "latitude": 54.908981,
+ "longitude": -1.381404,
+ "priceAmount": 85000,
+ "priceLabel": "£85,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92557353",
+ "area": "Echo Building, Sunderland",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 1292,
+  "sizeSqM": 120,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 99,
+  "annualGroundRent": 200,
+  "annualServiceCharge": 3400,
+  "councilTaxBand": "C",
+  "priceQualifier": "Offers in Region of",
+  "listingUpdate": "Added yesterday"
+ },
+ "sizeSqFt": 1292,
+ "sizeSqM": 120,
+ "description": "**Apartment 122, Echo Building, Sunderland, SR1 1XH**\r\n\r\nStunning 2-bedroom apartment located in the heart of Sunderland, offering a luxurious living experience in a prime location. Apartment 122, Echo Building, is a beautifully designed residence, boasting modern interiors, excellent amenities, and superb connectivity.\r\n\r\n**Accommodation**\r\n\r\nThe apartment features two spacious bedrooms, each with ample storage and natural light. The master bedroom is generously proportioned, with a large window allowing for an abundance of natural light. The second bedroom provides a comfortable retreat, perfect for a home office or guest room.\r\n\r\nThe apartment benefits from two stylish bathrooms, both with high-quality fixtures and fittings. The bathrooms are designed to provide a relaxing oasis, perfect for unwinding after a long day.\r\n\r\nThe open-plan living area flows seamlessly into the kitchen, creating a spacious and sociable environment. The kitchen is equipped with high-quality appliances and ample storage, making it perfect for cooking and entertaining.\r\n\r\n**Parking and Security**\r\n\r\nApartment 122 benefits from allocated, private, and secure underground parking, providing peace of mind and added convenience. The parking area is well-lit and easily accessible, ensuring a hassle-free parking experience.\r\n\r\n**Heating and Insulation**\r\n\r\nThe apartment features electric heating, providing efficient and cost-effective warmth throughout the year. The building is well-insulated, ensuring a comfortable living environment and minimizing energy costs.\r\n\r\n**Location**\r\n\r\nThe Echo Building is situated in the heart of Sunderland, within walking distance to the city's vibrant shopping, dining, and entertainment scene. The apartment is just a short stroll from the River Wear, offering stunning views and scenic walks.\r\n\r\nThe location provides excellent connectivity, with regular bus services and Sunderland train station nearby, offering easy access to nearby cities and towns.\r\n\r\n**Additional Features**\r\n\r\n* 2 spacious bedrooms\r\n* 2 stylish bathrooms\r\n* Open-plan living area and kitchen\r\n* Allocated, private, and secure underground parking\r\n* Electric heating\r\n* Modern interiors and high-quality finishes\r\n* Prime location in the heart of Sunderland\r\n\r\n**Viewing**\r\n\r\nDon't miss the opportunity to view this exceptional apartment. Contact us today to arrange a viewing and make Apartment 122, Echo Building, Sunderland, your dream home.\r\n\r\n**Asking Price** £85000\r\n\r\nCompetitive asking price available upon request.\r\n\r\n**Contact Information**\r\n\r\nEmail: briliant.  \r\n\r\nWe look forward to hearing from you!\n\n**ENQUIRIES**\n\nFor all enquiries, viewing requests or to create your own listing please visit the Emoov website. If calling, please quote reference: S7210",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/a6372b478/92557353/a6372b478125c5adf7a6d1dd01e032e1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a3d3eb499/92557353/a3d3eb499f3ec61b803e2e7c3e71616e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3a5714a91/92557353/3a5714a91579e8ad6dd7b2de6b26d0db.jpeg",
+  "https://media.rightmove.co.uk/property-photo/144251dae/92557353/144251daeea642f5ae067fb0c88dfd6a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6eb168c11/92557353/6eb168c11eea4b000a247bb25ff69748.jpeg"
+ ],
+ "imageCount": 5,
+ "nearestStations": [
+  {
+   "name": "Sunderland Station",
+   "miles": 0.17836769625787283,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "St Peter's Tram Stop",
+   "miles": 0.3006587603397169,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Park Lane Metro Station",
+   "miles": 0.5933800417874107,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Emoov, Chelmsford",
+ "city": "Sunderland",
+ "sourceOutcode": "SR1",
+ "scrapedAt": "2026-08-31T14:58:50.054Z"
+}

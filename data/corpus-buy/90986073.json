@@ -1,0 +1,85 @@
+{
+ "id": "90986073",
+ "mode": "buy",
+ "displayAddress": "Victoria Chambers, Bowlalley Lane, Hull, HU1 1XR",
+ "outcode": "HU1",
+ "incode": "1XR",
+ "latitude": 53.821589,
+ "longitude": -0.718998,
+ "priceAmount": 85000,
+ "priceLabel": "£85,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90986073",
+ "area": "Victoria Chambers, Hull",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": 147.39,
+  "councilTaxBand": "A",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 16/07/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "INVITING OFFERS BETWEEN £85,000 AND £90,000\nFULL WALK-THROUGH VIDEO!\nA one bedroom ground floor apartment set within Victoria Chambers, in the heart of Hull’s Old Town and just off cobbled Bowlalley Lane.The accommodation includes an entrance hallway leading into the living room, with laminate flooring running through the ground floor area. From the living room, stairs lead up to an elevated kitchen area, with cooking facilities and space for a washing machine.\nThe bedroom sits to the rear and includes a feature fireplace, en-suite bathroom and walk-in dressing room.\nThis is a straightforward city centre apartment and a great starter for anyone looking to be part of a busy and popular block in Hull’s Old Town.\nWhat We Love“I love being right in the Old Town, with the character of Bowlalley Lane outside and everything feeling close by. It has a real city centre feel, but still feels like a place you can settle into easily.”\nTenureThe property is Leasehold.Ground rent : one peppercorn p.a.Service charge: £147.39 pm.Lease: 999 years from 1/1/23.management company( Pure block Management ) \nCouncil TaxCouncil Tax is payable to the Kingston Upon Hull City Council. From verbal enquiries we are advised that the property is shown in the Council Tax Property Bandings List in Valuation Band A.*\nFixtures & FittingsCertain fixtures and fittings may be purchased with the property but may be subject to separate negotiation as to price.\nDisclaimer*The agent has not had sight of confirmation documents and therefore the buyer is advised to obtain verification from their solicitor or surveyor.\nViewingsStrictly by appointment with the sole agents.\nMortgagesWe will be pleased to offer expert advice regarding a mortgage for this property, details of which are available from our Newland office. Your home is at risk if you do not keep up with repayments on a mortgage or other loan secured on it.\nValuation/Market Appraisal:Thinking of selling or struggling to sell your house? More people choose Beercocks in this region than any other agent. Book your free valuation now!\nImportant Buyer Information: To progress your offer, we are legally required to verify your identity, confirm your source of funds, and assess affordability. This process incurs a fee of £50 (inc. VAT) for sole buyers, or £100 (inc. VAT) for joint buyers, regardless of the number of individuals involved.",
+ "keyFeatures": [
+  "FULL WALK-THROUGH VIDEO!",
+  "ONE BEDROOM GROUND FLOOR APARTMENT",
+  "SET IN HULL’S OLD TOWN",
+  "OFF COBBLED BOWLALLEY LANE",
+  "ELEVATED KITCHEN AREA",
+  "BEDROOM WITH EN-SUITE BATHROOM",
+  "WALK-IN DRESSING ROOM",
+  "LEASEHOLD",
+  "COUNCIL TAX BAND A",
+  "EPC D"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c5ce60e23/90986073/c5ce60e23a79d12af64ed92285dd6025.jpeg",
+  "https://media.rightmove.co.uk/property-photo/18519432d/90986073/18519432da23cff0a398cad188cdacab.jpeg",
+  "https://media.rightmove.co.uk/property-photo/10a1a48e3/90986073/10a1a48e363c2111aec8a47f430aaa43.jpeg",
+  "https://media.rightmove.co.uk/property-photo/176e96232/90986073/176e962323b77b82b994837565aeff98.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eaa04f7c5/90986073/eaa04f7c5ddab47b9c9a819ecf68214d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c72312913/90986073/c72312913715c316b47284968cbef9bd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6e6d6a709/90986073/6e6d6a709ceaa51c4125b4545623d26c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6e17953a8/90986073/6e17953a8188212f96d76849274953a1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5ad77f330/90986073/5ad77f33013be856993b8e5f8642a943.jpeg"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Hull Station",
+   "miles": 16.208740249733218,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "New Holland Station",
+   "miles": 16.88106982057353,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cottingham Station",
+   "miles": 13.147567556029898,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Beercocks, Newland Avenue, Hull",
+ "city": "Hull",
+ "sourceOutcode": "HU1",
+ "scrapedAt": "2026-08-31T14:47:47.065Z"
+}

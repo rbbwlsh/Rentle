@@ -1,0 +1,79 @@
+{
+ "id": "92400336",
+ "mode": "buy",
+ "displayAddress": "Swan Gardens, Peterborough",
+ "outcode": "PE1",
+ "incode": "4SB",
+ "latitude": 52.59134,
+ "longitude": -0.21375,
+ "priceAmount": 240000,
+ "priceLabel": "£240,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92400336",
+ "area": "Peterborough",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Semi-Detached",
+ "details": {
+  "propertyType": "Semi-Detached",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 26/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "SUMMARY\nBased in Parnwell, this 3 bedroom semi detached Family home offers an nice quieter location in a cul de sac with a play area to the front, ideal and local to Schools and Shops, easy access to Peterborough City with its short bus route.\n\nDESCRIPTION\nSemi detached 3 bedroom family home in  Parnwell. This well presented family home is perfect if you are looking to upsize. The property boasts Driveway, cloak room, Kitchen Diner wit patio door garden access, larger Living Room with laminate  flooring, rear garden with Patio and lawn, all enclosed, 3 piece Bathroom and 2 double and one single Bedroom. This is a lovely opportunity and viewings highly recommended. No onward Chain.  Please note that an AML fee is chargeable to the buyer once an offer is accepted to cover the cost of carrying out the required identity and anti-money laundering checks. Once these checks have been completed, the fee cannot be refunded, even if the property purchase does not go ahead.\n\nLiving Room  \nGood size, laminate flooring\n\nKitchen Diner  \nPatio doors to the garden\n\nBedrooms  \n2 Doubles and a larger single\n\nBathroom  \n3 Piece\n\n1. MONEY LAUNDERING REGULATIONS: Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale.\r\n2. General: While we endeavour to make our sales particulars fair, accurate and reliable, they are only a general guide to the property and, accordingly, if there is any point which is of particular importance to you, please contact the office and we will be pleased to check the position for you, especially if you are contemplating travelling some distance to view the property.\r\n3. The measurements indicated are supplied for guidance only and as such must be considered incorrect.\r\n4. Services: Please note we have not tested the services or any of the equipment or appliances in this property, accordingly we strongly advise prospective buyers to commission their own survey or service reports before finalising their offer to purchase.\r\n5. THESE PARTICULARS ARE ISSUED IN GOOD FAITH BUT DO NOT CONSTITUTE REPRESENTATIONS OF FACT OR FORM PART OF ANY OFFER OR CONTRACT. THE MATTERS REFERRED TO IN THESE PARTICULARS SHOULD BE INDEPENDENTLY VERIFIED BY PROSPECTIVE BUYERS OR TENANTS. NEITHER SEQUENCE (UK) LIMITED NOR ANY OF ITS EMPLOYEES OR AGENTS HAS ANY AUTHORITY TO MAKE OR GIVE ANY REPRESENTATION OR WARRANTY WHATEVER IN RELATION TO THIS PROPERTY.",
+ "keyFeatures": [
+  "3 Bedroom Semi Detached Family Home in Parnwell ",
+  "Well presented",
+  "Enclosed rear Garden, Drive way Parking ",
+  "Quiet spot in a cul de sac ",
+  "Easy access to local Schools and shops  ",
+  "Short bus route to the City ",
+  "No Onward Chain ",
+  "Previous let property with EICR and Gas Safety "
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/f539dc87d/92400336/f539dc87d0d65c8d90c5b075ab1ceb03.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cca984590/92400336/cca984590350426bb3969a26ed535a29.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a32cbd31d/92400336/a32cbd31d6ce2175b90e21fb0dde773e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/28e7dd8f8/92400336/28e7dd8f8701913953530af1b91ab84b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5583be4ce/92400336/5583be4ce421039f91be2b02ff022025.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0ae5f408b/92400336/0ae5f408b574fc88f6a857d1551911b0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/282cb89ed/92400336/282cb89ed9a6d950535fd815fe75b063.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6c0c032ad/92400336/6c0c032ad2fecac96097c5f0b89cd826.jpeg",
+  "https://media.rightmove.co.uk/property-photo/351001068/92400336/351001068810d0ef70c9e99a5b614b05.jpeg",
+  "https://media.rightmove.co.uk/property-photo/289803a5f/92400336/289803a5fbdee350356bd9c1fbc9340e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/02e42e51c/92400336/02e42e51ca8e15db1e40921630e13683.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aeeed651f/92400336/aeeed651f71b1bf10339855b78c94fc3.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "Peterborough Station",
+   "miles": 1.9178155147094005,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Whittlesea Station",
+   "miles": 4.939234025515557,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "William H. Brown, Peterborough",
+ "city": "Peterborough",
+ "sourceOutcode": "PE1",
+ "scrapedAt": "2026-08-31T16:53:36.645Z"
+}

@@ -1,0 +1,88 @@
+{
+ "id": "92533281",
+ "mode": "buy",
+ "displayAddress": "Monk Bridge Place, Leeds, West Yorkshire",
+ "outcode": "LS6",
+ "incode": "4HN",
+ "latitude": 53.826852,
+ "longitude": -1.568919,
+ "priceAmount": 230000,
+ "priceLabel": "£230,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92533281",
+ "area": "Leeds, West Yorkshire",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 29/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Extensively improved by the current owner, with a new kitchen, decoration and flooring. This larger than average, end terraced home, is filled with light and features a very generous open plan living / dining / kitchen and three double bedrooms.  \n\nLocated in a very convenient part of Meanwood, a wealth of amenities are on your doorstep.  There are cafes, bars, restaurants and shops including Waitrose and Aldi supermarkets a short walk away.  Vibrant Headingley is close by. The green spaces of Meanwood Park and the Meanwood Valley Trail are also a short walk away.   There is excellent bus and road transport to Leeds city centre and the surrounding areas along Meanwood Road and around the outer ring road. \n\nThe neutrally decorated accommodation over four floors comprises; A very spacious open plan living / dining / kitchen with newly fitted kitchen on the ground floor.  To the first floor is a large double bedroom and a shower room.  On the second floor are two further double bedrooms both with dormer windows.  There is also a useful storage basement. \n\nOffered with no onward chain. Viewing is advised to appreciate the space on offer.\n\nAnti-Money Laundering (AML) Checks - As part of making an offer, we’re required by law to complete Anti-Money Laundering (AML) checks to confirm the identity of all purchasers. To cover the cost of this process, a fee of £48 inc VAT per buyer is payable when your offer is accepted. This is a standard requirement for all buyers and helps us ensure your offer can be progressed as quickly and smoothly as possible.",
+ "keyFeatures": [
+  "Three double bedroom",
+  "Larger than average",
+  "End terraced home",
+  "Open plan living/dining/kitchen",
+  "New fitted kitchen",
+  "Recently decorated, new flooring",
+  "Lovely sunny home",
+  "No onward chain"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/784f452f7/92533281/784f452f7ca90a6c0fb37ce2b2677123.jpeg",
+  "https://media.rightmove.co.uk/property-photo/77f439ec7/92533281/77f439ec721b0cfeff056a8f333544c3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9ca6673e5/92533281/9ca6673e592e5f39071c920db8927752.jpeg",
+  "https://media.rightmove.co.uk/property-photo/86a912b8a/92533281/86a912b8a5b506295c6871fdf7b34418.jpeg",
+  "https://media.rightmove.co.uk/property-photo/02b077338/92533281/02b077338a91e0574272287860672426.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7b368a904/92533281/7b368a9042025f19d35583c9ec14a83b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8a0027fc4/92533281/8a0027fc4430f794d9c69ecca72fdeeb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3835addc2/92533281/3835addc26ce0534f313690bdc4d04a2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1bbcd351f/92533281/1bbcd351ff9b8756a61001d288abd2c5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/053b00267/92533281/053b0026795d0a73d7364eaa51d72450.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7177320ae/92533281/7177320ae1dcd77ee559f780607c433e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b3252f4ea/92533281/b3252f4eacb6968083c6041730ad22df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ab6e84623/92533281/ab6e846237352846093a6ec332a727df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2d3459576/92533281/2d345957628518625ee7b7ee25bca3ce.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Burley Park Station",
+   "miles": 1.0948293814663794,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 1.2002243504290195,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Kirkstall Forge Station",
+   "miles": 2.195730021423794,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Manning Stainton, Headingley",
+ "city": "Leeds",
+ "sourceOutcode": "LS6",
+ "scrapedAt": "2026-08-31T16:58:06.169Z"
+}

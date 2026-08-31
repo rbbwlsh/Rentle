@@ -1,0 +1,89 @@
+{
+ "id": "92555079",
+ "mode": "buy",
+ "displayAddress": "Orbit Street, Adamsdown, Cardiff",
+ "outcode": "CF24",
+ "incode": "0JX",
+ "latitude": 51.484825,
+ "longitude": -3.16035,
+ "priceAmount": 200000,
+ "priceLabel": "£200,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92555079",
+ "area": "Adamsdown, Cardiff",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Terraced",
+ "details": {
+  "propertyType": "Terraced",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 671,
+  "sizeSqM": 62,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "C",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added yesterday"
+ },
+ "sizeSqFt": 671,
+ "sizeSqM": 62,
+ "description": "** Offers Over £200,000 ** Jeffrey Ross are pleased to bring to the market this cottage style two bedroom home. The property benefits from entrance hall, lounge with wood burner, dining room, kitchen, pantry and bathroom to the ground floor and to the first floor there are two double bedrooms. Outside there is a beautiful enclosed rear garden.\n\nSituated in a prime spot with easy access to local shops and a short walk to Cardiff City Centre.\n\nCottage style period two bedroom home with beautiful garden.\n\nEntrance Hall - \n\nLounge - 3.00m x 2.90m  (9'10 x 9'6 ) - \n\nDining Room - 4.04m x 3.10m (13'3 x 10'2) - \n\nKitchen - 2.18m x 3.25m (7'2 x 10'8) - \n\nBathroom - \n\nBedroom One - 4.04m x 2.90m (13'3 x 9'6) - \n\nBedroom Two - 3.15m x 3.10m  (10'4 x 10'2 ) - \n\nGarden - \n\nTenure - Freehold - This is to be confirmed with your legal representative\n\nCouncil Tax - Band C\n\nSchool Catchment - Stacey Primary School\nWillows High School (year 2024-25\n\nYsgol Glan Morfa (year 2024-25)\nYsgol Gyfun Gymraeg Bro Edern (year 2024-25)\n\nCosy cottage like, with original layout. Multi fuel burner installed. Small tranquil mature garden. \nLovely street, great neighbours. Excellent location walkable access to all the main areas of interest in \nCardiff. Great transport links",
+ "keyFeatures": [
+  "Sq Ft",
+  "Period Features",
+  "Pantry",
+  "Beautiful Enclosed Rear Garden",
+  "Cottage Style"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/02bb16804/92555079/02bb1680460bbb19295d832f52208e6c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/052e72b26/92555079/052e72b26ef6ad8993e1d54ec3a00613.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b9ec74655/92555079/b9ec74655e9f32fd4b7f3113672cf020.jpeg",
+  "https://media.rightmove.co.uk/property-photo/726d73cff/92555079/726d73cff09afd3037bea97cc0155b65.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ef5aa618f/92555079/ef5aa618fbd9090812dc933981c6eb3c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4cf461751/92555079/4cf461751af8b6fdf61e039df26fffaf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/88d7d90e3/92555079/88d7d90e3729b35ac68a5301dccb9ca4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b615b4723/92555079/b615b47237ddae2775c586f07638ced5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/33e3766d6/92555079/33e3766d61406fcb2bd66b8699968352.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5c72ba3c5/92555079/5c72ba3c58211dbef67f3374ff9780da.jpeg",
+  "https://media.rightmove.co.uk/property-photo/15c2a435b/92555079/15c2a435b5f1682d518ef02a27869dcf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f0d9dbe35/92555079/f0d9dbe35b265ef30653f68cc2ab2541.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bff7e86ed/92555079/bff7e86edc8eee05eab9309ed416613c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/df9c9f786/92555079/df9c9f786a5aea701d872967d9b12fd6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8e6eb3167/92555079/8e6eb31677d077d2b132f268ed733e3c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d103f0333/92555079/d103f033333acffe784e12524f0b0a7b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3ca4a3fc7/92555079/3ca4a3fc78c48841000a9f4394ef503b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/589cec4fb/92555079/589cec4fbaa630f3ba274b71fecb552b.jpeg"
+ ],
+ "imageCount": 18,
+ "nearestStations": [
+  {
+   "name": "Cardiff Queen Street Station",
+   "miles": 0.4808656865332941,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cathays Station",
+   "miles": 0.8736068646187084,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Cardiff Central Station",
+   "miles": 1.0034735934887589,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Jeffrey Ross, Roath",
+ "city": "Cardiff",
+ "sourceOutcode": "CF24",
+ "scrapedAt": "2026-08-31T16:56:53.377Z"
+}

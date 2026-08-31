@@ -1,0 +1,95 @@
+{
+ "id": "92554572",
+ "mode": "buy",
+ "displayAddress": "Warley Road, Blackpool, FY1",
+ "outcode": "FY1",
+ "incode": "2RP",
+ "latitude": 53.831274,
+ "longitude": -3.046298,
+ "priceAmount": 260000,
+ "priceLabel": "£260,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92554572",
+ "area": "Blackpool",
+ "bedrooms": 3,
+ "bathrooms": 3,
+ "propertySubType": "Detached Bungalow",
+ "details": {
+  "propertyType": "Detached Bungalow",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "sizeSqFt": 1453,
+  "sizeSqM": 135,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "D",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added yesterday"
+ },
+ "sizeSqFt": 1453,
+ "sizeSqM": 135,
+ "description": "This well presented three bedroom detached dormer bungalow is situated in a highly sought after residential location, offering spacious and versatile accommodation ideally suited to a range of buyers. The property opens with an inviting entrance vestibule leading into a welcoming hallway, which provides access to the main living spaces. The generous lounge is bright and comfortable, complemented by a dining room that is perfect for entertaining or family meals. The modern kitchen features integrated appliances and ample storage, with an adjacent utility room for added convenience. A ground floor double bedroom benefits from fitted wardrobes, while the stylish family bathroom is finished to a high standard. The ground floor also boasts a contemporary wet room and a conservatory, which adds valuable additional living space and can be enjoyed all year round. Upstairs, the landing leads to two further double bedrooms, one of which enjoys the luxury of an en-suite bathroom, providing privacy and comfort for guests or family members. Throughout the home, double glazing and gas central heating ensure a warm and energy efficient environment. Additional practical features include a garage and a shared driveway with space for multiple vehicles, making parking straightforward for residents and visitors alike. The property’s thoughtful layout, modern fixtures, and attention to detail combine to create a home that is both functional and stylish. With its desirable location, quality finishes, and flexible accommodation, this detached dormer bungalow represents an exceptional opportunity for those seeking a comfortable and contemporary lifestyle. Early viewing is highly recommended to fully appreciate all that this impressive home has to offer.\nEPC Rating: D",
+ "keyFeatures": [
+  "Well Presented Detached Dormer Bungalow In A Sought After Residential Location",
+  "Entrance Vestibule, Hallway, Lounge, Dining Room, Kitchen, Utility Room, Wet Room",
+  "Conservatory, Ground Floor Double Bedroom (Fitted Wardrobes), Ground Floor Family Bathroom",
+  "Landing, 2 Double Bedrooms (1 En-Suite Bathroom)",
+  "North West Facing Private And Enclosed Rear Garden",
+  "Garage and Shared Driveway For Multiple Vehicles",
+  "Double Glazing, Gas Central Heating, Integrated Appliances In The Kitchen, Modern Bathroom"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/285964ddf/92554572/285964ddf3596b29f7b0a106dae4049b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ab41a19b/92554572/8ab41a19b07488c560fa639281559fdf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/62016219c/92554572/62016219cb9c80e4835d24a9e0778a94.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2eb22339e/92554572/2eb22339e299e381cf6e22bba1a12baa.jpeg",
+  "https://media.rightmove.co.uk/property-photo/678a6d844/92554572/678a6d84475f13654f98699b91520d65.jpeg",
+  "https://media.rightmove.co.uk/property-photo/214510c57/92554572/214510c578b65b856d3f341701c013d9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5596fa85d/92554572/5596fa85d2328558554cfe5efa7819ea.jpeg",
+  "https://media.rightmove.co.uk/property-photo/148809fbd/92554572/148809fbda0d5b91810f1cfd7363710d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/014ccd4a0/92554572/014ccd4a0a55ca36064813d3c76c6594.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8b587871a/92554572/8b587871a7c59ae7b62db559bc77dacb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3e14e62d1/92554572/3e14e62d1b1b5ee0697b10c6da4bccfb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/29ae68912/92554572/29ae68912830ac854005bad6ef1ab20e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a10a1e527/92554572/a10a1e5275a267cf59578d18397b89f0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c20571553/92554572/c205715538df1f5bbcfa9843436cdaca.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d331afdee/92554572/d331afdeecd03cd84d492f4dc2cc96ae.jpeg",
+  "https://media.rightmove.co.uk/property-photo/38ec214aa/92554572/38ec214aa3ea6531988aa334d620a0e3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a8c01f84a/92554572/a8c01f84a3874c0fa357da33f2aa86de.jpeg",
+  "https://media.rightmove.co.uk/property-photo/44591b280/92554572/44591b280c41103a55d8c2d602343cff.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bfa39f954/92554572/bfa39f954cce2d5d4b9c2e00873e00bf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0784c87cb/92554572/0784c87cb26f4e15832ea9aa8550d0fd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7054fdda8/92554572/7054fdda83d7f5af0af510bfbd2e4e61.jpeg",
+  "https://media.rightmove.co.uk/property-photo/004e884ca/92554572/004e884caaef0c9fce5c716298505e6c.jpeg"
+ ],
+ "imageCount": 22,
+ "nearestStations": [
+  {
+   "name": "Layton Station",
+   "miles": 0.6892038977092021,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Blackpool North Station",
+   "miles": 0.6731207058687492,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Blackpool South Station",
+   "miles": 2.2868960580392876,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Stephen Tew Estate Agents, Blackpool",
+ "city": "Blackpool",
+ "sourceOutcode": "FY1",
+ "scrapedAt": "2026-08-31T16:52:15.384Z"
+}

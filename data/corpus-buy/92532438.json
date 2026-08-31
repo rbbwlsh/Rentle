@@ -1,0 +1,81 @@
+{
+ "id": "92532438",
+ "mode": "buy",
+ "displayAddress": "Manchester, (M1)",
+ "outcode": "M1",
+ "incode": "3NB",
+ "latitude": 53.477157,
+ "longitude": -2.237068,
+ "priceAmount": 400000,
+ "priceLabel": "£400,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92532438",
+ "area": "Manchester",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": null,
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Overview\n\nA spacious two-bedroom, two-bathroom apartment located in M1, Manchester, offering contemporary city-centre living and an attractive investment opportunity. With reservations available from just £2,500, a projected 6% gross rental yield, 5% net rental yield and strong local rental demand, this property is ideal for investors seeking a high-quality home with excellent long-term potential.\n\nKey Features:\n\n• 2-Bedroom, 2-Bathroom Apartment\n• Reserve from £2,500\n• 15% on Exchange\n• 6% Gross Rental Yield\n• 5% Net Rental Yield\n• Strong Rental Demand\n• Premium M1 Manchester Location\n\nThe Investment\n\nThis two-bedroom, two-bathroom apartment presents an excellent investment opportunity, offering a projected 6% gross rental yield and 5% net rental yield.\n\nInvestors can reserve from just £2,500, followed by 15% payable on exchange, providing an accessible investment structure with attractive projected rental returns and strong long-term potential.\n\nThe Location\n\nSituated in M1, Manchester, the development benefits from a premium and highly sought-after city-centre location, offering excellent access to major employment hubs, Manchester's business district, universities, shopping destinations, restaurants, bars and entertainment venues.\n\nM1 benefits from strong rental demand, particularly from professionals and students seeking convenient city-centre accommodation. Excellent transport connections and Manchester's continued economic growth and regeneration further enhance the area's appeal to both residents and investors.\n\nThe Apartments\n\nThe development offers contemporary two-bedroom, two-bathroom apartments designed for modern city living. Each home features stylish interiors, spacious layouts and high-quality finishes, creating desirable living spaces for professionals, sharers, families and investors.\n\nThe two-bathroom layout provides additional convenience and privacy, making these apartments particularly attractive to sharers and professional tenants.\n\nThe Development\n\nDesigned with modern lifestyles in mind, the development offers high-quality apartments in a premium M1 location. Residents benefit from a range of premium on-site amenities, including:\n\n• Fully Equipped Gym\n• Residents’ Lounge\n• Co-Working Spaces\n• Concierge Service\n• Rooftop Garden\n\nThe combination of contemporary design, premium resident facilities, excellent city-centre connectivity and strong rental demand creates a desirable living environment for residents while providing investors with an attractive opportunity in Manchester's growing property market.\n\nWhy Invest?\n\nM1 offers strong potential for property investors, supported by Manchester's continued economic growth, regeneration and high demand for quality city-centre rental accommodation.\n\nInvestment highlights include:\n\n• 2-Bedroom, 2-Bathroom Apartment\n• 6% Gross Rental Yield\n• 5% Net Rental Yield\n• Reserve from £2,500\n• 15% on Exchange\n• Strong Rental Demand\n• Premium M1 Manchester Location\n• Strong Long-Term Investment Potential\n• Fully Equipped Gym\n• Residents’ Lounge\n• Co-Working Spaces\n• Concierge Service\n• Rooftop Garden\n\nSecure Your Investment\n\nEnquire today to secure your two-bedroom, two-bathroom apartment in M1, Manchester and receive a full investment pack, including pricing, payment terms, floor plans and projected returns.",
+ "keyFeatures": [
+  "2-Bedroom, 2-Bathroom Apartment\n",
+  "6% Gross Rental Yield\n",
+  "5% Net Rental Yield\n",
+  "Reserve from £2,500\n",
+  "15% on Exchange\n",
+  "Strong Rental Demand\n",
+  "Premium M1 Manchester Location\n"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/3823aa219/92532438/3823aa219e6a21713388b607f7a07b9c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a021eb525/92532438/a021eb5254c098de1573d17026d0c5a7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cb0761077/92532438/cb076107702a81a5a659919a78e44df1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bf5057559/92532438/bf505755989dd41126c0ec84503a09c4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6518e8471/92532438/6518e8471936024011084454265a3f8f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6fcd04155/92532438/6fcd041554d7cfcad98b90a64f302979.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bdcbbb9ac/92532438/bdcbbb9acb14891d2461c5df0f23ef26.jpeg",
+  "https://media.rightmove.co.uk/property-photo/aca6b1099/92532438/aca6b1099d393159199662b81c67934a.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Piccadilly Gardens Tram Stop",
+   "miles": 0.19868112234297877,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Mosley Street Tram Stop",
+   "miles": 0.25037436708542304,
+   "types": [
+    "TRAM"
+   ]
+  },
+  {
+   "name": "St Peters Square Tram Stop",
+   "miles": 0.28414234503407637,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "TK Property Group Ltd, Covering Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M1",
+ "scrapedAt": "2026-08-31T14:45:39.707Z"
+}

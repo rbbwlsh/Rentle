@@ -1,0 +1,77 @@
+{
+ "id": "90617457",
+ "mode": "buy",
+ "displayAddress": "Naventis Court, Singleton Street, Blackpool",
+ "outcode": "FY1",
+ "incode": "5AX",
+ "latitude": 53.81017,
+ "longitude": -3.0536,
+ "priceAmount": 39950,
+ "priceLabel": "£39,950",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90617457",
+ "area": "Blackpool",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "A",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 22/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": ". PURPOSE BUILT SECOND FLOOR FLAT\n. TWO BEDROOMS\n. UPVC DOUBLE GLAZING & ELECTRIC HEATING\n. WELL PRESENTED THROUGHOUT\n. ALLOCATED PARKING SPACE\n. MODERN KITCHEN & BATHROOM\n. TENANTED AND PRODUCING £600 PER CALENDAR MONTH\n\nDESCRIPTION  This modern spacious purpose – built, two bedroom second floor flat is positioned facing the front of the building on a south facing corner position which attracts natural light and occupies a convenient position within easy reach of the promenade and Blackpool town centre with all its facilities. Currently tenanted, the flat is being sold as an investment opportunity and the tenant currently pays £600 per calendar month. The accommodation features: communal entrance hall with security intercom, lift and stairs to the second floor, landing, entrance hall, bright open plan lounge / kitchen with white units, two bedrooms and a bathroom and WC with white suite. Outside underneath the block is an allocated parking space.\n\nLOCATION    Proceeding towards the promenade along Chapel Street, turn left into Foxhall Road, left into York Street and right into Singleton Street.\n\nThe accommodation comprises:-\n\nON THE GROUND FLOOR\n\nCOMMUNAL ENTRANCE HALL  Security intercom lift and stairs to second floor.  \n\nON THE SECOND FLOOR\n\nLANDING\n\nENTRANCE HALL  Storage cupboards\n\nOPEN PLAN LOUNGE / KITCHEN    15’4 X 12’6. Fitted with a range of white base units and worktops with bevelled edges incorporating a 1 ½ bowl single drain stainless steel sink unit with mixer tap over, electric cooker point, plumbing for washing machine, tiled splashback, matching eye level cupboards, electric radiator, and 2 UPVC double glazed windows.\n\nBEDROOM NO 1   10’2 X 7’1. UPVC double glazed window and radiator.\n\nBEDROOM NO 2   9’5 X 7’6. UPVC double glazed window and radiator.\n\nBATHROOM & W.C  Fitted with a three piece suite comprising panelled bath with shower over, pedestal wash hand basin, WC – low suite and laminate walls.\n\nOUTSIDE\n\nALLOCATED PARKING SPACE – \n\nSERVICES    Mains electricity and drainage connected. \n\nNEW INSULATED DIRECT FEED HOT WATER CYLINDER TANK & NEW CONSUMER UNIT WITH MAINS SMOKE ALARMS\n\nTENURE    Leasehold – 104 years remaining on the lease.\n\nSERVICE CHARGE   Approx. £215 per month.\n\nVIEWINGS  Only by prior appointment through Duncan Raistrick Estate Agents. Tel:-   – open 7 days a week. \n\nCOUNCIL TAX BAND A\n\nEPC RATING:- D",
+ "keyFeatures": [
+  "2 BED 2ND FLOOR FLAT",
+  "UPVC DG AND ELECTRIC HEATING",
+  "WELL LOCATED ",
+  "PARKING SPACE ",
+  "CURRENTLY TENATED PRODUCING £600 PCM"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/66843ad88/90617457/66843ad885aea4135ae97d038f069c47.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1bb5d47a2/90617457/1bb5d47a29e5b12ea3dfa122d3d23b6c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/89047957c/90617457/89047957cd49a07ed6be0b153fad0cd6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7791e8c48/90617457/7791e8c48810b9c9956d0a50ecb454b4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7ff4bad84/90617457/7ff4bad84bc7e4bcf41f8cd04aaa527b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4e50b5a86/90617457/4e50b5a860c8c4f6644f522af45ef6d9.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Blackpool North Station",
+   "miles": 0.81718499640773,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Blackpool South Station",
+   "miles": 0.8467176466947328,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Blackpool Pleasure Beach Station",
+   "miles": 1.5427200780922468,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Duncan Raistrick, Blackpool",
+ "city": "Blackpool",
+ "sourceOutcode": "FY1",
+ "scrapedAt": "2026-08-31T15:00:00.271Z"
+}

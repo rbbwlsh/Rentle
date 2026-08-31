@@ -1,0 +1,84 @@
+{
+ "id": "92463801",
+ "mode": "buy",
+ "displayAddress": "Forth Banks, Quayside, NE1",
+ "outcode": "NE1",
+ "incode": "3PN",
+ "latitude": 54.965302,
+ "longitude": -1.615838,
+ "priceAmount": 100000,
+ "priceLabel": "£100,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92463801",
+ "area": "Forth Banks, Quayside",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 797,
+  "sizeSqM": 74,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 106,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "C",
+  "priceQualifier": "Offers in Excess of",
+  "listingUpdate": "Added on 27/08/2026"
+ },
+ "sizeSqFt": 797,
+ "sizeSqM": 74,
+ "description": "A stunning two bedroom apartment offering beautifully presented and contemporary accommodation, ideally positioned within the sought after Forth Banks Tower development. The property provides stylish open plan living and is ready to move straight into, making it an excellent choice for first-time buyers, professionals, investors or those looking to downsize.\n\nThe impressive open plan living space forms the heart of the apartment, incorporating a spacious lounge/diner and modern fitted kitchen. The lounge/diner benefits floor to ceiling windows which increase the introduction of natural light to the room and also provide a pleasant outlook. The generous proportions offer an excellent space for both relaxing and entertaining.\n\nThe kitchen is well equipped with a range of modern fitted units, complemented by built-in cooking appliances and ample preparation and storage space. A central island with an integrated breakfast bar creates a practical and sociable focal point, ideal for casual dining or enjoying a morning coffee.\n\nThere are two well proportioned double bedrooms, providing comfortable accommodation for residents and guests alike. The bathroom is fitted with a three piece suite comprising a bath with shower facility over, WC and wash hand basin set within a useful vanity storage unit.\n\nExternally, the apartment benefits from allocated parking, providing a valuable convenience in this central location. The development itself offers lift access to all floors, together with a secure intercom entry system, providing peace of mind.\n\nThe location is a particular highlight, with Forth Banks Tower ideally placed for enjoying the vibrant Newcastle Quayside and its popular bars, restaurants and riverside attractions. Newcastle City Centre is also within convenient reach, offering an extensive selection of shops, cafés, restaurants, entertainment venues and cultural attractions.\n\nTransport links further enhance the property's appeal, with Newcastle Central Station providing convenient commuter connections to the surrounding areas and destinations further afield. The combination of stylish accommodation, secure parking, excellent communal facilities and a highly convenient city centre location makes this an apartment not to be missed.\n\nA beautifully presented, ready to move into home in an excellent central location. An early viewing is strongly recommended.\n\nEPC Rating: B",
+ "keyFeatures": [
+  "Stunning Two Bedroom Apartment",
+  "Lift Access and Allocated Parking",
+  "Fabulous Open Plan Living Space",
+  "Fitted Kitchen and Modern Bathroom",
+  "City Centre Location",
+  "Leasehold",
+  "Council Tax Band C",
+  "EPC Rating B"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/ffd3138ab/92463801/ffd3138ab31a84202254679bccdffd4c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9637f81cd/92463801/9637f81cdac991f2280e2df252d5c9b2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/713a41160/92463801/713a41160acc67d2254991fd4019133f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ba3a80196/92463801/ba3a801960a2a74128a38c2282613f6b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3dfb6b54c/92463801/3dfb6b54c2d521f9d8e43e594b81abad.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4dab65a12/92463801/4dab65a12ee40130d892deb573b7cc34.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c4399f8e5/92463801/c4399f8e501ae138c3f98752c989bead.jpeg",
+  "https://media.rightmove.co.uk/property-photo/10630e821/92463801/10630e821146d937e1d507affd2492ed.jpeg"
+ ],
+ "imageCount": 8,
+ "nearestStations": [
+  {
+   "name": "Newcastle Central Station",
+   "miles": 0.23246725967884252,
+   "types": [
+    "NATIONAL_TRAIN",
+    "TRAM"
+   ]
+  },
+  {
+   "name": "St James Station",
+   "miles": 0.6480508931593248,
+   "types": [
+    "LIGHT_RAILWAY"
+   ]
+  },
+  {
+   "name": "Manors Station",
+   "miles": 0.7390785931826523,
+   "types": [
+    "NATIONAL_TRAIN",
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Sarah Mains Residential Sales and Lettings, Newcastle",
+ "city": "Newcastle",
+ "sourceOutcode": "NE1",
+ "scrapedAt": "2026-08-31T14:58:41.254Z"
+}

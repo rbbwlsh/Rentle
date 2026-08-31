@@ -1,0 +1,88 @@
+{
+ "id": "92568186",
+ "mode": "buy",
+ "displayAddress": "Hutcheson Street, GLASGOW, Lanarkshire, G1",
+ "outcode": "G1",
+ "incode": "1SJ",
+ "latitude": 55.85852,
+ "longitude": -4.24837,
+ "priceAmount": 280000,
+ "priceLabel": "£280,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92568186",
+ "area": "GLASGOW, Lanarkshire",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "TBC",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added today"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "With a 35ft terrace and set slap bang in the middle of all the urbanista delights of The Merchant City this is a sizeable penthouse filled with light and boundless room for all your urban delights. One of the area's premier residential addresses.  Communal areas lead to stair and lift access, feature reception hallway with storage. There is a generous lounge with dining area and access to terrace viewing over the City rooftops. There are two generous bedrooms master with en-suite both giving to terrace, a well appointed fitted kitchen plus separate utility and a bathroom. The property is double glazed and has gas central heating. The building was originally built by Architect James Taylor Thomson, 1930 for David Black & Co. clothing manufacturer and was transformed into a residential development in 2003.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/474166384/92568186/474166384104fbd2199c23e0d0408e1d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c8bcfe95d/92568186/c8bcfe95dd4f0009fbedfb6a96420029.jpeg",
+  "https://media.rightmove.co.uk/property-photo/870bf90b7/92568186/870bf90b70be376f98db8b12238899f2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e418a57d0/92568186/e418a57d09c927c04f90d205cffc3f9d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/31810e549/92568186/31810e5496052ace36451e4442354460.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3f1b6cdd2/92568186/3f1b6cdd257831d3989c331c5c521b04.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7acb27747/92568186/7acb277479d15b23c25296137d7889c5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8e545af10/92568186/8e545af10d04b3d1d520daedd4dcdd7f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1eed29c19/92568186/1eed29c1963a976a9d10affd98b14444.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ce5903943/92568186/ce59039436ce14cec60b714db8684387.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8be4d949c/92568186/8be4d949cbdbb1c5c5db883ee748c0c1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e3140030b/92568186/e3140030b5d3b77f0ec8cb5b19b21f06.jpeg",
+  "https://media.rightmove.co.uk/property-photo/49729b4a5/92568186/49729b4a53f06f22148b1087ee34ae28.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ab69886c1/92568186/ab69886c1ad76aa93c19c2170324661c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8fe9abf86/92568186/8fe9abf86f20a121e508475d7dd0cfaf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d511950d8/92568186/d511950d8df39e266af5cb7dc2614600.jpeg",
+  "https://media.rightmove.co.uk/property-photo/863faa85c/92568186/863faa85c835685e96d53dfc502bf932.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e6ea0a76d/92568186/e6ea0a76d841b2b23f998b457d317bce.jpeg",
+  "https://media.rightmove.co.uk/property-photo/68c13d603/92568186/68c13d6036848587cdb99425a2edd336.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d79c47be6/92568186/d79c47be6644e05ffbe906c7243c5772.jpeg",
+  "https://media.rightmove.co.uk/property-photo/63ebee654/92568186/63ebee65496233c8a8c3f14c6a01883e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb55fa597/92568186/bb55fa597bb5a7e2f8dc683e809abc33.jpeg",
+  "https://media.rightmove.co.uk/property-photo/34882d0ad/92568186/34882d0adddd45f55e894ce0b52b2305.jpeg"
+ ],
+ "imageCount": 23,
+ "nearestStations": [
+  {
+   "name": "Argyle Street Station",
+   "miles": 0.1543111265717905,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "St. Enoch Station",
+   "miles": 0.2263640805563989,
+   "types": [
+    "LIGHT_RAILWAY"
+   ]
+  },
+  {
+   "name": "Glasgow Queen Street Station",
+   "miles": 0.2750670250409583,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Slater Hogg & Howison, City Centre, Glasgow",
+ "city": "Glasgow",
+ "sourceOutcode": "G1",
+ "scrapedAt": "2026-08-31T16:56:16.450Z"
+}

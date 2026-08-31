@@ -184,33 +184,107 @@ function toMonthly(amount, frequency) {
   return Math.round(amount);
 }
 
-export function normalize(pageModel, id) {
-  const p = pageModel?.propertyData;
-  if (!p) throw new ListingError('Could not read this listing from Rightmove.', 502);
+// A generous UK bounding box, from the Scilly/Channel approaches up to
+// Shetland. Rightmove occasionally serves a listing with a foreign geocode —
+// a real "Lower Canal Walk, Southampton, Hampshire" came back at 36.84,
+// -76.02, which is Southampton, VIRGINIA. One of those drags a whole town's
+// map centroid into the Atlantic, drops the in-game pin on the wrong
+// continent, and makes every comparable distance a four-figure number.
+const UK_BOUNDS = { minLat: 49.5, maxLat: 61.0, minLon: -8.7, maxLon: 2.0 };
 
-  // Rentals carry a `lettings` block; sales do not. Reject sales listings.
-  const channel = (pageModel?.metadata?.channel || '').toUpperCase();
-  const isRental =
+export function inUnitedKingdom(lat, lon) {
+  if (!Number.isFinite(lat) || !Number.isFinite(lon)) return false;
+  return (
+    lat >= UK_BOUNDS.minLat &&
+    lat <= UK_BOUNDS.maxLat &&
+    lon >= UK_BOUNDS.minLon &&
+    lon <= UK_BOUNDS.maxLon
+  );
+}
+
+// Sale prices outside this band aren't a fair guess: below it are parking
+// spaces, timeshares and lease-extension lots; above it the slider stops being
+// usable and the round becomes a coin flip on a trophy asset.
+export const BUY_MIN_PRICE = 25000;
+export const BUY_MAX_PRICE = 2000000;
+
+const channelOf = (pageModel, p) =>
+  String(pageModel?.metadata?.channel || p?.channel || '').toUpperCase();
+
+// Which channel a page is on. The explicit channel is authoritative when
+// present; the price-string sniff is the fallback for older page shapes.
+function isRentalModel(pageModel, p) {
+  const channel = channelOf(pageModel, p);
+  if (channel === 'RES_LET') return true;
+  if (channel === 'RES_BUY') return false;
+  return (
     !!p.lettings ||
-    channel === 'RES_LET' ||
     /(pcm|per week|per month|p\/w|pw)/i.test(
       `${p.prices?.primaryPrice || ''} ${p.prices?.secondaryPrice || ''}`
-    );
-  if (!isRental) {
-    throw new ListingError(
-      'This looks like a property for sale, not to rent. Paste a Rightmove ' +
-        '"to rent" listing.'
-    );
-  }
+    )
+  );
+}
 
-  const status = p.status || {};
-  if (status.published === false) {
-    throw new ListingError('This listing is no longer available.', 410);
+// Whether the address slot holds an actual address. Investment and
+// development ads on the sale channel put marketing copy there instead
+// ("Fully Furnished Homes in Manchester City Centre", "Fully Managed
+// Manchester Buy to Let - 6% Rental Yields | ..."), and those make terrible
+// rounds: no street, no tenure, no floor area, and the "property" is a unit
+// type rather than one specific home. A real ad address is comma-separated,
+// or at minimum carries its own outcode.
+export function looksLikeAddress(displayAddress, outcode) {
+  const a = String(displayAddress || '').trim();
+  if (!a) return false;
+  if (a.includes('|')) return false;
+  if (/\d+\s*%|yields?\b|buy to let|investment opportunity|per annum/i.test(a)) {
+    return false;
   }
+  if (a.includes(',')) return true;
+  return Boolean(outcode) && a.toUpperCase().includes(String(outcode).toUpperCase());
+}
 
-  // Determine the monthly amount. `prices.primaryPrice` is a formatted string
-  // (e.g. "£2,250 pcm"); the numeric value sits in `prices.price` /
-  // `lettings.monthlyPrice` depending on the page version.
+// Sale listings whose headline number isn't an asking price anyone could
+// guess. `dontShow` filters most of these at search time, but a live studio
+// search still returned an auction lot with the filter applied, so each one is
+// re-checked here against the detail page.
+function assertGameableSale(p) {
+  const label = `${p.prices?.primaryPrice || ''} ${p.prices?.displayPriceQualifier || ''}`;
+  if (p.sharedOwnership?.sharedOwnershipFlag) {
+    throw new ListingError('Shared ownership — the headline price is for a part share.');
+  }
+  if (p.affordableBuyingScheme) {
+    throw new ListingError('Affordable-buying scheme — the headline price is discounted.');
+  }
+  if (p.commercial || p.businessForSale) {
+    throw new ListingError('Commercial listing, not a home.');
+  }
+  if (p.auction || /auction/i.test(label)) {
+    throw new ListingError('Auction lot — a guide price is not an asking price.');
+  }
+}
+
+// The asking price. Sale detail pages carry NO numeric `prices.price` (only
+// the search rows do), so the formatted `primaryPrice` string is the source of
+// truth. A price RANGE ("£250,000 - £275,000") concatenates into a number far
+// outside the band and is rejected there, which is the outcome we want.
+function salePrice(p) {
+  const label = String(p.prices?.primaryPrice || '').trim();
+  const qualifier = cleanStr(p.prices?.displayPriceQualifier);
+  if (/price on application|\bpoa\b/i.test(`${label} ${qualifier || ''}`)) {
+    throw new ListingError('No asking price on this listing (POA).');
+  }
+  const amount = p.prices?.price ?? parsePriceString(label);
+  if (!amount) {
+    throw new ListingError('Could not determine the asking price for this listing.', 502);
+  }
+  if (amount < BUY_MIN_PRICE || amount > BUY_MAX_PRICE) {
+    throw new ListingError(`Asking price £${amount} is outside the playable range.`);
+  }
+  return { priceAmount: Math.round(amount), priceLabel: label || `£${amount}`, qualifier };
+}
+
+// The monthly rent, normalised from whatever frequency the ad quotes.
+function rentPrice(p) {
   const rawAmount =
     p.lettings?.monthlyPrice ??
     p.prices?.price ??
@@ -223,6 +297,45 @@ export function normalize(pageModel, id) {
   if (!priceAmount) {
     throw new ListingError('Could not determine the rent for this listing.', 502);
   }
+  return { priceAmount, priceLabel: p.prices?.primaryPrice || `£${priceAmount} pcm`, qualifier: null };
+}
+
+// `mode` picks the channel to accept ('rent' | 'buy'). `bedsHint` is the
+// bedroom count the search stratum was filtered on: sale detail pages
+// sometimes report `bedrooms: null` for a studio the search knew was 0-bed,
+// and the buy corpus is stratified by bedroom count, so the hint stands in.
+export function normalize(pageModel, id, { mode = 'rent', bedsHint = null } = {}) {
+  const p = pageModel?.propertyData;
+  if (!p) throw new ListingError('Could not read this listing from Rightmove.', 502);
+
+  const rental = isRentalModel(pageModel, p);
+  if (mode === 'rent' && !rental) {
+    throw new ListingError(
+      'This looks like a property for sale, not to rent. Paste a Rightmove ' +
+        '"to rent" listing.'
+    );
+  }
+  if (mode === 'buy' && rental) {
+    throw new ListingError(
+      'This looks like a rental listing, not a property for sale.'
+    );
+  }
+
+  const status = p.status || {};
+  if (status.published === false) {
+    throw new ListingError('This listing is no longer available.', 410);
+  }
+
+  if (mode === 'buy') {
+    assertGameableSale(p);
+    if (!looksLikeAddress(p.address?.displayAddress, p.address?.outcode)) {
+      throw new ListingError(
+        'Marketing copy in place of an address — a development or buy-to-let ' +
+          'pitch, not one specific home.'
+      );
+    }
+  }
+  const { priceAmount, priceLabel, qualifier } = mode === 'buy' ? salePrice(p) : rentPrice(p);
 
   const images = Array.isArray(p.images)
     ? p.images.map((img) => img.url).filter(Boolean)
@@ -244,42 +357,83 @@ export function normalize(pageModel, id) {
 
   const lettings = p.lettings || {};
   const livingCosts = p.livingCosts || {};
+  const tenure = p.tenure || {};
+  const bedrooms = p.bedrooms ?? (mode === 'buy' ? bedsHint : null);
 
   // The full set of "ad" facts a property person would scan, pulled from the
-  // same fields Rightmove's own listing page shows.
-  const details = {
-    propertyType: p.propertySubType || p.propertyType || 'Property',
-    bedrooms: p.bedrooms ?? null,
-    bathrooms: p.bathrooms ?? null,
-    sizeSqFt,
-    sizeSqM,
-    letType: cleanStr(lettings.letType),
-    furnishType: cleanStr(lettings.furnishType),
-    letAvailableDate: cleanStr(lettings.letAvailableDate),
-    deposit: Number.isFinite(lettings.deposit) ? lettings.deposit : null,
-    minimumTermMonths: Number.isFinite(lettings.minimumTermInMonths)
-      ? lettings.minimumTermInMonths
-      : null,
-    councilTaxBand: cleanStr(livingCosts.councilTaxBand),
-  };
+  // same fields Rightmove's own listing page shows. The two channels publish
+  // genuinely different facts: a sale has tenure and a service charge where a
+  // let has furnishing and a deposit.
+  //
+  // `prices.pricePerSqFt` is deliberately NOT carried on the buy side — with
+  // the floor area already on the card it multiplies straight back into the
+  // answer.
+  const details =
+    mode === 'buy'
+      ? {
+          propertyType: p.propertySubType || p.propertyType || 'Property',
+          bedrooms,
+          bathrooms: p.bathrooms ?? null,
+          sizeSqFt,
+          sizeSqM,
+          tenureType: cleanStr(tenure.tenureType),
+          yearsRemainingOnLease: Number.isFinite(tenure.yearsRemainingOnLease)
+            ? tenure.yearsRemainingOnLease
+            : null,
+          annualGroundRent: Number.isFinite(livingCosts.annualGroundRent)
+            ? livingCosts.annualGroundRent
+            : null,
+          annualServiceCharge: Number.isFinite(livingCosts.annualServiceCharge)
+            ? livingCosts.annualServiceCharge
+            : null,
+          councilTaxBand: cleanStr(livingCosts.councilTaxBand),
+          priceQualifier: qualifier,
+          listingUpdate: cleanStr(p.listingHistory?.listingUpdateReason),
+        }
+      : {
+          propertyType: p.propertySubType || p.propertyType || 'Property',
+          bedrooms,
+          bathrooms: p.bathrooms ?? null,
+          sizeSqFt,
+          sizeSqM,
+          letType: cleanStr(lettings.letType),
+          furnishType: cleanStr(lettings.furnishType),
+          letAvailableDate: cleanStr(lettings.letAvailableDate),
+          deposit: Number.isFinite(lettings.deposit) ? lettings.deposit : null,
+          minimumTermMonths: Number.isFinite(lettings.minimumTermInMonths)
+            ? lettings.minimumTermInMonths
+            : null,
+          councilTaxBand: cleanStr(livingCosts.councilTaxBand),
+        };
 
   const displayAddress = p.address?.displayAddress || '';
+  const latitude = p.location?.latitude ?? null;
+  const longitude = p.location?.longitude ?? null;
+  // Located listings only. The map pin is a first-class clue and the
+  // comparables are ranked by real distance, so a listing we cannot place is
+  // not a playable round — and a foreign geocode is worse than none.
+  if (latitude != null && longitude != null && !inUnitedKingdom(latitude, longitude)) {
+    throw new ListingError(
+      `Coordinates ${latitude}, ${longitude} are outside the UK — bad geocode.`
+    );
+  }
 
   return {
     id: String(id),
+    mode,
     // Server-only locating fields (stripped from the public payload).
     displayAddress,
     outcode: p.address?.outcode || null,
     incode: p.address?.incode || null,
-    latitude: p.location?.latitude ?? null,
-    longitude: p.location?.longitude ?? null,
-    priceAmount, // monthly £, server-side only
-    priceLabel: p.prices?.primaryPrice || `£${priceAmount} pcm`,
+    latitude,
+    longitude,
+    priceAmount, // monthly £ (rent) or asking price £ (buy), server-side only
+    priceLabel,
     rightmoveUrl: `https://www.rightmove.co.uk/properties/${id}`,
 
     // Public, address-obscured fields.
     area: coarseArea(displayAddress, p.address?.outcode), // e.g. "South Yardley, Birmingham"
-    bedrooms: p.bedrooms ?? null,
+    bedrooms,
     bathrooms: p.bathrooms ?? null,
     propertySubType: details.propertyType,
     details,
@@ -327,7 +481,14 @@ export function coarseArea(displayAddress, outcode) {
   if (kept.length === 0) kept = parts.filter((p) => !postcode.test(p)).slice(-1);
   // Keep the last two surviving parts (locality, town).
   kept = kept.slice(-2);
-  return kept.join(', ') || (outcode ? `${outcode} area` : 'Location hidden');
+  const label = kept.join(', ');
+  // Sale ads sometimes put marketing copy in the address slot ("Fully
+  // Furnished Homes in Manchester City Centre"). A long, comma-free result is
+  // that, not a place — fall back to the outcode rather than print the pitch.
+  if (!label || (!label.includes(',') && label.length > 40)) {
+    return outcode ? `${outcode} area` : 'Location hidden';
+  }
+  return label;
 }
 
 function parsePriceString(str) {
@@ -343,7 +504,7 @@ function inferFrequency(str) {
 }
 
 // Fetch + parse a single listing by id. Throws ListingError on any failure.
-export async function fetchListing(id) {
+export async function fetchListing(id, opts = {}) {
   const url = `https://www.rightmove.co.uk/properties/${id}`;
   let res;
   try {
@@ -374,5 +535,5 @@ export async function fetchListing(id) {
       502
     );
   }
-  return normalize(pageModel, id);
+  return normalize(pageModel, id, opts);
 }

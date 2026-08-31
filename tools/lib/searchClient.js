@@ -170,16 +170,39 @@ export function createSearchClient({
     return found;
   }
 
-  // One page of to-rent results around an outcode id. `page` is 0-based, 25
-  // results per page, newest first.
-  async function searchRent(oid, { page = 0, includeLetAgreed = false } = {}) {
-    const data = await nextData('property-to-rent/find.html', {
+  // One page of results around an outcode id, on either channel. `page` is
+  // 0-based, 25 results per page, newest first.
+  //
+  // The sale channel takes the extra filters the buy corpus is stratified by:
+  // `beds` is [min, max] (use [0, 0] for studios), `maxPrice` keeps trophy
+  // listings out of a game whose slider has to stay usable, and `dontShow`
+  // drops the three categories whose headline price isn't a price anyone can
+  // guess — retirement units, shared ownership (the figure is for a 25-40%
+  // share) and new-home developments ("from £X"). Verified against live M1
+  // results: 2-bed count fell 351 -> 258 and every `development` row went.
+  async function search(oid, { channel = 'rent', page = 0, beds = null, maxPrice = null, includeLetAgreed = false } = {}) {
+    const isBuy = channel === 'buy';
+    const params = {
       locationIdentifier: `OUTCODE^${oid}`,
       radius: '0.0',
       sortType: '6',
       index: String(page * 25),
-      includeLetAgreed: includeLetAgreed ? 'true' : 'false',
-    });
+    };
+    if (isBuy) {
+      params.dontShow = 'retirement,sharedOwnership,newHome';
+      if (maxPrice != null) params.maxPrice = String(maxPrice);
+    } else {
+      params.includeLetAgreed = includeLetAgreed ? 'true' : 'false';
+    }
+    if (beds) {
+      params.minBedrooms = String(beds[0]);
+      params.maxBedrooms = String(beds[1]);
+    }
+
+    const data = await nextData(
+      isBuy ? 'property-for-sale/find.html' : 'property-to-rent/find.html',
+      params
+    );
     if (!data) return null;
     const results = data.props?.pageProps?.searchResults || {};
     // resultCount arrives as a string ("206"), sometimes with a comma.
@@ -190,16 +213,26 @@ export function createSearchClient({
     };
   }
 
+  const searchRent = (oid, opts = {}) => search(oid, { ...opts, channel: 'rent' });
+  const searchSale = (oid, opts = {}) => search(oid, { ...opts, channel: 'buy' });
+
   client.outcodeAt = outcodeAt;
   client.outcodeId = outcodeId;
+  client.search = search;
   client.searchRent = searchRent;
+  client.searchSale = searchSale;
   client.nextData = nextData;
   return client;
 }
 
-// Whether a search result looks like an ordinary rentable home.
+// Whether a search result looks like an ordinary home someone could put a
+// price on. The subtype blocklist covers both channels; the flag checks are
+// sale-specific attrition that `dontShow` does not catch on its own — a live
+// studio search still returned an auction lot with the filter applied.
 export function isGameableProperty(prop) {
   const subtype = String(prop?.propertySubType || '').toLowerCase();
   if (EXCLUDED_SUBTYPES.some((word) => subtype.includes(word))) return false;
+  if (prop?.auction || prop?.commercial || prop?.development) return false;
+  if (prop?.businessForSale) return false;
   return Boolean(prop?.id);
 }

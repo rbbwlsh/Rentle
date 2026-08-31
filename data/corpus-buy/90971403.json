@@ -1,0 +1,79 @@
+{
+ "id": "90971403",
+ "mode": "buy",
+ "displayAddress": "Bedford Street, Exeter, EX1",
+ "outcode": "EX1",
+ "incode": "1GL",
+ "latitude": 50.72319,
+ "longitude": -3.52786,
+ "priceAmount": 190000,
+ "priceLabel": "£190,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/90971403",
+ "area": "Exeter",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 19/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Occupying an enviable position in the very heart of Exeter City Centre, this superb leasehold apartment offers a rare opportunity to enjoy contemporary city living with some of the most impressive views the city has to offer. Combining stylish interiors, excellent storage and a private balcony overlooking the magnificent Exeter Cathedral, this one-bedroom flat is perfectly suited to first-time buyers, professionals, downsizers or investors alike - this property is also being sold with a 90 year lease extension currently underway - BEING SOLD WITH NO CHAIN.\n\nUpon entering the property, you are immediately struck by the sense of space and light that flows throughout the apartment. The bright and welcoming open-plan lounge, kitchen and dining area forms the heart of the home, providing a versatile living space ideal for relaxing. Large patio doors allow natural light to pour in and lead directly onto a private balcony, where there is ample room for a table and chairs. This is the perfect setting to enjoy morning coffee, al fresco dining or an evening drink while taking in the stunning panoramic views of Exeter Cathedral and the surrounding cityscape.\n\nThe double bedroom is equally impressive and features a spectacular full-wall window that creates a real sense of openness while framing the remarkable cathedral views. A cleverly positioned mirror reflects the historic cathedral, further enhancing this unique outlook and adding to the feeling of light and space within the room. Built-in storage provides practical and discreet organisation, helping to keep the living space uncluttered and functional.\n\nThe modern bathroom is tastefully finished with contemporary fittings and fixtures, creating a stylish and comfortable space for everyday living. Throughout the apartment, an abundance of storage solutions have been thoughtfully incorporated, a feature rarely found in many city-centre properties.\n\nOne of the property's most outstanding features is undoubtedly its exceptional outlook. Whether relaxing in the living area, enjoying the balcony or waking up in the bedroom, the stunning views of Exeter Cathedral provide a constant backdrop and create a truly special place to call home.\n\nSet within easy reach of Exeter's excellent range of shops, restaurants, cafés, transport links and cultural attractions, this apartment offers the perfect blend of convenience, comfort and character. With its sought-after city centre location, generous storage, modern accommodation and breathtaking cathedral views, this is a unique opportunity to acquire a home that stands out from the crowd.\n\nPlease note that an AML fee is chargeable to the buyer once an offer is accepted to cover the cost of carrying out the required identity and anti-money laundering checks. Once these checks have been completed, the fee cannot be refunded, even if the property purchase does not go ahead.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/bf79e625a/90971403/bf79e625a6fa81c4e65b3dbbec046593.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a432701b4/90971403/a432701b4895654c5e9077b1625293df.jpeg",
+  "https://media.rightmove.co.uk/property-photo/12f761f8b/90971403/12f761f8bbc6a065f81ead9569fd36ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0fda2553c/90971403/0fda2553cabc5b92efed7948b0a60bd2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d85185f0b/90971403/d85185f0bce3d255abfcffb4238a1f2b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5df765ac6/90971403/5df765ac669ec368bfae0c2a0dd04d46.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7b3bc55fa/90971403/7b3bc55fa3e65a95fb537fa2a769d618.jpeg",
+  "https://media.rightmove.co.uk/property-photo/acae3bf3e/90971403/acae3bf3ee5f843f94def0252e9f7f32.jpeg",
+  "https://media.rightmove.co.uk/property-photo/10deda94a/90971403/10deda94ab23d53e08553941aed207b2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ca21feee9/90971403/ca21feee9c89f55c7a7e589172acd291.jpeg",
+  "https://media.rightmove.co.uk/property-photo/57945afea/90971403/57945afea7e280815c9a1a302a31c031.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bb69f4811/90971403/bb69f48119121da2bd7d1b20d2ab42e5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d4e458e67/90971403/d4e458e67000ee26ed378d3ae50502d7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/34d3feb7b/90971403/34d3feb7b566a0d0ae48716dabbd46b8.jpeg"
+ ],
+ "imageCount": 14,
+ "nearestStations": [
+  {
+   "name": "Exeter Central Station",
+   "miles": 0.3159267098576662,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "St James Park Station",
+   "miles": 0.5612598235102878,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Exeter St. Thomas Station",
+   "miles": 0.635654274484474,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Fulfords, Exeter (City Centre)",
+ "city": "Exeter",
+ "sourceOutcode": "EX1",
+ "scrapedAt": "2026-08-31T14:57:05.534Z"
+}

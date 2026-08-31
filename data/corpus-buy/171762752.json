@@ -1,0 +1,83 @@
+{
+ "id": "171762752",
+ "mode": "buy",
+ "displayAddress": "Heavitree, Exeter",
+ "outcode": "EX1",
+ "incode": "2TQ",
+ "latitude": 50.723763,
+ "longitude": -3.502833,
+ "priceAmount": 250000,
+ "priceLabel": "£250,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/171762752",
+ "area": "Heavitree, Exeter",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "End of Terrace",
+ "details": {
+  "propertyType": "End of Terrace",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 967,
+  "sizeSqM": 90,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 19/06/2026"
+ },
+ "sizeSqFt": 967,
+ "sizeSqM": 90,
+ "description": "Description\n\nAn excellent opportunity to purchase this charming end-of-terrace home, tucked away in a quiet and secluded setting in the heart of Heavitree, yet within easy reach of a wide range of local amenities. Well suited to professional couples or growing families, the property offers a thoughtful balance of character, comfort and modern living.\n\nThe ground floor opens with an entrance lobby featuring a striking stripped wood door with stained-glass detailing, leading into the welcoming hallway. The open-plan living and dining room is a bright and attractive space, enhanced by a feature fireplace and stylish oak flooring running throughout. Windows to both the front and rear allow for excellent natural light.\n\nThe modern kitchen is well proportioned and finished to a high standard, with a comprehensive range of high-gloss white base and wall units, including glass-fronted cabinets, attractive work surfaces and tiled splashbacks. Integrated appliances include an induction hob with double oven below and a stainless-steel and glass extractor hood, with space and plumbing for a washing machine and dishwasher. A side window and door lead into the conservatory, which provides a pleasant additional living space with a modern radiator and double doors opening onto the courtyard, ideal for relaxing or entertaining.\n\nStairs rise to the half-landing and a generously sized bathroom, fitted with a pedestal wash hand basin, low-level WC, panelled bath with mixer tap and shower attachment, and a separate shower enclosure with glazed screen.\n\nThe first-floor landing provides access to spacious loft storage and leads to two well-proportioned double bedrooms. The principal bedroom benefits from a comprehensive range of fitted storage and a front aspect, while the second bedroom enjoys views over the rear.\n\nTo the front of the property is a charming walled garden with raised flower and shrub beds, slate-chipped areas and a pathway leading to the front door, complete with outside lighting. The enclosed rear courtyard is paved and features a pizza oven and storage shed, creating an excellent space for outdoor dining and relaxation. On-street parking is available via residents permits.\n\nSituation\n\nSituated in the heart of Heavitree, this is a very pleasant and peaceful location within easy walking distance of local shops and Waitrose. Heavitree Pleasure Ground and a choice of well-regarded primary and secondary schools are close at hand, along with convenient access to the Royal Devon and Exeter Hospital. Exeter City Centre lies just under a mile away, with a regular bus service nearby and excellent road links to the M5, major A-road junctions and coastal routes.\n\nThe city offers renowned higher educational facilities, including the University of Exeter and Exeter College, together with excellent sports and leisure amenities along the river. Exeter also provides a wide range of cultural attractions including theatres, cinemas, the cathedral, museums, football and rugby grounds and leisure centres. Rail services run to London Paddington, and Exeter Airport, approximately five miles away, offers both UK and international flights.\n\nDirections\n\nFrom the city centre proceed along Heavitree Road, passing Waitrose on the left. Proceed through the Livery Dole junction onto Heavitree Fore Street and at the lights turn left onto North Street, merging with South Lawn Terrace. Turn right onto Newcombe Terrace and left onto East Terrace.",
+ "keyFeatures": [
+  "Quiet end-of-terrace location",
+  "Ideal for couples or families",
+  "Open-plan living with feature fireplace",
+  "Modern kitchen &amp; conservatory",
+  "Two double bedrooms",
+  "Courtyard garden &amp; permit parking"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/d7be849cc/171762752/d7be849ccb6d44f87f2f5359e1b55a55.jpeg",
+  "https://media.rightmove.co.uk/property-photo/86be0cc69/171762752/86be0cc69d7cf3427852c2c44bcf9815.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b7b531994/171762752/b7b5319943095da8f9f799fa04e9b7c2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7f8416f77/171762752/7f8416f771c4594a8bae51bba99e1ecd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/14afbcc80/171762752/14afbcc809838930afd01f73af140b41.jpeg",
+  "https://media.rightmove.co.uk/property-photo/947242eb0/171762752/947242eb0da8c7c4c5b31af602f64ef0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3217300b9/171762752/3217300b94809c7a1fc7e7e227adc572.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2bf7aa85d/171762752/2bf7aa85d05a10d27e684c8ed48906c6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/05111f92f/171762752/05111f92f6218991a10edbde375cdb1e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5c63fc137/171762752/5c63fc137688a4493c5d1f71bfcb7fb8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1eccf1e49/171762752/1eccf1e4901230daf0fed0b501b6891d.jpeg"
+ ],
+ "imageCount": 11,
+ "nearestStations": [
+  {
+   "name": "Polsloe Bridge Station",
+   "miles": 0.5135769380102027,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "St James Park Station",
+   "miles": 0.979342782146311,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Exeter Central Station",
+   "miles": 1.3385301730442065,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Wilkinson Grant & Co, Exeter",
+ "city": "Exeter",
+ "sourceOutcode": "EX1",
+ "scrapedAt": "2026-08-31T15:01:39.932Z"
+}

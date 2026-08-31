@@ -1,0 +1,86 @@
+{
+ "id": "92488275",
+ "mode": "buy",
+ "displayAddress": "Kings Road, The Pinnacle Kings Road, RG1",
+ "outcode": "RG1",
+ "incode": "4LY",
+ "latitude": 51.453524,
+ "longitude": -0.952417,
+ "priceAmount": 265000,
+ "priceLabel": "£265,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92488275",
+ "area": "The Pinnacle Kings Road",
+ "bedrooms": 2,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sizeSqFt": 700,
+  "sizeSqM": 65,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 99,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "D",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": 700,
+ "sizeSqM": 65,
+ "description": "***DESIRABLE LOCATION*** This impressive two bedroom, second floor apartment offers a superb opportunity for modern living within easy reach of the town centre and train station. The property is presented in excellent condition throughout and features a spacious open-plan living and dining area that is filled with natural light, providing a welcoming space for relaxing or entertaining. The contemporary kitchen is well appointed with integrated appliances and ample storage, making it ideal for home cooking. Both bedrooms are generous doubles, with the principal bedroom benefiting from a en suite shower room, while the second bedroom is served by a sleek main bathroom with a full suite. A private balcony extends the living space and provides a tranquil setting for morning coffee or evening relaxation. The apartment is situated in a well-maintained building with lift access to all floors and a secure telecom entry system, ensuring peace of mind for residents. Additional features include secure gated parking (allocated for residents), as well as a secure bike store within the development. With its prime location, residents will enjoy the convenience of being within walking distance to local shops, cafes, and restaurants, as well as excellent transport links for commuters. This property is ideal for professionals, couples, or small families seeking a stylish and well-connected home in a vibrant community.\nEPC Rating: C",
+ "keyFeatures": [
+  "2nd Floor Apartment",
+  "Two Double Bedrooms",
+  "Two Bathrooms",
+  "Balcony",
+  "Lift &amp; Secure Telecom Entry",
+  "Secure Gated Parking",
+  "Walking Distance To Town And Train Station"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/c4d9e3e18/92488275/c4d9e3e18882ffef14c81c9a45ef9dab.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7cb788a57/92488275/7cb788a5751ed6404469a880d5a2a7be.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d65d8ab79/92488275/d65d8ab79d2464173e4765e168912ec1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5a68f4ae5/92488275/5a68f4ae59d527b585c1fe01269b8a38.jpeg",
+  "https://media.rightmove.co.uk/property-photo/78648c683/92488275/78648c6833b3f08b43931d9c09aecbd8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/734d4c4bd/92488275/734d4c4bdbba82c95a9a289d0fe11043.jpeg",
+  "https://media.rightmove.co.uk/property-photo/32bcd7212/92488275/32bcd7212b325cb9a25e0e142dab3bf9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9fe28b02d/92488275/9fe28b02d5fda51b7da665c8fc34074b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dfa543898/92488275/dfa5438984bc59f54f0ec99afd29e757.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eebe71e3e/92488275/eebe71e3eedaf80b30ff6587e5a561f4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1215ea3d7/92488275/1215ea3d7694f8adf1fc3129187141f2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/30f9d9eee/92488275/30f9d9eeedf99bce838dbd686259ac7b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8ec2bd328/92488275/8ec2bd32819b8c323c25651c9f6c89c9.jpeg"
+ ],
+ "imageCount": 13,
+ "nearestStations": [
+  {
+   "name": "Reading Station",
+   "miles": 0.9354320885929829,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Reading West Station",
+   "miles": 1.654198021588799,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Earley Station",
+   "miles": 1.7184214652531475,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Arins Property Services, Lower Earley",
+ "city": "Reading",
+ "sourceOutcode": "RG1",
+ "scrapedAt": "2026-08-31T15:02:31.619Z"
+}

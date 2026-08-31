@@ -1,0 +1,97 @@
+{
+ "id": "92164395",
+ "mode": "buy",
+ "displayAddress": "Mare Street, Hackney",
+ "outcode": "E8",
+ "incode": "1HP",
+ "latitude": 51.549171,
+ "longitude": -0.055018,
+ "priceAmount": 500000,
+ "priceLabel": "£500,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92164395",
+ "area": "Hackney",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 999,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Added on 19/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Situated above a commercial premises on the pedestrianized section of Mare Street and therefore being in the heart of vibrant and cosmopolitan Hackney. Within a few minutes waklk to both Hackney Central Overground Train Station with direct access to Liverpool Street as well as a myriad of bus routes from Hackney Bus Depot. \nMare Street is the main shopping street in Hackney with numerous independant businesses along with multi national retailers. There are a multitude of restaurants, cafes and bars to choose from along with the famous Hackney Empire all within easy walking distance.\n\nSituated on the pedestrianized section of Mare Street and therefore being in the heart of vibrant and cosmopolitan Hackney. \n\nWithin a few minutes waklk to both Hackney Central Overground Train Station with direct access to Liverpool Street as well as a myriad of bus routes from Hackney Bus Depot. \n\nMare Sttreet is the main shopping street in Hackney with numerous independant businesses along with multi national retailers. There are a multitude of restaurants, cafes and bars to choose from along with the famous Hackney Empire all within easy walking distance. \n\nThe apartment is located on the first floor and offers bright well proportioned accommadation in excellent decorative condition. Comprising Entrance Hall with access to all rooms. Reception and kitchen. Two double bedrooms. Tiled bathroom.\n\nEarly viewing is strongly recommended.",
+ "keyFeatures": [
+  "Bright and airy",
+  "Well proportioned throughout",
+  "2 double bedrooms",
+  "Heart of vibrant Hackney",
+  "Close multiple bus routes",
+  "Close to Hackney Central and Hackney Downs Train Stations",
+  "999 year lease",
+  "Pedestrian and cycle route only"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/7f41f48a9/92164395/7f41f48a98d558bc54de3cc16e5cbfc7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/66dc2a8da/92164395/66dc2a8da763c85acc227b278df7b6da.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dd394e761/92164395/dd394e7610c2f53dcbd6ef32c3f59890.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a93c82781/92164395/a93c82781039617665a24acfb0c33a35.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b021568cd/92164395/b021568cd7e43ef21333aac4fc39fb4a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2dfd8e2d1/92164395/2dfd8e2d10a1a04292f372f5e3f08386.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a3c571caf/92164395/a3c571cafd97f4f3474ddfaf1438e854.jpeg",
+  "https://media.rightmove.co.uk/property-photo/54185be8c/92164395/54185be8cba9cae2a611897bbf88233b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/356307568/92164395/3563075687d2663788a332e09d6aa124.jpeg",
+  "https://media.rightmove.co.uk/property-photo/939701123/92164395/9397011236937182f0065c907add7e0d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/eb0aa2a71/92164395/eb0aa2a71d0205ead03bc0d4cb40dd7d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bc2627294/92164395/bc26272948a93cec6c61b8f975ee8e17.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4df2cd5b1/92164395/4df2cd5b119652a369685015e26319a7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/438ef27df/92164395/438ef27dff9e0adeda24f08deef3dcb3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a67d133df/92164395/a67d133df5f586e26a433ca42ef43382.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e6184aad0/92164395/e6184aad04290cbf7cfb7907adc8c4c0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/53ed398a6/92164395/53ed398a6ef8ce909548542b9be64854.jpeg",
+  "https://media.rightmove.co.uk/property-photo/95eea10db/92164395/95eea10dbd93908d8a77416ca412b2f7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e93e9703a/92164395/e93e9703a07e6cffa77e2014437931c8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b65c5ee8a/92164395/b65c5ee8acf81187718724c22ac7fd26.jpeg",
+  "https://media.rightmove.co.uk/property-photo/925cb8edd/92164395/925cb8eddac184b52ab08b8fa6060a63.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f07173880/92164395/f0717388079297847f4420659a3932f3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1a897d221/92164395/1a897d221829f086dd0b80e002f5d231.jpeg"
+ ],
+ "imageCount": 23,
+ "nearestStations": [
+  {
+   "name": "Hackney Central Station",
+   "miles": 0.15708371410812727,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  },
+  {
+   "name": "Hackney Downs Station",
+   "miles": 0.23096369488351176,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Homerton Station",
+   "miles": 0.5402737805339429,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  }
+ ],
+ "agent": "Wild & Co., Hackney",
+ "city": "London",
+ "sourceOutcode": "E8",
+ "scrapedAt": "2026-08-31T16:58:58.097Z"
+}

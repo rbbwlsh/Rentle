@@ -1,0 +1,84 @@
+{
+ "id": "92517363",
+ "mode": "buy",
+ "displayAddress": "Bold Street, Liverpool",
+ "outcode": "L1",
+ "incode": "4HR",
+ "latitude": 53.403087,
+ "longitude": -2.978554,
+ "priceAmount": 110000,
+ "priceLabel": "£110,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92517363",
+ "area": "Liverpool",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 105,
+  "annualGroundRent": 200,
+  "annualServiceCharge": 1373.88,
+  "councilTaxBand": "A",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 28/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Located in the vibrant heart of Liverpool on Bold Street, this charming first-floor flat offers a perfect blend of modern living and convenience. With one well-appointed bedroom, this fully furnished property is ideal for individuals or couples seeking a stylish urban retreat.\n\nUpon entering, you will be greeted by a secure access point, ensuring peace of mind. The flat has been thoughtfully refurbished to a high standard, featuring a contemporary high gloss kitchen that is both functional and aesthetically pleasing. The modern bathroom complements the overall design, providing a comfortable space for relaxation.\n\nThe reception room is a welcoming area, perfect for unwinding after a busy day or entertaining guests. The flat's location on Bold Street places you within easy reach of an array of shops, cafes, and cultural attractions, making it an excellent choice for those who appreciate the lively atmosphere of city life.\n\nPreviously achieving a rental income of £900.00 per calendar month, this property presents a fantastic opportunity for both first-time buyers and investors alike. With its prime location and modern amenities, this flat is not to be missed.\n\nService Charge £1373.88\nGround Rent £200.00\nRemaining Lease 105 years",
+ "keyFeatures": [
+  "1 BEDROOM FLAT",
+  "FIRST FLOOR",
+  "FULLY FURNISHED",
+  "BATHROOM",
+  "LOUNGE",
+  "MODERN FITTED KITCHEN",
+  "NO CHAIN",
+  "AIRBNB",
+  "SHORT TERM LETS"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/268015173/92517363/2680151734989866bf41fa73b238a9a3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/f0f2f5c60/92517363/f0f2f5c60f88ceda3df86a73c5b2f590.png",
+  "https://media.rightmove.co.uk/property-photo/8c1fe1d34/92517363/8c1fe1d34e4b4b6ef068bb5c9c1ad9bf.png",
+  "https://media.rightmove.co.uk/property-photo/b126d2132/92517363/b126d2132b88a8b5f7b1cedc67b25e09.png",
+  "https://media.rightmove.co.uk/property-photo/6ebcc4e5c/92517363/6ebcc4e5cbb70e541d65ce353dce3e01.png",
+  "https://media.rightmove.co.uk/property-photo/7179cdc09/92517363/7179cdc093e72235d37a0dbaeb09fa4e.png",
+  "https://media.rightmove.co.uk/property-photo/e05110465/92517363/e05110465fa3f828988e3e93de373e6f.png",
+  "https://media.rightmove.co.uk/property-photo/fc2f7b24f/92517363/fc2f7b24f119f7cb3f71bc9a4b20ced1.png",
+  "https://media.rightmove.co.uk/property-photo/58da0e5cc/92517363/58da0e5cc53b4c6e7b57a79d0cbe7da8.png"
+ ],
+ "imageCount": 9,
+ "nearestStations": [
+  {
+   "name": "Liverpool Central Station",
+   "miles": 0.10933858063081708,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Liverpool Lime Street Station",
+   "miles": 0.291958136938787,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "James Street Station",
+   "miles": 0.574816056324972,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Hunters, Liverpool",
+ "city": "Liverpool",
+ "sourceOutcode": "L1",
+ "scrapedAt": "2026-08-31T14:59:44.121Z"
+}

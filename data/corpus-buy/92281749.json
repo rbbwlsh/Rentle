@@ -1,0 +1,86 @@
+{
+ "id": "92281749",
+ "mode": "buy",
+ "displayAddress": " Lower Ford Street, Coventry, CV1",
+ "outcode": "CV1",
+ "incode": "5PA",
+ "latitude": 52.409796,
+ "longitude": -1.501744,
+ "priceAmount": 92000,
+ "priceLabel": "£92,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92281749",
+ "area": "Coventry",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 624,
+  "sizeSqM": 58,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": "B",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 28/08/2026"
+ },
+ "sizeSqFt": 624,
+ "sizeSqM": 58,
+ "description": "Our latest listing is a 1 bedroom flat located in Coventry. It is in close proximity to valuable amenities, is able to generate rewarding rental returns and has a tenant currently situated.\n\nFor investors looking to expand their portfolio, this is a fantastic opportunity!\n\nThis well-kept home features 1 bedroom, lounge, kitchen, bathroom, and private shared parking.\n\nInvestment details\n\nIt currently produces an annual gross income of £10,740 with tenants currently situated. Considering the purchase price and the potential rental income that could be earned in future years, this will make for a worthwhile addition to an investors property portfolio.\n\nFor greater detail on this property's investment potential, please see the Let Property Pack linked below.\n\nIf you are interested, please call us.\n\nTenancy Details\n\nThere are tenants that currently reside in the property and have consistently paid their rent for the duration of their stay. They do not have any intentions to move out so hope to remain in the property.\n\nWe are committed to facilitating a smooth transaction process between buyer and seller. To allow for\n\nmaximum commitment to the sale from both parties, a Buyers Premium will apply in order to secure a property.",
+ "keyFeatures": [
+  "Shared Private Parking",
+  "Buy-to-Let Opportunity",
+  "Tenant Currently Situated",
+  "Likely to attract enquiries from Serious Investors &amp; Developers",
+  "INVESTMENT POTENTIAL DETAILED BELOW (Let Property Pack)"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1762a9791/92281749/1762a9791900e2fd3a8e8a5a31c61da8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ad9a1990e/92281749/ad9a1990ed55c6d41ab66d4405850f03.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4083e7dde/92281749/4083e7dde89991251890a2f5c83f6b0c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e75d9ced8/92281749/e75d9ced86489d2768eda27cf9f88515.jpeg",
+  "https://media.rightmove.co.uk/property-photo/91ff6edd1/92281749/91ff6edd1327922d9939e22adab5509b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e07b417d4/92281749/e07b417d40afeea5b7ac0b8cd7955bcb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fd7a52167/92281749/fd7a5216716e1c1b063b66110946d1ba.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b52c20d1d/92281749/b52c20d1d138ad8f51bd8d5543208f17.jpeg",
+  "https://media.rightmove.co.uk/property-photo/16b2d6ad9/92281749/16b2d6ad9dd6efd2597ad7874f674a95.jpeg",
+  "https://media.rightmove.co.uk/property-photo/782045405/92281749/782045405b1da9e014f52ff1d70c417d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ee335ec46/92281749/ee335ec46a4b21fd2a5b32fdc01cb64b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/13f6a186c/92281749/13f6a186c09c514d4883583be43eacd8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9bc2044ad/92281749/9bc2044ad22021238553ab1b881ab319.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7a53d7dfa/92281749/7a53d7dfa82b043476c6d2329eff5331.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bdc9c5862/92281749/bdc9c58622db402773309476e9642296.jpeg"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Coventry Station",
+   "miles": 0.8139242972801976,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Canley Station",
+   "miles": 2.077197574607033,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Coventry Arena Station",
+   "miles": 2.572211379675276,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Let Property Sales & Management, Glasgow",
+ "city": "Coventry",
+ "sourceOutcode": "CV1",
+ "scrapedAt": "2026-08-31T14:55:57.995Z"
+}

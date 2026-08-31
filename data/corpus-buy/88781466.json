@@ -1,0 +1,89 @@
+{
+ "id": "88781466",
+ "mode": "buy",
+ "displayAddress": "Glasslyn Road, Crouch End N8",
+ "outcode": "N8",
+ "incode": "8RJ",
+ "latitude": 51.58137,
+ "longitude": -0.13081,
+ "priceAmount": 600000,
+ "priceLabel": "£600,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/88781466",
+ "area": "Glasslyn Road",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sizeSqFt": 925,
+  "sizeSqM": 86,
+  "tenureType": "SHARE_OF_FREEHOLD",
+  "yearsRemainingOnLease": 0,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 0,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 16/07/2026"
+ },
+ "sizeSqFt": 925,
+ "sizeSqM": 86,
+ "description": "This beautifully presented 925 sq ft two-bedroom, two-bathroom apartment forms part of an elegant period conversion, seamlessly combining timeless character with contemporary living. Ideally positioned just 0.7 miles from Highgate Station and only 0.4 miles from the Outstanding Ofsted-rated Coleridge Primary School, the property offers exceptional convenience in one of North London's most sought-after neighbourhoods.\n\nThe apartment features a generous principal bedroom complete with built-in storage and a stylish en-suite shower room, alongside a second well-proportioned bedroom with access to a useful storage and utility room. At the heart of the home is a bright and inviting living space, leading to a semi open-plan kitchen and dining area with striking bifold doors opening directly onto beautifully landscaped communal gardens, shared with just one other owner.\n\nFurther benefits include a Share of Freehold.\n\nPerfectly positioned near a variety of green spaces, this flat is just a short walk from Crouch End playing fields, Highgate Woods, Alexandra Palace, Priory Park, Queen's Wood, and Parkland Walk. The area also boasts excellent local amenities, including Park Road lido, a gym, swimming pools, and nursery schools at the end of the road. Crouch End offers a wealth of shopping options, including Waitrose, Sainsbury's, M&S supermarkets, local greengrocers, a fishmonger, bakery, and a range of excellent restaurants. Highgate Village, with its charming pubs, boutique shops, and the renowned Highgate School, is a short walk away, while easy access to the A1 and M1 (J2) make commuting a breeze. For those traveling into central London, Highgate Station (Northern Line) is just a 5-minute walk from the flat.  \n\nTenure: Share of Freehold \nLease length: 990 years remaining (999 years from 2017) \nService Charge - Adhoc\nCouncil tax band: D",
+ "keyFeatures": [
+  "Direct Access to Landscaped Shared Garden",
+  "2 Bedroom &amp; 2 Bathroom Flat",
+  "Share of Freehold",
+  "Private Entrance",
+  "925 Square Feet",
+  "Period Conversion",
+  "0.4 miles to Coleridge Primary School ",
+  "0.7 Miles to Highgate Station"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/87dbfde07/88781466/87dbfde0746d89b4cca24950bb2b9c62.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6d1d2863c/88781466/6d1d2863c94d91c4739b7c3da77fa196.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a0a1c5cf4/88781466/a0a1c5cf449557a07f954d90609f261a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/21f6035a5/88781466/21f6035a55d988649862ab92f18fb96b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/48802cf8d/88781466/48802cf8d0af4db524af74ad1e42d8d7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fc907c6b1/88781466/fc907c6b19321b6cc615dc49ac433b3f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cc2442bec/88781466/cc2442becbc81c846b5ab3338a336c11.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d46dd2fe8/88781466/d46dd2fe8bdd1abce38e3b0c6e6f390f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/89b02beef/88781466/89b02beef73456b8cab1e8b0bbcfbdc0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4c13fd54b/88781466/4c13fd54bb2c2c531c7347a1ebc0dca2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bcd5ecbb0/88781466/bcd5ecbb04f5721b1df7adf31e044869.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c9bd97b5e/88781466/c9bd97b5ed3e3ffe8e1a2d1c0ae11306.jpeg",
+  "https://media.rightmove.co.uk/property-photo/428ef19c1/88781466/428ef19c1923cc7b72d3dbf286606a09.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7e139ae3c/88781466/7e139ae3c0d2c3afd8f73a9abd2f95b1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/55588784b/88781466/55588784bbcc8557ec85123743452588.jpeg"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Highgate Station",
+   "miles": 0.7328743847545478,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Hornsey Station",
+   "miles": 0.8962069731270615,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Crouch Hill Station",
+   "miles": 0.907141959736264,
+   "types": [
+    "LONDON_OVERGROUND"
+   ]
+  }
+ ],
+ "agent": "David Astburys Ltd, Crouch End",
+ "city": "London",
+ "sourceOutcode": "N8",
+ "scrapedAt": "2026-08-31T16:59:02.659Z"
+}

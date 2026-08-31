@@ -1,0 +1,87 @@
+{
+ "id": "92426460",
+ "mode": "buy",
+ "displayAddress": "Edmonstone's Close, Old Town, Edinburgh, EH1",
+ "outcode": "EH1",
+ "incode": "2HB",
+ "latitude": 55.94812,
+ "longitude": -3.19402,
+ "priceAmount": 240000,
+ "priceLabel": "£240,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92426460",
+ "area": "Old Town, Edinburgh",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": 689,
+  "sizeSqM": 64,
+  "tenureType": "FREEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": 0,
+  "annualServiceCharge": 0,
+  "councilTaxBand": "C",
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Added on 26/08/2026"
+ },
+ "sizeSqFt": 689,
+ "sizeSqM": 64,
+ "description": "Cox & Co are delighted to present this beautifully appointed studio apartment, tucked away in Edmonstone’s Close, just off Edinburgh’s historic Grassmarket in the heart of the Old Town.\n\nOccupying a characterful and well-maintained building, the property combines an atmospheric Old Town setting with stylish contemporary living. Residents benefit from secure entry and an attractive carpeted communal stair, where extensive exposed stonework provides a striking reminder of the building's historic character, together with a dedicated bike storage room.\n\nThe bright open-plan kitchen and living space benefits from excellent natural light from two skylights, each fitted with electric blinds. Doors open to a Juliet balcony overlooking the peaceful internal courtyard, providing a welcome sense of tranquillity despite the exceptionally central location. The contemporary kitchen is well appointed and incorporates a range of integrated appliances.\n\nThe thoughtfully designed sleeping area is subtly separated from the main living space and features built-in wardrobes, making excellent use of the available space while providing valuable storage. A contemporary bathroom completes the accommodation.\n\nEdmonstone’s Close also has a fascinating place in Edinburgh’s cultural history, forming part of the former home of the original Traverse Theatre, which occupied premises here before moving to its present location.\n\nThe property is superbly positioned for everything the Old Town has to offer. The Grassmarket, Edinburgh Castle and Royal Mile are all on the doorstep, with an outstanding choice of independent shops, cafés, restaurants, traditional pubs and bars nearby. Princes Street, George Street and the wider city centre are also within easy walking distance.\n\nAn exceptional opportunity to acquire a stylish and characterful studio apartment in one of Edinburgh’s most iconic locations, offering an appealing blend of historic surroundings, contemporary comfort and exceptional city-centre convenience.\n\n \n\n EPC rating: C. Tenure: Freehold, Service charge description: Factor Fee - Myreside Management.,",
+ "keyFeatures": [
+  "Generously proportioned and beautifully presented studio apartment.",
+  "Prime Grassmarket location in Edinburgh’s historic Old Town.",
+  "Bright open-plan living space with two skylights and Juliet balcony.",
+  "Peaceful internal courtyard outlook.",
+  "Characterful historic building with secure entry and dedicated bike storage.",
+  "Gas central heating."
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/6f34b0dcd/92426460/6f34b0dcd1917a7be218126375f2a617.jpeg",
+  "https://media.rightmove.co.uk/property-photo/777154dbd/92426460/777154dbd7fbb7e12b091507556cbee7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0fcc53cb6/92426460/0fcc53cb64ee18234319ffcd2ceaef32.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e348db87b/92426460/e348db87b94a9b2731ee035dfc362d2e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2372040e2/92426460/2372040e2100fb8416a6bb76e6e3e712.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8bc1b4c48/92426460/8bc1b4c48600211f4425558debd3bca6.jpeg",
+  "https://media.rightmove.co.uk/property-photo/037ec14bd/92426460/037ec14bd8136f94425fd81e714f2810.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e9475cfa6/92426460/e9475cfa6213fea15837854f4d5b0e5b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/8d4569ac8/92426460/8d4569ac84d019342c03c397435e4fb1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/08ee50b26/92426460/08ee50b26ea63908d4bdbd22fcdb3b8b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a5385ae39/92426460/a5385ae3954b156ff947bb85d79a7caf.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cb9f33ebe/92426460/cb9f33ebec04d57d81e6441e951ce86d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1bf122d2b/92426460/1bf122d2bb4d390ea3ef3ca637ce0b51.jpeg",
+  "https://media.rightmove.co.uk/property-photo/089395bb1/92426460/089395bb171c8b8615c9eace00d207e7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/05aa98217/92426460/05aa9821784b5f737771d5b6b727846b.jpeg"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Edinburgh Waverley Station",
+   "miles": 0.3153191284710349,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Haymarket Station",
+   "miles": 0.9551095033467873,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Slateford Station",
+   "miles": 2.4297041146979,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Cox & Co, Edinburgh",
+ "city": "Edinburgh",
+ "sourceOutcode": "EH1",
+ "scrapedAt": "2026-08-31T14:54:01.662Z"
+}

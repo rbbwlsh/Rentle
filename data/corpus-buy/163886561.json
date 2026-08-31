@@ -1,0 +1,91 @@
+{
+ "id": "163886561",
+ "mode": "buy",
+ "displayAddress": "L-001066, Aurora Gardens, Battersea",
+ "outcode": "SW11",
+ "incode": "8ED",
+ "latitude": 51.482004,
+ "longitude": -0.146368,
+ "priceAmount": 675000,
+ "priceLabel": "£675,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/163886561",
+ "area": "L-001066, Battersea",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Apartment",
+ "details": {
+  "propertyType": "Apartment",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": null,
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Added on 27/06/2025"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "A unique 1-bed apartment with large private garden. \n\n \n\nSituated on the ground floor of Faraday House the apartment boasts a rare asset in having a 600sft garden with beautiful planting, grass lawn and outdoor seating area.\n\n \n\nThe apartment itself has been carefully arranged to have an open plan kitchen living area, a large bedroom and a Jack and Jill bathroom, allowing guests to use the facilities without imposing on the privacy of the bedroom. \n\n \n\nThe living room faces west and opens onto a balcony overlooking the restaurants on Arches Lane.\n\n \n\nResidents of Circus West Village enjoy access to a range of on-site amenities, including 24hr concierge, gym, pool and spa facilities in addition to the Riverhouse lounge with café and bar, screening room, meeting room and WFH space, all boasting views of the Thames and the Power Station.\n\n \n\nA stone's throw from the Power Station's newly opened shops, cafes, bars and restaurants and 5 minutes from the new underground station, this property is in a prime location in the heart of Battersea’s newest neighbourhood.",
+ "keyFeatures": [
+  "Battersea Power Station",
+  "Excellent Travel Links",
+  "Wood Floors",
+  "Swimming Pool",
+  "Gym"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/75c9aa40e/163886561/75c9aa40e393c6532af77b0b717b9539.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e54fc22fb/163886561/e54fc22fb20106673c2e55f3bbe7ce26.jpeg",
+  "https://media.rightmove.co.uk/property-photo/76b137c78/163886561/76b137c789bbab3ad378288414efe90d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2077b6805/163886561/2077b680520dce85155dfb663f6438e2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5861b954d/163886561/5861b954dd0169a81bdd2e49e4657c48.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ece284988/163886561/ece28498862e721af338b3075dadc82f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4c5d19f38/163886561/4c5d19f3898248e7ee9a3047f8f75615.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1a2b019e4/163886561/1a2b019e41bd03a191ecf67f14ace276.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cead6b4bf/163886561/cead6b4bfbe240e237c701e6965b2d5f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9170781ff/163886561/9170781ffecf4783287a6f9253890468.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b7fbd4e3e/163886561/b7fbd4e3e8ab06ac2f5067c9e48a1511.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2559c1fe9/163886561/2559c1fe985be3df2ea42a10a1ff6474.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b6d3a64e9/163886561/b6d3a64e9c6c044c32cbff06e449e2a1.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ed6e156b0/163886561/ed6e156b09b1fa8055864c5a3ee8aa4f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fffe5b4ec/163886561/fffe5b4ecd9ee128e8ae8e8279968e7e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dfa575480/163886561/dfa575480fa36b02637f5c688e5aeaea.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ac0896289/163886561/ac08962895199ef257778bd85e0e0f8f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dbee7b1a0/163886561/dbee7b1a0f28b061a6c4856b6ef69b7e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/29cee8a96/163886561/29cee8a96f1913d278322bb69aefcd7f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d7bcd3e48/163886561/d7bcd3e48c8fd4b69fbf116a919a7fc9.jpeg"
+ ],
+ "imageCount": 20,
+ "nearestStations": [
+  {
+   "name": "Battersea Power Underground Station",
+   "miles": 0.23146327410257655,
+   "types": [
+    "LONDON_UNDERGROUND"
+   ]
+  },
+  {
+   "name": "Battersea Park Station",
+   "miles": 0.29234466656276936,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Queenstown Road (Battersea) Station",
+   "miles": 0.4998816568051679,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Battersea Power Station, Battersea",
+ "city": "London",
+ "sourceOutcode": "SW11",
+ "scrapedAt": "2026-08-31T16:58:01.217Z"
+}

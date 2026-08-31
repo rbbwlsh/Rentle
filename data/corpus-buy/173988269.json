@@ -1,0 +1,75 @@
+{
+ "id": "173988269",
+ "mode": "buy",
+ "displayAddress": "PAVILLION HOUSE, St. Michaels Lane, Leeds, West Yorkshire, LS6",
+ "outcode": "LS6",
+ "incode": "3BR",
+ "latitude": 53.81604,
+ "longitude": -1.58061,
+ "priceAmount": 61000,
+ "priceLabel": "£61,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/173988269",
+ "area": "Leeds, West Yorkshire",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Studio",
+ "details": {
+  "propertyType": "Studio",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": null,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": null,
+  "listingUpdate": "Reduced on 29/10/2024"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "The Pavillion is located close to the popular Headingley district centre and has good public transport links to the city centre: the perfect solution for students looking for independent living in a modern environment.This apartment is currently tenanted and generating a live yield.\n\n  \n\n Students demands have changed over recent years and many, especially those from overseas, no longer wish to live in converted houses or in the common \"cluster-flat\" undergraduate student accommodation. They now require bespoke, purpose-built accommodation which lies close to the educational hub. The large and modern common room is a brilliant place to wind down and socialise at the end of a long day, but if the outdoors are more your thing, then you can head upstairs to the impressive roof terrace, where you can relax on the outdoor furniture and enjoy time with your friends overlooking the Carnegie stadium. For those of you more dedicated to sport and fitness, The Pavilion also offers an on-site gym.",
+ "keyFeatures": [
+  "Close to the popular Headingley district centre",
+  "Good transport links to city centre",
+  "Gym, roof top terrace &amp; common room",
+  "A fully hands-off investment managed by reputable asset managers"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/1b4dd7072/173988269/1b4dd7072f521cb0f418ec682373b47c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/586bfed4c/173988269/586bfed4cf533bde9a0d2c45704258ac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/ae8d1ffb3/173988269/ae8d1ffb3b225afd42662432a3185428.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2e0d082e6/173988269/2e0d082e69f364bcae461c138f2abee0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/37da7c6c1/173988269/37da7c6c1472b9d0f0a8c5d37c34ae9a.jpeg"
+ ],
+ "imageCount": 5,
+ "nearestStations": [
+  {
+   "name": "Burley Park Station",
+   "miles": 0.29947853998123325,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Headingley Station",
+   "miles": 0.5685093094552289,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Kirkstall Forge Station",
+   "miles": 1.7878097264138144,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Aspen Woolf Ltd, Leeds",
+ "city": "Leeds",
+ "sourceOutcode": "LS6",
+ "scrapedAt": "2026-08-31T14:54:58.111Z"
+}

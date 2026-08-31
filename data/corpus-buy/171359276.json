@@ -1,0 +1,79 @@
+{
+ "id": "171359276",
+ "mode": "buy",
+ "displayAddress": "Leetham House, Hungate, York, YO1",
+ "outcode": "YO1",
+ "incode": "7PD",
+ "latitude": 53.958795,
+ "longitude": -1.074003,
+ "priceAmount": 195000,
+ "priceLabel": "£195,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/171359276",
+ "area": "Hungate, York",
+ "bedrooms": 1,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sizeSqFt": 483,
+  "sizeSqM": 45,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 179,
+  "annualGroundRent": 300,
+  "annualServiceCharge": 1339.56,
+  "councilTaxBand": "B",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 07/08/2026"
+ },
+ "sizeSqFt": 483,
+ "sizeSqM": 45,
+ "description": "A superb one bedroom modern apartment offering the huge advantage of a spacious open plan living area which opens onto a balcony.\n\n\rPlaced near the heart of the city centre in the popular Hungate development, the property is ideal for anyone looking for city living with easy access to all the amenities the city has to offer. The railway station is within easy reach and there are also many major supermarkets placed close by.\n\nIdeal as a home close to the city centre the property would also make an excellent investment opportunity. For details on both the current and long term potential rental income, please contact the office.\n\nThe property is reached via a secure communal hallway with either a staircase or a lift to reach the first floor. The well-presented accommodation begins with a entrance hallway with immediate access to a useful utility cupboard. The centrepiece of the home is the open plan lounge/diner and fitted kitchen. The lounge area has a French door opening onto the balcony and the kitchen has a range of wall and base units and built-in appliances including an oven, hob, microwave, fridge and a freezer. The apartment then continues with a double bedroom with a built-in wardrobe and finally there is a three piece bathroom with a shower over the bath and a heated towel rail. There is also electric heating and double glazing throughout.\n\nOutside the development is a delightful communal courtyard placed at the centre of the development.\n\nThe property is connected to a mains electricity supply, with mains water supplied by Yorkshire Water. The broadband types available in the area are standard, superfast and ultrafast. Mobile availability at the property is covered by all four major suppliers. Please either check the Ofcom website or contact the office for specific details and suppliers available, for both broadband and mobile.\n\nThis is a leasehold property. The lease is 199 years from 1/1/2007. The latest service charge is £1,339.56 per annum. The ground rent is £300 per annum.\n\nPlease be aware the photos shown were taken before the current tenant moved in. Prior to viewing the property internally or externally, please contact the office.\n\nCommunal Hallway  \nSecure entrance door and either lift or stairs leading to the first floor.\n\nEntrance Hall  \nEntrance door and access to utility cupboard housing hot water tank and space for washing machine.\n\nLounge/Diner and Open Plan Kitchen  20'11\" x 10'4\" (6.38m x 3.15m)\nFrench door leading to balcony with window to the side. Kitchen offers wall and base units, work surfaces, sink and built-in appliances including an oven, hob, microwave, fridge and freezer.\n\nBedroom  10'2\" x 11'3\" (3.1m x 3.43m)\nWindow and built-in wardrobe.\n\nBathroom  \nThree piece suite with bath with shower over, sink, W.C. and heated towel rail.\n\nExterior  \nCommunal courtyard with seating and planted beds.\n\nMaterial Information  \nLeasehold. Council tax band B.",
+ "keyFeatures": [
+  "First Floor Apartment",
+  "One Double Bedroom",
+  "Open Plan Living Space",
+  "Fitted Kitchen with Built-In Appliances",
+  "Three Piece Bathroom",
+  "Balcony",
+  "Communal Courtyard",
+  "City Centre Location"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/9e8b7d3a7/171359276/9e8b7d3a765f161f84ecace05c7e92f0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/7e4765bba/171359276/7e4765bbae90ff81c7cfa181bb28cd79.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b86dfc2aa/171359276/b86dfc2aa5122de27b907c5abb16496a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dd01d5954/171359276/dd01d5954064b14bc673f277edac9cf9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c6457a3fd/171359276/c6457a3fd99bd1c62f4e75e94306776e.jpeg",
+  "https://media.rightmove.co.uk/property-photo/cfbb2004a/171359276/cfbb2004aa6d5f9a9186c52f6ae0bfdc.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a74b37be2/171359276/a74b37be2f0e35180395ce527959f23d.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dc7c4d5cd/171359276/dc7c4d5cda2afbf7491dfc385a8b224a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/220a63be7/171359276/220a63be78983262c20a1f3e33bb06ce.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fff5575ca/171359276/fff5575ca984811f5d1d4e16a48f4ba8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/917d09eb0/171359276/917d09eb0924111b11215688246abab3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/6f8f927a0/171359276/6f8f927a0969e46370de26f9b73ef24d.jpeg"
+ ],
+ "imageCount": 12,
+ "nearestStations": [
+  {
+   "name": "York Station",
+   "miles": 0.7844791706684897,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Poppleton Station",
+   "miles": 3.252575308082095,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Linley and Simpson, York",
+ "city": "York",
+ "sourceOutcode": "YO1",
+ "scrapedAt": "2026-08-31T14:55:13.413Z"
+}

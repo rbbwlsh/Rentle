@@ -1,0 +1,93 @@
+{
+ "id": "168779801",
+ "mode": "buy",
+ "displayAddress": "Melbourne Street, Newcastle Upon Tyne, NE1",
+ "outcode": "NE1",
+ "incode": "2JR",
+ "latitude": 54.972462,
+ "longitude": -1.603882,
+ "priceAmount": 170000,
+ "priceLabel": "£170,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/168779801",
+ "area": "Newcastle Upon Tyne",
+ "bedrooms": 3,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "sizeSqFt": 710,
+  "sizeSqM": 66,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 103,
+  "annualGroundRent": null,
+  "annualServiceCharge": null,
+  "councilTaxBand": null,
+  "priceQualifier": "Offers Over",
+  "listingUpdate": "Reduced on 27/08/2026"
+ },
+ "sizeSqFt": 710,
+ "sizeSqM": 66,
+ "description": "Our latest listing is a 3 bedroom Flat located in Newcastle Upon Tyne. It is in close proximity to valuable amenities, is able to generate rewarding rental returns and has a tenant currently situated.\r\n\r\nFor investors looking to expand their portfolio, this is a fantastic opportunity!\r\n\r\nThis well-kept home features 3 comfortable bedrooms, a modern bathroom, spacious living room, and a private underground parking.\r\n\r\nInvestment details\r\n\r\nIt currently produces an annual gross income of £16,800 with tenants currently situated. Considering the purchase price and the potential rental income that could be earned in future years, this will make for a worthwhile addition to an investors property portfolio.\r\n\r\nFor greater detail on this property's investment potential, please see the Let Property Pack linked below.\r\n\r\nIf you are interested, please call us.\r\n\r\nTenancy Details\r\n\r\nThe current tenants have lived in the property for several years and have consistently paid their rent for the duration of their stay. They do not have any intentions to move out so hope to remain in the property.\r\n\r\nWe are committed to facilitating a smooth transaction process between buyer and seller. To allow for maximum commitment to the sale from both parties, a Buyers Premium will apply in order to secure a property.",
+ "keyFeatures": [
+  "Private Underground Parking",
+  "Buy-to-Let Opportunity",
+  "Long Term Tenant Currently Situated",
+  "Likely to attract enquiries from Serious Investors &amp; Developers",
+  "INVESTMENT POTENTIAL DETAILED BELOW (Let Property Pack)",
+  "Investment Opportunity"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/dd819cc65/168779801/dd819cc6593a8e32cdaf0df5e063a30f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/342393ba4/168779801/342393ba4d92894bb82af35eb2e33dd8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3eb3fe97c/168779801/3eb3fe97c69242cd39387e0457889902.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5cd83b66b/168779801/5cd83b66b9e6031eaa6eeb3d04c1a748.jpeg",
+  "https://media.rightmove.co.uk/property-photo/900ecd132/168779801/900ecd1320d33296c1f03797d2070366.jpeg",
+  "https://media.rightmove.co.uk/property-photo/dd73bc67e/168779801/dd73bc67eafd2f4639bc91178a9aa50a.jpeg",
+  "https://media.rightmove.co.uk/property-photo/299c4315b/168779801/299c4315bb0c5b4835a36a4122026aac.jpeg",
+  "https://media.rightmove.co.uk/property-photo/95e13f078/168779801/95e13f078c1c6b7dfe17f2940a838c9b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/e0fe5cf75/168779801/e0fe5cf75b281678145c8e417c5598e5.jpeg",
+  "https://media.rightmove.co.uk/property-photo/5d0b99fad/168779801/5d0b99fadc5b733f0e848dad5ca3a544.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c3ac37fd6/168779801/c3ac37fd615aac34250338277f327cd0.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a7463fb56/168779801/a7463fb56aafbfc3739d00240cc90d29.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2bbaf45fb/168779801/2bbaf45fbe347787c52a36ef35694fc7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/3a06dae90/168779801/3a06dae90aeeb33b2681f238886a5758.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9811eaaa0/168779801/9811eaaa08ca266f2f5035505e1014b3.jpeg",
+  "https://media.rightmove.co.uk/property-photo/28e5317b5/168779801/28e5317b505f21194cb5153426cd51f8.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2fc87c016/168779801/2fc87c016c89e173bc36a4fc80fb7bdd.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fe8a7e6fb/168779801/fe8a7e6fb51944fb1a581d056fb871d4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/adbe4b90b/168779801/adbe4b90b4d8dfdef3d49f8860596ddf.jpeg"
+ ],
+ "imageCount": 19,
+ "nearestStations": [
+  {
+   "name": "Manors Station",
+   "miles": 0.10920341448630545,
+   "types": [
+    "NATIONAL_TRAIN",
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Newcastle Central Station",
+   "miles": 0.5914033296041417,
+   "types": [
+    "NATIONAL_TRAIN",
+    "TRAM"
+   ]
+  },
+  {
+   "name": "Jesmond Metro Station",
+   "miles": 0.6675760903795219,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Let Property Sales & Management, Glasgow",
+ "city": "Newcastle",
+ "sourceOutcode": "NE1",
+ "scrapedAt": "2026-08-31T15:03:27.024Z"
+}

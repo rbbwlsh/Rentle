@@ -1,0 +1,80 @@
+{
+ "id": "92001828",
+ "mode": "buy",
+ "displayAddress": "Cambridge Street, Manchester, Greater Manchester, M1",
+ "outcode": "M1",
+ "incode": "5GB",
+ "latitude": 53.47327,
+ "longitude": -2.24403,
+ "priceAmount": 310000,
+ "priceLabel": "£310,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/92001828",
+ "area": "Manchester, Greater Manchester",
+ "bedrooms": 3,
+ "bathrooms": 2,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 239,
+  "annualGroundRent": 300,
+  "annualServiceCharge": 2575.68,
+  "councilTaxBand": "E",
+  "priceQualifier": null,
+  "listingUpdate": "Added on 14/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "The Assembley. An exceptional three-bedroom apartment offering premium urban living in one of Manchester's most vibrant quarters. Located on the &th floor this stylish contemporary residence combines spacious design with city-centre convenience, making it an ideal choice for professionals, families, or investors. This modern apartment boasts a fluid, open-plan layout designed for comfortable living and entertaining. The expansive lounge and dining area seamlessly connect to a sleek, high-specification kitchen equipped with integrated appliances. Floor-to-ceiling windows flood the living space with light and open directly onto a private balcony. The master bedroom features a chic en-suite shower room, complementing a further stylish family bathroom. Situated within the highly desirable Assembly development, the property benefits from secure fob entry, intercom access, and a lift to all floors. Residents enjoy immediate access to Manchester’s premier dining, shopping, and cultural hotspots, alongside exceptional transport links for effortless commuting. Complete with that all important secure car parking space. \n\nEPC B\n\n250 years from 1 January 2016 until 31 December 2265\n\nGround Rent £300 PA \nService Charge £2575.68 PA\nBuildings Insurance £610.49  PA\n\nManagement Company Zenith Property Management\n\nPlease note that an AML fee is chargeable to the buyer once an offer is accepted to cover the cost of carrying out the required identity and anti-money laundering checks. Once these checks have been completed, the fee cannot be refunded, even if the property purchase does not go ahead.",
+ "keyFeatures": [],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/b6af259d2/92001828/b6af259d2294aa3162945200cc0cb856.jpeg",
+  "https://media.rightmove.co.uk/property-photo/77e6834ce/92001828/77e6834ce4d36c78dc3922716e8d7ef2.jpeg",
+  "https://media.rightmove.co.uk/property-photo/51f75ded9/92001828/51f75ded9aa94d708eb18bda63f7b5ec.jpeg",
+  "https://media.rightmove.co.uk/property-photo/bd817f19a/92001828/bd817f19aa539e2c5956332753c32401.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a13282abc/92001828/a13282abc09897007eaf408ad35e4ab4.jpeg",
+  "https://media.rightmove.co.uk/property-photo/fe9bfecf7/92001828/fe9bfecf78739e83c7e52e2de0fa8e2f.jpeg",
+  "https://media.rightmove.co.uk/property-photo/24be3dc9c/92001828/24be3dc9c409e0e28c30b8743747ab8b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1fc6afaf0/92001828/1fc6afaf08c13f0721c40635c397f8ed.jpeg",
+  "https://media.rightmove.co.uk/property-photo/0f765571f/92001828/0f765571f69a39d15fb50c06430eae0c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1771320bb/92001828/1771320bb596e61f98c79e1b56109447.jpeg",
+  "https://media.rightmove.co.uk/property-photo/d002bd3c8/92001828/d002bd3c832ff6d6518b2ae5f527e7cb.jpeg",
+  "https://media.rightmove.co.uk/property-photo/9fd91d15f/92001828/9fd91d15f4c8bf134d67a98a4582c70c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/c9ae2866b/92001828/c9ae2866b414e4e5b4df63d95d83fc7c.jpeg",
+  "https://media.rightmove.co.uk/property-photo/653935c5e/92001828/653935c5e70a3f6e4779286f61b31474.jpeg",
+  "https://media.rightmove.co.uk/property-photo/1a08f43a8/92001828/1a08f43a82b7f2f9a1e1b30e8d5a06ff.jpeg"
+ ],
+ "imageCount": 15,
+ "nearestStations": [
+  {
+   "name": "Manchester Oxford Road Station",
+   "miles": 0.0861309957325858,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Deansgate Station",
+   "miles": 0.28634116871655074,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "St Peters Square Tram Stop",
+   "miles": 0.30439711102035205,
+   "types": [
+    "TRAM"
+   ]
+  }
+ ],
+ "agent": "Bridgfords, Manchester",
+ "city": "Manchester",
+ "sourceOutcode": "M1",
+ "scrapedAt": "2026-08-31T16:57:24.678Z"
+}

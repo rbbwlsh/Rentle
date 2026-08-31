@@ -1,0 +1,79 @@
+{
+ "id": "91762707",
+ "mode": "buy",
+ "displayAddress": "Lansdowne Court, 83 Lansdowne Road, Bournemouth, Dorset, BH1",
+ "outcode": "BH1",
+ "incode": "1RP",
+ "latitude": 50.731094,
+ "longitude": -1.872253,
+ "priceAmount": 90000,
+ "priceLabel": "£90,000",
+ "rightmoveUrl": "https://www.rightmove.co.uk/properties/91762707",
+ "area": "Bournemouth, Dorset",
+ "bedrooms": 0,
+ "bathrooms": 1,
+ "propertySubType": "Flat",
+ "details": {
+  "propertyType": "Flat",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "sizeSqFt": null,
+  "sizeSqM": null,
+  "tenureType": "LEASEHOLD",
+  "yearsRemainingOnLease": 106,
+  "annualGroundRent": 75,
+  "annualServiceCharge": 1932,
+  "councilTaxBand": "A",
+  "priceQualifier": "Guide Price",
+  "listingUpdate": "Reduced on 21/08/2026"
+ },
+ "sizeSqFt": null,
+ "sizeSqM": null,
+ "description": "Set within a charming character building conversion, this spacious first-floor studio apartment offers a fantastic investment opportunity, available with a tenant in situ, providing immediate rental income. Ideally located close to the town centre, with excellent transport links and easy access to nearby beaches, this well-proportioned home combines convenience with attractive period charm.\nThe apartment is accessed via internal stairs leading up to a split-level entrance hall, which adds a touch of architectural interest upon arrival. From here, the property opens into a generous studio room, notable for its dual aspect windows that fill the space with natural light and provide a bright, welcoming atmosphere.\nThe separate kitchen is both functional and thoughtfully laid out, featuring matching cupboards at base and eye level, ample work surface, and an inset sink. Integrated appliances include a gas hob, electric oven, and extractor hood, with space for an upright fridge/freezer and plumbing in place for a washing machine—ideal for modern living.\nThe bathroom is fitted with a matching three-piece suite, comprising a panelled bath with shower attachment, wash hand basin, and WC, all presented in a clean, neutral style.\nAdditional benefits of this property include an allocated parking space, well-maintained communal gardens, and a secure bike shed, enhancing both practicality and lifestyle appeal for residents.\nThis apartment is part of a converted period building that retains original character while offering the comfort and functionality of a contemporary home. Its prime location, combined with strong rental demand in the area, makes it an ideal choice for investors looking to expand their portfolio with a ready-to-go, income-generating asset.\nTenure: LeaseholdLease: 125 years from 29.09.2007 (107 years remaining)\nGround Rent: £75 p/aService Charge: £1,932 p/a\nCouncil Tax: Band 'A'EPC Rating: Band 'C'\nPeriodic Lets permittedNo Holiday/AirBnB LetsNo Pets permitted",
+ "keyFeatures": [
+  "FIRST FLOOR STUDIO FLAT",
+  "DUAL ASPECT STUDIO ROOM",
+  "SEPARATE KITCHEN",
+  "BATHROOM",
+  "ALLOCATED PARKING",
+  "NO FORWARD CHAIN",
+  "FIRST TIME BUY OR INVESTMENT"
+ ],
+ "tags": [],
+ "images": [
+  "https://media.rightmove.co.uk/property-photo/0219e35cc/91762707/0219e35cc77652b2753897c3be4e274b.jpeg",
+  "https://media.rightmove.co.uk/property-photo/a6f409638/91762707/a6f4096383d10bfe4e460cd5bab2d6c7.jpeg",
+  "https://media.rightmove.co.uk/property-photo/4c7c922ab/91762707/4c7c922abc213c1afe71bebcebbe6ae9.jpeg",
+  "https://media.rightmove.co.uk/property-photo/b66577e3b/91762707/b66577e3b6d12eb70939f2ab65ccd161.jpeg",
+  "https://media.rightmove.co.uk/property-photo/2193c96d8/91762707/2193c96d8f4d14aeec6cb6ffe1bb1586.jpeg",
+  "https://media.rightmove.co.uk/property-photo/caff40ecc/91762707/caff40ecc80aee36febf69e3d9f64d02.jpeg"
+ ],
+ "imageCount": 6,
+ "nearestStations": [
+  {
+   "name": "Bournemouth Station",
+   "miles": 0.417946154748408,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Branksome Station",
+   "miles": 2.0649860377451477,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  },
+  {
+   "name": "Pokesdown Station",
+   "miles": 2.062935108644659,
+   "types": [
+    "NATIONAL_TRAIN"
+   ]
+  }
+ ],
+ "agent": "Frost & Co Estate Agents, Bournemouth",
+ "city": "Bournemouth",
+ "sourceOutcode": "BH1",
+ "scrapedAt": "2026-08-31T14:52:04.339Z"
+}
