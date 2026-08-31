@@ -1,0 +1,9 @@
+# Cache rules for manual (drag-and-drop) deploys; netlify.toml carries the
+# same rules for CLI deploys. Images and hashed assets never change at their
+# URL; corpus data can change on redeploy.
+/img/*
+  Cache-Control: public, max-age=31536000, immutable
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+/data/*
+  Cache-Control: public, max-age=300
