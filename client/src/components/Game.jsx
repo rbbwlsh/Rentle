@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { loadIndex, loadListing } from '../data.js';
-import { scoreGuess, summarizeGuesses, MAX_ATTEMPTS } from '../engine/engine.js';
-import { pickDaily, londonDate } from '../engine/picker.js';
+import { scoreGuess, summarizeGuesses, MAX_ATTEMPTS, TIERS } from '../engine/engine.js';
+import { pickDaily, dailyNumber, londonDate } from '../engine/picker.js';
 import { recordGame } from '../engine/stats.js';
 import { formatGbp } from '../format.js';
 import ListingCard from './ListingCard.jsx';
@@ -9,10 +9,10 @@ import GuessControl from './GuessControl.jsx';
 import HintList from './HintList.jsx';
 import Reveal from './Reveal.jsx';
 
-// The 4-guess game. Loads a listing chunk from the static corpus, scores
-// guesses client-side, and ends in a win or fail reveal with personal stats.
-// If `opponent` is set (from a ?s= share link), the player is trying to beat
-// a friend's score.
+// The 4-guess game. Loads a listing chunk from the static data, scores
+// guesses client-side, and shows a Wordle-style closeness row after each one.
+// Ends in a win or fail reveal. If `opponent` is set (from a ?s= share link),
+// the player is trying to beat a friend's score.
 export default function Game({ listingId, opponent, onHome, navigate }) {
   const [phase, setPhase] = useState('loading'); // loading|error|playing|won|lost
   const [error, setError] = useState('');
@@ -22,7 +22,10 @@ export default function Game({ listingId, opponent, onHome, navigate }) {
   const [attempt, setAttempt] = useState(1);
   const [hints, setHints] = useState([]);
   const [guesses, setGuesses] = useState([]);
-  const [you, setYou] = useState(null); // { won, attemptWon, bestDiff }
+  const [tiers, setTiers] = useState([]);
+  const [directions, setDirections] = useState([]);
+  const [you, setYou] = useState(null); // { won, attemptWon, bestDiff, bestPct }
+  const [puzzleNo, setPuzzleNo] = useState(null); // set when this is today's daily
 
   useEffect(() => {
     let cancelled = false;
@@ -45,22 +48,34 @@ export default function Game({ listingId, opponent, onHome, navigate }) {
     };
   }, [listingId]);
 
-  async function finish(won, allGuesses) {
-    const { bestDiff, attemptWon } = summarizeGuesses(allGuesses, answer.priceAmount);
-    setYou({ won, attemptWon, bestDiff });
+  // Is this listing today's daily? (Drives streaks and the "Rentle #N" label.)
+  useEffect(() => {
+    loadIndex()
+      .then((index) => {
+        if (String(pickDaily(index.order, londonDate())) === String(listingId)) {
+          setPuzzleNo(dailyNumber(londonDate()));
+        }
+      })
+      .catch(() => {});
+  }, [listingId]);
+
+  async function finish(won, allGuesses, allTiers) {
+    const { bestDiff, bestPct, attemptWon } = summarizeGuesses(
+      allGuesses,
+      answer.priceAmount
+    );
+    setYou({ won, attemptWon, bestDiff, bestPct });
     setPhase(won ? 'won' : 'lost');
-    // Streaks only count for today's daily listing.
     try {
-      const index = await loadIndex();
-      const today = londonDate();
       recordGame({
         id: String(listingId),
         won,
         attemptWon,
         bestDiff,
+        bestPct,
         guesses: allGuesses,
-        isDaily: String(pickDaily(index.order, today)) === String(listingId),
-        dateStr: today,
+        isDaily: puzzleNo != null,
+        dateStr: londonDate(),
       });
     } catch {
       /* stats are non-essential */
@@ -68,16 +83,19 @@ export default function Game({ listingId, opponent, onHome, navigate }) {
   }
 
   function handleGuess(guess) {
-    const nextGuesses = [...guesses, guess];
-    setGuesses(nextGuesses);
     const res = scoreGuess({
       actual: answer.priceAmount,
       guess,
       attempt,
       comparables: listing.comparables || [],
     });
+    const nextGuesses = [...guesses, guess];
+    const nextTiers = [...tiers, res.tier];
+    setGuesses(nextGuesses);
+    setTiers(nextTiers);
+    setDirections((d) => [...d, guess > answer.priceAmount ? 'high' : 'low']);
     if (res.status === 'win' || res.status === 'fail') {
-      finish(res.status === 'win', nextGuesses);
+      finish(res.status === 'win', nextGuesses, nextTiers);
     } else {
       setHints((h) => [...h, res.hint]);
       setAttempt((a) => a + 1);
@@ -124,6 +142,8 @@ export default function Game({ listingId, opponent, onHome, navigate }) {
         bestGuess={bestGuess}
         rightmoveUrl={answer.rightmoveUrl}
         listingId={listingId}
+        tiers={tiers}
+        puzzleNo={puzzleNo}
         you={you}
         opponent={opponent}
         onHome={onHome}
@@ -139,13 +159,61 @@ export default function Game({ listingId, opponent, onHome, navigate }) {
 
       <ListingCard listing={listing} />
 
+      <GuessHistory guesses={guesses} tiers={tiers} directions={directions} />
+
       <HintList hints={hints} />
 
       <GuessControl attempt={attempt} maxAttempts={MAX_ATTEMPTS} onGuess={handleGuess} />
 
       <p className="text-center text-xs text-slate-400">
-        Guess the monthly rent. Get within £50 to win. Wrong guesses unlock hints.
+        Guess the monthly rent. Get within 5% to win. Wrong guesses unlock hints.
       </p>
+    </div>
+  );
+}
+
+const SQUARE_COLORS = {
+  green: 'bg-emerald-500',
+  yellow: 'bg-yellow-400',
+  orange: 'bg-orange-400',
+  red: 'bg-rose-500',
+};
+
+// One row per past guess: amount, five closeness squares, hot/cold word, and
+// which way to move. The squares are the game's temperature language — same
+// scale as the share grid.
+export function GuessHistory({ guesses, tiers, directions }) {
+  if (!guesses.length) return null;
+  return (
+    <div className="rounded-2xl bg-white p-4 shadow-lg shadow-rose-200/40">
+      <div className="space-y-2">
+        {guesses.map((g, i) => {
+          const t = TIERS[tiers[i]];
+          return (
+            <div key={i} className="flex items-center gap-3 text-sm">
+              <span className="w-16 text-right font-semibold text-slate-600">
+                {formatGbp(g)}
+              </span>
+              <div className="flex gap-1">
+                {[0, 1, 2, 3, 4].map((s) => (
+                  <span
+                    key={s}
+                    className={`h-4 w-4 rounded ${
+                      s < t.squares ? SQUARE_COLORS[t.color] : 'bg-slate-200'
+                    }`}
+                  />
+                ))}
+              </div>
+              <span className="text-xs font-semibold text-slate-500">{t.label}</span>
+              {tiers[i] !== 0 && (
+                <span className="ml-auto text-xs text-slate-400">
+                  {directions[i] === 'high' ? 'too high ↓' : 'too low ↑'}
+                </span>
+              )}
+            </div>
+          );
+        })}
+      </div>
     </div>
   );
 }
@@ -154,7 +222,9 @@ function OpponentBanner({ opponent }) {
   const name = opponent.name || 'A friend';
   const summary = opponent.won
     ? `won on guess ${opponent.attemptWon}`
-    : `got within ${formatGbp(opponent.bestDiff)} but didn't crack it`;
+    : opponent.bestPct != null
+      ? `got within ${Math.round(opponent.bestPct * 100)}% but didn't crack it`
+      : `got within ${formatGbp(opponent.bestDiff)} but didn't crack it`;
   return (
     <div className="rounded-2xl bg-brand-600 px-5 py-4 text-center text-white shadow-lg">
       <p className="text-sm font-semibold">🏁 Beat {name}</p>

@@ -60,7 +60,7 @@ const dayBefore = (dateStr) => {
 // Record a finished game. `isDaily` + `dateStr` drive the streak; a replayed
 // listing keeps its first result. Returns the updated stats.
 export function recordGame(
-  { id, won, attemptWon, bestDiff, guesses, isDaily = false, dateStr },
+  { id, won, attemptWon, bestDiff, bestPct, guesses, isDaily = false, dateStr },
   storage
 ) {
   const stats = loadStats(storage);
@@ -70,6 +70,7 @@ export function recordGame(
       won,
       attemptWon,
       bestDiff,
+      bestPct: bestPct ?? null,
       guesses,
       completedAt: new Date().toISOString(),
     };

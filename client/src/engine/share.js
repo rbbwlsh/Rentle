@@ -11,27 +11,29 @@ const toBase64Url = (s) =>
 const fromBase64Url = (s) =>
   decodeURIComponent(escape(atob(s.replace(/-/g, '+').replace(/_/g, '/'))));
 
-export function encodeShare({ name, won, attemptWon, bestDiff }) {
+export function encodeShare({ name, won, attemptWon, bestDiff, bestPct }) {
   return toBase64Url(
     JSON.stringify({
       n: name || '',
       w: won ? 1 : 0,
       a: attemptWon ?? null,
       d: bestDiff ?? null,
+      p: bestPct != null ? Math.round(bestPct * 1000) / 1000 : null,
     })
   );
 }
 
-// Returns { name, won, attemptWon, bestDiff } or null for a bad token.
+// Returns { name, won, attemptWon, bestDiff, bestPct } or null for a bad token.
 export function decodeShare(token) {
   if (!token) return null;
   try {
-    const { n, w, a, d } = JSON.parse(fromBase64Url(token));
+    const { n, w, a, d, p } = JSON.parse(fromBase64Url(token));
     return {
       name: n || null,
       won: Boolean(w),
       attemptWon: a ?? null,
       bestDiff: d ?? null,
+      bestPct: p ?? null,
     };
   } catch {
     return null;

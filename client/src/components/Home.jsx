@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { loadIndex } from '../data.js';
-import { pickDaily, pickRandom, londonDate } from '../engine/picker.js';
+import { pickDaily, pickRandom, dailyNumber, londonDate } from '../engine/picker.js';
 import { loadStats, summarize } from '../engine/stats.js';
 
 // Home screen: today's puzzle, a random round, and the browse grid. The daily
@@ -34,7 +34,7 @@ export default function Home({ navigate }) {
       <div className="rounded-2xl bg-white p-8 text-center shadow-lg">
         <div className="text-3xl">🏗️</div>
         <p className="mt-3 text-sm text-slate-600">
-          No listings yet — the corpus hasn&apos;t been built. Run{' '}
+          No listings yet — the game data hasn&apos;t been built. Run{' '}
           <code className="rounded bg-slate-100 px-1">npm run seed</code> then{' '}
           <code className="rounded bg-slate-100 px-1">npm run images</code>.
         </p>
@@ -52,10 +52,10 @@ export default function Home({ navigate }) {
     <div className="space-y-4">
       <div className="rounded-2xl bg-white p-6 shadow-xl shadow-rose-200/50 sm:p-8">
         <p className="text-xs uppercase tracking-wide text-brand-600">
-          Today&apos;s Rentle · {formatDate(today)}
+          Rentle #{dailyNumber(today)} · {formatDate(today)}
         </p>
         <h2 className="mt-1 text-lg font-bold text-slate-800">
-          One real listing. Four guesses. Within £50 wins.
+          One real listing. Four guesses. Within 5% wins.
         </h2>
         <p className="mt-1 text-sm text-slate-500">
           The same mystery rental for everyone, every day — from{' '}
@@ -97,7 +97,7 @@ export default function Home({ navigate }) {
           <div className="text-2xl" aria-hidden>🏙️</div>
           <p className="mt-2 text-sm font-bold text-slate-800">Pick a city</p>
           <p className="mt-0.5 text-xs text-slate-500">
-            Browse the corpus and challenge a friend.
+            Browse real listings and challenge a friend.
           </p>
         </button>
       </div>

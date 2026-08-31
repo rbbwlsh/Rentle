@@ -3,7 +3,7 @@
 
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { londonDate, pickDaily, pickRandom } from '../client/src/engine/picker.js';
+import { londonDate, pickDaily, pickRandom, dailyNumber } from '../client/src/engine/picker.js';
 
 const order = Array.from({ length: 450 }, (_, i) => String(1000 + i));
 
@@ -26,6 +26,14 @@ test('londonDate flips at UK midnight, not UTC midnight', () => {
   assert.equal(londonDate(new Date('2026-06-15T23:30:00Z')), '2026-06-16');
   // GMT (winter): 23:30 UTC is still the same day.
   assert.equal(londonDate(new Date('2026-01-15T23:30:00Z')), '2026-01-15');
+});
+
+test('dailyNumber counts puzzles from launch day', () => {
+  assert.equal(dailyNumber('2026-08-31'), 1);
+  assert.equal(dailyNumber('2026-09-01'), 2);
+  assert.equal(dailyNumber('2026-09-30'), 31);
+  // Robust across the October BST->GMT clock change.
+  assert.equal(dailyNumber('2026-10-26') - dailyNumber('2026-10-25'), 1);
 });
 
 test('pickRandom avoids played listings until everything is played', () => {

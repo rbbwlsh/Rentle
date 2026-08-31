@@ -30,6 +30,15 @@ export function pickDaily(order, dateStr = londonDate()) {
   return order[fnv1a(dateStr) % order.length];
 }
 
+// "Rentle #N" — puzzle 1 is launch day, counted in London days.
+const EPOCH = '2026-08-31';
+export function dailyNumber(dateStr = londonDate()) {
+  const days = Math.round(
+    (Date.parse(`${dateStr}T12:00:00Z`) - Date.parse(`${EPOCH}T12:00:00Z`)) / 86400000
+  );
+  return days + 1;
+}
+
 export function pickRandom(order, excludeIds = []) {
   if (!order?.length) return null;
   const excluded = new Set(excludeIds.map(String));
