@@ -1,4 +1,4 @@
 {
-  "siteUrl": "https://rentle.netlify.app",
+  "siteUrl": "https://rentle-1.netlify.app",
   "_note": "Set siteUrl to the deployed origin (custom domain once you have one). Used only by tools/prerender.js to make og:image/og:url absolute — link previews need absolute URLs. Rebuild + redeploy after changing it. SITE_URL env var overrides."
 }
