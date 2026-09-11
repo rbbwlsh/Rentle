@@ -3,6 +3,7 @@ import { loadIndex, loadListing } from '../data.js';
 import { scoreGuess, summarizeGuesses, MAX_ATTEMPTS, TIERS } from '../engine/engine.js';
 import { pickDaily, dailyNumber, londonDate } from '../engine/picker.js';
 import { recordGame } from '../engine/stats.js';
+import { api } from '../api.js';
 import { formatGbp } from '../format.js';
 import ListingCard from './ListingCard.jsx';
 import GuessControl from './GuessControl.jsx';
@@ -26,6 +27,7 @@ export default function Game({ mode, listingId, opponent, onHome, navigate }) {
   const [directions, setDirections] = useState([]);
   const [you, setYou] = useState(null); // { won, attemptWon, bestDiff, bestPct }
   const [puzzleNo, setPuzzleNo] = useState(null); // set when this is today's daily
+  const [crowd, setCrowd] = useState(null); // how everyone did, once the server answers
 
   useEffect(() => {
     let cancelled = false;
@@ -81,6 +83,13 @@ export default function Game({ mode, listingId, opponent, onHome, navigate }) {
     } catch {
       /* stats are non-essential */
     }
+    // The server re-scores from the raw guesses and answers with the crowd.
+    // Local recording above already happened, so a failure here costs only
+    // the crowd panel.
+    api
+      .submitGame(mode.key, String(listingId), allGuesses)
+      .then((res) => setCrowd(res?.crowd ?? null))
+      .catch(() => {});
   }
 
   function handleGuess(guess) {
@@ -142,12 +151,14 @@ export default function Game({ mode, listingId, opponent, onHome, navigate }) {
         priceLabel={answer.priceLabel}
         displayAddress={answer.displayAddress}
         bestGuess={bestGuess}
+        firstGuess={guesses[0] ?? null}
         rightmoveUrl={answer.rightmoveUrl}
         listingId={listingId}
         tiers={tiers}
         puzzleNo={puzzleNo}
         you={you}
         opponent={opponent}
+        crowd={crowd}
         city={listing.city}
         onHome={onHome}
         navigate={navigate}

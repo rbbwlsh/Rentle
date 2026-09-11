@@ -13,12 +13,18 @@
     "build": "npm run corpus && npm --prefix client run build && node tools/prerender.js",
     "preview": "npm --prefix client run preview",
     "test": "node --test test/*.test.mjs",
+    "db:migrate": "node tools/migrate.js",
+    "db:seed": "node tools/seed-db.js",
     "postinstall": "npm --prefix client install"
   },
   "engines": {
     "node": ">=20"
   },
   "devDependencies": {
+    "@electric-sql/pglite": "^0.5.8",
     "sharp": "^0.33.4"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.1.0"
   }
 }

@@ -4,6 +4,7 @@ import CityPicker from './components/CityPicker.jsx';
 import Game from './components/Game.jsx';
 import { decodeShare } from './engine/share.js';
 import { MODES, modeOf, DEFAULT_MODE } from './engine/modes.js';
+import { bootstrap } from './api.js';
 
 // Tiny path-based router (no library). The buy game lives under /buy; the rent
 // game keeps the bare paths it launched with, so every share link already in
@@ -35,6 +36,13 @@ function readRoute() {
 export default function App() {
   const [route, setRoute] = useState(readRoute());
   const mode = modeOf(route.mode);
+
+  // Say hello to the server once per load: establishes the session cookie and
+  // moves any pre-server localStorage history up. Failure is fine — the game
+  // plays and records locally either way, and the import retries next load.
+  useEffect(() => {
+    bootstrap().catch(() => {});
+  }, []);
 
   // Keep state in sync with browser back/forward navigation.
   useEffect(() => {

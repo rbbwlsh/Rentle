@@ -2,10 +2,12 @@
 
 Two daily games on real UK Rightmove listings, behind one toggle: guess the
 **rent** (six cities), or guess the **asking price** (a UK-wide sample, studios
-through 3-beds). **Fully static**: pre-scraped corpora are baked in at build
-time, the engine runs client-side, stats live in localStorage. No backend. See
-README.md for the full picture — this file is the operational stuff that isn't
-obvious from the code.
+through 3-beds). **Static site + one function**: pre-scraped corpora are baked in
+at build time, the engine runs client-side, and a single Netlify Function
+(`/api/*`) records games server-side in Neon Postgres for crowd stats. Play
+never depends on it — with the API down the game records to localStorage as it
+always did. See README.md for the full picture — this file is the operational
+stuff that isn't obvious from the code.
 
 The two games share the board, the engine, the photo store and the image
 manifest. They do NOT share corpora, daily order, puzzle numbering or streaks.
@@ -24,6 +26,9 @@ npm run seed         # scrape the RENT corpus (tools/config/outcodes.json)
 npm run seed:buy     # scrape the BUY corpus (tools/config/outcodes.buy.json)
 npm run images       # photos for every mode's corpus, into one shared store
 netlify deploy --prod
+
+NEON_DATABASE_URL=... npm run db:migrate   # apply db/migrations/ (idempotent)
+NEON_DATABASE_URL=... npm run db:seed      # load the answer key from data/corpus*/
 ```
 
 `npm run corpus` and `npm run images` both walk **every** mode in
@@ -68,7 +73,8 @@ interrupt and re-run.
 | `data/corpus/*.json` — scraped rent listings | `client/public/img/` — photo binaries |
 | `data/corpus-buy/*.json` — scraped sale listings | `client/public/data/` — built corpora |
 | `data/images-manifest.json` — what was processed | `data/state/` — scrape caches |
-| `data/order.json`, `data/order-buy.json` — daily order | |
+| `data/order.json`, `data/order-buy.json` — daily order | `.env` — never; secrets live on Netlify |
+| `db/migrations/*.sql` — the schema | |
 
 Both order files are **append-only on purpose**: they fix which listing is
 "today's" puzzle. Never reorder or rewrite them, or every player's day shifts.
@@ -96,6 +102,41 @@ client/src/engine/     engine.js picker.js share.js stats.js modes.js
 Routes: the rent game keeps the bare paths it launched with (`/`, `/browse`,
 `/p/<id>`) so share links already in the wild still resolve; the buy game lives
 under `/buy`. The header toggle switches between them.
+
+## The API and the database
+
+`netlify/functions/api.mjs` is a thin wrapper; the whole API is
+`server/app.js`, which the tests call directly against PGlite (real Postgres
+in WASM — `test/api.test.mjs` runs the production migrations and SQL with no
+network). Production uses Neon over its HTTP driver via `NEON_DATABASE_URL`.
+
+The rules that matter:
+
+- **The server never trusts the client's result.** `/api/games` takes raw
+  guesses, looks the price up in `listings`, and scores with the same
+  `engine.js` the browser runs. Stats are built from what the server stored.
+- **`listings` is the answer key and must be re-seeded after any re-scrape**
+  (`npm run db:seed`, upsert, safe to repeat). A game on a listing the table
+  doesn't know is a 404. `position` is the listing's slot in `data/order*.json`
+  and is how the server stamps `daily_date` — `test/api.test.mjs` proves the
+  server and client pick the same daily over the real corpus.
+- **First play stands** via the unique constraint on
+  `(player_id, mode, listing_id)`; every write is idempotent.
+- **Identity is a server-set httpOnly cookie** (`rentle_session`), stored only
+  as a SHA-256 hex. `Secure` follows the request scheme so `netlify dev` works.
+- **No database → 503 on every route**, and the client carries on locally.
+  A deploy without `NEON_DATABASE_URL` is a working game with no crowd stats.
+- Migrations are plain SQL in `db/migrations/`, one statement per
+  `;`-terminated line, no `$$` bodies (Neon's HTTP driver runs one statement
+  per request; `server/db.js` splits on that rule). No `citext` — PGlite
+  doesn't bundle it; emails use a unique index on `lower(email)`.
+- The function's `path: '/api/*'` is matched before redirects (Netlify's
+  documented request chain), so the SPA fallback needs no exception.
+- Setting env vars: `netlify env:set NEON_DATABASE_URL "..."`, then redeploy.
+  Pick an EU/UK Neon region: the data is pseudonymous personal data under
+  UK GDPR, and a UK→EU transfer needs nothing extra.
+- Don't `pkill -f` a pattern that appears in your own command line — it kills
+  the shell running it. Match on the process name instead.
 
 ## The buy channel, specifically
 

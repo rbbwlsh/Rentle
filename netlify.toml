@@ -11,6 +11,13 @@
   command = "npm run build"
   publish = "client/dist"
 
+# The API. One function, routed by its own `path` config (/api/*), which
+# Netlify matches before any redirect below — so the SPA fallback needs no
+# exception for it. esbuild bundles its imports from server/ and client/src/.
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+
 # SPA fallback. Real files (the prerendered /p/<id>/index.html share pages,
 # /data/*, /img/*) always win over this redirect on Netlify.
 [[redirects]]

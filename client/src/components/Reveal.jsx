@@ -6,6 +6,7 @@ import { shareGrid, TIERS, MAX_ATTEMPTS } from '../engine/engine.js';
 import { loadIndex } from '../data.js';
 import { pickRandom } from '../engine/picker.js';
 import PersonalStats from './PersonalStats.jsx';
+import CrowdPanel from './CrowdPanel.jsx';
 
 // End-of-game screen. Confetti + a popped-in price on a win, the Wordle-style
 // result grid, the real address, personal stats, opponent comparison, and a
@@ -17,12 +18,14 @@ export default function Reveal({
   priceLabel,
   displayAddress,
   bestGuess,
+  firstGuess,
   rightmoveUrl,
   listingId,
   tiers,
   puzzleNo,
   you,
   opponent,
+  crowd,
   city,
   onHome,
   navigate,
@@ -66,6 +69,14 @@ export default function Reveal({
       </div>
 
       <ResultGrid mode={mode} tiers={tiers} puzzleNo={puzzleNo} won={won} />
+
+      <CrowdPanel
+        crowd={crowd}
+        actual={actual}
+        firstGuess={firstGuess}
+        attemptWon={you?.attemptWon}
+        won={won}
+      />
 
       {opponent && you && <OpponentResult opponent={opponent} you={you} />}
 

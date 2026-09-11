@@ -14,10 +14,13 @@ Same board either way: five guesses, within 5% wins, wrong guesses unlock hints
 beat-my-score link. The two games keep separate dailies, separate puzzle
 numbers and separate streaks.
 
-**Fully static.** No backend at all: two pre-scraped corpora of Rightmove
-listings (photos re-hosted, every ad fact kept) are baked into the site at
-build time, the game engine runs client-side, and personal stats/streaks live
-in localStorage. Deploys to Netlify as plain files.
+**Static site, one function.** Two pre-scraped corpora of Rightmove listings
+(photos re-hosted, every ad fact kept) are baked into the site at build time
+and the game engine runs client-side. A single Netlify Function records each
+finished game in Neon Postgres — re-scoring it from the raw guesses rather than
+believing the browser — and answers with how everyone else did on the same
+listing. The game never depends on it: with the API down, play and personal
+stats carry on in localStorage exactly as before.
 
 ## How it fits together
 
@@ -35,6 +38,10 @@ client/                React + Vite + Tailwind SPA; engine in src/engine/
 tools/prerender.js     after vite build: per-listing /p/<id>/ and /buy/p/<id>/
                        share pages with Open Graph tags (answer-free), absolute
                        URLs from tools/config/site.json
+server/app.js          the API: session, games (server-scored), crowd, import,
+                       delete-me. netlify/functions/api.mjs wraps it at /api/*.
+db/migrations/         the schema; tools/migrate.js applies it, tools/seed-db.js
+                       loads the answer key from the corpora
 ```
 
 The rent game keeps the bare routes it launched with (`/`, `/browse`,
@@ -67,6 +74,13 @@ npm test                   # engine/scraper/corpus unit tests (no network)
 npm run build              # corpus -> vite build -> prerender into client/dist
 npm run preview            # check the real build on :4173
 netlify deploy --prod      # from this machine (it has the images)
+
+# 4. The database (once, then after every re-scrape)
+#    Create a Neon project in an EU/UK region, then:
+netlify env:set NEON_DATABASE_URL "postgres://..."
+NEON_DATABASE_URL="postgres://..." npm run db:migrate
+NEON_DATABASE_URL="postgres://..." npm run db:seed
+netlify deploy --prod      # functions pick up the env var on deploy
 ```
 
 First deploy: `npm i -g netlify-cli && netlify login && netlify init`, then
@@ -116,7 +130,9 @@ listings are kept, new ones appended) and redeploy.
   ownership, auction lots, retirement units, new-build "from £X" developments,
   and investment ads that put marketing copy where the address should be. Some
   will still slip through; the reveal always links to the real Rightmove page.
-- Crowd stats ("how everyone did") went away with the server. Phase 2 is a
-  small backend (likely Netlify Functions) to collect guesses again — the
-  share-link codec and stats shapes are designed to be superseded, not
-  migrated.
+- What the server stores is personal data under UK GDPR even before anyone
+  gives an email: a random player id and a guess history. It is held in an
+  EU/UK region, never sold or shared, deletable in one tap (`DELETE /api/me`),
+  and the session cookie is strictly necessary for the feature the player
+  chose, so there is no consent banner. A privacy page saying exactly this is
+  part of going official.

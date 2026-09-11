@@ -25,9 +25,16 @@ function fnv1a(str) {
   return h >>> 0;
 }
 
+// The slot in a corpus order that a date maps to. Exported on its own so the
+// server can pick the same daily with a COUNT and an OFFSET instead of loading
+// the whole order — and so the two can never drift, since pickDaily uses it.
+export function dailyIndex(count, dateStr = londonDate()) {
+  return fnv1a(dateStr) % count;
+}
+
 export function pickDaily(order, dateStr = londonDate()) {
   if (!order?.length) return null;
-  return order[fnv1a(dateStr) % order.length];
+  return order[dailyIndex(order.length, dateStr)];
 }
 
 // "Rentle #N" — puzzle 1 is launch day, counted in London days. Each mode
