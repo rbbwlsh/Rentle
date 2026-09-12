@@ -1,6 +1,6 @@
-# Cache rules for manual (drag-and-drop) deploys; netlify.toml carries the
-# same rules for CLI deploys. Images and hashed assets never change at their
-# URL; corpus data changes on redeploy at a URL that doesn't, so it has to be
+# Cache rules, read by Cloudflare's static-asset layer. Images (when served
+# from the site rather than R2) and hashed assets never change at their URL;
+# corpus data changes on redeploy at a URL that doesn't, so it has to be
 # revalidated every time — a stale chunk in someone's browser cache would keep
 # serving copy a redeploy was meant to take down. ETags make that a 304.
 /img/*

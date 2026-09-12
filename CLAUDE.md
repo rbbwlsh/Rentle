@@ -2,11 +2,11 @@
 
 Two daily games on real UK Rightmove listings, behind one toggle: guess the
 **rent** (six cities), or guess the **asking price** (a UK-wide sample, studios
-through 3-beds). **Static site + one function**: pre-scraped corpora are baked in
-at build time, the engine runs client-side, and a single Netlify Function
-(`/api/*`) records games server-side in Neon Postgres for crowd stats. Play
-never depends on it — with the API down the game records to localStorage as it
-always did. See README.md for the full picture — this file is the operational
+through 3-beds). **Static site + one Worker**: pre-scraped corpora are baked in
+at build time, the engine runs client-side, and one Cloudflare Worker serves
+the build and, on `/api/*`, records games server-side in Neon Postgres for
+crowd stats. Photos are served from an R2 bucket. Play never depends on the
+API — with it down the game records to localStorage as it always did. See README.md for the full picture — this file is the operational
 stuff that isn't obvious from the code.
 
 The two games share the board, the engine, the photo store and the image
@@ -22,13 +22,16 @@ npm test             # unit tests, no network — run before every push
 npm run dev          # corpus build + vite dev on :5173
 npm run build        # corpus -> vite build -> prerender, into client/dist
 npm run preview      # serve the real build on :4173
+npm run preview:worker  # build + wrangler dev: the real Worker + assets on :8787
 npm run seed         # scrape the RENT corpus (tools/config/outcodes.json)
 npm run seed:buy     # scrape the BUY corpus (tools/config/outcodes.buy.json)
 npm run images       # photos for every mode's corpus, into one shared store
-netlify deploy --prod
+rclone sync client/public/img r2:rentle-img   # ...then up to the bucket
+npm run deploy       # build + wrangler deploy (CI does this on push to main)
 
 NEON_DATABASE_URL=... npm run db:migrate   # apply db/migrations/ (idempotent)
 NEON_DATABASE_URL=... npm run db:seed      # load the answer key from data/corpus*/
+wrangler secret put NEON_DATABASE_URL      # the production secret, once
 ```
 
 `npm run corpus` and `npm run images` both walk **every** mode in
@@ -37,16 +40,20 @@ adding a mode needs no change to either.
 
 ## The two rules that matter
 
-**1. Never deploy via Netlify's git integration.** The photo binaries are
-gitignored (~166MB on disk), so a build from a git checkout produces a
-complete, working, *photo-less* site — it fails silently, not loudly. Deploy
-only with `netlify deploy --prod` from a machine that has
-`client/public/img/` populated. `netlify.toml` carries a `[build]` command for
-completeness; treat it as documentation, not a deploy path.
+**1. Photos come from R2, not the deploy.** `imageBase` in
+`tools/config/site.json` is the bucket's custom domain, so every image URL in
+`/data/*` and every `og:image` is absolute and a checkout with no
+`client/public/img/` builds a complete site — which is what lets CI deploy on
+push. If `imageBase` is ever set back to `/img`, the old trap returns: the
+binaries are gitignored, so a CI build ships a working, *photo-less* site,
+silently. After `npm run images`, sync the store up
+(`rclone sync client/public/img r2:rentle-img`) BEFORE deploying the corpus
+that references the new photos.
 
-**2. Deploy the whole pipeline, in order.** `npm run build` regenerates
-`client/public/data/` from `data/corpus/`, but it does **not** fetch photos.
-Images are a separate, earlier step.
+**2. Deploy the whole pipeline, in order.** seed → images → rclone sync →
+`db:seed` → build → deploy. `npm run build` regenerates `client/public/data/`
+from `data/corpus/`, but it does **not** fetch photos, and the database's
+answer key does not update itself.
 
 ## Setting up a fresh machine (the manifest trap)
 
@@ -73,7 +80,7 @@ interrupt and re-run.
 | `data/corpus/*.json` — scraped rent listings | `client/public/img/` — photo binaries |
 | `data/corpus-buy/*.json` — scraped sale listings | `client/public/data/` — built corpora |
 | `data/images-manifest.json` — what was processed | `data/state/` — scrape caches |
-| `data/order.json`, `data/order-buy.json` — daily order | `.env` — never; secrets live on Netlify |
+| `data/order.json`, `data/order-buy.json` — daily order | `.env`, `.dev.vars` — never; the secret lives in Cloudflare |
 | `db/migrations/*.sql` — the schema | |
 
 Both order files are **append-only on purpose**: they fix which listing is
@@ -97,6 +104,8 @@ tools/build-corpus.js  corpus -> client/public/data/<mode>/ (price-free index
 tools/prerender.js     /p/<id>/ and /buy/p/<id>/ share pages w/ OG tags,
                        absolute URLs from tools/config/site.json
 client/src/engine/     engine.js picker.js share.js stats.js modes.js
+server/                app.js (the API) db.js session.js retention.js migrate.js
+worker/index.js        the Worker: assets + /api/* + cron. wrangler.jsonc.
 ```
 
 Routes: the rent game keeps the bare paths it launched with (`/`, `/browse`,
@@ -105,10 +114,12 @@ under `/buy`. The header toggle switches between them.
 
 ## The API and the database
 
-`netlify/functions/api.mjs` is a thin wrapper; the whole API is
-`server/app.js`, which the tests call directly against PGlite (real Postgres
-in WASM — `test/api.test.mjs` runs the production migrations and SQL with no
-network). Production uses Neon over its HTTP driver via `NEON_DATABASE_URL`.
+`worker/index.js` is a thin wrapper; the whole API is `server/app.js`, which
+the tests call directly against PGlite (real Postgres in WASM —
+`test/api.test.mjs` runs the production migrations and SQL with no network).
+Production uses Neon over its HTTP driver via the `NEON_DATABASE_URL` secret.
+Nothing under `server/` that the Worker imports may touch `node:fs` — that's
+why `migrate()` lives in `server/migrate.js`, not `db.js`.
 
 The rules that matter:
 
@@ -123,18 +134,47 @@ The rules that matter:
 - **First play stands** via the unique constraint on
   `(player_id, mode, listing_id)`; every write is idempotent.
 - **Identity is a server-set httpOnly cookie** (`rentle_session`), stored only
-  as a SHA-256 hex. `Secure` follows the request scheme so `netlify dev` works.
+  as a SHA-256 hex. `Secure` follows the request scheme so `wrangler dev` works.
+- **Nothing is called on page load.** The cookie and the `players` row are
+  created by the first `POST /games` (or `/import`, if the browser has
+  pre-server history); `bootstrap()` in `client/src/api.js` makes no request
+  otherwise. This is what makes the cookie "strictly necessary" under PECR
+  (no banner), and it keeps crawlers out of the table. `POST /games` validates
+  and scores *before* `ensurePlayer`, so a bad request leaves no row behind.
+  Don't add a hello-on-load back.
+- **Retention is code, not policy.** `server/retention.js` holds the periods
+  and the SQL; the Worker's `scheduled` handler runs it on the cron in
+  `wrangler.jsonc` (03:30 UTC daily); `/privacy`
+  (`client/src/components/Privacy.jsx`) imports `RETENTION` and prints the
+  same numbers. Change them in one place. `GET /api/me` is the export,
+  `DELETE /api/me` the erase (it also removes merge tombstones pointing at the
+  player, which would otherwise block the delete on the FK).
+- **Listing ids are `bigint`** since migration 002. Both drivers accept a
+  numeric string as a parameter, but they *return* bigint differently (PGlite
+  a number, Neon a string) — always `::text` a listing id in a SELECT, and
+  never compare a raw one to a string. `LISTING_ID` in `server/app.js` rejects
+  non-numeric ids as 404 before they can reach a cast.
+- **Sessions touch `last_used_at` at most once a day** (it only feeds
+  retention), and the daily pick is memoised per (mode, date) for five
+  minutes. `/import` handles `IMPORT_BATCH` (200) games per call and the
+  client sends slices — resending the same object would re-skip the same first
+  batch forever.
+- **Regions:** Neon in London (`aws-eu-west-2`). The Worker runs at the edge
+  nearest the player, so a UK player's game is scored a few ms from the
+  database. `/privacy` says "London"; keep it true.
 - **No database → 503 on every route**, and the client carries on locally.
   A deploy without `NEON_DATABASE_URL` is a working game with no crowd stats.
 - Migrations are plain SQL in `db/migrations/`, one statement per
   `;`-terminated line, no `$$` bodies (Neon's HTTP driver runs one statement
   per request; `server/db.js` splits on that rule). No `citext` — PGlite
   doesn't bundle it; emails use a unique index on `lower(email)`.
-- The function's `path: '/api/*'` is matched before redirects (Netlify's
-  documented request chain), so the SPA fallback needs no exception.
-- Setting env vars: `netlify env:set NEON_DATABASE_URL "..."`, then redeploy.
-  Pick an EU/UK Neon region: the data is pseudonymous personal data under
-  UK GDPR, and a UK→EU transfer needs nothing extra.
+- `wrangler.jsonc` routes `/api/*` to the Worker **before** the asset layer
+  (`run_worker_first`), so the SPA fallback (`not_found_handling`) can never
+  swallow an API call; every other path is a static asset. `_headers` in
+  `client/public/` still sets the cache rules; there is no `_redirects`.
+- The secret: `wrangler secret put NEON_DATABASE_URL`, no redeploy needed.
+  Locally, `.dev.vars` (gitignored) feeds `wrangler dev`. The data is
+  pseudonymous personal data under UK GDPR; London keeps it simple.
 - Don't `pkill -f` a pattern that appears in your own command line — it kills
   the shell running it. Match on the process name instead.
 
@@ -168,6 +208,23 @@ Sale pages are not lettings pages with a different number on them:
 - Great Britain only. The city picker draws a GB coastline, so a Northern
   Irish town would render as a pin floating in the Irish Sea.
 
+## Honouring a takedown
+
+`/privacy` promises removal "normally within two working days", so this is
+the procedure, not a judgement call. For Rightmove id `<id>`:
+
+```bash
+rm data/corpus/<id>.json data/corpus-buy/<id>.json 2>/dev/null   # whichever exists
+rm -rf client/public/img/<id>
+rclone delete r2:rentle/<id>            # the served photos (EU endpoint, see .env)
+git commit -am "Remove listing <id> on request" && git push      # CI redeploys
+```
+
+`buildOrder` drops ids that have left the corpus, so the daily order stays
+append-only and nobody's puzzle shifts; the `listings` row in Neon can stay
+(games reference it; the client can no longer reach it). Reply to the
+requester when the deploy is green.
+
 ## Scraping etiquette
 
 Rightmove's ToS prohibits scraping; this project does it deliberately and
@@ -179,9 +236,21 @@ reached the media CDN fine as of Aug 2026.)
 
 ## Gotchas
 
-- Node 24 locally, Node 22 in CI (`.github/workflows/ci.yml` runs
-  install/test/build on every push — imageless, which is fine).
+- Node 24 locally, Node 22 in CI. `ci.yml` runs install/test/build on every
+  push; `deploy.yml` additionally runs `wrangler deploy` on `main`, and skips
+  that step until the `CLOUDFLARE_API_TOKEN` repo secret exists.
+- Workers static assets cap a deploy at 20,000 files. With photos on R2 the
+  build is ~2,000; with `client/public/img/` present it's ~12,000 today and
+  would cross the cap around 1,700 listings.
 - The rent is base64-obscured in the payload, not encrypted. Anyone with
   devtools can cheat. Known and accepted.
 - `tools/config/site.json` `siteUrl` must match the deployed origin or link
-  previews break. Rebuild + redeploy after changing it.
+  previews break; `contactEmail` is printed on `/privacy`; `imageBase` is
+  where photos are served from. Rebuild + redeploy after changing any.
+- `tools/prerender.js` must run on a fresh `vite build` output: injecting the
+  root page consumes the `META_START/END` markers, so a second run would stamp
+  the home tags on every share page. It now throws instead — use
+  `npm run build`, never `node tools/prerender.js` alone.
+- The client imports `server/retention.js` and `tools/config/site.json` from
+  outside `client/` — Vite resolves both, in dev and build, because the
+  workspace root is the repo root (the lockfile is there).

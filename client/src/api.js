@@ -4,7 +4,7 @@
 // Callers catch ApiUnavailable and carry on; other errors are real.
 
 import { MODES } from './engine/modes.js';
-import { loadStats } from './engine/stats.js';
+import { loadStats, clearStats } from './engine/stats.js';
 
 export class ApiUnavailable extends Error {}
 
@@ -32,32 +32,51 @@ export const api = {
   submitGame: (mode, listingId, guesses) => call('POST', '/games', { mode, listingId, guesses }),
   crowd: (mode, listingId) => call('GET', `/crowd?mode=${mode}&listingId=${encodeURIComponent(listingId)}`),
   importGames: (mode, games) => call('POST', '/import', { mode, games }),
+  me: () => call('GET', '/me'),
   deleteMe: () => call('DELETE', '/me'),
 };
 
+// The server processes this many games per /import call (IMPORT_BATCH in
+// server/app.js); the client sends its history in slices of it.
+const IMPORT_SLICE = 200;
+
 const IMPORTED_KEY = 'rentle_imported_v1';
 
-// First contact: establish the session, then move any pre-server history up
-// once. The flag is set only after every mode imported cleanly, so a failed
-// attempt simply retries next load; the server dedups, so a retry is safe.
+// First load: move any pre-server localStorage history up, once. Deliberately
+// NOT a "hello" to the server — a visitor who only looks gets no cookie and
+// no player row. The first game they finish (or this import, if they have
+// history) is what issues the session. The flag is set only after every mode
+// imported cleanly, so a failed attempt simply retries next load; the server
+// dedups, so a retry is safe.
 export async function bootstrap() {
-  const { player } = await api.session();
   let imported = false;
   try {
     imported = localStorage.getItem(IMPORTED_KEY) === '1';
   } catch {
     /* storage unavailable: nothing to import */
   }
-  if (!imported) {
-    for (const mode of Object.values(MODES)) {
-      const games = loadStats(mode.key).games;
-      if (Object.keys(games).length) await api.importGames(mode.key, games);
-    }
-    try {
-      localStorage.setItem(IMPORTED_KEY, '1');
-    } catch {
-      /* ignore */
+  if (imported) return;
+  for (const mode of Object.values(MODES)) {
+    const entries = Object.entries(loadStats(mode.key).games);
+    for (let i = 0; i < entries.length; i += IMPORT_SLICE) {
+      await api.importGames(mode.key, Object.fromEntries(entries.slice(i, i + IMPORT_SLICE)));
     }
   }
-  return player;
+  try {
+    localStorage.setItem(IMPORTED_KEY, '1');
+  } catch {
+    /* ignore */
+  }
+}
+
+// "Delete my data": the server forgets this player, and this device forgets
+// too — otherwise the next load would import the local history straight back.
+export async function forgetMe() {
+  await api.deleteMe();
+  for (const mode of Object.values(MODES)) clearStats(mode.key);
+  try {
+    localStorage.removeItem(IMPORTED_KEY);
+  } catch {
+    /* ignore */
+  }
 }

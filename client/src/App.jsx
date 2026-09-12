@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import Home from './components/Home.jsx';
 import CityPicker from './components/CityPicker.jsx';
 import Game from './components/Game.jsx';
+import Privacy from './components/Privacy.jsx';
 import { decodeShare } from './engine/share.js';
 import { MODES, modeOf, DEFAULT_MODE } from './engine/modes.js';
 import { bootstrap } from './api.js';
@@ -14,6 +15,7 @@ import { bootstrap } from './api.js';
 //   /browse        -> pick a city, then play from its pool
 //   /             -> home: today's rental + a random one
 //   /buy, /buy/browse, /buy/p/<id>  -> the same three, for asking prices
+//   /privacy       -> what the server holds, and the buttons to export/delete it
 function readRoute() {
   const { pathname, search } = window.location;
   const isBuy = /^\/buy(\/|$)/.test(pathname);
@@ -30,6 +32,7 @@ function readRoute() {
     };
   }
   if (/^\/browse\/?$/.test(rest)) return { name: 'browse', mode };
+  if (/^\/privacy\/?$/.test(rest)) return { name: 'privacy', mode };
   return { name: 'home', mode };
 }
 
@@ -37,9 +40,10 @@ export default function App() {
   const [route, setRoute] = useState(readRoute());
   const mode = modeOf(route.mode);
 
-  // Say hello to the server once per load: establishes the session cookie and
-  // moves any pre-server localStorage history up. Failure is fine — the game
-  // plays and records locally either way, and the import retries next load.
+  // Once per load, move any pre-server localStorage history up. This is NOT a
+  // hello to the server: with no history it makes no request at all, so a
+  // visitor who only looks gets no cookie. Failure is fine — the game plays
+  // and records locally either way, and the import retries next load.
   useEffect(() => {
     bootstrap().catch(() => {});
   }, []);
@@ -91,6 +95,8 @@ export default function App() {
           />
         ) : route.name === 'browse' ? (
           <CityPicker mode={mode} navigate={navigate} />
+        ) : route.name === 'privacy' ? (
+          <Privacy />
         ) : (
           <Home mode={mode} navigate={navigate} />
         )}
@@ -98,7 +104,18 @@ export default function App() {
 
       <footer className="w-full max-w-xl mt-10 text-center text-xs text-slate-400">
         Listings &amp; data from Rightmove, captured as a snapshot — prices shown
-        are as listed at the time. Made for fun.
+        are as listed at the time. Made for fun; not affiliated with Rightmove.
+        Every round links to the original advert.{' '}
+        <a
+          href="/privacy"
+          onClick={(e) => {
+            e.preventDefault();
+            navigate('/privacy');
+          }}
+          className="underline hover:text-slate-600"
+        >
+          Privacy &amp; your data
+        </a>
       </footer>
     </div>
   );

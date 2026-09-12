@@ -6,9 +6,9 @@
 // The interface is deliberately small: `query(text, params) -> rows`. Both
 // drivers return numeric columns as strings, so anything summed or averaged
 // is cast to float8 in the SELECT rather than parsed on the way out.
-
-import fs from 'node:fs';
-import path from 'node:path';
+//
+// This file is bundled into the Worker, so it must not import node:fs —
+// migrations (which read files) live in server/migrate.js.
 
 export function connectNeon(connectionString, { neon }) {
   const sql = neon(connectionString);
@@ -28,23 +28,4 @@ export function splitStatements(sqlText) {
     .split(/;\s*$/m)
     .map((s) => s.replace(/^\s*--[^\n]*$/gm, '').trim())
     .filter(Boolean);
-}
-
-// Apply every migration in `dir` that hasn't been applied, in name order.
-// Idempotent: a second run is a no-op.
-export async function migrate(db, dir) {
-  await db.query(
-    'create table if not exists schema_migrations (name text primary key, applied_at timestamptz not null default now())'
-  );
-  const applied = new Set((await db.query('select name from schema_migrations')).map((r) => r.name));
-  const files = fs.readdirSync(dir).filter((f) => f.endsWith('.sql')).sort();
-  const ran = [];
-  for (const file of files) {
-    if (applied.has(file)) continue;
-    const text = fs.readFileSync(path.join(dir, file), 'utf8');
-    for (const statement of splitStatements(text)) await db.query(statement);
-    await db.query('insert into schema_migrations (name) values ($1)', [file]);
-    ran.push(file);
-  }
-  return ran;
 }

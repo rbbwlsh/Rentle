@@ -32,6 +32,12 @@ import { MODES } from './config/modes.js';
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
 const MANIFEST_PATH = path.join(ROOT, 'data', 'images-manifest.json');
 const OUT_ROOT = path.join(ROOT, 'client', 'public', 'data');
+const SITE_CONFIG_PATH = path.join(ROOT, 'tools', 'config', 'site.json');
+const IMAGE_BASE = (
+  process.env.IMAGE_BASE_URL ||
+  readJson(SITE_CONFIG_PATH, {}).imageBase ||
+  '/img'
+).replace(/\/$/, '');
 
 // Deterministic PRNG (mulberry32) so the daily order is stable across machines.
 function seededRandom(seed) {
@@ -65,7 +71,10 @@ export function buildOrder(ids, previousOrder = []) {
   return [...kept, ...fresh];
 }
 
-const imagePathFor = (id, entry) => `/img/${id}/${entry.file}`;
+// Where the photos live. '/img' is the site itself; an absolute URL is object
+// storage in front of a CDN, which lets a checkout with no client/public/img/
+// build a complete site. tools/config/site.json `imageBase`, or IMAGE_BASE_URL.
+const imagePathFor = (id, entry, base = '/img') => `${base}/${id}/${entry.file}`;
 
 // The answer, base64-encoded. Not security — just keeps the rent out of a
 // casual "view source"; anyone determined can decode it, and that's fine.
@@ -82,7 +91,7 @@ function encodeSecret(listing) {
 }
 
 // Pure transform: corpus listings + image manifest -> { index, chunks }.
-export function buildCorpus(listings, manifest, previousOrder = [], { mode = 'rent' } = {}) {
+export function buildCorpus(listings, manifest, previousOrder = [], { mode = 'rent', imageBase = '/img' } = {}) {
   const usable = listings.filter((l) => (manifest[String(l.id)] || []).length > 0);
 
   // Scrub the ad copy on the way in, before comparables are cut from it: the
@@ -91,7 +100,7 @@ export function buildCorpus(listings, manifest, previousOrder = [], { mode = 're
   // out of. See lib/redact.js.
   const withImages = usable.map((l) => ({
     ...redactListing(l),
-    localImages: manifest[String(l.id)].map((e) => imagePathFor(l.id, e)),
+    localImages: manifest[String(l.id)].map((e) => imagePathFor(l.id, e, imageBase)),
   }));
 
   const chunks = new Map();
@@ -193,6 +202,7 @@ function buildMode(mode, manifest) {
 
   const { index, chunks, dropped } = buildCorpus(listings, manifest, readJson(orderPath, []), {
     mode: mode.key,
+    imageBase: IMAGE_BASE,
   });
 
   fs.rmSync(outDir, { recursive: true, force: true });

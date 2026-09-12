@@ -7,12 +7,13 @@
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { neon } from '@neondatabase/serverless';
-import { connectNeon, migrate } from '../server/db.js';
+import { connectNeon } from '../server/db.js';
+import { migrate } from '../server/migrate.js';
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
 const url = process.env.NEON_DATABASE_URL;
 if (!url) {
-  console.error('NEON_DATABASE_URL is not set. Get it from the Neon console (or `netlify env:get NEON_DATABASE_URL`).');
+  console.error('NEON_DATABASE_URL is not set. Get it from the Neon console.');
   process.exit(2);
 }
 const ran = await migrate(connectNeon(url, { neon }), path.join(ROOT, 'db', 'migrations'));

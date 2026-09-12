@@ -1,4 +1,6 @@
 {
-  "siteUrl": "https://rentle-1.netlify.app",
-  "_note": "Set siteUrl to the deployed origin (custom domain once you have one). Used only by tools/prerender.js to make og:image/og:url absolute — link previews need absolute URLs. Rebuild + redeploy after changing it. SITE_URL env var overrides."
+  "siteUrl": "https://rentle-uk.uk",
+  "imageBase": "https://img.rentle-uk.uk",
+  "contactEmail": "hello@rentle-uk.uk",
+  "_note": "siteUrl: the deployed origin (custom domain once you have one); used only by tools/prerender.js to make og:image/og:url absolute — link previews need absolute URLs. imageBase: where /<id>/<n>.webp photos are served from — '/img' means alongside the site, an absolute URL (https://img.example.com) means object storage, in which case client/public/img/ is not needed to build a complete site. contactEmail: shown on /privacy as the controller's contact. Rebuild + redeploy after changing any of them. SITE_URL and IMAGE_BASE_URL env vars override the first two."
 }

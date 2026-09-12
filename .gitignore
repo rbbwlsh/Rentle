@@ -6,8 +6,8 @@ client/dist/
 
 # Generated at build time by tools/build-corpus.js and tools/images.js — the
 # committed sources are data/corpus/ and data/images-manifest.json. Image
-# binaries are deliberately NOT committed: they weigh ~300MB and ship to
-# Netlify from the machine that ran the scrape.
+# binaries are deliberately NOT committed: they weigh ~400MB and are synced
+# to the R2 bucket from the machine that ran the scrape.
 client/public/data/
 client/public/img/
 
@@ -17,7 +17,8 @@ data/state/
 
 *.log
 .env
+.dev.vars
 .DS_Store
 
-# Local Netlify folder
-.netlify
+# Wrangler's local state.
+.wrangler/

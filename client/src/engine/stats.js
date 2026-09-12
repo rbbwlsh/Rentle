@@ -1,7 +1,8 @@
 // Personal stats in localStorage — the V1 replacement for the old server's
 // crowd stats. Stores one result per listing (first play stands; replays don't
 // overwrite) plus the daily streak. Totals are derived, never stored, so the
-// shape can't drift. A backend (Netlify Functions) can supersede this later.
+// shape can't drift. The server (server/app.js) is the record of truth when
+// it answers; this is the record when it doesn't.
 //
 // `storage` is injectable for tests; every access is guarded because
 // localStorage can throw (private windows, blocked site data).
@@ -56,6 +57,16 @@ function saveStats(modeKey, stats, storage) {
     safeStorage(storage).setItem(keyFor(modeKey), JSON.stringify(stats));
   } catch {
     /* stats are a convenience, never fatal */
+  }
+}
+
+// Forget everything for a mode on this device. The privacy page's delete
+// button calls this after the server has forgotten too.
+export function clearStats(modeKey, storage) {
+  try {
+    safeStorage(storage).removeItem(keyFor(modeKey));
+  } catch {
+    /* ignore */
   }
 }
 

@@ -4,9 +4,9 @@
 // Express server did, so this writes an index.html for every playable listing
 // in every mode — client/dist/p/<id>/ for the rent game, client/dist/buy/p/<id>/
 // for the buy one: the built index.html with its <!--META_START/END--> block
-// replaced by listing-specific, answer-free tags. Netlify serves these real
-// files ahead of the SPA fallback, so shared links unfurl with the property
-// photo while every other path still hits the app shell.
+// replaced by listing-specific, answer-free tags. The static-asset layer
+// serves these real files ahead of the SPA fallback, so shared links unfurl
+// with the property photo while every other path still hits the app shell.
 //
 // og:image / og:url must be ABSOLUTE for link previews — the origin comes from
 // SITE_URL or tools/config/site.json. After first deploy, set the real URL
@@ -87,6 +87,13 @@ const COPY = {
 
 function main() {
   const template = fs.readFileSync(path.join(DIST, 'index.html'), 'utf8');
+
+  // Injection consumes the markers, so a second run against a prerendered
+// dist/ would quietly stamp the home page's tags on every share page. Fail
+// instead: this runs after `vite build`, which writes a fresh template.
+if (!/<!--META_START-->[\s\S]*?<!--META_END-->/.test(template)) {
+  throw new Error('client/dist/index.html has no META_START/META_END block — run `npm run build`, not prerender.js on its own.');
+}
   let total = 0;
 
   for (const mode of Object.values(MODES)) {
@@ -121,7 +128,9 @@ function main() {
       writePage(`${mode.routePrefix}/${card.id}`, template, {
         title: copy.listingTitle(card),
         description: copy.listingDescription(card),
-        image: `${SITE_URL}${card.thumb}`,
+        // A thumb is site-relative (/img/...) or, with imageBase pointing at
+        // object storage, already absolute.
+        image: /^https?:\/\//.test(card.thumb) ? card.thumb : `${SITE_URL}${card.thumb}`,
         url: `${SITE_URL}${mode.routePrefix}/${card.id}`,
       });
     }

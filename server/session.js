@@ -22,7 +22,7 @@ export function parseCookies(header) {
 }
 
 // `secure` follows the request: https in production, plain http under
-// `netlify dev`, where a Secure cookie would silently never be sent back.
+// `wrangler dev`, where a Secure cookie would silently never be sent back.
 export function sessionCookie(token, { secure = true, maxAge = ONE_YEAR } = {}) {
   return [
     `${COOKIE}=${encodeURIComponent(token)}`,

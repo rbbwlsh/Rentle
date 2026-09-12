@@ -1,0 +1,27 @@
+# Deploy main to Cloudflare on every push. Safe from a bare checkout because
+# photos are served from R2 (tools/config/site.json imageBase), so the build
+# needs nothing that isn't committed. Skips itself until the
+# CLOUDFLARE_API_TOKEN secret exists, so the workflow can land before the
+# account does.
+name: deploy
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install
+      - run: npm test
+      - run: npm run build
+      - name: wrangler deploy
+        if: env.CLOUDFLARE_API_TOKEN != ''
+        run: npx wrangler deploy

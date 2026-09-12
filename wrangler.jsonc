@@ -1,0 +1,37 @@
+// Cloudflare Workers config: the whole deploy is `npm run build && wrangler deploy`.
+//
+// The site is the static assets in client/dist; the Worker (worker/index.js)
+// only ever sees /api/* — everything else is served from assets, with unknown
+// paths falling back to index.html for the SPA router. The cron is the daily
+// retention purge (server/retention.js), 03:30 UTC when UK traffic is lowest.
+//
+// Secrets are NOT here: `wrangler secret put NEON_DATABASE_URL` once, or a
+// `.dev.vars` file (gitignored) for `wrangler dev`.
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "rentle",
+  "main": "worker/index.js",
+  "compatibility_date": "2026-09-01",
+  // node:crypto for the session token hash (server/session.js).
+  "compatibility_flags": ["nodejs_compat"],
+  // Keep the workers.dev URL alongside the custom domains: it is the place to
+  // check a deploy that doesn't depend on DNS.
+  "workers_dev": true,
+  "assets": {
+    "directory": "./client/dist",
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application",
+    "run_worker_first": ["/api/*"]
+  },
+  // The custom domains. wrangler creates the DNS records and certificates on
+  // deploy; the zone must be on this account.
+  // wrangler will not overwrite a DNS record it didn't create, and one refused
+  // hostname holds back the whole domain update — so these records must not
+  // exist in the zone before a deploy that adds a hostname here.
+  "routes": [
+    { "pattern": "rentle-uk.uk", "custom_domain": true },
+    { "pattern": "www.rentle-uk.uk", "custom_domain": true }
+  ],
+  "triggers": { "crons": ["30 3 * * *"] },
+  "observability": { "enabled": true }
+}
