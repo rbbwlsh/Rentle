@@ -208,6 +208,33 @@ Sale pages are not lettings pages with a different number on them:
 - Great Britain only. The city picker draws a GB coastline, so a Northern
   Irish town would render as a pin floating in the Irish Sea.
 
+## R2, specifically
+
+The bucket `rentle` was created in R2's **EU jurisdiction**, which has its own
+S3 endpoint: `https://<account-id>.eu.r2.cloudflarestorage.com` (the default
+`…r2.cloudflarestorage.com` reports "bucket does not exist" and rclone then
+tries to *create* one, which the token refuses). The R2 REST API needs the
+header `cf-r2-jurisdiction: eu` for the same reason. rclone is configured by
+environment, not a config file, from the gitignored `.env`:
+
+```bash
+set -a; . ./.env; set +a          # CLOUDFLARE_API_TOKEN, R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY
+export RCLONE_CONFIG_R2_TYPE=s3 RCLONE_CONFIG_R2_PROVIDER=Cloudflare \
+  RCLONE_CONFIG_R2_ACCESS_KEY_ID="$R2_ACCESS_KEY_ID" RCLONE_CONFIG_R2_SECRET_ACCESS_KEY="$R2_SECRET_ACCESS_KEY" \
+  RCLONE_CONFIG_R2_ENDPOINT="https://<account-id>.eu.r2.cloudflarestorage.com"
+rclone sync client/public/img r2:rentle --transfers 8
+```
+
+Never `. ./.dev.vars` in a shell: the Neon URL contains `&`, which bash reads
+as a job separator and echoes the command line — password included — into
+the output. Read it with `grep '^NEON_DATABASE_URL=' .dev.vars | cut -d= -f2-`
+and pipe it (`| npx wrangler secret put NEON_DATABASE_URL`). wrangler reads
+`.dev.vars` itself for `wrangler dev`.
+
+The photo bucket's custom domain is `img.rentle-uk.uk`. The apex must NOT be
+attached to the bucket — it belongs to the Worker (wrangler.jsonc `routes`),
+and wrangler refuses a hostname that already has a DNS record it didn't make.
+
 ## Honouring a takedown
 
 `/privacy` promises removal "normally within two working days", so this is
@@ -216,7 +243,7 @@ the procedure, not a judgement call. For Rightmove id `<id>`:
 ```bash
 rm data/corpus/<id>.json data/corpus-buy/<id>.json 2>/dev/null   # whichever exists
 rm -rf client/public/img/<id>
-rclone delete r2:rentle/<id>            # the served photos (EU endpoint, see .env)
+rclone delete r2:rentle/<id>            # the served photos (see "R2" below)
 git commit -am "Remove listing <id> on request" && git push      # CI redeploys
 ```
 
