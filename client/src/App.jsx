@@ -3,6 +3,7 @@ import Home from './components/Home.jsx';
 import CityPicker from './components/CityPicker.jsx';
 import Game from './components/Game.jsx';
 import Privacy from './components/Privacy.jsx';
+import Stats from './components/Stats.jsx';
 import { decodeShare } from './engine/share.js';
 import { MODES, modeOf, DEFAULT_MODE } from './engine/modes.js';
 import { bootstrap } from './api.js';
@@ -15,7 +16,8 @@ import { bootstrap } from './api.js';
 //   /browse        -> pick a city, then play from its pool
 //   /             -> home: today's rental + a random one
 //   /buy, /buy/browse, /buy/p/<id>  -> the same three, for asking prices
-//   /privacy       -> what the server holds, and the buttons to export/delete it
+//   /stats         -> your record in both games, and how everyone is doing
+//   /privacy       -> the privacy notice, and the buttons to export/delete
 function readRoute() {
   const { pathname, search } = window.location;
   const isBuy = /^\/buy(\/|$)/.test(pathname);
@@ -33,6 +35,7 @@ function readRoute() {
   }
   if (/^\/browse\/?$/.test(rest)) return { name: 'browse', mode };
   if (/^\/privacy\/?$/.test(rest)) return { name: 'privacy', mode };
+  if (/^\/stats\/?$/.test(rest)) return { name: 'stats', mode };
   return { name: 'home', mode };
 }
 
@@ -97,6 +100,8 @@ export default function App() {
           <CityPicker mode={mode} navigate={navigate} />
         ) : route.name === 'privacy' ? (
           <Privacy />
+        ) : route.name === 'stats' ? (
+          <Stats navigate={navigate} />
         ) : (
           <Home mode={mode} navigate={navigate} />
         )}
@@ -105,19 +110,29 @@ export default function App() {
       <footer className="w-full max-w-xl mt-10 text-center text-xs text-slate-400">
         Listings &amp; data from Rightmove, captured as a snapshot — prices shown
         are as listed at the time. Made for fun; not affiliated with Rightmove.
-        Every round links to the original advert.{' '}
-        <a
-          href="/privacy"
-          onClick={(e) => {
-            e.preventDefault();
-            navigate('/privacy');
-          }}
-          className="underline hover:text-slate-600"
-        >
-          Privacy &amp; your data
-        </a>
+        Every round links to the original advert.
+        <span className="mt-1 block">
+          <FooterLink to="/stats" navigate={navigate}>Stats</FooterLink>
+          {' · '}
+          <FooterLink to="/privacy" navigate={navigate}>Privacy notice</FooterLink>
+        </span>
       </footer>
     </div>
+  );
+}
+
+function FooterLink({ to, navigate, children }) {
+  return (
+    <a
+      href={to}
+      onClick={(e) => {
+        e.preventDefault();
+        navigate(to);
+      }}
+      className="underline hover:text-slate-600"
+    >
+      {children}
+    </a>
   );
 }
 

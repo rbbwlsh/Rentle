@@ -1,4 +1,4 @@
-// The Rentle API: one handler, nine routes, no framework. Runs inside the
+// The Rentle API: one handler, ten routes, no framework. Runs inside the
 // Cloudflare Worker in production and is called directly by the tests.
 //
 // The rule that shapes everything here: the server never trusts the client's
@@ -227,6 +227,38 @@ export async function crowdFor(db, mode, listingId, { bust = false } = {}) {
   return value;
 }
 
+// --- site-wide ----------------------------------------------------------------
+
+// The numbers on /stats: per mode, everything ever and today's daily so far.
+// One aggregate over `games`, memoised for five minutes per instance and
+// cacheable at the edge for the same — the page is a glance, not a feed.
+const statsCache = { at: 0, date: null, value: null };
+const STATS_TTL_MS = 5 * 60_000;
+
+export async function siteStats(db, dateStr) {
+  if (statsCache.value && statsCache.date === dateStr && statsCache.at > Date.now() - STATS_TTL_MS) return statsCache.value;
+  const rows = await db.query(
+    `select mode,
+            count(*)::int as games,
+            count(distinct player_id)::int as players,
+            count(*) filter (where won)::int as wins,
+            count(*) filter (where played_at > now() - interval '7 days')::int as week_games,
+            count(*) filter (where daily_date = $1)::int as today_plays,
+            count(*) filter (where daily_date = $1 and won)::int as today_wins
+       from games group by mode`,
+    [dateStr]
+  );
+  const empty = { games: 0, players: 0, wins: 0, weekGames: 0, today: { plays: 0, wins: 0 } };
+  const modes = Object.fromEntries([...MODES].map((m) => [m, { ...empty, today: { ...empty.today } }]));
+  for (const r of rows) {
+    if (!modes[r.mode]) continue;
+    modes[r.mode] = { games: r.games, players: r.players, wins: r.wins, weekGames: r.week_games, today: { plays: r.today_plays, wins: r.today_wins } };
+  }
+  const value = { date: dateStr, modes };
+  Object.assign(statsCache, { at: Date.now(), date: dateStr, value });
+  return value;
+}
+
 // --- routes -----------------------------------------------------------------
 
 async function readJson(req) {
@@ -259,6 +291,10 @@ export async function handle(db, req) {
       const game = await storeGame(db, player, prepared);
       const crowd = await crowdFor(db, prepared.mode, prepared.id, { bust: game.fresh });
       return json({ game: publicGame(game), crowd }, game.fresh ? 201 : 200, setCookie ? { 'set-cookie': setCookie } : {});
+    }
+
+    if (method === 'GET' && route === '/stats') {
+      return json(await siteStats(db, londonDate()), 200, { 'cache-control': 'public, max-age=300' });
     }
 
     if (method === 'GET' && route === '/crowd') {

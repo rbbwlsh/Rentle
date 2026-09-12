@@ -33,6 +33,7 @@ export const api = {
   crowd: (mode, listingId) => call('GET', `/crowd?mode=${mode}&listingId=${encodeURIComponent(listingId)}`),
   importGames: (mode, games) => call('POST', '/import', { mode, games }),
   me: () => call('GET', '/me'),
+  stats: () => call('GET', '/stats'),
   deleteMe: () => call('DELETE', '/me'),
 };
 
@@ -69,14 +70,21 @@ export async function bootstrap() {
   }
 }
 
-// "Delete my data": the server forgets this player, and this device forgets
-// too — otherwise the next load would import the local history straight back.
-export async function forgetMe() {
-  await api.deleteMe();
+// Forget everything on this device. Also drops the imported flag — otherwise
+// the next load would have nothing to import anyway, but a later game would
+// find the flag set and skip a history that no longer exists.
+export function clearDevice() {
   for (const mode of Object.values(MODES)) clearStats(mode.key);
   try {
     localStorage.removeItem(IMPORTED_KEY);
   } catch {
     /* ignore */
   }
+}
+
+// "Delete my data": the server forgets this player, then this device forgets
+// too — otherwise the next load would import the local history straight back.
+export async function forgetMe() {
+  await api.deleteMe();
+  clearDevice();
 }

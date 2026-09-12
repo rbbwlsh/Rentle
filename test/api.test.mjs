@@ -315,6 +315,34 @@ test('the retention purge forgets what the privacy page says it forgets, and not
   await pg3.close();
 });
 
+test('GET /stats aggregates per mode: totals, players, this week, and today’s daily so far', async () => {
+  const pg4 = await PGlite.create();
+  const db4 = wrapPglite(pg4);
+  await migrate(db4, MIGRATIONS);
+  const today = londonDate();
+  const order = ['100', '200', '300'];
+  const todays = order[dailyIndex(order.length, today)];
+  for (const [id, pos] of [['100', 0], ['200', 1], ['300', 2]]) {
+    await db4.query("insert into listings (mode, id, price_amount, city, position) values ('rent', $1, 1000, 'Leeds', $2)", [id, pos]);
+  }
+  await db4.query("insert into listings (mode, id, price_amount, city, position) values ('buy', 900, 250000, 'Bristol', 0)");
+  const req = (route, opts) => handle(db4, new Request(`${ORIGIN}/api${route}`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify(opts) }));
+  // Two players: one plays today's daily and wins, one loses on another listing; one buy
+  // game — on the only buy listing, which is therefore today's buy daily too.
+  await req('/games', { mode: 'rent', listingId: todays, guesses: [1000] });
+  await req('/games', { mode: 'rent', listingId: order.find((id) => id !== todays), guesses: [1] });
+  await req('/games', { mode: 'buy', listingId: '900', guesses: [1] });
+
+  const res = await handle(db4, new Request(`${ORIGIN}/api/stats`));
+  assert.equal(res.status, 200);
+  assert.match(res.headers.get('cache-control'), /max-age=300/);
+  const { date, modes } = await res.json();
+  assert.equal(date, today);
+  assert.deepEqual(modes.rent, { games: 2, players: 2, wins: 1, weekGames: 2, today: { plays: 1, wins: 1 } });
+  assert.deepEqual(modes.buy, { games: 1, players: 1, wins: 0, weekGames: 1, today: { plays: 1, wins: 0 } });
+  await pg4.close();
+});
+
 test('with no database the API says so instead of crashing', async () => {
   const res = await handle(null, new Request(`${ORIGIN}/api/session`, { method: 'POST' }));
   assert.equal(res.status, 503);
